@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ book.name }} — Scattered Israelites Bible{% endblock %}
+
+{% block content %}
+<div class="mb-4">
+  <a href="{% url 'book-list' %}" class="text-sm text-blue-600 hover:underline">&larr; All Books</a>
+</div>
+
+<h1 class="text-2xl font-bold mb-2">{{ book.name }}</h1>
+<p class="text-sm text-gray-500 mb-6">{{ book.get_testament_display }} &middot; {{ chapters|length }} chapters</p>
+
+<div class="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 lg:grid-cols-12 gap-2 mb-8">
+  {% for ch in chapters %}
+  <a href="{% url 'chapter-view' book.osis_id ch %}"
+     class="block rounded border border-gray-200 bg-white py-2 text-center text-sm font-medium hover:bg-blue-50 hover:border-blue-300 transition">
+    {{ ch }}
+  </a>
+  {% endfor %}
+</div>
+
+<div class="flex gap-4 text-sm">
+  <a href="{% url 'api-export-json' book.osis_id %}" class="text-blue-600 hover:underline">Download JSON</a>
+  <a href="{% url 'api-export-csv' book.osis_id %}" class="text-blue-600 hover:underline">Download CSV</a>
+</div>
+{% endblock %}

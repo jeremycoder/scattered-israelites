@@ -1,0 +1,19 @@
+{% load reader_tags %}
+
+{% for verse in verses %}
+<div class="mb-6">
+  <div class="verse-words">
+    <span class="verse-number">{{ verse.verse }}</span>
+    {% for word in verse.words %}
+    <span class="word-cell"
+          hx-get="{% url 'word-detail-partial' word.id %}"
+          hx-target="#word-panel-content"
+          onclick="document.querySelectorAll('.word-cell.active').forEach(el => el.classList.remove('active')); this.classList.add('active');">
+      <span class="word-surface hebrew">{{ word.surface }}</span>
+      <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
+      <span class="word-morph-code">{{ word.morphology }}</span>
+    </span>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}

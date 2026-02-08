@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Scattered Israelites Bible{% endblock %}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'css/interlinear.css' %}">
+  <style>
+    /* Hebrew font stack */
+    .hebrew { font-family: "SBL Hebrew", "Ezra SIL", "Frank Ruehl CLM", "Noto Serif Hebrew", serif; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>
+
+  <nav class="bg-white border-b border-gray-200 px-4 py-3">
+    <div class="max-w-6xl mx-auto flex items-center justify-between">
+      <a href="{% url 'book-list' %}" class="text-xl font-bold tracking-tight">Scattered Israelites Bible</a>
+      <div class="flex gap-4 text-sm text-gray-600">
+        <a href="{% url 'book-list' %}" class="hover:text-gray-900">Books</a>
+        <a href="/api/" class="hover:text-gray-900">API</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="flex-1 max-w-6xl mx-auto w-full px-4 py-6">
+    {% block content %}{% endblock %}
+  </main>
+
+  {% include "reader/includes/attribution.html" %}
+
+  <script src="{% static 'js/reader.js' %}"></script>
+</body>
+</html>
