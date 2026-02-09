@@ -5,7 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}Scattered Israelites Bible{% endblock %}</title>
   {% block meta %}{% endblock %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            sand: {
+              50:  '#FDF8F0',
+              100: '#F9EFDE',
+              200: '#F0E1C4',
+              300: '#E4CEAB',
+              400: '#D4B896',
+              500: '#BFA27E',
+            },
+            parchment: '#F5ECD7',
+            earth: {
+              600: '#8B6914',
+              700: '#6B4F10',
+              800: '#4A3408',
+              900: '#2D1F04',
+            },
+            olive: {
+              600: '#5C6B3C',
+              700: '#4A5630',
+            },
+            sienna: {
+              500: '#A0522D',
+            },
+            gold: {
+              400: '#D4A843',
+              500: '#B8922E',
+              600: '#9A7A22',
+            },
+            iron: {
+              700: '#44403C',
+              800: '#292524',
+            },
+          },
+          fontFamily: {
+            heading: ['Cinzel', 'serif'],
+            body: ['"Source Serif 4"', 'Georgia', 'serif'],
+          },
+        },
+      },
+    }
+  </script>
   <script src="https://unpkg.com/htmx.org@2.0.4"></script>
   {% load static %}
   <link rel="stylesheet" href="{% static 'css/interlinear.css' %}">
@@ -14,14 +62,14 @@
     .hebrew { font-family: "SBL Hebrew", "Ezra SIL", "Frank Ruehl CLM", "Noto Serif Hebrew", serif; }
   </style>
 </head>
-<body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>
+<body class="bg-sand-50 text-earth-800 font-body min-h-screen flex flex-col" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>
 
-  <nav class="bg-white border-b border-gray-200 px-4 py-3">
+  <nav class="bg-earth-800 border-b-2 border-gold-400 px-4 py-3">
     <div class="max-w-6xl mx-auto flex items-center justify-between">
-      <a href="{% url 'book-list' %}" class="text-xl font-bold tracking-tight">Scattered Israelites Bible</a>
-      <div class="flex gap-4 text-sm text-gray-600">
-        <a href="{% url 'book-list' %}" class="hover:text-gray-900">Books</a>
-        <a href="/api/" class="hover:text-gray-900">API</a>
+      <a href="{% url 'book-list' %}" class="font-heading text-xl font-bold tracking-tight text-parchment">Scattered Israelites Bible</a>
+      <div class="flex gap-4 text-sm text-sand-300">
+        <a href="{% url 'book-list' %}" class="hover:text-gold-400 transition">Books</a>
+        <a href="/api/" class="hover:text-gold-400 transition">API</a>
       </div>
     </div>
   </nav>
@@ -30,7 +78,18 @@
     {% block content %}{% endblock %}
   </main>
 
-  {% include "reader/includes/attribution.html" %}
+  <footer class="mt-12 bg-earth-900 border-t-2 border-gold-400 py-8">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+      <p class="font-heading text-lg text-parchment mb-2">Scattered Israelites</p>
+      <p class="text-sm text-sand-400 mb-4">Restoring the ancient paths through the study of Scripture in its original tongue.</p>
+      <p class="text-xs text-sand-500">
+        Hebrew text from the
+        <a href="https://hb.openscriptures.org" class="underline hover:text-gold-400 transition" target="_blank" rel="noopener">Open Scriptures Hebrew Bible</a>,
+        licensed under
+        <a href="https://creativecommons.org/licenses/by/4.0/" class="underline hover:text-gold-400 transition" target="_blank" rel="noopener">CC BY 4.0</a>.
+      </p>
+    </div>
+  </footer>
 
   <script src="{% static 'js/reader.js' %}"></script>
 </body>

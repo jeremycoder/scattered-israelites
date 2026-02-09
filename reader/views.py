@@ -2,12 +2,31 @@ from django.shortcuts import get_object_or_404, render
 
 from lexicon.models import Book, HebrewMorphAnalysis, Lexeme, Verse, WordOccurrence
 
+# Torah / Nevi'im / Ketuvim grouping by OSIS ID
+TORAH_IDS = {'Gen', 'Exod', 'Lev', 'Num', 'Deut'}
+NEVIIM_IDS = {
+    'Josh', 'Judg', '1Sam', '2Sam', '1Kgs', '2Kgs',   # Former Prophets
+    'Isa', 'Jer', 'Ezek',                                # Major Prophets
+    'Hos', 'Joel', 'Amos', 'Obad', 'Jonah', 'Mic',      # Twelve
+    'Nah', 'Hab', 'Zeph', 'Hag', 'Zech', 'Mal',
+}
+KETUVIM_IDS = {
+    'Ps', 'Prov', 'Job',
+    'Song', 'Ruth', 'Lam', 'Eccl', 'Esth',
+    'Dan', 'Ezra', 'Neh', '1Chr', '2Chr',
+}
+
 
 def book_list(request):
     ot_books = Book.objects.filter(testament='ot')
+    torah_books = [b for b in ot_books if b.osis_id in TORAH_IDS]
+    neviim_books = [b for b in ot_books if b.osis_id in NEVIIM_IDS]
+    ketuvim_books = [b for b in ot_books if b.osis_id in KETUVIM_IDS]
     nt_books = Book.objects.filter(testament='nt')
     return render(request, 'reader/book_list.html', {
-        'ot_books': ot_books,
+        'torah_books': torah_books,
+        'neviim_books': neviim_books,
+        'ketuvim_books': ketuvim_books,
         'nt_books': nt_books,
     })
 

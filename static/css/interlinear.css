@@ -19,11 +19,11 @@
 }
 
 .word-cell:hover {
-  background-color: #dbeafe; /* blue-100 */
+  background-color: #F9EFDE; /* sand-100 */
 }
 
 .word-cell.active {
-  background-color: #bfdbfe; /* blue-200 */
+  background-color: #F0E1C4; /* sand-200 */
 }
 
 .word-surface {
@@ -35,13 +35,13 @@
 .word-gloss {
   font-size: 0.75rem;
   line-height: 1rem;
-  color: #6b7280; /* gray-500 */
+  color: #BFA27E; /* sand-500 */
   direction: ltr;
 }
 
 .word-morph-code {
   font-size: 0.625rem;
-  color: #9ca3af; /* gray-400 */
+  color: #D4B896; /* sand-400 */
   font-family: monospace;
 }
 
@@ -53,8 +53,8 @@
   width: 400px;
   max-width: 90vw;
   height: 100vh;
-  background: white;
-  box-shadow: -2px 0 8px rgba(0,0,0,0.1);
+  background: #F5ECD7; /* parchment */
+  box-shadow: -2px 0 8px rgba(74,52,8,0.15);
   z-index: 50;
   transition: right 0.25s ease;
   overflow-y: auto;
@@ -69,7 +69,7 @@
   display: none;
   position: fixed;
   inset: 0;
-  background: rgba(0,0,0,0.2);
+  background: rgba(45,31,4,0.3);
   z-index: 40;
 }
 
@@ -87,8 +87,8 @@
   padding: 0 0.25rem;
   font-size: 0.75rem;
   font-weight: 600;
-  color: #6b7280;
-  background: #f3f4f6;
+  color: #BFA27E; /* sand-500 */
+  background: #F0E1C4; /* sand-200 */
   border-radius: 9999px;
   margin-left: 0.25rem;
   direction: ltr;

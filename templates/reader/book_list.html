@@ -2,23 +2,45 @@
 {% block title %}Books — Scattered Israelites Bible{% endblock %}
 
 {% block content %}
-<h1 class="text-2xl font-bold mb-6">Old Testament</h1>
+<h1 class="font-heading text-2xl font-bold text-olive-600 mb-6">Torah <span class="text-sand-500 text-lg font-normal">(Teaching)</span></h1>
 
 <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3 mb-10">
-  {% for book in ot_books %}
+  {% for book in torah_books %}
   <a href="{% url 'chapter-list' book.slug %}"
-     class="block rounded-lg border border-gray-200 bg-white px-3 py-2 text-center text-sm font-medium hover:bg-blue-50 hover:border-blue-300 transition">
+     class="block rounded-lg border border-sand-200 bg-parchment px-3 py-2 text-center text-sm font-medium shadow-sm hover:border-gold-400 hover:shadow-md transition">
+    {{ book.name }}
+  </a>
+  {% endfor %}
+</div>
+
+<h2 class="font-heading text-2xl font-bold text-olive-600 mb-6">Nevi'im <span class="text-sand-500 text-lg font-normal">(Prophets)</span></h2>
+
+<div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3 mb-10">
+  {% for book in neviim_books %}
+  <a href="{% url 'chapter-list' book.slug %}"
+     class="block rounded-lg border border-sand-200 bg-parchment px-3 py-2 text-center text-sm font-medium shadow-sm hover:border-gold-400 hover:shadow-md transition">
+    {{ book.name }}
+  </a>
+  {% endfor %}
+</div>
+
+<h2 class="font-heading text-2xl font-bold text-olive-600 mb-6">Ketuvim <span class="text-sand-500 text-lg font-normal">(Writings)</span></h2>
+
+<div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3 mb-10">
+  {% for book in ketuvim_books %}
+  <a href="{% url 'chapter-list' book.slug %}"
+     class="block rounded-lg border border-sand-200 bg-parchment px-3 py-2 text-center text-sm font-medium shadow-sm hover:border-gold-400 hover:shadow-md transition">
     {{ book.name }}
   </a>
   {% endfor %}
 </div>
 
 {% if nt_books %}
-<h2 class="text-2xl font-bold mb-6">New Testament</h2>
+<h2 class="font-heading text-2xl font-bold text-olive-600 mb-6">New Testament</h2>
 <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3">
   {% for book in nt_books %}
   <a href="{% url 'chapter-list' book.slug %}"
-     class="block rounded-lg border border-gray-200 bg-white px-3 py-2 text-center text-sm font-medium hover:bg-blue-50 hover:border-blue-300 transition">
+     class="block rounded-lg border border-sand-200 bg-parchment px-3 py-2 text-center text-sm font-medium shadow-sm hover:border-gold-400 hover:shadow-md transition">
     {{ book.name }}
   </a>
   {% endfor %}
