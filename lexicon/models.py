@@ -33,6 +33,7 @@ class Book(models.Model):
 
     osis_id = models.CharField(max_length=16, unique=True)
     name = models.CharField(max_length=64)
+    slug = models.SlugField(max_length=64, unique=True)
     testament = models.CharField(max_length=2, choices=TESTAMENT_CHOICES)
     canonical_order = models.PositiveSmallIntegerField()
 
@@ -75,6 +76,7 @@ class WordOccurrence(models.Model):
     parsing = models.CharField(max_length=64, blank=True)
     variant = models.CharField(max_length=64, blank=True)
     normalized = models.TextField(blank=True)
+    slug = models.CharField(max_length=128, blank=True, default='')
 
     class Meta:
         ordering = ['verse__book__canonical_order', 'verse__chapter', 'verse__verse', 'position']
@@ -82,6 +84,12 @@ class WordOccurrence(models.Model):
             models.Index(fields=['strongs_id']),
             models.Index(fields=['lemma']),
             models.Index(fields=['language']),
+        ]
+        constraints = [
+            models.UniqueConstraint(
+                fields=['verse', 'slug'],
+                name='unique_word_slug_per_verse',
+            ),
         ]
 
     def __str__(self) -> str:

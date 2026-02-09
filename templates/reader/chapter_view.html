@@ -4,21 +4,21 @@
 {% block content %}
 <div class="mb-4 flex items-center justify-between">
   <div>
-    <a href="{% url 'chapter-list' book.osis_id %}" class="text-sm text-blue-600 hover:underline">&larr; {{ book.name }}</a>
+    <a href="{% url 'chapter-list' book.slug %}" class="text-sm text-blue-600 hover:underline">&larr; {{ book.name }}</a>
   </div>
   <div class="flex gap-3 text-sm">
     {% if prev_chapter %}
-    <a href="{% url 'chapter-view' book.osis_id prev_chapter %}"
-       hx-get="{% url 'verse-list-partial' book.osis_id prev_chapter %}"
+    <a href="{% url 'chapter-view' book.slug prev_chapter %}"
+       hx-get="{% url 'verse-list-partial' book.slug prev_chapter %}"
        hx-target="#verse-container"
-       hx-push-url="{% url 'chapter-view' book.osis_id prev_chapter %}"
+       hx-push-url="{% url 'chapter-view' book.slug prev_chapter %}"
        class="text-blue-600 hover:underline">&larr; Chapter {{ prev_chapter }}</a>
     {% endif %}
     {% if next_chapter %}
-    <a href="{% url 'chapter-view' book.osis_id next_chapter %}"
-       hx-get="{% url 'verse-list-partial' book.osis_id next_chapter %}"
+    <a href="{% url 'chapter-view' book.slug next_chapter %}"
+       hx-get="{% url 'verse-list-partial' book.slug next_chapter %}"
        hx-target="#verse-container"
-       hx-push-url="{% url 'chapter-view' book.osis_id next_chapter %}"
+       hx-push-url="{% url 'chapter-view' book.slug next_chapter %}"
        class="text-blue-600 hover:underline">Chapter {{ next_chapter }} &rarr;</a>
     {% endif %}
   </div>
@@ -45,18 +45,18 @@
 <!-- Bottom navigation -->
 <div class="mt-8 flex justify-between text-sm">
   {% if prev_chapter %}
-  <a href="{% url 'chapter-view' book.osis_id prev_chapter %}"
-     hx-get="{% url 'verse-list-partial' book.osis_id prev_chapter %}"
+  <a href="{% url 'chapter-view' book.slug prev_chapter %}"
+     hx-get="{% url 'verse-list-partial' book.slug prev_chapter %}"
      hx-target="#verse-container"
-     hx-push-url="{% url 'chapter-view' book.osis_id prev_chapter %}"
+     hx-push-url="{% url 'chapter-view' book.slug prev_chapter %}"
      class="text-blue-600 hover:underline">&larr; Chapter {{ prev_chapter }}</a>
   {% else %}<span></span>{% endif %}
 
   {% if next_chapter %}
-  <a href="{% url 'chapter-view' book.osis_id next_chapter %}"
-     hx-get="{% url 'verse-list-partial' book.osis_id next_chapter %}"
+  <a href="{% url 'chapter-view' book.slug next_chapter %}"
+     hx-get="{% url 'verse-list-partial' book.slug next_chapter %}"
      hx-target="#verse-container"
-     hx-push-url="{% url 'chapter-view' book.osis_id next_chapter %}"
+     hx-push-url="{% url 'chapter-view' book.slug next_chapter %}"
      class="text-blue-600 hover:underline">Chapter {{ next_chapter }} &rarr;</a>
   {% else %}<span></span>{% endif %}
 </div>

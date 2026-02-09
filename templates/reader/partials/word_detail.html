@@ -34,4 +34,13 @@
     </table>
   </div>
   {% endif %}
+
+  {% if word.slug %}
+  <div class="border-t pt-3 text-center">
+    <a href="{% url 'word-view' word.verse.book.slug word.verse.chapter word.verse.verse word.slug %}"
+       class="inline-block text-sm text-blue-600 hover:underline font-medium">
+      View full page &rarr;
+    </a>
+  </div>
+  {% endif %}
 </div>

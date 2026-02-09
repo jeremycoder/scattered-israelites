@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% load reader_tags %}
+{% block title %}{{ book.name }} {{ chapter }}:{{ verse_num }} — Scattered Israelites Bible{% endblock %}
+
+{% block meta %}
+<meta name="description" content="{{ meta_description }}">
+<meta property="og:title" content="{{ book.name }} {{ chapter }}:{{ verse_num }} — Scattered Israelites Bible">
+<meta property="og:description" content="{{ meta_description }}">
+{% endblock %}
+
+{% block content %}
+<div class="mb-4 flex items-center justify-between">
+  <div>
+    <a href="{% url 'chapter-view' book.slug chapter %}" class="text-sm text-blue-600 hover:underline">&larr; {{ book.name }} {{ chapter }}</a>
+  </div>
+  <div class="flex gap-3 text-sm">
+    {% if prev_verse %}
+    <a href="{% url 'verse-view' book.slug chapter prev_verse %}"
+       class="text-blue-600 hover:underline">&larr; Verse {{ prev_verse }}</a>
+    {% endif %}
+    {% if next_verse %}
+    <a href="{% url 'verse-view' book.slug chapter next_verse %}"
+       class="text-blue-600 hover:underline">Verse {{ next_verse }} &rarr;</a>
+    {% endif %}
+  </div>
+</div>
+
+<h1 class="text-2xl font-bold mb-6">{{ book.name }} {{ chapter }}:{{ verse_num }}</h1>
+
+<div class="bg-white rounded-lg border border-gray-200 p-6 mb-8">
+  <div class="verse-words">
+    {% for word in words %}
+    <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
+       class="word-cell hover:bg-blue-100 no-underline">
+      <span class="word-surface hebrew">{{ word.surface }}</span>
+      <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
+      <span class="word-morph-code">{{ word.morphology }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+
+<h2 class="text-lg font-semibold mb-4">Words in this verse</h2>
+<div class="overflow-x-auto">
+  <table class="w-full text-sm bg-white rounded-lg border border-gray-200">
+    <thead class="bg-gray-50">
+      <tr>
+        <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">#</th>
+        <th class="px-3 py-2 text-right text-xs font-medium text-gray-500 uppercase">Hebrew</th>
+        <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">Gloss</th>
+        <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">Morphology</th>
+        <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">Strong's</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-100">
+      {% for word in words %}
+      <tr class="hover:bg-gray-50">
+        <td class="px-3 py-2 text-gray-400">{{ word.position }}</td>
+        <td class="px-3 py-2 text-right">
+          <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
+             class="hebrew text-lg text-blue-700 hover:underline" dir="rtl">{{ word.surface }}</a>
+        </td>
+        <td class="px-3 py-2">{{ glosses|dict_get:word.strongs_id }}</td>
+        <td class="px-3 py-2 font-mono text-xs text-gray-500">{{ word.morphology }}</td>
+        <td class="px-3 py-2 text-gray-500">{{ word.strongs_id|default:"" }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<div class="mt-8 flex justify-between text-sm">
+  {% if prev_verse %}
+  <a href="{% url 'verse-view' book.slug chapter prev_verse %}"
+     class="text-blue-600 hover:underline">&larr; Verse {{ prev_verse }}</a>
+  {% else %}<span></span>{% endif %}
+
+  {% if next_verse %}
+  <a href="{% url 'verse-view' book.slug chapter next_verse %}"
+     class="text-blue-600 hover:underline">Verse {{ next_verse }} &rarr;</a>
+  {% else %}<span></span>{% endif %}
+</div>
+{% endblock %}

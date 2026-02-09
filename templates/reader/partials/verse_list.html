@@ -3,7 +3,8 @@
 {% for verse in verses %}
 <div class="mb-6">
   <div class="verse-words">
-    <span class="verse-number">{{ verse.verse }}</span>
+    <a href="{% url 'verse-view' book.slug chapter verse.verse %}"
+       class="verse-number hover:bg-blue-100 hover:text-blue-700 transition">{{ verse.verse }}</a>
     {% for word in verse.words %}
     <span class="word-cell"
           hx-get="{% url 'word-detail-partial' word.id %}"

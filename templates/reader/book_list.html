@@ -6,7 +6,7 @@
 
 <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3 mb-10">
   {% for book in ot_books %}
-  <a href="{% url 'chapter-list' book.osis_id %}"
+  <a href="{% url 'chapter-list' book.slug %}"
      class="block rounded-lg border border-gray-200 bg-white px-3 py-2 text-center text-sm font-medium hover:bg-blue-50 hover:border-blue-300 transition">
     {{ book.name }}
   </a>
@@ -17,7 +17,7 @@
 <h2 class="text-2xl font-bold mb-6">New Testament</h2>
 <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-3">
   {% for book in nt_books %}
-  <a href="{% url 'chapter-list' book.osis_id %}"
+  <a href="{% url 'chapter-list' book.slug %}"
      class="block rounded-lg border border-gray-200 bg-white px-3 py-2 text-center text-sm font-medium hover:bg-blue-50 hover:border-blue-300 transition">
     {{ book.name }}
   </a>

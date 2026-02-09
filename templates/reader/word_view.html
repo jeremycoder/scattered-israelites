@@ -1,0 +1,124 @@
+{% extends "base.html" %}
+{% load reader_tags %}
+{% block title %}{{ meta_title }}{% endblock %}
+
+{% block meta %}
+<meta name="description" content="{{ meta_description }}">
+<meta property="og:title" content="{{ meta_title }}">
+<meta property="og:description" content="{{ meta_description }}">
+{% endblock %}
+
+{% block content %}
+<div class="mb-4">
+  <a href="{% url 'verse-view' book.slug chapter verse_num %}" class="text-sm text-blue-600 hover:underline">&larr; {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
+</div>
+
+<!-- Main word display -->
+<div class="bg-white rounded-lg border border-gray-200 p-8 mb-8 text-center">
+  <p class="text-5xl hebrew mb-3" dir="rtl">{{ word.surface }}</p>
+  {% if transliteration %}
+  <p class="text-xl text-gray-600 italic mb-2">{{ transliteration }}</p>
+  {% endif %}
+  {% if gloss %}
+  <p class="text-lg text-gray-700">{{ gloss }}</p>
+  {% endif %}
+  <p class="text-sm text-gray-400 mt-3">{{ book.name }} {{ chapter }}:{{ verse_num }} &middot; Word #{{ word.position }}</p>
+</div>
+
+<!-- Verse in context -->
+<div class="mb-8">
+  <h2 class="text-lg font-semibold mb-3">Verse in Context</h2>
+  <div class="bg-white rounded-lg border border-gray-200 p-5">
+    <div class="verse-words">
+      {% for w in verse_words %}
+      {% if w.id == word.id %}
+      <span class="word-cell bg-blue-100 ring-2 ring-blue-300 rounded">
+        <span class="word-surface hebrew font-bold">{{ w.surface }}</span>
+        <span class="word-gloss font-semibold">{{ glosses|dict_get:w.strongs_id }}</span>
+      </span>
+      {% else %}
+      <a href="{% url 'word-view' book.slug chapter verse_num w.slug %}"
+         class="word-cell hover:bg-gray-100 no-underline">
+        <span class="word-surface hebrew">{{ w.surface }}</span>
+        <span class="word-gloss">{{ glosses|dict_get:w.strongs_id }}</span>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="grid md:grid-cols-2 gap-6 mb-8">
+  <!-- Morphology -->
+  {% if analysis %}
+  <div>
+    <h2 class="text-lg font-semibold mb-3">Morphology</h2>
+    <div class="bg-white rounded-lg border border-gray-200 p-5">
+      <table class="w-full text-sm">
+        <tr><td class="text-gray-500 pr-3 py-1">Raw Code</td><td class="font-mono text-xs py-1">{{ word.morphology }}</td></tr>
+        <tr><td class="text-gray-500 pr-3 py-1">Part of Speech</td><td class="py-1">{{ analysis.part_of_speech }}</td></tr>
+        {% if analysis.subtype %}<tr><td class="text-gray-500 pr-3 py-1">Subtype</td><td class="py-1">{{ analysis.subtype }}</td></tr>{% endif %}
+        {% if analysis.binyan %}<tr><td class="text-gray-500 pr-3 py-1">Binyan</td><td class="py-1">{{ analysis.binyan }}</td></tr>{% endif %}
+        {% if analysis.conjugation %}<tr><td class="text-gray-500 pr-3 py-1">Conjugation</td><td class="py-1">{{ analysis.conjugation }}</td></tr>{% endif %}
+        {% if analysis.person %}<tr><td class="text-gray-500 pr-3 py-1">Person</td><td class="py-1">{{ analysis.person }}</td></tr>{% endif %}
+        {% if analysis.gender %}<tr><td class="text-gray-500 pr-3 py-1">Gender</td><td class="py-1">{{ analysis.gender }}</td></tr>{% endif %}
+        {% if analysis.number %}<tr><td class="text-gray-500 pr-3 py-1">Number</td><td class="py-1">{{ analysis.number }}</td></tr>{% endif %}
+        {% if analysis.state %}<tr><td class="text-gray-500 pr-3 py-1">State</td><td class="py-1">{{ analysis.state }}</td></tr>{% endif %}
+        {% if analysis.definiteness %}<tr><td class="text-gray-500 pr-3 py-1">Definiteness</td><td class="py-1">{{ analysis.definiteness }}</td></tr>{% endif %}
+        {% if analysis.suffix_person %}<tr><td class="text-gray-500 pr-3 py-1">Suffix Person</td><td class="py-1">{{ analysis.suffix_person }}</td></tr>{% endif %}
+        {% if analysis.suffix_gender %}<tr><td class="text-gray-500 pr-3 py-1">Suffix Gender</td><td class="py-1">{{ analysis.suffix_gender }}</td></tr>{% endif %}
+        {% if analysis.suffix_number %}<tr><td class="text-gray-500 pr-3 py-1">Suffix Number</td><td class="py-1">{{ analysis.suffix_number }}</td></tr>{% endif %}
+      </table>
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- Lexicon -->
+  <div>
+    <h2 class="text-lg font-semibold mb-3">Lexicon</h2>
+    <div class="bg-white rounded-lg border border-gray-200 p-5">
+      <table class="w-full text-sm">
+        <tr><td class="text-gray-500 pr-3 py-1">Lemma</td><td class="hebrew text-lg py-1" dir="rtl">{{ word.lemma }}</td></tr>
+        {% if word.strongs_id %}<tr><td class="text-gray-500 pr-3 py-1">Strong's</td><td class="py-1">{{ word.strongs_id }}</td></tr>{% endif %}
+        {% if transliteration %}<tr><td class="text-gray-500 pr-3 py-1">Transliteration</td><td class="py-1 italic">{{ transliteration }}</td></tr>{% endif %}
+        {% if gloss %}<tr><td class="text-gray-500 pr-3 py-1">Gloss</td><td class="py-1">{{ gloss }}</td></tr>{% endif %}
+        {% if definition %}<tr><td class="text-gray-500 pr-3 py-1">Definition</td><td class="py-1 text-xs">{{ definition }}</td></tr>{% endif %}
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Morphemes -->
+{% if morphemes %}
+<div class="mb-8">
+  <h2 class="text-lg font-semibold mb-3">Word Construction</h2>
+  <div class="bg-white rounded-lg border border-gray-200 overflow-hidden">
+    <table class="w-full text-sm">
+      <thead class="bg-gray-50">
+        <tr>
+          <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">Slot</th>
+          <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">Type</th>
+          <th class="px-3 py-2 text-right text-xs font-medium text-gray-500 uppercase">Form</th>
+          <th class="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase">Gloss</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-gray-100">
+        {% for m in morphemes %}
+        <tr>
+          <td class="px-3 py-2 text-gray-500">{{ m.slot }}</td>
+          <td class="px-3 py-2">{{ m.type }}</td>
+          <td class="px-3 py-2 text-right hebrew text-lg" dir="rtl">{{ m.form }}</td>
+          <td class="px-3 py-2">{{ m.gloss|default:"" }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endif %}
+
+<div class="mt-8">
+  <a href="{% url 'verse-view' book.slug chapter verse_num %}"
+     class="text-sm text-blue-600 hover:underline">&larr; Back to {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
+</div>
+{% endblock %}

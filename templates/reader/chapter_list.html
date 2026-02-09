@@ -11,7 +11,7 @@
 
 <div class="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 lg:grid-cols-12 gap-2 mb-8">
   {% for ch in chapters %}
-  <a href="{% url 'chapter-view' book.osis_id ch %}"
+  <a href="{% url 'chapter-view' book.slug ch %}"
      class="block rounded border border-gray-200 bg-white py-2 text-center text-sm font-medium hover:bg-blue-50 hover:border-blue-300 transition">
     {{ ch }}
   </a>
