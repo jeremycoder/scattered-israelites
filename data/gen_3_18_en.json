@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/ק֥וֹץ",
+        "phrase": "and thorns",
+        "literal": "and-thorn",
+        "source": "KJV, ESV, NASB (thorns)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/דַרְדַּ֖ר",
+        "phrase": "and thistles",
+        "literal": "and-thistle",
+        "source": "KJV, ESV, NASB (thistles)"
+      },
+      {
+        "position": 3,
+        "surface": "תַּצְמִ֣יחַֽ",
+        "phrase": "it shall bring forth",
+        "literal": "it-will-cause-to-sprout",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לָ֑/ךְ",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB (dative pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָכַלְתָּ֖",
+        "phrase": "and you shall eat",
+        "literal": "and-you-will-eat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "Standard Hebrew particle (untranslated in English)"
+      },
+      {
+        "position": 7,
+        "surface": "עֵ֥שֶׂב",
+        "phrase": "the plants",
+        "literal": "grass-plant",
+        "source": "KJV (herb), ESV/NASB (plants)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שָּׂדֶֽה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

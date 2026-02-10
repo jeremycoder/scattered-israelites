@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אָדָ֑ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/אִשָּׁה֙",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "whom",
+        "literal": "which/who",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "נָתַ֣תָּה",
+        "phrase": "you gave",
+        "literal": "you-gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עִמָּדִ֔/י",
+        "phrase": "to be with me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הִ֛וא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "נָֽתְנָה",
+        "phrase": "gave",
+        "literal": "gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לִּ֥/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עֵ֖ץ",
+        "phrase": "the tree",
+        "literal": "the-tree",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וָ/אֹכֵֽל",
+        "phrase": "and I ate",
+        "literal": "and-I-ate",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

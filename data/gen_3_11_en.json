@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מִ֚י",
+        "phrase": "who",
+        "literal": "who",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "הִגִּ֣יד",
+        "phrase": "told",
+        "literal": "caused_to_know",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/ךָ֔",
+        "phrase": "you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "עֵירֹ֖ם",
+        "phrase": "naked",
+        "literal": "naked",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "אָ֑תָּה",
+        "phrase": "you are",
+        "literal": "you",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "הֲ/מִן",
+        "phrase": "have you eaten from",
+        "literal": "interrogative-from",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֵ֗ץ",
+        "phrase": "the tree",
+        "literal": "the-tree",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "צִוִּיתִ֛י/ךָ",
+        "phrase": "I commanded you",
+        "literal": "I_commanded-you",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/בִלְתִּ֥י",
+        "phrase": "not",
+        "literal": "to_not",
+        "source": "KJV, ESV, NASB, NET (infinitive construct negation)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲכָל",
+        "phrase": "to eat",
+        "literal": "to_eat",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 14,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "from it",
+        "literal": "from-it",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 15,
+        "surface": "אָכָֽלְתָּ",
+        "phrase": "you eaten?",
+        "literal": "you_ate",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "קֹלְ/ךָ֥",
+        "phrase": "your voice",
+        "literal": "voice-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁמַ֖עְתִּי",
+        "phrase": "I heard",
+        "literal": "I_heard",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/גָּ֑ן",
+        "phrase": "in the garden",
+        "literal": "in_the-garden",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אִירָ֛א",
+        "phrase": "and I was afraid",
+        "literal": "and-I_feared",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, ESV, NASB; subordinating conjunction"
+      },
+      {
+        "position": 8,
+        "surface": "עֵירֹ֥ם",
+        "phrase": "I was naked",
+        "literal": "naked",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "אָנֹ֖כִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "emphatic pronoun; KJV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וָ/אֵחָבֵֽא",
+        "phrase": "and I hid",
+        "literal": "and-I_hid",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

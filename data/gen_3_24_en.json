@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְגָ֖רֶשׁ",
+        "phrase": "he drove out",
+        "literal": "and-he_drove_out",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/אָדָ֑ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּשְׁכֵּן֩",
+        "phrase": "and he stationed",
+        "literal": "and-he_caused_to_dwell",
+        "source": "NASB 'placed', Chabad 'stationed', Mechon-Mamre 'placed'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/קֶּ֨דֶם",
+        "phrase": "at the east of",
+        "literal": "from_east",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/גַן",
+        "phrase": "of the garden",
+        "literal": "to_garden",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עֵ֜דֶן",
+        "phrase": "Eden",
+        "literal": "Eden",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/כְּרֻבִ֗ים",
+        "phrase": "the cherubim",
+        "literal": "the-cherubim",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵ֨ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative_marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "לַ֤הַט",
+        "phrase": "the flame",
+        "literal": "the_flame",
+        "source": "NASB 'flaming', Chabad 'blade', Mechon-Mamre 'flaming'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/חֶ֨רֶב֙",
+        "phrase": "of the sword",
+        "literal": "the-sword",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מִּתְהַפֶּ֔כֶת",
+        "phrase": "which turned every way",
+        "literal": "the-turning_itself",
+        "source": "KJV 'turned every way', NASB 'turned every direction', Mechon-Mamre 'turned every way'"
+      },
+      {
+        "position": 14,
+        "surface": "לִ/שְׁמֹ֕ר",
+        "phrase": "to guard",
+        "literal": "to_keep",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 16,
+        "surface": "דֶּ֖רֶךְ",
+        "phrase": "the way",
+        "literal": "way",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "עֵ֥ץ",
+        "phrase": "of the tree",
+        "literal": "tree",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "הַֽ/חַיִּֽים",
+        "phrase": "of life",
+        "literal": "the-life",
+        "source": "KJV 'of life', ESV 'of life', NASB 'of life'"
+      }
+    ]
+  }
+]

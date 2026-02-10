@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נָּחָ֖שׁ",
+        "phrase": "the serpent",
+        "literal": "the-serpent",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "standard preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/אִשָּׁ֑ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לֹֽא",
+        "phrase": "Not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מ֖וֹת",
+        "phrase": "die",
+        "literal": "dying",
+        "source": "KJV, ESV, NASB (infinitive construct of mut)"
+      },
+      {
+        "position": 7,
+        "surface": "תְּמֻתֽוּ/ן",
+        "phrase": "you will die",
+        "literal": "you_all-will_die",
+        "source": "KJV (\"ye shall not surely die\"), ESV (\"You will not surely die\"), NASB (\"You will not certainly die\")"
+      }
+    ]
+  }
+]

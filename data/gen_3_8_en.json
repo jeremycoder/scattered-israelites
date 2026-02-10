@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יִּשְׁמְע֞וּ",
+        "phrase": "and they heard",
+        "literal": "and-they_heard",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew grammar particle"
+      },
+      {
+        "position": 3,
+        "surface": "ק֨וֹל",
+        "phrase": "sound",
+        "literal": "voice-sound",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֧ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "מִתְהַלֵּ֥ךְ",
+        "phrase": "walking",
+        "literal": "walking_around",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/גָּ֖ן",
+        "phrase": "in the garden",
+        "literal": "in_the-garden",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/ר֣וּחַ",
+        "phrase": "in the cool",
+        "literal": "to_wind-breeze",
+        "source": "ESV (wind), NASB (cool)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֑וֹם",
+        "phrase": "of the day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּתְחַבֵּ֨א",
+        "phrase": "and they hid",
+        "literal": "and-they_hid_themselves",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/אָדָ֜ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אִשְׁתּ֗/וֹ",
+        "phrase": "and his wife",
+        "literal": "and-wife-his",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/פְּנֵי֙",
+        "phrase": "from the presence",
+        "literal": "from_face",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "יְהוָ֣ה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 15,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 16,
+        "surface": "בְּ/ת֖וֹךְ",
+        "phrase": "among",
+        "literal": "in_midst",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 17,
+        "surface": "עֵ֥ץ",
+        "phrase": "the trees",
+        "literal": "tree",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/גָּֽן",
+        "phrase": "of the garden",
+        "literal": "the-garden",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

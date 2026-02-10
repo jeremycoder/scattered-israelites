@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֛א",
+        "phrase": "called",
+        "literal": "and-he_called",
+        "source": "wayyiqra‘ (vav-consecutive qal imperfect 3ms from qārā’; speech introductory verb); KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֥ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "proper name of God; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Elohim (divine title); KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition ’el; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/אָדָ֑ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "hā’āḏām (definite article + ’āḏām ‘humankind/man’); KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "wayyō’mer (vav-consecutive qal imperfect 3ms from ’āmar; speech verb, hendiadys with prior verb); KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "lō (preposition lə- + 3ms pronominal suffix); KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אַיֶּֽ/כָּה",
+        "phrase": "Where are you?",
+        "literal": "where-are_you?",
+        "source": "’ayyēkā (interrogative ’ayyēh + 2ms pronominal suffix); KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִ/פְּרִ֣י",
+        "phrase": "but from the fruit",
+        "literal": "and-from-fruit",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֵץ֮",
+        "phrase": "of the tree",
+        "literal": "the-tree",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative particle; KJV, ESV, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/תוֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גָּן֒",
+        "phrase": "the garden",
+        "literal": "the-garden",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אָמַ֣ר",
+        "phrase": "said",
+        "literal": "he-said",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִ֗ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "תֹֽאכְלוּ֙",
+        "phrase": "you shall eat",
+        "literal": "you(pl)-eat",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מִמֶּ֔/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "תִגְּע֖וּ",
+        "phrase": "touch",
+        "literal": "you(pl)-touch",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בּ֑/וֹ",
+        "phrase": "it",
+        "literal": "in-it",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "subordinating particle; KJV, ESV, NIV"
+      },
+      {
+        "position": 15,
+        "surface": "תְּמֻתֽוּ/ן",
+        "phrase": "you die",
+        "literal": "you(pl)-die",
+        "source": "KJV, ESV, NIV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/זֵעַ֤ת",
+        "phrase": "by the sweat",
+        "literal": "in-sweat",
+        "source": "KJV, ESV, NASB: 'in the sweat of thy/your face'"
+      },
+      {
+        "position": 2,
+        "surface": "אַפֶּ֨י/ךָ֙",
+        "phrase": "of your face",
+        "literal": "nose-your",
+        "source": "KJV, ESV, NASB: idiomatic for 'brow' or 'face'"
+      },
+      {
+        "position": 3,
+        "surface": "תֹּ֣אכַל",
+        "phrase": "you shall eat",
+        "literal": "you-will-eat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לֶ֔חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "KJV, ESV, NASB; represents food in general [1]"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֤ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "preposition of temporal limit; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שֽׁוּבְ/ךָ֙",
+        "phrase": "your return",
+        "literal": "return-your",
+        "source": "KJV, ESV, NASB: 'thou/your return'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הָ֣/אֲדָמָ֔ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB; 'earth' or 'soil' [1]"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "causal particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מִמֶּ֖/נָּה",
+        "phrase": "from it",
+        "literal": "from-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לֻקָּ֑חְתָּ",
+        "phrase": "you were taken",
+        "literal": "you-were-taken",
+        "source": "KJV, ESV, NASB: passive 'wast/were taken' [1]"
+      },
+      {
+        "position": 12,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "causal particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "עָפָ֣ר",
+        "phrase": "dust",
+        "literal": "dust",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 14,
+        "surface": "אַ֔תָּה",
+        "phrase": "you are",
+        "literal": "you",
+        "source": "emphatic pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "conjunction + preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "עָפָ֖ר",
+        "phrase": "dust",
+        "literal": "dust",
+        "source": "KJV, ESV, NASB; repetition for emphasis [1]"
+      },
+      {
+        "position": 17,
+        "surface": "תָּשֽׁוּב",
+        "phrase": "you shall return",
+        "literal": "you-will-return",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּקְרָא",
+        "phrase": "and he called",
+        "literal": "and-he.called",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "הָאָדָם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אִשְׁתּוֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "חַוָּה",
+        "phrase": "Eve",
+        "literal": "Havvah",
+        "source": "Hebrew name; transliterated as Eve in English; Septuagint renders as Zoe (life)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, NASB, ESV, NIV; introduces the explanation for the name"
+      },
+      {
+        "position": 7,
+        "surface": "הִוא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "הָיְתָה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "אֵם",
+        "phrase": "mother",
+        "literal": "mother",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "חַי",
+        "phrase": "the living",
+        "literal": "living",
+        "source": "KJV, NASB, ESV, NIV; Hebrew ḥay (life/living)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעַשׂ֩",
+        "phrase": "and made",
+        "literal": "and-made",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect 3ms of עשה)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֨ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֜ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אָדָ֧ם",
+        "phrase": "for Adam",
+        "literal": "to/for-Adam",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/אִשְׁתּ֛/וֹ",
+        "phrase": "and for his wife",
+        "literal": "and-to/for-wife-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָּתְנ֥וֹת",
+        "phrase": "garments",
+        "literal": "tunics-garments",
+        "source": "KJV ('coats'), ESV/NASB ('garments')"
+      },
+      {
+        "position": 7,
+        "surface": "ע֖וֹר",
+        "phrase": "of skin",
+        "literal": "skin-leather",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּלְבִּשֵֽׁ/ם",
+        "phrase": "and clothed them",
+        "literal": "and-caused-to-clothe-them",
+        "source": "KJV, ESV, NASB (waw-consecutive + Hiphil perfect 3ms of לבש)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽיְשַׁלְּחֵ֛הוּ",
+        "phrase": "sent him out",
+        "literal": "and-sent_out-him",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֥ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/גַּן",
+        "phrase": "from the garden",
+        "literal": "from-garden",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "עֵ֑דֶן",
+        "phrase": "of Eden",
+        "literal": "Eden",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לַֽעֲבֹד֙",
+        "phrase": "to work",
+        "literal": "to-serve/work",
+        "source": "KJV (till), ESV (work), NASB (cultivate)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "grammatical particle (untranslated in English)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ֣אֲדָמָ֔ה",
+        "phrase": "the ground",
+        "literal": "the-ground/soil",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לֻקַּ֖ח",
+        "phrase": "he had been taken",
+        "literal": "he_was_taken",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/שָּֽׁם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

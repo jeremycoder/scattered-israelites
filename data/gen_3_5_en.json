@@ -1,0 +1,108 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 2,
+        "surface": "יֹדֵ֣עַ",
+        "phrase": "knows",
+        "literal": "knowing-qal-participle-ms",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֗י",
+        "phrase": "that",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (explanatory particle)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/יוֹם֙",
+        "phrase": "in the day",
+        "literal": "in-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲכָלְ/כֶ֣ם",
+        "phrase": "you eat",
+        "literal": "eat-qal-infinitive-construct-you(pl)"
+      },
+      {
+        "position": 7,
+        "surface": "מִמֶּ֔/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נִפְקְח֖וּ",
+        "phrase": "will be opened",
+        "literal": "and-opened-niphal-perfect-3pl",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עֵֽינֵי/כֶ֑ם",
+        "phrase": "your eyes",
+        "literal": "eyes-your(pl)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וִ/הְיִיתֶם֙",
+        "phrase": "you will be",
+        "literal": "and-you(will)-be-qal-perfect-2pl",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כֵּֽ/אלֹהִ֔ים",
+        "phrase": "like God",
+        "literal": "like-God",
+        "source": "KJV, ESV, NASB; NET notes 'like divine beings' as alternative"
+      },
+      {
+        "position": 12,
+        "surface": "יֹדְעֵ֖י",
+        "phrase": "knowing",
+        "literal": "knowing-qal-participle-mp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "ט֥וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וָ/רָֽע",
+        "phrase": "and evil",
+        "literal": "and-evil",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

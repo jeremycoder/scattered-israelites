@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתֹּאמֶר",
+        "phrase": "said",
+        "literal": "and-she.said",
+        "source": "Wayyiqtol form: vav-consecutive + qal imperfect 3fs of אמר (amar). KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הָאִשָּׁה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "Definite feminine singular noun. KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition indicating direction or recipient. KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "הַנָּחָשׁ",
+        "phrase": "the serpent",
+        "literal": "the-serpent",
+        "source": "Definite masculine singular noun (nahash). KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "מִפְּרִי",
+        "phrase": "of the fruit",
+        "literal": "from-fruit",
+        "source": "Preposition min (from) + construct masculine singular noun pri (fruit). KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "עֵץ",
+        "phrase": "of the tree",
+        "literal": "tree",
+        "source": "Masculine singular noun (etz) in construct state. KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "הַגָּן",
+        "phrase": "of the garden",
+        "literal": "the-garden",
+        "source": "Definite masculine singular noun (gan). KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "נֹאכֵל",
+        "phrase": "we may eat",
+        "literal": "we.eat",
+        "source": "Qal imperfect 1cp of אכל (akal). NET notes this omits the emphatic infinitive absolute found in Genesis 2:16, reducing the sense of 'eating to one's heart's content'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition denoting motion or direction; ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "הָאִשָּׁ֣ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "definite article + feminine singular noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "אָמַ֗ר",
+        "phrase": "he said",
+        "literal": "he-said",
+        "source": "3rd masculine singular perfect; ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "הַרְבָּ֤ה",
+        "phrase": "greatly multiply / multiplying",
+        "literal": "multiply-infinitive.absolute",
+        "source": "infinitive absolute for emphasis; ESV 'I will surely multiply', NASB 'I will greatly multiply', KJV 'I will greatly multiply'"
+      },
+      {
+        "position": 5,
+        "surface": "אַרְבֶּה֙",
+        "phrase": "I will multiply",
+        "literal": "I-will-multiply",
+        "source": "1st singular imperfect; Hebrew idiom with infinitive absolute for emphasis; ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "עִצְּבוֹנֵ֣ךְ",
+        "phrase": "your pain / your sorrowful toil",
+        "literal": "pain-your",
+        "source": "noun construct with 2nd feminine singular possessive suffix; 'itsbon' means sorrowful toil or labor pain; ESV 'your pain', NASB 'your pain', KJV 'thy sorrow'"
+      },
+      {
+        "position": 7,
+        "surface": "וְהֵֽרֹנֵ֔ךְ",
+        "phrase": "and your conception / and your pregnancy",
+        "literal": "and-conception-your",
+        "source": "conjunction + noun with 2nd feminine singular possessive suffix; 'heron' means conception or pregnancy; ESV 'in childbearing', NASB 'in childbirth', KJV 'in sorrow thou shalt bring forth'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּעֶ֖צֶב",
+        "phrase": "in pain / with effort",
+        "literal": "in-pain",
+        "source": "preposition + noun; 'etsev' means pain, effort, or work; ESV 'in pain', NASB 'in pain', KJV 'in sorrow'"
+      },
+      {
+        "position": 9,
+        "surface": "תֵּֽלְדִ֣י",
+        "phrase": "you will bring forth / you shall bear",
+        "literal": "you-will-bear",
+        "source": "2nd feminine singular imperfect; ESV 'you shall bring forth', NASB 'you will bring forth', KJV 'thou shalt bring forth'"
+      },
+      {
+        "position": 10,
+        "surface": "בָנִ֑ים",
+        "phrase": "children",
+        "literal": "children",
+        "source": "masculine plural noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 11,
+        "surface": "וְאֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "conjunction + preposition; ESV, NASB, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "אִישֵׁךְ",
+        "phrase": "your husband",
+        "literal": "husband-your",
+        "source": "noun construct with 2nd feminine singular possessive suffix; ESV, NASB, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "תְּשׁ֣וּקָתֵ֔ךְ",
+        "phrase": "your desire",
+        "literal": "desire-your",
+        "source": "noun construct with 2nd feminine singular possessive suffix; 'teshuqah' appears only 3 times in Hebrew Bible (Gen 3:16, Gen 4:7, Song 7:10); ESV 'your desire shall be for', NASB 'your desire will be for', KJV 'thy desire shall be to'"
+      },
+      {
+        "position": 14,
+        "surface": "וְהוּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "conjunction + 3rd masculine singular pronoun; ESV, NASB, KJV"
+      },
+      {
+        "position": 15,
+        "surface": "יִמְשָׁל",
+        "phrase": "he will rule / he shall rule",
+        "literal": "he-will-rule",
+        "source": "3rd masculine singular imperfect of 'mashal' (to rule); same verb used for Philistine ruling in Judges 14:4; yiqtol form suggests modal sense 'he will seek to rule'; ESV 'he shall rule', NASB 'he will rule', KJV 'he shall rule'"
+      },
+      {
+        "position": 16,
+        "surface": "בָּךְ",
+        "phrase": "over you",
+        "literal": "in-you",
+        "source": "preposition + 2nd feminine singular pronoun; ESV, NASB, KJV"
+      }
+    ]
+  }
+]
