@@ -4,7 +4,7 @@ from pathlib import Path
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 
-from lexicon.models import Book, Verse, WordOccurrence, WordTranslation
+from lexicon.models import Book, TranslationBatch, Verse, WordOccurrence, WordTranslation
 
 
 class Command(BaseCommand):
@@ -12,11 +12,16 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument('json_path', type=str, help='Path to translations JSON file')
+        parser.add_argument('--prompt', type=str, default='', help='The prompt sent to the AI model')
+        parser.add_argument('--model', type=str, default='', help='AI model name (e.g. sonar-pro)')
 
     def handle(self, *args, **options):
         json_path = Path(options['json_path']).expanduser()
         if not json_path.exists():
             raise CommandError(f'File not found: {json_path}')
+
+        prompt_text = options['prompt']
+        model_name = options['model']
 
         with json_path.open(encoding='utf-8') as f:
             data = json.load(f)
@@ -33,14 +38,18 @@ class Command(BaseCommand):
         total_updated = 0
         total_skipped = 0
         total_errors = 0
+        total_batches = 0
 
         for entry in entries:
             # Validate required fields
+            missing = False
             for field in ('book', 'chapter', 'verse', 'language_code', 'language_name', 'words'):
                 if field not in entry:
                     self.stderr.write(self.style.ERROR(f'Missing field "{field}" in entry: {entry}'))
                     total_errors += 1
-                    continue
+                    missing = True
+            if missing:
+                continue
 
             book_name = entry['book']
             chapter = entry['chapter']
@@ -75,6 +84,17 @@ class Command(BaseCommand):
             }
 
             with transaction.atomic():
+                # Create audit-trail batch for this verse+language
+                batch = TranslationBatch.objects.create(
+                    verse=verse,
+                    language_code=lang_code,
+                    language_name=lang_name,
+                    prompt=prompt_text,
+                    raw_response=entry,
+                    model_name=model_name,
+                )
+                total_batches += 1
+
                 for wd in words_data:
                     position = wd.get('position')
                     phrase = wd.get('phrase', '')
@@ -102,6 +122,7 @@ class Command(BaseCommand):
                             'phrase': phrase,
                             'literal': wd.get('literal', ''),
                             'source': wd.get('source', ''),
+                            'batch': batch,
                         },
                     )
 
@@ -111,6 +132,6 @@ class Command(BaseCommand):
                         total_updated += 1
 
         self.stdout.write(self.style.SUCCESS(
-            f'Import complete. Created: {total_created}, Updated: {total_updated}, '
-            f'Skipped: {total_skipped}, Errors: {total_errors}'
+            f'Import complete. Batches: {total_batches}, Created: {total_created}, '
+            f'Updated: {total_updated}, Skipped: {total_skipped}, Errors: {total_errors}'
         ))

@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Book, Lexeme, Verse, WordOccurrence, WordTranslation
+from .models import Book, Lexeme, TranslationBatch, Verse, WordOccurrence, WordTranslation
 
 
 @admin.register(Lexeme)
@@ -31,8 +31,16 @@ class WordOccurrenceAdmin(admin.ModelAdmin):
     search_fields = ('surface', 'lemma', 'strongs_id', 'word_id')
 
 
+@admin.register(TranslationBatch)
+class TranslationBatchAdmin(admin.ModelAdmin):
+    list_display = ('verse', 'language_code', 'model_name', 'created_at')
+    list_filter = ('language_code',)
+    search_fields = ('verse__osis_id', 'model_name', 'notes')
+    readonly_fields = ('created_at',)
+
+
 @admin.register(WordTranslation)
 class WordTranslationAdmin(admin.ModelAdmin):
-    list_display = ('word', 'language_code', 'language_name', 'phrase', 'source')
+    list_display = ('word', 'language_code', 'language_name', 'phrase', 'source', 'batch')
     list_filter = ('language_code',)
     search_fields = ('phrase', 'literal', 'word__surface')

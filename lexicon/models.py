@@ -239,6 +239,31 @@ class HebrewTranslation(models.Model):
         return f"{self.word} → {self.phrase}"
 
 
+class TranslationBatch(models.Model):
+    """
+    Audit trail for a batch of AI-generated translations for a single verse+language.
+    Stores the raw response, prompt used, and model name so every translation
+    can be traced back to its origin.
+    """
+
+    verse = models.ForeignKey(Verse, on_delete=models.CASCADE, related_name='translation_batches')
+    language_code = models.CharField(max_length=10, db_index=True)
+    language_name = models.CharField(max_length=50)
+    prompt = models.TextField(blank=True)
+    raw_response = models.JSONField()
+    model_name = models.CharField(max_length=100, blank=True)
+    notes = models.TextField(blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['-created_at']
+        verbose_name = "Translation Batch"
+        verbose_name_plural = "Translation Batches"
+
+    def __str__(self) -> str:
+        return f"{self.verse} [{self.language_code}] — {self.created_at:%Y-%m-%d %H:%M}"
+
+
 class WordTranslation(models.Model):
     """
     Contextual translation of a Hebrew word in a specific language.
@@ -255,6 +280,12 @@ class WordTranslation(models.Model):
     phrase = models.CharField(max_length=255)                       # "in the beginning"
     literal = models.CharField(max_length=255, blank=True)          # "in-beginning-of"
     source = models.CharField(max_length=255, blank=True)           # "KJV, ESV" or citation
+    batch = models.ForeignKey(
+        'TranslationBatch',
+        on_delete=models.SET_NULL,
+        null=True, blank=True,
+        related_name='translations',
+    )
 
     class Meta:
         unique_together = [('word', 'language_code')]
