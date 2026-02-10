@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְלֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "Conjunction + negative particle; all major translations"
+      },
+      {
+        "position": 2,
+        "surface": "אֵחַ֤ר",
+        "phrase": "deferred",
+        "literal": "delay-PERF.3MS",
+        "source": "KJV, ESV, NASB, HCSB, WEB"
+      },
+      {
+        "position": 3,
+        "surface": "הַנַּ֨עַר",
+        "phrase": "the young man",
+        "literal": "the-young.man",
+        "source": "All major translations; definite article + noun"
+      },
+      {
+        "position": 4,
+        "surface": "לַעֲשׂ֣וֹת",
+        "phrase": "to do",
+        "literal": "to-do-INF",
+        "source": "Preposition + infinitive construct; all major translations"
+      },
+      {
+        "position": 5,
+        "surface": "הַדָּבָ֔ר",
+        "phrase": "the thing",
+        "literal": "the-thing",
+        "source": "Definite article + noun; all major translations"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֥י",
+        "phrase": "because",
+        "literal": "because",
+        "source": "Causal conjunction; all major translations"
+      },
+      {
+        "position": 7,
+        "surface": "חָפֵ֖ץ",
+        "phrase": "he had delight / he delighted",
+        "literal": "delight-PERF.3MS",
+        "source": "KJV, ESV, NASB, HCSB, WEB; verb expressing desire or pleasure"
+      },
+      {
+        "position": 8,
+        "surface": "בְּבַֽת",
+        "phrase": "in the daughter",
+        "literal": "in-daughter",
+        "source": "Preposition + noun; all major translations"
+      },
+      {
+        "position": 9,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "of Jacob",
+        "literal": "Jacob-GEN",
+        "source": "Proper noun in construct relationship; all major translations"
+      },
+      {
+        "position": 10,
+        "surface": "וְהוּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "Conjunction + pronoun; all major translations"
+      },
+      {
+        "position": 11,
+        "surface": "נִכְבָּ֔ד",
+        "phrase": "was honored / was more honorable",
+        "literal": "honor-PASS.PERF.3MS",
+        "source": "KJV, ESV, NASB, HCSB, WEB; passive perfect verb"
+      },
+      {
+        "position": 12,
+        "surface": "מִכֹּ֖ל",
+        "phrase": "than all",
+        "literal": "from-all",
+        "source": "Preposition + noun; all major translations"
+      },
+      {
+        "position": 13,
+        "surface": "בֵּ֥ית",
+        "phrase": "the house",
+        "literal": "house",
+        "source": "Noun in construct; all major translations"
+      },
+      {
+        "position": 14,
+        "surface": "אָבִֽיו",
+        "phrase": "of his father",
+        "literal": "father-his",
+        "source": "Noun + possessive suffix; all major translations"
+      }
+    ]
+  }
+]

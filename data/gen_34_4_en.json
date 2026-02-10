@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁכֶ֔ם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמ֥וֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֖י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "infinitive construct; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "קַֽח",
+        "phrase": "Get",
+        "literal": "take",
+        "source": "imperative; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לִ֛/י",
+        "phrase": "me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct object marker",
+        "source": "particle; not translated in English"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יַּלְדָּ֥ה",
+        "phrase": "the girl",
+        "literal": "the-girl",
+        "source": "KJV (damsel), ESV (girl), NASB (young woman)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֹּ֖את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/אִשָּֽׁה",
+        "phrase": "as a wife",
+        "literal": "to-wife",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "please",
+        "literal": "if",
+        "source": "conditional particle used as plea (ESV, NIV); KJV omits"
+      },
+      {
+        "position": 3,
+        "surface": "יָב֥וֹא",
+        "phrase": "comes",
+        "literal": "he_comes",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "עֵשָׂ֛ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מַּחֲנֶ֥ה",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אַחַ֖ת",
+        "phrase": "one",
+        "literal": "the-one",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִכָּ֑/הוּ",
+        "phrase": "and strikes it",
+        "literal": "and-strikes-him/it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הָיָ֛ה",
+        "phrase": "then",
+        "literal": "and-will_be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מַּחֲנֶ֥ה",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/נִּשְׁאָ֖ר",
+        "phrase": "that is left",
+        "literal": "the-remaining",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/פְלֵיטָֽה",
+        "phrase": "will escape",
+        "literal": "for-escape",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

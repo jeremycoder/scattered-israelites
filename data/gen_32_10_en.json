@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמֶר֮",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NIV (narrative conjunction and verb)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֒",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֵי֙",
+        "phrase": "God of",
+        "literal": "God-of",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֣/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 6,
+        "surface": "וֵ/אלֹהֵ֖י",
+        "phrase": "and God of",
+        "literal": "and-God-of",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "אָבִ֣/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֞ה",
+        "phrase": "LORD",
+        "literal": "YHWH",
+        "source": "proper name, KJV, ESV, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אֹמֵ֣ר",
+        "phrase": "who said",
+        "literal": "the-saying",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלַ֗/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "שׁ֧וּב",
+        "phrase": "return",
+        "literal": "return",
+        "source": "ESV, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אַרְצְ/ךָ֛",
+        "phrase": "to your land",
+        "literal": "to-land-your",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/לְ/מוֹלַדְתְּ/ךָ֖",
+        "phrase": "and to your birthplace",
+        "literal": "and-to-birthplace-your",
+        "source": "ESV, NIV, Chabad"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אֵיטִ֥יבָה",
+        "phrase": "and I will do good",
+        "literal": "and-I-will-do-good",
+        "source": "ESV, NIV, literal from Hebrew"
+      },
+      {
+        "position": 16,
+        "surface": "עִמָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NIV"
+      }
+    ]
+  }
+]

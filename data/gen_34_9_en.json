@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִֽתְחַתְּנ֖וּ",
+        "phrase": "intermarry with us",
+        "literal": "and-hitḥattenū-marriage-alliance",
+        "source": "ESV, NIV, NET, KJV: 'make marriages with us', 'intermarry with us'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֑/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "object marker + 1cp pronoun; consistent across translations (ESV, NIV)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֹֽתֵי/כֶם֙",
+        "phrase": "your daughters",
+        "literal": "daughters-your(pl.)",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "תִּתְּנוּ",
+        "phrase": "give",
+        "literal": "give(pl.)",
+        "source": "ESV, NIV, KJV: 'give your daughters to us'"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֔/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "directional preposition + 1cp pronoun; ESV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ.marker",
+        "source": "conjunction + direct object marker; standard in interlinears [1][6]"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֹתֵ֖י/נוּ",
+        "phrase": "our daughters",
+        "literal": "daughters-our",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "תִּקְח֥וּ",
+        "phrase": "take",
+        "literal": "take(pl.)",
+        "source": "ESV, NIV, KJV: 'take our daughters'"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶֽם",
+        "phrase": "for yourselves",
+        "literal": "to-you(pl.)",
+        "source": "ESV, NIV, NASB: 'for yourselves'"
+      }
+    ]
+  }
+]

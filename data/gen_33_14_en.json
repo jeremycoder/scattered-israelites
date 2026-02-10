@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יַעֲבָר",
+        "phrase": "pass on",
+        "literal": "pass-impf-3ms",
+        "source": "ESV, NASB, KJV[2][4]"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֥א",
+        "phrase": "please",
+        "literal": "please-prt",
+        "source": "polite particle (KJV, ESV, NASB)[4]"
+      },
+      {
+        "position": 3,
+        "surface": "אֲדֹנִ֖/י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "אֲדֹנִי = my master (ESV, NASB, KJV)[2][4]"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-before",
+        "source": "לִפְנֵי = before, in front of (ESV, NASB)[2][4]"
+      },
+      {
+        "position": 5,
+        "surface": "עַבְדּ֑/וֹ",
+        "phrase": "his servant",
+        "literal": "servant-his",
+        "source": "עַבְדּוֹ = his servant (ESV, NASB, KJV)[2][4]"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/אֲנִ֞י",
+        "phrase": "and I",
+        "literal": "and-I",
+        "source": "וַאֲנִי = emphatic 'and I' (NET, ESV)[3][4]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶֽתְנָהֲלָ֣ה",
+        "phrase": "will proceed",
+        "literal": "I-will-lead-myself",
+        "source": "hitpael impf from נָהַל = lead on slowly (NASB, ESV)[2][4]"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אִטִּ֗/י",
+        "phrase": "at my pace",
+        "literal": "to-slowly-my",
+        "source": "לְאִטִּי = at my slow pace (NASB, NET)[3][4]"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/רֶ֨גֶל",
+        "phrase": "according to the pace of",
+        "literal": "to-foot/step-of",
+        "source": "לְרֶגֶל = at the pace/step of (ESV, NASB)[2][4]"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מְּלָאכָ֤ה",
+        "phrase": "the livestock/work",
+        "literal": "the-work",
+        "source": "הַמְּלָאכָה = the livestock/dealings (KJV 'cattle', NASB 'cattle')[2][4]"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which-rel",
+        "source": "relative particle (ESV, all trans)[2]"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/פָנַ/י֙",
+        "phrase": "before me",
+        "literal": "to-before-me",
+        "source": "לְפָנַי = before me (ESV, NASB)[2][4]"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/לְ/רֶ֣גֶל",
+        "phrase": "and according to the pace of",
+        "literal": "and-to-foot/of",
+        "source": "וּלְרֶגֶל = and at the pace of (ESV, NASB)[2][4]"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יְלָדִ֔ים",
+        "phrase": "the children",
+        "literal": "the-children",
+        "source": "הַיְלָדִים = the children (ESV, KJV, NASB)[2][4]"
+      },
+      {
+        "position": 15,
+        "surface": "עַ֛ד",
+        "phrase": "until",
+        "literal": "until-conj",
+        "source": "עַד = until (ESV, all trans)[2]"
+      },
+      {
+        "position": 16,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which-rel",
+        "source": "relative particle (ESV, all trans)[2]"
+      },
+      {
+        "position": 17,
+        "surface": "אָבֹ֥א",
+        "phrase": "I come",
+        "literal": "I-come-impf-1cs",
+        "source": "אָבֹא = I come (ESV, NASB)[2][4]"
+      },
+      {
+        "position": 18,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to-prep",
+        "source": "אֶל = to (ESV, all trans)[2]"
+      },
+      {
+        "position": 19,
+        "surface": "אֲדֹנִ֖/י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "אֲדֹנִי = my lord (ESV, NASB, KJV)[2][4]"
+      },
+      {
+        "position": 20,
+        "surface": "שֵׂעִֽירָ/ה",
+        "phrase": "Seir",
+        "literal": "Seir-ward",
+        "source": "שֵׂעִירָה = to Seir (ESV, KJV, NASB)[2][4]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּשָׁב֩",
+        "phrase": "returned",
+        "literal": "and-he_returned",
+        "source": "KJV, ESV, NASB (Qal wayyiqtol of שׁוּב, 'to turn back')"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יּ֨וֹם",
+        "phrase": "that day",
+        "literal": "in_the-day",
+        "source": "KJV, ESV, NASB (בַּ preposition + יוֹם 'day')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/ה֥וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV, ESV, NASB (הַ definite article + הוּא 'that')"
+      },
+      {
+        "position": 4,
+        "surface": "עֵשָׂ֛ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name, Esau)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/דַרְכּ֖/וֹ",
+        "phrase": "on his way",
+        "literal": "to-way-his",
+        "source": "KJV, ESV, NASB (לְ preposition + דֶּרֶךְ 'way' + 3ms suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׂעִֽירָ/ה",
+        "phrase": "to Seir",
+        "literal": "Seir-ward",
+        "source": "KJV, ESV, NASB (שֵׂעִיר proper name + הָ directional ending)"
+      }
+    ]
+  }
+]

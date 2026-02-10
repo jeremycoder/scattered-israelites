@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "but if",
+        "literal": "and-if",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֧א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      },
+      {
+        "position": 3,
+        "surface": "תִשְׁמְע֛וּ",
+        "phrase": "you listen",
+        "literal": "you(pl)-hear",
+        "source": "ESV 'listen', NASB 'listen', KJV 'hearken', interlinear[2]"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלֵ֖י/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/הִמּ֑וֹל",
+        "phrase": "to be circumcised",
+        "literal": "to-be-circumcised",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לָקַ֥חְנוּ",
+        "phrase": "then we will take",
+        "literal": "and-we-take",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle, interlinear[2]"
+      },
+      {
+        "position": 8,
+        "surface": "בִּתֵּ֖/נוּ",
+        "phrase": "our daughter",
+        "literal": "daughter-our",
+        "source": "NASB, ESV 'daughter', KJV 'daughter', NET 'sister'[6]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הָלָֽכְנוּ",
+        "phrase": "and we will go",
+        "literal": "and-we-go",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַךְ",
+        "phrase": "only",
+        "literal": "only",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/זֹ֖את",
+        "phrase": "on this condition",
+        "literal": "in-this",
+        "source": "NET (on this one condition), KJV (in this), ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "נֵא֣וֹת",
+        "phrase": "we will consent",
+        "literal": "we-consent",
+        "source": "KJV (consent), NET (consent), ESV (give consent), NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "all major translations"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֚ם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "תִּהְי֣וּ",
+        "phrase": "you will be",
+        "literal": "you-will-be",
+        "source": "NET (you are), KJV (ye will be), ESV (you will be)"
+      },
+      {
+        "position": 7,
+        "surface": "כָמֹ֔/נוּ",
+        "phrase": "like us",
+        "literal": "like-us",
+        "source": "NET (like us), KJV (as we), ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/הִמֹּ֥ל",
+        "phrase": "to be circumcised",
+        "literal": "to-circumcise",
+        "source": "NET (by circumcising), KJV (be circumcised), Mechon-Mamre"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "all major translations"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-every",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "זָכָֽר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

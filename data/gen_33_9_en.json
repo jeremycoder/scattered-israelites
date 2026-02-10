@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And Esau said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "יֶשׁ",
+        "phrase": "I have",
+        "literal": "there is",
+        "source": "KJV ('I have'), ESV ('I have'), NASB ('I have')"
+      },
+      {
+        "position": 4,
+        "surface": "לִ֣/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "preposition + 1sg pronoun (lit. 'to me')"
+      },
+      {
+        "position": 5,
+        "surface": "רָ֑ב",
+        "phrase": "plenty",
+        "literal": "much-abundant",
+        "source": "KJV ('enough'), ESV/NASB ('plenty')"
+      },
+      {
+        "position": 6,
+        "surface": "אָחִ֕/י",
+        "phrase": "my brother",
+        "literal": "brother-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יְהִ֥י",
+        "phrase": "let it be",
+        "literal": "be!(jussive)",
+        "source": "KJV ('keep'), ESV ('let...be'), NASB ('let...be')"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/ךָ֖",
+        "phrase": "yours",
+        "literal": "to-you",
+        "source": "preposition + 2ms pronoun"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁר",
+        "phrase": "what",
+        "literal": "that-which",
+        "source": "relative pronoun (KJV 'that thou hast', ESV 'what you have')"
+      },
+      {
+        "position": 10,
+        "surface": "לָֽ/ךְ",
+        "phrase": "you have",
+        "literal": "to-you",
+        "source": "preposition + 2ms pronoun (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

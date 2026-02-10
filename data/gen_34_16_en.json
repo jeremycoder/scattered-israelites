@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַ֤נּוּ",
+        "phrase": "then we will give",
+        "literal": "and-we_give",
+        "source": "KJV, ESV, NASB; Qal perfect 1cp of נָתַן (Strong's 5414) [1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "our",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew particle; KJV, ESV [1]"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֹתֵ֨י/נוּ֙",
+        "phrase": "daughters",
+        "literal": "daughters-our",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to-you_pl",
+        "source": "KJV, ESV; preposition לְ + 2mp suffix [1]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct_object_marker",
+        "source": "standard Hebrew particle; KJV, ESV [1]"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֹתֵי/כֶ֖ם",
+        "phrase": "your daughters",
+        "literal": "daughters-your_pl",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 7,
+        "surface": "נִֽקַּֽח",
+        "phrase": "we will take",
+        "literal": "we_take",
+        "source": "Qal perfect 1cp of לָקַח; KJV, ESV [1]"
+      },
+      {
+        "position": 8,
+        "surface": "לָ֑/נוּ",
+        "phrase": "for ourselves",
+        "literal": "to-us",
+        "source": "KJV, ESV; preposition לְ + 1cp suffix [1]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/יָשַׁ֣בְנוּ",
+        "phrase": "and we will dwell",
+        "literal": "and-we_dwell",
+        "source": "Qal perfect 1cp of יָשַׁב (Strong's 3427); KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 10,
+        "surface": "אִתְּ/כֶ֔ם",
+        "phrase": "with you",
+        "literal": "with-you_pl",
+        "source": "KJV, ESV; preposition אֵת + 2mp suffix (Strong's 854) [1]"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הָיִ֖ינוּ",
+        "phrase": "and we will become",
+        "literal": "and-we_become",
+        "source": "Qal perfect 1cp of הָיָה (Strong's 1961); KJV, ESV [1]"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/עַ֥ם",
+        "phrase": "one people",
+        "literal": "to-people",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 13,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "masculine singular numeral (Strong's 259); KJV, ESV [1]"
+      }
+    ]
+  }
+]

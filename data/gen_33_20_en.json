@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּצֶּב",
+        "phrase": "he erected",
+        "literal": "and-he-set-up",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, NIV (adverb of place)"
+      },
+      {
+        "position": 3,
+        "surface": "מִזְבֵּ֑חַ",
+        "phrase": "an altar",
+        "literal": "altar",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּ֨קְרָא",
+        "phrase": "and called",
+        "literal": "and-he-called",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "ל֔/וֹ",
+        "phrase": "it",
+        "literal": "to-it",
+        "source": "KJV, ESV, NASB, NIV (dative marker + 3ms suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֖ל",
+        "phrase": "El",
+        "literal": "God",
+        "source": "KJV (Elelohe-Israel), ESV (El-Elohe-Israel), NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "Elohe",
+        "literal": "God-of",
+        "source": "KJV (Elelohe-Israel), ESV (El-Elohe-Israel), NASB (construct form)"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

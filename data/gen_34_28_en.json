@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "their flocks",
+        "literal": "ACC-marker",
+        "source": "Accusative particle marking direct object; all major translations"
+      },
+      {
+        "position": 2,
+        "surface": "צֹאנָם",
+        "phrase": "their flocks",
+        "literal": "flocks-their",
+        "source": "KJV, ESV, NASB, NRSV; Strong's 6629 (צאן)"
+      },
+      {
+        "position": 3,
+        "surface": "וְאֶת",
+        "phrase": "and their herds",
+        "literal": "and-ACC-marker",
+        "source": "Conjunction + accusative particle; all major translations"
+      },
+      {
+        "position": 4,
+        "surface": "בְּקָרָם",
+        "phrase": "their herds",
+        "literal": "cattle-their",
+        "source": "KJV, ESV, NASB, NRSV; Strong's 1241 (בקר)"
+      },
+      {
+        "position": 5,
+        "surface": "וְאֶת",
+        "phrase": "and their donkeys",
+        "literal": "and-ACC-marker",
+        "source": "Conjunction + accusative particle; all major translations"
+      },
+      {
+        "position": 6,
+        "surface": "חֲמֹרֵיהֶם",
+        "phrase": "their donkeys",
+        "literal": "donkeys-their",
+        "source": "KJV, ESV, NASB, NRSV; Strong's 2543 (חמור)"
+      },
+      {
+        "position": 7,
+        "surface": "וְאֵת",
+        "phrase": "and",
+        "literal": "and-ACC-marker",
+        "source": "Conjunction + accusative particle; all major translations"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "whatever",
+        "literal": "that-which",
+        "source": "Relative particle; KJV, ESV, NASB, NRSV; Strong's 834"
+      },
+      {
+        "position": 9,
+        "surface": "בָּעִיר",
+        "phrase": "in the city",
+        "literal": "in-the-city",
+        "source": "Preposition + definite noun; KJV, ESV, NASB, NRSV; Strong's 5892 (עיר)"
+      },
+      {
+        "position": 10,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-ACC-marker",
+        "source": "Conjunction + accusative particle; all major translations"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "whatever",
+        "literal": "that-which",
+        "source": "Relative particle; KJV, ESV, NASB, NRSV; Strong's 834"
+      },
+      {
+        "position": 12,
+        "surface": "בַּשָּׂדֶה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "Preposition + definite noun; KJV, ESV, NASB, NRSV; Strong's 7704 (שדה)"
+      },
+      {
+        "position": 13,
+        "surface": "לָקָחוּ",
+        "phrase": "they took",
+        "literal": "took-they",
+        "source": "Qal perfect 3rd masculine plural; KJV, ESV, NASB, NRSV; Strong's 3947 (לקח)"
+      }
+    ]
+  }
+]

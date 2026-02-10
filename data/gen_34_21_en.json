@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ/אֲנָשִׁ֨ים",
+        "phrase": "these men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אֵ֜לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שְֽׁלֵמִ֧ים",
+        "phrase": "peaceable",
+        "literal": "peaceful-PL",
+        "source": "KJV ('peaceable'), ESV ('at peace'), NASB ('friendly')"
+      },
+      {
+        "position": 4,
+        "surface": "הֵ֣ם",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אִתָּ֗/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יֵשְׁב֤וּ",
+        "phrase": "and let them dwell",
+        "literal": "and-let-them-dwell",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בָ/אָ֨רֶץ֙",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/יִסְחֲר֣וּ",
+        "phrase": "and trade",
+        "literal": "and-let-them-trade",
+        "source": "KJV ('trade therein'), ESV/NASB ('trade in it')"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתָ֔/הּ",
+        "phrase": "in it",
+        "literal": "it-ACC",
+        "source": "object marker + 'her/it'; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הָ/אָ֛רֶץ",
+        "phrase": "and the land",
+        "literal": "and-the-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "KJV, NASB; interjection (ESV omits)"
+      },
+      {
+        "position": 12,
+        "surface": "רַֽחֲבַת",
+        "phrase": "spacious",
+        "literal": "broad",
+        "source": "KJV ('large'), ESV/NASB ('large enough')"
+      },
+      {
+        "position": 13,
+        "surface": "יָדַ֖יִם",
+        "phrase": "enough",
+        "literal": "of-hands",
+        "source": "idiom 'broad of hands'; KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לִ/פְנֵי/הֶ֑ם",
+        "phrase": "for them",
+        "literal": "to-face-of-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "ACC",
+        "source": "direct object marker; not translated (KJV, ESV, NASB)"
+      },
+      {
+        "position": 16,
+        "surface": "בְּנֹתָ/ם֙",
+        "phrase": "their daughters",
+        "literal": "daughters-of-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "נִקַּֽח",
+        "phrase": "let us take",
+        "literal": "let-us-take",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "לָ֣/נוּ",
+        "phrase": "for ourselves",
+        "literal": "to-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/נָשִׁ֔ים",
+        "phrase": "as wives",
+        "literal": "to-women",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/אֶת",
+        "phrase": "and [object marker]",
+        "literal": "and-ACC",
+        "source": "not translated; object marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 21,
+        "surface": "בְּנֹתֵ֖י/נוּ",
+        "phrase": "our daughters",
+        "literal": "daughters-of-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "נִתֵּ֥ן",
+        "phrase": "let us give",
+        "literal": "let-us-give",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 23,
+        "surface": "לָ/הֶֽם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

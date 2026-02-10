@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַצִּילֵ֥/נִי",
+        "phrase": "deliver me",
+        "literal": "deliver-impf.-me",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֛א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/יַּ֥ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "אָחִ֖/י",
+        "phrase": "my brother",
+        "literal": "brother-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/יַּ֣ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "עֵשָׂ֑ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal conjunction; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יָרֵ֤א",
+        "phrase": "I am afraid",
+        "literal": "I-fear",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "אָנֹכִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "emphatic pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "of him",
+        "literal": "obj.-marker-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יָב֣וֹא",
+        "phrase": "he come",
+        "literal": "he-come",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הִכַּ֔/נִי",
+        "phrase": "and strike me",
+        "literal": "and-strike-me",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 14,
+        "surface": "אֵ֖ם",
+        "phrase": "mother",
+        "literal": "mother",
+        "source": "KJV, ESV, NASB, NET (idiom 'me, mother upon sons')"
+      },
+      {
+        "position": 15,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "preposition; NET, Chabad"
+      },
+      {
+        "position": 16,
+        "surface": "בָּנִֽים",
+        "phrase": "children",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

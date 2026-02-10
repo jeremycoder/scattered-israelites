@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹא֩",
+        "phrase": "And Jacob came",
+        "literal": "and-he.came",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֨ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁלֵ֜ם",
+        "phrase": "safely",
+        "literal": "complete-peaceful",
+        "source": "ESV ('safely'), NASB, Chabad; alt. 'Shalem' (KJV)"
+      },
+      {
+        "position": 4,
+        "surface": "עִ֣יר",
+        "phrase": "to the city",
+        "literal": "city",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁכֶ֗ם",
+        "phrase": "of Shechem",
+        "literal": "Shechem",
+        "source": "proper name; ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "which",
+        "literal": "which-that",
+        "source": "relative pronoun; ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "proper name; ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/בֹא֖/וֹ",
+        "phrase": "when he came",
+        "literal": "in-coming-his",
+        "source": "temporal; ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/פַּדַּ֣ן",
+        "phrase": "from Paddan",
+        "literal": "from-Paddan",
+        "source": "ESV, NASB; KJV 'Padan-aram'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲרָ֑ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "proper name; ESV, NASB, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יִּ֖חַן",
+        "phrase": "and encamped",
+        "literal": "and-he.encamped",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct.object.marker",
+        "source": "accusative marker; not translated"
+      },
+      {
+        "position": 14,
+        "surface": "פְּנֵ֥י",
+        "phrase": "before",
+        "literal": "face-of",
+        "source": "ESV, NASB; idiomatic 'before'"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/עִֽיר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֑וּ",
+        "phrase": "And they said",
+        "literal": "and-said-they",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כְ/זוֹנָ֕ה",
+        "phrase": "like a prostitute",
+        "literal": "like-as-prostitute",
+        "source": "KJV (harlot), ESV (prostitute), NASB (harlot), NET (common prostitute)"
+      },
+      {
+        "position": 3,
+        "surface": "יַעֲשֶׂ֖ה",
+        "phrase": "treat",
+        "literal": "do/make",
+        "source": "KJV (deal), ESV (treat), NASB (treat); common verb for 'do' or 'make'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "Standard Hebrew particle marking direct object"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחוֹתֵֽ/נוּ",
+        "phrase": "our sister",
+        "literal": "sister-our",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

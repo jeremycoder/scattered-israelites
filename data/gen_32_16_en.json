@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "גְּמַלִּ֧ים",
+        "phrase": "camels",
+        "literal": "camel-PL",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מֵינִיק֛וֹת",
+        "phrase": "milch (nursing)",
+        "literal": "milch-FEM.PL",
+        "source": "KJV, JPS; nursing/lactating camels"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בְנֵי/הֶ֖ם",
+        "phrase": "and their colts",
+        "literal": "and-son-PL-3MS.POSS",
+        "source": "KJV, JPS; conjunction + construct + possessive suffix"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁלֹשִׁ֑ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "פָּר֤וֹת",
+        "phrase": "cows",
+        "literal": "cow-FEM.PL",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "אַרְבָּעִים֙",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/פָרִ֣ים",
+        "phrase": "and bulls",
+        "literal": "and-bull-MASC.PL",
+        "source": "KJV, ESV, NASB, NET; conjunction + masculine plural"
+      },
+      {
+        "position": 8,
+        "surface": "עֲשָׂרָ֔ה",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "אֲתֹנֹ֣ת",
+        "phrase": "she-asses",
+        "literal": "she-ass-FEM.PL",
+        "source": "KJV, JPS; female donkeys"
+      },
+      {
+        "position": 10,
+        "surface": "עֶשְׂרִ֔ים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/עְיָרִ֖ם",
+        "phrase": "and foals",
+        "literal": "and-foal-MASC.PL",
+        "source": "KJV, JPS; conjunction + masculine plural (young donkeys)"
+      },
+      {
+        "position": 12,
+        "surface": "עֲשָׂרָֽה",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

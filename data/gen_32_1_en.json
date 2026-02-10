@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּשְׁכֵּם",
+        "phrase": "and he rose early",
+        "literal": "and-he-rose-early",
+        "source": "KJV, ESV, NASB; wayyiqtol form of שׁכם with vav-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "לָבָן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "Proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בַּבֹּקֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "KJV, ESV, NASB; preposition בּ with definite noun"
+      },
+      {
+        "position": 4,
+        "surface": "וַיְנַשֵּׁק",
+        "phrase": "and he kissed",
+        "literal": "and-he-kissed",
+        "source": "KJV, ESV, NASB; wayyiqtol form of נשׁק with vav-consecutive"
+      },
+      {
+        "position": 5,
+        "surface": "לְבָנָיו",
+        "phrase": "his sons",
+        "literal": "to-his-sons",
+        "source": "KJV, ESV, NASB; preposition לְ with masculine plural construct + possessive suffix"
+      },
+      {
+        "position": 6,
+        "surface": "וְלִבְנוֹתָיו",
+        "phrase": "and his daughters",
+        "literal": "and-to-his-daughters",
+        "source": "KJV, ESV, NASB; vav-conjunction + preposition לְ with feminine plural construct + possessive suffix"
+      },
+      {
+        "position": 7,
+        "surface": "וַיְבָרֶךְ",
+        "phrase": "and he blessed",
+        "literal": "and-he-blessed",
+        "source": "KJV, ESV, NASB; wayyiqtol form of ברך with vav-consecutive"
+      },
+      {
+        "position": 8,
+        "surface": "אֶתְהֶם",
+        "phrase": "them",
+        "literal": "direct-object-marker-them",
+        "source": "KJV, ESV, NASB; direct object marker את with masculine plural pronoun suffix"
+      },
+      {
+        "position": 9,
+        "surface": "וַיֵּלֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "KJV, ESV, NASB; wayyiqtol form of הלך with vav-consecutive"
+      },
+      {
+        "position": 10,
+        "surface": "וַיָּשָׁב",
+        "phrase": "and he returned",
+        "literal": "and-he-returned",
+        "source": "KJV, ESV, NASB; wayyiqtol form of שׁוב with vav-consecutive"
+      },
+      {
+        "position": 11,
+        "surface": "לָבָן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "Proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לִמְקֹמוֹ",
+        "phrase": "to his place",
+        "literal": "to-his-place",
+        "source": "KJV, ESV, NASB; preposition לְ with masculine singular construct + possessive suffix"
+      }
+    ]
+  }
+]

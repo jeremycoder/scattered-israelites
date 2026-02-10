@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET (wayyiqtol narrative sequence)"
+      },
+      {
+        "position": 2,
+        "surface": "נִסְעָ֣ה",
+        "phrase": "let us journey",
+        "literal": "let_us_travel",
+        "source": "NET (cohortative), ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/נֵלֵ֑כָה",
+        "phrase": "and let us go",
+        "literal": "and-let_us_go",
+        "source": "KJV, NET (cohortative), WEB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵלְכָ֖ה",
+        "phrase": "and I will go",
+        "literal": "and-I_will_go",
+        "source": "ESV, NASB, KJV (cohortative)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/נֶגְדֶּֽ/ךָ",
+        "phrase": "before you",
+        "literal": "to/opposite-you",
+        "source": "KJV, ESV, NASB, NET (לְ + נֶגֶד + 2ms suffix)"
+      }
+    ]
+  }
+]

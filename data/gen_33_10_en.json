@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֗ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַל",
+        "phrase": "no",
+        "literal": "no",
+        "source": "negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "נָא֙",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV ('I pray thee'), ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "conditional particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֨א",
+        "phrase": "now",
+        "literal": "please/now",
+        "source": "emphatic particle; NASB ('now'), KJV ('now'), ESV"
+      },
+      {
+        "position": 7,
+        "surface": "מָצָ֤אתִי",
+        "phrase": "I have found",
+        "literal": "I-have-found",
+        "source": "Qal perfect 1cs of matsa; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "חֵן֙",
+        "phrase": "favor",
+        "literal": "favor",
+        "source": "noun chen; KJV ('grace'), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/עֵינֶ֔י/ךָ",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "idiom 'in your sight'; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לָקַחְתָּ֥",
+        "phrase": "then take",
+        "literal": "and-take",
+        "source": "waw + Qal perfect 2ms of laqach; KJV ('receive'), ESV ('accept'), NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִנְחָתִ֖/י",
+        "phrase": "my present",
+        "literal": "present-my",
+        "source": "minchati; KJV ('present'), ESV, NASB ('gift')"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/יָּדִ֑/י",
+        "phrase": "from my hand",
+        "literal": "from-hand-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "because",
+        "literal": "upon",
+        "source": "preposition; NASB, context with ken"
+      },
+      {
+        "position": 15,
+        "surface": "כֵּ֞ן",
+        "phrase": "therefore",
+        "literal": "thus",
+        "source": "adverb ken; KJV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "רָאִ֣יתִי",
+        "phrase": "I have seen",
+        "literal": "I-have-seen",
+        "source": "Qal perfect 1cs of raah; KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "פָנֶ֗י/ךָ",
+        "phrase": "your face",
+        "literal": "face-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "כִּ/רְאֹ֛ת",
+        "phrase": "as",
+        "literal": "like-seeing",
+        "source": "k- + infinitive construct of raah; KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "פְּנֵ֥י",
+        "phrase": "the face of",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "elohim; KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "וַ/תִּרְצֵֽ/נִי",
+        "phrase": "and you have accepted me",
+        "literal": "and-you-have-accepted-me",
+        "source": "waw-consecutive + Qal perfect 2ms of ratsah + 1cs suffix; KJV ('pleased with me'), NASB ('received me favorably'), ESV"
+      }
+    ]
+  }
+]

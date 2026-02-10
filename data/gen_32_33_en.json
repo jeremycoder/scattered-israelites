@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "Therefore",
+        "literal": "on",
+        "source": "KJV, ESV, NASB (introductory particle)"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּ֡ן",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "ESV, NASB (demonstrative adverb)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יֹאכְל֨וּ",
+        "phrase": "eat",
+        "literal": "eat-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֜ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "ACC",
+        "source": "direct object marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "גִּ֣יד",
+        "phrase": "sinew",
+        "literal": "sinew",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/נָּשֶׁ֗ה",
+        "phrase": "of the hip",
+        "literal": "the-socket",
+        "source": "ESV ('hip socket'), NASB ('socket of the thigh joint'), KJV ('hollow of the thigh')"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "which is",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "כַּ֣ף",
+        "phrase": "the socket of",
+        "literal": "hollow/palm",
+        "source": "ESV, NASB, KJV ('hollow')"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/יָּרֵ֔ךְ",
+        "phrase": "the thigh",
+        "literal": "the-thigh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "עַ֖ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/יּ֣וֹם",
+        "phrase": "this day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "",
+        "literal": "this",
+        "source": "KJV, ESV, NASB (demonstrative)"
+      },
+      {
+        "position": 17,
+        "surface": "כִּ֤י",
+        "phrase": "because",
+        "literal": "for/because",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "נָגַע֙",
+        "phrase": "touched",
+        "literal": "touched",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "בְּ/כַף",
+        "phrase": "the socket of",
+        "literal": "in-hollow",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 20,
+        "surface": "יֶ֣רֶךְ",
+        "phrase": "thigh of",
+        "literal": "thigh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "בְּ/גִ֖יד",
+        "phrase": "at the sinew",
+        "literal": "in-sinew",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/נָּשֶֽׁה",
+        "phrase": "of the hip",
+        "literal": "the-socket",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

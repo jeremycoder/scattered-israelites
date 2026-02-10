@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֧שֶׂם",
+        "phrase": "he put",
+        "literal": "and-he-put",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle; untranslatable"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שְּׁפָח֛וֹת",
+        "phrase": "the servants",
+        "literal": "the-servants",
+        "source": "KJV (handmaids), ESV (servants), NASB (maidservants), WEB, Chabad (maidservants)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "יַלְדֵי/הֶ֖ן",
+        "phrase": "their children",
+        "literal": "children-their",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "רִֽאשֹׁנָ֑ה",
+        "phrase": "first",
+        "literal": "first",
+        "source": "KJV (foremost), ESV (in front), NASB (in front), WEB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "לֵאָ֤ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "וִֽ/ילָדֶ֨י/הָ֙",
+        "phrase": "and her children",
+        "literal": "and-children-her",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "אַחֲרֹנִ֔ים",
+        "phrase": "after",
+        "literal": "last",
+        "source": "KJV (after), ESV (after), NASB (next), WEB, Chabad (after)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "רָחֵ֥ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 14,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, WEB, Chabad"
+      },
+      {
+        "position": 15,
+        "surface": "אַחֲרֹנִֽים",
+        "phrase": "last",
+        "literal": "last",
+        "source": "KJV (hindermost), ESV (rear), NASB (last), WEB, Chabad (last)"
+      }
+    ]
+  }
+]

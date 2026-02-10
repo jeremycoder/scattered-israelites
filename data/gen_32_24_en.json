@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקָּחֵ֔/ם",
+        "phrase": "he took them",
+        "literal": "and-he-took-them",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יַּֽעֲבִרֵ֖/ם",
+        "phrase": "and brought them across",
+        "literal": "and-he-caused-to-cross-them",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar; particle (ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נָּ֑חַל",
+        "phrase": "the stream",
+        "literal": "the-stream",
+        "source": "KJV 'stream', ESV 'stream', NASB 'stream', Chabad 'stream', Mechon-Mamre 'stream'"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽ/יַּעֲבֵ֖ר",
+        "phrase": "and he took across",
+        "literal": "and-he-crossed-over",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar; particle (ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "that which",
+        "literal": "which-that",
+        "source": "KJV 'that which', ESV 'what he had', NASB 'what he had', Chabad 'what was his'"
+      },
+      {
+        "position": 8,
+        "surface": "ל/וֹ",
+        "phrase": "he had",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      }
+    ]
+  }
+]

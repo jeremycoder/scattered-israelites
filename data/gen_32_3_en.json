@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "כַּ/אֲשֶׁ֣ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "KJV (\"as\"), ESV (\"when\"), NASB (\"when\")"
+      },
+      {
+        "position": 4,
+        "surface": "רָאָ֔/ם",
+        "phrase": "he saw them",
+        "literal": "he_saw-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מַחֲנֵ֥ה",
+        "phrase": "the camp",
+        "literal": "camp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "זֶ֑ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּקְרָ֛א",
+        "phrase": "and he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB (waw-consecutive qal of qara)"
+      },
+      {
+        "position": 9,
+        "surface": "שֵֽׁם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מָּק֥וֹם",
+        "phrase": "of the place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV (\"that\"), ESV (\"that\"), NASB (\"that\")"
+      },
+      {
+        "position": 12,
+        "surface": "מַֽחֲנָֽיִם",
+        "phrase": "Mahanaim",
+        "literal": "double-camps",
+        "source": "proper name; KJV, ESV, NASB (dual of mahaneh)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּרְאֶ֥ה",
+        "phrase": "And he saw",
+        "literal": "and-he.saw",
+        "source": "KJV, ESV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ֛י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "Conjunction introducing subordinate clause; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָכֹ֖ל",
+        "phrase": "could prevail / could overcome",
+        "literal": "he.was-able",
+        "source": "KJV 'prevailed', ESV 'prevail', NASB 'prevailed', NIV 'overpower'"
+      },
+      {
+        "position": 5,
+        "surface": "לוֹ",
+        "phrase": "against him",
+        "literal": "to-him",
+        "source": "Preposition with pronominal suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַיִּגַּ֥ע",
+        "phrase": "and he touched",
+        "literal": "and-he.touched",
+        "source": "KJV, ESV, NASB, NIV; NET notes the verb can mean 'to touch; to strike; to harm'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּכַף",
+        "phrase": "on the socket",
+        "literal": "in-socket",
+        "source": "KJV 'hollow of his thigh', ESV 'hip socket', NASB 'socket of his thigh', NIV 'socket of his hip'"
+      },
+      {
+        "position": 8,
+        "surface": "יְרֵכוֹ",
+        "phrase": "of his hip/thigh",
+        "literal": "his.hip",
+        "source": "KJV, ESV, NASB, NIV; Hebrew yereko refers to hip or thigh region"
+      },
+      {
+        "position": 9,
+        "surface": "וַתִּקַּ֛ע",
+        "phrase": "and was dislocated",
+        "literal": "and-it.was-dislocated",
+        "source": "KJV 'was out of joint', ESV 'was put out of joint', NASB 'was dislocated', NIV 'was wrenched'"
+      },
+      {
+        "position": 10,
+        "surface": "כַּף",
+        "phrase": "socket",
+        "literal": "socket",
+        "source": "Repeated from position 7; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "יְרֵךְ",
+        "phrase": "of his hip",
+        "literal": "hip",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "בְּהֵאָבְקוֹ",
+        "phrase": "as he wrestled",
+        "literal": "in-his.wrestling",
+        "source": "Preposition with infinitive construct; KJV, ESV, NASB, NIV; Hebrew root ʾbq means 'to wrestle'"
+      },
+      {
+        "position": 14,
+        "surface": "עִמּוֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "Preposition with pronominal suffix; KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

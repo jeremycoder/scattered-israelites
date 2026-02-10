@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֛א",
+        "phrase": "went out",
+        "literal": "and-he_went_out",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "חֲמ֥וֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲבִֽי",
+        "phrase": "father",
+        "literal": "father_of",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁכֶ֖ם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; common in all translations"
+      },
+      {
+        "position": 6,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/דַבֵּ֖ר",
+        "phrase": "to speak",
+        "literal": "to-speak",
+        "source": "KJV ('commune'), ESV/NASB ('speak')"
+      },
+      {
+        "position": 8,
+        "surface": "אִתּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

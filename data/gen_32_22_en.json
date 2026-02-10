@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּעֲבֹר",
+        "phrase": "and he crossed",
+        "literal": "and-he.crossed",
+        "source": "KJV, ESV, RSV, NET, CSB"
+      },
+      {
+        "position": 2,
+        "surface": "הַמִּנְחָה",
+        "phrase": "the gift",
+        "literal": "the-gift",
+        "source": "Chabad translation; refers to the present Jacob sent ahead to Esau"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "over/before",
+        "literal": "upon",
+        "source": "KJV, ESV, RSV; preposition indicating movement across or in front of"
+      },
+      {
+        "position": 4,
+        "surface": "פָּנָיו",
+        "phrase": "his face/before him",
+        "literal": "face-his",
+        "source": "KJV, ESV, RSV; idiom meaning 'in front of him' or 'before him'"
+      },
+      {
+        "position": 5,
+        "surface": "וְהוּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "KJV, ESV, RSV; conjunction with independent pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "לָן",
+        "phrase": "lodged/spent the night",
+        "literal": "lodged",
+        "source": "KJV, ESV, RSV, NET; Qal perfect of לוּן (lun)"
+      },
+      {
+        "position": 7,
+        "surface": "בַּלַּיְלָה",
+        "phrase": "in the night",
+        "literal": "in.the-night",
+        "source": "KJV, ESV, RSV, NET; preposition with definite noun"
+      },
+      {
+        "position": 8,
+        "surface": "הַהִוא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV, ESV, RSV; demonstrative adjective modifying the preceding noun"
+      },
+      {
+        "position": 9,
+        "surface": "בַּמַּחֲנֶה",
+        "phrase": "in the camp",
+        "literal": "in.the-camp",
+        "source": "KJV, ESV, RSV, NET; preposition with definite noun"
+      }
+    ]
+  }
+]

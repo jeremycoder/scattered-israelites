@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתָּ֣ה",
+        "phrase": "But you",
+        "literal": "and-you",
+        "source": "KJV, ESV, NASB; waw + 2ms pronoun"
+      },
+      {
+        "position": 2,
+        "surface": "אָמַ֔רְתָּ",
+        "phrase": "said",
+        "literal": "say-2ms",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הֵיטֵ֥ב",
+        "phrase": "surely do good",
+        "literal": "surely-do-good",
+        "source": "NET tn; Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "אֵיטִ֖יב",
+        "phrase": "I will do good",
+        "literal": "I-will-do-good",
+        "source": "NET tn; Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "עִמָּ֑/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שַׂמְתִּ֤י",
+        "phrase": "and I will make",
+        "literal": "and-I-will-place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "זַרְעֲ/ךָ֙",
+        "phrase": "your seed",
+        "literal": "seed-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כְּ/ח֣וֹל",
+        "phrase": "like the sand",
+        "literal": "like-sand",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יָּ֔ם",
+        "phrase": "of the sea",
+        "literal": "the-sea",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "יִסָּפֵ֖ר",
+        "phrase": "be numbered",
+        "literal": "be-counted",
+        "source": "KJV, ESV, NASB; NET tn"
+      },
+      {
+        "position": 14,
+        "surface": "מֵ/רֹֽב",
+        "phrase": "for multitude",
+        "literal": "from-abundance",
+        "source": "KJV, ESV, NASB; NET tn"
+      }
+    ]
+  }
+]

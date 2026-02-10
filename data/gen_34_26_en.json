@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "Conjunction + accusative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "חֲמוֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "Proper noun (name); all translations"
+      },
+      {
+        "position": 3,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "Conjunction + accusative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁכֶם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "Proper noun (name); all translations"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנוֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "Noun + possessive suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הָרְגוּ",
+        "phrase": "they killed",
+        "literal": "kill-they.perfect",
+        "source": "Qal perfect 3mp of הרג; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְפִי",
+        "phrase": "with the edge of",
+        "literal": "to-mouth.of",
+        "source": "Preposition + noun; idiom meaning 'edge' or 'mouth'; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "חָרֶב",
+        "phrase": "the sword",
+        "literal": "sword",
+        "source": "Feminine noun with definite article; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַיִּקְחוּ",
+        "phrase": "and they took",
+        "literal": "and-take-they.imperfect.consecutive",
+        "source": "Conjunction + Qal imperfect consecutive 3mp of לקח; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Accusative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "דִּינָה",
+        "phrase": "Dinah",
+        "literal": "Dinah",
+        "source": "Proper noun (name); all translations"
+      },
+      {
+        "position": 12,
+        "surface": "מִבֵּית",
+        "phrase": "from the house of",
+        "literal": "from-house",
+        "source": "Preposition + noun with definite article; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "שְׁכֶם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "Proper noun (name); all translations"
+      },
+      {
+        "position": 14,
+        "surface": "וַיֵּצֵאוּ",
+        "phrase": "and they went out",
+        "literal": "and-go.out-they.imperfect.consecutive",
+        "source": "Conjunction + Qal imperfect consecutive 3mp of יצא; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

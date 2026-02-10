@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּשָּׂא",
+        "phrase": "and he lifted up",
+        "literal": "and-he.lifted.up",
+        "source": "KJV, ESV, NASB, NIV; vav consecutive + qal imperfect of נשא"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "accusative particle; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "עֵינָיו",
+        "phrase": "his eyes",
+        "literal": "eyes-his",
+        "source": "KJV, ESV, NASB, NIV; dual noun with 3ms suffix"
+      },
+      {
+        "position": 4,
+        "surface": "וַיַּרְא",
+        "phrase": "and he saw",
+        "literal": "and-he.saw",
+        "source": "KJV, ESV, NASB, NIV; vav consecutive + qal imperfect of ראה"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "accusative particle; all translations"
+      },
+      {
+        "position": 6,
+        "surface": "הַנָּשִׁים",
+        "phrase": "the women",
+        "literal": "the-women",
+        "source": "KJV, ESV, NASB, NIV; definite feminine plural of אשה"
+      },
+      {
+        "position": 7,
+        "surface": "וְאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-ACC",
+        "source": "vav + accusative particle; all translations"
+      },
+      {
+        "position": 8,
+        "surface": "הַיְלָדִים",
+        "phrase": "the children",
+        "literal": "the-children",
+        "source": "KJV, ESV, NASB, NIV; definite masculine plural of ילד"
+      },
+      {
+        "position": 9,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, NIV; vav consecutive + qal imperfect of אמר"
+      },
+      {
+        "position": 10,
+        "surface": "מִי",
+        "phrase": "who",
+        "literal": "who",
+        "source": "KJV, ESV, NASB, NIV; interrogative pronoun"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלֶּה",
+        "phrase": "are these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB, NIV; demonstrative pronoun feminine plural"
+      },
+      {
+        "position": 12,
+        "surface": "לָּךְ",
+        "phrase": "with you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, NIV; preposition ל + 2ms suffix"
+      },
+      {
+        "position": 13,
+        "surface": "וַיֹּאמַר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, NIV; vav consecutive + qal imperfect of אמר"
+      },
+      {
+        "position": 14,
+        "surface": "הַיְלָדִים",
+        "phrase": "the children",
+        "literal": "the-children",
+        "source": "KJV, ESV, NASB, NIV; definite masculine plural of ילד"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB, NIV; relative pronoun"
+      },
+      {
+        "position": 16,
+        "surface": "חָנַן",
+        "phrase": "has graciously given",
+        "literal": "he.showed.favor",
+        "source": "KJV, ESV, NASB, NIV; qal perfect of חנן; NET notes Hebrew verb means 'to be gracious; to show favor'"
+      },
+      {
+        "position": 17,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NIV; masculine plural noun (used as singular)"
+      },
+      {
+        "position": 18,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "accusative particle; all translations"
+      },
+      {
+        "position": 19,
+        "surface": "עַבְדְּךָ",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "KJV, ESV, NASB, NIV; construct noun with 2ms suffix"
+      }
+    ]
+  }
+]

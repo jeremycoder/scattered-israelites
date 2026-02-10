@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִתָּ֖/נוּ",
+        "phrase": "with us",
+        "literal": "and-with-us",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "תֵּשֵׁ֑בוּ",
+        "phrase": "you shall dwell",
+        "literal": "you(pl)-shall-dwell",
+        "source": "KJV ('dwell'), ESV ('settle'), NASB ('live'), NET"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הָ/אָ֨רֶץ֙",
+        "phrase": "and the land",
+        "literal": "and-the-land",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "תִּהְיֶ֣ה",
+        "phrase": "shall be",
+        "literal": "she-shall-be",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵי/כֶ֔ם",
+        "phrase": "before you",
+        "literal": "to-before-you(pl)",
+        "source": "KJV, ESV, NASB, NET; idiomatic for 'open to you'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁבוּ֙",
+        "phrase": "dwell",
+        "literal": "dwell(imperative-pl)",
+        "source": "KJV, Mechon-Mamre; cf. NET 'live'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/סְחָר֔וּ/הָ",
+        "phrase": "and trade in it",
+        "literal": "and-trade(imperative-pl)-her",
+        "source": "KJV ('trade ye therein'), NASB, NET ('trade'), Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הֵֽאָחֲז֖וּ",
+        "phrase": "and acquire",
+        "literal": "and-take-possession(imperative-pl)",
+        "source": "NET ('acquire property'), NASB ('acquire'), KJV ('get you possessions')"
+      },
+      {
+        "position": 9,
+        "surface": "בָּֽ/הּ",
+        "phrase": "in it",
+        "literal": "in-her",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and it was",
+        "literal": "and-was",
+        "source": "waw-consecutive + qal imperfect of הָיָה; narrative past tense marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/י֙",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "לְ + 1st sg. pronominal suffix; dative (ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "שׁ֣וֹר",
+        "phrase": "ox",
+        "literal": "ox-cattle",
+        "source": "שׁוֹר; KJV 'ox', ESV 'oxen', NASB 'oxen'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/חֲמ֔וֹר",
+        "phrase": "and donkey",
+        "literal": "and-donkey",
+        "source": "וַ + חֲמוֹר; KJV 'asses', ESV 'donkeys', NASB 'donkeys'"
+      },
+      {
+        "position": 5,
+        "surface": "צֹ֖אן",
+        "phrase": "sheep",
+        "literal": "flock",
+        "source": "צֹאן; collective for sheep/flocks (KJV 'flocks', ESV 'flocks', NASB 'flocks')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עֶ֣בֶד",
+        "phrase": "and servant",
+        "literal": "and-servant",
+        "source": "וְ + עֶבֶד; male servant/slave (KJV 'men-servants', ESV 'male servants', NASB 'servants')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שִׁפְחָ֑ה",
+        "phrase": "and maidservant",
+        "literal": "and-maidservant",
+        "source": "וְ + שִׁפְחָה; female servant (KJV 'maidservants', ESV 'maidservants', NASB 'maidservants')"
+      },
+      {
+        "position": 8,
+        "surface": "וָֽ/אֶשְׁלְחָ/ה֙",
+        "phrase": "and I have sent them",
+        "literal": "and-I_have_sent-them",
+        "source": "waw-consecutive + qal perfect 1sg. שָׁלַח + 3mp suffix; KJV 'I have sent', ESV 'I send', NASB 'I have sent'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/הַגִּ֣יד",
+        "phrase": "to tell",
+        "literal": "to-declare",
+        "source": "לְ + hiphil infinitive נָגַד; 'to tell/declare' (KJV 'to tell', ESV 'to tell', NASB 'to inform')"
+      },
+      {
+        "position": 10,
+        "surface": "לַֽ/אדֹנִ֔/י",
+        "phrase": "to my lord",
+        "literal": "to-lord-my",
+        "source": "לַ + אֲדוֹנִי; polite address to Esau (KJV 'my lord', ESV 'my lord', NASB 'my lord')"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/מְצֹא",
+        "phrase": "to find",
+        "literal": "to-find",
+        "source": "לְ + qal infinitive מָצָא; 'to find favor' (KJV 'find grace', ESV 'find favor', NASB 'find favor')"
+      },
+      {
+        "position": 12,
+        "surface": "חֵ֖ן",
+        "phrase": "favor",
+        "literal": "favor-grace",
+        "source": "חֵן; grace/favor (KJV 'grace', ESV 'favor', NASB 'favor')"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/עֵינֶֽי/ךָ",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "בְּ + עֵינֶיךָ; idiom 'in your sight' (KJV 'in thy sight', ESV 'in your sight', NASB 'in your eyes')"
+      }
+    ]
+  }
+]

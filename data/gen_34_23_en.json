@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִקְנֵ/הֶ֤ם",
+        "phrase": "their livestock",
+        "literal": "livestock-their",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/קִנְיָנָ/ם֙",
+        "phrase": "and their property",
+        "literal": "and-property-their",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בְּהֶמְתָּ֔/ם",
+        "phrase": "their animals",
+        "literal": "beasts-their",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "הֲ/ל֥וֹא",
+        "phrase": "Will not",
+        "literal": "question-not",
+        "source": "particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לָ֖/נוּ",
+        "phrase": "ours",
+        "literal": "to-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הֵ֑ם",
+        "phrase": "be",
+        "literal": "they",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אַ֚ךְ",
+        "phrase": "only",
+        "literal": "only",
+        "source": "adversative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "נֵא֣וֹתָה",
+        "phrase": "let us consent",
+        "literal": "let-us-consent",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/יֵשְׁב֖וּ",
+        "phrase": "and they will live",
+        "literal": "and-they-will-dwell",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "אִתָּֽ/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

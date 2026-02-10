@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קַח",
+        "phrase": "take",
+        "literal": "take-IMP",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֤א",
+        "phrase": "please",
+        "literal": "please-PTC",
+        "source": "particle of entreaty (KJV, NASB, NIV)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "ACC-marker",
+        "source": "accusative marker (ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "בִּרְכָתִ/י֙",
+        "phrase": "my blessing",
+        "literal": "blessing-my",
+        "source": "KJV, NKJV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which-REL",
+        "source": "relative pronoun (NASB, NIV)"
+      },
+      {
+        "position": 6,
+        "surface": "הֻבָ֣את",
+        "phrase": "has been brought",
+        "literal": "has-been-brought-PF-PASS",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לָ֔/ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "because-CONJ",
+        "source": "KJV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "חַנַּ֥/נִי",
+        "phrase": "has dealt graciously with me",
+        "literal": "has-graced-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/כִ֣י",
+        "phrase": "and because",
+        "literal": "and-because",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יֶשׁ",
+        "phrase": "there is",
+        "literal": "there-is",
+        "source": "existential particle (ESV, NIV)"
+      },
+      {
+        "position": 13,
+        "surface": "לִ/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "כֹ֑ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יִּפְצַר",
+        "phrase": "and he urged",
+        "literal": "and-he-urged",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "בּ֖/וֹ",
+        "phrase": "him",
+        "literal": "in-him",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/יִּקָּֽח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

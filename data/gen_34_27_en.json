@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ASV, NKJV, RSV, NRSV"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֗ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations; proper noun"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ֚אוּ",
+        "phrase": "came",
+        "literal": "came-they",
+        "source": "KJV, ASV, NKJV, RSV, NRSV; Hebrew bo' (to go/come)"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ASV, NKJV, RSV, NRSV; preposition"
+      },
+      {
+        "position": 5,
+        "surface": "הַ֣/חֲלָלִ֔ים",
+        "phrase": "the slain",
+        "literal": "the-slain-ones",
+        "source": "KJV, ASV, NKJV, RSV, NRSV; Hebrew chalal (pierced/slain)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יָּבֹ֖זּוּ",
+        "phrase": "and plundered",
+        "literal": "and-plundered-they",
+        "source": "KJV, ASV, NKJV, RSV, NRSV; Hebrew bazaz (to plunder)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עִ֑יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "All translations; Hebrew 'iyr (city)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "because",
+        "literal": "which/that",
+        "source": "All translations; relative pronoun functioning as causal conjunction"
+      },
+      {
+        "position": 9,
+        "surface": "טִמְּא֖וּ",
+        "phrase": "had defiled",
+        "literal": "defiled-they",
+        "source": "KJV, ASV, NKJV, RSV, NRSV; Hebrew tame' (to defile/pollute)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲחוֹתָֽ/ם",
+        "phrase": "their sister",
+        "literal": "sister-their",
+        "source": "All translations; Hebrew 'achowth (sister) with 3rd masculine plural possessive suffix"
+      }
+    ]
+  }
+]

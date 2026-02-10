@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּדְבַּ֣ק",
+        "phrase": "clave",
+        "literal": "and-clave",
+        "source": "KJV, NET (his soul stuck to), Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "נַפְשׁ֔/וֹ",
+        "phrase": "his soul",
+        "literal": "soul-his",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/דִינָ֖ה",
+        "phrase": "to Dinah",
+        "literal": "in-to Dinah",
+        "source": "KJV, ESV, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "בַּֽת",
+        "phrase": "the daughter",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "of Jacob",
+        "literal": "of Jacob",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֶּֽאֱהַב֙",
+        "phrase": "and he loved",
+        "literal": "and-he loved",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "standard Hebrew particle (KJV, ESV)"
+      },
+      {
+        "position": 8,
+        "surface": "הַֽ/נַּעֲרָ֔",
+        "phrase": "the young woman",
+        "literal": "the-young.woman",
+        "source": "ESV, NIV, NASB (damsel KJV)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יְדַבֵּ֖ר",
+        "phrase": "and spoke",
+        "literal": "and-he spoke",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "to",
+        "literal": "upon",
+        "source": "idiomatic with לב (KJV kindly unto, NET tenderly)"
+      },
+      {
+        "position": 11,
+        "surface": "לֵ֥ב",
+        "phrase": "the heart",
+        "literal": "heart",
+        "source": "lit. 'heart'; idiomatic for tenderly (NET, REV)"
+      },
+      {
+        "position": 12,
+        "surface": "הַֽ/נַּעֲרָֽ",
+        "phrase": "of the young woman",
+        "literal": "the-young.woman",
+        "source": "ESV, NIV, NASB (damsel KJV)"
+      }
+    ]
+  }
+]

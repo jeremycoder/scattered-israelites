@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְיַעֲקֹב",
+        "phrase": "And Jacob",
+        "literal": "and-Jacob",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁמַע",
+        "phrase": "heard",
+        "literal": "hear-3ms.perfect",
+        "source": "KJV, ESV, NASB, NIV; Strong's 8085 שׁמע"
+      },
+      {
+        "position": 3,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that-conjunction",
+        "source": "KJV, ESV, NASB; causal/content particle"
+      },
+      {
+        "position": 4,
+        "surface": "טִמֵּא",
+        "phrase": "had defiled",
+        "literal": "defile-3ms.perfect",
+        "source": "KJV, ESV, NASB, NIV; Strong's 2930 טמא"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Grammatical particle; Strong's 854"
+      },
+      {
+        "position": 6,
+        "surface": "דִּינָה",
+        "phrase": "Dinah",
+        "literal": "Dinah-proper.noun",
+        "source": "KJV, ESV, NASB, NIV; Strong's 1783"
+      },
+      {
+        "position": 7,
+        "surface": "בִתּוֹ",
+        "phrase": "his daughter",
+        "literal": "daughter-3ms.construct",
+        "source": "KJV, ESV, NASB, NIV; Strong's 1323"
+      },
+      {
+        "position": 8,
+        "surface": "וּבָנָיו",
+        "phrase": "and his sons",
+        "literal": "and-sons-3ms.construct",
+        "source": "KJV, ESV, NASB, NIV; Strong's 1121"
+      },
+      {
+        "position": 9,
+        "surface": "הָיוּ",
+        "phrase": "were",
+        "literal": "be-3mp.perfect",
+        "source": "KJV, ESV, NASB, NIV; Strong's 1961"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Grammatical particle; Strong's 854"
+      },
+      {
+        "position": 11,
+        "surface": "מִקְנֵהוּ",
+        "phrase": "his livestock",
+        "literal": "livestock-3ms.construct",
+        "source": "KJV, ESV, NASB, NIV; Strong's 4735 מקנה"
+      },
+      {
+        "position": 12,
+        "surface": "בַּשָּׂדֶה",
+        "phrase": "in the field",
+        "literal": "in.the-field",
+        "source": "KJV, ESV, NASB, NIV; Strong's 7704 שׂדה"
+      },
+      {
+        "position": 13,
+        "surface": "וְהֶחֱרִשׁ",
+        "phrase": "and held his peace",
+        "literal": "and-be.silent-3ms.perfect",
+        "source": "KJV, ESV, NASB, NIV; Strong's 2790 חרשׁ"
+      },
+      {
+        "position": 14,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob-proper.noun",
+        "source": "KJV, ESV, NASB, NIV; Strong's 3290"
+      },
+      {
+        "position": 15,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until-preposition",
+        "source": "KJV, ESV, NASB, NIV; Strong's 5704"
+      },
+      {
+        "position": 16,
+        "surface": "בֹּאָם",
+        "phrase": "they came",
+        "literal": "come-3mp.infinitive.construct",
+        "source": "KJV, ESV, NASB, NIV; Strong's 935 בוא"
+      }
+    ]
+  }
+]

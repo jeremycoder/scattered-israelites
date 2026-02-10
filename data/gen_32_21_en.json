@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲמַרְתֶּ֕ם",
+        "phrase": "and you shall say",
+        "literal": "and-you(pl)_shall_say",
+        "source": "KJV, ESV, NIV, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "גַּ֗ם",
+        "phrase": "moreover",
+        "literal": "also",
+        "source": "KJV ('Also'), ESV ('Moreover'), NIV ('Your servant'), particle of addition"
+      },
+      {
+        "position": 3,
+        "surface": "הִנֵּ֛ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "KJV, NASB, Chabad, demonstrative particle"
+      },
+      {
+        "position": 4,
+        "surface": "עַבְדְּ/ךָ֥",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֲרֵ֑י/נוּ",
+        "phrase": "behind us",
+        "literal": "behind-us",
+        "source": "KJV, ESV, NIV, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NIV, causal conjunction"
+      },
+      {
+        "position": 8,
+        "surface": "אָמַ֞ר",
+        "phrase": "he said",
+        "literal": "he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲכַפְּרָ֣ה",
+        "phrase": "I will appease",
+        "literal": "I_will_cover/propitiate",
+        "source": "Chabad ('I will appease'), NIV ('pacify'), from kipper"
+      },
+      {
+        "position": 10,
+        "surface": "פָנָ֗י/ו",
+        "phrase": "his face",
+        "literal": "face-his",
+        "source": "ESV, NIV, Chabad"
+      },
+      {
+        "position": 11,
+        "surface": "בַּ/מִּנְחָה֙",
+        "phrase": "with the gift",
+        "literal": "in_the-gift",
+        "source": "KJV ('present'), ESV ('gift'), NIV ('gifts')"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/הֹלֶ֣כֶת",
+        "phrase": "that is going",
+        "literal": "the-going",
+        "source": "KJV, Chabad, participle"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/פָנָ֔/י",
+        "phrase": "before me",
+        "literal": "to_face-my",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אַחֲרֵי",
+        "phrase": "and afterwards",
+        "literal": "and-after",
+        "source": "KJV, ESV, Chabad"
+      },
+      {
+        "position": 15,
+        "surface": "כֵן֙",
+        "phrase": "then",
+        "literal": "thus/then",
+        "source": "KJV, NASB, temporal adverb"
+      },
+      {
+        "position": 16,
+        "surface": "אֶרְאֶ֣ה",
+        "phrase": "I will see",
+        "literal": "I_will_see",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 17,
+        "surface": "פָנָ֔י/ו",
+        "phrase": "his face",
+        "literal": "face-his",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 18,
+        "surface": "אוּלַ֖י",
+        "phrase": "perhaps",
+        "literal": "perhaps",
+        "source": "KJV, ESV, NIV, particle of uncertainty"
+      },
+      {
+        "position": 19,
+        "surface": "יִשָּׂ֥א",
+        "phrase": "he will accept",
+        "literal": "he_will_lift",
+        "source": "KJV ('favour'), NIV ('receive'), Chabad ('favor'), from nasa panim"
+      },
+      {
+        "position": 20,
+        "surface": "פָנָֽ/י",
+        "phrase": "me",
+        "literal": "face-my",
+        "source": "KJV, ESV, NIV, idiomatic 'lift my face'"
+      }
+    ]
+  }
+]

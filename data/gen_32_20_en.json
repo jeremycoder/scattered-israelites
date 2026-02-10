@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֞ו",
+        "phrase": "and he commanded",
+        "literal": "and-he-commanded",
+        "source": "KJV, ESV, NASB; waw-consecutive + Qal imperfect 3ms of צוה"
+      },
+      {
+        "position": 2,
+        "surface": "גַּ֣ם",
+        "phrase": "also",
+        "literal": "also-even",
+        "source": "KJV, ESV, NASB; emphatic particle"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object-marker)",
+        "source": "standard particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שֵּׁנִ֗י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "KJV, ESV, NASB; definite article + שֵׁנִי"
+      },
+      {
+        "position": 5,
+        "surface": "גַּ֚ם",
+        "phrase": "also",
+        "literal": "also-even",
+        "source": "KJV, ESV, NASB; emphatic particle"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object-marker)",
+        "source": "standard particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שְּׁלִישִׁ֔י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "KJV, ESV, NASB; definite article + שְׁלִישִׁי"
+      },
+      {
+        "position": 8,
+        "surface": "גַּ֚ם",
+        "phrase": "also",
+        "literal": "also-even",
+        "source": "KJV, ESV, NASB; emphatic particle"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object-marker)",
+        "source": "standard particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-every",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/הֹ֣לְכִ֔ים",
+        "phrase": "those who followed",
+        "literal": "the-going-following",
+        "source": "KJV, NASB, ESV; definite article + Hiphil participle mpl הלך"
+      },
+      {
+        "position": 12,
+        "surface": "אַחֲרֵ֥י",
+        "phrase": "after",
+        "literal": "after-behind",
+        "source": "KJV, ESV, NASB; preposition אַחֲרֵי"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/עֲדָרִ֖ים",
+        "phrase": "the herds",
+        "literal": "the-herds",
+        "source": "KJV, ESV, NASB; definite article + עֲדָרִים"
+      },
+      {
+        "position": 14,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB; lamed + infinitive construct אָמַר"
+      },
+      {
+        "position": 15,
+        "surface": "כַּ/דָּבָ֤ר",
+        "phrase": "like the word",
+        "literal": "like-the-word",
+        "source": "NASB, ESV; preposition כ + definite דָּבָר"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/זֶּה֙",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB; definite article + זֶה"
+      },
+      {
+        "position": 17,
+        "surface": "תְּדַבְּר֣וּ/ן",
+        "phrase": "you shall speak",
+        "literal": "you-all-shall-speak",
+        "source": "KJV, ESV, NASB; Piel imperfect 2mp דָּבַר"
+      },
+      {
+        "position": 18,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 19,
+        "surface": "עֵשָׂ֔ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "בְּ/מֹצַאֲ/כֶ֖ם",
+        "phrase": "when-you-find-him",
+        "literal": "in-find-you(pl)",
+        "source": "KJV, ESV, NASB; preposition ב + Qal infinitive construct + 2mp suffix of מָצָא"
+      },
+      {
+        "position": 21,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "him-(direct-object)",
+        "source": "KJV, ESV, NASB; את + 3ms suffix"
+      }
+    ]
+  }
+]

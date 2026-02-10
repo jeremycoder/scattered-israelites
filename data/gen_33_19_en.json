@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 33,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֜קֶן",
+        "phrase": "he bought",
+        "literal": "and-he-bought",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "חֶלְקַ֣ת",
+        "phrase": "parcel",
+        "literal": "portion/part",
+        "source": "KJV 'parcel', ESV 'piece', NIV 'plot'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׂדֶ֗ה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "where",
+        "literal": "which/that",
+        "source": "KJV, ESV, NIV (relative pronoun)"
+      },
+      {
+        "position": 6,
+        "surface": "נָֽטָה",
+        "phrase": "he had pitched",
+        "literal": "he-stretched-out",
+        "source": "KJV 'spread', NIV/ESV 'pitched'"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁם֙",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "אָהֳל֔/וֹ",
+        "phrase": "his tent",
+        "literal": "tent-his",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/יַּ֥ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand",
+        "source": "KJV 'at the hand', ESV/NIV 'from'"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵֽי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "חֲמ֖וֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "proper name (KJV, NIV, ESV)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲבִ֣י",
+        "phrase": "father of",
+        "literal": "father-of",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "שְׁכֶ֑ם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "proper name (KJV, NIV, ESV)"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/מֵאָ֖ה",
+        "phrase": "for a hundred",
+        "literal": "in-with-hundred",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 15,
+        "surface": "קְשִׂיטָֽה",
+        "phrase": "pieces of money",
+        "literal": "kesitah-pieces",
+        "source": "KJV 'pieces of money', NIV 'pieces of silver', ESV 'pieces of money'; kesitah = unit of money"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֨ח",
+        "phrase": "and he sent",
+        "literal": "and-he_sent",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֤ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מַלְאָכִים֙",
+        "phrase": "messengers",
+        "literal": "messengers",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/פָנָ֔י/ו",
+        "phrase": "ahead of him",
+        "literal": "to-before-his_face",
+        "source": "ESV, NASB; lit. 'to his face' = before him"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; KJV, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אָחִ֑י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אַ֥רְצָ/ה",
+        "phrase": "to the land of",
+        "literal": "land-to",
+        "source": "KJV, ESV; directional 'āṣâ-āh"
+      },
+      {
+        "position": 9,
+        "surface": "שֵׂעִ֖יר",
+        "phrase": "Seir",
+        "literal": "Seir",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שְׂדֵ֥ה",
+        "phrase": "the field of",
+        "literal": "field",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֱדֽוֹם",
+        "phrase": "Edom",
+        "literal": "Edom",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

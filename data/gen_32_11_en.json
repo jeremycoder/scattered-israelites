@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קָטֹ֜נְתִּי",
+        "phrase": "I am unworthy",
+        "literal": "small-I",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/כֹּ֤ל",
+        "phrase": "of all",
+        "literal": "from-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/חֲסָדִים֙",
+        "phrase": "the kindnesses",
+        "literal": "the-graces",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "phrase": "and from all",
+        "surface": "וּ/מִ/כָּל",
+        "literal": "and-from-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָ֣/אֱמֶ֔ת",
+        "phrase": "the truth",
+        "literal": "the-truth",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עָשִׂ֖יתָ",
+        "phrase": "you have done",
+        "literal": "you_have_done",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "standard Hebrew grammar"
+      },
+      {
+        "position": 9,
+        "surface": "עַבְדֶּ֑/ךָ",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בְ/מַקְלִ֗/י",
+        "phrase": "with my staff",
+        "literal": "in-staff-my",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "עָבַ֨רְתִּי֙",
+        "phrase": "I crossed",
+        "literal": "I_crossed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "standard Hebrew grammar"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יַּרְדֵּ֣ן",
+        "phrase": "the Jordan",
+        "literal": "the-Jordan",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "NET tn"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/עַתָּ֥ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "הָיִ֖יתִי",
+        "phrase": "I have become",
+        "literal": "I_have_been",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 18,
+        "surface": "לִ/שְׁנֵ֥י",
+        "phrase": "two",
+        "literal": "to-two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "מַחֲנֽוֹת",
+        "phrase": "camps",
+        "literal": "camps",
+        "source": "ESV, NASB, NET"
+      }
+    ]
+  }
+]

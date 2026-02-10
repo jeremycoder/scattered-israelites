@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 32,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְיַעֲקֹב",
+        "phrase": "And Jacob",
+        "literal": "and-Jacob",
+        "source": "KJV, NASB, ESV, NLT"
+      },
+      {
+        "position": 2,
+        "surface": "הָלַךְ",
+        "phrase": "went",
+        "literal": "went",
+        "source": "KJV, NASB, ESV, NLT"
+      },
+      {
+        "position": 3,
+        "surface": "לְדַרְכּוֹ",
+        "phrase": "on his way",
+        "literal": "to-his-way",
+        "source": "KJV, NASB, ESV, NLT"
+      },
+      {
+        "position": 4,
+        "surface": "וַיִּפְגְּעוּ",
+        "phrase": "and met",
+        "literal": "and-they-encountered",
+        "source": "KJV, NASB, ESV, NLT"
+      },
+      {
+        "position": 5,
+        "surface": "בּוֹ",
+        "phrase": "him",
+        "literal": "in-him",
+        "source": "KJV, NASB, ESV, NLT"
+      },
+      {
+        "position": 6,
+        "surface": "מַלְאֲכֵי",
+        "phrase": "angels",
+        "literal": "messengers-of",
+        "source": "KJV, NASB, ESV, NLT"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NASB, ESV, NLT"
+      }
+    ]
+  }
+]

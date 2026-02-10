@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽיטְב֥וּ",
+        "phrase": "pleased",
+        "literal": "and-was_good",
+        "source": "KJV, ESV, NASB, LEB[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "דִבְרֵי/הֶ֖ם",
+        "phrase": "their words",
+        "literal": "words-their",
+        "source": "KJV, ESV, NASB, LEB[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/עֵינֵ֣י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes",
+        "source": "LEB, NET tn[2][4]"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמ֑וֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בְ/עֵינֵ֖י",
+        "phrase": "and in the eyes of",
+        "literal": "and-in-eyes",
+        "source": "LEB, NET tn[2][4]"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁכֶ֥ם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "LEB, NASB[2]"
+      },
+      {
+        "position": 8,
+        "surface": "חֲמֽוֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "KJV, ESV, NASB[1][2]"
+      }
+    ]
+  }
+]

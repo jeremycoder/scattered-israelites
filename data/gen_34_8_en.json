@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 34,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְדַבֵּר",
+        "phrase": "and he spoke",
+        "literal": "and-he-spoke",
+        "source": "Conjunction waw + Qal imperfect 3ms of דבר (speak); ESV, KJV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "חֲמוֹר",
+        "phrase": "Hamor",
+        "literal": "Hamor",
+        "source": "Proper noun, father of Shechem; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אִתָּם",
+        "phrase": "with them",
+        "literal": "with-them",
+        "source": "Preposition את (with) + 3mp suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לֵאמֹר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "Infinitive construct of אמר (say); ESV, KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁכֶם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "Proper noun, son of Hamor; all translations"
+      },
+      {
+        "position": 6,
+        "surface": "בְנִי",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "Noun בן (son) + 1s suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חָשְׁקָה",
+        "phrase": "longs for",
+        "literal": "has-cleaved-to",
+        "source": "Qal perfect 3fs of חשק (cling, cleave, love); ESV 'longs for', KJV 'longeth for', NASB 'loves'"
+      },
+      {
+        "position": 8,
+        "surface": "נַפְשׁוֹ",
+        "phrase": "his soul",
+        "literal": "soul-his",
+        "source": "Noun נפש (soul, self) + 3ms suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בְּבִתְּכֶם",
+        "phrase": "in your daughter",
+        "literal": "in-daughter-your(pl)",
+        "source": "Preposition ב (in) + noun בת (daughter) + 2mp suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "תְּנוּ",
+        "phrase": "give",
+        "literal": "give(pl)",
+        "source": "Qal imperative 2mp of נתן (give); ESV, KJV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "נָא",
+        "phrase": "please",
+        "literal": "please",
+        "source": "Particle of entreaty; ESV 'Please', KJV 'I pray you', NASB 'please'"
+      },
+      {
+        "position": 12,
+        "surface": "אֹתָהּ",
+        "phrase": "her",
+        "literal": "direct-object-marker-her",
+        "source": "Direct object marker את + 3fs suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition ל (to) + 3ms suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לְאִשָּׁה",
+        "phrase": "as a wife",
+        "literal": "for-wife",
+        "source": "Preposition ל (for) + noun אשה (woman, wife); ESV, KJV, NASB"
+      }
+    ]
+  }
+]
