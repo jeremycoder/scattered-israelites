@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֖ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "the king",
+        "literal": "king",
+        "source": "KJV, ESV, NASB (melekh)"
+      },
+      {
+        "position": 5,
+        "surface": "סְדֹ֑ם",
+        "phrase": "of Sodom",
+        "literal": "Sodom",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "הֲרִימֹ֨תִי",
+        "phrase": "I have lifted",
+        "literal": "I-have-lifted-up",
+        "source": "KJV, ESV, NASB (perfect of rum)"
+      },
+      {
+        "position": 7,
+        "surface": "יָדִ֤/י",
+        "phrase": "my hand",
+        "literal": "hand-my",
+        "source": "KJV, ESV, NASB (yad)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB (proper name of God)"
+      },
+      {
+        "position": 10,
+        "surface": "אֵ֣ל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (el)"
+      },
+      {
+        "position": 11,
+        "surface": "עֶלְי֔וֹן",
+        "phrase": "Most High",
+        "literal": "Most-High",
+        "source": "KJV, ESV, NASB (elyon)"
+      },
+      {
+        "position": 12,
+        "surface": "קֹנֵ֖ה",
+        "phrase": "possessor",
+        "literal": "possessor",
+        "source": "KJV, NASB; Creator (ESV, HCSB) (qoneh)"
+      },
+      {
+        "position": 13,
+        "surface": "שָׁמַ֥יִם",
+        "phrase": "heaven",
+        "literal": "heavens",
+        "source": "KJV, ESV, NASB (shamayim)"
+      },
+      {
+        "position": 14,
+        "surface": "וָ/אָֽרֶץ",
+        "phrase": "and earth",
+        "literal": "and-earth",
+        "source": "KJV, ESV, NASB (erets)"
+      }
+    ]
+  }
+]

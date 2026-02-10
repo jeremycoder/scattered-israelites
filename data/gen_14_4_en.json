@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁתֵּ֤ים",
+        "phrase": "twelve",
+        "literal": "two",
+        "source": "KJV, ESV, NASB (first part of 'twelve')"
+      },
+      {
+        "position": 2,
+        "surface": "עֶשְׂרֵה֙",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB (second part of 'twelve')"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "עָבְד֖וּ",
+        "phrase": "they served",
+        "literal": "they-served",
+        "source": "KJV, ESV, NASB; Strong's H5647"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּדָרְלָעֹ֑מֶר",
+        "phrase": "Chedorlaomer",
+        "literal": "Kedor-laomer",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁלֹשׁ",
+        "phrase": "thirteen",
+        "literal": "and-three",
+        "source": "KJV, ESV, NASB (first part of 'thirteen')"
+      },
+      {
+        "position": 8,
+        "surface": "עֶשְׂרֵ֥ה",
+        "phrase": "thirteen",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB (second part of 'thirteen')"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מָרָֽדוּ",
+        "phrase": "they rebelled",
+        "literal": "they-rebelled",
+        "source": "KJV, ESV, NASB; Strong's implied"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ.marker",
+        "source": "KJV, ESV, NASB (standard accusative marker with waw)"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אֱמֹרִי֙",
+        "phrase": "Amorites",
+        "literal": "the-Amorite",
+        "source": "KJV ('Amorites'), ESV ('Amorites'), NASB ('Amorites') [3]"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ.marker",
+        "source": "KJV, ESV, NASB (standard accusative marker with waw)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/כְּנַעֲנִ֔י",
+        "phrase": "Canaanites",
+        "literal": "the-Canaanite",
+        "source": "KJV ('Canaanites'), ESV ('Canaanites'), NASB ('Canaanites') [3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ.marker",
+        "source": "KJV, ESV, NASB (standard accusative marker with waw)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גִּרְגָּשִׁ֖י",
+        "phrase": "Girgashites",
+        "literal": "the-Girgashite",
+        "source": "KJV ('Girgashites'), ESV ('Girgashites'), NASB ('Girgashites') [3]"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ.marker",
+        "source": "KJV, ESV, NASB (standard accusative marker with waw)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יְבוּסִֽי",
+        "phrase": "Jebusites",
+        "literal": "the-Jebusite",
+        "source": "KJV ('Jebusites'), ESV ('Jebusites'), NASB ('Jebusites') [3]"
+      }
+    ]
+  }
+]

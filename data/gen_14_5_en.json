@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/אַרְבַּע֩",
+        "phrase": "in the four",
+        "literal": "and-in-four",
+        "source": "Conjunction + preposition + cardinal number; KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "עֶשְׂרֵ֨ה",
+        "phrase": "tenth",
+        "literal": "ten",
+        "source": "Ordinal number; KJV 'fourteenth', NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנָ֜ה",
+        "phrase": "year",
+        "literal": "year",
+        "source": "Feminine noun; KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ֣א",
+        "phrase": "came",
+        "literal": "came",
+        "source": "Qal perfect 3ms of בוא; KJV, NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "כְדָרְלָעֹ֗מֶר",
+        "phrase": "Chedorlaomer",
+        "literal": "Chedorlaomer",
+        "source": "Proper noun (Akkadian name); KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הַ/מְּלָכִים֙",
+        "phrase": "and the kings",
+        "literal": "and-the-kings",
+        "source": "Conjunction + definite article + masculine plural noun; KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "Relative pronoun; KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "אִתּ֔/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "Preposition + 3ms suffix; KJV, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּכּ֤וּ",
+        "phrase": "and defeated",
+        "literal": "and-they-struck",
+        "source": "Conjunction + Qal imperfect 3mp of נכה; NET notes 'defeated' as preferable to 'smote'; KJV, NASB, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle; KJV, NASB, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "רְפָאִים֙",
+        "phrase": "the Rephaim",
+        "literal": "Rephaim",
+        "source": "Proper noun (ethnic group); KJV, NASB, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/עַשְׁתְּרֹ֣ת",
+        "phrase": "in Ashteroth",
+        "literal": "in-Ashteroth",
+        "source": "Preposition + proper noun (place name); KJV, NASB, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "קַרְנַ֔יִם",
+        "phrase": "Karnaim",
+        "literal": "horns",
+        "source": "Feminine dual noun (place name component); KJV 'Ashteroth Karnaim', NASB, ESV"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Conjunction + accusative particle; KJV, NASB, ESV"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/זּוּזִ֖ים",
+        "phrase": "the Zuzim",
+        "literal": "the-Zuzim",
+        "source": "Definite article + proper noun (ethnic group); KJV, NASB, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "בְּ/הָ֑ם",
+        "phrase": "in Ham",
+        "literal": "in-Ham",
+        "source": "Preposition + proper noun (place name); KJV, NASB, ESV"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Conjunction + accusative particle; KJV, NASB, ESV"
+      },
+      {
+        "position": 18,
+        "surface": "הָֽ/אֵימִ֔ים",
+        "phrase": "the Emim",
+        "literal": "the-Emim",
+        "source": "Definite article + proper noun (ethnic group); KJV, NASB, ESV"
+      },
+      {
+        "position": 19,
+        "surface": "בְּ/שָׁוֵ֖ה",
+        "phrase": "in Shaveh",
+        "literal": "in-Shaveh",
+        "source": "Preposition + proper noun (place name); KJV, NASB, ESV"
+      },
+      {
+        "position": 20,
+        "surface": "קִרְיָתָֽיִם",
+        "phrase": "Kiriathaim",
+        "literal": "Kiriathaim",
+        "source": "Proper noun (place name); KJV, NASB, ESV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׂרַי֙",
+        "phrase": "Now Sarai",
+        "literal": "and-Sarai",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֣שֶׁת",
+        "phrase": "wife",
+        "literal": "wife-of",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram's",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "no",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negative particle)"
+      },
+      {
+        "position": 5,
+        "surface": "יָלְדָ֖ה",
+        "phrase": "had borne",
+        "literal": "had-borne",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 6,
+        "surface": "ל֑/וֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB (dative pronoun)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לָ֛/הּ",
+        "phrase": "and she had",
+        "literal": "and-to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁפְחָ֥ה",
+        "phrase": "maidservant",
+        "literal": "maidservant",
+        "source": "KJV (handmaid), ESV (servant), NASB (maid), NRSV (slave-girl)"
+      },
+      {
+        "position": 9,
+        "surface": "מִצְרִ֖ית",
+        "phrase": "Egyptian",
+        "literal": "Egyptian",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/שְׁמָ֥/הּ",
+        "phrase": "and her name",
+        "literal": "and-name-her",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 11,
+        "surface": "הָגָֽר",
+        "phrase": "was Hagar",
+        "literal": "Hagar",
+        "source": "KJV, ESV, NASB, NRSV"
+      }
+    ]
+  }
+]

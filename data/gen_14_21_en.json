@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of 'amar)"
+      },
+      {
+        "position": 2,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "the king",
+        "literal": "king",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "סְדֹ֖ם",
+        "phrase": "of Sodom",
+        "literal": "Sodom",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָ֑ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "תֶּן",
+        "phrase": "Give",
+        "literal": "give!",
+        "source": "imperative of nathan; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לִ֣/י",
+        "phrase": "me",
+        "literal": "to_me",
+        "source": "preposition + 1sg suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/נֶּ֔פֶשׁ",
+        "phrase": "the people",
+        "literal": "the_soul/persons",
+        "source": "KJV (persons), NASB (people), ESV (people)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הָ/רְכֻ֖שׁ",
+        "phrase": "and the goods",
+        "literal": "and_the_property",
+        "source": "KJV (goods), NASB (goods), ESV (possessions)"
+      },
+      {
+        "position": 10,
+        "surface": "קַֽח",
+        "phrase": "take",
+        "literal": "take!",
+        "source": "imperative of laqach; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לָֽ/ךְ",
+        "phrase": "for yourself",
+        "literal": "to_you",
+        "source": "preposition + 2ms suffix; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

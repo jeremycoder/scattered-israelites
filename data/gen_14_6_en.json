@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "KJV, ESV, NASB (waw-consecutive + et as object marker)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חֹרִ֖י",
+        "phrase": "the Horites",
+        "literal": "the-Horite",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/הַרְרָ֣/ם",
+        "phrase": "in their hill country",
+        "literal": "in-mountain-their",
+        "source": "ESV, NASB (bə + haḥar-rām); KJV 'mount Seir'"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׂעִ֑יר",
+        "phrase": "Seir",
+        "literal": "Seir",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֚ד",
+        "phrase": "as far as",
+        "literal": "until",
+        "source": "ESV, NASB, KJV 'unto'"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֣יל",
+        "phrase": "El",
+        "literal": "oak/god",
+        "source": "NASB, ESV (El-Paran); KJV Elparan; note: 'oak' or 'god' per some notes[1]"
+      },
+      {
+        "position": 7,
+        "surface": "פָּארָ֔ן",
+        "phrase": "Paran",
+        "literal": "Paran",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which/who",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon/on",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מִּדְבָּֽר",
+        "phrase": "the wilderness",
+        "literal": "the-wilderness/desert",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

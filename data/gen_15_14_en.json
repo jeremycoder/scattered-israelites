@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַ֧ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "KJV, ESV, NASB, NET (emphatic conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew particle (untranslated); KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/גּ֛וֹי",
+        "phrase": "the nation",
+        "literal": "the-nation",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB, NET (relative pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲבֹ֖דוּ",
+        "phrase": "they will serve",
+        "literal": "they-will-serve",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "דָּ֣ן",
+        "phrase": "I will judge",
+        "literal": "judging-I",
+        "source": "NET (participle from din, 'judge'); KJV ('judge'), ESV ('judge'), NASB ('judge')"
+      },
+      {
+        "position": 7,
+        "surface": "אָנֹ֑כִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "emphatic 1sg pronoun; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אַחֲרֵי",
+        "phrase": "and afterward",
+        "literal": "and-after",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "כֵ֥ן",
+        "phrase": "so",
+        "literal": "thus/afterward",
+        "source": "KJV, ESV, NASB, NET (temporal adverb)"
+      },
+      {
+        "position": 10,
+        "surface": "יֵצְא֖וּ",
+        "phrase": "they will come out",
+        "literal": "they-will-come-out",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "בִּ/רְכֻ֥שׁ",
+        "phrase": "with possessions",
+        "literal": "with-possessions",
+        "source": "KJV ('substance'), ESV/NASB/NET ('possessions')"
+      },
+      {
+        "position": 12,
+        "surface": "גָּדֽוֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

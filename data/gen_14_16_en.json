@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֕שֶׁב",
+        "phrase": "he brought back",
+        "literal": "and-he brought_back",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct_object_marker]",
+        "source": "standard particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רְכֻ֑שׁ",
+        "phrase": "the goods",
+        "literal": "the-goods",
+        "source": "KJV (goods), ESV (possessions), NASB (possessions)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/גַם֩",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct_object_marker]",
+        "source": "standard particle (KJV, ESV)"
+      },
+      {
+        "position": 7,
+        "surface": "ל֨וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אָחִ֤י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV (brother), Mechon-Mamre (brother), ESV (kinsman)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/רְכֻשׁ/וֹ֙",
+        "phrase": "and his goods",
+        "literal": "and-goods-his",
+        "source": "KJV (possessions), ESV (possessions)"
+      },
+      {
+        "position": 10,
+        "surface": "הֵשִׁ֔יב",
+        "phrase": "he brought back",
+        "literal": "he_brought_back",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/גַ֥ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct_object_marker]",
+        "source": "standard particle (KJV, ESV)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/נָּשִׁ֖ים",
+        "phrase": "the women",
+        "literal": "the-women",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct_object_marker]",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/עָֽם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מַלְכִּי",
+        "phrase": "And Melchizedek",
+        "literal": "and-Melchizedek",
+        "source": "KJV, ESV, NASB (proper name, conjunction וְ = 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "צֶ֨דֶק֙",
+        "phrase": "-zedek",
+        "literal": "righteousness",
+        "source": "KJV, ESV, NASB (part of proper name Melchizedek = 'king of righteousness')"
+      },
+      {
+        "position": 3,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁלֵ֔ם",
+        "phrase": "of Salem",
+        "literal": "peace",
+        "source": "KJV, ESV, NASB (Shalem, early name of Jerusalem, 'peaceful')"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹצִ֖יא",
+        "phrase": "brought out",
+        "literal": "he-caused-to-go-out",
+        "source": "KJV, ESV, NASB (yatsa' = bring out)"
+      },
+      {
+        "position": 6,
+        "surface": "לֶ֣חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "KJV, ESV, NASB (lechem = bread, food)"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/יָ֑יִן",
+        "phrase": "and wine",
+        "literal": "and-wine",
+        "source": "KJV, ESV, NASB (conjunction וְ = 'and', yayin = wine)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/ה֥וּא",
+        "phrase": "now he",
+        "literal": "and-he",
+        "source": "ESV ('now he'), NASB (implied), KJV (implied) (disjunctive וְ = 'now')"
+      },
+      {
+        "position": 9,
+        "surface": "כֹהֵ֖ן",
+        "phrase": "priest",
+        "literal": "priest",
+        "source": "KJV, ESV, NASB (kohen = priest)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/אֵ֥ל",
+        "phrase": "of God",
+        "literal": "to-El",
+        "source": "KJV, ESV, NASB (לְ = 'of/to', 'el = God, mighty one)"
+      },
+      {
+        "position": 11,
+        "surface": "עֶלְיֽוֹן",
+        "phrase": "Most High",
+        "literal": "Most-High",
+        "source": "KJV, ESV, NASB ('elyown = Most High)"
+      }
+    ]
+  }
+]

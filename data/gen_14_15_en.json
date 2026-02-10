@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּחָלֵ֨ק",
+        "phrase": "he divided",
+        "literal": "and-he_divided",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "עֲלֵי/הֶ֧ם",
+        "phrase": "against them",
+        "literal": "upon-them",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "לַ֛יְלָה",
+        "phrase": "by night",
+        "literal": "to-night",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "emphatic pronoun; KJV, LXX"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/עֲבָדָ֖י/ו",
+        "phrase": "and his servants",
+        "literal": "and-servants-his",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּכֵּ֑/ם",
+        "phrase": "and defeated them",
+        "literal": "and-struck-them",
+        "source": "KJV (smote), ESV (defeated), NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/יִּרְדְּפֵ/ם֙",
+        "phrase": "and pursued them",
+        "literal": "and-pursued-them",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "as far as",
+        "literal": "until",
+        "source": "preposition of extent; KJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "חוֹבָ֔ה",
+        "phrase": "Hobah",
+        "literal": "Hobah",
+        "source": "proper name; KJV, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which is",
+        "literal": "which",
+        "source": "relative pronoun; ESV, JPS"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/שְּׂמֹ֖אל",
+        "phrase": "north of",
+        "literal": "from-left",
+        "source": "KJV (left hand), ESV (north); שמאל = left/north"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/דַמָּֽשֶׂק",
+        "phrase": "of Damascus",
+        "literal": "to-Damascus",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

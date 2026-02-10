@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְח֨וּ",
+        "phrase": "and they took",
+        "literal": "and-they_took",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar"
+      },
+      {
+        "position": 3,
+        "surface": "ל֧וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative-marker]",
+        "source": "standard Hebrew grammar"
+      },
+      {
+        "position": 5,
+        "surface": "רְכֻשׁ֛/וֹ",
+        "phrase": "his possessions",
+        "literal": "his-possessions",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲחִ֥י",
+        "phrase": "of [his] brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אַבְרָ֖ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֵּלֵ֑כוּ",
+        "phrase": "and they departed",
+        "literal": "and-they_went",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/ה֥וּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יֹשֵׁ֖ב",
+        "phrase": "was living",
+        "literal": "sitting/dwelling",
+        "source": "KJV (dwelt), ESV (living), NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בִּ/סְדֹֽם",
+        "phrase": "in Sodom",
+        "literal": "in-Sodom",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

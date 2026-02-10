@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "Therefore",
+        "literal": "on",
+        "source": "KJV, ESV, NASB, NET (idiomatic 'therefore' with כֵּן)"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּן֙",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "קָרָ֣א",
+        "phrase": "was called",
+        "literal": "he-called",
+        "source": "KJV, ESV, NASB, NET (passive rendering)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/בְּאֵ֔ר",
+        "phrase": "the well",
+        "literal": "to-the-well",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "בְּאֵ֥ר",
+        "phrase": "well",
+        "literal": "well",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "לַחַ֖י",
+        "phrase": "Lahai",
+        "literal": "to-life",
+        "source": "NET (part of name 'Well of the Living One')"
+      },
+      {
+        "position": 7,
+        "surface": "רֹאִ֑י",
+        "phrase": "Roi",
+        "literal": "seeing-me",
+        "source": "NET (part of name 'who sees me')"
+      },
+      {
+        "position": 8,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "KJV, NASB; particle of attention (ESV 'it is')"
+      },
+      {
+        "position": 9,
+        "surface": "בֵין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "קָדֵ֖שׁ",
+        "phrase": "Kadesh",
+        "literal": "holy",
+        "source": "KJV, ESV, NASB, NET (proper name)"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "בָּֽרֶד",
+        "phrase": "Bered",
+        "literal": "hail",
+        "source": "KJV, ESV, NASB, NET (proper name)"
+      }
+    ]
+  }
+]

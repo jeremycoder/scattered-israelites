@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB[3][4]"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֨לֶּה֙",
+        "phrase": "these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB[3][4]"
+      },
+      {
+        "position": 3,
+        "surface": "חָֽבְר֔וּ",
+        "phrase": "joined together",
+        "literal": "they-allied",
+        "source": "KJV ('were joined together'), NASB ('came as allies'), NET ('unite')[2][3]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to",
+        "source": "preposition; KJV, ESV, NASB[3][4]"
+      },
+      {
+        "position": 5,
+        "surface": "עֵ֖מֶק",
+        "phrase": "valley",
+        "literal": "valley",
+        "source": "KJV ('vale'), ESV, NASB[3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שִּׂדִּ֑ים",
+        "phrase": "of Siddim",
+        "literal": "the-Siddim",
+        "source": "proper name; KJV, ESV, NASB[1][3][4]"
+      },
+      {
+        "position": 7,
+        "surface": "ה֖וּא",
+        "phrase": "which is",
+        "literal": "it",
+        "source": "KJV, ESV, NASB; appositive pronoun[1][3]"
+      },
+      {
+        "position": 8,
+        "surface": "יָ֥ם",
+        "phrase": "Sea",
+        "literal": "sea",
+        "source": "KJV, ESV, NASB[3][4]"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מֶּֽלַח",
+        "phrase": "the Salt",
+        "literal": "the-salt",
+        "source": "KJV ('salt sea'), ESV ('Salt Sea'), NASB[1][3][4]"
+      }
+    ]
+  }
+]

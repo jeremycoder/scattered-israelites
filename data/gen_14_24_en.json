@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּלְעָדַי",
+        "phrase": "except",
+        "literal": "in-apart-from-me",
+        "source": "KJV 'Save only', ESV 'I will take nothing but', NASB 'I will take nothing except'"
+      },
+      {
+        "position": 2,
+        "surface": "רַק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "KJV, ESV, NASB all render as 'only' or 'nothing but'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "what",
+        "literal": "that-which",
+        "source": "Relative pronoun, standard in all translations"
+      },
+      {
+        "position": 4,
+        "surface": "אָכְלוּ",
+        "phrase": "have eaten",
+        "literal": "they-ate",
+        "source": "KJV 'have eaten', ESV 'have eaten', NASB 'have eaten'"
+      },
+      {
+        "position": 5,
+        "surface": "הַנְּעָרִים",
+        "phrase": "the young men",
+        "literal": "the-young-men",
+        "source": "KJV 'the young men', ESV 'the young men', NASB 'the young men'"
+      },
+      {
+        "position": 6,
+        "surface": "וְחֵלֶק",
+        "phrase": "and the share",
+        "literal": "and-portion",
+        "source": "KJV 'and the portion', ESV 'and the share', NASB 'and the share'"
+      },
+      {
+        "position": 7,
+        "surface": "הָאֲנָשִׁים",
+        "phrase": "of the men",
+        "literal": "the-men",
+        "source": "KJV 'of the men', ESV 'of the men', NASB 'of the men'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "that-which",
+        "source": "Relative pronoun, standard in all translations"
+      },
+      {
+        "position": 9,
+        "surface": "הָלְכוּ",
+        "phrase": "went",
+        "literal": "they-went",
+        "source": "KJV 'went', ESV 'went', NASB 'went'"
+      },
+      {
+        "position": 10,
+        "surface": "אִתִּי",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "KJV 'with me', ESV 'with me', NASB 'with me'"
+      },
+      {
+        "position": 11,
+        "surface": "עָנֵר",
+        "phrase": "Aner",
+        "literal": "Aner",
+        "source": "Proper noun; all translations render identically"
+      },
+      {
+        "position": 12,
+        "surface": "אֶשְׁכֹּל",
+        "phrase": "Eshcol",
+        "literal": "Eshcol",
+        "source": "Proper noun; all translations render identically"
+      },
+      {
+        "position": 13,
+        "surface": "וּמַמְרֵא",
+        "phrase": "and Mamre",
+        "literal": "and-Mamre",
+        "source": "Proper noun with conjunction; all translations render identically"
+      },
+      {
+        "position": 14,
+        "surface": "הֵם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "Independent pronoun; KJV 'let them', ESV 'let them', NASB 'let them'"
+      },
+      {
+        "position": 15,
+        "surface": "יִקְחוּ",
+        "phrase": "shall take",
+        "literal": "they-shall-take",
+        "source": "KJV 'let them take', ESV 'let them take', NASB 'let them take'"
+      },
+      {
+        "position": 16,
+        "surface": "חֶלְקָם",
+        "phrase": "their share",
+        "literal": "portion-their",
+        "source": "KJV 'their portion', ESV 'their share', NASB 'their share'"
+      }
+    ]
+  }
+]

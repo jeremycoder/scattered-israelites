@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֶאֱמִ֖ן",
+        "phrase": "and he believed",
+        "literal": "and-he-believed",
+        "source": "KJV, ESV, NASB, NET (Hiphil of אמן, 'to consider reliable')"
+      },
+      {
+        "position": 2,
+        "surface": "בַּֽ/יהוָ֑ה",
+        "phrase": "in the LORD",
+        "literal": "in-YHWH",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יַּחְשְׁבֶ֥/הָ",
+        "phrase": "and he credited it",
+        "literal": "and-he-reckoned-it",
+        "source": "KJV, ESV, NASB, NET (חָשַׁב, 'to reckon, credit')"
+      },
+      {
+        "position": 4,
+        "surface": "לּ֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB (dative preposition lamed + 3ms suffix)"
+      },
+      {
+        "position": 5,
+        "surface": "צְדָקָֽה",
+        "phrase": "righteousness",
+        "literal": "righteousness",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

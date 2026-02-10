@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַבְרָ֕ם",
+        "phrase": "And Abram",
+        "literal": "and-Abram",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "was",
+        "literal": "son-of",
+        "source": "KJV ('was'), ESV ('was'), NASB ('was')"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמֹנִ֥ים",
+        "phrase": "eighty",
+        "literal": "eighty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שֵׁ֣שׁ",
+        "phrase": "and six",
+        "literal": "and-six",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנִ֑ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/לֶֽדֶת",
+        "phrase": "when",
+        "literal": "in-birth",
+        "source": "KJV ('when'), ESV ('when'), NASB ('when')"
+      },
+      {
+        "position": 8,
+        "surface": "הָגָ֥ר",
+        "phrase": "Hagar",
+        "literal": "Hagar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׁמָעֵ֖אל",
+        "phrase": "Ishmael",
+        "literal": "Ishmael",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/אַבְרָֽם",
+        "phrase": "to Abram",
+        "literal": "to-Abram",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "and it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol marker)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שֶּׁ֨מֶשׁ֙",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/ב֔וֹא",
+        "phrase": "was going down",
+        "literal": "to-enter/to-set",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/תַרְדֵּמָ֖ה",
+        "phrase": "and a deep sleep",
+        "literal": "and-deep_sleep",
+        "source": "KJV, ESV, NASB (tardemah: trance-like sleep)"
+      },
+      {
+        "position": 5,
+        "surface": "נָפְלָ֣ה",
+        "phrase": "fell",
+        "literal": "fell",
+        "source": "KJV, ESV, NASB (naphal: to fall)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אַבְרָ֑ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-lo",
+        "source": "discourse marker; KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֵימָ֛ה",
+        "phrase": "terror",
+        "literal": "terror/horror",
+        "source": "KJV (horror), ESV (dread), NASB (terror)"
+      },
+      {
+        "position": 10,
+        "surface": "חֲשֵׁכָ֥ה",
+        "phrase": "darkness",
+        "literal": "darkness",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "גְדֹלָ֖ה",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "נֹפֶ֥לֶת",
+        "phrase": "falling",
+        "literal": "falling",
+        "source": "KJV, NASB (participle of naphal)"
+      },
+      {
+        "position": 13,
+        "surface": "עָלָֽי/ו",
+        "phrase": "upon him",
+        "literal": "upon-him",
+        "source": "KJV, ESV, NASB (preposition + pronominal suffix)"
+      }
+    ]
+  }
+]

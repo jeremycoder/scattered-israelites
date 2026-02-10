@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "KJV, ESV, NASB (oath particle: 'if I take...' meaning 'I will not')"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/חוּט֙",
+        "phrase": "a thread",
+        "literal": "from-thread",
+        "source": "KJV ('thread'), ESV ('thread'), NASB ('thread')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עַ֣ד",
+        "phrase": "even to",
+        "literal": "and-to",
+        "source": "KJV ('even to'), NASB ('or')"
+      },
+      {
+        "position": 4,
+        "surface": "שְׂרֽוֹךְ",
+        "phrase": "a sandal strap",
+        "literal": "thong",
+        "source": "KJV ('shoelatchet'), ESV ('sandal strap'), NASB ('sandal thong')"
+      },
+      {
+        "position": 5,
+        "surface": "נַ֔עַל",
+        "phrase": "of a sandal",
+        "literal": "sandal",
+        "source": "ESV ('sandal'), NASB ('sandal')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אִם",
+        "phrase": "or if",
+        "literal": "and-if",
+        "source": "KJV, ESV, NASB (oath particle)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶקַּ֖ח",
+        "phrase": "I take",
+        "literal": "I-take",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/כָּל",
+        "phrase": "anything",
+        "literal": "from-all",
+        "source": "ESV ('anything'), NASB ('anything')"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 10,
+        "surface": "לָ֑/ךְ",
+        "phrase": "belongs to you",
+        "literal": "to-you",
+        "source": "ESV ('yours'), NASB ('yours')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "lest",
+        "literal": "and-not",
+        "source": "KJV ('lest'), ESV ('lest'), NASB ('for fear')"
+      },
+      {
+        "position": 12,
+        "surface": "תֹאמַ֔ר",
+        "phrase": "you should say",
+        "literal": "you-say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "ESV, NASB (emphatic pronoun)"
+      },
+      {
+        "position": 14,
+        "surface": "הֶעֱשַׁ֥רְתִּי",
+        "phrase": "have made rich",
+        "literal": "I-have-enriched",
+        "source": "KJV ('made...rich'), ESV ('made...rich'), NASB ('made...rich')"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Standard Hebrew grammar (accusative marker); ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אַבְרָֽם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

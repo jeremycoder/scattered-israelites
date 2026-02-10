@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתָּ֛ה",
+        "phrase": "As for you",
+        "literal": "and-you",
+        "source": "ESV, KJV, NASB (topicalized vocative) [1][5][8]"
+      },
+      {
+        "position": 2,
+        "surface": "תָּב֥וֹא",
+        "phrase": "you shall go",
+        "literal": "you-will-come/go",
+        "source": "ESV, KJV, NASB [1][5][8]"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (ESV, KJV, NASB) [1][5]"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבֹתֶ֖י/ךָ",
+        "phrase": "your fathers",
+        "literal": "fathers-your",
+        "source": "ESV, KJV, NASB [1][5][8]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/שָׁל֑וֹם",
+        "phrase": "in peace",
+        "literal": "in-peace",
+        "source": "ESV, KJV, NASB [1][5][8]"
+      },
+      {
+        "position": 6,
+        "surface": "תִּקָּבֵ֖ר",
+        "phrase": "you shall be buried",
+        "literal": "you-will-be-buried",
+        "source": "ESV, KJV, NASB [1][5][8]"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/שֵׂיבָ֥ה",
+        "phrase": "in a good",
+        "literal": "in-old-age",
+        "source": "ESV ('good old age'), NASB; שֵׂיבָה = old age [1][5][8]"
+      },
+      {
+        "position": 8,
+        "surface": "טוֹבָֽה",
+        "phrase": "old age",
+        "literal": "good",
+        "source": "modifies שֵׂיבָה; ESV, NASB [1][5][8]"
+      }
+    ]
+  }
+]

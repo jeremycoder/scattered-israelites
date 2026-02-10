@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִנֵּ֨ה",
+        "phrase": "And behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB, OJB (hinei)"
+      },
+      {
+        "position": 2,
+        "surface": "דְבַר",
+        "phrase": "the word",
+        "literal": "word",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֤ה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלָי/ו֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "infinitive construct; KJV, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יִֽירָשְׁ/ךָ֖",
+        "phrase": "shall be your heir",
+        "literal": "shall-inherit-you",
+        "source": "KJV (thine heir), ESV (your heir), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "זֶ֑ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "KJV, ESV, NASB (this man)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV; causal particle"
+      },
+      {
+        "position": 10,
+        "surface": "אִם֙",
+        "phrase": "but",
+        "literal": "if-not",
+        "source": "adversative; KJV (but), ESV (but)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "which",
+        "source": "relative pronoun; ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יֵצֵ֣א",
+        "phrase": "shall come forth",
+        "literal": "shall-go-out",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/מֵּעֶ֔י/ךָ",
+        "phrase": "from your own body",
+        "literal": "from-bowels-your",
+        "source": "KJV (bowels), ESV (loins footnote), NASB"
+      },
+      {
+        "position": 14,
+        "surface": "ה֖וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "יִֽירָשֶֽׁ/ךָ",
+        "phrase": "shall be your heir",
+        "literal": "shall-inherit-you",
+        "source": "KJV (thine heir), ESV (your heir), NASB"
+      }
+    ]
+  }
+]

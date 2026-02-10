@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Conjunction waw + qal imperfect 3ms of אמר (amar)"
+      },
+      {
+        "position": 2,
+        "surface": "לָהּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "Preposition le + 3fs pronominal suffix"
+      },
+      {
+        "position": 3,
+        "surface": "מַלְאַךְ",
+        "phrase": "angel",
+        "literal": "messenger",
+        "source": "Masculine singular noun; KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "Divine name; construct relationship with preceding noun"
+      },
+      {
+        "position": 5,
+        "surface": "שׁוּבִי",
+        "phrase": "return",
+        "literal": "return-you.fs",
+        "source": "Qal imperative 2fs of שוב (shuv); KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition indicating direction"
+      },
+      {
+        "position": 7,
+        "surface": "גְּבִרְתֵּךְ",
+        "phrase": "your mistress",
+        "literal": "mistress-your.fs",
+        "source": "Feminine singular noun with 2fs pronominal suffix; KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "וְהִתְעַנִּי",
+        "phrase": "and submit",
+        "literal": "and-submit-you.fs",
+        "source": "Conjunction waw + hitpael imperative 2fs of ענה (anah); NASB 'submit,' Holman 'submit to her mistreatment'"
+      },
+      {
+        "position": 9,
+        "surface": "תַּחַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "Preposition; KJV 'under her hands'"
+      },
+      {
+        "position": 10,
+        "surface": "יָדֶיהָ",
+        "phrase": "her authority",
+        "literal": "hands-her.fs",
+        "source": "Feminine dual noun with 3fs pronominal suffix; NASB 'her authority,' KJV 'her hands'"
+      }
+    ]
+  }
+]

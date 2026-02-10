@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/ד֥וֹר",
+        "phrase": "in the fourth",
+        "literal": "and-generation",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "רְבִיעִ֖י",
+        "phrase": "generation",
+        "literal": "fourth",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "יָשׁ֣וּבוּ",
+        "phrase": "they shall return",
+        "literal": "they-will-return",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "הֵ֑נָּה",
+        "phrase": "here",
+        "literal": "hither",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֧י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁלֵ֛ם",
+        "phrase": "complete",
+        "literal": "complete-full",
+        "source": "ESV, NASB, NKJV"
+      },
+      {
+        "position": 8,
+        "surface": "עֲוֺ֥ן",
+        "phrase": "iniquity",
+        "literal": "iniquity",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֱמֹרִ֖י",
+        "phrase": "of the Amorites",
+        "literal": "the-Amorite",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "ESV, NASB; note: temporal preposition"
+      },
+      {
+        "position": 11,
+        "surface": "הֵֽנָּה",
+        "phrase": "then",
+        "literal": "hither",
+        "source": "Chabad, LEB; note: temporal 'here'"
+      }
+    ]
+  }
+]

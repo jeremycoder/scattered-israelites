@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/קֵּינִי֙",
+        "phrase": "Kenites",
+        "literal": "the-Kenite",
+        "source": "KJV, ESV, NASB, NRSV[1][4]"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קְּנִזִּ֔י",
+        "phrase": "Kenezites",
+        "literal": "the-Kenezite",
+        "source": "KJV, ESV, NASB, NRSV[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/קַּדְמֹנִֽי",
+        "phrase": "Kadmonites",
+        "literal": "the-Easterner",
+        "source": "KJV, ESV, NASB, NRSV[1][4]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֧לֶד",
+        "phrase": "bore",
+        "literal": "and-she_gave_birth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הָגָ֛ר",
+        "phrase": "Hagar",
+        "literal": "Hagar",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/אַבְרָ֖ם",
+        "phrase": "to Abram",
+        "literal": "to_Abram",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֑ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקְרָ֨א",
+        "phrase": "called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "אַבְרָ֧ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "שֶׁם",
+        "phrase": "the name of",
+        "literal": "name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנ֛/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which/who",
+        "source": "relative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "יָלְדָ֥ה",
+        "phrase": "she had borne",
+        "literal": "she_gave_birth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "הָגָ֖ר",
+        "phrase": "Hagar",
+        "literal": "Hagar",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "יִשְׁמָעֵֽאל",
+        "phrase": "Ishmael",
+        "literal": "Ishmael",
+        "source": "proper name, 'God hears' (KJV, ESV, NASB, NET)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/ה֤וּא",
+        "phrase": "And he",
+        "literal": "and-he",
+        "source": "KJV, ESV, NASB (conjunction waw + pronoun hu')"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶה֙",
+        "phrase": "will be",
+        "literal": "he-will-be",
+        "source": "KJV, ESV, NASB (Qal imperfect 3ms of hayah)"
+      },
+      {
+        "position": 3,
+        "surface": "פֶּ֣רֶא",
+        "phrase": "wild donkey",
+        "literal": "wild-ass",
+        "source": "NASB, ESV (pere'; onager, wild donkey); KJV 'wild man'"
+      },
+      {
+        "position": 4,
+        "surface": "אָדָ֔ם",
+        "phrase": "of a man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB ('adam; human)"
+      },
+      {
+        "position": 5,
+        "surface": "יָד֣/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "KJV, ESV, NASB (yad + 3ms suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "בַ/כֹּ֔ל",
+        "phrase": "against everyone",
+        "literal": "in-all",
+        "source": "KJV, ESV, NASB (ba-kol; preposition + kol 'all')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/יַ֥ד",
+        "phrase": "and hand",
+        "literal": "and-hand",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּ֖ל",
+        "phrase": "everyone's",
+        "literal": "all",
+        "source": "KJV, ESV, NASB (kol 'all')"
+      },
+      {
+        "position": 9,
+        "surface": "בּ֑/וֹ",
+        "phrase": "against him",
+        "literal": "in-him",
+        "source": "KJV, ESV, NASB (b- + 3ms suffix)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/עַל",
+        "phrase": "and",
+        "literal": "and-on",
+        "source": "KJV, ESV, NASB (waw + preposition 'al)"
+      },
+      {
+        "position": 11,
+        "surface": "פְּנֵ֥י",
+        "phrase": "faces",
+        "literal": "faces",
+        "source": "ESV, NASB (penei; dual of paneh 'face')"
+      },
+      {
+        "position": 12,
+        "surface": "כָל",
+        "phrase": "of all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB (kol 'all')"
+      },
+      {
+        "position": 13,
+        "surface": "אֶחָ֖י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, ESV, NASB ('echayv; brothers + 3ms suffix)"
+      },
+      {
+        "position": 14,
+        "surface": "יִשְׁכֹּֽן",
+        "phrase": "he shall live",
+        "literal": "he-will-dwell",
+        "source": "KJV, ESV, NASB (Qal imperfect 3ms of shakan)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְבָרְכֵ֖/הוּ",
+        "phrase": "And he blessed him",
+        "literal": "and-blessed.him",
+        "source": "KJV, ESV, NASB: 'And he blessed him'"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB: 'and said'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּר֤וּךְ",
+        "phrase": "Blessed be",
+        "literal": "blessed",
+        "source": "KJV, ESV, NASB: 'Blessed be Abram'; verbless construction[1]"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָם֙",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/אֵ֣ל",
+        "phrase": "of God",
+        "literal": "to-of God",
+        "source": "KJV 'of the most high God', NASB 'of God Most High'; preposition + 'El'[5]"
+      },
+      {
+        "position": 6,
+        "surface": "עֶלְי֔וֹן",
+        "phrase": "Most High",
+        "literal": "Most-High",
+        "source": "KJV, ESV, NASB: 'Most High'"
+      },
+      {
+        "position": 7,
+        "surface": "קֹנֵ֖ה",
+        "phrase": "Possessor",
+        "literal": "possessor-creator",
+        "source": "KJV, NASB 'possessor'; ESV, HCSB 'creator'; dual sense noted[1][5]"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁמַ֥יִם",
+        "phrase": "of heaven",
+        "literal": "heavens",
+        "source": "KJV, ESV, NASB: 'heaven'"
+      },
+      {
+        "position": 9,
+        "surface": "וָ/אָֽרֶץ",
+        "phrase": "and earth",
+        "literal": "and-earth",
+        "source": "KJV, ESV, NASB: 'and earth'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "Proper name; KJV, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "הֵ֣ן",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "Particle of attention; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לִ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "נָתַ֖תָּה",
+        "phrase": "you have given",
+        "literal": "you-have-given",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "זָ֑רַע",
+        "phrase": "offspring",
+        "literal": "seed",
+        "source": "KJV (seed), ESV (offspring), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "Conjunction + particle; KJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "בֶן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּיתִ֖/י",
+        "phrase": "of my household",
+        "literal": "house-my",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "יוֹרֵ֥שׁ",
+        "phrase": "is my heir",
+        "literal": "heir",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֹתִֽ/י",
+        "phrase": "me",
+        "literal": "me",
+        "source": "Object marker + me; KJV, ESV"
+      }
+    ]
+  }
+]

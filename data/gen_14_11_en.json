@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 14,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ֠/יִּקְחוּ",
+        "phrase": "they took",
+        "literal": "and-they_took",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew particle (accusative marker)"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "רְכֻ֨שׁ",
+        "phrase": "possessions",
+        "literal": "possessions-goods",
+        "source": "KJV (goods), ESV (possessions), NASB (possessions)"
+      },
+      {
+        "position": 5,
+        "surface": "סְדֹ֧ם",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/עֲמֹרָ֛ה",
+        "phrase": "and Gomorrah",
+        "literal": "and-Gomorrah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct_object_marker",
+        "source": "standard Hebrew conjunction and particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אָכְלָ֖/ם",
+        "phrase": "their food",
+        "literal": "food-their",
+        "source": "KJV (victuals), ESV (food), NASB (food), NET (provisions)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יֵּלֵֽכוּ",
+        "phrase": "and they went",
+        "literal": "and-they_went",
+        "source": "KJV (went), ESV (went their way), NASB (went their way)"
+      }
+    ]
+  }
+]

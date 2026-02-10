@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חִתִּ֥י",
+        "phrase": "Hittites",
+        "literal": "the-Hittite",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פְּרִזִּ֖י",
+        "phrase": "Perizzites",
+        "literal": "the-Perizzite",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/רְפָאִֽים",
+        "phrase": "Rephaim",
+        "literal": "the-Rephaim",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

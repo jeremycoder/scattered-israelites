@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמַ֑ר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "אֲדֹנָ֣י",
+        "phrase": "Lord",
+        "literal": "Lord-my",
+        "source": "KJV, ESV, NASB, HCSB; construct form with possessive suffix"
+      },
+      {
+        "position": 3,
+        "surface": "יֱהוִ֔ה",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, HCSB; the divine name YHWH"
+      },
+      {
+        "position": 4,
+        "surface": "בַּמָּ֥ה",
+        "phrase": "how",
+        "literal": "by-what",
+        "source": "KJV, ESV, NASB, HCSB; preposition בְ + interrogative pronoun מָה"
+      },
+      {
+        "position": 5,
+        "surface": "אֵדַ֖ע",
+        "phrase": "shall I know",
+        "literal": "I.shall.know",
+        "source": "KJV, ESV, NASB, HCSB; first person singular imperfect of יָדַע"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB, HCSB; conjunction introducing subordinate clause"
+      },
+      {
+        "position": 7,
+        "surface": "אִֽירָשֶֽׁנָּה",
+        "phrase": "I shall inherit it",
+        "literal": "I.shall.inherit-it",
+        "source": "KJV, ESV, NASB, HCSB; first person singular imperfect of יָרַשׁ with third person feminine singular object suffix"
+      }
+    ]
+  }
+]

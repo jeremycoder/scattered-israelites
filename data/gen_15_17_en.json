@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 15,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "and it came to pass",
+        "literal": "and-become",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol introducing event)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שֶּׁ֨מֶשׁ֙",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ֔אָה",
+        "phrase": "had set",
+        "literal": "come",
+        "source": "KJV (went down), ESV (had gone down), NASB (had set)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/עֲלָטָ֖ה",
+        "phrase": "and thick darkness",
+        "literal": "and-thick darkness",
+        "source": "KJV, NASB (dark), ESV (it was dark)"
+      },
+      {
+        "position": 5,
+        "surface": "הָיָ֑ה",
+        "phrase": "had come",
+        "literal": "be",
+        "source": "KJV, ESV, NASB (it was)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הִנֵּ֨ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB (discourse marker)"
+      },
+      {
+        "position": 7,
+        "surface": "תַנּ֤וּר",
+        "phrase": "furnace",
+        "literal": "oven-furnace",
+        "source": "KJV (furnace), ESV (fire pot), NASB (oven)"
+      },
+      {
+        "position": 8,
+        "surface": "עָשָׁן֙",
+        "phrase": "smoking",
+        "literal": "smoke",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לַפִּ֣יד",
+        "phrase": "and a torch",
+        "literal": "and-to torch",
+        "source": "KJV (lamp), ESV (torch), NASB (torch)"
+      },
+      {
+        "position": 10,
+        "surface": "אֵ֔שׁ",
+        "phrase": "of fire",
+        "literal": "fire",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 12,
+        "surface": "עָבַ֔ר",
+        "phrase": "passed",
+        "literal": "pass",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בֵּ֖ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/גְּזָרִ֥ים",
+        "phrase": "the pieces",
+        "literal": "the-cut pieces",
+        "source": "KJV, ESV, NASB (referring to cut covenant pieces)"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/אֵֽלֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV, NASB (demonstrative pronoun)"
+      }
+    ]
+  }
+]

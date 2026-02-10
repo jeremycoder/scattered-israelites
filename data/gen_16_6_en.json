@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 16,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֜ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (ESV, NASB, NRSV)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂרַ֗י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "הִנֵּ֤ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "particle introducing clause (NRSV, NET, KJV)"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁפְחָתֵ/ךְ֙",
+        "phrase": "your maidservant",
+        "literal": "maidservant-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/יָדֵ֔/ךְ",
+        "phrase": "in your hand",
+        "literal": "in-hand-your",
+        "source": "idiom for 'in your power' (NET, NRSV, KJV)"
+      },
+      {
+        "position": 8,
+        "surface": "עֲשִׂי",
+        "phrase": "do",
+        "literal": "do",
+        "source": "imperative (ESV, NASB, NRSV)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ֖/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "preposition + pronoun (KJV, ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/טּ֣וֹב",
+        "phrase": "what is good",
+        "literal": "the-good",
+        "source": "NET, NRSV"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/עֵינָ֑יִ/ךְ",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "idiom for 'as you please' (NET, KJV, ESV)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/תְּעַנֶּ֣/הָ",
+        "phrase": "dealt harshly with her",
+        "literal": "and-afflicted-her",
+        "source": "Piel 'oppress' (NET, NRSV, ESV)"
+      },
+      {
+        "position": 13,
+        "surface": "שָׂרַ֔י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/תִּבְרַ֖ח",
+        "phrase": "fled",
+        "literal": "and-fled",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "מִ/פָּנֶֽי/הָ",
+        "phrase": "from her presence",
+        "literal": "from-face-her",
+        "source": "idiom for 'from her' (NET, NRSV, KJV)"
+      }
+    ]
+  }
+]
