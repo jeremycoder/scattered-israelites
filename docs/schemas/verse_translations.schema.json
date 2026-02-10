@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Verse Translations",
+  "description": "Contextual word-by-word translations for a single verse in a specific language. Use this schema when prompting Perplexity AI to generate translations.",
+  "type": "object",
+  "required": ["book", "chapter", "verse", "language_code", "language_name", "words"],
+  "properties": {
+    "book": {
+      "type": "string",
+      "description": "Book name matching the database (e.g. 'Genesis', 'Exodus')"
+    },
+    "chapter": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "verse": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "language_code": {
+      "type": "string",
+      "description": "ISO 639-1 language code (e.g. 'en', 'es', 'fr')",
+      "pattern": "^[a-z]{2,3}$"
+    },
+    "language_name": {
+      "type": "string",
+      "description": "Human-readable language name (e.g. 'English', 'Spanish')"
+    },
+    "words": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["position", "surface", "phrase"],
+        "properties": {
+          "position": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Word position in the verse (1-based, matching WordOccurrence.position)"
+          },
+          "surface": {
+            "type": "string",
+            "description": "Hebrew surface form for verification (e.g. 'בְּרֵאשִׁית')"
+          },
+          "phrase": {
+            "type": "string",
+            "description": "Contextual translation phrase (e.g. 'in the beginning')"
+          },
+          "literal": {
+            "type": "string",
+            "description": "Hyphenated literal/morpheme-by-morpheme gloss (e.g. 'in-beginning-of')"
+          },
+          "source": {
+            "type": "string",
+            "description": "Translation source citations (e.g. 'KJV, ESV, NASB')"
+          }
+        }
+      }
+    }
+  }
+}

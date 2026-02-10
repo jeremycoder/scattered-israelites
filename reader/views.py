@@ -101,7 +101,8 @@ def verse_view(request, book_slug, chapter, verse_num):
     words = list(
         WordOccurrence.objects
         .filter(verse=verse)
-        .select_related('hebrew_analysis')
+        .select_related('hebrew_analysis', 'hebrew_translation')
+        .prefetch_related('translations')
         .order_by('position')
     )
 

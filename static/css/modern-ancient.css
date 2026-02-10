@@ -236,6 +236,12 @@ h1.page-title {
   line-height: 1.375rem;
   color: var(--text-secondary);
 }
+.word-translation-alt {
+  font-size: 0.8125rem;
+  line-height: 1.125rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
 .word-morph-code {
   font-size: 0.875rem;
   line-height: 1.25rem;
@@ -534,7 +540,7 @@ footer .attribution a:hover { color: var(--gold-light); }
   align-items: center;
   gap: 0.25rem;
   margin-bottom: 0.75rem;
-  font-size: 0.9375rem;
+  font-size: 1rem;
 }
 .breadcrumb-trail li + li::before {
   content: "/";
@@ -542,16 +548,21 @@ footer .attribution a:hover { color: var(--gold-light); }
   margin-right: 0.25rem;
 }
 .breadcrumb-trail a {
-  color: var(--terracotta);
+  color: var(--gold);
   text-decoration: none;
+  font-weight: 500;
   transition: color 0.15s;
 }
 .breadcrumb-trail a:hover {
-  color: var(--terracotta-dk);
+  color: var(--gold-light);
   text-decoration: underline;
 }
 .breadcrumb-trail .current {
-  color: var(--text-secondary);
+  color: var(--warm-50);
+  font-weight: 500;
+}
+.breadcrumb-trail .current.hebrew {
+  font-size: 1.25rem;
 }
 
 /* ---- PAGE HEADER (title + nav) ---- */

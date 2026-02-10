@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּרֵאשִׁ֖ית",
+        "phrase": "in the beginning",
+        "literal": "in-beginning-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בָּרָ֣א",
+        "phrase": "created",
+        "literal": "he-created",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֑ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ת",
+        "phrase": "(untranslated)",
+        "literal": "DOM",
+        "source": "direct object marker"
+      },
+      {
+        "position": 5,
+        "surface": "הַשָּׁמַ֖יִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְאֵ֥ת",
+        "phrase": "and (untranslated)",
+        "literal": "and-DOM",
+        "source": "conjunction + direct object marker"
+      },
+      {
+        "position": 7,
+        "surface": "הָאָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

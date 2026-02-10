@@ -34,15 +34,22 @@
 </div>
 
 <div class="card mb-card">
-  <div class="card-header">Interlinear</div>
-  <div class="card-body">
+  <div class="card-body" style="text-align:right;">
     <div class="verse-words">
       {% for word in words %}
       <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
-         class="word-cell"
-         title="{{ word.surface }} — {{ glosses|dict_get:word.strongs_id }}">
+         class="word-cell">
         <span class="word-surface hebrew">{{ word.surface }}</span>
-        <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
+        {% for tr in word.translations.all %}
+          {% if tr.language_code == "en" %}
+            <span class="word-gloss">{{ tr.phrase }}</span>
+          {% else %}
+            <span class="word-translation-alt">{{ tr.phrase }}</span>
+          {% endif %}
+        {% empty %}
+          <span class="word-gloss">{{ word.hebrew_translation.phrase|default:"" }}</span>
+        {% endfor %}
+        <span class="word-morph-code">{{ word.morphology }}</span>
       </a>
       {% endfor %}
     </div>

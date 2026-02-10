@@ -238,3 +238,30 @@ class HebrewTranslation(models.Model):
     def __str__(self) -> str:
         return f"{self.word} → {self.phrase}"
 
+
+class WordTranslation(models.Model):
+    """
+    Contextual translation of a Hebrew word in a specific language.
+    Multiple translations per word (one per language).
+    """
+
+    word = models.ForeignKey(
+        "WordOccurrence",
+        on_delete=models.CASCADE,
+        related_name="translations",
+    )
+    language_code = models.CharField(max_length=10, db_index=True)  # 'en', 'es', 'fr'
+    language_name = models.CharField(max_length=50)                 # 'English', 'Spanish'
+    phrase = models.CharField(max_length=255)                       # "in the beginning"
+    literal = models.CharField(max_length=255, blank=True)          # "in-beginning-of"
+    source = models.CharField(max_length=255, blank=True)           # "KJV, ESV" or citation
+
+    class Meta:
+        unique_together = [('word', 'language_code')]
+        ordering = ['language_code']
+        verbose_name = "Word Translation"
+        verbose_name_plural = "Word Translations"
+
+    def __str__(self) -> str:
+        return f"{self.word} [{self.language_code}] → {self.phrase}"
+

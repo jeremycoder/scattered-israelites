@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Book, Lexeme, Verse, WordOccurrence
+from .models import Book, Lexeme, Verse, WordOccurrence, WordTranslation
 
 
 @admin.register(Lexeme)
@@ -29,3 +29,10 @@ class WordOccurrenceAdmin(admin.ModelAdmin):
     list_display = ('verse', 'position', 'language', 'surface', 'lemma', 'strongs_id')
     list_filter = ('language', 'source')
     search_fields = ('surface', 'lemma', 'strongs_id', 'word_id')
+
+
+@admin.register(WordTranslation)
+class WordTranslationAdmin(admin.ModelAdmin):
+    list_display = ('word', 'language_code', 'language_name', 'phrase', 'source')
+    list_filter = ('language_code',)
+    search_fields = ('phrase', 'literal', 'word__surface')
