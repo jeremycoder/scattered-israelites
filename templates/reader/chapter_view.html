@@ -2,19 +2,32 @@
 {% block title %}{{ book.name }} {{ chapter }} — Scattered Israelites Bible{% endblock %}
 
 {% block content %}
-<div class="page-nav">
-  <a href="{% url 'chapter-list' book.slug %}" class="breadcrumb">&larr; {{ book.name }}</a>
-  <div class="page-nav-links">
+<nav aria-label="Breadcrumb">
+  <ol class="breadcrumb-trail">
+    <li><a href="{% url 'book-list' %}">Bible</a></li>
+    <li><a href="{% url 'chapter-list' book.slug %}">{{ book.name }}</a></li>
+    <li><span class="current">Chapter {{ chapter }}</span></li>
+  </ol>
+</nav>
+
+<div class="page-header">
+  <div class="page-header-text">
+    <h1 class="page-title">{{ book.name }} {{ chapter }}</h1>
+    <p class="page-subtitle">Tap any word to study its Hebrew root, morphology, and meaning.</p>
+  </div>
+  <div class="page-header-nav">
     {% if prev_chapter %}
-    <a href="{% url 'chapter-view' book.slug prev_chapter %}" class="nav-link">&larr; Chapter {{ prev_chapter }}</a>
+    <a href="{% url 'chapter-view' book.slug prev_chapter %}" class="nav-link">&larr; Ch. {{ prev_chapter }}</a>
     {% endif %}
     {% if next_chapter %}
-    <a href="{% url 'chapter-view' book.slug next_chapter %}" class="nav-link">Chapter {{ next_chapter }} &rarr;</a>
+    <a href="{% url 'chapter-view' book.slug next_chapter %}" class="nav-link">Ch. {{ next_chapter }} &rarr;</a>
     {% endif %}
   </div>
 </div>
 
-<h1 class="page-title">{{ book.name }} {{ chapter }}</h1>
+<div class="section-divider">
+  <h2>Interlinear Text</h2>
+</div>
 
 {% include "reader/partials/verse_list.html" %}
 

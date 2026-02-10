@@ -9,8 +9,15 @@
 {% endblock %}
 
 {% block content %}
-<!-- Breadcrumb -->
-<a href="{% url 'verse-view' book.slug chapter verse_num %}" class="breadcrumb">&larr; {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
+<nav aria-label="Breadcrumb">
+  <ol class="breadcrumb-trail">
+    <li><a href="{% url 'book-list' %}">Bible</a></li>
+    <li><a href="{% url 'chapter-list' book.slug %}">{{ book.name }}</a></li>
+    <li><a href="{% url 'chapter-view' book.slug chapter %}">Chapter {{ chapter }}</a></li>
+    <li><a href="{% url 'verse-view' book.slug chapter verse_num %}">Verse {{ verse_num }}</a></li>
+    <li><span class="current hebrew">{{ word.surface }}</span></li>
+  </ol>
+</nav>
 
 <!-- Hero card -->
 <div class="word-study-hero">
@@ -38,7 +45,9 @@
 {% endif %}
 
 <!-- Verse in context -->
-<h2 class="section-heading">Verse in Context</h2>
+<div class="section-divider">
+  <h2>Verse in Context</h2>
+</div>
 <div class="card mb-card">
   <div class="card-body">
     <div class="verse-words">
@@ -61,13 +70,16 @@
 </div>
 
 <!-- Morphology + Lexicon side-by-side -->
+<div class="section-divider">
+  <h2>Grammar &amp; Lexicon</h2>
+</div>
 <div class="two-col mb-card">
   {% if analysis %}
   <div class="card">
     <div class="card-header">Morphology</div>
     <div class="card-body">
       <table class="kv-table">
-        <tr><td>Raw Code</td><td style="font-family:ui-monospace,'Cascadia Code',monospace; font-size:0.875rem;">{{ word.morphology }}</td></tr>
+        <tr><td>Raw Code</td><td class="kv-mono">{{ word.morphology }}</td></tr>
         <tr><td>Part of Speech</td><td>{{ analysis.part_of_speech }}</td></tr>
         {% if analysis.subtype %}<tr><td>Subtype</td><td>{{ analysis.subtype }}</td></tr>{% endif %}
         {% if analysis.binyan %}<tr><td>Binyan</td><td>{{ analysis.binyan }}</td></tr>{% endif %}
@@ -89,11 +101,11 @@
     <div class="card-header">Lexicon</div>
     <div class="card-body">
       <table class="kv-table">
-        <tr><td>Lemma</td><td class="hebrew" dir="rtl" style="font-size:1.25rem;">{{ word.lemma }}</td></tr>
+        <tr><td>Lemma</td><td class="hebrew kv-hebrew" dir="rtl">{{ word.lemma }}</td></tr>
         {% if word.strongs_id %}<tr><td>Strong's</td><td>{{ word.strongs_id }}</td></tr>{% endif %}
-        {% if transliteration %}<tr><td>Transliteration</td><td style="font-style:italic;">{{ transliteration }}</td></tr>{% endif %}
+        {% if transliteration %}<tr><td>Transliteration</td><td class="kv-italic">{{ transliteration }}</td></tr>{% endif %}
         {% if gloss %}<tr><td>Gloss</td><td>{{ gloss }}</td></tr>{% endif %}
-        {% if definition %}<tr><td>Definition</td><td style="font-size:0.875rem;">{{ definition }}</td></tr>{% endif %}
+        {% if definition %}<tr><td>Definition</td><td class="kv-small">{{ definition }}</td></tr>{% endif %}
       </table>
     </div>
   </div>
@@ -101,11 +113,13 @@
 
 <!-- Lexical Info card (HebrewLexicalInfo) -->
 {% if lexical_info %}
+<div class="section-divider">
+  <h2>Lexical Info</h2>
+</div>
 <div class="card mb-card">
-  <div class="card-header">Lexical Info</div>
   <div class="card-body">
     <table class="kv-table">
-      {% if lexical_info.root %}<tr><td>Root</td><td class="hebrew" dir="rtl" style="font-size:1.25rem;">{{ lexical_info.root }}</td></tr>{% endif %}
+      {% if lexical_info.root %}<tr><td>Root</td><td class="hebrew kv-hebrew" dir="rtl">{{ lexical_info.root }}</td></tr>{% endif %}
       {% if lexical_info.root_consonants %}<tr><td>Root Consonants</td><td>{{ lexical_info.root_consonants }}</td></tr>{% endif %}
       {% if lexical_info.gloss_basic %}<tr><td>Basic Gloss</td><td>{{ lexical_info.gloss_basic }}</td></tr>{% endif %}
       {% if lexical_info.sense %}<tr><td>Sense</td><td>{{ lexical_info.sense }}</td></tr>{% endif %}
@@ -116,8 +130,10 @@
 
 <!-- Word Construction table -->
 {% if morphemes %}
+<div class="section-divider">
+  <h2>Word Construction</h2>
+</div>
 <div class="card mb-card">
-  <div class="card-header">Word Construction</div>
   <table class="detail-table">
     <thead>
       <tr>
@@ -125,9 +141,9 @@
         <th>Type</th>
         <th class="text-right">Form</th>
         <th>Gloss</th>
-        <th>Root</th>
-        <th>Binyan</th>
-        <th>PGN</th>
+        <th class="col-hide-mobile">Root</th>
+        <th class="col-hide-mobile">Binyan</th>
+        <th class="col-hide-mobile">PGN</th>
       </tr>
     </thead>
     <tbody>
@@ -137,9 +153,9 @@
         <td>{{ m.type }}</td>
         <td class="col-hebrew hebrew" dir="rtl">{{ m.form }}</td>
         <td>{{ m.gloss|default:"" }}</td>
-        <td>{% if m.root %}<span class="hebrew" dir="rtl">{{ m.root }}</span>{% endif %}</td>
-        <td>{{ m.binyan|default:"" }}</td>
-        <td class="col-muted">{% if m.person %}{{ m.person }}{% endif %}{% if m.gender %}{{ m.gender }}{% endif %}{% if m.number %}{{ m.number }}{% endif %}</td>
+        <td class="col-hide-mobile">{% if m.root %}<span class="hebrew" dir="rtl">{{ m.root }}</span>{% endif %}</td>
+        <td class="col-hide-mobile">{{ m.binyan|default:"" }}</td>
+        <td class="col-muted col-hide-mobile">{% if m.person %}{{ m.person }}{% endif %}{% if m.gender %}{{ m.gender }}{% endif %}{% if m.number %}{{ m.number }}{% endif %}</td>
       </tr>
       {% endfor %}
     </tbody>

@@ -1,13 +1,14 @@
 {% load reader_tags %}
 
 {% for verse in verses %}
-<div class="verse-block">
+<div class="verse-block" id="v{{ verse.verse }}">
   <div class="verse-words">
     <a href="{% url 'verse-view' book.slug chapter verse.verse %}"
        class="verse-number">{{ verse.verse }}</a>
     {% for word in verse.words %}
     <a href="{% url 'word-view' book.slug chapter verse.verse word.slug %}"
-       class="word-cell">
+       class="word-cell morph-hover"
+       title="{{ word.surface }} — {{ glosses|dict_get:word.strongs_id }}">
       <span class="word-surface hebrew">{{ word.surface }}</span>
       <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
       <span class="word-morph-code">{{ word.morphology }}</span>

@@ -9,9 +9,21 @@
 {% endblock %}
 
 {% block content %}
-<div class="page-nav">
-  <a href="{% url 'chapter-view' book.slug chapter %}" class="breadcrumb">&larr; {{ book.name }} {{ chapter }}</a>
-  <div class="page-nav-links">
+<nav aria-label="Breadcrumb">
+  <ol class="breadcrumb-trail">
+    <li><a href="{% url 'book-list' %}">Bible</a></li>
+    <li><a href="{% url 'chapter-list' book.slug %}">{{ book.name }}</a></li>
+    <li><a href="{% url 'chapter-view' book.slug chapter %}">Chapter {{ chapter }}</a></li>
+    <li><span class="current">Verse {{ verse_num }}</span></li>
+  </ol>
+</nav>
+
+<div class="page-header">
+  <div class="page-header-text">
+    <h1 class="page-title">{{ book.name }} {{ chapter }}:{{ verse_num }}</h1>
+    <p class="page-subtitle">Tap a word below to explore its meaning and grammar.</p>
+  </div>
+  <div class="page-header-nav">
     {% if prev_verse %}
     <a href="{% url 'verse-view' book.slug chapter prev_verse %}" class="nav-link">&larr; Verse {{ prev_verse }}</a>
     {% endif %}
@@ -21,46 +33,47 @@
   </div>
 </div>
 
-<h1 class="page-title">{{ book.name }} {{ chapter }}:{{ verse_num }}</h1>
-
 <div class="card mb-card">
+  <div class="card-header">Interlinear</div>
   <div class="card-body">
     <div class="verse-words">
       {% for word in words %}
       <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
-         class="word-cell">
+         class="word-cell"
+         title="{{ word.surface }} — {{ glosses|dict_get:word.strongs_id }}">
         <span class="word-surface hebrew">{{ word.surface }}</span>
         <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
-        <span class="word-morph-code">{{ word.morphology }}</span>
       </a>
       {% endfor %}
     </div>
   </div>
 </div>
 
-<h2 class="section-heading">Words in this verse</h2>
+<div class="section-divider">
+  <h2>Words in this verse</h2>
+</div>
 <div class="card mb-card">
   <table class="detail-table">
     <thead>
       <tr>
-        <th>#</th>
+        <th class="col-hide-mobile">#</th>
         <th class="text-right">Hebrew</th>
         <th>Gloss</th>
-        <th>Morphology</th>
-        <th>Strong's</th>
+        <th class="col-hide-mobile">Morphology</th>
+        <th class="col-hide-mobile">Strong's</th>
       </tr>
     </thead>
     <tbody>
       {% for word in words %}
       <tr>
-        <td class="col-muted">{{ word.position }}</td>
+        <td class="col-muted col-hide-mobile">{{ word.position }}</td>
         <td class="col-hebrew">
           <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
              class="col-link hebrew" dir="rtl">{{ word.surface }}</a>
         </td>
         <td>{{ glosses|dict_get:word.strongs_id }}</td>
-        <td class="col-mono">{{ word.morphology }}</td>
-        <td class="col-muted">{{ word.strongs_id|default:"" }}</td>
+        <td class="col-mono col-hide-mobile">{{ word.morphology }}</td>
+        <td class="col-muted col-hide-mobile">{{ word.strongs_id|default:"" }}</td>
       </tr>
       {% endfor %}
     </tbody>
