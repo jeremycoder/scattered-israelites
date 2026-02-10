@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶתְּנָ֥ה",
+        "phrase": "And I will establish",
+        "literal": "and-I-give/establish",
+        "source": "KJV, ESV, NASB; וְ cohortative prefix, אֶתְּנָה Qal imperfect 1cs of נָתַן 'give, establish'"
+      },
+      {
+        "position": 2,
+        "surface": "בְרִיתִ֖/י",
+        "phrase": "My covenant",
+        "literal": "covenant-my",
+        "source": "KJV, ESV, NASB; בְרִיתִי construct noun + 1cs suffix"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּינִ֣/י",
+        "phrase": "between Me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB; בֵּינִי preposition + 1cs suffix"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בֵינֶ֑/ךָ",
+        "phrase": "and you",
+        "literal": "and-between-you",
+        "source": "KJV, ESV, NASB; וּ conjunctive prefix, בֵּינֶךָ preposition + 2ms suffix"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אַרְבֶּ֥ה",
+        "phrase": "And I will multiply",
+        "literal": "and-I-multiply",
+        "source": "KJV, ESV, NASB; וְ conjunctive prefix, אַרְבֶּה Hiphil cohortative 1cs of רָבָה"
+      },
+      {
+        "position": 6,
+        "surface": "אוֹתְ/ךָ֖",
+        "phrase": "you",
+        "literal": "you",
+        "source": "KJV, ESV, NASB; אוֹתְךָ direct object marker + 2ms suffix"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/מְאֹ֥ד",
+        "phrase": "exceedingly",
+        "literal": "in-very",
+        "source": "KJV, ESV, NASB; בִּ preposition, מְאֹד adverb 'very'"
+      },
+      {
+        "position": 8,
+        "surface": "מְאֹֽד",
+        "phrase": "",
+        "literal": "very",
+        "source": "KJV, ESV, NASB; emphatic repetition of מְאֹד"
+      }
+    ]
+  }
+]

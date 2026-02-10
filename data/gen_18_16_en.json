@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּקֻ֤מוּ",
+        "phrase": "the men rose up",
+        "literal": "and-they_arose",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁם֙",
+        "phrase": "from there",
+        "literal": "from_there",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/אֲנָשִׁ֔ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּשְׁקִ֖פוּ",
+        "phrase": "and looked",
+        "literal": "and-they_looked_down",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "toward",
+        "literal": "upon",
+        "source": "preposition; KJV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "idiom 'toward the face of'; NET tn"
+      },
+      {
+        "position": 7,
+        "surface": "סְדֹ֑ם",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "proper name; KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אַ֨בְרָהָ֔ם",
+        "phrase": "and Abraham",
+        "literal": "and-Abraham",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 9,
+        "surface": "הֹלֵ֥ךְ",
+        "phrase": "was walking",
+        "literal": "walking",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "עִמָּ֖/ם",
+        "phrase": "with them",
+        "literal": "with_them",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/שַׁלְּחָֽ/ם",
+        "phrase": "to send them off",
+        "literal": "to-send_them",
+        "source": "friendly 'see on their way'; NET tn, KJV, NASB, ESV"
+      }
+    ]
+  }
+]

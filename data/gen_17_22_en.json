@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְכַ֖ל",
+        "phrase": "And he finished",
+        "literal": "and-finished",
+        "source": "KJV, ESV, NASB (waykal from kalah, to finish)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/דַבֵּ֣ר",
+        "phrase": "talking",
+        "literal": "to-speak",
+        "source": "KJV, ESV, NASB (ledabber from dabar, to speak)"
+      },
+      {
+        "position": 3,
+        "surface": "אִתּ֑/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB (itto, preposition eth + 3ms suffix)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּ֣עַל",
+        "phrase": "and went up",
+        "literal": "and-ascended",
+        "source": "KJV, ESV, NASB (wayya'al from alah, to ascend)"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (Elohim)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/עַ֖ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "KJV, ESV, NASB (me'al, from upon)"
+      },
+      {
+        "position": 7,
+        "surface": "אַבְרָהָֽם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

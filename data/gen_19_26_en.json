@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּבֵּ֥ט",
+        "phrase": "and looked",
+        "literal": "and-she_looked",
+        "source": "KJV, ESV, NASB (Hifil of נבט, 'to look')[1][4]"
+      },
+      {
+        "position": 2,
+        "surface": "אִשְׁתּ֖/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB[1][3][4]"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/אַחֲרָ֑י/ו",
+        "phrase": "from behind him",
+        "literal": "from-behind-him",
+        "source": "KJV, NASB, ESV[1][3][4]"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תְּהִ֖י",
+        "phrase": "and she became",
+        "literal": "and-she_became",
+        "source": "KJV, ESV, NASB (Qal of היה)[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "נְצִ֥יב",
+        "phrase": "pillar",
+        "literal": "pillar",
+        "source": "KJV, ESV, NASB[1][3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "מֶֽלַח",
+        "phrase": "of salt",
+        "literal": "salt",
+        "source": "KJV, ESV, NASB[1][3][4]"
+      }
+    ]
+  }
+]

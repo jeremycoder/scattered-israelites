@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּפֹּל",
+        "phrase": "fell",
+        "literal": "and-he-fell",
+        "source": "KJV, ESV, NASB, NET Bible"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "All translations; proper noun meaning 'high father'"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 4,
+        "surface": "פָּנָיו",
+        "phrase": "his face",
+        "literal": "face-his",
+        "source": "KJV, ESV, NASB, NET Bible; paniym with 3ms suffix"
+      },
+      {
+        "position": 5,
+        "surface": "וַיְדַבֵּר",
+        "phrase": "and spoke",
+        "literal": "and-he-spoke",
+        "source": "KJV, ESV, NASB, NET Bible; dabar in Piel imperfect"
+      },
+      {
+        "position": 6,
+        "surface": "אִתּוֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB; et preposition with 3ms suffix"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "All translations; elohim"
+      },
+      {
+        "position": 8,
+        "surface": "לֵאמֹר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB; infinitive construct of amar with lamed prefix"
+      }
+    ]
+  }
+]

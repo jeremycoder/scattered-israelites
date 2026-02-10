@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁכֵּ֥ם",
+        "phrase": "and got up early",
+        "literal": "and-got.early",
+        "source": "KJV, ESV, NASB, 'And went early' [2]"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/בֹּ֑קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the.morning",
+        "source": "KJV, ESV, NASB, 'in the morning' [2]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, Prep [2]"
+      },
+      {
+        "position": 5,
+        "surface": "הַ֨/מָּק֔וֹם",
+        "phrase": "the place",
+        "literal": "the.place",
+        "source": "KJV, ESV, NASB, 'the place' [2]"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "where",
+        "literal": "which/where",
+        "source": "KJV, ESV, NASB, Pro-r [2]"
+      },
+      {
+        "position": 7,
+        "surface": "עָ֥מַד",
+        "phrase": "he had stood",
+        "literal": "he.stood",
+        "source": "KJV, ESV, NASB, V-Qal-Perf-3ms [2]"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Particle/marker (not translated), [1]"
+      },
+      {
+        "position": 10,
+        "surface": "פְּנֵ֥י",
+        "phrase": "before",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB (with יהוה: 'before the LORD')"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

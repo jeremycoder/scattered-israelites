@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/תַּהֲרֶ֛יןָ",
+        "phrase": "became pregnant",
+        "literal": "and-became-pregnant-3fp",
+        "source": "KJV, ESV, NASB, NIV (wayyiqtol 3fp of harah, 'conceive')"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁתֵּ֥י",
+        "phrase": "both",
+        "literal": "two-f",
+        "source": "KJV, ESV, NASB, NIV (dual feminine construct of shnayim)"
+      },
+      {
+        "position": 3,
+        "surface": "בְנֽוֹת",
+        "phrase": "daughters",
+        "literal": "daughters",
+        "source": "KJV, ESV, NASB, NIV (benoth, daughters construct)"
+      },
+      {
+        "position": 4,
+        "surface": "ל֖וֹט",
+        "phrase": "Lot's",
+        "literal": "Lot",
+        "source": "KJV, ESV, NASB, NIV (proper name, genitive)"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/אֲבִי/הֶֽן",
+        "phrase": "by their father",
+        "literal": "from-father-their",
+        "source": "KJV, ESV, NASB, NIV (min + 'avi + hen, preposition + noun + 3fp suffix)"
+      }
+    ]
+  }
+]

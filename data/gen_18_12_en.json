@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּצְחַ֥ק",
+        "phrase": "laughed",
+        "literal": "and-she laughed",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂרָ֖ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/קִרְבָּ֣/הּ",
+        "phrase": "to herself",
+        "literal": "in midst-of-her",
+        "source": "KJV 'within herself', ESV 'to herself', NASB 'to herself'"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to say",
+        "source": "infinitive construct marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "אַחֲרֵ֤י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "בְלֹתִ/י֙",
+        "phrase": "I have become old",
+        "literal": "worn-out-I",
+        "source": "KJV 'waxed old', ESV 'worn out', NASB 'become old'"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽיְתָה",
+        "phrase": "shall ... have",
+        "literal": "has-been",
+        "source": "perfect verb used rhetorically (NASB, Mechon-Mamre)"
+      },
+      {
+        "position": 8,
+        "surface": "לִּ֣/י",
+        "phrase": "I",
+        "literal": "to-me",
+        "source": "dative preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "עֶדְנָ֔ה",
+        "phrase": "pleasure",
+        "literal": "pleasure",
+        "source": "KJV, ESV, NASB, NIV (sensual delight)"
+      },
+      {
+        "position": 10,
+        "surface": "וַֽ/אדֹנִ֖/י",
+        "phrase": "my lord",
+        "literal": "and-my lord",
+        "source": "KJV, ESV, NASB ('my husband' polite address)"
+      },
+      {
+        "position": 11,
+        "surface": "זָקֵֽן",
+        "phrase": "being old",
+        "literal": "old",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

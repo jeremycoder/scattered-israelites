@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "מַשְׁחִתִ֣ים",
+        "phrase": "we are destroying",
+        "literal": "destroying-ptcp-mpl",
+        "source": "NET (Heb participle imminent action), KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲנַ֔חְנוּ",
+        "phrase": "we",
+        "literal": "we-pron-1p",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "standard Hebrew grammar (untranslated particle)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מָּק֖וֹם",
+        "phrase": "this place",
+        "literal": "the-place",
+        "source": "NET (article demonstrative), KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "NET, KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 8,
+        "surface": "גָֽדְלָ֤ה",
+        "phrase": "has become great",
+        "literal": "has-grown-fs",
+        "source": "KJV (waxen great), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "צַעֲקָתָ/ם֙",
+        "phrase": "their outcry",
+        "literal": "cry-their-fs",
+        "source": "NET (for their outcry), KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "standard Hebrew grammar (untranslated particle)"
+      },
+      {
+        "position": 11,
+        "surface": "פְּנֵ֣י",
+        "phrase": "before the face of",
+        "literal": "face-of",
+        "source": "KJV, NET"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יְשַׁלְּחֵ֥/נוּ",
+        "phrase": "and he has sent us",
+        "literal": "and-sent-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "יְהוָ֖ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/שַׁחֲתָֽ/הּ",
+        "phrase": "to destroy it",
+        "literal": "to-destroy-it",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

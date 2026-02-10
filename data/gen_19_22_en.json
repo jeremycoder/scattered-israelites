@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מַהֵר֙",
+        "phrase": "Hurry",
+        "literal": "hurry-IMPERATIVE.MS",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 2,
+        "surface": "הִמָּלֵ֣ט",
+        "phrase": "escape",
+        "literal": "escape-IMPERATIVE.MS",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁ֔מָּה",
+        "phrase": "there",
+        "literal": "there-ADVERB",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for-CONJUNCTION",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not-NEGATION",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 6,
+        "surface": "אוּכַל֙",
+        "phrase": "I can",
+        "literal": "can-1SG.IMPERFECT",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 7,
+        "surface": "לַעֲשׂ֣וֹת",
+        "phrase": "to do",
+        "literal": "to-do-INFINITIVE.CONSTRUCT",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 8,
+        "surface": "דָּבָ֔ר",
+        "phrase": "anything",
+        "literal": "thing-NOUN.MS",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 9,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until-PREPOSITION",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 10,
+        "surface": "בֹּאֲךָ֖",
+        "phrase": "you arrive",
+        "literal": "come-2MS.INFINITIVE.CONSTRUCT-2MS.SUFFIX",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁ֑מָּה",
+        "phrase": "there",
+        "literal": "there-ADVERB",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "upon-PREPOSITION",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA; idiomatically rendered as 'therefore'"
+      },
+      {
+        "position": 13,
+        "surface": "כֵּ֛ן",
+        "phrase": "therefore",
+        "literal": "thus-ADVERB",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 14,
+        "surface": "קָרָ֥א",
+        "phrase": "called",
+        "literal": "call-3MS.PERFECT",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 15,
+        "surface": "שֵׁם",
+        "phrase": "the name",
+        "literal": "name-NOUN.MS",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 16,
+        "surface": "הָעִ֖יר",
+        "phrase": "of the city",
+        "literal": "the-city-NOUN.FS",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA"
+      },
+      {
+        "position": 17,
+        "surface": "צֽוֹעַר",
+        "phrase": "Zoar",
+        "literal": "Zoar-PROPER.NOUN; meaning 'small'",
+        "source": "KJV, ESV, NASB, NIV, NKJV, NLT, NRSA; CJB notes 'small'; NLT notes 'little place'"
+      }
+    ]
+  }
+]

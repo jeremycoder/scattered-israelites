@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/עֶ֨צֶם֙",
+        "phrase": "in the very same",
+        "literal": "in-bone",
+        "source": "KJV, ESV, NASB (idiomatic for 'very same' or 'selfsame')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יּ֣וֹם",
+        "phrase": "day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "נִמּ֖וֹל",
+        "phrase": "was circumcised",
+        "literal": "was-circumcised",
+        "source": "KJV, ESV, NASB (Niphal passive, subject plural by context)"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יִשְׁמָעֵ֖אל",
+        "phrase": "and Ishmael",
+        "literal": "and-Ishmael",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

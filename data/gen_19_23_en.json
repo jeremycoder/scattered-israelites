@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/שֶּׁ֖מֶשׁ",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יָצָ֣א",
+        "phrase": "had risen",
+        "literal": "went-out",
+        "source": "KJV (was risen), NASB (had risen), NET (had just risen)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "KJV (upon), NASB (over), ESV (over)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/ל֖וֹט",
+        "phrase": "and Lot",
+        "literal": "and-Lot",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ֥א",
+        "phrase": "entered",
+        "literal": "came",
+        "source": "KJV (entered), NASB (came), NET (reached)"
+      },
+      {
+        "position": 7,
+        "surface": "צֹֽעֲרָ/ה",
+        "phrase": "Zoar",
+        "literal": "Zoar",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

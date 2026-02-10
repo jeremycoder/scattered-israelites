@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֣י",
+        "phrase": "For",
+        "literal": "for-that",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "יְדַעְתִּ֗י/ו",
+        "phrase": "I know him",
+        "literal": "I-have-known-him",
+        "source": "KJV ('know'), ESV ('chosen'), NASB ('chosen'); יְדַעְתִּיו = 'I have known him'"
+      },
+      {
+        "position": 3,
+        "surface": "לְמַעַן֩",
+        "phrase": "in order that",
+        "literal": "to-for-the-sake-of",
+        "source": "KJV, ESV, NASB (purpose particle)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "he may",
+        "literal": "that",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 5,
+        "surface": "יְצַוֶּ֜ה",
+        "phrase": "command",
+        "literal": "he-may-command",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar (untranslated marker)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּנָ֤י/ו",
+        "phrase": "his children",
+        "literal": "sons-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (conjunction + marker)"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּית/וֹ֙",
+        "phrase": "his household",
+        "literal": "house-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַחֲרָ֔י/ו",
+        "phrase": "after him",
+        "literal": "after-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שָֽׁמְרוּ֙",
+        "phrase": "that they may keep",
+        "literal": "and-they-may-keep",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "דֶּ֣רֶךְ",
+        "phrase": "the way",
+        "literal": "way",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "יְהוָ֔ה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לַ/עֲשׂ֥וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "צְדָקָ֖ה",
+        "phrase": "righteousness",
+        "literal": "righteousness",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "וּ/מִשְׁפָּ֑ט",
+        "phrase": "and justice",
+        "literal": "and-judgment",
+        "source": "KJV ('judgment'), ESV/NASB ('justice')"
+      },
+      {
+        "position": 17,
+        "surface": "לְמַ֗עַן",
+        "phrase": "so that",
+        "literal": "to-for-the-sake-of",
+        "source": "KJV, ESV, NASB (purpose particle)"
+      },
+      {
+        "position": 18,
+        "surface": "הָבִ֤יא",
+        "phrase": "the LORD may bring",
+        "literal": "bring",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "אֵ֥ת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar (untranslated marker)"
+      },
+      {
+        "position": 23,
+        "surface": "אֲשֶׁר",
+        "phrase": "that which",
+        "literal": "that-which",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 24,
+        "surface": "דִּבֶּ֖ר",
+        "phrase": "he has spoken",
+        "literal": "he-has-spoken",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 25,
+        "surface": "עָלָֽי/ו",
+        "phrase": "of him",
+        "literal": "concerning-him",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

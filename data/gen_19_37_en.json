@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתֵּלֶד",
+        "phrase": "bore",
+        "literal": "and-she-bore",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "הַבְּכִירָה",
+        "phrase": "the firstborn",
+        "literal": "the-firstborn",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "וַתִּקְרָא",
+        "phrase": "and called",
+        "literal": "and-she-called",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמוֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "מוֹאָב",
+        "phrase": "Moab",
+        "literal": "Moab",
+        "source": "KJV, ESV, NASB, HCSB; proper noun"
+      },
+      {
+        "position": 7,
+        "surface": "הוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB, HCSB; pronoun"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבִי",
+        "phrase": "the father",
+        "literal": "father",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "מוֹאָב",
+        "phrase": "of the Moabites",
+        "literal": "of-Moab",
+        "source": "KJV, ESV, NASB, HCSB; construct relationship"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "until",
+        "source": "KJV, ESV, NASB, HCSB; preposition"
+      },
+      {
+        "position": 11,
+        "surface": "הַיּוֹם",
+        "phrase": "this day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

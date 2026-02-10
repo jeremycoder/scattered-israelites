@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁקֵ֗ף",
+        "phrase": "and he looked down",
+        "literal": "and-he_looked_out",
+        "source": "KJV, NIV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "עַל",
+        "phrase": "toward",
+        "literal": "upon",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "פְּנֵ֤י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "NET tn 'upon the face of'; KJV, YLT"
+      },
+      {
+        "position": 4,
+        "surface": "סְדֹם֙",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/עֲמֹרָ֔ה",
+        "phrase": "and Gomorrah",
+        "literal": "and-Gomorrah",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עַֽל",
+        "phrase": "and toward",
+        "literal": "and-upon",
+        "source": "preposition (KJV, NIV)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "פְּנֵ֖י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "NET tn; YLT, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/כִּכָּ֑ר",
+        "phrase": "of the plain",
+        "literal": "the-circle",
+        "source": "NET tn 'land of the circle'; KJV 'plain', NIV 'plain'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יַּ֗רְא",
+        "phrase": "and he saw",
+        "literal": "and-he_saw",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הִנֵּ֤ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "discourse marker (KJV, NASB)"
+      },
+      {
+        "position": 13,
+        "surface": "עָלָה֙",
+        "phrase": "rising",
+        "literal": "going_up",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "קִיטֹ֣ר",
+        "phrase": "smoke",
+        "literal": "smoke",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "כְּ/קִיטֹ֖ר",
+        "phrase": "like smoke",
+        "literal": "like-smoke",
+        "source": "KJV, NIV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/כִּבְשָֽׁן",
+        "phrase": "of a furnace",
+        "literal": "the-furnace",
+        "source": "KJV, NIV, NASB"
+      }
+    ]
+  }
+]

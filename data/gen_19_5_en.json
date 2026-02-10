@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרְא֤וּ",
+        "phrase": "and they called",
+        "literal": "and-they_called",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "לוֹט֙",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "proper name (all translations)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֣אמְרוּ",
+        "phrase": "and they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "dative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "אַיֵּ֧ה",
+        "phrase": "Where are",
+        "literal": "where?",
+        "source": "interrogative adverb (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֲנָשִׁ֛ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "who/which",
+        "source": "relative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ֥אוּ",
+        "phrase": "came",
+        "literal": "came",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֵלֶ֖י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/לָּ֑יְלָה",
+        "phrase": "this night",
+        "literal": "the-night",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "הוֹצִיאֵ֣/ם",
+        "phrase": "Bring out",
+        "literal": "bring_out-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֵלֵ֔י/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/נֵדְעָ֖ה",
+        "phrase": "that we may know",
+        "literal": "and-we_may_know",
+        "source": "KJV ('know'), NIV/NASB ('have sex with'), euphemism for sexual relations[2][4]"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "direct object marker-them (KJV, ESV)"
+      }
+    ]
+  }
+]

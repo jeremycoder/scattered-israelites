@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol prefix)"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "KJV, NASB, ESV (idiomatic for age)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁעִ֥ים",
+        "phrase": "ninety",
+        "literal": "ninety",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/תֵ֣שַׁע",
+        "phrase": "and nine",
+        "literal": "and-nine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנִ֑ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֵּרָ֨א",
+        "phrase": "appeared",
+        "literal": "and-appeared",
+        "source": "KJV, ESV, NASB (wayyiqtol)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֜ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "proper name of God (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "אַבְרָ֗ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB (wayyiqtol)"
+      },
+      {
+        "position": 13,
+        "surface": "אֵלָי/ו֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אֲנִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֵ֣ל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "שַׁדַּ֔י",
+        "phrase": "Almighty",
+        "literal": "Shaddai",
+        "source": "KJV (Almighty God), ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "הִתְהַלֵּ֥ךְ",
+        "phrase": "Walk",
+        "literal": "walk!-yourself",
+        "source": "hithpael imperative (KJV, ESV, NASB)"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/פָנַ֖/י",
+        "phrase": "before Me",
+        "literal": "to-before-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "וֶ/הְיֵ֥ה",
+        "phrase": "and be",
+        "literal": "and-be!",
+        "source": "KJV, ESV, NASB (cohortative/imperative)"
+      },
+      {
+        "position": 20,
+        "surface": "תָמִֽים",
+        "phrase": "blameless",
+        "literal": "complete-perfect",
+        "source": "KJV (perfect), ESV (blameless), NASB"
+      }
+    ]
+  }
+]

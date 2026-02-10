@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/יִפָּלֵ֥א",
+        "phrase": "Is anything too difficult",
+        "literal": "INTERROG-3MS.NIFAL.IMPF-separate/distinguish/be-great/difficult/wonderful",
+        "source": "KJV, NASB, ESV, ISV; pala' (Strong's 6381) = to separate, distinguish, be great, difficult, wonderful"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/יְהוָ֖ה",
+        "phrase": "for the LORD",
+        "literal": "PREP.from-YHWH",
+        "source": "KJV, NASB, ESV; Yhovah/YHWH (Strong's 3068) = the self-Existent or Eternal One"
+      },
+      {
+        "position": 3,
+        "surface": "דָּבָ֑ר",
+        "phrase": "anything",
+        "literal": "thing/word/matter",
+        "source": "KJV, NASB, ESV; dabar (Strong's 1697) = a word, matter, thing, cause"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מּוֹעֵ֞ד",
+        "phrase": "At the appointed time",
+        "literal": "PREP.to-DEF-appointed-time/assembly/season",
+        "source": "KJV, NASB, ESV; mow'ed (Strong's 4150) = appointed time, place, solemn assembly, season"
+      },
+      {
+        "position": 5,
+        "surface": "אָשׁ֥וּב",
+        "phrase": "I will return",
+        "literal": "1CS.QAL.IMPF-turn-back/return",
+        "source": "KJV, NASB, ESV; shuwb (Strong's 7725) = to turn back, return"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלֶ֛י/ךָ",
+        "phrase": "to you",
+        "literal": "PREP.to-2MS.SUFFIX",
+        "source": "KJV, NASB, ESV; 'el (Strong's 413) = to, toward; with 2MS suffix"
+      },
+      {
+        "position": 7,
+        "surface": "כָּ/עֵ֥ת",
+        "phrase": "according to the time",
+        "literal": "PREP.like-DEF-time",
+        "source": "KJV, NASB, ESV; 'eth (Strong's 6256) = time, now, when"
+      },
+      {
+        "position": 8,
+        "surface": "חַיָּ֖ה",
+        "phrase": "of life",
+        "literal": "life/living/alive",
+        "source": "KJV, NASB, ESV; chay (Strong's 2416) = life, alive, living, age"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/לְ/שָׂרָ֥ה",
+        "phrase": "and Sarah",
+        "literal": "CONJ.and-PREP.to-Sarah",
+        "source": "KJV, NASB, ESV; Sarah (Strong's 8283) = Sarah, Abraham's wife"
+      },
+      {
+        "position": 10,
+        "surface": "בֵֽן",
+        "phrase": "shall have a son",
+        "literal": "son",
+        "source": "KJV, NASB, ESV; ben (Strong's 1121) = a son, builder of family name"
+      }
+    ]
+  }
+]

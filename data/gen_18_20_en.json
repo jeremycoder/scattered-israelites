@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And the LORD said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "Proper name of God; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "זַעֲקַ֛ת",
+        "phrase": "the outcry of",
+        "literal": "cry-of",
+        "source": "KJV ('cry of'), ESV ('outcry'), NASB ('outcry'); construct form"
+      },
+      {
+        "position": 4,
+        "surface": "סְדֹ֥ם",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/עֲמֹרָ֖ה",
+        "phrase": "and Gomorrah",
+        "literal": "and-Gomorrah",
+        "source": "Proper name with conjunction; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "that-for",
+        "source": "Causal particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "רָ֑בָּה",
+        "phrase": "is great",
+        "literal": "great-fs",
+        "source": "Feminine form agreeing with זַעֲקַת; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חַ֨טָּאתָ֔/ם",
+        "phrase": "and their sin",
+        "literal": "and-sin-their",
+        "source": "KJV ('their sin'), ESV ('their sin'), NASB ('their sin'); חַטָּאתָם construct with suffix"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֥י",
+        "phrase": "indeed",
+        "literal": "that-for",
+        "source": "Emphatic particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כָבְדָ֖ה",
+        "phrase": "is very grievous",
+        "literal": "heavy-fs",
+        "source": "Feminine form agreeing with חַטָּאת; KJV ('grievous'), ESV ('grave'), NASB ('grave')"
+      },
+      {
+        "position": 11,
+        "surface": "מְאֹֽד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "Intensifier adverb; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

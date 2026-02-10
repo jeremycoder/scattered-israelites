@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/אֱלֹהִ֑ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "ל֥וּ",
+        "phrase": "Oh that",
+        "literal": "oh-that",
+        "source": "optative particle (KJV, NASB, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׁמָעֵ֖אל",
+        "phrase": "Ishmael",
+        "literal": "Ishmael",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "יִחְיֶ֥ה",
+        "phrase": "might live",
+        "literal": "may-live",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/פָנֶֽי/ךָ",
+        "phrase": "before you",
+        "literal": "before-face-your",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

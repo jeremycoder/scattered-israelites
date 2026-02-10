@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יִּתְמַהְמָ֓הּ",
+        "phrase": "he lingered",
+        "literal": "and-he.lingered",
+        "source": "KJV, ESV, NASB, NKJV; Hebrew root מהמה (mahahh) = to hesitate, delay, linger"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יַּחֲזִ֨קוּ",
+        "phrase": "and the men seized",
+        "literal": "and-they.seized",
+        "source": "KJV, ESV, NASB; Hebrew root חזק (chazaq) = to seize, grasp, lay hold upon"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֲנָשִׁ֜ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB; Hebrew אנוש (enowsh) = man, mortal"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/יָד֣/וֹ",
+        "phrase": "his hand",
+        "literal": "in-hand-his",
+        "source": "KJV, ESV, NASB; Hebrew יד (yad) = hand"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בְ/יַד",
+        "phrase": "and the hand",
+        "literal": "and-in-hand",
+        "source": "KJV, ESV, NASB; conjunction ו (u) + preposition ב (be) + noun יד (yad)"
+      },
+      {
+        "position": 6,
+        "surface": "אִשְׁתּ֗/וֹ",
+        "phrase": "of his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB; Hebrew אשה (ishshah) = woman, wife"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בְ/יַד֙",
+        "phrase": "and the hand",
+        "literal": "and-in-hand",
+        "source": "KJV, ESV, NASB; conjunction ו (u) + preposition ב (be) + noun יד (yad)"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁתֵּ֣י",
+        "phrase": "of his two",
+        "literal": "two",
+        "source": "KJV, ESV, NASB; Hebrew שנים (shnayim) = two"
+      },
+      {
+        "position": 9,
+        "surface": "בְנֹתָ֔י/ו",
+        "phrase": "daughters",
+        "literal": "daughters-his",
+        "source": "KJV, ESV, NASB; Hebrew בנות (banot) = daughters"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/חֶמְלַ֥ת",
+        "phrase": "because of the compassion",
+        "literal": "in-compassion-of",
+        "source": "KJV, ESV, NASB; Hebrew חמלה (chemlah) = compassion, mercy, pity"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, ESV, NASB; Hebrew יהוה (Yhovah) = the LORD, the Eternal One"
+      },
+      {
+        "position": 12,
+        "surface": "עָלָ֑י/ו",
+        "phrase": "upon him",
+        "literal": "upon-him",
+        "source": "KJV, ESV, NASB; Hebrew על (al) = upon, over, concerning"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יֹּצִאֻ֥/הוּ",
+        "phrase": "and they brought him out",
+        "literal": "and-they.brought.out-him",
+        "source": "KJV, ESV, NASB; Hebrew יצא (yatsa) = to go out, bring out"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יַּנִּחֻ֖/הוּ",
+        "phrase": "and set him",
+        "literal": "and-they.set-him",
+        "source": "KJV, ESV, NASB; Hebrew נח (yanach) = to deposit, place, set"
+      },
+      {
+        "position": 15,
+        "surface": "מִ/ח֥וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "KJV, ESV, NASB; Hebrew חוץ (chutz) = outside, without"
+      },
+      {
+        "position": 16,
+        "surface": "לָ/עִֽיר",
+        "phrase": "the city",
+        "literal": "to-the-city",
+        "source": "KJV, ESV, NASB; Hebrew עיר (ir) = city"
+      }
+    ]
+  }
+]

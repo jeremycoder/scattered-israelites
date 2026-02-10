@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּסֶף",
+        "phrase": "and he added",
+        "literal": "and-he.added",
+        "source": "KJV, ESV, NASB; Qal imperfect of יסף with waw-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "עוד",
+        "phrase": "again",
+        "literal": "again",
+        "source": "KJV, ESV, NASB; adverbial modifier"
+      },
+      {
+        "position": 3,
+        "surface": "לְדַבֵּר",
+        "phrase": "to speak",
+        "literal": "to-speak",
+        "source": "KJV, ESV, NASB; infinitive construct of דבר"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלָיו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB; preposition + 3ms pronoun"
+      },
+      {
+        "position": 5,
+        "surface": "וַיֹּאמַר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB; Qal imperfect of אמר with waw-consecutive"
+      },
+      {
+        "position": 6,
+        "surface": "אוּלַי",
+        "phrase": "perhaps",
+        "literal": "perhaps",
+        "source": "KJV, ESV, NASB; particle expressing conditional possibility"
+      },
+      {
+        "position": 7,
+        "surface": "יִמָּצְאוּן",
+        "phrase": "will be found",
+        "literal": "will-be.found",
+        "source": "KJV, ESV, NASB; Niphal imperfect 3mp of מצא"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB; adverb of place"
+      },
+      {
+        "position": 9,
+        "surface": "אַרְבָּעִים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "KJV, ESV, NASB; masculine plural number"
+      },
+      {
+        "position": 10,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB; Qal imperfect of אמר with waw-consecutive"
+      },
+      {
+        "position": 11,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB; negative particle"
+      },
+      {
+        "position": 12,
+        "surface": "אֶעֱשֶׂה",
+        "phrase": "I will do",
+        "literal": "I.will-do",
+        "source": "KJV, ESV, NASB; Qal imperfect 1s of עשה; the final ה is part of the verb conjugation, not a separate pronoun[1]"
+      },
+      {
+        "position": 13,
+        "surface": "בַּעֲבוּר",
+        "phrase": "for the sake of",
+        "literal": "in-sake.of",
+        "source": "KJV, ESV, NASB; preposition בְ + noun עבור"
+      },
+      {
+        "position": 14,
+        "surface": "הָאַרְבָּעִים",
+        "phrase": "the forty",
+        "literal": "the-forty",
+        "source": "KJV, ESV, NASB; definite article + masculine plural number"
+      }
+    ]
+  }
+]

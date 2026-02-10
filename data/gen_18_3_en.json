@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמַר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲדֹנָי",
+        "phrase": "My lord",
+        "literal": "master-my",
+        "source": "KJV, ESV, NASB, NET; MT form אֲדֹנָי (ʾadonay) typically reserved for God, possibly reflecting scribal activity"
+      },
+      {
+        "position": 3,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "נָא",
+        "phrase": "now",
+        "literal": "please/now",
+        "source": "KJV, ESV, NASB, NET; particle of entreaty"
+      },
+      {
+        "position": 5,
+        "surface": "מָצָאתִי",
+        "phrase": "I have found",
+        "literal": "I.have.found",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "חֵן",
+        "phrase": "favor",
+        "literal": "favor/grace",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "בְּעֵינֶיךָ",
+        "phrase": "in your sight",
+        "literal": "in-eyes-your",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, NET; negative particle with imperative"
+      },
+      {
+        "position": 9,
+        "surface": "נָא",
+        "phrase": "please",
+        "literal": "please",
+        "source": "KJV, ESV, NASB, NET; particle of entreaty"
+      },
+      {
+        "position": 10,
+        "surface": "תַעֲבֹר",
+        "phrase": "pass by",
+        "literal": "you.pass",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "מֵעַל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "KJV, ESV, NASB, NET; preposition מ (from) + על (upon/from); may indicate burden or presence"
+      },
+      {
+        "position": 12,
+        "surface": "עַבְדְּךָ",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

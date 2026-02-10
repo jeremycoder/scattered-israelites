@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "טֶרֶם֮",
+        "phrase": "before",
+        "literal": "before",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׁכָּבוּ֒",
+        "phrase": "they lay down",
+        "literal": "they-lie-down",
+        "source": "NET (shakhav 'to lie down, go to bed'), ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַנְשֵׁ֨י",
+        "phrase": "and the men of",
+        "literal": "and-men",
+        "source": "NET, ESV ('men'), KJV; note: 'an-she' may include both sexes contextually"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עִ֜יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "אַנְשֵׁ֤י",
+        "phrase": "the men of",
+        "literal": "men",
+        "source": "NET (repetition stresses all kinds), ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "סְדֹם֙",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "נָסַ֣בּוּ",
+        "phrase": "surrounded",
+        "literal": "they-surrounded",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "preposition; NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/בַּ֔יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/נַּ֖עַר",
+        "phrase": "from young man",
+        "literal": "from-youth",
+        "source": "NET, ESV ('youngest'), NASB, KJV ('youngest')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/עַד",
+        "phrase": "and until",
+        "literal": "and-until",
+        "source": "conjunction; NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "זָקֵ֑ן",
+        "phrase": "old man",
+        "literal": "elder",
+        "source": "NET, ESV ('oldest'), NASB, KJV ('old')"
+      },
+      {
+        "position": 13,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "NET, ESV, NASB, KJV"
+      },
+      {
+        "position": 15,
+        "surface": "מִ/קָּצֶֽה",
+        "phrase": "from the end",
+        "literal": "from-end",
+        "source": "NET ('from the end [of the city]'), ESV ('every quarter'), NASB, KJV ('every quarter')"
+      }
+    ]
+  }
+]

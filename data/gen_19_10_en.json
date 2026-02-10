@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלְח֤וּ",
+        "phrase": "reached out",
+        "literal": "and-they-sent-out",
+        "source": "KJV (put forth), NASB (reached out), NET (reached out); wayyišləḥû, conjunction + 3mp qal imperfect consecutive of šillaḥ"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אֲנָשִׁים֙",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, NASB, ESV, NET; hāʾănāšîm, article + plural noun ʾănāšîm (the angels/men inside)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew particle ʾet (accusative marker); KJV, NASB, ESV (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "יָדָ֔/ם",
+        "phrase": "their hands",
+        "literal": "hand-their",
+        "source": "KJV (their hand), NASB (their hands), NET; yādām, noun yād + 3mp suffix"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּבִ֧יאוּ",
+        "phrase": "and brought",
+        "literal": "and-they-brought-in",
+        "source": "KJV (pulled), NASB (brought), ESV (brought); wayyāḇîʾû, conjunction + 3mp hiphil imperfect consecutive of bôʾ"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew particle ʾet (accusative marker); KJV, NASB, ESV (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "ל֛וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "proper name Lôṭ; KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "אֲלֵי/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV (into), NASB (into), NET (to them); ʾălêhem, preposition ʾel + 3mp suffix"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/בָּ֑יְתָ/ה",
+        "phrase": "into the house",
+        "literal": "the-house-to",
+        "source": "KJV (into the house), NASB (into the house), NET; habbāyəṯāh, article + noun bayit + directional -āh"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "wəʾeṯ, conjunction + accusative marker; KJV, NASB, ESV (and)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/דֶּ֖לֶת",
+        "phrase": "the door",
+        "literal": "the-door",
+        "source": "KJV (the door), NASB (the door), ESV; haddēlet, article + noun dēlet"
+      },
+      {
+        "position": 12,
+        "surface": "סָגָֽרוּ",
+        "phrase": "they shut",
+        "literal": "they-shut",
+        "source": "KJV (shut), NASB (shut), ESV; sāḡārû, 3mp qal perfect of sāḡar"
+      }
+    ]
+  }
+]

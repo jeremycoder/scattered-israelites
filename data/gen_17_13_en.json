@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִמּ֧וֹל",
+        "phrase": "shall be circumcised",
+        "literal": "to-be-circumcised",
+        "source": "ESV, KJV, NASB, NIV (infinitive absolute)"
+      },
+      {
+        "position": 2,
+        "surface": "יִמּ֛וֹל",
+        "phrase": "he shall be circumcised",
+        "literal": "he-shall-be-circumcised",
+        "source": "ESV, KJV, NASB, NIV (finite verb)"
+      },
+      {
+        "position": 3,
+        "surface": "יְלִ֥יד",
+        "phrase": "born",
+        "literal": "born-one",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּֽיתְ/ךָ֖",
+        "phrase": "in your house",
+        "literal": "house-your",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִקְנַ֣ת",
+        "phrase": "and purchase",
+        "literal": "and-acquisition",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "כַּסְפֶּ֑/ךָ",
+        "phrase": "of your money",
+        "literal": "silver-your",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיְתָ֧ה",
+        "phrase": "shall be",
+        "literal": "and-she-shall-be",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "בְרִיתִ֛/י",
+        "phrase": "my covenant",
+        "literal": "covenant-my",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "בִּ/בְשַׂרְ/כֶ֖ם",
+        "phrase": "in your flesh",
+        "literal": "in-flesh-your(pl)",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/בְרִ֥ית",
+        "phrase": "a covenant",
+        "literal": "to-covenant",
+        "source": "ESV, KJV, NASB, NIV (לְ + בְּרִית = as/for covenant)"
+      },
+      {
+        "position": 11,
+        "surface": "עוֹלָֽם",
+        "phrase": "everlasting",
+        "literal": "eternity",
+        "source": "ESV, KJV, NASB, NIV"
+      }
+    ]
+  }
+]

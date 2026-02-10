@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֜אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֶּ֣ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "KJV, NASB; particle of attention"
+      },
+      {
+        "position": 3,
+        "surface": "נָּא",
+        "phrase": "now",
+        "literal": "please",
+        "source": "KJV, ESV, NASB; particle of entreaty"
+      },
+      {
+        "position": 4,
+        "surface": "אֲדֹנַ֗/י",
+        "phrase": "my lords",
+        "literal": "my_lords",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "ס֣וּרוּ",
+        "phrase": "turn aside",
+        "literal": "turn_aside-PL",
+        "source": "ESV, NASB, KJV (turn in)"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֠א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "ESV, NASB; particle of entreaty"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֨ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עַבְדְּ/כֶ֤ם",
+        "phrase": "your servant's",
+        "literal": "servant-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לִ֨ינוּ֙",
+        "phrase": "and spend the night",
+        "literal": "and-lodge-PL",
+        "source": "ESV, NASB, KJV (tarry)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/רַחֲצ֣וּ",
+        "phrase": "and wash",
+        "literal": "and-wash-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "רַגְלֵי/כֶ֔ם",
+        "phrase": "your feet",
+        "literal": "feet-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הִשְׁכַּמְתֶּ֖ם",
+        "phrase": "and rise early",
+        "literal": "and-rise_early-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/הֲלַכְתֶּ֣ם",
+        "phrase": "and go",
+        "literal": "and-go-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/דַרְכְּ/כֶ֑ם",
+        "phrase": "on your way",
+        "literal": "to-way-your",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/יֹּאמְר֣וּ",
+        "phrase": "and they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "לֹּ֔א",
+        "phrase": "No",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV; conjunction; ESV (however)"
+      },
+      {
+        "position": 19,
+        "surface": "בָ/רְח֖וֹב",
+        "phrase": "in the square",
+        "literal": "in-street",
+        "source": "ESV, NASB, NIV"
+      },
+      {
+        "position": 20,
+        "surface": "נָלִֽין",
+        "phrase": "we will spend the night",
+        "literal": "we_will_lodge",
+        "source": "ESV, NASB, KJV (abide)"
+      }
+    ]
+  }
+]

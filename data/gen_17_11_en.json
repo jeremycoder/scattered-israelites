@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּנְמַלְתֶּם",
+        "phrase": "you shall be circumcised",
+        "literal": "and-circumcise.PERF-2MP",
+        "source": "ESV, NASB, KJV, HCSB, LEB"
+      },
+      {
+        "position": 2,
+        "surface": "אֵת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "Accusative particle marking direct object"
+      },
+      {
+        "position": 3,
+        "surface": "בְּשַׂר",
+        "phrase": "the flesh",
+        "literal": "in-flesh",
+        "source": "ESV, NASB, KJV, HCSB, LEB"
+      },
+      {
+        "position": 4,
+        "surface": "עָרְלַתְכֶם",
+        "phrase": "of your foreskin",
+        "literal": "foreskin-2MP",
+        "source": "ESV, NASB, KJV, HCSB, LEB; Hebrew 'orel also means 'barrier'"
+      },
+      {
+        "position": 5,
+        "surface": "וְהָיָה",
+        "phrase": "and it shall be",
+        "literal": "and-be.PERF-3MS",
+        "source": "ESV, NASB, KJV, HCSB, LEB"
+      },
+      {
+        "position": 6,
+        "surface": "לְאוֹת",
+        "phrase": "a sign",
+        "literal": "for-sign",
+        "source": "ESV, NASB, KJV (token), HCSB, LEB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּרִית",
+        "phrase": "of the covenant",
+        "literal": "covenant",
+        "source": "ESV, NASB, KJV, HCSB, LEB"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּינִי",
+        "phrase": "between me",
+        "literal": "between-1S",
+        "source": "ESV, NASB, KJV, HCSB, LEB"
+      },
+      {
+        "position": 9,
+        "surface": "וּבֵינֵיכֶם",
+        "phrase": "and between you",
+        "literal": "and-between-2MP",
+        "source": "ESV, NASB, KJV, HCSB, LEB"
+      }
+    ]
+  }
+]

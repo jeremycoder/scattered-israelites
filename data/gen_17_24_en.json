@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַ֨בְרָהָ֔ם",
+        "phrase": "And Abraham",
+        "literal": "and-Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "was",
+        "literal": "son-of",
+        "source": "KJV, ESV, NASB (idiomatic 'was ... years old')"
+      },
+      {
+        "position": 3,
+        "surface": "תִּשְׁעִ֥ים",
+        "phrase": "ninety",
+        "literal": "ninety",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/תֵ֖שַׁע",
+        "phrase": "nine",
+        "literal": "and-nine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "KJV, ESV, NASB (singular for age)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/הִמֹּל֖/וֹ",
+        "phrase": "when he was circumcised",
+        "literal": "in-circumcising-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּשַׂ֥ר",
+        "phrase": "in the flesh",
+        "literal": "flesh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עָרְלָתֽ/וֹ",
+        "phrase": "of his foreskin",
+        "literal": "foreskin-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

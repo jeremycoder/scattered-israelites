@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֣את",
+        "phrase": "This",
+        "literal": "this-FEM.SG",
+        "source": "KJV, ESV, NASB, BSB; Hebrew demonstrative pronoun זה (zeh) in feminine form"
+      },
+      {
+        "position": 2,
+        "surface": "בְּרִיתִ֞י",
+        "phrase": "is my covenant",
+        "literal": "covenant-FEM.SG-1SG.POSS",
+        "source": "KJV, ESV, NASB, BSB; noun בְּרִית (berit) with first-person singular possessive suffix"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "REL.PRON",
+        "source": "KJV, ESV, NASB, BSB; relative pronoun אֲשֶׁר (asher)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁמְר֗וּ",
+        "phrase": "you shall keep",
+        "literal": "keep-2MP.IMPF",
+        "source": "KJV, ESV, NASB, BSB; verb שׁמר (shamar) in second-person masculine plural imperfect"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּינִ֙י",
+        "phrase": "between me",
+        "literal": "between-1SG",
+        "source": "KJV, ESV, NASB, BSB; preposition בֵּין (bein) with first-person singular suffix"
+      },
+      {
+        "position": 6,
+        "surface": "וּבֵ֣ינֵיכֶ֔ם",
+        "phrase": "and between you",
+        "literal": "and-between-2MP",
+        "source": "KJV, ESV, NASB, BSB; conjunction ו (u) + preposition בֵּין (bein) with second-person masculine plural suffix"
+      },
+      {
+        "position": 7,
+        "surface": "וּבֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB, BSB; conjunction ו (u) + preposition בֵּין (bein)"
+      },
+      {
+        "position": 8,
+        "surface": "זַרְעֲךָ֖",
+        "phrase": "your seed",
+        "literal": "seed-2MS.POSS",
+        "source": "KJV, ESV, NASB, BSB; noun זַרְע (zara) with second-person masculine singular possessive suffix"
+      },
+      {
+        "position": 9,
+        "surface": "אַחֲרֶ֑יךָ",
+        "phrase": "after you",
+        "literal": "after-2MS",
+        "source": "KJV, ESV, NASB, BSB; preposition אַחֲרֵי (acharei) with second-person masculine singular suffix"
+      },
+      {
+        "position": 10,
+        "surface": "הִמּ֥וֹל",
+        "phrase": "shall be circumcised",
+        "literal": "circumcise-NIFAL.IMPF.3MS",
+        "source": "KJV, ESV, NASB, BSB; verb מול (mul) in Niphal imperfect third-person masculine singular"
+      },
+      {
+        "position": 11,
+        "surface": "לָכֶ֖ם",
+        "phrase": "for you",
+        "literal": "to-2MP",
+        "source": "KJV, ESV, NASB, BSB; preposition ל (le) with second-person masculine plural suffix"
+      },
+      {
+        "position": 12,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-MASC.SG",
+        "source": "KJV, ESV, NASB, BSB; noun כָּל (kol) meaning 'all' or 'every'"
+      },
+      {
+        "position": 13,
+        "surface": "זָכָֽר",
+        "phrase": "male",
+        "literal": "male-MASC.SG",
+        "source": "KJV, ESV, NASB, BSB; noun זָכָר (zachar) meaning 'male'"
+      }
+    ]
+  }
+]

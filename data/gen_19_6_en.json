@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֧א",
+        "phrase": "went out",
+        "literal": "and-he-went-out",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶ֛ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "ל֖וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פֶּ֑תְחָ/ה",
+        "phrase": "to the doorway",
+        "literal": "the-doorway-to",
+        "source": "NASB, NET (pethach=doorway/entrance); KJV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/דֶּ֖לֶת",
+        "phrase": "and the door",
+        "literal": "and-the-door",
+        "source": "KJV, ESV, NASB, NET (deleth=door leaf)"
+      },
+      {
+        "position": 6,
+        "surface": "סָגַ֥ר",
+        "phrase": "shut",
+        "literal": "he-shut",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "אַחֲרָֽי/ו",
+        "phrase": "behind him",
+        "literal": "behind-him",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

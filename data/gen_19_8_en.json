@@ -1,0 +1,214 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִנֵּה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֨א",
+        "phrase": "now",
+        "literal": "please",
+        "source": "KJV; particle of entreaty"
+      },
+      {
+        "position": 3,
+        "surface": "לִ֜/י",
+        "phrase": "I have",
+        "literal": "to-me",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁתֵּ֣י",
+        "phrase": "two",
+        "literal": "two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בָנ֗וֹת",
+        "phrase": "daughters",
+        "literal": "daughters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "who",
+        "literal": "which",
+        "source": "KJV, ESV; relative pronoun"
+      },
+      {
+        "position": 7,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יָדְעוּ֙",
+        "phrase": "have known",
+        "literal": "they-have-known",
+        "source": "KJV, ESV, NASB; euphemism for sexual relations"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֔ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אוֹצִֽיאָה",
+        "phrase": "let me bring out",
+        "literal": "I-will-bring-out",
+        "source": "NASB, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "נָּ֤א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "NASB, KJV; particle of entreaty"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/הֶן֙",
+        "phrase": "them",
+        "literal": "direct-object-them",
+        "source": "ESV, NASB; את marker"
+      },
+      {
+        "position": 13,
+        "surface": "אֲלֵי/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to-you-all",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/עֲשׂ֣וּ",
+        "phrase": "and do",
+        "literal": "and-do",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 15,
+        "surface": "לָ/הֶ֔ן",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "כַּ/טּ֖וֹב",
+        "phrase": "as is good",
+        "literal": "as-good",
+        "source": "KJV, NET"
+      },
+      {
+        "position": 17,
+        "surface": "בְּ/עֵינֵי/כֶ֑ם",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 18,
+        "surface": "רַ֠ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "ESV, NASB; restrictive particle"
+      },
+      {
+        "position": 19,
+        "surface": "לָֽ/אֲנָשִׁ֤ים",
+        "phrase": "to these men",
+        "literal": "to-men",
+        "source": "ESV, Berean"
+      },
+      {
+        "position": 20,
+        "surface": "הָ/אֵל֙",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "emphatic construction; cf. ESV"
+      },
+      {
+        "position": 21,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "ESV, NASB; negative particle"
+      },
+      {
+        "position": 22,
+        "surface": "תַּעֲשׂ֣וּ",
+        "phrase": "do",
+        "literal": "you-all-do",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 23,
+        "surface": "דָבָ֔ר",
+        "phrase": "anything",
+        "literal": "thing",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 24,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "KJV, ESV; causal conjunction"
+      },
+      {
+        "position": 25,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "upon",
+        "source": "KJV; preposition"
+      },
+      {
+        "position": 26,
+        "surface": "כֵּ֥ן",
+        "phrase": "therefore",
+        "literal": "thus",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 27,
+        "surface": "בָּ֖אוּ",
+        "phrase": "they have come",
+        "literal": "they-have-come",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 28,
+        "surface": "בְּ/צֵ֥ל",
+        "phrase": "under the shelter",
+        "literal": "in-shadow",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 29,
+        "surface": "קֹרָתִֽ/י",
+        "phrase": "of my roof",
+        "literal": "my-roof",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

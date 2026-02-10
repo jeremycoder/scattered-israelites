@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (Conj-w | V-Qal-ConsecImperf-3ms)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (N-mp)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (Prep)"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB (N-proper-ms)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׂרַ֣י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "KJV, ESV, NASB (N-proper-fs); as for Sarai in context"
+      },
+      {
+        "position": 6,
+        "surface": "אִשְׁתְּ/ךָ֔",
+        "phrase": "your wife",
+        "literal": "wife-your",
+        "source": "KJV, ESV, NASB (N-fsc | 2ms)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (Adv-NegPrt)"
+      },
+      {
+        "position": 8,
+        "surface": "תִקְרָ֥א",
+        "phrase": "you shall call",
+        "literal": "you_shall_call",
+        "source": "KJV, ESV, NASB (V-Qal-Imperf-2ms)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "her",
+        "literal": "direct_object_marker",
+        "source": "KJV, ESV, NASB (DirObjM)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמָ֖/הּ",
+        "phrase": "name",
+        "literal": "name-her",
+        "source": "KJV, ESV, NASB (N-msc | 3fs)"
+      },
+      {
+        "position": 11,
+        "surface": "שָׂרָ֑י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "KJV, ESV, NASB (N-proper-fs)"
+      },
+      {
+        "position": 12,
+        "surface": "כִּ֥י",
+        "phrase": "but",
+        "literal": "for-but",
+        "source": "KJV (but), NASB (but), ESV (for) (Conj)"
+      },
+      {
+        "position": 13,
+        "surface": "שָׂרָ֖ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "KJV, ESV, NASB (N-proper-fs)"
+      },
+      {
+        "position": 14,
+        "surface": "שְׁמָֽ/הּ",
+        "phrase": "her name",
+        "literal": "name-her",
+        "source": "KJV, ESV, NASB (N-msc | 3fs); [shall be] her name"
+      }
+    ]
+  }
+]

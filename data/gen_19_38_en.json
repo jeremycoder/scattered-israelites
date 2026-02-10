@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/צְּעִירָ֤ה",
+        "phrase": "the younger",
+        "literal": "and-the-younger",
+        "source": "KJV, NIV, ESV, NASB (refers to the younger daughter)"
+      },
+      {
+        "position": 2,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, NIV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 3,
+        "surface": "הִוא֙",
+        "phrase": "she",
+        "literal": "she",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָ֣לְדָה",
+        "phrase": "bore",
+        "literal": "she-gave-birth",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֔ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּקְרָ֥א",
+        "phrase": "and she called",
+        "literal": "and-she-called",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בֶּן",
+        "phrase": "Ben",
+        "literal": "son",
+        "source": "KJV, NIV, ESV, NASB (part of name Ben-Ammi)"
+      },
+      {
+        "position": 9,
+        "surface": "עַמִּ֑י",
+        "phrase": "Ammi",
+        "literal": "people-my",
+        "source": "KJV, NIV, ESV, NASB (Ben-Ammi means 'son of my people')"
+      },
+      {
+        "position": 10,
+        "surface": "ה֛וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲבִ֥י",
+        "phrase": "is the father of",
+        "literal": "father-my",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בְנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "עַמּ֖וֹן",
+        "phrase": "Ammon",
+        "literal": "Ammon",
+        "source": "KJV, NIV, ESV, NASB (Bene-Ammon)"
+      },
+      {
+        "position": 14,
+        "surface": "עַד",
+        "phrase": "unto",
+        "literal": "until",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "this day",
+        "literal": "the-day",
+        "source": "KJV, NIV, ESV, NASB"
+      }
+    ]
+  }
+]

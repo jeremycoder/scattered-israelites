@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּשְׁקֶ֧יןָ",
+        "phrase": "they made drink",
+        "literal": "and-caused-to-drink-3fp",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲבִי/הֶ֛ן",
+        "phrase": "their father",
+        "literal": "father-their",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יַ֖יִן",
+        "phrase": "wine",
+        "literal": "wine",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/לַּ֣יְלָה",
+        "phrase": "that night",
+        "literal": "in-the-night",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "ה֑וּא",
+        "phrase": "that",
+        "literal": "that",
+        "source": "emphatic pronoun (ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תָּבֹ֤א",
+        "phrase": "went",
+        "literal": "and-came-3fs",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/בְּכִירָה֙",
+        "phrase": "the firstborn",
+        "literal": "the-older-female",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תִּשְׁכַּ֣ב",
+        "phrase": "lay",
+        "literal": "and-lay-down-3fs",
+        "source": "ESV, KJV, NASB (euphemism)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "אָבִ֔י/הָ",
+        "phrase": "her father",
+        "literal": "father-her",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "יָדַ֥ע",
+        "phrase": "he knew",
+        "literal": "he-knew",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/שִׁכְבָ֖/הּ",
+        "phrase": "when she lay down",
+        "literal": "in-lying-down-her",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/בְ/קׄוּמָֽ/הּ",
+        "phrase": "or when she arose",
+        "literal": "and-in-rising-her",
+        "source": "ESV, KJV, NASB"
+      }
+    ]
+  }
+]

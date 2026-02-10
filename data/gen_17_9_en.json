@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, CJB; vav consecutive + qal imperfect of אמר"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, CJB; masculine plural noun (often treated as singular in reference to the divine)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, CJB; preposition indicating direction or recipient"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB, CJB; proper noun, masculine singular"
+      },
+      {
+        "position": 5,
+        "surface": "וְאַתָּה",
+        "phrase": "and you",
+        "literal": "and-you",
+        "source": "KJV, ESV, NASB, CJB; vav conjunction + second person masculine singular pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "KJV, ESV, NASB, CJB; particle marking the direct object of תשמר"
+      },
+      {
+        "position": 7,
+        "surface": "בְּרִיתִי",
+        "phrase": "my covenant",
+        "literal": "covenant-my",
+        "source": "KJV, ESV, NASB, CJB; feminine singular noun with first person singular possessive suffix"
+      },
+      {
+        "position": 8,
+        "surface": "תִשְׁמֹר",
+        "phrase": "you shall keep",
+        "literal": "you.shall.keep",
+        "source": "KJV, ESV, NASB, CJB; qal imperfect second person masculine singular of שמר (to keep, guard, preserve)"
+      },
+      {
+        "position": 9,
+        "surface": "אַתָּה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "KJV, ESV, NASB, CJB; second person masculine singular pronoun (emphatic repetition)"
+      },
+      {
+        "position": 10,
+        "surface": "וְזַרְעֲךָ",
+        "phrase": "and your seed",
+        "literal": "and-seed-your",
+        "source": "KJV, ESV, NASB, CJB; vav conjunction + masculine singular noun with second person masculine singular possessive suffix"
+      },
+      {
+        "position": 11,
+        "surface": "אַחֲרֶיךָ",
+        "phrase": "after you",
+        "literal": "after-you",
+        "source": "KJV, ESV, NASB, CJB; preposition אחרי with second person masculine singular suffix"
+      },
+      {
+        "position": 12,
+        "surface": "לְדֹרֹתָם",
+        "phrase": "throughout their generations",
+        "literal": "to-generations-their",
+        "source": "KJV, ESV, NASB, CJB; preposition ל + feminine plural noun דור with third person masculine plural possessive suffix"
+      }
+    ]
+  }
+]

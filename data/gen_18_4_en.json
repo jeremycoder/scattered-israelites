@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יֻקַּֽח",
+        "phrase": "let be brought",
+        "literal": "be taken",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֣א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "מְעַט",
+        "phrase": "a little",
+        "literal": "little",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "מַ֔יִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/רַחֲצ֖וּ",
+        "phrase": "and wash",
+        "literal": "and-wash",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "רַגְלֵי/כֶ֑ם",
+        "phrase": "your feet",
+        "literal": "feet-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִֽשָּׁעֲנ֖וּ",
+        "phrase": "and rest",
+        "literal": "and-recline",
+        "source": "ESV 'rest', NASB 'recline', Chabad 'recline'"
+      },
+      {
+        "position": 8,
+        "surface": "תַּ֥חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֵֽץ",
+        "phrase": "the tree",
+        "literal": "the-tree",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

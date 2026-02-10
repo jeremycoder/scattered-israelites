@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/הֲקִמֹתִ֨י",
+        "phrase": "And I will establish",
+        "literal": "and-I_will_cause_to_stand",
+        "source": "KJV, ESV, NASB (Hiphil of qum, 'to confirm/establish')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "Standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּרִיתִ֜/י",
+        "phrase": "My covenant",
+        "literal": "covenant-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּינִ֣/י",
+        "phrase": "between Me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵינֶ֗/ךָ",
+        "phrase": "and you",
+        "literal": "and-between-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בֵ֨ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "זַרְעֲ/ךָ֧",
+        "phrase": "your descendants",
+        "literal": "seed-your",
+        "source": "KJV ('thy seed'), ESV ('your offspring'), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אַחֲרֶ֛/י/ךָ",
+        "phrase": "after you",
+        "literal": "after-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/דֹרֹתָ֖/ם",
+        "phrase": "throughout their generations",
+        "literal": "to-generations-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/בְרִ֣ית",
+        "phrase": "for a covenant",
+        "literal": "to-covenant",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עוֹלָ֑ם",
+        "phrase": "everlasting",
+        "literal": "eternal",
+        "source": "KJV, ESV, NASB ('olam)"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/הְי֤וֹת",
+        "phrase": "to be",
+        "literal": "to-be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/ךָ֙",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לֵֽ/אלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB ('elohim)"
+      },
+      {
+        "position": 15,
+        "surface": "וּֽ/לְ/זַרְעֲ/ךָ֖",
+        "phrase": "and to your descendants",
+        "literal": "and-to-seed-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אַחֲרֶֽי/ךָ",
+        "phrase": "after you",
+        "literal": "after-you",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

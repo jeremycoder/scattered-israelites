@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "But",
+        "literal": "and-OBJ",
+        "source": "KJV, ESV, NASB (waw + 'et as contrastive marker)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּרִיתִ֖/י",
+        "phrase": "my covenant",
+        "literal": "covenant-my",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אָקִ֣ים",
+        "phrase": "I will establish",
+        "literal": "I-will-establish",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "OBJ",
+        "source": "object marker (ESV, NASB notes)"
+      },
+      {
+        "position": 5,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "whom",
+        "literal": "which/who",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "תֵּלֵ֨ד",
+        "phrase": "shall bear",
+        "literal": "she-will-bear",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/ךָ֤",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "שָׂרָה֙",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/מּוֹעֵ֣ד",
+        "phrase": "at the appointed time",
+        "literal": "to-the-appointment",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/שָּׁנָ֖ה",
+        "phrase": "year",
+        "literal": "in-the-year",
+        "source": "ESV, KJV, NASB, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אַחֶֽרֶת",
+        "phrase": "next",
+        "literal": "the-other",
+        "source": "ESV, KJV, NASB, NIV"
+      }
+    ]
+  }
+]

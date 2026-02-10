@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תְּכַחֵ֨שׁ",
+        "phrase": "denied",
+        "literal": "and-she-denied",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂרָ֧ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ/אמֹ֛ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "No",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negative particle)"
+      },
+      {
+        "position": 5,
+        "surface": "צָחַ֖קְתִּי",
+        "phrase": "I laughed",
+        "literal": "I-laughed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 7,
+        "surface": "יָרֵ֑אָה",
+        "phrase": "she was afraid",
+        "literal": "she-was-afraid",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And He said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֖א",
+        "phrase": "No",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negative particle)"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֥י",
+        "phrase": "but",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (adversative here)"
+      },
+      {
+        "position": 11,
+        "surface": "צָחָֽקְתְּ",
+        "phrase": "you did laugh",
+        "literal": "you-laughed",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

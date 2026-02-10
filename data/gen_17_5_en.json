@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹא",
+        "phrase": "no longer",
+        "literal": "and-not",
+        "source": "KJV, NASB, ESV: conjunction 'and' + negation 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "יִקָּרֵ֥א",
+        "phrase": "shall your name be called",
+        "literal": "be_called",
+        "source": "NASB, KJV, ESV: Niphal imperfect of qara 'call'"
+      },
+      {
+        "position": 3,
+        "surface": "ע֛וֹד",
+        "phrase": "any more",
+        "literal": "still-anymore",
+        "source": "KJV, NASB: adverb 'still, any longer'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "standard Hebrew particle, unrendered in English"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁמְ/ךָ֖",
+        "phrase": "your name",
+        "literal": "name-your",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "אַבְרָ֑ם",
+        "phrase": "Abram",
+        "literal": "[exalted]-father",
+        "source": "proper name, KJV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיָ֤ה",
+        "phrase": "but",
+        "literal": "and-be",
+        "source": "KJV, NASB, ESV: waw + perfect Qal of hayah 'be'"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁמְ/ךָ֙",
+        "phrase": "your name",
+        "literal": "name-your",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "father-[of multitude]",
+        "source": "proper name, KJV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for-because",
+        "source": "KJV, NASB, ESV: causal conjunction"
+      },
+      {
+        "position": 11,
+        "surface": "אַב",
+        "phrase": "father",
+        "literal": "father",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "הֲמ֥וֹן",
+        "phrase": "of a multitude",
+        "literal": "multitude",
+        "source": "NASB, KJV: hamon 'multitude, many'"
+      },
+      {
+        "position": 13,
+        "surface": "גּוֹיִ֖ם",
+        "phrase": "of nations",
+        "literal": "nations",
+        "source": "KJV, NASB, ESV: goyim 'nations'"
+      },
+      {
+        "position": 14,
+        "surface": "נְתַתִּֽי/ךָ",
+        "phrase": "I have made you",
+        "literal": "I_have_given-you",
+        "source": "KJV, NASB, ESV: Qal perfect of nathan 'give, make' + suffix"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יַּהֲפֹךְ֙",
+        "phrase": "and he overthrew",
+        "literal": "and-he_overturned",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (all translations)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶ/עָרִ֣ים",
+        "phrase": "the cities",
+        "literal": "the-cities",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵ֔ל",
+        "phrase": "those",
+        "literal": "the-these",
+        "source": "KJV (those), NASB (those), NET"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-[accusative_marker]",
+        "source": "grammatical (KJV, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כִּכָּ֑ר",
+        "phrase": "the plain",
+        "literal": "the-plain",
+        "source": "KJV (plain), NASB (valley), NET (region)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and",
+        "literal": "and-[accusative_marker]",
+        "source": "grammatical (KJV, ESV)"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יֹשְׁבֵ֣י",
+        "phrase": "inhabitants of",
+        "literal": "dwellers_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הֶ/עָרִ֔ים",
+        "phrase": "the cities",
+        "literal": "the-cities",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/צֶ֖מַח",
+        "phrase": "and what grew",
+        "literal": "and-sprout",
+        "source": "KJV (that which grew), NASB (what grew), NET (vegetation)"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אֲדָמָֽה",
+        "phrase": "on the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

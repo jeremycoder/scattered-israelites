@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּגַּשׁ",
+        "phrase": "drew near",
+        "literal": "and-he-drew-near",
+        "source": "KJV, ESV, NASB, NIV; Hebrew nagash (naw-gash) = to approach, draw near"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "All translations; proper noun, father of a multitude"
+      },
+      {
+        "position": 3,
+        "surface": "וַיֹּאמַר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB, NIV; Hebrew amar (aw-mar) = to say"
+      },
+      {
+        "position": 4,
+        "surface": "הַאַף",
+        "phrase": "Will you indeed / Are you really",
+        "literal": "the-also/even",
+        "source": "ESV, NASB, NIV, NLT; interrogative particle with emphasis; some render as 'Will you also' or 'Are you really'"
+      },
+      {
+        "position": 5,
+        "surface": "תִּסְפֶּה",
+        "phrase": "sweep away",
+        "literal": "you-will-sweep-away",
+        "source": "ESV, NASB, NIV, NLT; Hebrew caphah (saw-faw) = to sweep away, scatter, remove, ruin"
+      },
+      {
+        "position": 6,
+        "surface": "צַדִּיק",
+        "phrase": "the righteous",
+        "literal": "righteous-one",
+        "source": "KJV, ESV, NASB, NIV; Hebrew tsaddiyq (tsad-deek) = just, righteous person"
+      },
+      {
+        "position": 7,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "All translations; Hebrew im (eem) = with, accompanying, together with"
+      },
+      {
+        "position": 8,
+        "surface": "רָשָׁע",
+        "phrase": "the wicked",
+        "literal": "wicked-one",
+        "source": "KJV, ESV, NASB, NIV; Hebrew rasha (raw-shaw) = morally wrong, wicked person"
+      }
+    ]
+  }
+]

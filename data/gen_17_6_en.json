@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִפְרֵתִ֤י",
+        "phrase": "and I will make fruitful",
+        "literal": "and-I_will_cause_to_be_fruitful",
+        "source": "ESV, KJV, NASB: 'I will make you...fruitful'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹֽתְ/ךָ֙",
+        "phrase": "you",
+        "literal": "[direct object marker]-you",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/מְאֹ֣ד",
+        "phrase": "exceedingly",
+        "literal": "in-very",
+        "source": "ESV, KJV, NASB: 'exceedingly'"
+      },
+      {
+        "position": 4,
+        "surface": "מְאֹ֔ד",
+        "phrase": "",
+        "literal": "very",
+        "source": "emphatic adverb; doubled for intensity (ESV, KJV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/נְתַתִּ֖י/ךָ",
+        "phrase": "and I will make you",
+        "literal": "and-I_will_give-you",
+        "source": "ESV, KJV, NASB: 'I will make you'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/גוֹיִ֑ם",
+        "phrase": "nations",
+        "literal": "to-nations",
+        "source": "ESV, KJV, NASB: 'nations'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מְלָכִ֖ים",
+        "phrase": "and kings",
+        "literal": "and-kings",
+        "source": "ESV, KJV, NASB: 'kings'"
+      },
+      {
+        "position": 8,
+        "surface": "מִמְּ/ךָ֥",
+        "phrase": "from you",
+        "literal": "from-you",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "יֵצֵֽאוּ",
+        "phrase": "shall come",
+        "literal": "they_will_go_out",
+        "source": "ESV, KJV, NASB: 'shall come out/from you'"
+      }
+    ]
+  }
+]

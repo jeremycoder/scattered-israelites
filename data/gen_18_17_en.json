@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יהֹוָ֖ה",
+        "phrase": "And the LORD",
+        "literal": "and-YHWH",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "אָמָ֑ר",
+        "phrase": "said",
+        "literal": "said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַֽ/מְכַסֶּ֤ה",
+        "phrase": "hide",
+        "literal": "the-hiding",
+        "source": "KJV ('hide'), ESV ('hide'), NASB ('hide')"
+      },
+      {
+        "position": 4,
+        "surface": "אֲנִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מֵֽ/אַבְרָהָ֔ם",
+        "phrase": "from Abraham",
+        "literal": "from-Abraham",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "that which",
+        "literal": "which",
+        "source": "KJV, NASB; relative particle (ESV 'what')"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֹשֶֽׂה",
+        "phrase": "am doing",
+        "literal": "doing",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

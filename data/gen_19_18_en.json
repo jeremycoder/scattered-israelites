@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֥אמֶר",
+        "phrase": "And said",
+        "literal": "and-he.said",
+        "source": "Wayyiqtol form: vav-consecutive + yiqtol of אמר (to say). KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "ל֖וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "Proper noun, subject of the verb. All translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֲלֵ/הֶ֑ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "Preposition אל (to) + 3rd masculine plural pronoun. KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "אַל",
+        "phrase": "not so / no",
+        "literal": "not",
+        "source": "Negative particle אל (prohibitive/negation). KJV 'Oh, not so', ESV 'Oh no', NASB 'Oh no', HCSB 'No'"
+      },
+      {
+        "position": 5,
+        "surface": "נָ֖א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "Particle of entreaty/politeness. KJV 'I pray thee', ESV 'please', NASB 'please', HCSB 'please'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲדֹנָֽ/י",
+        "phrase": "my lords",
+        "literal": "lords-my",
+        "source": "Noun אדון (lord) + 1st singular possessive suffix. KJV 'my Lord', ESV 'my lords', NASB 'my lords', HCSB 'my lords'"
+      }
+    ]
+  }
+]

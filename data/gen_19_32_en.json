@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְכָה",
+        "phrase": "Come",
+        "literal": "go-IMPERATIVE.1PL",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "נַשְׁקֶה",
+        "phrase": "let us make drink",
+        "literal": "make-drink-COHORTATIVE.1PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DIRECT.OBJECT.MARKER",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִינוּ",
+        "phrase": "our father",
+        "literal": "father-1PL.POSSESSIVE",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "יַיִן",
+        "phrase": "wine",
+        "literal": "wine-MASCULINE.SINGULAR",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "וְנִשְׁכְּבָה",
+        "phrase": "and we will lie",
+        "literal": "and-lie-COHORTATIVE.1PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עִמּוֹ",
+        "phrase": "with him",
+        "literal": "with-3MS.POSSESSIVE",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "וּנְחַיֶּה",
+        "phrase": "that we may preserve",
+        "literal": "and-preserve-COHORTATIVE.1PL",
+        "source": "KJV, ESV, NASB, Sefaria"
+      },
+      {
+        "position": 9,
+        "surface": "מֵאָבִינוּ",
+        "phrase": "of our father",
+        "literal": "from-father-1PL.POSSESSIVE",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "זָרַע",
+        "phrase": "offspring",
+        "literal": "seed-MASCULINE.SINGULAR",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

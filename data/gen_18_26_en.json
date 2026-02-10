@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "conditional particle; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אֶמְצָ֥א",
+        "phrase": "I find",
+        "literal": "I-find",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "בִ/סְדֹ֛ם",
+        "phrase": "in Sodom",
+        "literal": "in-Sodom",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "חֲמִשִּׁ֥ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "צַדִּיקִ֖ם",
+        "phrase": "righteous",
+        "literal": "righteous-men",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/ת֣וֹךְ",
+        "phrase": "within",
+        "literal": "in-midst-of",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עִ֑יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/נָשָׂ֥אתִי",
+        "phrase": "I will spare",
+        "literal": "and-I-will-bear/lift",
+        "source": "KJV (spare), NASB (spare), ESV (spare); lit. bear up"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/כָל",
+        "phrase": "the whole",
+        "literal": "to-all",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מָּק֖וֹם",
+        "phrase": "place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "בַּ/עֲבוּרָֽ/ם",
+        "phrase": "for their sake",
+        "literal": "on-account-of-them",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הִנֵּה֙",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV, NET; particle of attention (ESV: 'Very well')"
+      },
+      {
+        "position": 4,
+        "surface": "נָשָׂ֣אתִי",
+        "phrase": "I have lifted up",
+        "literal": "I-have-lifted",
+        "source": "NET tn; literal of נשא"
+      },
+      {
+        "position": 5,
+        "surface": "פָנֶ֔י/ךָ",
+        "phrase": "your face",
+        "literal": "face-your",
+        "source": "NET tn: 'shown you favor'; idiom for granting favor (KJV: 'accepted thee')"
+      },
+      {
+        "position": 6,
+        "surface": "גַּ֖ם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, ESV, NASB; emphatic particle"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/דָּבָ֣ר",
+        "phrase": "concerning the matter",
+        "literal": "to-the-word",
+        "source": "NET, KJV (this thing)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB; demonstrative"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/בִלְתִּ֛י",
+        "phrase": "not to",
+        "literal": "to-not",
+        "source": "NET tn: negated infinitive; purpose (KJV: 'that I will not')"
+      },
+      {
+        "position": 10,
+        "surface": "הָפְכִּ֥/י",
+        "phrase": "overthrow",
+        "literal": "overturn-I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle, untranslatable"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/עִ֖יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB; relative pronoun"
+      },
+      {
+        "position": 14,
+        "surface": "דִּבַּֽרְתָּ",
+        "phrase": "you have spoken",
+        "literal": "you-have-spoken",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

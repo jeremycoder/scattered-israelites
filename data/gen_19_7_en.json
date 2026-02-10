@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "and he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NET[1][2][5]"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "no",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV, NASB, NET[1][5]"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV, ESV, NASB, NET[1][5]"
+      },
+      {
+        "position": 4,
+        "surface": "אַחַ֖/י",
+        "phrase": "my brothers",
+        "literal": "brothers-my",
+        "source": "KJV, ESV, NASB, NET[1][5]"
+      },
+      {
+        "position": 5,
+        "surface": "תָּרֵֽעוּ",
+        "phrase": "do wickedly",
+        "literal": "do-evil",
+        "source": "KJV, ESV, NASB, NET[1][5]"
+      }
+    ]
+  }
+]

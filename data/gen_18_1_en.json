@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֵּרָ֤א",
+        "phrase": "appeared",
+        "literal": "and-he.appeared",
+        "source": "KJV, ESV, NASB, NRSV; vav-consecutive + qal imperfect 3ms of ראה"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָיו֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, NRSV; preposition אל + 3ms pronominal suffix"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NRSV; divine name (Tetragrammaton)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אֵלֹנֵ֖י",
+        "phrase": "by the terebinths",
+        "literal": "in/by-terebinths",
+        "source": "NRSV, Mechon-Mamre; preposition ב + construct plural of אלון (terebinth, not oak)[2]"
+      },
+      {
+        "position": 5,
+        "surface": "מַמְרֵ֑א",
+        "phrase": "of Mamre",
+        "literal": "Mamre",
+        "source": "KJV, ESV, NASB, NRSV; proper noun (place name)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/ה֛וּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "KJV, ESV, NASB, NRSV; vav + 3ms independent pronoun"
+      },
+      {
+        "position": 7,
+        "surface": "יֹשֵׁ֥ב",
+        "phrase": "was sitting",
+        "literal": "sitting",
+        "source": "KJV, ESV, NASB, NRSV; qal participle ms of ישב"
+      },
+      {
+        "position": 8,
+        "surface": "פֶּֽתַח",
+        "phrase": "at the entrance",
+        "literal": "entrance",
+        "source": "KJV, ESV, NASB, NRSV; construct state noun (entrance/opening)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֹ֖הֶל",
+        "phrase": "of the tent",
+        "literal": "the-tent",
+        "source": "KJV, ESV, NASB, NRSV; definite article + noun אהל"
+      },
+      {
+        "position": 10,
+        "surface": "כְּ/חֹ֥ם",
+        "phrase": "in the heat",
+        "literal": "like/as-heat",
+        "source": "KJV, ESV, NASB, NRSV; preposition כ + noun חום (heat)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "of the day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB, NRSV; definite article + noun יום"
+      }
+    ]
+  }
+]

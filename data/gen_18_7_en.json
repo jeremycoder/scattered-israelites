@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 18,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "KJV, ESV, NASB (conjunction + preposition)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בָּקָ֖ר",
+        "phrase": "the herd",
+        "literal": "the-cattle",
+        "source": "KJV, ESV, NASB, CJB"
+      },
+      {
+        "position": 3,
+        "surface": "רָ֣ץ",
+        "phrase": "ran",
+        "literal": "he-ran",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקַּ֨ח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "a",
+        "literal": "son-of",
+        "source": "KJV (calf), ESV, NASB (idiomatic for young)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּקָ֜ר",
+        "phrase": "calf",
+        "literal": "cattle",
+        "source": "KJV, ESV, NASB, CJB"
+      },
+      {
+        "position": 8,
+        "surface": "רַ֤ךְ",
+        "phrase": "tender",
+        "literal": "tender",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וָ/טוֹב֙",
+        "phrase": "and good",
+        "literal": "and-good",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּתֵּ֣ן",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/נַּ֔עַר",
+        "phrase": "the servant",
+        "literal": "the-youth",
+        "source": "KJV (young man), ESV (servant), NASB (lad)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יְמַהֵ֖ר",
+        "phrase": "and he hurried",
+        "literal": "and-he-hastened",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לַ/עֲשׂ֥וֹת",
+        "phrase": "to prepare",
+        "literal": "to-do",
+        "source": "KJV (dress it), ESV (prepare), NASB (prepare)"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "it",
+        "literal": "it-him",
+        "source": "KJV, ESV, NASB (direct object marker + 3ms suffix)"
+      }
+    ]
+  }
+]

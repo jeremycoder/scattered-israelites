@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 19,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אֲנָשִׁ֞ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "who were",
+        "literal": "who/which/that",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 4,
+        "surface": "פֶּ֣תַח",
+        "phrase": "at the entrance",
+        "literal": "entrance/door/opening",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בַּ֗יִת",
+        "phrase": "of the house",
+        "literal": "the-house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הִכּוּ֙",
+        "phrase": "they struck",
+        "literal": "they-struck",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/סַּנְוֵרִ֔ים",
+        "phrase": "with blindness",
+        "literal": "in-the-blindnesses/dazzlements",
+        "source": "KJV, ESV, NASB; rare term, cf. 2 Kings 6:18"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/קָּטֹ֖ן",
+        "phrase": "from small",
+        "literal": "from-little/small",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/עַד",
+        "phrase": "and to",
+        "literal": "and-until/to",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "גָּד֑וֹל",
+        "phrase": "great",
+        "literal": "great/big",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יִּלְא֖וּ",
+        "phrase": "so that they wearied",
+        "literal": "and-they-wearied/themselves",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/מְצֹ֥א",
+        "phrase": "to find",
+        "literal": "to-find",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/פָּֽתַח",
+        "phrase": "the door",
+        "literal": "the-door/entrance",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

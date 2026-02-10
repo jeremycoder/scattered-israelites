@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְיִשְׁמָעֵאל",
+        "phrase": "And Ishmael",
+        "literal": "and-Ishmael",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנוֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "was",
+        "literal": "son-of",
+        "source": "KJV, ESV, NASB (age construction)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁלֹשׁ",
+        "phrase": "thirteen",
+        "literal": "three",
+        "source": "KJV, ESV, NASB, NET (part of compound number)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶשְׂרֵה",
+        "phrase": "thirteen",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB, NET (part of compound number: three-ten)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנָה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "בְּהִמֹּלוֹ",
+        "phrase": "when he was circumcised",
+        "literal": "in-be.circumcised-he",
+        "source": "KJV, ESV, NASB, NET (Niphal infinitive construct with preposition)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Grammatical particle; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "בְּשַׂר",
+        "phrase": "in the flesh",
+        "literal": "in-flesh",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "עָרְלָתוֹ",
+        "phrase": "of his foreskin",
+        "literal": "foreskin-his",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

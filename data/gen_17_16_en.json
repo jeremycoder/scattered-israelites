@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בֵרַכְתִּ֣י",
+        "phrase": "and I will bless",
+        "literal": "and-I_will_bless",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֔/הּ",
+        "phrase": "her",
+        "literal": "[direct object marker]-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/גַ֨ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "KJV (\"also\"), ESV (\"moreover\"), NASB (\"indeed\")"
+      },
+      {
+        "position": 4,
+        "surface": "נָתַ֧תִּי",
+        "phrase": "I will give",
+        "literal": "I_have_given/I_will_give",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִמֶּ֛/נָּה",
+        "phrase": "from her",
+        "literal": "from-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/ךָ֖",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֑ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בֵֽרַכְתִּ֨י/הָ֙",
+        "phrase": "and I will bless her",
+        "literal": "and-I_will_bless-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הָֽיְתָ֣ה",
+        "phrase": "and she shall be",
+        "literal": "and-she_will_be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/גוֹיִ֔ם",
+        "phrase": "[for] nations",
+        "literal": "to-nations",
+        "source": "KJV, ESV, NASB (goyim = nations)"
+      },
+      {
+        "position": 11,
+        "surface": "מַלְכֵ֥י",
+        "phrase": "kings [of]",
+        "literal": "kings-[of]",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עַמִּ֖ים",
+        "phrase": "peoples",
+        "literal": "peoples",
+        "source": "KJV (\"people\"), ESV (\"peoples\"), NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִמֶּ֥/נָּה",
+        "phrase": "from her",
+        "literal": "from-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "יִהְיֽוּ",
+        "phrase": "will be",
+        "literal": "they_will_be",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

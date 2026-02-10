@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 17,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲנִ֕י",
+        "phrase": "As for me",
+        "literal": "I-1st.sg",
+        "source": "KJV, ESV, NASB; independent pronoun emphasizing the speaker"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "behold",
+        "literal": "behold-particle",
+        "source": "KJV, ESV, NASB; presentative particle introducing what follows"
+      },
+      {
+        "position": 3,
+        "surface": "בְרִיתִ֖י",
+        "phrase": "My covenant",
+        "literal": "covenant-1st.sg.poss",
+        "source": "KJV, ESV, NASB; construct form with first person singular possessive suffix"
+      },
+      {
+        "position": 4,
+        "surface": "אִתָּ֑ךְ",
+        "phrase": "with you",
+        "literal": "with-2nd.sg.masc",
+        "source": "KJV, ESV, NASB; preposition אֶת with second person masculine singular suffix"
+      },
+      {
+        "position": 5,
+        "surface": "וְהָיִ֕יתָ",
+        "phrase": "and you shall become",
+        "literal": "and-become-2nd.sg.masc.perf",
+        "source": "KJV, ESV, NASB; waw-consecutive with qal perfect second person masculine singular"
+      },
+      {
+        "position": 6,
+        "surface": "לְאַ֖ב",
+        "phrase": "the father of",
+        "literal": "to-father",
+        "source": "KJV, ESV, NASB; preposition לְ with construct noun אַב"
+      },
+      {
+        "position": 7,
+        "surface": "הֲמ֥וֹן",
+        "phrase": "a multitude of",
+        "literal": "multitude",
+        "source": "KJV, ESV, NASB; construct noun in construct chain with following noun"
+      },
+      {
+        "position": 8,
+        "surface": "גּוֹיִֽם",
+        "phrase": "nations",
+        "literal": "nations-masc.pl",
+        "source": "KJV, ESV, NASB; masculine plural noun in construct relationship with preceding noun"
+      }
+    ]
+  }
+]
