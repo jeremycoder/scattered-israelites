@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאֵ֖ד",
+        "phrase": "and a mist/spring",
+        "literal": "and-mist",
+        "source": "KJV 'mist', NET 'springs', NASB 'mist'; אֵד (ʾed) traditionally 'mist' but Akkadian cognate edu refers to subterranean springs or waterways[2]"
+      },
+      {
+        "position": 2,
+        "surface": "יַֽעֲלֶ֣ה",
+        "phrase": "would well up/rise",
+        "literal": "go-up-IMPF.3MS",
+        "source": "KJV 'went up', ESV 'was going up', NET 'would well up'; imperfect form with customary/durative nuance[2][3]"
+      },
+      {
+        "position": 3,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "preposition indicating source or origin"
+      },
+      {
+        "position": 4,
+        "surface": "הָאָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB; אֶרֶץ (ʾerets) 'earth, land'[2]"
+      },
+      {
+        "position": 5,
+        "surface": "וְהִשְׁקָ֖ה",
+        "phrase": "and watered",
+        "literal": "and-water-PERF.3MS",
+        "source": "KJV 'watered', ESV 'watering', NASB 'water'; perfect with vav consecutive carrying customary nuance[2]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "direct object marker; no English equivalent"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "the whole/all",
+        "literal": "all",
+        "source": "KJV 'whole', ESV 'whole', NASB 'whole'; כֹּל (kol) 'all, whole'"
+      },
+      {
+        "position": 8,
+        "surface": "פְּנֵֽי",
+        "phrase": "surface/face",
+        "literal": "face-PL.CSTR",
+        "source": "KJV 'face', ESV 'face', NASB 'surface'; פָּנִים (panim) literally 'faces' but idiomatically 'surface'[2]"
+      },
+      {
+        "position": 9,
+        "surface": "הָאֲדָמָֽה",
+        "phrase": "the ground/fertile soil",
+        "literal": "the-ground",
+        "source": "KJV 'ground', ESV 'ground', NASB 'ground'; אֲדָמָה (ʾadamah) 'ground, fertile soil'[2]"
+      }
+    ]
+  }
+]

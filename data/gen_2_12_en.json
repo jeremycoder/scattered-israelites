@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּֽ/זֲהַ֛ב",
+        "phrase": "and gold",
+        "literal": "and-gold",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֥רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/הִ֖וא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "ט֑וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB, NET (NET tn: Heb 'good')"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁ֥ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/בְּדֹ֖לַח",
+        "phrase": "bdellium",
+        "literal": "the-bdellium",
+        "source": "NASB, NET (pearls/resin), KJV"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶ֥בֶן",
+        "phrase": "and stone",
+        "literal": "and-stone",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שֹּֽׁהַם",
+        "phrase": "onyx",
+        "literal": "the-onyx",
+        "source": "KJV, ESV, NASB, NET (lapis lazuli/onyx)"
+      }
+    ]
+  }
+]

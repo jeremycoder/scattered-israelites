@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּטַּע",
+        "phrase": "and planted",
+        "literal": "and-he.planted",
+        "source": "KJV, ESV, NASB; wayyiqtol form of נטע (nṭʿ)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB; divine name"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB; masculine plural noun"
+      },
+      {
+        "position": 4,
+        "surface": "גַּן",
+        "phrase": "a garden",
+        "literal": "garden",
+        "source": "KJV, ESV, NASB; masculine singular noun"
+      },
+      {
+        "position": 5,
+        "surface": "בְעֵדֶן",
+        "phrase": "in Eden",
+        "literal": "in-Eden",
+        "source": "KJV, ESV, NASB; preposition בְ + proper noun"
+      },
+      {
+        "position": 6,
+        "surface": "מִקֶּדֶם",
+        "phrase": "eastward",
+        "literal": "from-east",
+        "source": "KJV, ESV, NASB; preposition מִ + masculine singular noun"
+      },
+      {
+        "position": 7,
+        "surface": "וַיָּשֶׂם",
+        "phrase": "and placed",
+        "literal": "and-he.placed",
+        "source": "KJV, ESV, NASB; wayyiqtol form of שׂים (śym)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB; adverb"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DO-marker",
+        "source": "KJV, ESV, NASB; accusative particle"
+      },
+      {
+        "position": 10,
+        "surface": "הָאָדָם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB; definite masculine singular noun"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "who/which",
+        "source": "KJV, ESV, NASB; relative pronoun"
+      },
+      {
+        "position": 12,
+        "surface": "יָצַר",
+        "phrase": "he had formed",
+        "literal": "he.formed",
+        "source": "KJV, ESV, NASB; qal perfect 3ms of יצר (yṣr); pluperfect sense in relative clause"
+      }
+    ]
+  }
+]

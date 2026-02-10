@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּבֶן֩",
+        "phrase": "and built",
+        "literal": "and-he.built",
+        "source": "KJV, ESV, NASB, NET (banah, 'to build')"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֨ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֧ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/צֵּלָ֛ע",
+        "phrase": "the rib",
+        "literal": "the-rib",
+        "source": "KJV ('rib'), ESV ('rib'), NASB ('rib'); NET ('part')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לָקַ֥ח",
+        "phrase": "he had taken",
+        "literal": "he.took",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הָֽ/אָדָ֖ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB (adam, 'man')"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/אִשָּׁ֑ה",
+        "phrase": "into a woman",
+        "literal": "to-woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יְבִאֶ֖/הָ",
+        "phrase": "and brought her",
+        "literal": "and-he.brought-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הָֽ/אָדָֽם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB (adam, 'man')"
+      }
+    ]
+  }
+]

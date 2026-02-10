@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֛ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֥ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle (ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/אָדָ֑ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV (the man), ESV (the man), NASB (the man)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּנִּחֵ֣/הוּ",
+        "phrase": "and placed him",
+        "literal": "and-caused-him-to-rest",
+        "source": "NET (placed), NASB (put), YLT (caused him to rest)"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/גַן",
+        "phrase": "in the garden",
+        "literal": "in-garden",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֵ֔דֶן",
+        "phrase": "of Eden",
+        "literal": "Eden",
+        "source": "KJV, ESV, NASB (genitive of location, NET)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/עָבְדָ֖/הּ",
+        "phrase": "to work it",
+        "literal": "to-serve/keep-it",
+        "source": "KJV (dress), NASB (cultivate), ESV (work)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/לְ/שָׁמְרָֽ/הּ",
+        "phrase": "and to keep it",
+        "literal": "and-to-guard/keep-it",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

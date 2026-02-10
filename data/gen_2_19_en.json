@@ -1,0 +1,207 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּצֶר֩",
+        "phrase": "and formed",
+        "literal": "and-he-formed",
+        "source": "KJV, ESV, NASB (noted as 'had formed' in ESV, NIV)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֨ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֜ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/אֲדָמָ֗ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חַיַּ֤ת",
+        "phrase": "beast",
+        "literal": "living creature",
+        "source": "KJV (beast), ESV (beast), NASB (beast)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שָּׂדֶה֙",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and",
+        "literal": "and-direct object marker",
+        "source": "grammatical marker; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "ע֣וֹף",
+        "phrase": "bird",
+        "literal": "bird",
+        "source": "KJV (fowl), ESV (bird), NASB (bird)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יָּבֵא֙",
+        "phrase": "and brought",
+        "literal": "and-he-brought",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "הָ֣/אָדָ֔ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV (Adam), ESV (man), NASB (man)"
+      },
+      {
+        "position": 16,
+        "surface": "לִ/רְא֖וֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "יִּקְרָא",
+        "phrase": "he would call",
+        "literal": "he-would-call",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "ל֑/וֹ",
+        "phrase": "them",
+        "literal": "to-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/כֹל֩",
+        "phrase": "and whatever",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "יִקְרָא",
+        "phrase": "he would call",
+        "literal": "he-would-call",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 23,
+        "surface": "ל֧/וֹ",
+        "phrase": "it",
+        "literal": "to-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 24,
+        "surface": "הָֽ/אָדָ֛ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV (Adam), ESV (man), NASB (man)"
+      },
+      {
+        "position": 25,
+        "surface": "נֶ֥פֶשׁ",
+        "phrase": "living creature",
+        "literal": "soul",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 26,
+        "surface": "חַיָּ֖ה",
+        "phrase": "living",
+        "literal": "living",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 27,
+        "surface": "ה֥וּא",
+        "phrase": "that",
+        "literal": "it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 28,
+        "surface": "שְׁמֽ/וֹ",
+        "phrase": "its name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

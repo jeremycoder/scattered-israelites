@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְצַו֙",
+        "phrase": "and commanded",
+        "literal": "and-he.commanded",
+        "source": "Wayyiqtol form (vav-consecutive imperfect); KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "Divine name; all major translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Elohim; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "Preposition; KJV 'upon', ESV/NASB 'to'"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽאָדָ֖ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "Definite noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לֵאמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "Infinitive construct; introduces direct speech; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מִכֹּ֥ל",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "Preposition + noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֵֽץ",
+        "phrase": "tree",
+        "literal": "tree",
+        "source": "Noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַגָּ֖ן",
+        "phrase": "the garden",
+        "literal": "the-garden",
+        "source": "Definite noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אָכֹ֥ל",
+        "phrase": "eat",
+        "literal": "eat",
+        "source": "Infinitive absolute; strengthens following verb; KJV 'freely eat', ESV/NASB 'surely eat'"
+      },
+      {
+        "position": 11,
+        "surface": "תֹּאכֵֽל",
+        "phrase": "you may eat",
+        "literal": "you.will-eat",
+        "source": "Imperfect 2ms; KJV 'thou mayest eat', ESV/NASB 'you may eat'"
+      }
+    ]
+  }
+]

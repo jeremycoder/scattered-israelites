@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "And said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "LORD",
+        "literal": "YHWH",
+        "source": "Proper name of God; KJV (LORD), ESV (LORD), NASB (LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "ט֛וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הֱי֥וֹת",
+        "phrase": "for the man to be",
+        "literal": "be-INFINITIVE",
+        "source": "Infinitive construct; KJV ('that the man'), ESV ('for the man to be'), NASB ('for the man to be')"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אָדָ֖ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/בַדּ֑/וֹ",
+        "phrase": "alone",
+        "literal": "for-alone-his",
+        "source": "KJV, ESV, NASB; 'levaddo' = 'alone'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶֽעֱשֶׂהּ",
+        "phrase": "I will make",
+        "literal": "I-will-make-him",
+        "source": "1cs cohortative; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לּ֥/וֹ",
+        "phrase": "for him",
+        "literal": "for-him",
+        "source": "Prepositional dative; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עֵ֖זֶר",
+        "phrase": "a helper",
+        "literal": "help",
+        "source": "KJV ('help'), ESV ('helper'), NASB ('helper'); often divine aid elsewhere"
+      },
+      {
+        "position": 12,
+        "surface": "כְּ/נֶגְדּֽ/וֹ",
+        "phrase": "suitable for him",
+        "literal": "as-opposite-his",
+        "source": "KJV ('meet for him'), ESV ('suitable for him'), NASB ('corresponding to him'); BDB 'corresponding to/equal'"
+      }
+    ]
+  }
+]

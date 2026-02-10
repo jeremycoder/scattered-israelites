@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֵׁ֨ם",
+        "phrase": "and the name",
+        "literal": "and-name",
+        "source": "KJV, ESV, NASB (wə-šêm)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נָּהָ֤ר",
+        "phrase": "of the river",
+        "literal": "the-river",
+        "source": "KJV, ESV, NASB (han-nā-hār)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שְּׁלִישִׁי֙",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "KJV, ESV, NASB (haš-šə-lî-šî)"
+      },
+      {
+        "position": 4,
+        "surface": "חִדֶּ֔קֶל",
+        "phrase": "Hiddekel",
+        "literal": "Hiddekel-Tigris",
+        "source": "KJV (Hiddekel), ESV (Tigris); Strong's 2313[1]"
+      },
+      {
+        "position": 5,
+        "surface": "ה֥וּא",
+        "phrase": "that is it",
+        "literal": "he-it",
+        "source": "KJV, ESV, NASB; demonstrative pronoun[1]"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/הֹלֵ֖ךְ",
+        "phrase": "which goes",
+        "literal": "the-going",
+        "source": "KJV, ESV, NASB (ha-hō-lēḵ)[1]"
+      },
+      {
+        "position": 7,
+        "surface": "קִדְמַ֣ת",
+        "phrase": "east of",
+        "literal": "east-of",
+        "source": "KJV, ESV, NASB (qidmaṯ); spatial 'east of'[2]"
+      },
+      {
+        "position": 8,
+        "surface": "אַשּׁ֑וּר",
+        "phrase": "Assyria",
+        "literal": "Asshur-Assyria",
+        "source": "KJV, ESV, NASB; Assyria[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/נָּהָ֥ר",
+        "phrase": "and the river",
+        "literal": "and-the-river",
+        "source": "KJV, ESV, NASB (wə-han-nā-hār)"
+      },
+      {
+        "position": 10,
+        "surface": "הָֽ/רְבִיעִ֖י",
+        "phrase": "the fourth",
+        "literal": "the-fourth",
+        "source": "KJV, ESV, NASB (hā-rə-ḇī‘î)"
+      },
+      {
+        "position": 11,
+        "surface": "ה֥וּא",
+        "phrase": "is it",
+        "literal": "he-it",
+        "source": "KJV, ESV, NASB; demonstrative pronoun[1]"
+      },
+      {
+        "position": 12,
+        "surface": "פְרָֽת",
+        "phrase": "Euphrates",
+        "literal": "Euphrates",
+        "source": "KJV, ESV, NASB (pə-rāṯ)[1][2]"
+      }
+    ]
+  }
+]

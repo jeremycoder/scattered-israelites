@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּיצֶר֩",
+        "phrase": "and formed",
+        "literal": "and-formed",
+        "source": "KJV, ESV, NASB (noted double yod in [1])"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֨ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֜ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle (ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/אָדָ֗ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV (man), ESV (man), NASB (man); [2][3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "עָפָר֙",
+        "phrase": "dust",
+        "literal": "dust",
+        "source": "KJV, ESV, NASB [2][3]"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "grammatical preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ֣/אֲדָמָ֔ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB [2]"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּפַּ֥ח",
+        "phrase": "and breathed",
+        "literal": "and-blew",
+        "source": "KJV, ESV, NASB [3][4]"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אַפָּ֖י/ו",
+        "phrase": "into his nostrils",
+        "literal": "in-nostrils-his",
+        "source": "KJV (nostrils), ESV (nostrils), NASB (nostrils) [3][4]"
+      },
+      {
+        "position": 11,
+        "surface": "נִשְׁמַ֣ת",
+        "phrase": "the breath",
+        "literal": "breath",
+        "source": "KJV (breath), ESV (breath), NASB (breath) [2][3][4]"
+      },
+      {
+        "position": 12,
+        "surface": "חַיִּ֑ים",
+        "phrase": "of life",
+        "literal": "life",
+        "source": "KJV, ESV, NASB [2][3]"
+      },
+      {
+        "position": 13,
+        "surface": "וַֽ/יְהִ֥י",
+        "phrase": "and became",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "הָֽ/אָדָ֖ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB [2][3][4]"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/נֶ֥פֶשׁ",
+        "phrase": "a living",
+        "literal": "to-soul",
+        "source": "KJV (soul), ESV (being), NASB (person); [2][3][4]"
+      },
+      {
+        "position": 16,
+        "surface": "חַיָּֽה",
+        "phrase": "being",
+        "literal": "living",
+        "source": "KJV (soul), ESV (being), NASB (being) [2][3][4]"
+      }
+    ]
+  }
+]

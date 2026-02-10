@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "on-upon",
+        "source": "KJV, ESV, NASB, NET (עַל־כֵּן = 'therefore')"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּן֙",
+        "phrase": "therefore",
+        "literal": "thus-so",
+        "source": "KJV, ESV, NASB, NET (עַל־כֵּן = 'therefore')"
+      },
+      {
+        "position": 3,
+        "surface": "יַֽעֲזָב",
+        "phrase": "shall leave",
+        "literal": "leave-3ms",
+        "source": "KJV ('leave'), ESV ('leave'), NASB ('leave'), NET ('leaves')"
+      },
+      {
+        "position": 4,
+        "surface": "אִ֔ישׁ",
+        "phrase": "a man",
+        "literal": "man-ms",
+        "source": "KJV, ESV, NASB, NET ('man')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "standard Hebrew grammar particle"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֖י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB, NET ('his father')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-accusative-marker",
+        "source": "standard Hebrew grammar particle"
+      },
+      {
+        "position": 8,
+        "surface": "אִמּ֑/וֹ",
+        "phrase": "his mother",
+        "literal": "mother-his",
+        "source": "KJV, ESV, NASB, NET ('his mother')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/דָבַ֣ק",
+        "phrase": "and shall cleave",
+        "literal": "and-cleave-3ms",
+        "source": "KJV ('cleave'), ESV ('hold fast'), NASB ('be joined'), NET ('cleaves')"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אִשְׁתּ֔/וֹ",
+        "phrase": "to his wife",
+        "literal": "in-to-wife-his",
+        "source": "KJV, ESV, NASB, NET ('his wife')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הָי֖וּ",
+        "phrase": "and they shall be",
+        "literal": "and-be-3mp",
+        "source": "KJV, ESV, NASB, NET ('they shall be')"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/בָשָׂ֥ר",
+        "phrase": "one flesh",
+        "literal": "to-flesh",
+        "source": "KJV, ESV, NASB, NET ('one flesh')"
+      },
+      {
+        "position": 13,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one-ms",
+        "source": "KJV, ESV, NASB, NET ('one')"
+      }
+    ]
+  }
+]

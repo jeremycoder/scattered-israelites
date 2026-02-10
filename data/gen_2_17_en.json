@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מֵ/עֵ֗ץ",
+        "phrase": "but from the tree",
+        "literal": "and-from tree",
+        "source": "KJV, ESV, NASB: 'but of the tree'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דַּ֨עַת֙",
+        "phrase": "of the knowledge",
+        "literal": "the knowledge",
+        "source": "KJV, ESV, NASB: 'of the knowledge'"
+      },
+      {
+        "position": 3,
+        "surface": "ט֣וֹב",
+        "phrase": "of good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB: 'good'"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/רָ֔ע",
+        "phrase": "and evil",
+        "literal": "and-evil",
+        "source": "KJV, ESV, NASB: 'and evil'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB: negative particle"
+      },
+      {
+        "position": 6,
+        "surface": "תֹאכַ֖ל",
+        "phrase": "you shall eat",
+        "literal": "you-eat",
+        "source": "KJV, ESV, NASB: 'thou shalt not eat'"
+      },
+      {
+        "position": 7,
+        "surface": "מִמֶּ֑/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "KJV, ESV, NASB: 'of it'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֗י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB: causal conjunction"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/י֛וֹם",
+        "phrase": "in the day",
+        "literal": "in day",
+        "source": "KJV, ESV, NASB: 'in the day'"
+      },
+      {
+        "position": 10,
+        "surface": "אֲכָלְ/ךָ֥",
+        "phrase": "that you eat",
+        "literal": "eat-you",
+        "source": "KJV, ESV, NASB: 'thou eatest'"
+      },
+      {
+        "position": 11,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "KJV, ESV, NASB: 'thereof'"
+      },
+      {
+        "position": 12,
+        "surface": "מ֥וֹת",
+        "phrase": "dying",
+        "literal": "death",
+        "source": "Infinitive absolute; KJV, ESV, NASB: part of 'surely die'"
+      },
+      {
+        "position": 13,
+        "surface": "תָּמֽוּת",
+        "phrase": "you shall die",
+        "literal": "you-die",
+        "source": "Imperfect; KJV, ESV, NASB: 'thou shalt surely die'"
+      }
+    ]
+  }
+]

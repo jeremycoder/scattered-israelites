@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣לֶּה",
+        "phrase": "These are",
+        "literal": "these",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "תוֹלְד֧וֹת",
+        "phrase": "generations",
+        "literal": "generations-of",
+        "source": "KJV, ESV, NASB (tôlədôṯ)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שָּׁמַ֛יִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הָ/אָ֖רֶץ",
+        "phrase": "and the earth",
+        "literal": "and-the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/הִבָּֽרְאָ֑/ם",
+        "phrase": "when they were created",
+        "literal": "in-creating-them",
+        "source": "ESV, NASB (bəhibbārəʾām)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/י֗וֹם",
+        "phrase": "in the day",
+        "literal": "in-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עֲשׂ֛וֹת",
+        "phrase": "that",
+        "literal": "making",
+        "source": "KJV, ESV, NASB (ʿăśôṯ infinitive)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "earth",
+        "literal": "earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שָׁמָֽיִם",
+        "phrase": "and heaven",
+        "literal": "and-heavens",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

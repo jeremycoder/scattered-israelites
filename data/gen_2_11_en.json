@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שֵׁ֥ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB: 'name'"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אֶחָ֖ד",
+        "phrase": "of the one",
+        "literal": "the-one",
+        "source": "KJV ('first'), ESV, NASB ('first'); lit. cardinal 'one' [1]"
+      },
+      {
+        "position": 3,
+        "surface": "פִּישׁ֑וֹן",
+        "phrase": "Pishon",
+        "literal": "Pishon",
+        "source": "Proper name; KJV 'Pison', ESV, NASB 'Pishon'"
+      },
+      {
+        "position": 4,
+        "surface": "ה֣וּא",
+        "phrase": "it is",
+        "literal": "he-it",
+        "source": "KJV, ESV, NASB: 'it is / that is'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/סֹּבֵ֗ב",
+        "phrase": "which surrounds",
+        "literal": "the-surrounding",
+        "source": "Qal participle; KJV 'compasseth', ESV 'winds through', NASB 'flows around' [1]"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֚ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Particle; etymological accusative marker"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB: 'whole / entire / all'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "land",
+        "literal": "land-earth",
+        "source": "KJV, ESV, NASB: 'land'"
+      },
+      {
+        "position": 9,
+        "surface": "הַֽ/חֲוִילָ֔ה",
+        "phrase": "of Havilah",
+        "literal": "the-Havilah",
+        "source": "Proper name; KJV, ESV, NASB 'Havilah' [1]"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁר",
+        "phrase": "where",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB: 'where'"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB: 'there'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/זָּהָֽב",
+        "phrase": "the gold",
+        "literal": "the-gold",
+        "source": "KJV, ESV, NASB: 'gold'"
+      }
+    ]
+  }
+]

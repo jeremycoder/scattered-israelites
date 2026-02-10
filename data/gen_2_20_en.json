@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֨א",
+        "phrase": "gave names",
+        "literal": "and-he-called",
+        "source": "KJV, ESV, NASB (wayyiqra, Qal consecutive imperfect 3ms)"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אָדָ֜ם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV (Adam), ESV (man), NASB (man); ha'adam"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁמ֗וֹת",
+        "phrase": "names",
+        "literal": "names",
+        "source": "KJV, ESV, NASB (shemot, plural)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/כָל",
+        "phrase": "to all",
+        "literal": "to-all",
+        "source": "KJV, ESV, NASB; preposition l- + kol (all)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בְּהֵמָה֙",
+        "phrase": "the livestock",
+        "literal": "the-livestock",
+        "source": "NASB (cattle), ESV (livestock), KJV (cattle); habbehemah"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/ע֣וֹף",
+        "phrase": "and to the birds",
+        "literal": "and-to-birds",
+        "source": "KJV (fowl), ESV (birds), NASB (birds); u-le'of"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "KJV (air), ESV (sky), NASB (sky); hashshamayim"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/כֹ֖ל",
+        "phrase": "and to every",
+        "literal": "and-to-every",
+        "source": "KJV, ESV, NASB; u-le-kol"
+      },
+      {
+        "position": 9,
+        "surface": "חַיַּ֣ת",
+        "phrase": "beast",
+        "literal": "living-creature",
+        "source": "KJV, NASB (beast), ESV (beasts); chayyat (fsc)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שָּׂדֶ֑ה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB; hassadeh"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/לְ/אָדָ֕ם",
+        "phrase": "but for man",
+        "literal": "and-for-man",
+        "source": "KJV, NASB (Adam), ESV (man); u-le'adam"
+      },
+      {
+        "position": 12,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB; negative particle"
+      },
+      {
+        "position": 13,
+        "surface": "מָצָ֥א",
+        "phrase": "was found",
+        "literal": "he-found",
+        "source": "KJV, ESV, NASB (Qal perfect 3ms)"
+      },
+      {
+        "position": 14,
+        "surface": "עֵ֖זֶר",
+        "phrase": "a helper",
+        "literal": "helper",
+        "source": "KJV (help), ESV/NASB (helper); ezer"
+      },
+      {
+        "position": 15,
+        "surface": "כְּ/נֶגְדּֽ/וֹ",
+        "phrase": "suitable for him",
+        "literal": "as-opposite-him",
+        "source": "NASB (suitable for him), KJV (meet for him), ESV (his complement); kenegdo, BDB: corresponding to him, equal"
+      }
+    ]
+  }
+]

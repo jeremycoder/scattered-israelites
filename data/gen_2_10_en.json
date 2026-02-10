@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְנָהָרּ֙",
+        "phrase": "And a river",
+        "literal": "and-river",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יֹצֵ֣א",
+        "phrase": "flowed out",
+        "literal": "go-out.PTCP.MS",
+        "source": "KJV 'went out', ESV 'flowed out', NASB 'flowed out', NET 'flows'; Biblical Hebrew participle functioning as present/past durative action"
+      },
+      {
+        "position": 3,
+        "surface": "מֵעֵ֔דֶן",
+        "phrase": "from Eden",
+        "literal": "from-Eden",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "לְהַשְׁק֖וֹת",
+        "phrase": "to water",
+        "literal": "to-water.INF",
+        "source": "KJV, ESV, NASB, NET; infinitive construct expressing purpose"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DO-marker",
+        "source": "Standard Hebrew grammar; marks definite direct object"
+      },
+      {
+        "position": 6,
+        "surface": "הַגָּ֑ן",
+        "phrase": "the garden",
+        "literal": "the-garden",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "וּמִשָּׁם֙",
+        "phrase": "and from there",
+        "literal": "and-from-there",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "יִפָּרֵ֔ד",
+        "phrase": "it divided",
+        "literal": "divide.IMPF.3MS",
+        "source": "KJV, ESV, NASB, NET; imperfect verb form"
+      },
+      {
+        "position": 9,
+        "surface": "וְהָיָ֖ה",
+        "phrase": "and became",
+        "literal": "and-be.IMPF.3MS",
+        "source": "KJV, ESV, NASB, NET; can also mean 'shall extend' or 'shall correspond' (cf. Numbers 34:3, Leviticus 25:50)"
+      },
+      {
+        "position": 10,
+        "surface": "לְאַרְבָּעָ֥ה",
+        "phrase": "into four",
+        "literal": "to-four",
+        "source": "KJV, ESV, NASB, NET; preposition לְ with number"
+      },
+      {
+        "position": 11,
+        "surface": "רָאשִֽׁים",
+        "phrase": "headstreams",
+        "literal": "heads.MP",
+        "source": "KJV 'heads', ESV 'rivers', NASB 'rivers', NET 'headstreams'; Hebrew literally 'heads' but idiomatically refers to river branches or sources"
+      }
+    ]
+  }
+]

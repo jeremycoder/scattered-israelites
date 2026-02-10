@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְכֻלּוּ",
+        "phrase": "were finished",
+        "literal": "and-3mp.complete",
+        "source": "KJV, ESV, NASB; Wayyiqtol form of כלה (klh) with vav-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "הַשָּׁמַיִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB; definite article + dual noun שמים"
+      },
+      {
+        "position": 3,
+        "surface": "וְהָאָרֶץ",
+        "phrase": "and the earth",
+        "literal": "and-the-earth",
+        "source": "KJV, ESV, NASB; vav-conjunction + definite article + noun ארץ"
+      },
+      {
+        "position": 4,
+        "surface": "וְכָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB; vav-conjunction + noun כל in construct state"
+      },
+      {
+        "position": 5,
+        "surface": "צְבָאָם",
+        "phrase": "their host",
+        "literal": "host-their",
+        "source": "KJV, ESV, NASB; noun צבא with 3mp possessive suffix; Gesenius notes this abbreviates the fuller expression in Nehemiah 9:6"
+      }
+    ]
+  }
+]

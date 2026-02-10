@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּפֵּל",
+        "phrase": "and he caused to fall",
+        "literal": "and-he-caused-to-fall",
+        "source": "KJV, ESV, NASB; wayyiqtol form of נפל (naphal)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB; divine name"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB; Elohim"
+      },
+      {
+        "position": 4,
+        "surface": "תַּרְדֵּמָה",
+        "phrase": "a deep sleep",
+        "literal": "deep-sleep",
+        "source": "KJV, ESV, NASB; feminine noun tardemah"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 6,
+        "surface": "הָאָדָם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB; definite article + adam"
+      },
+      {
+        "position": 7,
+        "surface": "וַיִּישָׁן",
+        "phrase": "and he slept",
+        "literal": "and-he-slept",
+        "source": "KJV, ESV, NASB; wayyiqtol form of ישן (yashen)"
+      },
+      {
+        "position": 8,
+        "surface": "וַיִּקַּח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB; wayyiqtol form of לקח (laqach)"
+      },
+      {
+        "position": 9,
+        "surface": "אַחַת",
+        "phrase": "one",
+        "literal": "one-feminine",
+        "source": "KJV, ESV, NASB; feminine numeral"
+      },
+      {
+        "position": 10,
+        "surface": "מִצַּלְעֹתָיו",
+        "phrase": "from his sides",
+        "literal": "from-his-sides",
+        "source": "KJV, ESV, NASB; Hebrew tsela (side/rib) occurs 35 times in OT, translated elsewhere as 'side' not 'rib'"
+      },
+      {
+        "position": 11,
+        "surface": "וַיִּסְגֹּר",
+        "phrase": "and he closed",
+        "literal": "and-he-closed",
+        "source": "KJV, ESV, NASB; wayyiqtol form of סגר (sagar)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּשָׂר",
+        "phrase": "flesh",
+        "literal": "flesh",
+        "source": "KJV, ESV, NASB; basar"
+      },
+      {
+        "position": 13,
+        "surface": "תַּחְתֶּנָּה",
+        "phrase": "in its place",
+        "literal": "under-it",
+        "source": "KJV, ESV, NASB; preposition tachat + feminine pronoun"
+      }
+    ]
+  }
+]

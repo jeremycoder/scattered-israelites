@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְכֹל",
+        "phrase": "and every",
+        "literal": "and-all",
+        "source": "Conjunction + noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שִׂיחַ",
+        "phrase": "shrub",
+        "literal": "shrub",
+        "source": "Masculine singular noun; KJV 'shrub', ESV 'shrub', NASB 'shrub'"
+      },
+      {
+        "position": 3,
+        "surface": "הַשָּׂדֶה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "Definite article + masculine singular noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "טֶרֶם",
+        "phrase": "not yet",
+        "literal": "before-not-yet",
+        "source": "Temporal particle negating future action; KJV 'was yet', ESV 'had yet', NASB 'had yet'"
+      },
+      {
+        "position": 5,
+        "surface": "יִֽהְיֶה",
+        "phrase": "was",
+        "literal": "he-will-be",
+        "source": "Qal imperfect 3ms of היה; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בָאָרֶץ",
+        "phrase": "in the earth",
+        "literal": "in-the-earth",
+        "source": "Preposition + definite article + feminine singular noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְכָל",
+        "phrase": "and every",
+        "literal": "and-all",
+        "source": "Conjunction + noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֵשֶׂב",
+        "phrase": "plant",
+        "literal": "herb-plant",
+        "source": "Masculine singular noun; KJV 'herb', ESV 'plant', NASB 'plant'"
+      },
+      {
+        "position": 9,
+        "surface": "הַשָּׂדֶה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "Definite article + masculine singular noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "טֶרֶם",
+        "phrase": "not yet",
+        "literal": "before-not-yet",
+        "source": "Temporal particle negating future action; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יִצְמָח",
+        "phrase": "sprouted",
+        "literal": "he-will-sprout",
+        "source": "Qal imperfect 3ms of צמח; KJV 'sprung up', ESV 'sprouted', NASB 'sprouted'"
+      },
+      {
+        "position": 12,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "Causal conjunction; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "הִמְטִיר",
+        "phrase": "caused to rain",
+        "literal": "he-caused-to-rain",
+        "source": "Hifil perfect 3ms of מטר; KJV 'caused it to rain', ESV 'sent rain', NASB 'sent rain'"
+      },
+      {
+        "position": 15,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "Divine name; KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Masculine plural noun (honorific); KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon-over",
+        "source": "Preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "Definite article + feminine singular noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "וְאָדָם",
+        "phrase": "and man",
+        "literal": "and-man",
+        "source": "Conjunction + masculine singular noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "אַיִן",
+        "phrase": "there was none",
+        "literal": "there-is-not",
+        "source": "Particle of non-existence; KJV 'was not', ESV 'was not', NASB 'was not'"
+      },
+      {
+        "position": 21,
+        "surface": "לַעֲבֹד",
+        "phrase": "to work",
+        "literal": "to-work",
+        "source": "Preposition + Qal infinitive construct of עבד; KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 23,
+        "surface": "הָאֲדָמָה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "Definite article + feminine singular noun; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

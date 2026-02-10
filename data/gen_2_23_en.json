@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 2,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "VAV consecutive + Qal imperfect of אמר (amar); KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אָדָם",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "Definite article + noun; KJV 'Adam', ESV 'the man', NASB 'the man'"
+      },
+      {
+        "position": 3,
+        "surface": "זֹ֣את",
+        "phrase": "this one",
+        "literal": "this-feminine",
+        "source": "Feminine demonstrative pronoun; KJV 'This is now', ESV 'This at last', NET 'This one at last'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פַּ֗עַם",
+        "phrase": "at last",
+        "literal": "the-time",
+        "source": "Definite article + noun; happaʿam means 'this time, now, finally, at last' (NET note); conveys the man's futility in finding a suitable companion"
+      },
+      {
+        "position": 5,
+        "surface": "עֶ֚צֶם",
+        "phrase": "bone",
+        "literal": "bone",
+        "source": "Noun; KJV, ESV, NASB all render as 'bone'"
+      },
+      {
+        "position": 6,
+        "surface": "מֵֽ/עֲצָמַ֔/י",
+        "phrase": "from my bones",
+        "literal": "from-bones-my",
+        "source": "Preposition מן + noun construct + possessive suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בָשָׂ֖ר",
+        "phrase": "and flesh",
+        "literal": "and-flesh",
+        "source": "VAV conjunction + noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/בְּשָׂרִ֑/י",
+        "phrase": "from my flesh",
+        "literal": "from-flesh-my",
+        "source": "Preposition מן + noun + possessive suffix; KJV, ESV, NASB; noon assimilated into bet"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/זֹאת",
+        "phrase": "this one",
+        "literal": "to-this",
+        "source": "Preposition ל + feminine demonstrative; marks the subject being named"
+      },
+      {
+        "position": 10,
+        "surface": "יִקָּרֵ֣א",
+        "phrase": "shall be called",
+        "literal": "he.shall-be-called",
+        "source": "Niphal imperfect of קרא (qaraʾ); third masculine singular form (grammatically anomalous for feminine referent); KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אִשָּׁ֔ה",
+        "phrase": "woman",
+        "literal": "woman",
+        "source": "Feminine noun; ʾishah; wordplay with ʾish (man) though not etymologically related; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "כִּ֥י",
+        "phrase": "because",
+        "literal": "because",
+        "source": "Causal conjunction; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מֵ/אִ֖ישׁ",
+        "phrase": "from man",
+        "literal": "from-man",
+        "source": "Preposition מן + noun; ʾish; KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לֻֽקֳחָה",
+        "phrase": "she was taken",
+        "literal": "she.was-taken",
+        "source": "Qal passive (or Niphal) perfect of לקח (laqach); feminine form; KJV 'was taken', ESV 'was taken', NASB 'was taken'"
+      },
+      {
+        "position": 15,
+        "surface": "זֹּֽאת",
+        "phrase": "this one",
+        "literal": "this-feminine",
+        "source": "Feminine demonstrative pronoun; emphatic repetition; KJV, ESV, NASB"
+      }
+    ]
+  }
+]
