@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּרְא֥וּ",
+        "phrase": "they saw",
+        "literal": "and-they_saw",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/רָחֹ֑ק",
+        "phrase": "from a distance",
+        "literal": "from-far",
+        "source": "KJV ('afar off'), ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְ/טֶ֨רֶם֙",
+        "phrase": "and before",
+        "literal": "and-in-before",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "יִקְרַ֣ב",
+        "phrase": "he came near",
+        "literal": "he_approaches",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲלֵי/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּֽתְנַכְּל֥וּ",
+        "phrase": "they plotted",
+        "literal": "and-they_conspired",
+        "source": "KJV ('conspired'), NASB ('plotted'), NET; cf. lexicon 'nakal' (to deal subtly)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "against him",
+        "literal": "[direct object marker]-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/הֲמִיתֽ/וֹ",
+        "phrase": "to put him to death",
+        "literal": "to-kill-him",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "For",
+        "literal": "that-because",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 2,
+        "surface": "הָיָ֧ה",
+        "phrase": "had been",
+        "literal": "was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "רְכוּשָׁ֛/ם",
+        "phrase": "their possessions",
+        "literal": "possessions-their",
+        "source": "KJV (substance), ESV (possessions), NASB (possessions)"
+      },
+      {
+        "position": 4,
+        "surface": "רָ֖ב",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/שֶּׁ֣בֶת",
+        "phrase": "for dwelling",
+        "literal": "from-dwelling",
+        "source": "KJV (to dwell), ESV (to live), NASB (to live)"
+      },
+      {
+        "position": 6,
+        "surface": "יַחְדָּ֑ו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֨א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB (conjunction + negation)"
+      },
+      {
+        "position": 8,
+        "surface": "יָֽכְלָ֜ה",
+        "phrase": "could",
+        "literal": "was-able",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֤רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מְגֽוּרֵי/הֶם֙",
+        "phrase": "of their sojournings",
+        "literal": "sojournings-their",
+        "source": "KJV (where they sojourned), ESV (where they sojourned), NASB (where they resided)"
+      },
+      {
+        "position": 11,
+        "surface": "לָ/שֵׂ֣את",
+        "phrase": "to bear",
+        "literal": "to-bear",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֹתָ֔/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "KJV, ESV, NASB (object marker + pronoun)"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/פְּנֵ֖י",
+        "phrase": "because of",
+        "literal": "from-face",
+        "source": "KJV, ESV, NASB (idiomatic 'on account of')"
+      },
+      {
+        "position": 14,
+        "surface": "מִקְנֵי/הֶֽם",
+        "phrase": "their livestock",
+        "literal": "livestock-their",
+        "source": "KJV (cattle), ESV (livestock), NASB (livestock)"
+      }
+    ]
+  }
+]

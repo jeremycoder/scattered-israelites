@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֞י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/צֵ֤את",
+        "phrase": "as ... was departing",
+        "literal": "in-going_out",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "נַפְשָׁ/הּ֙",
+        "phrase": "her soul",
+        "literal": "soul-her",
+        "source": "ESV, KJV, NASB (nephesh = soul/life)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "that/because",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ֔תָה",
+        "phrase": "she died",
+        "literal": "she_died",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּקְרָ֥א",
+        "phrase": "she called",
+        "literal": "and-she_called",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "אוֹנִ֑י",
+        "phrase": "of my sorrow",
+        "literal": "my_sorrow",
+        "source": "KJV (Ben-oni), ESV, CJB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אָבִ֖י/וֹ",
+        "phrase": "but his father",
+        "literal": "and-father-his",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 11,
+        "surface": "קָֽרָא",
+        "phrase": "called",
+        "literal": "called",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "ל֥/וֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "בִנְיָמִֽין",
+        "phrase": "Benjamin",
+        "literal": "son-of_right_hand",
+        "source": "ESV, NASB, KJV (Ben-jamin)"
+      }
+    ]
+  }
+]

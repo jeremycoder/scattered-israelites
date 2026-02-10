@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And Judah said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוּדָ֖ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (directional preposition)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָ֑י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "מַה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "KJV, ESV, NASB (interrogative pronoun)"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּ֗צַע",
+        "phrase": "profit",
+        "literal": "profit",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֤י",
+        "phrase": "is it if",
+        "literal": "that-if",
+        "source": "KJV, ESV, NASB (introduces conditional clause)"
+      },
+      {
+        "position": 8,
+        "surface": "נַהֲרֹג֙",
+        "phrase": "we kill",
+        "literal": "we-kill",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "ESV, NASB (accusative marker, unrendered)"
+      },
+      {
+        "position": 10,
+        "surface": "אָחִ֔י/נוּ",
+        "phrase": "our brother",
+        "literal": "brother-our",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/כִסִּ֖ינוּ",
+        "phrase": "and cover up",
+        "literal": "and-cover-we",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "ESV, NASB (accusative marker, unrendered)"
+      },
+      {
+        "position": 13,
+        "surface": "דָּמֽ/וֹ",
+        "phrase": "his blood",
+        "literal": "blood-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

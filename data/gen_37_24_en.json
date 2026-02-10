@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֨קָּחֻ֔/הוּ",
+        "phrase": "and they took him",
+        "literal": "and-they-took-him",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יַּשְׁלִ֥כוּ",
+        "phrase": "and threw",
+        "literal": "and-they-threw",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "standard accusative marker (KJV, NASB, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בֹּ֑רָ/ה",
+        "phrase": "into the pit",
+        "literal": "the-pit-into",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/בּ֣וֹר",
+        "phrase": "and the pit",
+        "literal": "and-the-pit",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "רֵ֔ק",
+        "phrase": "was empty",
+        "literal": "empty",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֥ין",
+        "phrase": "there was no",
+        "literal": "there is not",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "בּ֖/וֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "מָֽיִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "KJV, NASB, ESV"
+      }
+    ]
+  }
+]

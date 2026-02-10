@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּית֔/וֹ",
+        "phrase": "his household",
+        "literal": "house-his",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶ֖ל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "conjunction + directional particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "relative pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עִמּ֑/וֹ",
+        "phrase": "were with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "הָסִ֜רוּ",
+        "phrase": "remove",
+        "literal": "remove!",
+        "source": "KJV ('put away'), ESV ('put away'), NASB ('put away'), Chabad ('remove')"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(accusative)",
+        "source": "object marker; not translated"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "gods",
+        "literal": "gods",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/נֵּכָר֙",
+        "phrase": "of the foreigners",
+        "literal": "the-foreign",
+        "source": "KJV ('strange'), ESV ('foreign'), NASB ('foreign'), Chabad ('foreign nations')"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/תֹכְ/כֶ֔ם",
+        "phrase": "are among you",
+        "literal": "in-midst-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/הִֽטַּהֲר֔וּ",
+        "phrase": "and purify yourselves",
+        "literal": "and-purify!",
+        "source": "KJV ('be clean'), ESV ('purify'), NASB ('purify'), Chabad ('purify')"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/הַחֲלִ֖יפוּ",
+        "phrase": "and change",
+        "literal": "and-change!",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 17,
+        "surface": "שִׂמְלֹתֵי/כֶֽם",
+        "phrase": "your clothes",
+        "literal": "garments-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

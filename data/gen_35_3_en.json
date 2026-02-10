@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָק֥וּמָה",
+        "phrase": "let us arise",
+        "literal": "and-let_us_arise",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/נַעֲלֶ֖ה",
+        "phrase": "and go up",
+        "literal": "and-let_us_go_up",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּֽית",
+        "phrase": "to Bethel",
+        "literal": "house",
+        "source": "KJV, ESV, NASB (Beth-el = house of God)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֑ל",
+        "phrase": "to Bethel",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (Beyth-'El)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶֽעֱשֶׂה",
+        "phrase": "I will make",
+        "literal": "and-I_will_make",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שָּׁ֣ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מִזְבֵּ֗חַ",
+        "phrase": "an altar",
+        "literal": "altar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/אֵ֞ל",
+        "phrase": "to God",
+        "literal": "to-God",
+        "source": "KJV, ESV, NASB ('el = God)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֹנֶ֤ה",
+        "phrase": "who answered",
+        "literal": "the-one_who_answers",
+        "source": "KJV, ESV, NASB, NET ('anah = answer)"
+      },
+      {
+        "position": 10,
+        "surface": "אֹתִ/י֙",
+        "phrase": "me",
+        "literal": "me",
+        "source": "direct object marker + 1cs pronoun; KJV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/י֣וֹם",
+        "phrase": "in the day",
+        "literal": "in-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "צָֽרָתִ֔/י",
+        "phrase": "of my distress",
+        "literal": "distress-my",
+        "source": "KJV, ESV, NASB, NET (tsarah = distress)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "and has been",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "עִמָּדִ֔/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "בַּ/דֶּ֖רֶךְ",
+        "phrase": "in the way",
+        "literal": "in-the-way",
+        "source": "KJV, ESV, NASB (derek = way)"
+      },
+      {
+        "position": 16,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun; KJV, ESV"
+      },
+      {
+        "position": 17,
+        "surface": "הָלָֽכְתִּי",
+        "phrase": "I have gone",
+        "literal": "I_have_walked",
+        "source": "KJV, ESV, NASB (halak = walk/go)"
+      }
+    ]
+  }
+]

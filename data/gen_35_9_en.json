@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּרָ֨ע",
+        "phrase": "and appeared",
+        "literal": "and-he_appeared",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "ע֔וֹד",
+        "phrase": "again",
+        "literal": "again",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/בֹא֖/וֹ",
+        "phrase": "when he came",
+        "literal": "in-coming-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/פַּדַּ֣ן",
+        "phrase": "from Paddan",
+        "literal": "from-Paddan",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲרָ֑ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יְבָ֖רֶךְ",
+        "phrase": "and blessed",
+        "literal": "and-blessed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

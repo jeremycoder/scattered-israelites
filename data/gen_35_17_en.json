@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "And it came to pass",
+        "literal": "and-become",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בְ/הַקְשֹׁתָ֖/הּ",
+        "phrase": "when her labor was at its hardest",
+        "literal": "in-hardening-her",
+        "source": "ESV, NASB; qashah=be hard/difficult"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/לִדְתָּ֑/הּ",
+        "phrase": "in giving birth to her",
+        "literal": "in-birth-her",
+        "source": "ESV, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תֹּ֨אמֶר",
+        "phrase": "said",
+        "literal": "and-she_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֤/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "standard in all translations"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מְיַלֶּ֨דֶת֙",
+        "phrase": "the midwife",
+        "literal": "the-midwife",
+        "source": "ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "prohibitive particle; ESV, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "תִּ֣ירְאִ֔י",
+        "phrase": "fear",
+        "literal": "you_fear",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal particle; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "emphatic particle; ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "זֶ֥ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "ESV, Mechon-Mamre"
+      },
+      {
+        "position": 12,
+        "surface": "לָ֖/ךְ",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "standard preposition; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "בֵּֽן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

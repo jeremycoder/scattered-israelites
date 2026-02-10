@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֖לֶּה",
+        "phrase": "And these are",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB (standard rendering of introductory formula)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "דִישָׁ֑ן",
+        "phrase": "Dishon",
+        "literal": "Dishon",
+        "source": "KJV (Dishan), ESV, NASB (Dishon); proper name, Horite clan leader [1]"
+      },
+      {
+        "position": 4,
+        "surface": "חֶמְדָּ֥ן",
+        "phrase": "Hemdan",
+        "literal": "Hemdan",
+        "source": "KJV, ESV, NASB (Hemdan); Hamran in 1 Chr 1:41 [1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶשְׁבָּ֖ן",
+        "phrase": "and Eshban",
+        "literal": "and-Eshban",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יִתְרָ֥ן",
+        "phrase": "and Ithran",
+        "literal": "and-Ithran",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/כְרָֽן",
+        "phrase": "and Cheran",
+        "literal": "and-Cheran",
+        "source": "KJV, ESV, NASB [1]"
+      }
+    ]
+  }
+]

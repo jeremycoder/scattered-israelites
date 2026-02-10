@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּמְצָאֵ֣/הוּ",
+        "phrase": "and found him",
+        "literal": "and-found-him",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֔ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, Chabad; particle of attention"
+      },
+      {
+        "position": 4,
+        "surface": "תֹעֶ֖ה",
+        "phrase": "he was wandering",
+        "literal": "wandering",
+        "source": "KJV (wandering), ESV/NASB (wandering)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/שָּׂדֶ֑ה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּשְׁאָלֵ֧/הוּ",
+        "phrase": "and asked him",
+        "literal": "and-asked-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אִ֛ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹ֖ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, Mechon-Mamre; quotative particle"
+      },
+      {
+        "position": 9,
+        "surface": "מַה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "תְּבַקֵּֽשׁ",
+        "phrase": "are you seeking",
+        "literal": "you-seek",
+        "source": "KJV (seekest thou), NASB (looking for), ESV (seeking)"
+      }
+    ]
+  }
+]

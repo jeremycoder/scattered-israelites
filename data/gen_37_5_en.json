@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּחֲלֹ֤ם",
+        "phrase": "and he dreamed",
+        "literal": "and-he_dreamed",
+        "source": "KJV, NET, Mechon-Mamre, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name (KJV, NET, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "חֲל֔וֹם",
+        "phrase": "a dream",
+        "literal": "dream",
+        "source": "KJV, NET, Mechon-Mamre, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּגֵּ֖ד",
+        "phrase": "and he told",
+        "literal": "and-he_told",
+        "source": "KJV, NET, Mechon-Mamre, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/אֶחָ֑י/ו",
+        "phrase": "to his brothers",
+        "literal": "to-brothers-his",
+        "source": "KJV, NET, Mechon-Mamre, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יּוֹסִ֥פוּ",
+        "phrase": "they added",
+        "literal": "and-they_added",
+        "source": "NET (hendiadys 'added to hate'), KJV 'hated...yet the more'"
+      },
+      {
+        "position": 7,
+        "surface": "ע֖וֹד",
+        "phrase": "even more",
+        "literal": "still_yet",
+        "source": "KJV, NET, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "שְׂנֹ֥א",
+        "phrase": "to hate",
+        "literal": "to_hate",
+        "source": "KJV, NET, Mechon-Mamre, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "obj-him",
+        "source": "direct object marker + 3ms suffix (KJV, NET, ESV)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה֙",
+        "phrase": "Now these [are]",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB (waw-consecutive + demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מְּלָכִ֔ים",
+        "phrase": "the kings",
+        "literal": "the-kings",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "who-rel",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 4,
+        "surface": "מָלְכ֖וּ",
+        "phrase": "reigned",
+        "literal": "they-reigned",
+        "source": "KJV, ESV, NASB (3mp qal perfect of malak)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֱד֑וֹם",
+        "phrase": "of Edom",
+        "literal": "Edom",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "before",
+        "source": "KJV, ESV, NASB (preposition 'before')"
+      },
+      {
+        "position": 8,
+        "surface": "מְלָךְ",
+        "phrase": "there reigned a king",
+        "literal": "reign-inf-king",
+        "source": "ESV, NASB (infinitive construct + noun; lit. 'a king reigning')"
+      },
+      {
+        "position": 9,
+        "surface": "מֶ֖לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/בְנֵ֥י",
+        "phrase": "over the sons of",
+        "literal": "to-sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

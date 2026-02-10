@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "in-sons",
+        "source": "KJV, ESV, NASB (construct form of 'sons')"
+      },
+      {
+        "position": 2,
+        "surface": "לֵאָ֔ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּכ֥וֹר",
+        "phrase": "firstborn",
+        "literal": "firstborn",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob's",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "רְאוּבֵ֑ן",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁמְעוֹן֙",
+        "phrase": "and Simeon",
+        "literal": "and-Simeon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֵוִ֣י",
+        "phrase": "and Levi",
+        "literal": "and-Levi",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וִֽ/יהוּדָ֔ה",
+        "phrase": "and Judah",
+        "literal": "and-Judah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/יִשָּׂשכָ֖ר",
+        "phrase": "and Issachar",
+        "literal": "and-Issachar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/זְבוּלֻֽן",
+        "phrase": "and Zebulun",
+        "literal": "and-Zebulun",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

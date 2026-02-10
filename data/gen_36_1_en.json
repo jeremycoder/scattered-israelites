@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛לֶּה",
+        "phrase": "Now these are",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "תֹּלְד֥וֹת",
+        "phrase": "the generations of",
+        "literal": "generations-of",
+        "source": "KJV (generations), ESV (generations), NASB (records of the generations), Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB, all translations"
+      },
+      {
+        "position": 4,
+        "surface": "ה֥וּא",
+        "phrase": "that is",
+        "literal": "he",
+        "source": "ESV (that is), NASB (that is), KJV (who)"
+      },
+      {
+        "position": 5,
+        "surface": "אֱדֽוֹם",
+        "phrase": "Edom",
+        "literal": "Edom",
+        "source": "KJV, ESV, NASB, all translations"
+      }
+    ]
+  }
+]

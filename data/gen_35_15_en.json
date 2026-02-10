@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֨א",
+        "phrase": "and called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֜ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "grammatical marker (untranslated in English)"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֣ם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מָּק֗וֹם",
+        "phrase": "of the place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "where",
+        "literal": "which/where",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "דִּבֶּ֨ר",
+        "phrase": "he had spoken",
+        "literal": "he_spoke",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "אִתּ֥/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁ֛ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "בֵּֽית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, NASB, NIV (Bethel)"
+      },
+      {
+        "position": 12,
+        "surface": "אֵֽל",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, NASB, NIV (Bethel)"
+      }
+    ]
+  }
+]

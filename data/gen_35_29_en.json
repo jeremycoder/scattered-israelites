@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְוַ֨ע",
+        "phrase": "breathed his last",
+        "literal": "and-gasp",
+        "source": "KJV (gave up the ghost), ESV, NASB, YLT"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָ֤ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "All translations (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּ֨מָת֙",
+        "phrase": "and died",
+        "literal": "and-die",
+        "source": "KJV, ESV, NASB, all translations"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּאָ֣סֶף",
+        "phrase": "and was gathered",
+        "literal": "and-be.gathered",
+        "source": "KJV, ESV, NASB, YLT"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition (KJV unto, ESV to)"
+      },
+      {
+        "position": 6,
+        "surface": "עַמָּ֔י/ו",
+        "phrase": "his people",
+        "literal": "peoples-his",
+        "source": "KJV, ESV, NASB (his people)"
+      },
+      {
+        "position": 7,
+        "surface": "זָקֵ֖ן",
+        "phrase": "old",
+        "literal": "old",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/שְׂבַ֣ע",
+        "phrase": "and full",
+        "literal": "and-sated",
+        "source": "KJV (full), ESV (full), NASB (satisfied)"
+      },
+      {
+        "position": 9,
+        "surface": "יָמִ֑ים",
+        "phrase": "of days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB (of days)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּקְבְּר֣וּ",
+        "phrase": "buried",
+        "literal": "and-buried",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "him",
+        "literal": "obj.marker-him",
+        "source": "Object marker + pronoun (all translations)"
+      },
+      {
+        "position": 12,
+        "surface": "עֵשָׂ֥ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "All translations (proper name)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/יַעֲקֹ֖ב",
+        "phrase": "and Jacob",
+        "literal": "and-Jacob",
+        "source": "All translations (proper name)"
+      },
+      {
+        "position": 14,
+        "surface": "בָּנָֽי/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

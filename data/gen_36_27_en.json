@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֖לֶּה",
+        "phrase": "These",
+        "literal": "these-FEM.PL",
+        "source": "KJV, ESV, NASB, NIV; demonstrative pronoun"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵי",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NIV; construct form of בֵּן (ben)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֑צֶר",
+        "phrase": "Ezer",
+        "literal": "Ezer-PROPER.NOUN",
+        "source": "KJV, ESV, NASB, NIV; proper noun meaning 'treasure' (Strong's 687)"
+      },
+      {
+        "position": 4,
+        "surface": "בִּלְהָ֥ן",
+        "phrase": "Bilhan",
+        "literal": "Bilhan-PROPER.NOUN",
+        "source": "KJV, ESV, NASB, NIV; proper noun meaning 'modest' or 'tender' (Strong's 1092)"
+      },
+      {
+        "position": 5,
+        "surface": "וְזַעֲוָ֖ן",
+        "phrase": "and Zaavan",
+        "literal": "and-Zaavan-PROPER.NOUN",
+        "source": "KJV, ESV, NASB, NIV; conjunction וְ (we-) + proper noun meaning 'disturbed' (Strong's 2190)"
+      },
+      {
+        "position": 6,
+        "surface": "וַעֲקָֽן",
+        "phrase": "and Akan",
+        "literal": "and-Akan-PROPER.NOUN",
+        "source": "KJV, ESV, NASB, NIV; conjunction וְ (we-) + proper noun meaning 'twisting' or 'winding' (Strong's 6130); also spelled Jakan in 1 Chronicles 1:42"
+      }
+    ]
+  }
+]

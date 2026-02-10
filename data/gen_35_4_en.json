@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתְּנ֣וּ",
+        "phrase": "they gave",
+        "literal": "and-they_gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "יַעֲקֹ֗ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֣ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "accusative marker (ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "gods",
+        "literal": "gods",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/נֵּכָר֙",
+        "phrase": "foreign",
+        "literal": "the-foreign",
+        "source": "KJV (strange), ESV (foreign), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that were",
+        "literal": "which",
+        "source": "relative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/יָדָ֔/ם",
+        "phrase": "in their possession",
+        "literal": "in-hand-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct object marker]",
+        "source": "conjunction + accusative (ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/נְּזָמִ֖ים",
+        "phrase": "rings",
+        "literal": "the-rings",
+        "source": "KJV (earrings), ESV (rings), NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that were",
+        "literal": "which",
+        "source": "relative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/אָזְנֵי/הֶ֑ם",
+        "phrase": "in their ears",
+        "literal": "in-ears-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יִּטְמֹ֤ן",
+        "phrase": "buried",
+        "literal": "and-he_buried",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתָ/ם֙",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "accusative + pronoun (ESV)"
+      },
+      {
+        "position": 16,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 17,
+        "surface": "תַּ֥חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "הָ/אֵלָ֖ה",
+        "phrase": "the oak",
+        "literal": "the-oak/terebinth",
+        "source": "KJV (oak), ESV (oak), NASB (terebinth)"
+      },
+      {
+        "position": 19,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that was",
+        "literal": "which",
+        "source": "relative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 20,
+        "surface": "עִם",
+        "phrase": "near",
+        "literal": "with",
+        "source": "KJV (by), ESV (near)"
+      },
+      {
+        "position": 21,
+        "surface": "שְׁכֶֽם",
+        "phrase": "Shechem",
+        "literal": "Shechem",
+        "source": "proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

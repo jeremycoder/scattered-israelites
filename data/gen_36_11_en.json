@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֖וּ",
+        "phrase": "And the sons",
+        "literal": "and-become-3mp",
+        "source": "KJV, ESV, NIV, NASB (wayhi = 'and it was/came to be')"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִיפָ֑ז",
+        "phrase": "Eliphaz",
+        "literal": "Eliphaz",
+        "source": "KJV, ESV, NIV, NASB (proper name: 'God of gold')"
+      },
+      {
+        "position": 4,
+        "surface": "תֵּימָ֣ן",
+        "phrase": "Teman",
+        "literal": "Teman",
+        "source": "KJV, ESV, NIV, NASB (proper name: 'south' or 'right hand')"
+      },
+      {
+        "position": 5,
+        "surface": "אוֹמָ֔ר",
+        "phrase": "Omar",
+        "literal": "Omar",
+        "source": "KJV, ESV, NIV, NASB (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "צְפ֥וֹ",
+        "phrase": "Zepho",
+        "literal": "Zepho",
+        "source": "KJV, ESV, NIV; note: 1 Chron 1:36 Zephi (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/גַעְתָּ֖ם",
+        "phrase": "and Gatam",
+        "literal": "and-Gatam",
+        "source": "KJV, ESV, NIV, NASB (proper name)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/קְנַֽז",
+        "phrase": "and Kenaz",
+        "literal": "and-Kenaz",
+        "source": "KJV, ESV, NIV, NASB (proper name)"
+      }
+    ]
+  }
+]

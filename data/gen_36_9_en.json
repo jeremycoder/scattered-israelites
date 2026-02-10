@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛לֶּה",
+        "phrase": "And these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB, Strong's H428[1]"
+      },
+      {
+        "position": 2,
+        "surface": "תֹּלְד֥וֹת",
+        "phrase": "are the generations",
+        "literal": "generations",
+        "source": "KJV, ESV, NASB, Strong's H8435[1]"
+      },
+      {
+        "position": 3,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "of Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB, N-proper-ms[1]"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִ֣י",
+        "phrase": "the father",
+        "literal": "father",
+        "source": "KJV, ESV, NASB, Strong's H1[1]"
+      },
+      {
+        "position": 5,
+        "surface": "אֱד֑וֹם",
+        "phrase": "of Edom",
+        "literal": "Edom",
+        "source": "KJV, ESV, NASB, Strong's H123[1]"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/הַ֖ר",
+        "phrase": "in the hill country",
+        "literal": "in-the-mountain",
+        "source": "ESV, NASB (mount Seir), Strong's H2022[1]"
+      },
+      {
+        "position": 7,
+        "surface": "שֵׂעִֽיר",
+        "phrase": "of Seir",
+        "literal": "Seir",
+        "source": "KJV, ESV, NASB, Strong's H8165[1]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֧לֶּה",
+        "phrase": "These are",
+        "literal": "these-PL",
+        "source": "KJV, ESV, NASB (demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB (construct form of 'ben', son)"
+      },
+      {
+        "position": 3,
+        "surface": "עֵשָׂ֛ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵ֥לֶּה",
+        "phrase": "and these are",
+        "literal": "and-these-PL",
+        "source": "KJV, ESV, NASB (waw + demonstrative pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "אַלּוּפֵי/הֶ֖ם",
+        "phrase": "their chiefs",
+        "literal": "chiefs-their",
+        "source": "KJV (dukes), ESV/NASB (chiefs); 'aluf' = chief, leader"
+      },
+      {
+        "position": 6,
+        "surface": "ה֥וּא",
+        "phrase": "who is",
+        "literal": "he",
+        "source": "KJV, ESV, NASB (emphatic pronoun, appositional)"
+      },
+      {
+        "position": 7,
+        "surface": "אֱדֽוֹם",
+        "phrase": "Edom",
+        "literal": "Edom",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]

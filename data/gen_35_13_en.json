@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּ֥עַל",
+        "phrase": "And went up",
+        "literal": "and-he-went-up",
+        "source": "Conjunction waw + Qal consecutive imperfect 3ms of עלה (alah); ESV, NET, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "מֵעָלָ֖יו",
+        "phrase": "from him",
+        "literal": "from-upon-him",
+        "source": "Preposition min + preposition al + 3ms suffix; ESV, NET, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֑ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Masculine plural noun (used as singular for deity); ESV, NET, NIV, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "בַּמָּק֖וֹם",
+        "phrase": "in the place",
+        "literal": "in-the-place",
+        "source": "Preposition bet + definite article + masculine singular noun maqom; ESV, NET, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "where",
+        "literal": "which/that",
+        "source": "Relative pronoun; ESV, NET, NIV, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "he talked",
+        "literal": "he-spoke",
+        "source": "Piel perfect 3ms of דבר (dabar); ESV, NET, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "אִתּֽוֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "Preposition et + 3ms suffix; ESV, NET, NIV, KJV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֥לֶּה",
+        "phrase": "These are",
+        "literal": "these-are",
+        "source": "KJV, ESV, NASB, NIV (demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵֽי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NIV (construct form of 'ben', son)"
+      },
+      {
+        "position": 3,
+        "surface": "דִישָׁ֖ן",
+        "phrase": "Dishan",
+        "literal": "Dishan",
+        "source": "KJV, ESV, NASB, NIV (proper name, Strong's 1789)"
+      },
+      {
+        "position": 4,
+        "surface": "ע֥וּץ",
+        "phrase": "Uz",
+        "literal": "Uz",
+        "source": "KJV, ESV, NASB, NIV (proper name, Strong's 5780)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲרָֽן",
+        "phrase": "and Aran",
+        "literal": "and-Aran",
+        "source": "KJV, ESV, NASB, NIV (waw-conjunctive + proper name, Strong's 765)"
+      }
+    ]
+  }
+]

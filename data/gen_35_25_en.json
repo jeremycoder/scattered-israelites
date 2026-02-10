@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֤י",
+        "phrase": "and the sons of",
+        "literal": "and-sons",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "בִלְהָה֙",
+        "phrase": "Bilhah",
+        "literal": "Bilhah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁפְחַ֣ת",
+        "phrase": "maidservant",
+        "literal": "maidservant",
+        "source": "KJV ('handmaid'), ESV, NASB ('maid')"
+      },
+      {
+        "position": 4,
+        "surface": "רָחֵ֔ל",
+        "phrase": "Rachel's",
+        "literal": "Rachel",
+        "source": "proper name; genitive; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "דָּ֖ן",
+        "phrase": "Dan",
+        "literal": "Dan",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נַפְתָּלִֽי",
+        "phrase": "and Naphtali",
+        "literal": "and-Naphtali",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

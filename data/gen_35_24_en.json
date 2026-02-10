@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "in-sons",
+        "source": "KJV, ESV, NASB: construct form of 'sons' with preposition 'in/of'"
+      },
+      {
+        "position": 2,
+        "surface": "רָחֵ֔ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB: proper name"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB: proper name"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בִנְיָמִֽן",
+        "phrase": "and Benjamin",
+        "literal": "and-Benjamin",
+        "source": "KJV, ESV, NASB: waw-consecutive + proper name"
+      }
+    ]
+  }
+]

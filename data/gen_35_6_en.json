@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיָּבֹא",
+        "phrase": "and came",
+        "literal": "and-he.came",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "לוּזָה",
+        "phrase": "to Luz",
+        "literal": "to-Luz",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 5,
+        "surface": "בְאֶרֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 6,
+        "surface": "כְּנַעַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "All translations"
+      },
+      {
+        "position": 7,
+        "surface": "הִוא",
+        "phrase": "that is",
+        "literal": "it",
+        "source": "KJV, NASB, NKJV, NET; appositive marker"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּית",
+        "phrase": "Bethel",
+        "literal": "house",
+        "source": "KJV, NASB, NKJV, NET; proper noun meaning 'house of God'"
+      },
+      {
+        "position": 9,
+        "surface": "אֵל",
+        "phrase": "(part of Bethel)",
+        "literal": "God",
+        "source": "KJV, NASB, NKJV, NET; component of proper noun"
+      },
+      {
+        "position": 10,
+        "surface": "הוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, NASB, NKJV, NET; independent pronoun"
+      },
+      {
+        "position": 11,
+        "surface": "וְכָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 12,
+        "surface": "הָעָם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "which",
+        "source": "KJV, NASB, NKJV, NET"
+      },
+      {
+        "position": 14,
+        "surface": "עִמּוֹ",
+        "phrase": "were with him",
+        "literal": "with-him",
+        "source": "KJV, NASB, NKJV, NET"
+      }
+    ]
+  }
+]

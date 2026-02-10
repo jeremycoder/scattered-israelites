@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְקַנְאוּ",
+        "phrase": "his brothers envied",
+        "literal": "and-they_were_envious",
+        "source": "KJV (envied), NASB (jealous), Chabad (envied)"
+      },
+      {
+        "position": 2,
+        "surface": "ב֖/וֹ",
+        "phrase": "him",
+        "literal": "in/on-him",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֑י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אָבִ֖י/ו",
+        "phrase": "but his father",
+        "literal": "and-father-his",
+        "source": "KJV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁמַ֥ר",
+        "phrase": "kept",
+        "literal": "kept/guarded",
+        "source": "KJV (observed), NASB (kept), Chabad (awaited)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew particle (accusative marker); not translated"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/דָּבָֽר",
+        "phrase": "the matter",
+        "literal": "the-word/matter",
+        "source": "KJV (saying), NASB (saying), Chabad (matter)"
+      }
+    ]
+  }
+]

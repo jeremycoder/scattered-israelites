@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּ֖מָת",
+        "phrase": "and she died",
+        "literal": "and-died.3fs",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "רָחֵ֑ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תִּקָּבֵר֙",
+        "phrase": "and she was buried",
+        "literal": "and-was.buried.3fs",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/דֶ֣רֶךְ",
+        "phrase": "on the way to",
+        "literal": "in-way",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶפְרָ֔תָה",
+        "phrase": "Ephrath",
+        "literal": "Ephrath",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הִ֖וא",
+        "phrase": "which is",
+        "literal": "she/it.is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֥ית",
+        "phrase": "Beth",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לָֽחֶם",
+        "phrase": "lehem",
+        "literal": "bread",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

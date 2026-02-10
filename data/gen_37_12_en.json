@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּלְכ֖וּ",
+        "phrase": "his brothers went",
+        "literal": "and-they_went",
+        "source": "ESV, NET, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "אֶחָ֑י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "ESV, NET, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/רְע֛וֹת",
+        "phrase": "to pasture",
+        "literal": "to-pasture",
+        "source": "ESV, NET, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "אֶׄתׄ",
+        "phrase": "[object marker]",
+        "literal": "[direct_object_marker]",
+        "source": "standard Hebrew grammar (accusative marker); ESV, NET, NASB, KJV (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "צֹ֥אן",
+        "phrase": "flock",
+        "literal": "flock",
+        "source": "ESV, NET, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבִי/הֶ֖ם",
+        "phrase": "their father’s",
+        "literal": "father-their",
+        "source": "ESV, NET, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/שְׁכֶֽם",
+        "phrase": "in Shechem",
+        "literal": "in-Shechem",
+        "source": "ESV, NET, NASB, KJV"
+      }
+    ]
+  }
+]

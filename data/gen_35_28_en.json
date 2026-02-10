@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּֽהְי֖וּ",
+        "phrase": "And were",
+        "literal": "and-they.were",
+        "source": "Conjunction waw + Qal imperfect 3mp of היה (hayah); KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "יְמֵ֣י",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "Construct plural of יום (yom); KJV, NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "מְאַ֥ת",
+        "phrase": "one hundred",
+        "literal": "hundred",
+        "source": "Feminine construct of מאה (meah); KJV, NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "Feminine singular of שנה (shanah); KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "וּשְׁמֹנִ֥ים",
+        "phrase": "and eighty",
+        "literal": "and-eighty",
+        "source": "Conjunction waw + שמונים (shemonîm); KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָֽה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "Feminine singular of שנה (shanah); KJV, NASB, ESV"
+      }
+    ]
+  }
+]

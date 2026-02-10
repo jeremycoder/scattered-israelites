@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, NET; vav-consecutive with qal imperfect of אמר"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵיהֶם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, NET; preposition אל with 3mp suffix"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁמְעוּ",
+        "phrase": "Hear",
+        "literal": "hear-2mp",
+        "source": "KJV, ESV, NASB, NET; qal imperative masculine plural of שמע"
+      },
+      {
+        "position": 4,
+        "surface": "נָא",
+        "phrase": "I pray you / please",
+        "literal": "please",
+        "source": "KJV, ESV, NASB, NET; particle of entreaty/politeness"
+      },
+      {
+        "position": 5,
+        "surface": "הַחֲלוֹם",
+        "phrase": "this dream",
+        "literal": "the-dream",
+        "source": "KJV, ESV, NASB, NET; definite article with noun חלום"
+      },
+      {
+        "position": 6,
+        "surface": "הַזֶּה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB, NET; definite article with demonstrative pronoun זה"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB, NET; relative pronoun"
+      },
+      {
+        "position": 8,
+        "surface": "חָלָמְתִּי",
+        "phrase": "I have dreamed",
+        "literal": "dream-1s",
+        "source": "KJV, ESV, NASB, NET; qal perfect 1cs of חלם"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 35,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסַּ֖ע",
+        "phrase": "journeyed",
+        "literal": "and-he_journeyed",
+        "source": "KJV, ESV, NASB, LSB"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֵּ֣ט",
+        "phrase": "pitched",
+        "literal": "and-he_stretched_out",
+        "source": "KJV (spread), ESV/NASB (pitched)"
+      },
+      {
+        "position": 4,
+        "surface": "אָֽהֳלֹ֔/ה",
+        "phrase": "his tent",
+        "literal": "tent-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/הָ֖לְאָה",
+        "phrase": "beyond",
+        "literal": "from-beyond",
+        "source": "KJV, ESV, NASB (beyond)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מִגְדַּל",
+        "phrase": "to the tower",
+        "literal": "to-tower",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עֵֽדֶר",
+        "phrase": "of Eder",
+        "literal": "flock",
+        "source": "KJV (Edar), ESV/NASB (Eder); 'tower of the flock'"
+      }
+    ]
+  }
+]

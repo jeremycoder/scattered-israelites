@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֵּשֶׁב",
+        "phrase": "and he dwelt",
+        "literal": "and-he.dwelt",
+        "source": "KJV, ESV, NASB; vav-consecutive with qal imperfect of yashav"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun; all major translations"
+      },
+      {
+        "position": 3,
+        "surface": "בְּאֶרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the.land",
+        "source": "KJV, ESV, NASB; preposition bet with construct noun eretz"
+      },
+      {
+        "position": 4,
+        "surface": "מְגוּרֵי",
+        "phrase": "of the sojournings",
+        "literal": "of.sojournings",
+        "source": "KJV, ESV, NASB; construct plural of megur (sojourning, dwelling)"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִיו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB; construct noun avi with possessive suffix"
+      },
+      {
+        "position": 6,
+        "surface": "בְּאֶרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the.land",
+        "source": "KJV, ESV, NASB; preposition bet with construct noun eretz (repeated)"
+      },
+      {
+        "position": 7,
+        "surface": "כְּנָעַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "Proper noun; all major translations"
+      }
+    ]
+  }
+]

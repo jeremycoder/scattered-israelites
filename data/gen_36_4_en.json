@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֧לֶד",
+        "phrase": "and bore",
+        "literal": "and-she_bore",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "עָדָ֛ה",
+        "phrase": "Adah",
+        "literal": "Adah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/עֵשָׂ֖ו",
+        "phrase": "to Esau",
+        "literal": "to-Esau",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; KJV (implied), ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלִיפָ֑ז",
+        "phrase": "Eliphaz",
+        "literal": "Eliphaz",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בָ֣שְׂמַ֔ת",
+        "phrase": "and Basemath",
+        "literal": "and-Basemath",
+        "source": "KJV (Bashemath), ESV (Basemath), NASB (Basemath)"
+      },
+      {
+        "position": 7,
+        "surface": "יָלְדָ֖ה",
+        "phrase": "bore",
+        "literal": "she_bore",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; KJV (implied), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "רְעוּאֵֽל",
+        "phrase": "Reuel",
+        "literal": "Reuel",
+        "source": "proper name; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

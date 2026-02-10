@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "All translations; proper noun (Jacob's alternate name)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, JPS; preposition of direction"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "All translations; proper noun"
+      },
+      {
+        "position": 5,
+        "surface": "הֲלוֹא",
+        "phrase": "Are not",
+        "literal": "interrogative-not",
+        "source": "KJV, ESV, NASB, JPS; rhetorical question particle + negative"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֶיךָ",
+        "phrase": "your brothers",
+        "literal": "brothers-your",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 7,
+        "surface": "רֹעִים",
+        "phrase": "pasturing",
+        "literal": "shepherding",
+        "source": "KJV, ESV, NASB, JPS; Qal participle masculine plural"
+      },
+      {
+        "position": 8,
+        "surface": "בִשְׁכֶם",
+        "phrase": "in Shechem",
+        "literal": "in-Shechem",
+        "source": "All translations; proper noun with preposition"
+      },
+      {
+        "position": 9,
+        "surface": "לְכָה",
+        "phrase": "Come",
+        "literal": "go",
+        "source": "KJV, ESV, NASB, JPS; Qal imperative masculine singular"
+      },
+      {
+        "position": 10,
+        "surface": "וְאֶשְׁלָחְךָ",
+        "phrase": "and I will send you",
+        "literal": "and-I.will.send-you",
+        "source": "KJV, ESV, NASB, JPS; Qal imperfect first person singular + object suffix"
+      },
+      {
+        "position": 11,
+        "surface": "אֲלֵיהֶם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, JPS; preposition + pronoun"
+      },
+      {
+        "position": 12,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 13,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, JPS; preposition + pronoun"
+      },
+      {
+        "position": 14,
+        "surface": "הִנֵּנִי",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "KJV, ESV, NASB, JPS; particle + pronoun suffix"
+      }
+    ]
+  }
+]

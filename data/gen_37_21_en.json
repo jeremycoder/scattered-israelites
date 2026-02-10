@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֣ע",
+        "phrase": "And Reuben heard",
+        "literal": "and-heard",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "רְאוּבֵ֔ן",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יַּצִּלֵ֖/הוּ",
+        "phrase": "and rescued him",
+        "literal": "and-delivered-him",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/יָּדָ֑/ם",
+        "phrase": "from their hand",
+        "literal": "from-hand-their",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "נַכֶּ֖/נּוּ",
+        "phrase": "let us strike him",
+        "literal": "we-will-strike-him",
+        "source": "KJV ('kill'), ESV/NASB ('take his life'), NET ('strike him down')"
+      },
+      {
+        "position": 8,
+        "surface": "נָֽפֶשׁ",
+        "phrase": "life",
+        "literal": "life-soul",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

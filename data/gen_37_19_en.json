@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֖וּ",
+        "phrase": "and they said",
+        "literal": "and-said-they",
+        "source": "KJV, ESV, NASB, StudyLight Interlinear[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֣ישׁ",
+        "phrase": "one",
+        "literal": "man",
+        "source": "KJV ('one'), ESV, NASB, StudyLight ('one')[1]"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV, NASB, StudyLight ('unto')[1]"
+      },
+      {
+        "position": 4,
+        "surface": "אָחִ֑י/ו",
+        "phrase": "another",
+        "literal": "brother-his",
+        "source": "KJV ('another'), ESV, NASB, StudyLight ('another')[1]"
+      },
+      {
+        "position": 5,
+        "surface": "הִנֵּ֗ה",
+        "phrase": "here comes",
+        "literal": "behold",
+        "source": "particle of attention; KJV ('Behold'), ESV ('Here comes'), NASB[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ֛עַל",
+        "phrase": "master",
+        "literal": "owner-lord",
+        "source": "KJV, ESV, NASB (as 'dreamer'), StudyLight ('owner')[1]"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/חֲלֹמ֥וֹת",
+        "phrase": "of dreams",
+        "literal": "the-dreams",
+        "source": "KJV, ESV, NASB, StudyLight ('of the dream')[1]"
+      },
+      {
+        "position": 8,
+        "surface": "הַלָּזֶ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB, StudyLight ('this')[1]"
+      },
+      {
+        "position": 9,
+        "surface": "בָּֽא",
+        "phrase": "comes",
+        "literal": "comes",
+        "source": "KJV ('cometh'), ESV, NASB, StudyLight[1]"
+      }
+    ]
+  }
+]

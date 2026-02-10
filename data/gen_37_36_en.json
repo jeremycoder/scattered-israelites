@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 37,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ֨/מְּדָנִ֔ים",
+        "phrase": "the Midianites",
+        "literal": "and-the-Midianites",
+        "source": "NET, KJV, ESV, NASB (some read Medanites)"
+      },
+      {
+        "position": 2,
+        "surface": "מָכְר֥וּ",
+        "phrase": "sold",
+        "literal": "sold",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "standard object marker + 3ms suffix; KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/פֽוֹטִיפַר֙",
+        "phrase": "to Potiphar",
+        "literal": "to-Potiphar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "סְרִ֣יס",
+        "phrase": "officer",
+        "literal": "eunuch",
+        "source": "lit. eunuch, often 'official'; NET, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שַׂ֖ר",
+        "phrase": "chief",
+        "literal": "chief",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/טַּבָּחִֽים",
+        "phrase": "of the executioners",
+        "literal": "the-butcherers",
+        "source": "lit. the slaughterers/executioners; NET, KJV"
+      }
+    ]
+  }
+]

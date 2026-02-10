@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֥וּ",
+        "phrase": "and these were",
+        "literal": "and-they_were",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of הָיָה, 'to be')"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לוֹטָ֖ן",
+        "phrase": "Lotan",
+        "literal": "Lotan",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "חֹרִ֣י",
+        "phrase": "Hori",
+        "literal": "Hori",
+        "source": "KJV, ESV, NASB (proper name, 'cave dweller')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הֵימָ֑ם",
+        "phrase": "and Hemam",
+        "literal": "and-Hemam",
+        "source": "KJV ('Hemam'), ESV ('Homam'), NASB ('Hemam') (proper name, variant Homam/Heman)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/אֲח֥וֹת",
+        "phrase": "and the sister of",
+        "literal": "and-sister_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לוֹטָ֖ן",
+        "phrase": "Lotan",
+        "literal": "Lotan",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 8,
+        "surface": "תִּמְנָֽע",
+        "phrase": "was Timna",
+        "literal": "Timna",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]

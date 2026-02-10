@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 36,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה֙",
+        "phrase": "And these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB (waw-consecutive + demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "רְעוּאֵ֔ל",
+        "phrase": "Reuel",
+        "literal": "Reuel",
+        "source": "KJV, ESV, NASB (proper name, 'friend of God')"
+      },
+      {
+        "position": 4,
+        "surface": "נַ֥חַת",
+        "phrase": "Nahath",
+        "literal": "Nahath",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/זֶ֖רַח",
+        "phrase": "and Zerah",
+        "literal": "and-Zerah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שַׁמָּ֣ה",
+        "phrase": "Shammah",
+        "literal": "Shammah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מִזָּ֑ה",
+        "phrase": "and Mizzah",
+        "literal": "and-Mizzah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֵ֣לֶּ֣ה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "KJV, ESV, NASB (demonstrative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "הָי֔וּ",
+        "phrase": "were",
+        "literal": "were",
+        "source": "KJV, ESV, NASB (Qal perfect 3mp 'to be')"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בָשְׂמַ֖ת",
+        "phrase": "Basemath",
+        "literal": "Basemath",
+        "source": "KJV, ESV, NASB (proper name, variant Bashemath)"
+      },
+      {
+        "position": 12,
+        "surface": "אֵ֥שֶׁת",
+        "phrase": "wife of",
+        "literal": "wife-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "עֵשָֽׂו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]
