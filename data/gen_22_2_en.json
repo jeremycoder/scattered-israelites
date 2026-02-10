@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֡אמֶר",
+        "phrase": "and he said",
+        "literal": "and-say",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "קַח",
+        "phrase": "take",
+        "literal": "take",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֠א",
+        "phrase": "now",
+        "literal": "please",
+        "source": "particle of entreaty; KJV 'now', NASB 'now'[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker; not translated[2]"
+      },
+      {
+        "position": 5,
+        "surface": "בִּנְ/ךָ֨",
+        "phrase": "your son",
+        "literal": "son-your",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker; not translated[2]"
+      },
+      {
+        "position": 7,
+        "surface": "יְחִֽידְ/ךָ֤",
+        "phrase": "your only son",
+        "literal": "only-your",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "relative pronoun; KJV, ESV[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "אָהַ֨בְתָּ֙",
+        "phrase": "you love",
+        "literal": "you_have_loved",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker; not translated[2]"
+      },
+      {
+        "position": 11,
+        "surface": "יִצְחָ֔ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name; KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לֶךְ",
+        "phrase": "and go",
+        "literal": "and-go",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/ךָ֔",
+        "phrase": "yourself",
+        "literal": "to-you",
+        "source": "ethical dative; KJV 'get thee', NASB implied[1][2]"
+      },
+      {
+        "position": 14,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV[1][2]"
+      },
+      {
+        "position": 15,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/מֹּרִיָּ֑ה",
+        "phrase": "of Moriah",
+        "literal": "the-Moriah",
+        "source": "proper name; KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/הַעֲלֵ֤/הוּ",
+        "phrase": "and offer him",
+        "literal": "and-cause_to_ascend-him",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 18,
+        "surface": "שָׁם֙",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/עֹלָ֔ה",
+        "phrase": "as a burnt offering",
+        "literal": "for-burnt_offering",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 20,
+        "surface": "עַ֚ל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "KJV, ESV[1][2]"
+      },
+      {
+        "position": 21,
+        "surface": "אַחַ֣ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 22,
+        "surface": "הֶֽ/הָרִ֔ים",
+        "phrase": "of the mountains",
+        "literal": "the-mountains",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 23,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun; KJV, ESV[1][2]"
+      },
+      {
+        "position": 24,
+        "surface": "אֹמַ֥ר",
+        "phrase": "I will tell",
+        "literal": "I_will_say",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 25,
+        "surface": "אֵלֶֽי/ךָ",
+        "phrase": "you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB[1][2]"
+      }
+    ]
+  }
+]

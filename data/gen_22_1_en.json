@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אַחַר֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דְּבָרִ֣ים",
+        "phrase": "the things",
+        "literal": "the-words/matters",
+        "source": "KJV (\\\"these things\\\"), ESV (\\\"these things\\\"), NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הָ֣/אֱלֹהִ֔ים",
+        "phrase": "and God",
+        "literal": "and-the-God",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "נִסָּ֖ה",
+        "phrase": "tested",
+        "literal": "tested/tried",
+        "source": "KJV (\\\"tempted\\\"), ESV (\\\"tested\\\"), NASB (\\\"tested\\\"), NET"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "standard Hebrew particle; not translated (ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הִנֵּֽנִ/י",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "KJV (\\\"Here am I\\\"), ESV (\\\"Here I am\\\"), NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/לֹ֨א",
+        "phrase": "Did not",
+        "literal": "INTERR-not",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "ה֤וּא",
+        "phrase": "he",
+        "literal": "he-MASC.3SG",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אָֽמַר",
+        "phrase": "say",
+        "literal": "say-PERF.3SG.MASC",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/י֙",
+        "phrase": "to me",
+        "literal": "to-1SG",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחֹ֣תִ/י",
+        "phrase": "sister",
+        "literal": "sister-1SG.POSS",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 6,
+        "surface": "הִ֔וא",
+        "phrase": "she is",
+        "literal": "she-MASC.3SG",
+        "source": "KJV, NASB, ESV, NET; copular use"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִֽיא",
+        "phrase": "and she",
+        "literal": "and-she-FEM.3SG",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 8,
+        "surface": "גַם",
+        "phrase": "even",
+        "literal": "also",
+        "source": "KJV, NASB, ESV, NET; emphatic particle"
+      },
+      {
+        "position": 9,
+        "surface": "הִ֥וא",
+        "phrase": "she",
+        "literal": "she-FEM.3SG",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 10,
+        "surface": "אָֽמְרָ֖ה",
+        "phrase": "said",
+        "literal": "say-PERF.3SG.FEM",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אָחִ֣/י",
+        "phrase": "brother",
+        "literal": "brother-1SG.POSS",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 12,
+        "surface": "ה֑וּא",
+        "phrase": "he is",
+        "literal": "he-MASC.3SG",
+        "source": "KJV, NASB, ESV, NET; copular use"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/תָם",
+        "phrase": "in the integrity",
+        "literal": "in-integrity",
+        "source": "KJV, NASB, ESV, NET; תם means completeness, integrity, innocence"
+      },
+      {
+        "position": 14,
+        "surface": "לְבָבִ֛/י",
+        "phrase": "of my heart",
+        "literal": "heart-1SG.POSS",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/בְ/נִקְיֹ֥ן",
+        "phrase": "and in innocence",
+        "literal": "and-in-innocence",
+        "source": "KJV, NASB, ESV, NET; נקיון means cleanness, innocency"
+      },
+      {
+        "position": 16,
+        "surface": "כַּפַּ֖/י",
+        "phrase": "of my hands",
+        "literal": "palm-1SG.POSS",
+        "source": "KJV, NASB, ESV, NET; כף means palm, hand"
+      },
+      {
+        "position": 17,
+        "surface": "עָשִׂ֥יתִי",
+        "phrase": "have I done",
+        "literal": "do-PERF.1SG",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 18,
+        "surface": "זֹֽאת",
+        "phrase": "this",
+        "literal": "this-FEM.SG",
+        "source": "KJV, NASB, ESV, NET"
+      }
+    ]
+  }
+]

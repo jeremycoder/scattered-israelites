@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֨א",
+        "phrase": "called",
+        "literal": "and-called",
+        "source": "KJV, ESV, NASB (qara' = to call out)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֜י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מַלְאַ֤ךְ",
+        "phrase": "angel",
+        "literal": "messenger",
+        "source": "KJV, ESV, NASB (mal'ak = messenger, angel)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָה֙",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB (Yhovah = the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, ESV, NASB (preposition of source)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "heaven",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB (shamayim = heaven(s))"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB ('amar = to say)"
+      },
+      {
+        "position": 8,
+        "surface": "אַבְרָהָ֣ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB ('Abraham = father of a multitude)"
+      },
+      {
+        "position": 9,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB (repetition for emphasis)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הִנֵּֽנִ/י",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "KJV, ESV, NASB (hin·ne·ni = here I am)"
+      }
+    ]
+  }
+]

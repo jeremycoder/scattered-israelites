@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֤מָל",
+        "phrase": "circumcised",
+        "literal": "and-circumcised",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָם֙",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "grammatical particle; untranslatable marker"
+      },
+      {
+        "position": 4,
+        "surface": "יִצְחָ֣ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנ֔/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמֹנַ֖ת",
+        "phrase": "eight",
+        "literal": "eight",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "יָמִ֑ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "כַּ/אֲשֶׁ֛ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "צִוָּ֥ה",
+        "phrase": "had commanded",
+        "literal": "commanded",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[accusative]-him",
+        "source": "grammatical particle + pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהִֽים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

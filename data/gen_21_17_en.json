@@ -1,0 +1,207 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֣ע",
+        "phrase": "and heard",
+        "literal": "and-heard",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים֮",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle, Interlinear[1]"
+      },
+      {
+        "position": 4,
+        "surface": "ק֣וֹל",
+        "phrase": "the voice",
+        "literal": "voice",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נַּעַר֒",
+        "phrase": "of the boy",
+        "literal": "the-boy",
+        "source": "KJV (lad), ESV (boy), NASB (lad)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקְרָא֩",
+        "phrase": "and called",
+        "literal": "and-called",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 7,
+        "surface": "מַלְאַ֨ךְ",
+        "phrase": "angel",
+        "literal": "messenger-angel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "of God",
+        "literal": "of-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition, Interlinear[1]"
+      },
+      {
+        "position": 10,
+        "surface": "הָגָר֙",
+        "phrase": "Hagar",
+        "literal": "Hagar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "preposition, Interlinear[1]"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "heaven",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לָ֖/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "interrogative, KJV (what), NASB (what)"
+      },
+      {
+        "position": 16,
+        "surface": "לָּ֣/ךְ",
+        "phrase": "with you",
+        "literal": "to-you",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "הָגָ֑ר",
+        "phrase": "Hagar",
+        "literal": "Hagar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "negative particle, KJV, ESV"
+      },
+      {
+        "position": 19,
+        "surface": "תִּ֣ירְאִ֔י",
+        "phrase": "be afraid",
+        "literal": "fear",
+        "source": "KJV (fear not), ESV (don't be afraid), NASB"
+      },
+      {
+        "position": 20,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for-because",
+        "source": "conjunction, KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "שָׁמַ֧ע",
+        "phrase": "has heard",
+        "literal": "heard",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 23,
+        "surface": "אֶל",
+        "phrase": "the",
+        "literal": "to",
+        "source": "preposition indicating direction, context 'heard the voice', Interlinear[1]"
+      },
+      {
+        "position": 24,
+        "surface": "ק֥וֹל",
+        "phrase": "voice",
+        "literal": "voice",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/נַּ֖עַר",
+        "phrase": "of the boy",
+        "literal": "the-boy",
+        "source": "KJV (lad), ESV (boy), NASB"
+      },
+      {
+        "position": 26,
+        "surface": "בַּ/אֲשֶׁ֥ר",
+        "phrase": "where",
+        "literal": "in-which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 27,
+        "surface": "הוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "pronoun, KJV, NASB"
+      },
+      {
+        "position": 28,
+        "surface": "שָֽׁם",
+        "phrase": "is",
+        "literal": "there",
+        "source": "KJV (where he is), NASB, Interlinear[1]"
+      }
+    ]
+  }
+]

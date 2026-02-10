@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֜ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name, all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Directional particle, KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "נְעָרָ֗י/ו",
+        "phrase": "his young men",
+        "literal": "his_young_men",
+        "source": "KJV (young men), ESV (young men), NASB (young men)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁבוּ",
+        "phrase": "Stay",
+        "literal": "stay!",
+        "source": "Imperative, KJV (Abide), ESV (Stay)"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/כֶ֥ם",
+        "phrase": "here",
+        "literal": "to_you",
+        "source": "Dative pronoun with imperative, KJV, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "פֹּה֙",
+        "phrase": "here",
+        "literal": "here",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עִֽם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "Preposition, all translations"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/חֲמ֔וֹר",
+        "phrase": "the donkey",
+        "literal": "the_donkey",
+        "source": "KJV (ass), ESV (donkey), NASB (donkey)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/אֲנִ֣י",
+        "phrase": "and I",
+        "literal": "and_I",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הַ/נַּ֔עַר",
+        "phrase": "and the boy",
+        "literal": "and_the_lad",
+        "source": "KJV (lad), ESV (boy), NASB (lad)"
+      },
+      {
+        "position": 12,
+        "surface": "נֵלְכָ֖ה",
+        "phrase": "will go",
+        "literal": "we_will_go",
+        "source": "Cohortative, KJV (will go), ESV (will go)"
+      },
+      {
+        "position": 13,
+        "surface": "עַד",
+        "phrase": "over there",
+        "literal": "until",
+        "source": "KJV (yonder), ESV (over there)"
+      },
+      {
+        "position": 14,
+        "surface": "כֹּ֑ה",
+        "phrase": "there",
+        "literal": "thus",
+        "source": "Deictic adverb, KJV (yonder), ESV (over there)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/נִֽשְׁתַּחֲוֶ֖ה",
+        "phrase": "and worship",
+        "literal": "and_we_will_prostrate",
+        "source": "Cohortative, KJV (worship), ESV (worship)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/נָשׁ֥וּבָה",
+        "phrase": "and come back",
+        "literal": "and_we_will_return",
+        "source": "Cohortative, KJV (come again), ESV (come again)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲלֵי/כֶֽם",
+        "phrase": "to you",
+        "literal": "to_you",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

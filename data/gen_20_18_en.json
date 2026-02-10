@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "עָצֹ֤ר",
+        "phrase": "completely",
+        "literal": "restraining",
+        "source": "emphatic infinitive absolute, YLT, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "עָצַר֙",
+        "phrase": "had closed",
+        "literal": "he-restrained",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "proper name of God, all translations"
+      },
+      {
+        "position": 5,
+        "surface": "בְּעַ֥ד",
+        "phrase": "up",
+        "literal": "on-account-of",
+        "source": "KJV (fast closed up), NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "רֶ֖חֶם",
+        "phrase": "the wombs",
+        "literal": "womb",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/בֵ֣ית",
+        "phrase": "of the house",
+        "literal": "to-house",
+        "source": "preposition + בֵּית, KJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אֲבִימֶ֑לֶךְ",
+        "phrase": "of Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "because of",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "דְּבַ֥ר",
+        "phrase": "the matter",
+        "literal": "word-matter",
+        "source": "Lexham English Bible, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "שָׂרָ֖ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 13,
+        "surface": "אֵ֥שֶׁת",
+        "phrase": "wife",
+        "literal": "woman-wife",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אַבְרָהָֽם",
+        "phrase": "Abraham's",
+        "literal": "Abraham",
+        "source": "proper name, all translations"
+      }
+    ]
+  }
+]

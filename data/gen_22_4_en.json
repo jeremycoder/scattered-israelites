@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "On the third day",
+        "literal": "in-the/day",
+        "source": "KJV, ESV, NASB (preposition + noun 'day')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁלִישִׁ֗י",
+        "phrase": "third",
+        "literal": "the/third",
+        "source": "KJV, ESV, NASB (definite article + adjective)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּשָּׂ֨א",
+        "phrase": "Abraham lifted up",
+        "literal": "and/he-lifted-up",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect of נשׂא 'lift')"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֧ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "Accusative particle; NASB, ESV (untranslated marker)"
+      },
+      {
+        "position": 6,
+        "surface": "עֵינָ֛י/ו",
+        "phrase": "his eyes",
+        "literal": "eyes-his",
+        "source": "KJV, ESV, NASB (dual noun + 3ms suffix)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and saw",
+        "literal": "and/he-saw",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect of ראה 'see')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "Accusative particle; NASB, ESV (untranslated marker)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מָּק֖וֹם",
+        "phrase": "the place",
+        "literal": "the/place",
+        "source": "KJV, ESV, NASB (definite article + noun)"
+      },
+      {
+        "position": 10,
+        "surface": "מֵ/רָחֹֽק",
+        "phrase": "from afar",
+        "literal": "from/distance",
+        "source": "KJV ('afar off'), ESV, NASB ('from a distance')"
+      }
+    ]
+  }
+]

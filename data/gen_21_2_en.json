@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּהַר֩",
+        "phrase": "and she conceived",
+        "literal": "and-conceived",
+        "source": "ESV, NASB, KJV, NET (tn: 'she conceived')"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/תֵּ֨לֶד",
+        "phrase": "and she bore",
+        "literal": "and-bore",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂרָ֧ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אַבְרָהָ֛ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֖ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/זְקֻנָ֑י/ו",
+        "phrase": "in his old age",
+        "literal": "to-old-age-his",
+        "source": "ESV, NASB, KJV (lit. 'to his old age')"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/מּוֹעֵ֕ד",
+        "phrase": "at the appointed time",
+        "literal": "to-the-appointed-time",
+        "source": "ESV, NASB, KJV, NET"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "ESV, NASB, KJV (relative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "he had spoken",
+        "literal": "he-spoke",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "to him",
+        "literal": "[direct-object]-him",
+        "source": "ESV, NASB, KJV (object marker + pronoun)"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהִֽים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

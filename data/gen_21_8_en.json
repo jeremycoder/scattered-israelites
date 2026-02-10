@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְדַּ֥ל",
+        "phrase": "and grew",
+        "literal": "and-grew",
+        "source": "KJV, ESV, NASB (wayyiqtol of גָּדַל 'to grow')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יֶּ֖לֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "KJV, ESV, NASB (הַ definite article + יֶלֶד 'child, boy')"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּגָּמַ֑ל",
+        "phrase": "and was weaned",
+        "literal": "and-was_weaned",
+        "source": "KJV, ESV, NASB (wayyiqtol of גָּמַל 'to wean')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "and made",
+        "literal": "and-made",
+        "source": "KJV, ESV, NASB (wayyiqtol of עָשָׂה 'to make, do')"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָם֙",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "מִשְׁתֶּ֣ה",
+        "phrase": "a feast",
+        "literal": "feast",
+        "source": "KJV, ESV, NASB (מִשְׁתֶּה 'feast, banquet')"
+      },
+      {
+        "position": 7,
+        "surface": "גָד֔וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB (גָּדוֹל 'great')"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/י֖וֹם",
+        "phrase": "on the day",
+        "literal": "in-day",
+        "source": "KJV, ESV, NASB (בְּ preposition + יוֹם 'day')"
+      },
+      {
+        "position": 9,
+        "surface": "הִגָּמֵ֥ל",
+        "phrase": "was weaned",
+        "literal": "was_weaned",
+        "source": "KJV, ESV, NASB (nifal infinitive construct of גָּמַל 'to wean')"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "Standard et particle (grammatical marker, not translated; NASB, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "יִצְחָֽק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "Proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

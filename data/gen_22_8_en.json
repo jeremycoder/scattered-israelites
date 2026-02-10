@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "Conjunction waw + qal imperfect 3ms of אמר (amar, 'to say')"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper noun, nominative subject"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Noun masculine plural (used as singular for deity); KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 4,
+        "surface": "יִרְאֶה",
+        "phrase": "will provide/will see",
+        "literal": "he.will-see",
+        "source": "Qal imperfect 3ms of ראה (raah, 'to see'; idiomatically 'to see to it, provide'). Root carries dual sense of 'see' and 'provide' in context"
+      },
+      {
+        "position": 5,
+        "surface": "לּוֹ",
+        "phrase": "for himself",
+        "literal": "for-him",
+        "source": "Preposition le + 3ms pronominal suffix; reflexive sense. ESV, NASB, UASV retain 'for himself'; NRSV uses 'himself' emphatically"
+      },
+      {
+        "position": 6,
+        "surface": "הַשֶּׂה",
+        "phrase": "the lamb",
+        "literal": "the-lamb",
+        "source": "Definite article + noun masculine singular שה (seh, 'lamb, small sheep, goat')"
+      },
+      {
+        "position": 7,
+        "surface": "לְעֹלָה",
+        "phrase": "for a burnt offering",
+        "literal": "for-burnt.offering",
+        "source": "Preposition le + noun feminine singular עלה (olah, 'burnt offering, that which goes up')"
+      },
+      {
+        "position": 8,
+        "surface": "בְנִי",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "Noun masculine singular + 1s pronominal suffix"
+      },
+      {
+        "position": 9,
+        "surface": "וַיֵּלְכוּ",
+        "phrase": "And they went",
+        "literal": "and-they.went",
+        "source": "Conjunction waw + qal imperfect 3mp of הלך (halak, 'to go, walk')"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁנֵיהֶם",
+        "phrase": "the two of them",
+        "literal": "two-them",
+        "source": "Noun masculine dual + 3mp pronominal suffix; literally 'the two of them'"
+      },
+      {
+        "position": 11,
+        "surface": "יַחְדָּו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "Adverb יחדו (yachdav, 'together'); from root יחד (to unite)"
+      }
+    ]
+  }
+]

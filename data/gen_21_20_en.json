@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֧י",
+        "phrase": "and he was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "with-(direct-object-marker)",
+        "source": "standard Hebrew grammar; particle (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נַּ֖עַר",
+        "phrase": "the boy",
+        "literal": "the-boy",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּגְדָּ֑ל",
+        "phrase": "and he grew",
+        "literal": "and-he-grew",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּ֨שֶׁב֙",
+        "phrase": "and he lived",
+        "literal": "and-he-settled",
+        "source": "KJV (dwelt), ESV (lived), NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/מִּדְבָּ֔ר",
+        "phrase": "in the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "and he was",
+        "literal": "and-he-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "רֹבֶ֥ה",
+        "phrase": "an expert",
+        "literal": "great",
+        "source": "ESV (expert), NASB (archer context)"
+      },
+      {
+        "position": 10,
+        "surface": "קַשָּֽׁת",
+        "phrase": "archer",
+        "literal": "bow-man",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

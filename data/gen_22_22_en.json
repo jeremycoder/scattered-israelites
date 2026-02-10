@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "כֶּ֣שֶׂד",
+        "phrase": "Kesed",
+        "literal": "Kesed",
+        "source": "KJV (Kezed), ESV (Chesed), NASB (Kesed), Chabad (Kesed), Mechon-Mamre (Chesed)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 4,
+        "surface": "חֲז֔וֹ",
+        "phrase": "Hazo",
+        "literal": "Hazo",
+        "source": "KJV (Hazo), ESV (Hazo), NASB (Hazo), Chabad (Hazo), Mechon-Mamre (Hazo)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 6,
+        "surface": "פִּלְדָּ֖שׁ",
+        "phrase": "Pildash",
+        "literal": "Pildash",
+        "source": "KJV (Pildash), ESV (Pildash), NASB (Pildash), Chabad (Pildash), Mechon-Mamre (Pildash)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 8,
+        "surface": "יִדְלָ֑ף",
+        "phrase": "Jidlaph",
+        "literal": "Jidlaph",
+        "source": "KJV (Jidlaph), ESV (Jidlaph), NASB (Jidlaph), Chabad (Jidlaph), Mechon-Mamre (Jidlaph)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-ACC",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּתוּאֵֽל",
+        "phrase": "Bethuel",
+        "literal": "Bethuel",
+        "source": "KJV (Bethuel), ESV (Bethuel), NASB (Bethuel), Chabad (Bethuel), Mechon-Mamre (Bethuel)"
+      }
+    ]
+  }
+]

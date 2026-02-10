@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that-because",
+        "source": "KJV, NIV, ESV (introduces purpose clause)"
+      },
+      {
+        "position": 2,
+        "surface": "בָרֵ֣ךְ",
+        "phrase": "blessing",
+        "literal": "to-bless-inf.abs",
+        "source": "KJV, NKJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲבָרֶכְ/ךָ֗",
+        "phrase": "I will bless",
+        "literal": "I-will-bless-you",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הַרְבָּ֨ה",
+        "phrase": "and multiplying",
+        "literal": "and-multiplying-inf.abs",
+        "source": "KJV, NKJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אַרְבֶּ֤ה",
+        "phrase": "I will multiply",
+        "literal": "I-will-multiply",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 7,
+        "surface": "זַרְעֲ/ךָ֙",
+        "phrase": "your seed",
+        "literal": "seed-your",
+        "source": "KJV, NIV, ESV (offspring, descendants)"
+      },
+      {
+        "position": 8,
+        "surface": "כְּ/כוֹכְבֵ֣י",
+        "phrase": "as the stars",
+        "literal": "like-stars",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/כַ/ח֕וֹל",
+        "phrase": "and as the sand",
+        "literal": "and-like-sand",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which-rel.pron",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "שְׂפַ֣ת",
+        "phrase": "the shore",
+        "literal": "lip-shore",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יָּ֑ם",
+        "phrase": "of the sea",
+        "literal": "the-sea",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/יִרַ֣שׁ",
+        "phrase": "shall possess",
+        "literal": "and-will-possess",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "זַרְעֲ/ךָ֔",
+        "phrase": "your seed",
+        "literal": "seed-your",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 17,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew grammar"
+      },
+      {
+        "position": 18,
+        "surface": "שַׁ֥עַר",
+        "phrase": "the gate",
+        "literal": "gate",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "אֹיְבָֽי/ו",
+        "phrase": "of his enemies",
+        "literal": "enemies-his",
+        "source": "KJV, NIV, ESV, NASB"
+      }
+    ]
+  }
+]

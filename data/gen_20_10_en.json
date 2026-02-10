@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֖לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "מָ֣ה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "רָאִ֔יתָ",
+        "phrase": "did you see",
+        "literal": "you_saw",
+        "source": "KJV ('sawest thou'), ESV ('did you see'), NASB ('have you encountered')"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "causal particle (KJV, ESV)"
+      },
+      {
+        "position": 8,
+        "surface": "עָשִׂ֖יתָ",
+        "phrase": "you have done",
+        "literal": "you_did",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "accusative marker (ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/דָּבָ֥ר",
+        "phrase": "this thing",
+        "literal": "the-word",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

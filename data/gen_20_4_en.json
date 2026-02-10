@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲבִימֶ֕לֶךְ",
+        "phrase": "But Abimelech",
+        "literal": "and-Abimelech",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "had not",
+        "literal": "not",
+        "source": "particle of negation; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "קָרַ֖ב",
+        "phrase": "come near",
+        "literal": "approach",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלֶ֑י/הָ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּאמַ֕ר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲדֹנָ֕/י",
+        "phrase": "Lord",
+        "literal": "my_lord",
+        "source": "KJV, ESV, NASB, NET (ʾadonay)"
+      },
+      {
+        "position": 7,
+        "surface": "הֲ/ג֥וֹי",
+        "phrase": "a nation",
+        "literal": "a-nation?",
+        "source": "KJV, ESV, NASB; note: some emend to 'me'"
+      },
+      {
+        "position": 8,
+        "surface": "גַּם",
+        "phrase": "even",
+        "literal": "also-even",
+        "source": "emphatic particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "צַדִּ֖יק",
+        "phrase": "righteous",
+        "literal": "righteous",
+        "source": "KJV, ESV, NASB (innocent)"
+      },
+      {
+        "position": 10,
+        "surface": "תַּהֲרֹֽג",
+        "phrase": "will you slay",
+        "literal": "you_will_kill",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

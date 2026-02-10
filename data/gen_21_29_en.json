@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, AKJV, NET, ESV - conjunction + verb qal imperfect 3ms"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֖לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "KJV, AKJV, NET - proper noun, name of Philistine king"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, AKJV, NET - preposition"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, AKJV, NET - proper noun, name of patriarch"
+      },
+      {
+        "position": 5,
+        "surface": "מָ֣ה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "KJV, AKJV, NET - interrogative pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "הֵ֗נָּה",
+        "phrase": "are these",
+        "literal": "behold-these",
+        "source": "KJV, AKJV, NET - demonstrative particle + feminine plural"
+      },
+      {
+        "position": 7,
+        "surface": "שֶׁ֤בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, AKJV, NET - numeral feminine"
+      },
+      {
+        "position": 8,
+        "surface": "כְּבָשֹׂת֙",
+        "phrase": "ewe lambs",
+        "literal": "ewe-lambs",
+        "source": "KJV, AKJV, NET - feminine plural noun"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, AKJV, NET - definite article + feminine plural demonstrative pronoun"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, AKJV, NET - relative pronoun"
+      },
+      {
+        "position": 11,
+        "surface": "הִצַּ֖בְתָּ",
+        "phrase": "you have set",
+        "literal": "you.have.set",
+        "source": "KJV, AKJV, NET - verb hiphil perfect 2ms"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/בַדָּֽ/נָה",
+        "phrase": "by themselves",
+        "literal": "to-alone-them",
+        "source": "KJV, AKJV, NET - preposition + adverb + feminine plural suffix"
+      }
+    ]
+  }
+]

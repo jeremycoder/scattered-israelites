@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֨ח",
+        "phrase": "took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֜לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "צֹ֣אן",
+        "phrase": "sheep",
+        "literal": "sheep",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בָקָ֗ר",
+        "phrase": "and cattle",
+        "literal": "and-cattle",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/עֲבָדִים֙",
+        "phrase": "and servants",
+        "literal": "and-servants",
+        "source": "KJV (menservants), ESV (male servants), NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/שְׁפָחֹ֔ת",
+        "phrase": "and maidservants",
+        "literal": "and-maidservants",
+        "source": "KJV (womenservants), ESV (female servants), NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֵּ֖ן",
+        "phrase": "gave",
+        "literal": "and-he-gave",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אַבְרָהָ֑ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יָּ֣שֶׁב",
+        "phrase": "returned",
+        "literal": "and-he-returned",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "prepositional phrase (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "אֵ֖ת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "accusative marker (ESV, NASB notes)"
+      },
+      {
+        "position": 12,
+        "surface": "שָׂרָ֥ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 13,
+        "surface": "אִשְׁתּֽ/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

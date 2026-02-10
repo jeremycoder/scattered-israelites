@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יהוָ֛ה",
+        "phrase": "And the LORD",
+        "literal": "and-YHWH",
+        "source": "KJV, ESV, NASB, NET (divine name)"
+      },
+      {
+        "position": 2,
+        "surface": "פָּקַ֥ד",
+        "phrase": "visited",
+        "literal": "visited",
+        "source": "KJV, NET, Mechon-Mamre (NET tn: 'did' stylistically)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew grammar (accusative marker); KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂרָ֖ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁ֣ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אָמָ֑ר",
+        "phrase": "he had said",
+        "literal": "he-said",
+        "source": "KJV, NET (tn: 'spoken'); ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּ֧עַשׂ",
+        "phrase": "and did",
+        "literal": "and-he-did/made",
+        "source": "NET (tn: 'the Lord did'); KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֛ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/שָׂרָ֖ה",
+        "phrase": "to Sarah",
+        "literal": "to-Sarah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "דִּבֵּֽר",
+        "phrase": "he had spoken",
+        "literal": "he-spoke",
+        "source": "NET (tn: 'spoken'); KJV, ESV, NASB"
+      }
+    ]
+  }
+]

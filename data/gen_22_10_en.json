@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֤ח",
+        "phrase": "reached out",
+        "literal": "and-sent_out",
+        "source": "KJV, ESV, NASB, NIV (wayyišlaḥ from šālaḥ, 'to send forth/out')"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָם֙",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name, all translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "Accusative marker (et), KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָד֔/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "KJV, ESV, NASB, NIV (yādô)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקַּ֖ח",
+        "phrase": "took",
+        "literal": "and-took",
+        "source": "KJV, ESV, NASB, NIV (wayyiqqַaḥ from lāqaḥ, 'to take')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "Accusative marker (et), KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַֽ/מַּאֲכֶ֑לֶת",
+        "phrase": "the knife",
+        "literal": "the-knife",
+        "source": "KJV, ESV, NASB, NIV (hammaʾăkeleṯ from maʾăkāleṯ, 'knife')"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/שְׁחֹ֖ט",
+        "phrase": "to slaughter",
+        "literal": "to-slaughter",
+        "source": "KJV ('to slay'), ESV/NASB ('to slaughter'), NIV (lišḥôṭ from šāḥaṭ, 'to slaughter')"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "Accusative marker (et), KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB, NIV (bənô)"
+      }
+    ]
+  }
+]

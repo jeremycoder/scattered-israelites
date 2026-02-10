@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִ֗י",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, ESV, NASB; wayyiqtol narrative form"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 3,
+        "surface": "הַדְּבָרִ֣ים",
+        "phrase": "these things",
+        "literal": "the-things",
+        "source": "KJV, ESV, NASB; definite masculine plural noun"
+      },
+      {
+        "position": 4,
+        "surface": "הָאֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV, NASB; definite feminine plural demonstrative"
+      },
+      {
+        "position": 5,
+        "surface": "וַיֻּגַּ֥ד",
+        "phrase": "it was told",
+        "literal": "and-he/it-was-told",
+        "source": "KJV, ESV, NASB; wayyiqtol passive form of nagad"
+      },
+      {
+        "position": 6,
+        "surface": "לְאַבְרָהָ֖ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "KJV, ESV, NASB; preposition + proper noun"
+      },
+      {
+        "position": 7,
+        "surface": "לֵאמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB; infinitive construct of amar"
+      },
+      {
+        "position": 8,
+        "surface": "הִנֵּה",
+        "phrase": "Behold",
+        "literal": "look-here",
+        "source": "KJV, ESV, NASB; interjection hinneh"
+      },
+      {
+        "position": 9,
+        "surface": "יָלְדָ֨ה",
+        "phrase": "has borne",
+        "literal": "she-bore",
+        "source": "KJV, ESV, NASB; qatal feminine singular of yalad"
+      },
+      {
+        "position": 10,
+        "surface": "מִלְכָּ֥ה",
+        "phrase": "Milcah",
+        "literal": "Milcah",
+        "source": "KJV, ESV, NASB; proper noun (feminine name)"
+      },
+      {
+        "position": 11,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, ESV, NASB; adverb"
+      },
+      {
+        "position": 12,
+        "surface": "הִוא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "KJV, ESV, NASB; feminine singular pronoun"
+      },
+      {
+        "position": 13,
+        "surface": "בָּנִ֖ים",
+        "phrase": "children",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB; masculine plural noun"
+      },
+      {
+        "position": 14,
+        "surface": "לְנָחוֹר",
+        "phrase": "to your brother Nahor",
+        "literal": "to-Nahor",
+        "source": "KJV, ESV, NASB; preposition + proper noun"
+      },
+      {
+        "position": 15,
+        "surface": "אָחִיךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB; masculine singular noun + second masculine singular possessive suffix"
+      }
+    ]
+  }
+]

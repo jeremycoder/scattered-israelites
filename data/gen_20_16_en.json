@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/לְ/שָׂרָ֣ה",
+        "phrase": "And to Sarah",
+        "literal": "and-to-Sarah",
+        "source": "Conjunction vav + preposition le + proper noun; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אָמַ֗ר",
+        "phrase": "he said",
+        "literal": "he-said",
+        "source": "Qal perfect 3ms of amar; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "הִנֵּ֨ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "Interjection; KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "נָתַ֜תִּי",
+        "phrase": "I have given",
+        "literal": "I-gave",
+        "source": "Qal perfect 1cs of natan; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֤לֶף",
+        "phrase": "a thousand",
+        "literal": "thousand",
+        "source": "Masculine noun construct; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "כֶּ֨סֶף֙",
+        "phrase": "pieces of silver",
+        "literal": "silver",
+        "source": "Masculine noun; KJV, NASB, ESV, NIV (rendered as 'pieces of silver' or 'shekels')"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/אָחִ֔י/ךְ",
+        "phrase": "to your brother",
+        "literal": "to-brother-your",
+        "source": "Preposition le + masculine noun construct + 2ms possessive suffix; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "הִנֵּ֤ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "Interjection; KJV, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "הוּא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "3ms independent pronoun; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/ךְ֙",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "Preposition le + 2fs possessive suffix; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "כְּס֣וּת",
+        "phrase": "a covering",
+        "literal": "covering",
+        "source": "Feminine noun construct of kesut; KJV, NASB, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "עֵינַ֔יִם",
+        "phrase": "of eyes",
+        "literal": "eyes",
+        "source": "Feminine dual noun; KJV 'covering of the eyes'; NASB, ESV 'vindication'"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/כֹ֖ל",
+        "phrase": "to all",
+        "literal": "to-all",
+        "source": "Preposition le + masculine noun; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who/that",
+        "source": "Relative pronoun; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 15,
+        "surface": "אִתָּ֑/ךְ",
+        "phrase": "are with you",
+        "literal": "with-you",
+        "source": "Preposition et + 2fs possessive suffix; KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/אֵ֥ת",
+        "phrase": "and",
+        "literal": "and-[direct object marker]",
+        "source": "Conjunction vav + direct object marker et; KJV, NASB, ESV"
+      },
+      {
+        "position": 17,
+        "surface": "כֹּ֖ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "Masculine noun; KJV 'before all men', NASB, ESV 'before all'"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/נֹכָֽחַת",
+        "phrase": "you are vindicated",
+        "literal": "and-you-are-vindicated",
+        "source": "Conjunction vav + Niphal perfect 2fs of nakach; KJV 'thou art righted', NASB, ESV, NIV 'you are vindicated'"
+      }
+    ]
+  }
+]

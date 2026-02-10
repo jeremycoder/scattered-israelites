@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB; Verb, Qal, Consecutive Imperfect, 3ms (root אמר)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֔לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "father-of-the-king",
+        "source": "KJV, ESV, NASB; Proper noun"
+      },
+      {
+        "position": 3,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV, ESV, NASB; Interjection (root הנה)"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְצִ֖/י",
+        "phrase": "my land",
+        "literal": "land-my",
+        "source": "KJV, ESV, NASB; Noun fs construct + 1cs suffix (root ארץ)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/פָנֶ֑י/ךָ",
+        "phrase": "before you",
+        "literal": "to-before-you",
+        "source": "KJV, ESV, NASB; Preposition + noun mp construct + 2ms suffix (root פנה)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/טּ֥וֹב",
+        "phrase": "where it is good",
+        "literal": "in-the-good",
+        "source": "KJV, ESV, NASB; Preposition + article + adjective ms (root טוב)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/עֵינֶ֖י/ךָ",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "KJV, ESV, NASB; Preposition + noun fd construct + 2ms suffix (root עין)"
+      },
+      {
+        "position": 8,
+        "surface": "שֵֽׁב",
+        "phrase": "dwell",
+        "literal": "dwell",
+        "source": "KJV, ESV, NASB; Verb, Qal Imperative, 2ms (root ישב)"
+      }
+    ]
+  }
+]

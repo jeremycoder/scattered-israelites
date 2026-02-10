@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "ACC-marker",
+        "source": "Accusative particle marking the following noun as direct object"
+      },
+      {
+        "position": 2,
+        "surface": "ע֥וּץ",
+        "phrase": "Uz",
+        "literal": "Uz",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּכֹר֖וֹ",
+        "phrase": "his firstborn",
+        "literal": "in-first-born-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-ACC-marker",
+        "source": "Conjunction with accusative particle"
+      },
+      {
+        "position": 5,
+        "surface": "בּ֣וּז",
+        "phrase": "Buz",
+        "literal": "Buz",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "אָחִ֑יו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-ACC-marker",
+        "source": "Conjunction with accusative particle"
+      },
+      {
+        "position": 8,
+        "surface": "קְמוּאֵ֖ל",
+        "phrase": "Kemuel",
+        "literal": "Kemuel",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲבִ֥י",
+        "phrase": "the father of",
+        "literal": "father",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 10,
+        "surface": "אֲרָֽם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

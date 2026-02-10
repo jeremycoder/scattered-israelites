@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַבְרָהָ֖ם",
+        "phrase": "And Abraham",
+        "literal": "and-Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מְאַ֣ת",
+        "phrase": "a hundred",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/הִוָּ֣לֶד",
+        "phrase": "when...was born",
+        "literal": "in-be-born",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֖ת",
+        "phrase": "[object marker]",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle; untranslatable (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "יִצְחָ֥ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהִתְבָּרֲכוּ",
+        "phrase": "shall be blessed",
+        "literal": "and-they-shall-be-blessed",
+        "source": "KJV, ESV, NASB; Niphal future form of ברך (barak)"
+      },
+      {
+        "position": 2,
+        "surface": "בְזַרְעֲךָ",
+        "phrase": "in your seed",
+        "literal": "in-seed-your",
+        "source": "KJV, ESV, NASB; preposition ב + noun זרע (zera) + possessive suffix"
+      },
+      {
+        "position": 3,
+        "surface": "כֹּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB; construct form of כל (kol)"
+      },
+      {
+        "position": 4,
+        "surface": "גּוֹיֵי",
+        "phrase": "nations",
+        "literal": "nations-of",
+        "source": "KJV, ESV, NASB; construct plural of גוי (goy)"
+      },
+      {
+        "position": 5,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB; definite article ה + noun ארץ (eretz)"
+      },
+      {
+        "position": 6,
+        "surface": "עֵקֶב",
+        "phrase": "because",
+        "literal": "because-of",
+        "source": "KJV, ESV, NASB; preposition עקב (eqev) meaning 'on account of'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, ESV, NASB; relative pronoun אשר (asher)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁמַעְתָּ",
+        "phrase": "you have obeyed",
+        "literal": "you-heard",
+        "source": "KJV, ESV, NASB; Qal perfect second masculine singular of שמע (shama)"
+      },
+      {
+        "position": 9,
+        "surface": "בְקֹלִי",
+        "phrase": "to my voice",
+        "literal": "in-voice-my",
+        "source": "KJV, ESV, NASB; preposition ב + noun קול (qol) + possessive suffix"
+      }
+    ]
+  }
+]

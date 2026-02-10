@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ק֚וּמִי",
+        "phrase": "Arise",
+        "literal": "arise-2fs.imperative",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "שְׂאִ֣י",
+        "phrase": "lift up",
+        "literal": "lift-2fs.imperative",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct.object.marker",
+        "source": "Marks definite direct object"
+      },
+      {
+        "position": 4,
+        "surface": "הַנַּ֔עַר",
+        "phrase": "boy",
+        "literal": "the-boy",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "וְהַחֲזִ֥יקִי",
+        "phrase": "and hold",
+        "literal": "and-hold-2fs.imperative",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "by",
+        "literal": "direct.object.marker",
+        "source": "Marks definite direct object"
+      },
+      {
+        "position": 7,
+        "surface": "יָדֵ֖ךְ",
+        "phrase": "your hand",
+        "literal": "hand-2fs.possessive",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "בּ֑וֹ",
+        "phrase": "in him",
+        "literal": "in-3ms",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "Causal conjunction"
+      },
+      {
+        "position": 10,
+        "surface": "לְגוֹי",
+        "phrase": "into a nation",
+        "literal": "to-nation",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "גָּד֖וֹל",
+        "phrase": "great",
+        "literal": "great-ms",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשִׂימֶֽנּוּ",
+        "phrase": "I will make him",
+        "literal": "make-1cs-3ms.object",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

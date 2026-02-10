@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֤שָׁב",
+        "phrase": "So Abraham returned",
+        "literal": "and-returned",
+        "source": "KJV, NASB, ESV, YLT (Conj-w | V-Qal-ConsecImperf-3ms)"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָם֙",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, NASB, ESV, all translations (N-proper-ms)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, NASB, ESV (Prep)"
+      },
+      {
+        "position": 4,
+        "surface": "נְעָרָ֔י/ו",
+        "phrase": "his young men",
+        "literal": "his-young-men",
+        "source": "KJV, NASB, ESV, HCSB (N-mp + 3ms suff)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּקֻ֛מוּ",
+        "phrase": "and they arose",
+        "literal": "and-they-arose",
+        "source": "KJV, NASB, ESV (Conj-w | V-Qal-ConsecImperf-3mp)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּלְכ֥וּ",
+        "phrase": "and went",
+        "literal": "and-they-went",
+        "source": "KJV, NASB, ESV (Conj-w | V-Qal-ConsecImperf-3mp)"
+      },
+      {
+        "position": 7,
+        "surface": "יַחְדָּ֖ו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "KJV, NASB, ESV (Adv)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, NASB, ESV (Prep)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּאֵ֣ר",
+        "phrase": "Beersheba",
+        "literal": "in-well",
+        "source": "KJV, NASB, ESV (Prep | N-proper-fs)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁ֑בַע",
+        "phrase": "Sheba",
+        "literal": "seven-oath",
+        "source": "KJV, NASB, ESV (part of Beersheba)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "and dwelt",
+        "literal": "and-he-dwelt",
+        "source": "KJV, NASB, ESV (Conj-w | V-Qal-ConsecImperf-3ms)"
+      },
+      {
+        "position": 12,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, NASB, ESV (N-proper-ms)"
+      },
+      {
+        "position": 13,
+        "surface": "בִּ/בְאֵ֥ר",
+        "phrase": "at Beersheba",
+        "literal": "in-Beersheba",
+        "source": "KJV, NASB, ESV (Prep | N-proper-fs)"
+      },
+      {
+        "position": 14,
+        "surface": "שָֽׁבַע",
+        "phrase": "Sheba",
+        "literal": "seven-oath",
+        "source": "KJV, NASB, ESV (part of Beersheba)"
+      }
+    ]
+  }
+]

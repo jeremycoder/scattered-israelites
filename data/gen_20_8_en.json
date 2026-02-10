@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁכֵּ֨ם",
+        "phrase": "arose early",
+        "literal": "and-rose_early",
+        "source": "KJV, ESV, NASB (vayyashkem from shakam)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֜לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/בֹּ֗קֶר",
+        "phrase": "in the morning",
+        "literal": "in_the-morning",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּקְרָא֙",
+        "phrase": "called",
+        "literal": "and-called",
+        "source": "KJV, ESV, NASB (qara)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/כָל",
+        "phrase": "all",
+        "literal": "to-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עֲבָדָ֔י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "KJV, ESV, NASB ('ebed)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יְדַבֵּ֛ר",
+        "phrase": "told",
+        "literal": "and-spoke",
+        "source": "KJV, ESV, NASB (dabar)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative_marker",
+        "source": "standard Hebrew particle (not translated)"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/דְּבָרִ֥ים",
+        "phrase": "these things",
+        "literal": "the-words",
+        "source": "KJV, ESV, NASB (dabar)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/אָזְנֵי/הֶ֑ם",
+        "phrase": "in their hearing",
+        "literal": "in-ears-their",
+        "source": "KJV ('in their ears'), ESV, NASB, HCSB"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יִּֽירְא֥וּ",
+        "phrase": "were afraid",
+        "literal": "and-feared",
+        "source": "KJV, ESV, NASB (yare)"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/אֲנָשִׁ֖ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB ('enosh)"
+      },
+      {
+        "position": 15,
+        "surface": "מְאֹֽד",
+        "phrase": "greatly",
+        "literal": "greatly",
+        "source": "KJV ('sore'), ESV, NASB ('very much')"
+      }
+    ]
+  }
+]

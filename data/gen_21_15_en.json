@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּכְל֥וּ",
+        "phrase": "was gone",
+        "literal": "and-was-finished",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מַּ֖יִם",
+        "phrase": "the water",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "מִן",
+        "phrase": "in",
+        "literal": "from",
+        "source": "particle (KJV 'in', NET 'in')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/חֵ֑מֶת",
+        "phrase": "the skin",
+        "literal": "the-skin-bottle",
+        "source": "ESV, NASB, NET (KJV 'bottle')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תַּשְׁלֵ֣ךְ",
+        "phrase": "she cast",
+        "literal": "and-she-threw",
+        "source": "KJV, NASB; NET 'shoved', ESV 'put'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical marker (untranslated)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יֶּ֔לֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "תַּ֖חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "אַחַ֥ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שִּׂיחִֽם",
+        "phrase": "the shrubs",
+        "literal": "the-shrubs",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

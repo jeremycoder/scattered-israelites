@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַם",
+        "phrase": "And yet",
+        "literal": "and-also",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      },
+      {
+        "position": 2,
+        "surface": "אָמְנָ֗ה",
+        "phrase": "indeed",
+        "literal": "truly",
+        "source": "NASB, ESV, interlinear[4]"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחֹתִ֤/י",
+        "phrase": "my sister",
+        "literal": "sister-my",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 4,
+        "surface": "בַת",
+        "phrase": "the daughter",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ/י֙",
+        "phrase": "of my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 6,
+        "surface": "הִ֔וא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "interlinear[4], ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אַ֖ךְ",
+        "phrase": "but",
+        "literal": "but/however",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      },
+      {
+        "position": 9,
+        "surface": "בַת",
+        "phrase": "the daughter",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      },
+      {
+        "position": 10,
+        "surface": "אִמִּ֑/י",
+        "phrase": "of my mother",
+        "literal": "mother-my",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תְּהִי",
+        "phrase": "and she became",
+        "literal": "and-became",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      },
+      {
+        "position": 12,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "interlinear[4], context in KJV/ESV"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אִשָּֽׁה",
+        "phrase": "a wife",
+        "literal": "to-wife",
+        "source": "KJV, ESV, NASB, interlinear[4]"
+      }
+    ]
+  }
+]

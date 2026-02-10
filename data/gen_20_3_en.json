@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֧א",
+        "phrase": "came",
+        "literal": "and-came",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִימֶ֖לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/חֲל֣וֹם",
+        "phrase": "in a dream",
+        "literal": "in-the-dream",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/לָּ֑יְלָה",
+        "phrase": "by night",
+        "literal": "the-night",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "ל֗/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "preposition + pronoun; KJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "הִנְּ/ךָ֥",
+        "phrase": "Behold, you",
+        "literal": "behold-you",
+        "source": "particle + pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מֵת֙",
+        "phrase": "are a dead man",
+        "literal": "dead",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "because of",
+        "literal": "upon",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אִשָּׁ֣ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "relative pronoun; KJV, ESV"
+      },
+      {
+        "position": 14,
+        "surface": "לָקַ֔חְתָּ",
+        "phrase": "you have taken",
+        "literal": "you-have-taken",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/הִ֖וא",
+        "phrase": "for she",
+        "literal": "and-she",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "בְּעֻ֥לַת",
+        "phrase": "is married",
+        "literal": "owned",
+        "source": "KJV (man's wife), NASB (married); NET tn: owned by an owner"
+      },
+      {
+        "position": 17,
+        "surface": "בָּֽעַל",
+        "phrase": "to a husband",
+        "literal": "owner-husband",
+        "source": "KJV (man's wife), ESV (married woman), NASB"
+      }
+    ]
+  }
+]

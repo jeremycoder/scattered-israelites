@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֨רֶא",
+        "phrase": "saw",
+        "literal": "and-saw",
+        "source": "KJV, ESV, NASB (waw-consecutive Qal imperfect of ראה)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂרָ֜ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "בֶּן",
+        "phrase": "the son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָגָ֧ר",
+        "phrase": "of Hagar",
+        "literal": "Hagar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מִּצְרִ֛ית",
+        "phrase": "the Egyptian",
+        "literal": "the-Egyptian",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which/who",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 8,
+        "surface": "יָלְדָ֥ה",
+        "phrase": "she had borne",
+        "literal": "she-bore",
+        "source": "KJV, ESV, NASB (Qal perfect 3fs of ילד)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/אַבְרָהָ֖ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מְצַחֵֽק",
+        "phrase": "mocking",
+        "literal": "mocking/playing",
+        "source": "KJV, ESV, NASB (masculine singular participle of צחק); LXX 'playing'"
+      }
+    ]
+  }
+]

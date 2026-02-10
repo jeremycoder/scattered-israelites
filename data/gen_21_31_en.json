@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "Preposition indicating location or basis; standard in all translations"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּן",
+        "phrase": "therefore",
+        "literal": "thus-so",
+        "source": "Adverb; KJV 'Wherefore', ESV 'Therefore', NASB 'Therefore'"
+      },
+      {
+        "position": 3,
+        "surface": "קָרָא",
+        "phrase": "he called",
+        "literal": "call-3ms",
+        "source": "Qal perfect 3ms; all translations render as 'called' or 'named'"
+      },
+      {
+        "position": 4,
+        "surface": "לַמָּקוֹם",
+        "phrase": "to the place",
+        "literal": "to-the-place",
+        "source": "Preposition + definite article + noun; standard in all translations"
+      },
+      {
+        "position": 5,
+        "surface": "הַהוּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "Definite article + demonstrative pronoun; rendered as 'that' in KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּאֵר",
+        "phrase": "Beer",
+        "literal": "well",
+        "source": "Noun; Hebrew בְּאֵר (be'er) means 'well'; proper name component in Beersheba"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁבַע",
+        "phrase": "Sheba",
+        "literal": "seven-oath",
+        "source": "Noun; homonym in Hebrew—שָׁבַע (sheba) means both 'seven' and 'oath'; etymology connects to שׁבע (swear)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "Conjunction; standard causal particle in all translations"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "Adverb of place; consistent in all translations"
+      },
+      {
+        "position": 10,
+        "surface": "נִשְׁבְּעוּ",
+        "phrase": "they swore",
+        "literal": "swear-3mp",
+        "source": "Niphal perfect 3mp of שׁבע; KJV 'sware', ESV 'swore', NASB 'took an oath'"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁנֵיהֶם",
+        "phrase": "the two of them",
+        "literal": "two-their",
+        "source": "Dual noun + 3mp possessive suffix; rendered 'both of them' or 'the two of them' in all translations"
+      }
+    ]
+  }
+]

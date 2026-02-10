@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּצֵּ֣ב",
+        "phrase": "and set",
+        "literal": "and-he-set",
+        "source": "Conjunction waw + wayyiqtol form of natsab (to station, set); KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֗ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle; marks the direct object"
+      },
+      {
+        "position": 4,
+        "surface": "שֶׁ֛בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "Cardinal number; KJV, NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "כִּבְשֹׂ֥ת",
+        "phrase": "ewe lambs",
+        "literal": "ewe-lambs",
+        "source": "Feminine plural of kibsah (ewe lamb); KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "הַצֹּ֖אן",
+        "phrase": "of the flock",
+        "literal": "the-flock",
+        "source": "Definite article + tso'n (flock); KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "לְבַדְּהֶֽן",
+        "phrase": "by themselves",
+        "literal": "to-alone-them",
+        "source": "Preposition le + badad (alone) + feminine plural suffix; KJV, NASB, ESV"
+      }
+    ]
+  }
+]

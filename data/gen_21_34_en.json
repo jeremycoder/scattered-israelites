@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֧גָר",
+        "phrase": "sojourned",
+        "literal": "and-he-sojourned",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֛ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "פְּלִשְׁתִּ֖ים",
+        "phrase": "of the Philistines",
+        "literal": "Philistines",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "יָמִ֥ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "רַבִּֽים",
+        "phrase": "many",
+        "literal": "many",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

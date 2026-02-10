@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּטַּ֥ע",
+        "phrase": "and planted",
+        "literal": "and-he.planted",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶ֖שֶׁל",
+        "phrase": "tamarisk tree",
+        "literal": "tamarisk",
+        "source": "ESV, NASB, HCSB; KJV 'grove'"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/בְאֵ֣ר",
+        "phrase": "in Beersheba",
+        "literal": "in-well",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑בַע",
+        "phrase": "of seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB; part of place name Beersheba"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּ֨קְרָא",
+        "phrase": "and called",
+        "literal": "and-he.called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/שֵׁ֥ם",
+        "phrase": "on the name",
+        "literal": "in-name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֥ל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "עוֹלָֽם",
+        "phrase": "Everlasting",
+        "literal": "eternal-everlasting",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

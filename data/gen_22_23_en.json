@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְתוּאֵ֖ל",
+        "phrase": "and Bethuel",
+        "literal": "and-in_Bethuel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֣ד",
+        "phrase": "fathered",
+        "literal": "bore",
+        "source": "ESV (became the father of), NASB (became the father of), KJV (begat)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "רִבְקָ֑ה",
+        "phrase": "Rebekah",
+        "literal": "Rebekah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמֹנָ֥ה",
+        "phrase": "eight",
+        "literal": "eight",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֨לֶּה֙",
+        "phrase": "these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יָלְדָ֣ה",
+        "phrase": "bore",
+        "literal": "she_bore",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִלְכָּ֔ה",
+        "phrase": "Milcah",
+        "literal": "Milcah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/נָח֖וֹר",
+        "phrase": "to Nahor",
+        "literal": "to-Nahor",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֲחִ֥י",
+        "phrase": "brother",
+        "literal": "brother",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אַבְרָהָֽם",
+        "phrase": "of Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

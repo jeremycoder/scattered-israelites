@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 22,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֛א",
+        "phrase": "and called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB, Interlinear[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "מַלְאַ֥ךְ",
+        "phrase": "angel",
+        "literal": "messenger-angel",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׁנִ֖ית",
+        "phrase": "a second time",
+        "literal": "second",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "preposition (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שָּׁמָֽיִם",
+        "phrase": "heaven",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB[1][2]"
+      }
+    ]
+  }
+]

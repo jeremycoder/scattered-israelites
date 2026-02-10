@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסַּ֨ע",
+        "phrase": "journeyed",
+        "literal": "and-he-journeyed",
+        "source": "NLT: moved; NET: journeyed; KJV: departed (waw-consecutive niphal of נָסַע)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁ֤ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "NLT, NET, KJV, Chabad: from there"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָהָם֙",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name (all translations)"
+      },
+      {
+        "position": 4,
+        "surface": "אַ֣רְצָ/ה",
+        "phrase": "to the land",
+        "literal": "to-land",
+        "source": "NLT: south; NET: land of the Negev; Chabad: land of the south"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נֶּ֔גֶב",
+        "phrase": "of the Negev",
+        "literal": "the-Negev",
+        "source": "NET, Sefaria: Negev; NLT: Negev (southern desert region)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "settled",
+        "literal": "and-he-settled",
+        "source": "NET: settled; NLT: lived; Chabad: dwelt (waw-consecutive qal of יָשַׁב)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "preposition (NLT, NET, Chabad: between)"
+      },
+      {
+        "position": 8,
+        "surface": "קָדֵ֖שׁ",
+        "phrase": "Kadesh",
+        "literal": "Kadesh",
+        "source": "proper name (NLT, NET, Chabad)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "NLT, NET, Chabad: and between"
+      },
+      {
+        "position": 10,
+        "surface": "שׁ֑וּר",
+        "phrase": "Shur",
+        "literal": "Shur",
+        "source": "proper name (NLT, NET, Chabad)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יָּ֖גָר",
+        "phrase": "sojourned",
+        "literal": "and-he-sojourned",
+        "source": "NET: sojourned; Chabad: sojourned; NLT: moved on (waw-consecutive qal of גּוּר)"
+      },
+      {
+        "position": 12,
+        "surface": "בִּ/גְרָֽר",
+        "phrase": "in Gerar",
+        "literal": "in-Gerar",
+        "source": "NLT, NET, Chabad, KJV: in Gerar"
+      }
+    ]
+  }
+]

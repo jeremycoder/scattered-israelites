@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 20,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֞י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁ֧ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הִתְע֣וּ",
+        "phrase": "caused me to wander",
+        "literal": "they-made-err",
+        "source": "ESV, NASB, NET (plural verb)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹתִ֗/י",
+        "phrase": "me",
+        "literal": "obj-me",
+        "source": "standard object marker + pronoun"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהִים֮",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/בֵּ֣ית",
+        "phrase": "from the house",
+        "literal": "from-house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אָבִ/י֒",
+        "phrase": "of my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/אֹמַ֣ר",
+        "phrase": "I said",
+        "literal": "and-I-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לָ֔/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "זֶ֣ה",
+        "phrase": "This",
+        "literal": "this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "חַסְדֵּ֔/ךְ",
+        "phrase": "is your kindness",
+        "literal": "loyalty-your",
+        "source": "ESV (kindness), NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "that",
+        "source": "relative particle"
+      },
+      {
+        "position": 13,
+        "surface": "תַּעֲשִׂ֖י",
+        "phrase": "you shall do",
+        "literal": "you-do",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "עִמָּדִ֑/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֶ֤ל",
+        "phrase": "at",
+        "literal": "to",
+        "source": "directional preposition"
+      },
+      {
+        "position": 16,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/מָּקוֹם֙",
+        "phrase": "place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "to which",
+        "literal": "that",
+        "source": "relative particle"
+      },
+      {
+        "position": 19,
+        "surface": "נָב֣וֹא",
+        "phrase": "we come",
+        "literal": "we-come",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "שָׁ֔מָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "אִמְרִי",
+        "phrase": "say",
+        "literal": "say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "לִ֖/י",
+        "phrase": "of me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 23,
+        "surface": "אָחִ֥/י",
+        "phrase": "my brother",
+        "literal": "brother-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 24,
+        "surface": "הֽוּא",
+        "phrase": "he is",
+        "literal": "he",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

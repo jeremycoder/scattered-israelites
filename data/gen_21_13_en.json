@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְגַם",
+        "phrase": "And also",
+        "literal": "and-also",
+        "source": "Conjunction waw + adverb gam; all major translations"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the (direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle; ESV, NASB, NIV, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "Masculine singular noun; all major translations"
+      },
+      {
+        "position": 4,
+        "surface": "הָאָמָה",
+        "phrase": "of the slave woman",
+        "literal": "the-slave-woman",
+        "source": "Definite article + feminine singular noun; ESV, NASB, NIV, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "לְגוֹי",
+        "phrase": "into a nation",
+        "literal": "to-nation",
+        "source": "Preposition le + masculine singular noun; all major translations"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשִׂימֶנּוּ",
+        "phrase": "I will make",
+        "literal": "I-will-make-him",
+        "source": "First person singular imperfect qal + third masculine singular object pronoun; ESV, NASB, NIV, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "Causal conjunction; all major translations"
+      },
+      {
+        "position": 8,
+        "surface": "זַרְעֲךָ",
+        "phrase": "your seed/offspring",
+        "literal": "seed-your",
+        "source": "Masculine singular noun + second masculine singular possessive suffix; ESV, NASB, NIV, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "הוּא",
+        "phrase": "he is",
+        "literal": "he",
+        "source": "Third masculine singular independent pronoun; all major translations"
+      }
+    ]
+  }
+]

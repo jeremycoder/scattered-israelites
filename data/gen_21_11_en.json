@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֵּ֧רַע",
+        "phrase": "was very displeasing",
+        "literal": "and-was-grievous",
+        "source": "KJV, NASB, ESV; Hebrew verb רָעַע (raʿaʿ) meaning 'to be broken up' or 'to be evil/grievous'"
+      },
+      {
+        "position": 2,
+        "surface": "הַדָּבָ֛ר",
+        "phrase": "the matter",
+        "literal": "the-matter",
+        "source": "KJV, NASB, ESV; Hebrew noun דָּבָר (davar) meaning 'word, matter, thing'"
+      },
+      {
+        "position": 3,
+        "surface": "מְאֹ֖ד",
+        "phrase": "greatly",
+        "literal": "very-much",
+        "source": "KJV, NASB, ESV; Hebrew adverb מְאֹד (meod) meaning 'vehemence, very, greatly'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּעֵינֵ֣י",
+        "phrase": "in the sight of",
+        "literal": "in-eyes-of",
+        "source": "KJV, NASB, ESV; preposition בְּ (be) + noun עַיִן (ayin) 'eye' in construct plural"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, NASB, ESV; proper noun אַבְרָהָם (Abraham)"
+      },
+      {
+        "position": 6,
+        "surface": "עַ֖ל",
+        "phrase": "because of",
+        "literal": "upon",
+        "source": "KJV, NASB, ESV; Hebrew preposition עַל (al) meaning 'upon, on account of, because of'"
+      },
+      {
+        "position": 7,
+        "surface": "אוֹדֹ֥ת",
+        "phrase": "the cause of",
+        "literal": "cause-of",
+        "source": "KJV, NASB, ESV; Hebrew noun אוֹדוֹת (odot) meaning 'turnings, occasions, causes'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנֽוֹ",
+        "phrase": "his son",
+        "literal": "his-son",
+        "source": "KJV, NASB, ESV; preposition בְּ (be) + noun בֵּן (ben) 'son' + possessive suffix וֹ (o) 'his'"
+      }
+    ]
+  }
+]

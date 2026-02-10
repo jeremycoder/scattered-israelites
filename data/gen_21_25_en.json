@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 21,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הוֹכִ֥חַ",
+        "phrase": "reproved",
+        "literal": "and-reprove",
+        "source": "KJV, ESV, NASB, NET (argue/dispute)"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name (all translations)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle (NET, standard grammar)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִימֶ֑לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "Proper name (all translations)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "concerning",
+        "literal": "concerning",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֹדוֹת֙",
+        "phrase": "the matter of",
+        "literal": "on-account-of",
+        "source": "NET (concerning the matter)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּאֵ֣ר",
+        "phrase": "a well",
+        "literal": "well",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מַּ֔יִם",
+        "phrase": "of water",
+        "literal": "the-water",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "Relative pronoun (all translations)"
+      },
+      {
+        "position": 10,
+        "surface": "גָּזְל֖וּ",
+        "phrase": "had seized",
+        "literal": "they-seized",
+        "source": "NET (steal/rob), KJV (violently taken)"
+      },
+      {
+        "position": 11,
+        "surface": "עַבְדֵ֥י",
+        "phrase": "servants",
+        "literal": "servants",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֲבִימֶֽלֶךְ",
+        "phrase": "of Abimelech",
+        "literal": "of-Abimelech",
+        "source": "Proper name (all translations)"
+      }
+    ]
+  }
+]
