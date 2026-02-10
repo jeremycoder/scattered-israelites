@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲבִי/כֶן֙",
+        "phrase": "your father",
+        "literal": "and-father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הֵ֣תֶל",
+        "phrase": "has cheated",
+        "literal": "he-deceived",
+        "source": "ESV ('cheated'), NASB ('deceived'), KJV ('deceived')"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ֔/י",
+        "phrase": "me",
+        "literal": "in-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הֶחֱלִ֥ף",
+        "phrase": "and changed",
+        "literal": "and-he-changed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "מַשְׂכֻּרְתִּ֖/י",
+        "phrase": "my wages",
+        "literal": "wages-my",
+        "source": "KJV ('wages'), ESV ('wages'), NASB ('wages')"
+      },
+      {
+        "position": 7,
+        "surface": "עֲשֶׂ֣רֶת",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מֹנִ֑ים",
+        "phrase": "times",
+        "literal": "times",
+        "source": "KJV, ESV, NASB (idiom for 'times')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לֹֽא",
+        "phrase": "but not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "נְתָנ֣/וֹ",
+        "phrase": "did he allow",
+        "literal": "he-gave-him",
+        "source": "KJV ('suffer'), ESV ('allow'), NASB ('permit')"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/הָרַ֖ע",
+        "phrase": "to harm",
+        "literal": "to-do-evil",
+        "source": "KJV ('hurt'), ESV ('harm'), NASB ('harm')"
+      },
+      {
+        "position": 13,
+        "surface": "עִמָּדִֽ/י",
+        "phrase": "me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

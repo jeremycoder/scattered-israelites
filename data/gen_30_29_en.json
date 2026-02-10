@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to_him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַתָּ֣ה",
+        "phrase": "you",
+        "literal": "you_(sg.)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָדַ֔עְתָּ",
+        "phrase": "know",
+        "literal": "you_know_(perf.)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct_object_marker]",
+        "source": "standard Hebrew grammar note"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "how",
+        "literal": "that-which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עֲבַדְתִּ֑י/ךָ",
+        "phrase": "I have served you",
+        "literal": "I_served_you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֵ֛ת",
+        "phrase": "and",
+        "literal": "and-[direct_object_marker]",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁר",
+        "phrase": "how",
+        "literal": "that-which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הָיָ֥ה",
+        "phrase": "has been",
+        "literal": "was_(perf.)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִקְנְ/ךָ֖",
+        "phrase": "your livestock",
+        "literal": "your_livestock",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אִתִּֽ/י",
+        "phrase": "with me",
+        "literal": "with_me",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

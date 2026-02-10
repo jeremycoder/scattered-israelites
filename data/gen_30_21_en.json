@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַחַ֖ר",
+        "phrase": "afterward",
+        "literal": "and-after",
+        "source": "KJV, ESV, NASB (conjunction + adverb 'after)'"
+      },
+      {
+        "position": 2,
+        "surface": "יָ֣לְדָה",
+        "phrase": "she bore",
+        "literal": "she-gave-birth",
+        "source": "KJV ('bare'), ESV ('bore'), NASB ('gave birth')"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ֑ת",
+        "phrase": "a daughter",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תִּקְרָ֥א",
+        "phrase": "and she called",
+        "literal": "and-she-called",
+        "source": "KJV ('called'), ESV ('named'), NASB ('named')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew particle; omitted in English (ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁמָ֖/הּ",
+        "phrase": "her name",
+        "literal": "name-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "דִּינָֽה",
+        "phrase": "Dinah",
+        "literal": "Dinah-judgment",
+        "source": "KJV, ESV, NASB; means 'judgment' [1][4]"
+      }
+    ]
+  }
+]

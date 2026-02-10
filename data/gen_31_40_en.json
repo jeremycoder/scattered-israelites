@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָיִ֧יתִי",
+        "phrase": "I was",
+        "literal": "be-PERFECT-1sg",
+        "source": "KJV, ESV, NASB, Chabad[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "בַ/יּ֛וֹם",
+        "phrase": "in the day",
+        "literal": "in+the-day",
+        "source": "KJV, ESV, NASB[1][2][5]"
+      },
+      {
+        "position": 3,
+        "surface": "אֲכָלַ֥/נִי",
+        "phrase": "consumed me",
+        "literal": "eat-PERFECT-3ms-me",
+        "source": "KJV (drought consumed me), ESV (heat consumed me), NASB[1][2][5]"
+      },
+      {
+        "position": 4,
+        "surface": "חֹ֖רֶב",
+        "phrase": "the heat",
+        "literal": "heat/drought",
+        "source": "ESV, NASB, Chabad (heat); KJV (drought)[1][2][5]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/קֶ֣רַח",
+        "phrase": "and the frost",
+        "literal": "and-frost",
+        "source": "KJV, NASB, Chabad[1][2][5]"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/לָּ֑יְלָה",
+        "phrase": "in the night",
+        "literal": "in+the-night",
+        "source": "KJV, ESV, NASB[1][2][5]"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תִּדַּ֥ד",
+        "phrase": "departed",
+        "literal": "and-depart/drive.away-IMPERFECT-3fs",
+        "source": "KJV (departed), ESV (fled), NASB (fled)[1][2][5]"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁנָתִ֖/י",
+        "phrase": "my sleep",
+        "literal": "sleep-my",
+        "source": "KJV, ESV, NASB, Chabad[1][2][5]"
+      },
+      {
+        "position": 9,
+        "surface": "מֵֽ/עֵינָֽ/י",
+        "phrase": "from my eyes",
+        "literal": "from-eyes-my",
+        "source": "KJV, ESV, NASB, Chabad[1][2][5]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּה֙",
+        "phrase": "And now",
+        "literal": "and-now",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "הָלֹ֣ךְ",
+        "phrase": "you have gone",
+        "literal": "going",
+        "source": "emphatic infinitive; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָלַ֔כְתָּ",
+        "phrase": "away",
+        "literal": "you-have-gone",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "נִכְסֹ֥ף",
+        "phrase": "you longed",
+        "literal": "longing",
+        "source": "emphatic infinitive; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "נִכְסַ֖פְתָּה",
+        "phrase": "greatly",
+        "literal": "it-was-longed-for-you",
+        "source": "KJV (sore longed), ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/בֵ֣ית",
+        "phrase": "for the house",
+        "literal": "to-house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִ֑י/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לָ֥/מָּה",
+        "phrase": "why",
+        "literal": "to-what",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "גָנַ֖בְתָּ",
+        "phrase": "have you stolen",
+        "literal": "you-have-stolen",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard object marker; not translated"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהָֽ/י",
+        "phrase": "my gods",
+        "literal": "gods-my",
+        "source": "KJV, ESV, NASB (household idols/teraphim)"
+      }
+    ]
+  }
+]

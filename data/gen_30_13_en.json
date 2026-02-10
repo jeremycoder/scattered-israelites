@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-she_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לֵאָ֔ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אָשְׁרִ֕/י",
+        "phrase": "happy am I",
+        "literal": "in-happiness_of_me",
+        "source": "ESV, NASB; lit. 'in my happiness' (KJV 'Happy am I')"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (conjunction)"
+      },
+      {
+        "position": 5,
+        "surface": "אִשְּׁר֖וּ/נִי",
+        "phrase": "women will call me blessed",
+        "literal": "they_call_happy_me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בָּנ֑וֹת",
+        "phrase": "women",
+        "literal": "daughters",
+        "source": "KJV, ESV, NASB (contextual: women)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תִּקְרָ֥א",
+        "phrase": "and she called",
+        "literal": "and-she_called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אָשֵֽׁר",
+        "phrase": "Asher",
+        "literal": "Asher",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

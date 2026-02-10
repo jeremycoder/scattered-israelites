@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB (preposition l- + 3mp pronoun suffix)"
+      },
+      {
+        "position": 3,
+        "surface": "יעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB (proper name Ya'aqov)"
+      },
+      {
+        "position": 4,
+        "surface": "אַחַ֖/י",
+        "phrase": "my brothers",
+        "literal": "brothers-my",
+        "source": "KJV (brethren), ESV (brothers), NASB (brothers); greeting term [1]"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/אַ֣יִן",
+        "phrase": "from where",
+        "literal": "from-where",
+        "source": "KJV (whence), ESV (where), NASB (where), LIT (from where) [4]"
+      },
+      {
+        "position": 6,
+        "surface": "אַתֶּ֑ם",
+        "phrase": "are you",
+        "literal": "you-PL",
+        "source": "KJV, ESV, NASB (2mp pronoun); implied verb 'are' [5]"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֣אמְר֔וּ",
+        "phrase": "and they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect 3mp of amar)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/חָרָ֖ן",
+        "phrase": "from Haran",
+        "literal": "from-Haran",
+        "source": "KJV, ESV, NASB, LIT (Haran, city name with preposition min-) [2]"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנָֽחְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "KJV, ESV, NASB (1mp pronoun)"
+      }
+    ]
+  }
+]

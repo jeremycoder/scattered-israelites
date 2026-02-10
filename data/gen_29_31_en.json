@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤רְא",
+        "phrase": "saw",
+        "literal": "and-he_saw",
+        "source": "KJV, ESV, NASB ('when the LORD saw')"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "KJV, ESV, NASB (conjunction introducing clause)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׂנוּאָ֣ה",
+        "phrase": "was hated",
+        "literal": "hated-FEM_SING_PASS_PART",
+        "source": "KJV, ESV; NASB 'unloved'"
+      },
+      {
+        "position": 5,
+        "surface": "לֵאָ֔ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּפְתַּ֖ח",
+        "phrase": "he opened",
+        "literal": "and-he_opened",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; not translated; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "רַחְמָ֑/הּ",
+        "phrase": "her womb",
+        "literal": "womb-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/רָחֵ֖ל",
+        "phrase": "but Rachel",
+        "literal": "and-Rachel",
+        "source": "KJV, ESV, NASB (contrastive conjunction)"
+      },
+      {
+        "position": 10,
+        "surface": "עֲקָרָֽה",
+        "phrase": "was barren",
+        "literal": "barren-FEM_SING",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "KJV, ESV, NIV, NASB (conditional particle)"
+      },
+      {
+        "position": 2,
+        "surface": "תְּעַנֶּ֣ה",
+        "phrase": "you mistreat",
+        "literal": "you-afflict",
+        "source": "ESV (mistreat), KJV (afflict), NIV (mistreat), NASB (mistreat)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew grammar (accusative marker); KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֹתַ֗/י",
+        "phrase": "my daughters",
+        "literal": "daughters-my",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אִם",
+        "phrase": "or if",
+        "literal": "and-if",
+        "source": "KJV, ESV, NIV, NASB (coordinating conditional)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּקַּ֤ח",
+        "phrase": "you take",
+        "literal": "you-take",
+        "source": "ESV (take), KJV (take), NIV (take), NASB (take)"
+      },
+      {
+        "position": 7,
+        "surface": "נָשִׁים֙",
+        "phrase": "wives",
+        "literal": "women",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "besides",
+        "literal": "upon",
+        "source": "KJV (beside), ESV (besides), NIV (besides), NASB (besides)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֹתַ֔/י",
+        "phrase": "my daughters",
+        "literal": "daughters-my",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֵ֥ין",
+        "phrase": "no",
+        "literal": "not-is",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אִ֖ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עִמָּ֑/נוּ",
+        "phrase": "is with us",
+        "literal": "with-us",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "רְאֵ֕ה",
+        "phrase": "see",
+        "literal": "see",
+        "source": "KJV (behold), ESV (see), NIV (see), NASB (behold)"
+      },
+      {
+        "position": 14,
+        "surface": "אֱלֹהִ֥ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "עֵ֖ד",
+        "phrase": "witness",
+        "literal": "witness",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "בֵּינִ֥/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/בֵינֶֽ/ךָ",
+        "phrase": "and between you",
+        "literal": "and-between-you",
+        "source": "KJV, ESV, NIV, NASB"
+      }
+    ]
+  }
+]

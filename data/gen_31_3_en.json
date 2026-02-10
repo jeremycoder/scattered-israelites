@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "שׁ֛וּב",
+        "phrase": "Return",
+        "literal": "return",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבוֹתֶ֖י/ךָ",
+        "phrase": "of your fathers",
+        "literal": "fathers-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/לְ/מוֹלַדְתֶּ֑/ךָ",
+        "phrase": "and to your birthplace",
+        "literal": "and-to-birthplace-your",
+        "source": "Chabad; lit. 'place of birth' (ESV 'kindred')"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶֽהְיֶ֖ה",
+        "phrase": "and I will be",
+        "literal": "and-I_will_be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עִמָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

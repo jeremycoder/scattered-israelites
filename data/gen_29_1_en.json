@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשָּׂ֥א",
+        "phrase": "Then he lifted up",
+        "literal": "and-he_lifted_up",
+        "source": "KJV, NKJV, ESV, NASB; idiomatic for 'went on his journey' (lit. 'lifted up his feet')"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, NKJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "רַגְלָ֑י/ו",
+        "phrase": "his feet",
+        "literal": "feet-his",
+        "source": "KJV, NKJV, ESV, NASB; part of idiom 'lifted up his feet'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּ֖לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he_went",
+        "source": "KJV, NKJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אַ֥רְצָ/ה",
+        "phrase": "to the land",
+        "literal": "to_land",
+        "source": "KJV, NKJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְנֵי",
+        "phrase": "of the sons of",
+        "literal": "sons_of",
+        "source": "KJV, NKJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "קֶֽדֶם",
+        "phrase": "the east",
+        "literal": "east",
+        "source": "KJV, NKJV, ESV, NASB"
+      }
+    ]
+  }
+]

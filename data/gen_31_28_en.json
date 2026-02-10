@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְלֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "Conjunction ו + negative particle לא"
+      },
+      {
+        "position": 2,
+        "surface": "נְטַשְׁתַּנִי",
+        "phrase": "you allowed me",
+        "literal": "you-abandoned-me",
+        "source": "KJV, ESV, JPS; root נטש (to leave, allow)"
+      },
+      {
+        "position": 3,
+        "surface": "לְנַשֵּׁק",
+        "phrase": "to kiss",
+        "literal": "to-kiss",
+        "source": "KJV, ESV, JPS; infinitive construct of נשק"
+      },
+      {
+        "position": 4,
+        "surface": "לְבָנַי",
+        "phrase": "my sons",
+        "literal": "to-my-sons",
+        "source": "KJV, ESV, JPS; preposition ל + noun בנים with possessive suffix"
+      },
+      {
+        "position": 5,
+        "surface": "וְלִבְנֹתַי",
+        "phrase": "and my daughters",
+        "literal": "and-to-my-daughters",
+        "source": "KJV, ESV, JPS; conjunction ו + preposition ל + noun בנות with possessive suffix"
+      },
+      {
+        "position": 6,
+        "surface": "עַתָּה",
+        "phrase": "now",
+        "literal": "now",
+        "source": "KJV, ESV, JPS; temporal adverb"
+      },
+      {
+        "position": 7,
+        "surface": "הִסְכַּלְתָּ",
+        "phrase": "you have acted foolishly",
+        "literal": "you-have-acted-foolishly",
+        "source": "KJV, ESV, JPS; root סכל (to be foolish), hiphil perfect second person masculine singular"
+      },
+      {
+        "position": 8,
+        "surface": "עֲשׂוֹ",
+        "phrase": "doing",
+        "literal": "doing",
+        "source": "KJV, ESV, JPS; infinitive absolute of עשה (to do), emphatic particle"
+      }
+    ]
+  }
+]

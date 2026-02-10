@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֵינֵ֥י",
+        "phrase": "and Leah's eyes",
+        "literal": "and-eyes",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לֵאָ֖ה",
+        "phrase": "Leah's",
+        "literal": "Leah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "רַכּ֑וֹת",
+        "phrase": "were tender",
+        "literal": "tender-weak",
+        "source": "KJV (tender eyed), NASB (weak), ESV (weak)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/רָחֵל֙",
+        "phrase": "but Rachel",
+        "literal": "and-but Rachel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽיְתָ֔ה",
+        "phrase": "was",
+        "literal": "she-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "יְפַת",
+        "phrase": "beautiful",
+        "literal": "beautiful",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "תֹּ֖אַר",
+        "phrase": "in form",
+        "literal": "form-figure",
+        "source": "NASB (form), ESV (figure), KJV (well favoured)"
+      },
+      {
+        "position": 8,
+        "surface": "וִ/יפַ֥ת",
+        "phrase": "and beautiful",
+        "literal": "and-beautiful",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מַרְאֶֽה",
+        "phrase": "in appearance",
+        "literal": "appearance",
+        "source": "NASB (face), ESV (appearance), KJV (well favoured)"
+      }
+    ]
+  }
+]

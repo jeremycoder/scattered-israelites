@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 2,
+        "surface": "לָבָן֙",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "All translations; proper noun"
+      },
+      {
+        "position": 3,
+        "surface": "לְיַעֲקֹ֔ב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֣ה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "KJV, ESV, NASB, BSB; interrogative pronoun"
+      },
+      {
+        "position": 5,
+        "surface": "עָשִׂ֔יתָ",
+        "phrase": "have you done",
+        "literal": "you-have-done",
+        "source": "KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 6,
+        "surface": "וַתִּגְנֹ֖ב",
+        "phrase": "and you have deceived/stolen away",
+        "literal": "and-you-have-stolen",
+        "source": "KJV (stolen away), NASB (deceiving), ESV (tricked)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "direct-object-marker",
+        "source": "Grammatical particle; marks definite object"
+      },
+      {
+        "position": 8,
+        "surface": "לְבָבִי",
+        "phrase": "my heart/mind",
+        "literal": "my-heart",
+        "source": "KJV (unawares to me), NASB (deceiving me), ESV (tricked me)"
+      },
+      {
+        "position": 9,
+        "surface": "וַתְּנַהֵג֙",
+        "phrase": "and carried away",
+        "literal": "and-you-have-driven/led-away",
+        "source": "KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "direct-object-marker",
+        "source": "Grammatical particle; marks definite object"
+      },
+      {
+        "position": 11,
+        "surface": "בְנֹתַי",
+        "phrase": "my daughters",
+        "literal": "my-daughters",
+        "source": "KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 12,
+        "surface": "כִשְׁבֻיוֹת",
+        "phrase": "like captives",
+        "literal": "like-captives",
+        "source": "KJV (captives taken), ESV, NASB, BSB (captives of war/prisoners of war)"
+      },
+      {
+        "position": 13,
+        "surface": "חָֽרֶב",
+        "phrase": "of the sword",
+        "literal": "sword",
+        "source": "KJV, ESV, NASB, BSB; construct phrase with preceding noun"
+      }
+    ]
+  }
+]

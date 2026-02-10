@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּקְרָ֧א",
+        "phrase": "and she called",
+        "literal": "and-she_called",
+        "source": "KJV, ESV, NASB, Strong's 7121"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "standard Hebrew grammar note"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמ֛/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, Strong's 3130"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB, Strong's 559"
+      },
+      {
+        "position": 6,
+        "surface": "יֹסֵ֧ף",
+        "phrase": "may He add",
+        "literal": "may_he_add",
+        "source": "ESV, NASB, Strong's 3254"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֛ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, Strong's 3068"
+      },
+      {
+        "position": 8,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to_me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֥ן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַחֵֽר",
+        "phrase": "another",
+        "literal": "another",
+        "source": "KJV, ESV, NASB, Strong's 312"
+      }
+    ]
+  }
+]

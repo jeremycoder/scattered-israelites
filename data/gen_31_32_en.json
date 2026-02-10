@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עִ֠ם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "whom",
+        "literal": "which/who-REL",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "תִּמְצָ֣א",
+        "phrase": "you find",
+        "literal": "you-find",
+        "source": "KJV, ESV, NASB (Qal imperfect 2ms)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "ACC",
+        "source": "standard particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֶי/ךָ֮",
+        "phrase": "your gods",
+        "literal": "gods-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negation)"
+      },
+      {
+        "position": 7,
+        "surface": "יִֽחְיֶה֒",
+        "phrase": "shall live",
+        "literal": "he-will-live",
+        "source": "KJV, ESV, NASB (Qal imperfect 3ms)"
+      },
+      {
+        "position": 8,
+        "surface": "נֶ֣גֶד",
+        "phrase": "before/in the presence of",
+        "literal": "before/opposite",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 9,
+        "surface": "אַחֵ֧י/נוּ",
+        "phrase": "our brothers",
+        "literal": "brothers-our",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַֽכֶּר",
+        "phrase": "recognize",
+        "literal": "recognize!",
+        "source": "KJV ('discern'), ESV ('identify'), NASB ('identify') (Qal imperative ms)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/ךָ֛",
+        "phrase": "for yourself",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB (preposition + 2ms suffix)"
+      },
+      {
+        "position": 12,
+        "surface": "מָ֥ה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "KJV, ESV, NASB (interrogative)"
+      },
+      {
+        "position": 13,
+        "surface": "עִמָּדִ֖/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB (preposition + 1cs suffix)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/קַֽח",
+        "phrase": "and take",
+        "literal": "and-take!",
+        "source": "KJV, ESV, NASB (Qal imperative ms)"
+      },
+      {
+        "position": 15,
+        "surface": "לָ֑/ךְ",
+        "phrase": "for yourself",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB (preposition + 2ms suffix)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/לֹֽא",
+        "phrase": "for",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB (contrastive conjunction + negation)"
+      },
+      {
+        "position": 17,
+        "surface": "יָדַ֣ע",
+        "phrase": "did know",
+        "literal": "he-knew",
+        "source": "KJV, ESV, NASB (Qal perfect 3ms)"
+      },
+      {
+        "position": 18,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 19,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 20,
+        "surface": "רָחֵ֖ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 21,
+        "surface": "גְּנָבָֽתַ/ם",
+        "phrase": "had stolen them",
+        "literal": "she-stole-them",
+        "source": "KJV, ESV, NASB (Qal perfect 3fs + 3mp suffix)"
+      }
+    ]
+  }
+]

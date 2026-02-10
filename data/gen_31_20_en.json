@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְנֹ֣ב",
+        "phrase": "deceived",
+        "literal": "and-stole",
+        "source": "KJV (deceived), ESV (deceived), NASB (deceived); idiomatic 'stole heart' [1]"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; all translations (Jacob)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker; not translated (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ֥ב",
+        "phrase": "heart",
+        "literal": "heart",
+        "source": "idiomatic with גנב 'stole heart' = deceived/outwitted (ESV, KJV); [1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "לָבָ֖ן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "proper name; all translations (Laban)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֲרַמִּ֑י",
+        "phrase": "the Aramean",
+        "literal": "the-Aramean",
+        "source": "KJV (Syrian), ESV (Aramean), NASB (Aramean)"
+      },
+      {
+        "position": 7,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "KJV (by), ESV (by); preposition indicating means [3]"
+      },
+      {
+        "position": 8,
+        "surface": "בְּלִי֙",
+        "phrase": "not",
+        "literal": "without",
+        "source": "KJV (not), ESV (not), NASB (not)"
+      },
+      {
+        "position": 9,
+        "surface": "הִגִּ֣יד",
+        "phrase": "telling",
+        "literal": "he-declared",
+        "source": "KJV (telling), ESV (telling), NASB (telling)"
+      },
+      {
+        "position": 10,
+        "surface": "ל֔/וֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "KJV (him), ESV (him), NASB (him)"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV (that), ESV (that), NASB (that)"
+      },
+      {
+        "position": 12,
+        "surface": "בֹרֵ֖חַ",
+        "phrase": "he was fleeing",
+        "literal": "fleeing",
+        "source": "KJV (fleeing), ESV (fleeing), NASB (fleeing)"
+      },
+      {
+        "position": 13,
+        "surface": "הֽוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "emphatic pronoun; KJV (he), ESV (he), NASB (he)"
+      }
+    ]
+  }
+]

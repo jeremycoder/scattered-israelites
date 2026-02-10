@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֗לֶד",
+        "phrase": "and she bore",
+        "literal": "and-she_gave_birth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "זִלְפָּה֙",
+        "phrase": "Zilpah",
+        "literal": "Zilpah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁפְחַ֣ת",
+        "phrase": "servant of",
+        "literal": "maid-servant",
+        "source": "KJV ('maid'), ESV ('servant'), NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לֵאָ֔ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֥ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׁנִ֖י",
+        "phrase": "second",
+        "literal": "second",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/יַעֲקֹֽב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

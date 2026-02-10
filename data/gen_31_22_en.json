@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֻּגַּד",
+        "phrase": "it was told",
+        "literal": "and-it.was.told",
+        "source": "KJV, ESV, NASB, HCSB; Niphal passive perfect with vav-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "לְלָבָן",
+        "phrase": "to Laban",
+        "literal": "to-Laban",
+        "source": "KJV, ESV, NASB, HCSB; preposition לְ + proper noun"
+      },
+      {
+        "position": 3,
+        "surface": "בַּיּוֹם",
+        "phrase": "on the day",
+        "literal": "in.the-day",
+        "source": "KJV, ESV, NASB, HCSB; preposition בְ + definite article + noun"
+      },
+      {
+        "position": 4,
+        "surface": "הַשְּׁלִישִׁי",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "KJV, ESV, NASB, HCSB; definite article + ordinal adjective"
+      },
+      {
+        "position": 5,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB, HCSB; subordinating conjunction introducing reported speech"
+      },
+      {
+        "position": 6,
+        "surface": "בָרַח",
+        "phrase": "had fled",
+        "literal": "he.fled",
+        "source": "KJV, ESV, NASB, HCSB; Qal perfect 3ms of בָרַח"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, HCSB; proper noun"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "and did",
+        "literal": "and-he_did",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֔ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "KJV, ESV, NASB (adverbial particle)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יְמַלֵּ֖א",
+        "phrase": "and completed",
+        "literal": "and-he_fulfilled",
+        "source": "KJV (fulfilled), ESV/NASB (completed)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁבֻ֣עַ",
+        "phrase": "week",
+        "literal": "week",
+        "source": "KJV, ESV, NASB (bridal week)"
+      },
+      {
+        "position": 6,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this_(fem)",
+        "source": "ESV (her), YLT (this one), LEB (this [one])"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֶּן",
+        "phrase": "and gave",
+        "literal": "and-he_gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "ל֛/וֹ",
+        "phrase": "him",
+        "literal": "to_him",
+        "source": "KJV, ESV, NASB (dative marker)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct_object_marker]",
+        "source": "Standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 10,
+        "surface": "רָחֵ֥ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בִּתּ֖/וֹ",
+        "phrase": "his daughter",
+        "literal": "daughter_his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "ל֥/וֹ",
+        "phrase": "his",
+        "literal": "to_him",
+        "source": "KJV, ESV, NASB (dative marker)"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אִשָּֽׁה",
+        "phrase": "as wife",
+        "literal": "to_wife",
+        "source": "KJV (to wife), ESV/NASB (as his wife)"
+      }
+    ]
+  }
+]

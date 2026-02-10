@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יְדַעְתֶּ֖ם",
+        "phrase": "Do you know",
+        "literal": "?-you_know",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "standard Hebrew grammar; particle"
+      },
+      {
+        "position": 5,
+        "surface": "לָבָ֣ן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son",
+        "source": "KJV, ESV, NASB; note: can mean descendant[2]"
+      },
+      {
+        "position": 7,
+        "surface": "נָח֑וֹר",
+        "phrase": "Nahor",
+        "literal": "Nahor",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּאמְר֖וּ",
+        "phrase": "And they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "יָדָֽעְנוּ",
+        "phrase": "We know",
+        "literal": "we_know",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתִּתֶּן",
+        "phrase": "and she gave",
+        "literal": "and-she-gave",
+        "source": "KJV, ESV, ASV, NRSV, CJB"
+      },
+      {
+        "position": 2,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, ASV, NRSV, CJB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew grammar; untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "בִּלְהָה",
+        "phrase": "Bilhah",
+        "literal": "Bilhah",
+        "source": "KJV, ESV, ASV, NRSV, CJB; proper name"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁפְחָתָהּ",
+        "phrase": "her handmaid/servant",
+        "literal": "handmaid-her",
+        "source": "KJV, ASV, NRSV; ESV 'servant'; CJB 'slave-girl'"
+      },
+      {
+        "position": 6,
+        "surface": "לְאִשָּׁה",
+        "phrase": "as a wife",
+        "literal": "to-woman",
+        "source": "KJV, ESV, ASV, NRSV, CJB"
+      },
+      {
+        "position": 7,
+        "surface": "וַיָּבֹא",
+        "phrase": "and he went in",
+        "literal": "and-he-went-in",
+        "source": "KJV, ESV, ASV, NRSV, CJB"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלֶיהָ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, ASV, NRSV, CJB"
+      },
+      {
+        "position": 9,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, ASV, NRSV, CJB; proper name"
+      }
+    ]
+  }
+]

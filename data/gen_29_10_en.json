@@ -1,0 +1,214 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִ֡י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-came-to-pass",
+        "source": "KJV, ASV, RSV; conjunction + verb Qal consecutive imperfect 3ms"
+      },
+      {
+        "position": 2,
+        "surface": "כַּאֲשֶׁר֩",
+        "phrase": "when",
+        "literal": "as-which",
+        "source": "KJV, ESV, NASB; preposition + relative pronoun"
+      },
+      {
+        "position": 3,
+        "surface": "רָאָ֨ה",
+        "phrase": "saw",
+        "literal": "he-saw",
+        "source": "All translations; verb Qal perfect 3ms"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֜ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations; proper noun masculine singular"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "All translations; particle marking definite direct object"
+      },
+      {
+        "position": 6,
+        "surface": "רָחֵ֗ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "All translations; proper noun feminine singular"
+      },
+      {
+        "position": 7,
+        "surface": "בַּת",
+        "phrase": "daughter",
+        "literal": "daughter",
+        "source": "All translations; noun feminine construct"
+      },
+      {
+        "position": 8,
+        "surface": "לָבָן֙",
+        "phrase": "of Laban",
+        "literal": "of-Laban",
+        "source": "All translations; proper noun masculine singular in construct relationship"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחִ֣י",
+        "phrase": "brother",
+        "literal": "brother",
+        "source": "KJV, ASV, RSV; noun masculine construct"
+      },
+      {
+        "position": 10,
+        "surface": "אִמּוֹ",
+        "phrase": "of his mother",
+        "literal": "of-his-mother",
+        "source": "All translations; noun feminine singular with possessive suffix 3ms"
+      },
+      {
+        "position": 11,
+        "surface": "וְאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct-object-marker",
+        "source": "All translations; conjunction + particle"
+      },
+      {
+        "position": 12,
+        "surface": "צֹאן",
+        "phrase": "the sheep",
+        "literal": "the-flock",
+        "source": "All translations; noun feminine construct with article"
+      },
+      {
+        "position": 13,
+        "surface": "לָבָן",
+        "phrase": "of Laban",
+        "literal": "of-Laban",
+        "source": "All translations; proper noun masculine singular"
+      },
+      {
+        "position": 14,
+        "surface": "אֲחִ֣י",
+        "phrase": "brother",
+        "literal": "brother",
+        "source": "KJV, ASV, RSV; noun masculine construct"
+      },
+      {
+        "position": 15,
+        "surface": "אִמּוֹ",
+        "phrase": "of his mother",
+        "literal": "of-his-mother",
+        "source": "All translations; noun feminine singular with possessive suffix 3ms"
+      },
+      {
+        "position": 16,
+        "surface": "וַיִּגַּשׁ",
+        "phrase": "and drew near",
+        "literal": "and-he-drew-near",
+        "source": "KJV, ASV; conjunction + verb Qal consecutive imperfect 3ms"
+      },
+      {
+        "position": 17,
+        "surface": "יַעֲקֹ֗ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations; proper noun masculine singular"
+      },
+      {
+        "position": 18,
+        "surface": "וַיָּגֶל",
+        "phrase": "and rolled",
+        "literal": "and-he-rolled",
+        "source": "All translations; conjunction + verb Qal consecutive imperfect 3ms"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "All translations; particle marking definite direct object"
+      },
+      {
+        "position": 20,
+        "surface": "הָאֶבֶן",
+        "phrase": "the stone",
+        "literal": "the-stone",
+        "source": "All translations; noun feminine singular with article"
+      },
+      {
+        "position": 21,
+        "surface": "מֵעַל",
+        "phrase": "from upon",
+        "literal": "from-upon",
+        "source": "KJV, ASV; preposition + preposition"
+      },
+      {
+        "position": 22,
+        "surface": "פִּי",
+        "phrase": "mouth",
+        "literal": "mouth",
+        "source": "All translations; noun masculine construct"
+      },
+      {
+        "position": 23,
+        "surface": "הַבְּאֵר",
+        "phrase": "of the well",
+        "literal": "of-the-well",
+        "source": "All translations; noun feminine singular with article"
+      },
+      {
+        "position": 24,
+        "surface": "וַיַּשְׁקְ",
+        "phrase": "and watered",
+        "literal": "and-he-watered",
+        "source": "All translations; conjunction + verb Hifil consecutive imperfect 3ms"
+      },
+      {
+        "position": 25,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "All translations; particle marking definite direct object"
+      },
+      {
+        "position": 26,
+        "surface": "צֹאן",
+        "phrase": "the flock",
+        "literal": "the-flock",
+        "source": "All translations; noun feminine construct with article"
+      },
+      {
+        "position": 27,
+        "surface": "לָבָן",
+        "phrase": "of Laban",
+        "literal": "of-Laban",
+        "source": "All translations; proper noun masculine singular"
+      },
+      {
+        "position": 28,
+        "surface": "אֲחִ֥י",
+        "phrase": "brother",
+        "literal": "brother",
+        "source": "KJV, ASV, RSV; noun masculine construct"
+      },
+      {
+        "position": 29,
+        "surface": "אִמּוֹ",
+        "phrase": "of his mother",
+        "literal": "of-his-mother",
+        "source": "All translations; noun feminine singular with possessive suffix 3ms"
+      }
+    ]
+  }
+]

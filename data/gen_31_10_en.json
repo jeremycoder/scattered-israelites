@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/עֵת֙",
+        "phrase": "at the time",
+        "literal": "in-time",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "יַחֵ֣ם",
+        "phrase": "of mating",
+        "literal": "heat/mating",
+        "source": "ESV (breeding season), NASB (mating)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/צֹּ֔אן",
+        "phrase": "the flock",
+        "literal": "the-flock",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/אֶשָּׂ֥א",
+        "phrase": "that I lifted up",
+        "literal": "and-I-lifted",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עֵינַ֛/י",
+        "phrase": "my eyes",
+        "literal": "eyes-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/אֵ֖רֶא",
+        "phrase": "and saw",
+        "literal": "and-I-saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/חֲל֑וֹם",
+        "phrase": "in a dream",
+        "literal": "in-dream",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הִנֵּ֤ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, NASB; narrative particle (ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "הָֽ/עַתֻּדִים֙",
+        "phrase": "the male goats",
+        "literal": "the-males",
+        "source": "NASB, ESV (goats); KJV (rams)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עֹלִ֣ים",
+        "phrase": "that were mating",
+        "literal": "the-ascending",
+        "source": "ESV (mated), NASB (mating)"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/צֹּ֔אן",
+        "phrase": "the flock",
+        "literal": "the-flock",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "עֲקֻדִּ֥ים",
+        "phrase": "striped",
+        "literal": "banded/striped",
+        "source": "KJV (ringstraked), ESV (striped)"
+      },
+      {
+        "position": 15,
+        "surface": "נְקֻדִּ֖ים",
+        "phrase": "speckled",
+        "literal": "speckled-dotted",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "וּ/בְרֻדִּֽים",
+        "phrase": "and spotted",
+        "literal": "and-spotted/hail-spotted",
+        "source": "KJV (grisled), ESV (mottled), NASB (mottled)"
+      }
+    ]
+  }
+]

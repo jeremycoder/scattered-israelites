@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֡י",
+        "phrase": "For",
+        "literal": "that | for",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "מְעַט֩",
+        "phrase": "little",
+        "literal": "little | few",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which | that",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 4,
+        "surface": "הָיָ֨ה",
+        "phrase": "was",
+        "literal": "was | has-been",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֤",
+        "phrase": "you had",
+        "literal": "to | you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/פָנַ/י֙",
+        "phrase": "before me",
+        "literal": "to | face | my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּפְרֹ֣ץ",
+        "phrase": "and it has increased",
+        "literal": "and | it-burst-forth",
+        "source": "KJV (increased), NASB (increased)"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/רֹ֔ב",
+        "phrase": "to a multitude",
+        "literal": "to | multitude | abundance",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יְבָ֧רֶךְ",
+        "phrase": "and has blessed",
+        "literal": "and | he-blessed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֛ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֹתְ/ךָ֖",
+        "phrase": "you",
+        "literal": "direct-object-marker | you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/רַגְלִ֑/י",
+        "phrase": "wherever I turned",
+        "literal": "to | foot | my",
+        "source": "ESV, NASB (idiom: at my foot)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and now",
+        "literal": "and | now",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "מָתַ֛י",
+        "phrase": "when",
+        "literal": "when",
+        "source": "KJV, ESV, NASB (interrogative)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶֽעֱשֶׂ֥ה",
+        "phrase": "shall I do",
+        "literal": "I-will-do | I-shall-provide",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 17,
+        "surface": "אָנֹכִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB (emphatic pronoun)"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/בֵיתִֽ/י",
+        "phrase": "for my own household",
+        "literal": "to | house | my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

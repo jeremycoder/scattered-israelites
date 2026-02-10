@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "Then he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "נָקְבָ֧/ה",
+        "phrase": "Specify",
+        "literal": "designate!_it",
+        "source": "Chabad ('Specify'), Mechon-Mamre ('Appoint'), ESV ('Name'), NASB ('Specify')"
+      },
+      {
+        "position": 3,
+        "surface": "שְׂכָרְ/ךָ֛",
+        "phrase": "your wages",
+        "literal": "wages-your",
+        "source": "KJV ('thy wages'), ESV ('your wages'), NASB ('your wages')"
+      },
+      {
+        "position": 4,
+        "surface": "עָלַ֖/י",
+        "phrase": "for me",
+        "literal": "upon-me",
+        "source": "KJV, Mechon-Mamre, NASB; preposition indicating benefit"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶתֵּֽנָה",
+        "phrase": "and I will give [it]",
+        "literal": "and-I_will_give_it",
+        "source": "KJV ('I will give it'), Mechon-Mamre ('I will give it'), Chabad ('I will give [them]')"
+      }
+    ]
+  }
+]

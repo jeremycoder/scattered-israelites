@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 49,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/מִּצְפָּה֙",
+        "phrase": "and Mizpah",
+        "literal": "and-the-watchtower",
+        "source": "KJV, ESV, NASB (proper name meaning 'watchtower')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "for",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 3,
+        "surface": "אָמַ֔ר",
+        "phrase": "he said",
+        "literal": "he-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יִ֥צֶף",
+        "phrase": "watch",
+        "literal": "may-watch",
+        "source": "KJV, ESV, NASB (from ṣāpaḥ, 'to watch, keep watch')"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּינִ֣/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בֵינֶ֑/ךָ",
+        "phrase": "and you",
+        "literal": "and-between-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֥י",
+        "phrase": "when",
+        "literal": "for/because",
+        "source": "KJV, ESV, NASB (introducing circumstance)"
+      },
+      {
+        "position": 9,
+        "surface": "נִסָּתֵ֖ר",
+        "phrase": "we are hidden",
+        "literal": "we-are-hidden",
+        "source": "KJV, ESV, NASB (Nifal of sātar, 'to be hidden')"
+      },
+      {
+        "position": 10,
+        "surface": "אִ֥ישׁ",
+        "phrase": "one",
+        "literal": "man/person",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/רֵעֵֽ/הוּ",
+        "phrase": "from another",
+        "literal": "from-friend-his",
+        "source": "KJV, ESV, NASB (rēaʿ, 'neighbor, friend')"
+      }
+    ]
+  }
+]

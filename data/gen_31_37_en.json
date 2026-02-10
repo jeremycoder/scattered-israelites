@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "although",
+        "literal": "that | though",
+        "source": "KJV, ESV, NIV, NASB (concessive particle)"
+      },
+      {
+        "position": 2,
+        "surface": "מִשַּׁ֣שְׁתָּ",
+        "phrase": "you have felt through",
+        "literal": "from | you-have-felt/searched",
+        "source": "ESV, NIV, NASB (Qal perfect 2ms from משׁשׁ)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "standard Hebrew grammar (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all | every",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "כֵּלַ֗/י",
+        "phrase": "my goods",
+        "literal": "vessel | utensil-my",
+        "source": "KJV (stuff), ESV (goods), NIV (goods)"
+      },
+      {
+        "position": 6,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מָּצָ֨אתָ֙",
+        "phrase": "have you found",
+        "literal": "you-have-found",
+        "source": "Qal perfect 2ms from מצא; KJV, ESV, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/כֹּ֣ל",
+        "phrase": "of all",
+        "literal": "from | all",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כְּלֵי",
+        "phrase": "household goods",
+        "literal": "vessels | utensils",
+        "source": "construct of כלי; ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בֵיתֶ֔/ךָ",
+        "phrase": "of your house",
+        "literal": "house-your",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "שִׂ֣ים",
+        "phrase": "put",
+        "literal": "set | place",
+        "source": "Qal imperative ms from שׂום; KJV, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "כֹּ֔ה",
+        "phrase": "it here",
+        "literal": "thus | here",
+        "source": "KJV, NIV, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "נֶ֥גֶד",
+        "phrase": "before",
+        "literal": "in-front-of",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "אַחַ֖/י",
+        "phrase": "my kinsmen",
+        "literal": "brothers-my",
+        "source": "KJV (brethren), ESV (kinsmen)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אַחֶ֑י/ךָ",
+        "phrase": "and your kinsmen",
+        "literal": "and | brothers-your",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/יוֹכִ֖יחוּ",
+        "phrase": "let them judge",
+        "literal": "and | they-shall-judge/settle",
+        "source": "Qal imperfect 3mp from יכח; KJV, ESV"
+      },
+      {
+        "position": 17,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "שְׁנֵֽי/נוּ",
+        "phrase": "us two",
+        "literal": "two-our",
+        "source": "KJV (us), ESV (us two), NASB"
+      }
+    ]
+  }
+]

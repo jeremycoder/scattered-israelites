@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֶּחֱמוּ",
+        "phrase": "conceived",
+        "literal": "and-they.conceived",
+        "source": "KJV, ESV, NASB; Qal imperfect 3mp of חמה with waw-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "הַצֹּאן",
+        "phrase": "the flocks",
+        "literal": "the-flocks",
+        "source": "KJV, ESV, NASB; definite construct of צאן (collective noun for sheep/goats)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "at/before",
+        "literal": "to/toward",
+        "source": "KJV 'at', ESV 'at', NASB 'at'; preposition indicating proximity or direction"
+      },
+      {
+        "position": 4,
+        "surface": "הַמַּקְלוֹת",
+        "phrase": "the rods",
+        "literal": "the-rods",
+        "source": "KJV, ESV, NASB; definite plural of מקל (rod/staff)"
+      },
+      {
+        "position": 5,
+        "surface": "וַתֵּלַדְןָ",
+        "phrase": "and brought forth",
+        "literal": "and-they.bore",
+        "source": "KJV, ESV, NASB; Qal imperfect 3fp of ילד with waw-consecutive"
+      },
+      {
+        "position": 6,
+        "surface": "הַצֹּאן",
+        "phrase": "the flocks",
+        "literal": "the-flocks",
+        "source": "KJV, ESV, NASB; definite construct of צאן (same as position 2)"
+      },
+      {
+        "position": 7,
+        "surface": "עֲקֻדִּים",
+        "phrase": "streaked",
+        "literal": "striped-ones",
+        "source": "KJV 'ringstraked', ESV 'streaked', NASB 'striped'; masculine plural adjective from עקד"
+      },
+      {
+        "position": 8,
+        "surface": "נְקֻדִּים",
+        "phrase": "speckled",
+        "literal": "spotted-ones",
+        "source": "KJV, ESV, NASB 'speckled'; masculine plural adjective from נקד"
+      },
+      {
+        "position": 9,
+        "surface": "וּטְלֻאִים",
+        "phrase": "and spotted",
+        "literal": "and-spotted-ones",
+        "source": "KJV, ESV, NASB 'spotted'; waw-conjunction with masculine plural adjective from טלא"
+      }
+    ]
+  }
+]

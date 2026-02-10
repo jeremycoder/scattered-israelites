@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she_said",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect 3fs)"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּ֛ה",
+        "phrase": "here is",
+        "literal": "behold",
+        "source": "KJV ('Behold'), ESV, NASB (demonstrative particle)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲמָתִ֥/י",
+        "phrase": "my maid",
+        "literal": "maidservant-my",
+        "source": "KJV, ESV, NASB (feminine singular possessive)"
+      },
+      {
+        "position": 4,
+        "surface": "בִלְהָ֖ה",
+        "phrase": "Bilhah",
+        "literal": "Bilhah",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בֹּ֣א",
+        "phrase": "go in",
+        "literal": "go_in",
+        "source": "KJV ('go in'), ESV, NASB (Qal imperative 2ms)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלֶ֑י/הָ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB (preposition + 3fs suffix)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/תֵלֵד֙",
+        "phrase": "and she shall bear",
+        "literal": "and-she_will_bear",
+        "source": "KJV, ESV, NASB (waw + Qal consecutive imperfect 3fs)"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 9,
+        "surface": "בִּרְכַּ֔/י",
+        "phrase": "my knees",
+        "literal": "knees-my",
+        "source": "KJV, ESV, NASB (idiom for adoption)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אִבָּנֶ֥ה",
+        "phrase": "that I may be built up",
+        "literal": "and-I_will_be_built",
+        "source": "KJV ('that I may also have children'), NASB, YLT (Niphal cohortative 1cs; sounds like 'children')"
+      },
+      {
+        "position": 11,
+        "surface": "גַם",
+        "phrase": "too",
+        "literal": "also",
+        "source": "KJV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 12,
+        "surface": "אָנֹכִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "emphatic pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִמֶּֽ/נָּה",
+        "phrase": "through her",
+        "literal": "from-her",
+        "source": "KJV ('by her'), ESV, NASB (preposition + 3fs pronoun)"
+      }
+    ]
+  }
+]

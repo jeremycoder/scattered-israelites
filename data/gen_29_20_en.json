@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲבֹ֧ד",
+        "phrase": "served",
+        "literal": "and-he_served",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֛ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/רָחֵ֖ל",
+        "phrase": "for Rachel",
+        "literal": "in/for-Rachel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנִ֑ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּהְי֤וּ",
+        "phrase": "they were",
+        "literal": "and-they_were",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/עֵינָי/ו֙",
+        "phrase": "in his eyes",
+        "literal": "in-eyes-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כְּ/יָמִ֣ים",
+        "phrase": "like days",
+        "literal": "like-days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחָדִ֔ים",
+        "phrase": "few",
+        "literal": "one-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אַהֲבָת֖/וֹ",
+        "phrase": "because of his love",
+        "literal": "in-love-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֹתָֽ/הּ",
+        "phrase": "for her",
+        "literal": "_OBJ-her",
+        "source": "KJV, ESV, NASB (direct object marker)"
+      }
+    ]
+  }
+]

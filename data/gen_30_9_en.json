@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֣רֶא",
+        "phrase": "saw",
+        "literal": "and-she-saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לֵאָ֔ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB (conjunction)"
+      },
+      {
+        "position": 4,
+        "surface": "עָמְדָ֖ה",
+        "phrase": "she had stopped",
+        "literal": "she-stood",
+        "source": "KJV ('left'), ESV/NASB ('ceased'), Strong's H5975"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/לֶּ֑דֶת",
+        "phrase": "bearing",
+        "literal": "from-bearing",
+        "source": "KJV, ESV, NASB, Strong's H3205"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּקַּח֙",
+        "phrase": "she took",
+        "literal": "and-she-took",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew particle (untranslated in English)"
+      },
+      {
+        "position": 8,
+        "surface": "זִלְפָּ֣ה",
+        "phrase": "Zilpah",
+        "literal": "Zilpah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁפְחָתָ֔/הּ",
+        "phrase": "her servant",
+        "literal": "her-female-servant",
+        "source": "KJV ('maid'), ESV/NASB ('servant'), Strong's H8198"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/תִּתֵּ֥ן",
+        "phrase": "gave",
+        "literal": "and-she-gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֹתָ֛/הּ",
+        "phrase": "her",
+        "literal": "[direct-object-marker]-her",
+        "source": "standard Hebrew particle (untranslated in English)"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/יַעֲקֹ֖ב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אִשָּֽׁה",
+        "phrase": "as a wife",
+        "literal": "to-wife",
+        "source": "KJV, ESV, NASB, Strong's H802"
+      }
+    ]
+  }
+]

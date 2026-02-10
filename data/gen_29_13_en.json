@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִי",
+        "phrase": "it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, NIV, NET; narrative wayehi construction"
+      },
+      {
+        "position": 2,
+        "surface": "כִשְׁמֹעַ",
+        "phrase": "when (Laban) heard",
+        "literal": "as-hearing",
+        "source": "KJV, ESV, NASB; temporal infinitive construct with preposition"
+      },
+      {
+        "position": 3,
+        "surface": "לָבָן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Grammatical particle; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁמַע",
+        "phrase": "the news/report",
+        "literal": "hearing",
+        "source": "KJV 'tidings', NIV 'news', NET 'report'; noun from שׁמע"
+      },
+      {
+        "position": 6,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB, NIV; construct state"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחֹתוֹ",
+        "phrase": "his sister",
+        "literal": "sister-his",
+        "source": "KJV, ESV, NASB, NIV; feminine noun with possessive suffix"
+      },
+      {
+        "position": 9,
+        "surface": "וַיָּרָץ",
+        "phrase": "he ran",
+        "literal": "and-he-ran",
+        "source": "KJV, ESV, NASB, NIV; wayyiqtol form of רוץ"
+      },
+      {
+        "position": 10,
+        "surface": "לִקְרָאתוֹ",
+        "phrase": "to meet him",
+        "literal": "to-meeting-his",
+        "source": "KJV, ESV, NASB, NIV; preposition + infinitive construct + suffix"
+      },
+      {
+        "position": 11,
+        "surface": "וַיְחַבֶּק",
+        "phrase": "and embraced",
+        "literal": "and-he-embraced",
+        "source": "KJV, ESV, NASB, NIV; wayyiqtol form of חבק"
+      },
+      {
+        "position": 12,
+        "surface": "לוֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, NIV; preposition + pronoun suffix"
+      },
+      {
+        "position": 13,
+        "surface": "וַיְנַשֶּׁק",
+        "phrase": "and kissed",
+        "literal": "and-he-kissed",
+        "source": "KJV, ESV, NASB, NIV; wayyiqtol form of נשק"
+      },
+      {
+        "position": 14,
+        "surface": "לוֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, NIV; preposition + pronoun suffix"
+      },
+      {
+        "position": 15,
+        "surface": "וַיְבִיאֵהוּ",
+        "phrase": "and brought him",
+        "literal": "and-he-brought-him",
+        "source": "KJV, ESV, NASB, NIV; wayyiqtol form of בוא with object suffix"
+      },
+      {
+        "position": 16,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, NIV; preposition"
+      },
+      {
+        "position": 17,
+        "surface": "בֵּיתוֹ",
+        "phrase": "his house",
+        "literal": "house-his",
+        "source": "KJV, ESV, NASB, NIV; noun with possessive suffix"
+      },
+      {
+        "position": 18,
+        "surface": "וַיְסַפֵּר",
+        "phrase": "and told",
+        "literal": "and-he-told",
+        "source": "KJV, ESV, NASB, NIV; wayyiqtol form of ספר"
+      },
+      {
+        "position": 19,
+        "surface": "לְלָבָן",
+        "phrase": "to Laban",
+        "literal": "to-Laban",
+        "source": "KJV, ESV, NASB, NIV; preposition + proper noun"
+      },
+      {
+        "position": 20,
+        "surface": "אֵת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Grammatical particle; all translations"
+      },
+      {
+        "position": 21,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NIV; noun in construct"
+      },
+      {
+        "position": 22,
+        "surface": "הַדְּבָרִים",
+        "phrase": "the things",
+        "literal": "the-words",
+        "source": "KJV, ESV, NASB, NIV; definite plural noun"
+      },
+      {
+        "position": 23,
+        "surface": "הָאֵלֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV, NASB, NIV; definite demonstrative adjective"
+      }
+    ]
+  }
+]

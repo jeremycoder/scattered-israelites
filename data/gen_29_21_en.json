@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Conjunction waw + Qal imperfect 3ms of אמר; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "לָבָן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "הָבָה",
+        "phrase": "Give",
+        "literal": "give",
+        "source": "Qal imperative 2ms of נתן (with assimilated heh); KJV 'Give', ESV 'Give', NASB 'Give'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DO",
+        "source": "Direct object marker; grammatical particle"
+      },
+      {
+        "position": 7,
+        "surface": "אִשְׁתִּי",
+        "phrase": "my wife",
+        "literal": "wife-my",
+        "source": "Noun feminine singular construct + 1cs possessive suffix; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "Conjunction; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "מָלְאוּ",
+        "phrase": "are completed",
+        "literal": "they.have.filled",
+        "source": "Qal perfect 3cp of מלא; KJV 'are fulfilled', ESV 'is completed', NASB 'is completed'"
+      },
+      {
+        "position": 10,
+        "surface": "יָמַי",
+        "phrase": "my days",
+        "literal": "days-my",
+        "source": "Noun masculine plural construct + 1cs possessive suffix; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "וְאָבוֹאָה",
+        "phrase": "and I may go in to",
+        "literal": "and-I.will.come",
+        "source": "Conjunction waw + Qal imperfect 1cs of בוא; KJV 'that I may go in unto', ESV 'that I may go in to', NASB 'that I may go in to'"
+      },
+      {
+        "position": 12,
+        "surface": "אֵלֶיהָ",
+        "phrase": "her",
+        "literal": "to-her",
+        "source": "Preposition אל + 3fs pronoun; KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

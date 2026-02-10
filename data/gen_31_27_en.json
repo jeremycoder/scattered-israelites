@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לָ֤/מָּה",
+        "phrase": "Why",
+        "literal": "why",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "נַחְבֵּ֨אתָ֙",
+        "phrase": "did you flee secretly",
+        "literal": "you-hide-2ms",
+        "source": "KJV ('flee away secretly'), ESV ('flee secretly'), NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/בְרֹ֔חַ",
+        "phrase": "to escape",
+        "literal": "to-flee",
+        "source": "lit. 'to flee'; KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תִּגְנֹ֖ב",
+        "phrase": "and steal",
+        "literal": "and-you-steal-2ms",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתִ֑/י",
+        "phrase": "me",
+        "literal": "[direct object marker]-me",
+        "source": "KJV ('away from me'), ESV; אתי = 'me' idiomatically"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הִגַּ֣דְתָּ",
+        "phrase": "tell",
+        "literal": "you-declare-2ms",
+        "source": "KJV ('tell me'), ESV ('tell me'), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לִּ֔/י",
+        "phrase": "me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וָֽ/אֲשַׁלֵּחֲ/ךָ֛",
+        "phrase": "that I might send you away",
+        "literal": "and-I-send-away-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/שִׂמְחָ֥ה",
+        "phrase": "with mirth",
+        "literal": "in-joy",
+        "source": "KJV ('mirth'), ESV ('joy'), NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/שִׁרִ֖ים",
+        "phrase": "and with songs",
+        "literal": "and-in-songs",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/תֹ֥ף",
+        "phrase": "with tabret",
+        "literal": "in-timbrel",
+        "source": "KJV ('tabret'), ESV ('tambourine'), NASB ('timbrel')"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בְ/כִנּֽוֹר",
+        "phrase": "and with harp",
+        "literal": "and-in-lyre",
+        "source": "KJV ('harp'), ESV ('lyre'), NASB"
+      }
+    ]
+  }
+]

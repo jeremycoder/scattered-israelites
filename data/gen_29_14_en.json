@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ASV, NASB, ESV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ASV, NASB, ESV, NET"
+      },
+      {
+        "position": 3,
+        "surface": "לָבָן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "אַךְ",
+        "phrase": "surely",
+        "literal": "surely",
+        "source": "KJV, ASV, NASB, ESV; particle of affirmation (Strong's 389)"
+      },
+      {
+        "position": 5,
+        "surface": "עַצְמִי",
+        "phrase": "my bone",
+        "literal": "bone-my",
+        "source": "KJV, ASV, NASB, ESV, NET; construct form with first person singular suffix"
+      },
+      {
+        "position": 6,
+        "surface": "וּבְשָׂרִי",
+        "phrase": "and my flesh",
+        "literal": "and-flesh-my",
+        "source": "KJV, ASV, NASB, ESV, NET; conjunction + noun + first person singular suffix"
+      },
+      {
+        "position": 7,
+        "surface": "אָתָּה",
+        "phrase": "you are",
+        "literal": "you",
+        "source": "KJV, ASV, NASB, ESV, NET; second masculine singular pronoun"
+      },
+      {
+        "position": 8,
+        "surface": "וַיֵּשֶׁב",
+        "phrase": "and he stayed",
+        "literal": "and-he.stayed",
+        "source": "KJV, ASV, NASB, ESV, NET"
+      },
+      {
+        "position": 9,
+        "surface": "עִמּוֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ASV, NASB, ESV, NET; preposition + third masculine singular suffix"
+      },
+      {
+        "position": 10,
+        "surface": "חֹדֶשׁ",
+        "phrase": "a month",
+        "literal": "month",
+        "source": "KJV, ASV, NASB, ESV, NET; construct state"
+      },
+      {
+        "position": 11,
+        "surface": "יָמִים",
+        "phrase": "of days",
+        "literal": "days",
+        "source": "KJV, ASV, NASB, ESV, NET; plural construct; Hebrew idiom 'month of days' = full month"
+      }
+    ]
+  }
+]

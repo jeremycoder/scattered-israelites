@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּ֖הַר",
+        "phrase": "and she conceived",
+        "literal": "and-she_conceived",
+        "source": "KJV, ESV, NASB, 'And she conceived' [1][4]"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "and she bore",
+        "literal": "and-she_bore",
+        "source": "KJV, ESV, NASB, 'and bore' [1][4]"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֑ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB, 'a son' [1][4]"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she_said",
+        "source": "KJV, ESV, NASB, 'and said' [1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "אָסַ֥ף",
+        "phrase": "has taken away",
+        "literal": "he_gathered/he_has_taken_away",
+        "source": "KJV, ESV, NASB, 'has taken away' [1][4]"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, 'God' [1][4]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Accusative marker, untranslatable [4]"
+      },
+      {
+        "position": 8,
+        "surface": "חֶרְפָּתִֽ/י",
+        "phrase": "my reproach",
+        "literal": "reproach-my",
+        "source": "KJV, ESV, NASB, 'my reproach' [1][4]"
+      }
+    ]
+  }
+]

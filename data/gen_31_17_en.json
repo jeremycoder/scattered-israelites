@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֖קָם",
+        "phrase": "and arose",
+        "literal": "and-he_arose",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּשָּׂ֛א",
+        "phrase": "and put",
+        "literal": "and-he_carried",
+        "source": "KJV (set), ESV (put), NASB (put); Bible Hub"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle; not translated; NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative marker]",
+        "source": "grammatical particle; not translated; NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "נָשָׁ֖י/ו",
+        "phrase": "his wives",
+        "literal": "wives-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/גְּמַלִּֽים",
+        "phrase": "the camels",
+        "literal": "the-camels",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יֶשׁ",
+        "phrase": "there is",
+        "literal": "there-is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/אֵ֣ל",
+        "phrase": "power",
+        "literal": "to-god",
+        "source": "lit. 'to God'; KJV 'power', ESV 'power', NASB 'power'"
+      },
+      {
+        "position": 3,
+        "surface": "יָדִ֔/י",
+        "phrase": "in my hand",
+        "literal": "hand-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/עֲשׂ֥וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "עִמָּ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "with-you(pl)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "רָ֑ע",
+        "phrase": "harm",
+        "literal": "evil",
+        "source": "KJV 'hurt', ESV 'harm', NASB 'harm'"
+      },
+      {
+        "position": 7,
+        "surface": "וֵֽ/אלֹהֵ֨י",
+        "phrase": "but the God",
+        "literal": "and-god",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבִי/כֶ֜ם",
+        "phrase": "of your father",
+        "literal": "father-your(pl)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֣מֶשׁ",
+        "phrase": "last night",
+        "literal": "yesterday",
+        "source": "KJV 'yesternight', ESV 'last night', NASB 'last night'"
+      },
+      {
+        "position": 10,
+        "surface": "אָמַ֧ר",
+        "phrase": "spoke",
+        "literal": "he-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלַ֣/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הִשָּׁ֧מֶר",
+        "phrase": "be careful",
+        "literal": "watch!",
+        "source": "KJV 'take heed', ESV 'be careful', NASB 'be careful'"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/ךָ֛",
+        "phrase": "to yourself",
+        "literal": "to-you(sg)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "מִ/דַּבֵּ֥ר",
+        "phrase": "to speak",
+        "literal": "from-speaking",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "עִֽם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "מִ/טּ֥וֹב",
+        "phrase": "good",
+        "literal": "from-good",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "עַד",
+        "phrase": "or",
+        "literal": "until",
+        "source": "KJV 'either...or', ESV 'either...or', NASB 'either...or'"
+      },
+      {
+        "position": 20,
+        "surface": "רָֽע",
+        "phrase": "bad",
+        "literal": "evil",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

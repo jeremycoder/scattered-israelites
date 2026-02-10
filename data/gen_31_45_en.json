@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֥ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name (KJV, ESV, NIV)"
+      },
+      {
+        "position": 3,
+        "surface": "אָ֑בֶן",
+        "phrase": "a stone",
+        "literal": "stone",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יְרִימֶ֖/הָ",
+        "phrase": "and set it up",
+        "literal": "and-raised-it",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מַצֵּבָֽה",
+        "phrase": "as a pillar",
+        "literal": "pillar-standing",
+        "source": "KJV, ESV, NIV, NASB"
+      }
+    ]
+  }
+]

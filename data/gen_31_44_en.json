@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "So now",
+        "literal": "and-now",
+        "source": "KJV, ESV, NASB (conjunction 'and' + 'now')"
+      },
+      {
+        "position": 2,
+        "surface": "לְכָ֛/ה",
+        "phrase": "come",
+        "literal": "to-you (m.s.)",
+        "source": "ESV, NET, KJV (imperative particle + 2ms suffix)"
+      },
+      {
+        "position": 3,
+        "surface": "נִכְרְתָ֥ה",
+        "phrase": "let us make",
+        "literal": "be-cut",
+        "source": "NET (tn: 'cut a covenant'), KJV, ESV (niphal imperfect 3fs, idiomatic for covenant)"
+      },
+      {
+        "position": 4,
+        "surface": "בְרִ֖ית",
+        "phrase": "a covenant",
+        "literal": "covenant",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֲנִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אָ֑תָּה",
+        "phrase": "and you",
+        "literal": "and-you (m.s.)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיָ֥ה",
+        "phrase": "and let it be",
+        "literal": "and-be",
+        "source": "NET (tn: hayah + lamed = 'become'), KJV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/עֵ֖ד",
+        "phrase": "for a witness",
+        "literal": "to-witness",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּינִ֥/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בֵינֶֽ/ךָ",
+        "phrase": "and between you",
+        "literal": "and-between-you (m.s.)",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּשַּׁק",
+        "phrase": "kissed",
+        "literal": "and-he-kissed",
+        "source": "KJV, NIV, NRSV, RSV, WEB; vav-consecutive imperfect of נשק (nashak)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations; proper noun"
+      },
+      {
+        "position": 3,
+        "surface": "לְרָחֵל",
+        "phrase": "Rachel",
+        "literal": "to-Rachel",
+        "source": "KJV, NIV, NRSV, RSV, WEB; preposition לְ (le) + proper noun Rachel"
+      },
+      {
+        "position": 4,
+        "surface": "וַיִּשָּׂא",
+        "phrase": "lifted up",
+        "literal": "and-he-lifted",
+        "source": "KJV, NRSV, RSV, WEB; vav-consecutive imperfect of נשא (nasa)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "All translations; particle marking definite direct object"
+      },
+      {
+        "position": 6,
+        "surface": "קֹלוֹ",
+        "phrase": "his voice",
+        "literal": "voice-his",
+        "source": "KJV, NIV, NRSV, RSV, WEB; noun קוֹל (qol) + possessive suffix ו (o)"
+      },
+      {
+        "position": 7,
+        "surface": "וַיֵּבְךְ",
+        "phrase": "wept",
+        "literal": "and-he-wept",
+        "source": "KJV, NIV, NRSV, RSV, WEB; vav-consecutive imperfect of בכה (bakah)"
+      }
+    ]
+  }
+]

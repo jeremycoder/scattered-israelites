@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֣ח",
+        "phrase": "sent",
+        "literal": "and-he-sent",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּקְרָ֖א",
+        "phrase": "called",
+        "literal": "and-he-called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/רָחֵ֣ל",
+        "phrase": "Rachel",
+        "literal": "to-Rachel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/לֵאָ֑ה",
+        "phrase": "and Leah",
+        "literal": "and-to-Leah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שָּׂדֶ֖ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV)"
+      },
+      {
+        "position": 8,
+        "surface": "צֹאנֽ/וֹ",
+        "phrase": "his flock",
+        "literal": "his-flock",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

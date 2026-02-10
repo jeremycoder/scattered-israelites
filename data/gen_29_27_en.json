@@ -1,0 +1,125 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מַלֵּ֖א",
+        "phrase": "fulfill",
+        "literal": "fill!-impv.m.s",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁבֻ֣עַ",
+        "phrase": "the week",
+        "literal": "week",
+        "source": "KJV (her week), ESV (week), NASB (week); שְׁבוּעַ = seven-day period"
+      },
+      {
+        "position": 3,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this-f.s",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נִתְּנָ֨ה",
+        "phrase": "and we will give",
+        "literal": "and-give!-1p"
+      },
+      {
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֜",
+        "phrase": "you",
+        "literal": "to-you-m.s",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "obj.marker",
+        "source": "direct object marker; not translated"
+      },
+      {
+        "position": 8,
+        "surface": "זֹ֗את",
+        "phrase": "this one",
+        "literal": "this-f.s",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/עֲבֹדָה֙",
+        "phrase": "for the service",
+        "literal": "in-the-service",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which-rel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "תַּעֲבֹ֣ד",
+        "phrase": "you shall serve",
+        "literal": "you-serve!-impf.2m.s",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עִמָּדִ֔/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "ע֖וֹד",
+        "phrase": "yet",
+        "literal": "yet",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "שֶֽׁבַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "שָׁנִ֥ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אֲחֵרֽוֹת",
+        "phrase": "other",
+        "literal": "other-f.pl",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּזְכֹּ֥ר",
+        "phrase": "remembered",
+        "literal": "and-remembered",
+        "source": "KJV, ESV, NASB, 'wayyizkor' verb"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "accusative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "רָחֵ֑ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּשְׁמַ֤ע",
+        "phrase": "listened",
+        "literal": "and-listened",
+        "source": "KJV 'hearkened', ESV 'listened', NASB 'gave heed'"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלֶ֨י/הָ֙",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּפְתַּ֖ח",
+        "phrase": "opened",
+        "literal": "and-opened",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "accusative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "רַחְמָֽ/הּ",
+        "phrase": "her womb",
+        "literal": "womb-her",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

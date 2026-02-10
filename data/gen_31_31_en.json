@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַן",
+        "phrase": "and answered",
+        "literal": "and-answered",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/לָבָ֑ן",
+        "phrase": "to Laban",
+        "literal": "to-Laban",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֣י",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, ESV, NASB (conjunction)"
+      },
+      {
+        "position": 6,
+        "surface": "יָרֵ֔אתִי",
+        "phrase": "I was afraid",
+        "literal": "I-feared",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "KJV, ESV, NASB (quotative particle)"
+      },
+      {
+        "position": 8,
+        "surface": "אָמַ֔רְתִּי",
+        "phrase": "I said",
+        "literal": "I-said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "KJV, ESV, NASB (subordinating particle)"
+      },
+      {
+        "position": 10,
+        "surface": "תִּגְזֹ֥ל",
+        "phrase": "you take away",
+        "literal": "you-steal",
+        "source": "KJV (take by force), ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "standard Hebrew grammar (untranslated)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּנוֹתֶ֖י/ךָ",
+        "phrase": "your daughters",
+        "literal": "daughters-my-your",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "מֵ/עִמִּֽ/י",
+        "phrase": "from me",
+        "literal": "from-with-me",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

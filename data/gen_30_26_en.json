@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תְּנָ֞ה",
+        "phrase": "Give",
+        "literal": "give!-impv-2ms",
+        "source": "KJV, ESV, NASB, 'imperative'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "me",
+        "literal": "[direct-object-marker]",
+        "source": "ESV, NASB, 'accusative marker'"
+      },
+      {
+        "position": 3,
+        "surface": "נָשַׁ֣י",
+        "phrase": "my wives",
+        "literal": "wife-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "ESV, NASB, 'accusative marker'"
+      },
+      {
+        "position": 5,
+        "surface": "יְלָדַ֗י",
+        "phrase": "my children",
+        "literal": "child-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "for whom",
+        "literal": "which",
+        "source": "KJV, ESV, NASB, 'relative particle'"
+      },
+      {
+        "position": 7,
+        "surface": "עָבַ֧דְתִּי",
+        "phrase": "I have served",
+        "literal": "serve-I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֹֽתְ/ךָ֛",
+        "phrase": "you",
+        "literal": "[direct-object-marker]-you",
+        "source": "ESV, NASB, 'accusative marker'"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ/הֵ֖ן",
+        "phrase": "for them",
+        "literal": "in-them",
+        "source": "ESV, NASB, HCSB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵלֵ֑כָה",
+        "phrase": "and let me go",
+        "literal": "and-go-I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "KJV, ESV, NASB, 'causal particle'"
+      },
+      {
+        "position": 12,
+        "surface": "אַתָּ֣ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "ESV, NASB, 'emphatic pronoun'"
+      },
+      {
+        "position": 13,
+        "surface": "יָדַ֔עְתָּ",
+        "phrase": "know",
+        "literal": "know-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "ESV, NASB, 'accusative marker'"
+      },
+      {
+        "position": 15,
+        "surface": "עֲבֹדָתִ֖י",
+        "phrase": "my service",
+        "literal": "service-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, ESV, NASB, 'relative particle'"
+      },
+      {
+        "position": 17,
+        "surface": "עֲבַדְתִּֽי/ךָ",
+        "phrase": "I have served you",
+        "literal": "serve-I-you",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

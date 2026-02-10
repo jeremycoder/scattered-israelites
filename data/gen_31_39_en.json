@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "טְרֵפָה֙",
+        "phrase": "torn prey",
+        "literal": "torn-prey",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "הֵבֵ֣אתִי",
+        "phrase": "I brought",
+        "literal": "I-brought",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלֶ֔י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 5,
+        "surface": "אָנֹכִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "emphatic pronoun (KJV, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲחַטֶּ֔/נָּה",
+        "phrase": "bore its loss",
+        "literal": "I-made-good-it",
+        "source": "KJV ('bare the loss'), NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/יָּדִ֖/י",
+        "phrase": "from my hand",
+        "literal": "from-hand-my",
+        "source": "KJV, ESV, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "תְּבַקְשֶׁ֑/נָּה",
+        "phrase": "you required it",
+        "literal": "you-demand-it",
+        "source": "KJV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "גְּנֻֽבְתִ֣י",
+        "phrase": "stolen by me",
+        "literal": "stolen-my",
+        "source": "KJV ('stolen'), Mechon-Mamre"
+      },
+      {
+        "position": 10,
+        "surface": "י֔וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/גְנֻֽבְתִ֖י",
+        "phrase": "and stolen by me",
+        "literal": "and-stolen-my",
+        "source": "KJV, Mechon-Mamre"
+      },
+      {
+        "position": 12,
+        "surface": "לָֽיְלָה",
+        "phrase": "night",
+        "literal": "night",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

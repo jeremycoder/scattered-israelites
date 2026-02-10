@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and saw",
+        "literal": "and-he_saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct_object_marker]",
+        "source": "standard particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "פְּנֵ֣י",
+        "phrase": "face",
+        "literal": "face",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לָבָ֑ן",
+        "phrase": "of Laban",
+        "literal": "Laban",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֵינֶ֛/נּוּ",
+        "phrase": "it was not",
+        "literal": "not-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ/תְמ֥וֹל",
+        "phrase": "as",
+        "literal": "like-yesterday",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שִׁלְשֽׁוֹם",
+        "phrase": "before",
+        "literal": "third-[day/yesterday]",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 53,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֱלֹהֵ֨י",
+        "phrase": "God",
+        "literal": "God-of (construct plural)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֜ם",
+        "phrase": "Abraham",
+        "literal": "Abraham (proper noun)",
+        "source": "All major translations"
+      },
+      {
+        "position": 3,
+        "surface": "וֵֽאלֹהֵ֤י",
+        "phrase": "and the God",
+        "literal": "and-God-of (construct plural with waw conjunction)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 4,
+        "surface": "נָחוֹר֙",
+        "phrase": "Nahor",
+        "literal": "Nahor (proper noun)",
+        "source": "All major translations"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׁפְּט֣וּ",
+        "phrase": "judge",
+        "literal": "may-he-judge (3ms imperfect, jussive mood)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 6,
+        "surface": "בֵינֵ֔ינוּ",
+        "phrase": "between us",
+        "literal": "between-us (preposition + noun + 1cp suffix)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֵ֖י",
+        "phrase": "God",
+        "literal": "God-of (construct plural)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבִיהֶ֑ם",
+        "phrase": "their father",
+        "literal": "father-their (noun + 3mp suffix)",
+        "source": "KJV, ESV, NASB, JPS; some MSS read 'your father' (אֲבִיכֶם)"
+      },
+      {
+        "position": 9,
+        "surface": "וַיִּשָּׁבַ֣ע",
+        "phrase": "and Jacob swore",
+        "literal": "and-he-swore (3ms wayyiqtol with waw consecutive)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 10,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob (proper noun, subject)",
+        "source": "All major translations"
+      },
+      {
+        "position": 11,
+        "surface": "בְּפַ֖חַד",
+        "phrase": "by the fear",
+        "literal": "by-fear (preposition + noun)",
+        "source": "KJV, ESV, NASB, JPS; 'fear' here denotes reverence/God"
+      },
+      {
+        "position": 12,
+        "surface": "אָבִ֥יו",
+        "phrase": "of his father",
+        "literal": "father-his (noun + 3ms suffix)",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 13,
+        "surface": "יִצְחָֽק",
+        "phrase": "Isaac",
+        "literal": "Isaac (proper noun)",
+        "source": "All major translations"
+      }
+    ]
+  }
+]

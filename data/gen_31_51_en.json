@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 51,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לָבָ֖ן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/יַעֲקֹ֑ב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הִנֵּ֣ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "demonstrative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גַּ֣ל",
+        "phrase": "the heap",
+        "literal": "the-heap",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/זֶּ֗ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִנֵּה֙",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מַצֵּבָ֔ה",
+        "phrase": "the pillar",
+        "literal": "the-pillar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יָרִ֖יתִי",
+        "phrase": "I have set up",
+        "literal": "I-have-set-up",
+        "source": "KJV (cast), ESV (set up), NASB (set up); note: variant yaritha 'you have set up' in some MSS[1]"
+      },
+      {
+        "position": 11,
+        "surface": "בֵּינִ֥/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בֵינֶֽ/ךָ",
+        "phrase": "and between you",
+        "literal": "and-between-you",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

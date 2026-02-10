@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֶה֩",
+        "phrase": "these",
+        "literal": "this",
+        "source": "KJV, ESV, NASB (demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "עֶשְׂרִ֨ים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנָ֤ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אָנֹכִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB (emphatic pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "עִמָּ֔/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "רְחֵלֶ֥י/ךָ",
+        "phrase": "your ewes",
+        "literal": "ewe-PL-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עִזֶּ֖י/ךָ",
+        "phrase": "and your she-goats",
+        "literal": "and-goat.F-PL-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁכֵּ֑לוּ",
+        "phrase": "miscarried",
+        "literal": "miscarry-PF-3PL",
+        "source": "ESV, NASB; KJV 'cast their young'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵילֵ֥י",
+        "phrase": "and the rams of",
+        "literal": "and-ram-PL-CONST",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "צֹאנְ/ךָ֖",
+        "phrase": "your flock",
+        "literal": "flock-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אָכָֽלְתִּי",
+        "phrase": "have I eaten",
+        "literal": "eat-PF-1S",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/הַעֲטִ֥יף",
+        "phrase": "but when the flock was feeble",
+        "literal": "and-in-the-feeble",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/צֹּ֖אן",
+        "phrase": "the flock",
+        "literal": "the-flock",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, NASB, ESV (negative particle)"
+      },
+      {
+        "position": 4,
+        "surface": "יָשִׂ֑ים",
+        "phrase": "he put",
+        "literal": "he-put",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הָיָ֤ה",
+        "phrase": "so were",
+        "literal": "and-became",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עֲטֻפִים֙",
+        "phrase": "the feeble ones",
+        "literal": "the-feeble-ones",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/לָבָ֔ן",
+        "phrase": "Laban's",
+        "literal": "to-Laban",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הַ/קְּשֻׁרִ֖ים",
+        "phrase": "and the strong ones",
+        "literal": "and-the-strong-ones",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/יַעֲקֹֽב",
+        "phrase": "Jacob's",
+        "literal": "to-Jacob",
+        "source": "KJV, NASB, ESV"
+      }
+    ]
+  }
+]

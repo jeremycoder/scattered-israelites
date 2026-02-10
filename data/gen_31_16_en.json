@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֣י",
+        "phrase": "Surely",
+        "literal": "that-CONJ",
+        "source": "KJV, NIV, ESV, NASB (inferential particle)"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עֹ֗שֶׁר",
+        "phrase": "the wealth",
+        "literal": "the-DEF richesse_noun",
+        "source": "NIV 'wealth', KJV 'riches', NASB 'wealth'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which-REL",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הִצִּ֤יל",
+        "phrase": "God has taken away",
+        "literal": "he_delivered_3ms",
+        "source": "NIV 'took away', KJV 'taken', NASB 'taken'"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מֵֽ/אָבִ֔י/נוּ",
+        "phrase": "from our father",
+        "literal": "from-father_our",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לָ֥/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "ה֖וּא",
+        "phrase": "belongs",
+        "literal": "it-is",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/לְ/בָנֵ֑י/נוּ",
+        "phrase": "and to our children",
+        "literal": "and-to-sons_our",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "Now then",
+        "literal": "and-now",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "כֹּל֩",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which-REL",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אָמַ֧ר",
+        "phrase": "God has said",
+        "literal": "he_said_3ms",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אֵלֶ֖י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you_2ms",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "עֲשֵֽׂה",
+        "phrase": "do",
+        "literal": "do_2ms-impv",
+        "source": "KJV, NIV, ESV, NASB"
+      }
+    ]
+  }
+]

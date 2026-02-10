@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתֹּאמֶר",
+        "phrase": "and she said",
+        "literal": "and-she.said",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "לֵאָה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "All translations; proper noun, wife of Jacob"
+      },
+      {
+        "position": 3,
+        "surface": "נָתַן",
+        "phrase": "has given",
+        "literal": "give-PERF.3MS",
+        "source": "KJV, NASB, ESV, NET; root meaning 'to give'"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "All translations; divine name"
+      },
+      {
+        "position": 5,
+        "surface": "שְׂכָרִי",
+        "phrase": "my wages/reward",
+        "literal": "wages-1MS",
+        "source": "KJV 'hire', NASB 'wages', ESV 'reward', NET 'reward'; from sakar (payment, compensation)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "because",
+        "literal": "which/that",
+        "source": "KJV, NASB, ESV, NET; relative particle functioning as causal conjunction"
+      },
+      {
+        "position": 7,
+        "surface": "נָתַתִּי",
+        "phrase": "I have given",
+        "literal": "give-PERF.1S",
+        "source": "KJV, NASB, ESV, NET; first person singular perfect"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁפְחָתִי",
+        "phrase": "my maid/servant",
+        "literal": "maid-1MS",
+        "source": "KJV 'maiden', NASB 'maid', ESV 'servant', NET 'servant'; female slave or handmaid"
+      },
+      {
+        "position": 9,
+        "surface": "לְאִישִׁי",
+        "phrase": "to my husband",
+        "literal": "to-man-1MS",
+        "source": "KJV, NASB, ESV, NET; preposition le- + ish (man/husband) + possessive suffix"
+      },
+      {
+        "position": 10,
+        "surface": "וַתִּקְרָא",
+        "phrase": "and she called",
+        "literal": "and-she.call-IMPF",
+        "source": "KJV, NASB, ESV, NET; wayyiqtol form of qara (to call, name)"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁמוֹ",
+        "phrase": "his name",
+        "literal": "name-3MS",
+        "source": "KJV, NASB, ESV, NET; shem (name) with masculine singular possessive suffix"
+      },
+      {
+        "position": 12,
+        "surface": "יִשָּׂשכָר",
+        "phrase": "Issachar",
+        "literal": "he-will-bring-reward",
+        "source": "All translations; proper noun; etymology: yesh (there is) + sachar (reward); meaning 'he will bring a reward'"
+      }
+    ]
+  }
+]

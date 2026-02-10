@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/ל֧וֹא",
+        "phrase": "Are we not?",
+        "literal": "question-particle-not",
+        "source": "KJV, ESV, NASB (interrogative particle)"
+      },
+      {
+        "position": 2,
+        "surface": "נָכְרִיּ֛וֹת",
+        "phrase": "foreigners",
+        "literal": "foreign-women",
+        "source": "KJV (strangers), ESV (foreigners), NASB (foreigners)"
+      },
+      {
+        "position": 3,
+        "surface": "נֶחְשַׁ֥בְנוּ",
+        "phrase": "reckoned us",
+        "literal": "reckon-PERF-1p",
+        "source": "KJV (counted), ESV (reckoned), NASB (regarded)"
+      },
+      {
+        "position": 4,
+        "surface": "ל֖/וֹ",
+        "phrase": "by him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB (dative marker)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 6,
+        "surface": "מְכָרָ֑/נוּ",
+        "phrase": "he has sold us",
+        "literal": "sell-PERF-1p",
+        "source": "KJV (sold us), ESV (sold us), NASB (sold us)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֥אכַל",
+        "phrase": "and he has eaten",
+        "literal": "and-eat-PERF-3ms",
+        "source": "KJV (hath...eaten), ESV (has...consumed), NASB (has...used up)"
+      },
+      {
+        "position": 8,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 9,
+        "surface": "אָכ֖וֹל",
+        "phrase": "consumed",
+        "literal": "eat-INF",
+        "source": "KJV (eaten up), ESV (consumed), NASB (entirely consumed)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 11,
+        "surface": "כַּסְפֵּֽ/נוּ",
+        "phrase": "our money",
+        "literal": "silver-our",
+        "source": "KJV (money), ESV (purchase price), NASB (money)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 31,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֤ח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB, GNT"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָי/ו֙",
+        "phrase": "kinsmen",
+        "literal": "brothers-his",
+        "source": "KJV (brethren), ESV (relatives), NASB (kinsmen)"
+      },
+      {
+        "position": 4,
+        "surface": "עִמּ֔/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּרְדֹּ֣ף",
+        "phrase": "and pursued",
+        "literal": "and-he-pursued",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֲרָ֔י/ו",
+        "phrase": "after him",
+        "literal": "after-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "דֶּ֖רֶךְ",
+        "phrase": "a distance of",
+        "literal": "way",
+        "source": "KJV (journey), ESV (way), NASB (way)"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁבְעַ֣ת",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "יָמִ֑ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יַּדְבֵּ֥ק",
+        "phrase": "and overtook",
+        "literal": "and-he-caught.up.to",
+        "source": "KJV (overtook), ESV (came.up.to), NASB (came.up.to)"
+      },
+      {
+        "position": 11,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/הַ֥ר",
+        "phrase": "in the hill country",
+        "literal": "in-the-mountain",
+        "source": "KJV (mount), ESV (hill country), NASB (hill country)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/גִּלְעָֽד",
+        "phrase": "of Gilead",
+        "literal": "the-Gilead",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

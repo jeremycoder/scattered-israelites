@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּ֤הַר",
+        "phrase": "conceived again",
+        "literal": "and-conceived",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "עוֹד֙",
+        "phrase": "again",
+        "literal": "again",
+        "source": "KJV, ESV, NASB (adverb indicating repetition)"
+      },
+      {
+        "position": 3,
+        "surface": "לֵאָ֔ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תֵּ֥לֶד",
+        "phrase": "and bore",
+        "literal": "and-gave-birth",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁשִּׁ֖י",
+        "phrase": "sixth",
+        "literal": "sixth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְּ/יַעֲקֹֽב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

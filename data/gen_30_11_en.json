@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 30,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֥אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לֵאָ֖ה",
+        "phrase": "Leah",
+        "literal": "Leah",
+        "source": "proper name; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "ב/גד",
+        "phrase": "good fortune",
+        "literal": "in-fortune",
+        "source": "ESV, NIV, NASB (ba'gad); textual variant note in Sefaria[7]"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ֣א",
+        "phrase": "has come",
+        "literal": "come",
+        "source": "ESV, NIV; qere reading ba'gad[7]"
+      },
+      {
+        "position": 5,
+        "surface": "גָ֑ד",
+        "phrase": "fortune",
+        "literal": "fortune",
+        "source": "explains name Gad; NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּקְרָ֥א",
+        "phrase": "and she called",
+        "literal": "and-she_called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; not translated"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "גָּֽד",
+        "phrase": "Gad",
+        "literal": "Gad",
+        "source": "proper name; all translations; means 'fortune' or 'troop'[1][2][6]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 29,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/לְ/לָבָ֖ן",
+        "phrase": "And to Laban",
+        "literal": "and-to-Laban",
+        "source": "KJV, ESV, NASB (waw-consecutive + preposition lə- + proper name Laban)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁתֵּ֣י",
+        "phrase": "two",
+        "literal": "two-FEM",
+        "source": "KJV, ESV, NASB (dual feminine construct of šənayim)"
+      },
+      {
+        "position": 3,
+        "surface": "בָנ֑וֹת",
+        "phrase": "daughters",
+        "literal": "daughters-his",
+        "source": "KJV, ESV, NASB (בָנוֹת with 3ms suffix)"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֤ם",
+        "phrase": "the name",
+        "literal": "name-the",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גְּדֹלָה֙",
+        "phrase": "of the older",
+        "literal": "the-greater-FEM",
+        "source": "KJV (elder), ESV/NASB (older)"
+      },
+      {
+        "position": 6,
+        "surface": "לֵאָ֔ה",
+        "phrase": "was Leah",
+        "literal": "Leah",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "and the name",
+        "literal": "and-name-the",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קְּטַנָּ֖ה",
+        "phrase": "of the younger",
+        "literal": "the-smaller-FEM",
+        "source": "KJV (younger), ESV/NASB (younger)"
+      },
+      {
+        "position": 9,
+        "surface": "רָחֵֽל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]
