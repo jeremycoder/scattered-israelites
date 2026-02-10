@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֣ח",
+        "phrase": "took",
+        "literal": "and-took",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָם֩",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Hebrew particle (accusative marker)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂרַ֨י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אִשְׁתּ֜/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Hebrew particle (conjunction + accusative marker)"
+      },
+      {
+        "position": 7,
+        "surface": "ל֣וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, NASB, NRSV"
+      },
+      {
+        "position": 9,
+        "surface": "אָחִ֗י/וֹ",
+        "phrase": "of his brother",
+        "literal": "brother-his",
+        "source": "KJV, NASB, NRSV; NIV 'nephew'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Hebrew particle (conjunction + accusative marker)"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "רְכוּשָׁ/ם֙",
+        "phrase": "their possessions",
+        "literal": "possessions-their",
+        "source": "KJV 'substance', ESV 'possessions', NASB 'possessions', NIV 'possessions'"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "Hebrew relative pronoun"
+      },
+      {
+        "position": 14,
+        "surface": "רָכָ֔שׁוּ",
+        "phrase": "they had accumulated",
+        "literal": "they-had-acquired",
+        "source": "NASB, NIV, ESV"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Hebrew particle (conjunction + accusative marker)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/נֶּ֖פֶשׁ",
+        "phrase": "the people",
+        "literal": "the-souls/people",
+        "source": "ESV 'people', NIV 'people', KJV 'souls'"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "Hebrew relative pronoun"
+      },
+      {
+        "position": 18,
+        "surface": "עָשׂ֣וּ",
+        "phrase": "they had acquired",
+        "literal": "they-had-made/acquired",
+        "source": "NASB, NIV, ESV; KJV 'gotten'"
+      },
+      {
+        "position": 19,
+        "surface": "בְ/חָרָ֑ן",
+        "phrase": "in Haran",
+        "literal": "in-Haran",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 20,
+        "surface": "וַ/יֵּצְא֗וּ",
+        "phrase": "they went out",
+        "literal": "and-they-went-out",
+        "source": "KJV, NASB, NIV"
+      },
+      {
+        "position": 21,
+        "surface": "לָ/לֶ֨כֶת֙",
+        "phrase": "to go",
+        "literal": "to-go",
+        "source": "KJV, NASB, NIV"
+      },
+      {
+        "position": 22,
+        "surface": "אַ֣רְצָ/ה",
+        "phrase": "to the land",
+        "literal": "land-to",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 23,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 24,
+        "surface": "וַ/יָּבֹ֖אוּ",
+        "phrase": "they came",
+        "literal": "and-they-came",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 25,
+        "surface": "אַ֥רְצָ/ה",
+        "phrase": "to the land",
+        "literal": "land-to",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 26,
+        "surface": "כְּנָֽעַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

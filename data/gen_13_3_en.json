@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֨לֶךְ֙",
+        "phrase": "And he journeyed",
+        "literal": "and-he_went",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מַסָּעָ֔י/ו",
+        "phrase": "on his journeys",
+        "literal": "to_journeys-his",
+        "source": "KJV ('on his journeys'), NET (tn: 'on his journeys')"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/נֶּ֖גֶב",
+        "phrase": "from the Negev",
+        "literal": "from_Negev",
+        "source": "ESV, NIV, NASB (Negeb/Negev)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/עַד",
+        "phrase": "even to",
+        "literal": "and-to",
+        "source": "KJV, YLT"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּֽית",
+        "phrase": "Bethel",
+        "literal": "house",
+        "source": "Proper name: Bethel (KJV, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֑ל",
+        "phrase": "",
+        "literal": "of_God",
+        "source": "Part of Bethel (house of God)"
+      },
+      {
+        "position": 7,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (ESV, KJV)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מָּק֗וֹם",
+        "phrase": "the place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁר",
+        "phrase": "where",
+        "literal": "which",
+        "source": "relative pronoun (ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ֨יָה",
+        "phrase": "had been",
+        "literal": "was",
+        "source": "pluperfect (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁ֤ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "adverb (all translations)"
+      },
+      {
+        "position": 12,
+        "surface": "אהל/ה",
+        "phrase": "his tent",
+        "literal": "tent-his",
+        "source": "tent (ESV, NIV)"
+      },
+      {
+        "position": 13,
+        "surface": "אָֽהֳל/וֹ֙",
+        "phrase": "",
+        "literal": "tent-his",
+        "source": "emphatic repetition (cf. NET tn)"
+      },
+      {
+        "position": 14,
+        "surface": "בַּ/תְּחִלָּ֔ה",
+        "phrase": "at the beginning",
+        "literal": "in_the_beginning",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "preposition (KJV, ESV)"
+      },
+      {
+        "position": 16,
+        "surface": "בֵּֽית",
+        "phrase": "Bethel",
+        "literal": "house",
+        "source": "Proper name: Bethel"
+      },
+      {
+        "position": 17,
+        "surface": "אֵ֖ל",
+        "phrase": "",
+        "literal": "God",
+        "source": "Part of Bethel"
+      },
+      {
+        "position": 18,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 19,
+        "surface": "הָ/עָֽי",
+        "phrase": "Ai",
+        "literal": "the-ruin",
+        "source": "Proper name: Ai (KJV 'Hai', ESV)"
+      }
+    ]
+  }
+]

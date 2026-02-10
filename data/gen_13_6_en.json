@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "waw-conjunctive + negation (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "נָשָׂ֥א",
+        "phrase": "bear",
+        "literal": "bear-support",
+        "source": "Qal perfect 3ms from נָשָׂא 'to lift, bear, support' (ESV, NASB, KJV)"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "-direct object marker-them",
+        "source": "אֶת + 3mp pronoun suffix (ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "article + אֶרֶץ 'earth, land' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/שֶׁ֣בֶת",
+        "phrase": "to dwell",
+        "literal": "to-dwell",
+        "source": "infinitive construct of יָשַׁב 'to sit, dwell' (ESV, NASB, NET)"
+      },
+      {
+        "position": 6,
+        "surface": "יַחְדָּ֑ו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "adverb יַחְדָּו 'together' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for-that",
+        "source": "causal particle כִּי (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "הָיָ֤ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "Qal perfect 3ms from הָיָה 'to be' (ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "רְכוּשָׁ/ם֙",
+        "phrase": "their possessions",
+        "literal": "possessions-their",
+        "source": "רכוּשׁ + 3mp suffix 'property, possessions' (KJV 'substance', ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "רָ֔ב",
+        "phrase": "great",
+        "literal": "great",
+        "source": "רַב 'much, many, great' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "waw-conjunctive + negation (KJV, ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "יָֽכְל֖וּ",
+        "phrase": "they were able",
+        "literal": "they could",
+        "source": "Qal perfect 3mp from יָכֹל 'to be able' (ESV, NASB, KJV)"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/שֶׁ֥בֶת",
+        "phrase": "to dwell",
+        "literal": "to-dwell",
+        "source": "infinitive construct of יָשַׁב 'to dwell' (ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "יַחְדָּֽו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "adverb יַחְדָּו 'together' (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

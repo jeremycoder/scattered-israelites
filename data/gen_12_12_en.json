@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָ֗ה",
+        "phrase": "it will come to pass",
+        "literal": "and-will_be",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "when-that",
+        "source": "conjunction (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "יִרְא֤וּ",
+        "phrase": "they see",
+        "literal": "they_will_see",
+        "source": "Qal imperfect 3mp (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹתָ/ךְ֙",
+        "phrase": "you",
+        "literal": "obj-marker/you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּצְרִ֔ים",
+        "phrase": "the Egyptians",
+        "literal": "the/Egyptians",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָמְר֖וּ",
+        "phrase": "and they will say",
+        "literal": "and-they_will_say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אִשְׁתּ֣/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this-FS",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הָרְג֥וּ",
+        "phrase": "and they will kill",
+        "literal": "and-they_will_kill",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֹתִ֖/י",
+        "phrase": "me",
+        "literal": "obj-marker/me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֹתָ֥/ךְ",
+        "phrase": "but you",
+        "literal": "and-obj_marker/you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יְחַיּֽוּ",
+        "phrase": "they will let live",
+        "literal": "they_will_let_live",
+        "source": "Hiphil imperfect 3mp (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

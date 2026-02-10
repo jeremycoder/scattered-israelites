@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "Therefore",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB, NIV - idiomatic rendering of prepositional phrase"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּן",
+        "phrase": "therefore",
+        "literal": "thus-so",
+        "source": "KJV, ESV, NASB, NIV - conjunction/adverb"
+      },
+      {
+        "position": 3,
+        "surface": "קָרָא",
+        "phrase": "was called",
+        "literal": "he-called",
+        "source": "KJV, ESV, NASB, NIV - qal perfect 3ms"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁמָהּ",
+        "phrase": "its name",
+        "literal": "name-its",
+        "source": "KJV, ESV, NASB, NIV - noun + 3fs possessive suffix"
+      },
+      {
+        "position": 5,
+        "surface": "בָּבֶל",
+        "phrase": "Babel",
+        "literal": "Babel",
+        "source": "All translations - proper noun; Hebrew etymology related to בלל (confuse)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, ESV, NASB, NIV - causal conjunction"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, NIV - adverb of place"
+      },
+      {
+        "position": 8,
+        "surface": "בָּלַל",
+        "phrase": "confused",
+        "literal": "he-confused",
+        "source": "KJV, ESV, NASB, NIV - qal perfect 3ms; root בלל"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "All translations - divine name (Tetragrammaton)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׂפַת",
+        "phrase": "language",
+        "literal": "language-of",
+        "source": "KJV, ESV, NASB, NIV - construct state feminine noun"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NIV - universal quantifier"
+      },
+      {
+        "position": 12,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NIV - definite noun"
+      },
+      {
+        "position": 13,
+        "surface": "וּמִשָּׁם",
+        "phrase": "and from there",
+        "literal": "and-from-there",
+        "source": "KJV, ESV, NASB, NIV - conjunction + preposition + adverb"
+      },
+      {
+        "position": 14,
+        "surface": "הֱפִיצָם",
+        "phrase": "scattered them",
+        "literal": "he-scattered-them",
+        "source": "KJV, ESV, NASB, NIV - hiphil perfect 3ms + 3mp object suffix"
+      },
+      {
+        "position": 15,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "All translations - divine name (Tetragrammaton)"
+      },
+      {
+        "position": 16,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB, NIV - preposition"
+      },
+      {
+        "position": 17,
+        "surface": "פְּנֵי",
+        "phrase": "face",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB, NIV - construct state masculine noun"
+      },
+      {
+        "position": 18,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NIV - universal quantifier"
+      },
+      {
+        "position": 19,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NIV - definite noun"
+      }
+    ]
+  }
+]

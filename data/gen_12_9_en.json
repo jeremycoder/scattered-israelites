@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסַּ֣ע",
+        "phrase": "And he journeyed",
+        "literal": "and-he_journeyed",
+        "source": "KJV, ESV, NASB, NET (wayyiqtol of נָסַע 'to journey, pull up stakes')"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "הָל֥וֹךְ",
+        "phrase": "going on",
+        "literal": "going",
+        "source": "KJV ('going on still'), NET ('continually'), NASB ('continuing') (infinitive absolute of הָלַךְ 'to go, walk')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נָס֖וֹעַ",
+        "phrase": "and journeying",
+        "literal": "and-journeying",
+        "source": "KJV, ESV, NASB, NET (infinitive construct + ו of נָסַע 'to journey')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נֶּֽגְבָּ/ה",
+        "phrase": "to the Negev",
+        "literal": "the-south",
+        "source": "KJV ('the south'), ESV/NASB/NET ('the Negev') (article + נֶגֶב 'south, Negev region')"
+      }
+    ]
+  }
+]

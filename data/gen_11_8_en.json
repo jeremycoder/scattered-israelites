@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨פֶץ",
+        "phrase": "scattered",
+        "literal": "and-scattered",
+        "source": "KJV, ESV, NASB, Lexham[1]"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֥ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "ESV, NASB (accusative marker)[1]"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/שָּׁ֖ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon-over",
+        "source": "preposition, KJV, ESV[1]"
+      },
+      {
+        "position": 6,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 7,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 9,
+        "surface": "וַֽ/יַּחְדְּל֖וּ",
+        "phrase": "they stopped",
+        "literal": "and-they ceased",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/בְנֹ֥ת",
+        "phrase": "building",
+        "literal": "to-build",
+        "source": "infinitive construct, ESV, NASB[1][5]"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עִֽיר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB[1]"
+      }
+    ]
+  }
+]

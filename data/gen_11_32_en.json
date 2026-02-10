@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּהְיוּ",
+        "phrase": "and were",
+        "literal": "and-they.were",
+        "source": "Conjunction waw + qal imperfect 3mp of היה (hayah); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "יְמֵי",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "Construct plural of יום (yom); KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "תֶרַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "חָמֵשׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "Feminine numeral חמש (chamesh); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנִים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "Masculine plural of שנה (shanah); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וּמָאתַיִם",
+        "phrase": "and two hundred",
+        "literal": "and-two.hundred",
+        "source": "Conjunction waw + dual of מאה (meah); KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָה",
+        "phrase": "year",
+        "literal": "year",
+        "source": "Singular feminine of שנה (shanah); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "וַיָּמָת",
+        "phrase": "and died",
+        "literal": "and-he.died",
+        "source": "Conjunction waw + qal imperfect 3ms of מות (mut); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "תֶרַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "בְחָרָן",
+        "phrase": "in Haran",
+        "literal": "in-Haran",
+        "source": "Preposition בְ (be) + proper noun חרן (Charan); KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

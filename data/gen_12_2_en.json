@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶֽעֶשְׂ/ךָ֙",
+        "phrase": "and I will make you",
+        "literal": "and-I_will_make-you",
+        "source": "KJV, ESV, NASB (cohortative verb + 2ms suffix)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/ג֣וֹי",
+        "phrase": "into a nation",
+        "literal": "to/for-nation",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "גָּד֔וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/אֲבָ֣רֶכְ/ךָ֔",
+        "phrase": "and I will bless you",
+        "literal": "and-I_will_bless-you",
+        "source": "KJV, ESV, NASB (waw-consecutive + Piel cohortative + 2ms suffix)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲגַדְּלָ֖ה",
+        "phrase": "and I will make great",
+        "literal": "and-I_will_make_great",
+        "source": "KJV ('make thy name great'), ESV, NASB (waw-consecutive + Piel cohortative)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁמֶ֑/ךָ",
+        "phrase": "your name",
+        "literal": "name-your",
+        "source": "KJV, ESV, NASB (noun + 2ms suffix)"
+      },
+      {
+        "position": 7,
+        "surface": "וֶ/הְיֵ֖ה",
+        "phrase": "and be",
+        "literal": "and-be",
+        "source": "KJV ('thou shalt be'), ESV, NASB (waw-consecutive + Qal imperative 2ms)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּרָכָֽה",
+        "phrase": "a blessing",
+        "literal": "blessing",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

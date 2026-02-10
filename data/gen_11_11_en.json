@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִי",
+        "phrase": "and lived",
+        "literal": "and-he_lived",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֗ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַֽחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִיד֣/וֹ",
+        "phrase": "he fathered",
+        "literal": "he_begat-him",
+        "source": "KJV (begat), ESV (fathered), NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "[direct_object_marker]",
+        "source": "standard accusative marker; not translated"
+      },
+      {
+        "position": 6,
+        "surface": "אַרְפַּכְשָׁ֔ד",
+        "phrase": "Arpachshad",
+        "literal": "Arphaxad",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חֲמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-he_begat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֣רֶד",
+        "phrase": "came down",
+        "literal": "and-descended",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of ירד)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/רְאֹ֥ת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "KJV, ESV, NASB (infinitive construct of ראה with preposition לְ)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "KJV (implied), ESV, NASB (untranslated particle)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עִ֖יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative marker]",
+        "source": "KJV (and), ESV, NASB (untranslated particle)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּגְדָּ֑ל",
+        "phrase": "the tower",
+        "literal": "the-tower",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּנ֖וּ",
+        "phrase": "they had built",
+        "literal": "they-built",
+        "source": "KJV (builded), NASB (had built), NET (had started building)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָדָֽם",
+        "phrase": "men",
+        "literal": "the-man",
+        "source": "KJV (men), ESV (man), NASB (men); NET notes 'sons of man' as 'mere mortals'"
+      }
+    ]
+  }
+]

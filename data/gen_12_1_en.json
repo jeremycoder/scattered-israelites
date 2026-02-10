@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "All major translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Directional particle (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "All major translations"
+      },
+      {
+        "position": 5,
+        "surface": "לֶךְ",
+        "phrase": "Go",
+        "literal": "go",
+        "source": "Imperative of הלך (ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/ךָ֛",
+        "phrase": "forth",
+        "literal": "for-yourself",
+        "source": "Idiomatic לך-לך, emphatic (Chabad, JPS)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אַרְצְ/ךָ֥",
+        "phrase": "from your land",
+        "literal": "from-land-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מִ/מּֽוֹלַדְתְּ/ךָ֖",
+        "phrase": "and from your relatives",
+        "literal": "and-from-birthplace-your",
+        "source": "ESV 'relatives', NASB 'father's household', KJV 'kindred'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מִ/בֵּ֣ית",
+        "phrase": "and from",
+        "literal": "and-from-house",
+        "source": "Prepositional phrase (all translations)"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִ֑י/ךָ",
+        "phrase": "your father's house",
+        "literal": "father-your",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Directional particle (KJV, ESV)"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "All major translations"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "Relative pronoun (ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "אַרְאֶֽ/ךָּ",
+        "phrase": "I will show you",
+        "literal": "I-will-show-you",
+        "source": "KJV, ESV, NASB, JPS"
+      }
+    ]
+  }
+]

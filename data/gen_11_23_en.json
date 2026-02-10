@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחִ֣י",
+        "phrase": "And Serug lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שְׂר֗וּג",
+        "phrase": "Serug",
+        "literal": "Serug",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַחֲרֵ֛י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִיד֥/וֹ",
+        "phrase": "he had begotten",
+        "literal": "he-begat-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker; invisible in English (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "נָח֖וֹר",
+        "phrase": "Nahor",
+        "literal": "Nahor",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מָאתַ֣יִם",
+        "phrase": "two hundred",
+        "literal": "two-hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he begat",
+        "literal": "and-begat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

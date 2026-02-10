@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽיְהִ֖י",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, ESV, NASB, BSB; Verb (wayyiqtol form of היה)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנָסְעָ֣ם",
+        "phrase": "as they journeyed",
+        "literal": "in-their-journeying",
+        "source": "ESV, NASB, BSB; Preposition בְּ + infinitive construct נסע + possessive suffix ם"
+      },
+      {
+        "position": 3,
+        "surface": "מִקֶּ֑דֶם",
+        "phrase": "from the east",
+        "literal": "from-east",
+        "source": "KJV, ESV, NASB, BSB; Preposition מִ + noun קדם (directional)"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽיִּמְצְא֥וּ",
+        "phrase": "that they found",
+        "literal": "and-they-found",
+        "source": "KJV, ESV, NASB, BSB; Verb (wayyiqtol form of מצא)"
+      },
+      {
+        "position": 5,
+        "surface": "בִקְעָ֛ה",
+        "phrase": "a plain",
+        "literal": "plain",
+        "source": "ESV, NASB, BSB; Noun (feminine singular, בקעה); KJV renders as 'plain'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּאֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB, BSB; Preposition בְּ + noun ארץ"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁנְעָ֖ר",
+        "phrase": "of Shinar",
+        "literal": "Shinar",
+        "source": "KJV, ESV, NASB, BSB; Proper noun (Babylonia); NET note identifies as region of Babylonia"
+      },
+      {
+        "position": 8,
+        "surface": "וַיֵּ֥שְׁבוּ",
+        "phrase": "and they settled",
+        "literal": "and-they-dwelt",
+        "source": "KJV, ESV, NASB, BSB; Verb (wayyiqtol form of ישב)"
+      },
+      {
+        "position": 9,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, BSB; Adverb of place"
+      }
+    ]
+  }
+]

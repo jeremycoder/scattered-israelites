@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְחִ֣י",
+        "phrase": "and lived",
+        "literal": "and-he.lived",
+        "source": "Conjunction waw + Qal consecutive imperfect 3ms of חיה (to live); ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "נָח֔וֹר",
+        "phrase": "Nahor",
+        "literal": "Nahor",
+        "source": "Proper noun, masculine singular; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "תֵּ֥שַׁע",
+        "phrase": "nine",
+        "literal": "nine",
+        "source": "Feminine noun (construct form of תשע); ESV, NASB, KJV, Holman"
+      },
+      {
+        "position": 4,
+        "surface": "וְעֶשְׂרִ֖ים",
+        "phrase": "and twenty",
+        "literal": "and-twenty",
+        "source": "Conjunction waw + masculine plural construct of עשרים (twenty); ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "Feminine singular noun (שנה); ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "וַיּ֖וֹלֶד",
+        "phrase": "and fathered",
+        "literal": "and-he.fathered",
+        "source": "Conjunction waw + Qal consecutive imperfect 3ms of ילד (to beget/father); ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Accusative particle marking the direct object; grammatical marker"
+      },
+      {
+        "position": 8,
+        "surface": "תָּֽרַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "Proper noun, masculine singular; all translations"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֵּרָ֤א",
+        "phrase": "appeared",
+        "literal": "and-he.appeared",
+        "source": "KJV, ESV, NASB, RSV - all render as 'appeared'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB - divine name rendered as 'LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition indicating direction; all major translations"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "וַיֹּ֕אמֶר",
+        "phrase": "and said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB - all render as 'and said'"
+      },
+      {
+        "position": 6,
+        "surface": "לְזַ֨רְעֲךָ֔",
+        "phrase": "to your descendants",
+        "literal": "to-seed-your",
+        "source": "ESV, NASB, NET - 'descendants'; KJV 'seed'; zeraʿ can mean seed, offspring, or descendants depending on context"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתֵּ֖ן",
+        "phrase": "I will give",
+        "literal": "I.will.give",
+        "source": "KJV, ESV, NASB - all render as 'I will give'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Grammatical particle; untranslated in English but marks the following noun as direct object"
+      },
+      {
+        "position": 9,
+        "surface": "הָאָ֣רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB - all render as 'the land'"
+      },
+      {
+        "position": 10,
+        "surface": "הַזֹּ֑את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "Demonstrative pronoun; KJV 'this land', ESV 'this land'"
+      },
+      {
+        "position": 11,
+        "surface": "וַיִּ֤בֶן",
+        "phrase": "and built",
+        "literal": "and-he.built",
+        "source": "KJV, ESV, NASB - all render as 'and built'"
+      },
+      {
+        "position": 12,
+        "surface": "שָׁם֙",
+        "phrase": "there",
+        "literal": "there",
+        "source": "Adverb; all major translations"
+      },
+      {
+        "position": 13,
+        "surface": "מִזְבֵּ֔חַ",
+        "phrase": "an altar",
+        "literal": "altar",
+        "source": "KJV, ESV, NASB - all render as 'altar'"
+      },
+      {
+        "position": 14,
+        "surface": "לַיהוָ֖ה",
+        "phrase": "to the LORD",
+        "literal": "to-YHWH",
+        "source": "Preposition + divine name; all major translations"
+      },
+      {
+        "position": 15,
+        "surface": "הַנִּרְאֶ֥ה",
+        "phrase": "who had appeared",
+        "literal": "the-one.appearing",
+        "source": "Participle form; KJV 'who appeared', ESV 'who had appeared'"
+      },
+      {
+        "position": 16,
+        "surface": "אֵלָֽיו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition + pronoun; all major translations"
+      }
+    ]
+  }
+]

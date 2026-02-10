@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעַל֩",
+        "phrase": "went up",
+        "literal": "and-he_went_up",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֨ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/מִּצְרַ֜יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "ה֠וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "Emphatic pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אִשְׁתּ֧/וֹ",
+        "phrase": "and his wife",
+        "literal": "and-wife-his",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "Relative pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "ל֛/וֹ",
+        "phrase": "he had",
+        "literal": "to-him",
+        "source": "Possessive (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/ל֥וֹט",
+        "phrase": "and Lot",
+        "literal": "and-Lot",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/נֶּֽגְבָּ/ה",
+        "phrase": "the Negev",
+        "literal": "the-South",
+        "source": "KJV (South), ESV/NASB (Negev), NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-become",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/ב֥וֹא",
+        "phrase": "when ... entered",
+        "literal": "as-enter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָ֖ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרָ֑יְמָ/ה",
+        "phrase": "Egypt",
+        "literal": "Egypt-ward",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּרְא֤וּ",
+        "phrase": "saw",
+        "literal": "and-they-saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מִּצְרִים֙",
+        "phrase": "the Egyptians",
+        "literal": "the-Egyptians",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "grammatical marker; untranslatable in English"
+      },
+      {
+        "position": 8,
+        "surface": "הָ֣/אִשָּׁ֔ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יָפָ֥ה",
+        "phrase": "beautiful",
+        "literal": "beautiful",
+        "source": "KJV (fair), ESV (beautiful), NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הִ֖וא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "מְאֹֽד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

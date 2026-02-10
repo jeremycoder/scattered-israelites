@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחִ֥י",
+        "phrase": "and lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB (waw-consecutive Qal of חיה, 'to live')"
+      },
+      {
+        "position": 2,
+        "surface": "שְׂר֖וּג",
+        "phrase": "Serug",
+        "literal": "Serug",
+        "source": "KJV, ESV, NASB (proper name, Strong's 8286)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹשִׁ֣ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "KJV, ESV, NASB (Strong's 7970)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB (Strong's 8141)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and he begat",
+        "literal": "and-begat",
+        "source": "KJV, ESV, NASB (waw-consecutive Hiphil of ילד, 'to beget')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew accusative marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "נָחֽוֹר",
+        "phrase": "Nahor",
+        "literal": "Nahor",
+        "source": "KJV, ESV, NASB (proper name, Strong's 5152)"
+      }
+    ]
+  }
+]

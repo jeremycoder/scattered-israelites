@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַבְרָ֖ם",
+        "phrase": "Now Abram",
+        "literal": "and-Abram",
+        "source": "KJV, ESV, NASB (vav disjunctive 'now')"
+      },
+      {
+        "position": 2,
+        "surface": "כָּבֵ֣ד",
+        "phrase": "was very rich",
+        "literal": "heavy",
+        "source": "KJV, ESV, NASB (idiomatic for 'rich/wealthy'; NET tn: Heb 'heavy')"
+      },
+      {
+        "position": 3,
+        "surface": "מְאֹ֑ד",
+        "phrase": "very",
+        "literal": "very-much",
+        "source": "KJV, ESV, NASB (intensifier adverb)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/מִּקְנֶ֕ה",
+        "phrase": "in livestock",
+        "literal": "in-the-livestock",
+        "source": "KJV ('cattle'), ESV/NIV/NASB ('livestock')"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/כֶּ֖סֶף",
+        "phrase": "in silver",
+        "literal": "in-the-silver",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בַ/זָּהָֽב",
+        "phrase": "and in gold",
+        "literal": "and-in-the-gold",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

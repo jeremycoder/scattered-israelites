@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֚לֶּה",
+        "phrase": "These are",
+        "literal": "these-PL",
+        "source": "KJV, ESV, NASB, YLT[1]"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְדֹ֣ת",
+        "phrase": "the generations of",
+        "literal": "generations-of",
+        "source": "KJV ('generations'), NASB ('records of the generations'), YLT ('births')[1]"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁ֔ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB (proper name)[1]"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֚ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB (proper name)[1]"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "a son of",
+        "literal": "son-of",
+        "source": "YLT ('a son'), NASB ('one hundred years old'); construct state[1]"
+      },
+      {
+        "position": 6,
+        "surface": "מְאַ֣ת",
+        "phrase": "one hundred",
+        "literal": "hundred-F",
+        "source": "KJV ('an hundred'), ESV, NASB[1]"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year-F",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and he begat",
+        "literal": "and-he-begat",
+        "source": "KJV ('begat'), NASB ('became the father of'), YLT ('begetteth')[1]"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "Particle, not translated; ESV, NASB[1]"
+      },
+      {
+        "position": 10,
+        "surface": "אַרְפַּכְשָׁ֑ד",
+        "phrase": "Arphaxad",
+        "literal": "Arphaxad",
+        "source": "KJV ('Arphaxad'), NASB ('Arpachshad'), ESV ('Arpachshad')[1]"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁנָתַ֖יִם",
+        "phrase": "two years",
+        "literal": "two-years",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 12,
+        "surface": "אַחַ֥ר",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מַּבּֽוּל",
+        "phrase": "the flood",
+        "literal": "the-flood",
+        "source": "KJV, ESV, NASB[1]"
+      }
+    ]
+  }
+]

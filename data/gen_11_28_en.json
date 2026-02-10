@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣מָת",
+        "phrase": "died",
+        "literal": "and-died",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "הָרָ֔ן",
+        "phrase": "Haran",
+        "literal": "Haran",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "before",
+        "literal": "upon",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "פְּנֵ֖י",
+        "phrase": "the presence of",
+        "literal": "face",
+        "source": "KJV 'before', ESV/NASB 'presence of'"
+      },
+      {
+        "position": 5,
+        "surface": "תֶּ֣רַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹלַדְתּ֖/וֹ",
+        "phrase": "of his birth",
+        "literal": "birthplace-his",
+        "source": "KJV 'nativity', ESV 'kindred', NASB 'birth'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/א֥וּר",
+        "phrase": "in Ur",
+        "literal": "in-Ur",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "כַּשְׂדִּֽים",
+        "phrase": "of the Chaldeans",
+        "literal": "Chaldeans",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

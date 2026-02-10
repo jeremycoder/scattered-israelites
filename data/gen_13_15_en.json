@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֧י",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB, interlinear 'For' [1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "accusative-marker",
+        "source": "direct object marker (KJV, ESV, NASB) [1]"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-every",
+        "source": "KJV, ESV, NASB, interlinear 'all' [1]"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֛רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB, interlinear 'the land' [1]"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which-relative",
+        "source": "KJV, ESV, NASB, interlinear 'which' [1]"
+      },
+      {
+        "position": 6,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you-2ms",
+        "source": "KJV, ESV, NASB, interlinear 'you' [1]"
+      },
+      {
+        "position": 7,
+        "surface": "רֹאֶ֖ה",
+        "phrase": "see",
+        "literal": "seeing-participle",
+        "source": "KJV, ESV, NASB, interlinear 'see' [1]"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/ךָ֣",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, interlinear 'to you' [1]"
+      },
+      {
+        "position": 9,
+        "surface": "אֶתְּנֶ֑/נָּה",
+        "phrase": "I will give it",
+        "literal": "I-give-it",
+        "source": "KJV, ESV, NASB, interlinear 'will I give it' [1]"
+      },
+      {
+        "position": 10,
+        "surface": "וּֽ/לְ/זַרְעֲ/ךָ֖",
+        "phrase": "and to your offspring",
+        "literal": "and-to-seed-your",
+        "source": "KJV ('thy seed'), ESV, NASB, interlinear 'and to your offspring' [1]"
+      },
+      {
+        "position": 11,
+        "surface": "עַד",
+        "phrase": "for",
+        "literal": "to-until",
+        "source": "KJV, ESV, NASB, interlinear 'for' [1]"
+      },
+      {
+        "position": 12,
+        "surface": "עוֹלָֽם",
+        "phrase": "ever",
+        "literal": "forever-eternity",
+        "source": "KJV, ESV, NASB, interlinear 'ever' [1]"
+      }
+    ]
+  }
+]

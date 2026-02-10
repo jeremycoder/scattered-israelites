@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּרְא֤וּ",
+        "phrase": "saw",
+        "literal": "and-they_saw",
+        "source": "ESV, NET, KJV, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ/הּ֙",
+        "phrase": "her",
+        "literal": "[direct object marker]-her",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂרֵ֣י",
+        "phrase": "princes",
+        "literal": "princes",
+        "source": "KJV, Mechon-Mamre; ESV/NET: 'officials'"
+      },
+      {
+        "position": 4,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "ESV, NET, KJV, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְהַֽלְל֥וּ",
+        "phrase": "praised",
+        "literal": "and-they_praised",
+        "source": "ESV, NET, Chabad; KJV: 'commended'"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "her",
+        "literal": "[direct object marker]-her",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (ESV, NET, KJV)"
+      },
+      {
+        "position": 8,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "ESV, NET, KJV, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תֻּקַּ֥ח",
+        "phrase": "was taken",
+        "literal": "and-was_taken",
+        "source": "ESV, NET, KJV, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אִשָּׁ֖ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "ESV, NET, KJV, Chabad"
+      },
+      {
+        "position": 11,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "ESV, NET, KJV, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "ESV, NET, KJV, Chabad"
+      }
+    ]
+  }
+]

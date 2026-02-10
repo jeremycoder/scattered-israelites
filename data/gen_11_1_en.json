@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִ֥י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (standard narrative wayyiqtol)"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "the whole",
+        "literal": "all-whole",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂפָ֣ה",
+        "phrase": "language",
+        "literal": "lip-language",
+        "source": "KJV (language), ESV (language), NASB (language); lit. 'lip'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶחָ֑ת",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/דְבָרִ֖ים",
+        "phrase": "and of words",
+        "literal": "and-words",
+        "source": "KJV (speech), ESV (words), NASB (speech); lit. 'words'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲחָדִֽים",
+        "phrase": "one",
+        "literal": "one-PL",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

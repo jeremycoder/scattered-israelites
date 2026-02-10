@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּלְאַבְרָם",
+        "phrase": "and to Abram",
+        "literal": "and-to-Abram",
+        "source": "KJV, ASV, RSV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הֵיטִיב",
+        "phrase": "dealt well",
+        "literal": "dealt-well",
+        "source": "KJV, ASV, RSV; root יטב (to be good/deal well)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּעֲבוּרָהּ",
+        "phrase": "for her sake",
+        "literal": "in-account-of-her",
+        "source": "KJV, ASV, RSV, NASB; בעבור (on account of) + feminine suffix"
+      },
+      {
+        "position": 4,
+        "surface": "וַיְהִי",
+        "phrase": "and he had",
+        "literal": "and-he-was",
+        "source": "KJV, ASV, RSV; existential construction with היה"
+      },
+      {
+        "position": 5,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ASV, RSV, NASB; dative pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "צֹאן",
+        "phrase": "sheep",
+        "literal": "sheep",
+        "source": "KJV, ASV, RSV, NASB; collective noun"
+      },
+      {
+        "position": 7,
+        "surface": "וּבָקָר",
+        "phrase": "and cattle",
+        "literal": "and-cattle",
+        "source": "KJV, ASV, RSV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַחֲמֹרִים",
+        "phrase": "and donkeys",
+        "literal": "and-donkeys",
+        "source": "KJV, ASV, RSV, NASB; masculine plural"
+      },
+      {
+        "position": 9,
+        "surface": "וַעֲבָדִים",
+        "phrase": "and menservants",
+        "literal": "and-male-servants",
+        "source": "KJV, ASV, RSV, NASB; masculine plural"
+      },
+      {
+        "position": 10,
+        "surface": "וּשְׁפָחֹת",
+        "phrase": "and maidservants",
+        "literal": "and-female-servants",
+        "source": "KJV, ASV, RSV, NASB; feminine plural"
+      },
+      {
+        "position": 11,
+        "surface": "וַאֲתֹנֹת",
+        "phrase": "and female donkeys",
+        "literal": "and-she-donkeys",
+        "source": "KJV, ASV, RSV, NASB; feminine plural of אתון"
+      },
+      {
+        "position": 12,
+        "surface": "וּגְמַלִּים",
+        "phrase": "and camels",
+        "literal": "and-camels",
+        "source": "KJV, ASV, RSV, NASB; masculine plural"
+      }
+    ]
+  }
+]

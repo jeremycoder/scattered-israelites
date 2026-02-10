@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲבָֽרֲכָה֙",
+        "phrase": "and I will bless",
+        "literal": "and-I_will_bless",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "מְבָ֣רְכֶ֔י/ךָ",
+        "phrase": "those who bless you",
+        "literal": "blessers-of_you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מְקַלֶּלְ/ךָ֖",
+        "phrase": "and the one who curses you",
+        "literal": "and-currser-of_you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אָאֹ֑ר",
+        "phrase": "I will curse",
+        "literal": "I_will_curse",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/נִבְרְכ֣וּ",
+        "phrase": "and will be blessed",
+        "literal": "and-will_be_blessed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְ/ךָ֔",
+        "phrase": "in you",
+        "literal": "in_you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כֹּ֖ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׁפְּחֹ֥ת",
+        "phrase": "families",
+        "literal": "families",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֲדָמָֽה",
+        "phrase": "of the earth",
+        "literal": "the_earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

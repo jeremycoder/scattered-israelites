@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar, 'to say')"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָ֜ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition of direction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "ל֗וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "אַל",
+        "phrase": "no",
+        "literal": "not",
+        "source": "negative particle (KJV, ESV, NASB)[1]"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֨א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty (KJV 'I pray thee', NASB 'please')[1]"
+      },
+      {
+        "position": 7,
+        "surface": "תְהִ֤י",
+        "phrase": "let there be",
+        "literal": "be!",
+        "source": "jussive of hayah, 'to be' (ESV, NASB)[1]"
+      },
+      {
+        "position": 8,
+        "surface": "מְרִיבָה֙",
+        "phrase": "strife",
+        "literal": "strife",
+        "source": "feminine noun from rib, 'quarrel' (KJV, ESV, NASB)[1]"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּינִ֣/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "preposition + 1cs suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בֵינֶ֔י/ךָ",
+        "phrase": "and you",
+        "literal": "and-between-you",
+        "source": "waw + preposition + 2ms suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "waw + preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "רֹעַ֖/י",
+        "phrase": "my herdsmen",
+        "literal": "shepherds-my",
+        "source": "ra‘ah participle + 1cs suffix (KJV, NASB)[1]"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and",
+        "literal": "and-between",
+        "source": "waw + preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "רֹעֶ֑י/ךָ",
+        "phrase": "your herdsmen",
+        "literal": "shepherds-your",
+        "source": "ra‘ah participle + 2ms suffix (KJV, NASB)[1]"
+      },
+      {
+        "position": 15,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal conjunction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 16,
+        "surface": "אֲנָשִׁ֥ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "plural of ’enosh, 'men/mortals' (YLT 'men', context 'we')[1]"
+      },
+      {
+        "position": 17,
+        "surface": "אַחִ֖ים",
+        "phrase": "brothers",
+        "literal": "brothers",
+        "source": "plural of ’ach, 'brothers' (KJV, ESV, NASB)[1]"
+      },
+      {
+        "position": 18,
+        "surface": "אֲנָֽחְנוּ",
+        "phrase": "we are",
+        "literal": "we",
+        "source": "1cp pronoun (KJV 'we be', ESV 'we are')"
+      }
+    ]
+  }
+]

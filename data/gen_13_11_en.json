@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּבְחַר",
+        "phrase": "and chose",
+        "literal": "and-he chose",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "ל֣/וֹ",
+        "phrase": "for himself",
+        "literal": "to-him",
+        "source": "dative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "ל֗וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "proper name (all translations)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֚ת",
+        "phrase": "(direct object marker)",
+        "literal": "(accusative marker)",
+        "source": "Hebrew particle, untranslated (ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "כִּכַּ֣ר",
+        "phrase": "plain",
+        "literal": "circle",
+        "source": "NET tn; ESV 'Jordan Valley', KJV 'plain'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יַּרְדֵּ֔ן",
+        "phrase": "of the Jordan",
+        "literal": "the-Jordan",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּסַּ֥ע",
+        "phrase": "and journeyed",
+        "literal": "and-he journeyed",
+        "source": "KJV, NASB, NET; ESV 'set out'"
+      },
+      {
+        "position": 9,
+        "surface": "ל֖וֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "proper name (all translations)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/קֶּ֑דֶם",
+        "phrase": "eastward",
+        "literal": "from-east",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יִּפָּ֣רְד֔וּ",
+        "phrase": "and they separated",
+        "literal": "and-they separated",
+        "source": "NET tn, KJV, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "אִ֖ישׁ",
+        "phrase": "each",
+        "literal": "man",
+        "source": "NET tn 'a man'; KJV 'the one'"
+      },
+      {
+        "position": 13,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "preposition (NET tn)"
+      },
+      {
+        "position": 14,
+        "surface": "אָחִֽי/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "NET tn 'his brother'; KJV 'the other'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַנְשֵׁ֣י",
+        "phrase": "the men of",
+        "literal": "and-men",
+        "source": "KJV, ESV, NASB, NET (NET: 'the people of')"
+      },
+      {
+        "position": 2,
+        "surface": "סְדֹ֔ם",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "רָעִ֖ים",
+        "phrase": "wicked",
+        "literal": "evil-PL",
+        "source": "KJV ('wicked'), ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/חַטָּאִ֑ים",
+        "phrase": "and sinners",
+        "literal": "and-sinners",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָ֖ה",
+        "phrase": "against the LORD",
+        "literal": "to-YHWH",
+        "source": "KJV ('before'), ESV/NASB ('against'), NET"
+      },
+      {
+        "position": 6,
+        "surface": "מְאֹֽד",
+        "phrase": "exceedingly",
+        "literal": "exceedingly",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לָ/מָ֤ה",
+        "phrase": "Why",
+        "literal": "to-what",
+        "source": "KJV, ESV, NASB, NIV (interrogative why)"
+      },
+      {
+        "position": 2,
+        "surface": "אָמַ֨רְתָּ֙",
+        "phrase": "did you say",
+        "literal": "you(sg.)-said",
+        "source": "KJV (saidst), ESV (did you say), NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחֹ֣תִ/י",
+        "phrase": "my sister",
+        "literal": "sister-my",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "הִ֔וא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "ESV, NASB (implied in 'She is'), KJV"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/אֶקַּ֥ח",
+        "phrase": "so that I took",
+        "literal": "and-I-took",
+        "source": "KJV (so I might have taken), ESV (so that I took), NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֛/הּ",
+        "phrase": "her",
+        "literal": "-her(DO)",
+        "source": "KJV, ESV, NASB (object marker + her)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אִשָּׁ֑ה",
+        "phrase": "as a wife",
+        "literal": "to-wife",
+        "source": "KJV (to wife), ESV (for my wife), NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/עַתָּ֕ה",
+        "phrase": "now then",
+        "literal": "and-now",
+        "source": "ESV (Now then), NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "here is",
+        "literal": "behold",
+        "source": "KJV (behold), ESV (here is), NASB (discourse particle)"
+      },
+      {
+        "position": 11,
+        "surface": "אִשְׁתְּ/ךָ֖",
+        "phrase": "your wife",
+        "literal": "wife-your",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "קַ֥ח",
+        "phrase": "take",
+        "literal": "take!(imp.)",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "וָ/לֵֽךְ",
+        "phrase": "and go",
+        "literal": "and-go!(imp.)",
+        "source": "KJV (go thy way), ESV (and go), NASB, NIV"
+      }
+    ]
+  }
+]

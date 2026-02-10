@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחִ֣י",
+        "phrase": "And Nahor lived",
+        "literal": "and-lived",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "נָח֗וֹר",
+        "phrase": "Nahor",
+        "literal": "Nahor",
+        "source": "proper name; KJV, NIV, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "אַחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִיד֣/וֹ",
+        "phrase": "he begot",
+        "literal": "he-begot-him",
+        "source": "KJV, NASB; NIV 'he became the father of'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle; untranslatable in English"
+      },
+      {
+        "position": 6,
+        "surface": "תֶּ֔רַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "proper name; KJV, NIV, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "תְּשַֽׁע",
+        "phrase": "nine",
+        "literal": "nine",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֶשְׂרֵ֥ה",
+        "phrase": "and ten",
+        "literal": "ten",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מְאַ֣ת",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he begot",
+        "literal": "and-he-begot",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "KJV, NIV, ESV, NASB"
+      }
+    ]
+  }
+]

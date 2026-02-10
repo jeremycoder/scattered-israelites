@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְחִי",
+        "phrase": "lived",
+        "literal": "and-he.lived",
+        "source": "KJV, ASV, ESV, NASB; wayyiqtol form of חיה (ḥyh)"
+      },
+      {
+        "position": 2,
+        "surface": "רְעוּ",
+        "phrase": "Reu",
+        "literal": "Reu",
+        "source": "Proper name; transliterated in all major versions"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁתַּיִם",
+        "phrase": "thirty-two",
+        "literal": "two",
+        "source": "KJV 'two', ASV 'two'; feminine construct form of שנים (shnayim)"
+      },
+      {
+        "position": 4,
+        "surface": "וּשְׁלֹשִׁים",
+        "phrase": "and thirty",
+        "literal": "and-thirty",
+        "source": "KJV, ASV, ESV; conjunction + שלשים (shloshim)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ASV, ESV, NASB; feminine singular of שנה (shanah)"
+      },
+      {
+        "position": 6,
+        "surface": "וַיּוֹלֶד",
+        "phrase": "and fathered",
+        "literal": "and-he.fathered",
+        "source": "KJV 'begot', ASV 'begot', ESV 'fathered'; wayyiqtol form of ילד (yld)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object-marker",
+        "source": "Accusative particle; standard in all versions"
+      },
+      {
+        "position": 8,
+        "surface": "שְׂרוּג",
+        "phrase": "Serug",
+        "literal": "Serug",
+        "source": "Proper name; transliterated in all major versions"
+      }
+    ]
+  }
+]

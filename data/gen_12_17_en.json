@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְנַגַּ֨ע",
+        "phrase": "struck",
+        "literal": "and-struck",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֧ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֛ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "נְגָעִ֥ים",
+        "phrase": "plagues",
+        "literal": "plagues",
+        "source": "KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 6,
+        "surface": "גְּדֹלִ֖ים",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct object marker]",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּית֑/וֹ",
+        "phrase": "his household",
+        "literal": "house-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "because of",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "דְּבַ֥ר",
+        "phrase": "the matter of",
+        "literal": "word-of",
+        "source": "ESV (word of), NASB (sake of)"
+      },
+      {
+        "position": 11,
+        "surface": "שָׂרַ֖י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֵ֥שֶׁת",
+        "phrase": "wife",
+        "literal": "wife",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אַבְרָֽם",
+        "phrase": "Abram's",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

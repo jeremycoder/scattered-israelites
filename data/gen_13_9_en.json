@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/לֹ֤א",
+        "phrase": "Is not",
+        "literal": "question-marker-not",
+        "source": "KJV, ESV, NASB, interlinear[2]"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "the whole",
+        "literal": "all",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֨רֶץ֙",
+        "phrase": "land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/פָנֶ֔י/ךָ",
+        "phrase": "before you",
+        "literal": "to-face-your",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "הִפָּ֥רֶד",
+        "phrase": "separate",
+        "literal": "separate-yourself",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֖א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV, ESV, NASB[2]"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/עָלָ֑/י",
+        "phrase": "from me",
+        "literal": "from-upon-me",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שְּׂמֹ֣אל",
+        "phrase": "the left",
+        "literal": "the-left",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵימִ֔נָה",
+        "phrase": "then I will go to the right",
+        "literal": "and-to-the-right",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אִם",
+        "phrase": "or if",
+        "literal": "and-if",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/יָּמִ֖ין",
+        "phrase": "the right",
+        "literal": "the-right",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אַשְׂמְאִֽילָה",
+        "phrase": "then I will go to the left",
+        "literal": "and-I-will-go-to-the-left",
+        "source": "KJV, ESV, NASB[1][2]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תְּהִ֥י",
+        "phrase": "And she was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (wayyiqtol narrative sequential perfect)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂרַ֖י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "עֲקָרָ֑ה",
+        "phrase": "barren",
+        "literal": "barren-sterile",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ין",
+        "phrase": "she had no",
+        "literal": "not-is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֖/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "preposition + 3fs suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "וָלָֽד",
+        "phrase": "child",
+        "literal": "child-offspring",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

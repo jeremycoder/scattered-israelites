@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition indicating motion toward)"
+      },
+      {
+        "position": 2,
+        "surface": "מְקוֹם֙",
+        "phrase": "the place",
+        "literal": "place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּזְבֵּ֔חַ",
+        "phrase": "of the altar",
+        "literal": "the-altar",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 5,
+        "surface": "עָ֥שָׂה",
+        "phrase": "he had made",
+        "literal": "he-made",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB (adverb of place)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/רִאשֹׁנָ֑ה",
+        "phrase": "at the first",
+        "literal": "in-the-first",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and called",
+        "literal": "and-he-called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁ֛ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB (adverb of place)"
+      },
+      {
+        "position": 10,
+        "surface": "אַבְרָ֖ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/שֵׁ֥ם",
+        "phrase": "on the name",
+        "literal": "in-name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָֽה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

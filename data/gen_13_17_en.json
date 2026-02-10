@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ק֚וּם",
+        "phrase": "Arise",
+        "literal": "arise-rise",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הִתְהַלֵּ֣ךְ",
+        "phrase": "walk",
+        "literal": "walk-about-yourself",
+        "source": "ESV, NASB, NET (Hitpael: walk about)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/אָ֔רֶץ",
+        "phrase": "through the land",
+        "literal": "in-the land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אָרְכָּ֖/הּ",
+        "phrase": "its length",
+        "literal": "to length-its",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/רָחְבָּ֑/הּ",
+        "phrase": "and its breadth",
+        "literal": "and-to width-its",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (conjunction)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/ךָ֖",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶתְּנֶֽ/נָּה",
+        "phrase": "I will give it",
+        "literal": "ACC-give-it",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

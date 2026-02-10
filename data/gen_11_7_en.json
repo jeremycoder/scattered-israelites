@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ֚בָ/ה",
+        "phrase": "Come",
+        "literal": "come!-IMP",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "נֵֽרְדָ֔ה",
+        "phrase": "let us go down",
+        "literal": "let-us-go-down",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/נָבְלָ֥ה",
+        "phrase": "and confuse",
+        "literal": "and-confuse-IMP",
+        "source": "KJV ('confound'), ESV, NASB, JPS"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 5,
+        "surface": "שְׂפָתָ֑/ם",
+        "phrase": "their language",
+        "literal": "lip-their",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "so that",
+        "literal": "which/that",
+        "source": "relative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׁמְע֔וּ",
+        "phrase": "they will understand",
+        "literal": "they-will-hear",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֖ישׁ",
+        "phrase": "one",
+        "literal": "man",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 10,
+        "surface": "שְׂפַ֥ת",
+        "phrase": "language",
+        "literal": "lip",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 11,
+        "surface": "רֵעֵֽ/הוּ",
+        "phrase": "his neighbor's",
+        "literal": "friend-his",
+        "source": "KJV, ESV, NASB, JPS"
+      }
+    ]
+  }
+]

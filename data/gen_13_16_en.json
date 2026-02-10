@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְשַׂמְתִּי",
+        "phrase": "and I will make",
+        "literal": "and-make.1SG.PERF",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "grammatical particle marking direct object"
+      },
+      {
+        "position": 3,
+        "surface": "זַרְעֲךָ",
+        "phrase": "your seed/descendants",
+        "literal": "seed-2SG.POSS",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "כַּעֲפַר",
+        "phrase": "like the dust",
+        "literal": "like-dust",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "הָאָרֶץ",
+        "phrase": "of the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "so that",
+        "literal": "REL.PRON",
+        "source": "relative pronoun introducing conditional clause; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "conditional particle; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "יוּכַל",
+        "phrase": "can be able",
+        "literal": "be-able.3SG.IMPF",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "לִמְנוֹת",
+        "phrase": "to number/count",
+        "literal": "to-count.INF",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "grammatical particle marking direct object"
+      },
+      {
+        "position": 12,
+        "surface": "עֲפַר",
+        "phrase": "dust",
+        "literal": "dust",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "הָאָרֶץ",
+        "phrase": "of the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 14,
+        "surface": "גַּם",
+        "phrase": "then also",
+        "literal": "also",
+        "source": "emphatic particle; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 15,
+        "surface": "זַרְעֲךָ",
+        "phrase": "your seed/descendants",
+        "literal": "seed-2SG.POSS",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 16,
+        "surface": "יִמָּנֶה",
+        "phrase": "will be numbered",
+        "literal": "be-numbered.3SG.IMPF.PASS",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

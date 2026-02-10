@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִ֣י",
+        "phrase": "and he lived",
+        "literal": "and-he_lived",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אַרְפַּכְשַׁ֗ד",
+        "phrase": "Arpachshad",
+        "literal": "Arpachshad",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אַֽחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִיד֣/וֹ",
+        "phrase": "he had begotten",
+        "literal": "he_begot-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "grammatical marker (ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "שֶׁ֔לַח",
+        "phrase": "Shelah",
+        "literal": "Shelah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁלֹ֣שׁ",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁנִ֔ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אַרְבַּ֥ע",
+        "phrase": "and four",
+        "literal": "and-four",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he begot",
+        "literal": "and-he_begot",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

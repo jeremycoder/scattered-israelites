@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחִ֣י",
+        "phrase": "and lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect of חיה)"
+      },
+      {
+        "position": 2,
+        "surface": "רְע֗וּ",
+        "phrase": "Reu",
+        "literal": "Reu",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִיד֣/וֹ",
+        "phrase": "he fathered",
+        "literal": "he-begat-him",
+        "source": "KJV, ESV, NASB (Hiphil infinitive construct of ילד + 3ms suffix)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle; untransliterated in English"
+      },
+      {
+        "position": 6,
+        "surface": "שְׂר֔וּג",
+        "phrase": "Serug",
+        "literal": "Serug",
+        "source": "proper name; KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 7,
+        "surface": "שֶׁ֥בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁנִ֖ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מָאתַ֣יִם",
+        "phrase": "and two hundred",
+        "literal": "and-two-hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "year",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-he-begat",
+        "source": "KJV, ESV, NASB (waw-consecutive + Hiphil imperfect of ילד)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB; H1121[1]"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "KJV, ESV, NASB (feminine plural of H1121[1])"
+      }
+    ]
+  }
+]

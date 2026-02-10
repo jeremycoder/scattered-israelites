@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "there was",
+        "literal": "and-was",
+        "source": "ESV, NET, KJV: narrative wayyiqtol 'and it was'"
+      },
+      {
+        "position": 2,
+        "surface": "רָעָ֖ב",
+        "phrase": "famine",
+        "literal": "famine",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/אָ֑רֶץ",
+        "phrase": "in the land",
+        "literal": "in-the land",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּ֨רֶד",
+        "phrase": "went down",
+        "literal": "and-went.down",
+        "source": "ESV, NET, KJV: 'went down' due to topography"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָ֤ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֨יְמָ/ה֙",
+        "phrase": "to Egypt",
+        "literal": "to-Egypt-ward",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/ג֣וּר",
+        "phrase": "to sojourn",
+        "literal": "to-sojourn",
+        "source": "ESV, NET, KJV: 'to sojourn/stay for a while'"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "ESV, NET, KJV: adverbial particle"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "ESV, NET, KJV: causal conjunction"
+      },
+      {
+        "position": 10,
+        "surface": "כָבֵ֥ד",
+        "phrase": "severe",
+        "literal": "heavy",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/רָעָ֖ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "ESV, NET, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the land",
+        "source": "ESV, NET, KJV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִמְרִי",
+        "phrase": "Say",
+        "literal": "say-IMP.2FS",
+        "source": "Qal imperative feminine singular from אמר (amar); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "נָא",
+        "phrase": "please",
+        "literal": "please-PART",
+        "source": "Particle of entreaty; KJV 'I pray thee', NASB 'Please', ESV 'Say'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחֹתִי",
+        "phrase": "my sister",
+        "literal": "sister-POSS.1S",
+        "source": "Feminine noun with first person singular possessive suffix; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אָתְּ",
+        "phrase": "you are",
+        "literal": "you-2FS.COPULA",
+        "source": "Second person feminine singular pronoun functioning as copula; KJV 'thou art', ESV 'you are'"
+      },
+      {
+        "position": 5,
+        "surface": "לְמַעַן",
+        "phrase": "so that / in order that",
+        "literal": "for-sake-of",
+        "source": "Preposition + noun construct; ESV, NASB, NIV 'so that'"
+      },
+      {
+        "position": 6,
+        "surface": "יִטַב",
+        "phrase": "it may go well",
+        "literal": "go-well-SUBJ.3MS",
+        "source": "Qal imperfect third masculine singular from יטב (yatab); ESV, NASB, NIV 'it may go well'"
+      },
+      {
+        "position": 7,
+        "surface": "לִי",
+        "phrase": "with me / for me",
+        "literal": "to-POSS.1S",
+        "source": "Preposition + first person singular pronoun; KJV, ESV, NASB 'for me'"
+      },
+      {
+        "position": 8,
+        "surface": "בַעֲבוּרֵךְ",
+        "phrase": "because of you",
+        "literal": "in-sake-of-POSS.2FS",
+        "source": "Preposition + noun construct + second person feminine singular suffix; ESV, NASB, NIV 'because of you'"
+      },
+      {
+        "position": 9,
+        "surface": "וְחָיְתָה",
+        "phrase": "and may live",
+        "literal": "and-live-SUBJ.3FS",
+        "source": "Conjunction + Qal imperfect third feminine singular from חיה (chayah); ESV 'my life will be spared', NASB 'I may live'"
+      },
+      {
+        "position": 10,
+        "surface": "נַפְשִׁי",
+        "phrase": "my life / my soul",
+        "literal": "life-POSS.1S",
+        "source": "Feminine noun with first person singular possessive suffix; KJV 'my soul', ESV 'my life', NASB 'I'"
+      },
+      {
+        "position": 11,
+        "surface": "בִגְלָלֵךְ",
+        "phrase": "on account of you",
+        "literal": "in-account-of-POSS.2FS",
+        "source": "Preposition + noun construct + second person feminine singular suffix; ESV, NASB, NIV 'on account of you'"
+      }
+    ]
+  }
+]

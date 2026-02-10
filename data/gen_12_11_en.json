@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 12,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הִקְרִ֖יב",
+        "phrase": "he was about to enter",
+        "literal": "he-caused-to-draw-near",
+        "source": "ESV, NET; hiphil of qarab"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/ב֣וֹא",
+        "phrase": "to enter",
+        "literal": "to-enter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִצְרָ֑יְמָ/ה",
+        "phrase": "Egypt",
+        "literal": "Egypt-ward",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "he said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional particle; KJV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "שָׂרַ֣י",
+        "phrase": "Sarai",
+        "literal": "Sarai",
+        "source": "proper name; KJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אִשְׁתּ֔/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הִנֵּה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV; deictic particle; ESV 'Look'"
+      },
+      {
+        "position": 11,
+        "surface": "נָ֣א",
+        "phrase": "now",
+        "literal": "please/now",
+        "source": "emphatic particle; KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יָדַ֔עְתִּי",
+        "phrase": "I know",
+        "literal": "I-have-known",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "כִּ֛י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV; causal conjunction"
+      },
+      {
+        "position": 14,
+        "surface": "אִשָּׁ֥ה",
+        "phrase": "woman",
+        "literal": "woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "יְפַת",
+        "phrase": "beautiful",
+        "literal": "fair/beautiful",
+        "source": "KJV 'fair', ESV 'beautiful'"
+      },
+      {
+        "position": 16,
+        "surface": "מַרְאֶ֖ה",
+        "phrase": "in appearance",
+        "literal": "appearance",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "אָֽתְּ",
+        "phrase": "you are",
+        "literal": "you-(fem.)",
+        "source": "2fs pronoun; KJV, ESV"
+      }
+    ]
+  }
+]

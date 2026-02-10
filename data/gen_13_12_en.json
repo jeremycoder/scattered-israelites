@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 13,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַבְרָ֖ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "KJV, ESV, NASB, proper name"
+      },
+      {
+        "position": 2,
+        "surface": "יָשַׁ֣ב",
+        "phrase": "dwelled",
+        "literal": "dwelt",
+        "source": "KJV, ESV (settled), NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אֶֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, proper name"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/ל֗וֹט",
+        "phrase": "and Lot",
+        "literal": "and-Lot",
+        "source": "KJV, ESV, NASB, proper name"
+      },
+      {
+        "position": 6,
+        "surface": "יָשַׁב֙",
+        "phrase": "dwelled",
+        "literal": "dwelt",
+        "source": "KJV, ESV (settled), NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/עָרֵ֣י",
+        "phrase": "in the cities",
+        "literal": "in-cities",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כִּכָּ֔ר",
+        "phrase": "of the plain",
+        "literal": "the-circle",
+        "source": "KJV (plain), ESV (valley), NASB (valley); refers to Jordan circle/valley"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֶּאֱהַ֖ל",
+        "phrase": "pitched his tent",
+        "literal": "and-he-pitched-tent",
+        "source": "KJV, ESV (moved his tent), NASB"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "as far as",
+        "literal": "until",
+        "source": "KJV (toward), ESV, NASB (as far as)"
+      },
+      {
+        "position": 11,
+        "surface": "סְדֹֽם",
+        "phrase": "Sodom",
+        "literal": "Sodom",
+        "source": "KJV, ESV, NASB, proper name"
+      }
+    ]
+  }
+]

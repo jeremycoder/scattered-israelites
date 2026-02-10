@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה֙",
+        "phrase": "Now these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB (waw + demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְדֹ֣ת",
+        "phrase": "are the generations of",
+        "literal": "generations-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "תֶּ֔רַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "תֶּ֚רַח",
+        "phrase": "Terah",
+        "literal": "Terah",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "Hiphil perfect 3ms of yld; KJV, NASB, ESV ('fathered')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Standard accusative marker (et)"
+      },
+      {
+        "position": 7,
+        "surface": "אַבְרָ֔ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Standard accusative marker (et)"
+      },
+      {
+        "position": 9,
+        "surface": "נָח֖וֹר",
+        "phrase": "Nahor",
+        "literal": "Nahor",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Waw + et; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הָרָ֑ן",
+        "phrase": "Haran",
+        "literal": "Haran",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הָרָ֖ן",
+        "phrase": "And Haran",
+        "literal": "and-Haran",
+        "source": "Waw + proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "Hiphil perfect 3ms of yld; KJV, NASB, ESV ('fathered')"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "Standard accusative marker (et)"
+      },
+      {
+        "position": 15,
+        "surface": "לֽוֹט",
+        "phrase": "Lot",
+        "literal": "Lot",
+        "source": "Proper name; KJV, ESV, NASB"
+      }
+    ]
+  }
+]
