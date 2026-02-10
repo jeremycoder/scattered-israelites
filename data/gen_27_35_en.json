@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ֥א",
+        "phrase": "came",
+        "literal": "he_came",
+        "source": "KJV (came), ESV (came), NASB (came)"
+      },
+      {
+        "position": 3,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/מִרְמָ֑ה",
+        "phrase": "with deceit",
+        "literal": "in-deceit",
+        "source": "KJV (subtilty), ESV (deceitfully), NASB (deceitfully)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקַּ֖ח",
+        "phrase": "and has taken",
+        "literal": "and-he_took",
+        "source": "KJV (hath taken), ESV (has taken), NASB (has taken)"
+      },
+      {
+        "position": 6,
+        "surface": "בִּרְכָתֶֽ/ךָ",
+        "phrase": "your blessing",
+        "literal": "blessing-your",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

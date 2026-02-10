@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ/שְׁמֹ֤עַ",
+        "phrase": "when he heard",
+        "literal": "when-hear-INF",
+        "source": "KJV, ESV, NASB (ki + Qal infinitive construct of shama)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂו֙",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "ESV, NASB (accusative particle); KJV omits"
+      },
+      {
+        "position": 4,
+        "surface": "דִּבְרֵ֣י",
+        "phrase": "words",
+        "literal": "words-of",
+        "source": "KJV, ESV, NASB (dibre, plural construct)"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֔י/ו",
+        "phrase": "of his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּצְעַ֣ק",
+        "phrase": "he cried out",
+        "literal": "and-he-cried",
+        "source": "KJV, ESV, NASB (wayyiqtol of tsa'aq)"
+      },
+      {
+        "position": 7,
+        "surface": "צְעָקָ֔ה",
+        "phrase": "a cry",
+        "literal": "cry",
+        "source": "KJV, ESV, NASB (tsa'aqah, cognate accusative)"
+      },
+      {
+        "position": 8,
+        "surface": "גְּדֹלָ֥ה",
+        "phrase": "great",
+        "literal": "great-F",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מָרָ֖ה",
+        "phrase": "and bitter",
+        "literal": "and-bitter-F",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "with",
+        "literal": "until-to",
+        "source": "KJV ('with'), NASB ('with'); lit. prep. 'until' [1]"
+      },
+      {
+        "position": 11,
+        "surface": "מְאֹ֑ד",
+        "phrase": "exceedingly",
+        "literal": "very",
+        "source": "KJV, ESV, NASB (adverb)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אָבִ֔י/ו",
+        "phrase": "to his father",
+        "literal": "to-father-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בָּרֲכֵ֥/נִי",
+        "phrase": "Bless me",
+        "literal": "bless-me",
+        "source": "KJV, ESV, NASB (Piel imperative + 1cs suffix)"
+      },
+      {
+        "position": 15,
+        "surface": "גַם",
+        "phrase": "even",
+        "literal": "also",
+        "source": "KJV, ESV, NASB (conjunction)"
+      },
+      {
+        "position": 16,
+        "surface": "אָ֖נִי",
+        "phrase": "me",
+        "literal": "I",
+        "source": "KJV, ESV, NASB (1cs pronoun)"
+      },
+      {
+        "position": 17,
+        "surface": "אָבִֽ/י",
+        "phrase": "O my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

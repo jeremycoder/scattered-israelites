@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתִּתֵּן",
+        "phrase": "and she gave",
+        "literal": "and-she-gave",
+        "source": "KJV, ESV, NASB, BSB, HCSB, WEB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "accusative-marker",
+        "source": "grammatical particle; marks definite direct object"
+      },
+      {
+        "position": 3,
+        "surface": "הַמַּטְעַמִּים",
+        "phrase": "the savory food",
+        "literal": "the-tasty-foods",
+        "source": "KJV (savoury meat), ESV (delicious food), NASB (savory food), BSB (tasty food)"
+      },
+      {
+        "position": 4,
+        "surface": "וְאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-accusative-marker",
+        "source": "conjunction + grammatical particle"
+      },
+      {
+        "position": 5,
+        "surface": "הַלֶּחֶם",
+        "phrase": "the bread",
+        "literal": "the-bread",
+        "source": "KJV, ESV, NASB, BSB, HCSB, WEB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "that-which",
+        "source": "relative pronoun; KJV, ESV, NASB, BSB"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָׂתָה",
+        "phrase": "she had made",
+        "literal": "she-made",
+        "source": "KJV (prepared), ESV (prepared), NASB (made), BSB (made)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּיַד",
+        "phrase": "into the hand",
+        "literal": "in-hand",
+        "source": "preposition + noun; KJV, ESV, NASB (into the hand)"
+      },
+      {
+        "position": 9,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper noun; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנָהּ",
+        "phrase": "her son",
+        "literal": "son-her",
+        "source": "noun + possessive suffix; KJV, ESV, NASB, BSB, HCSB, WEB"
+      }
+    ]
+  }
+]

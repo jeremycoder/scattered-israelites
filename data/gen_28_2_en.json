@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ק֥וּם",
+        "phrase": "Arise",
+        "literal": "arise-rise",
+        "source": "KJV, NASB, ESV (imperative of qum, 'to rise')"
+      },
+      {
+        "position": 2,
+        "surface": "לֵךְ֙",
+        "phrase": "go",
+        "literal": "go-walk",
+        "source": "KJV, NASB, ESV (imperative of yalak, 'to go')"
+      },
+      {
+        "position": 3,
+        "surface": "פַּדֶּ֣נָֽ/ה",
+        "phrase": "to Paddan",
+        "literal": "to-Paddan",
+        "source": "KJV (Padanaram), NASB (Paddan-aram), NET"
+      },
+      {
+        "position": 4,
+        "surface": "אֲרָ֔ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "KJV, NASB, ESV (region in Syria)"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֥יתָ/ה",
+        "phrase": "to the house",
+        "literal": "house-of",
+        "source": "KJV, NASB, ESV (bayith, 'house, family')"
+      },
+      {
+        "position": 6,
+        "surface": "בְתוּאֵ֖ל",
+        "phrase": "of Bethuel",
+        "literal": "Bethuel",
+        "source": "KJV, NASB, ESV (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲבִ֣י",
+        "phrase": "father",
+        "literal": "father-of.me",
+        "source": "KJV, NASB, ESV ('ab, 'father')"
+      },
+      {
+        "position": 8,
+        "surface": "אִמֶּ֑/ךָ",
+        "phrase": "of your mother",
+        "literal": "mother-your",
+        "source": "KJV, NASB, ESV ('em, 'mother')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/קַח",
+        "phrase": "and take",
+        "literal": "and-take",
+        "source": "KJV, NASB, ESV (imperative of laqach, 'take')"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/ךָ֤",
+        "phrase": "for yourself",
+        "literal": "to-you",
+        "source": "KJV, NASB, ESV (preposition + 2ms suffix)"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/שָּׁם֙",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, NASB, ESV (preposition + sham, 'there')"
+      },
+      {
+        "position": 12,
+        "surface": "אִשָּׁ֔ה",
+        "phrase": "a wife",
+        "literal": "woman-wife",
+        "source": "KJV, NASB, ESV (ishshah, 'woman, wife')"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/בְּנ֥וֹת",
+        "phrase": "from the daughters",
+        "literal": "from-daughters",
+        "source": "KJV, NASB, ESV (preposition + benot, 'daughters')"
+      },
+      {
+        "position": 14,
+        "surface": "לָבָ֖ן",
+        "phrase": "of Laban",
+        "literal": "Laban",
+        "source": "KJV, NASB, ESV (proper name)"
+      },
+      {
+        "position": 15,
+        "surface": "אֲחִ֥י",
+        "phrase": "brother",
+        "literal": "brother-of.me",
+        "source": "KJV, NASB, ESV ('ach, 'brother')"
+      },
+      {
+        "position": 16,
+        "surface": "אִמֶּֽ/ךָ",
+        "phrase": "of your mother",
+        "literal": "mother-your",
+        "source": "KJV, NASB, ESV ('em, 'mother')"
+      }
+    ]
+  }
+]

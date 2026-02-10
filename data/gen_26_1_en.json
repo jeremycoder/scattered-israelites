@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And there was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "רָעָב֙",
+        "phrase": "a famine",
+        "literal": "famine",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/אָ֔רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/לְּ/בַד֙",
+        "phrase": "besides",
+        "literal": "apart-from",
+        "source": "KJV, ESV, NASB; 'aside from' Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/רָעָ֣ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/רִאשׁ֔וֹן",
+        "phrase": "first",
+        "literal": "the-first",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "relative particle; KJV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "הָיָ֖ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בִּ/ימֵ֣י",
+        "phrase": "in the days of",
+        "literal": "in-days-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יֵּ֧לֶךְ",
+        "phrase": "And went",
+        "literal": "and-went",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "יִצְחָ֛ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; KJV, ESV"
+      },
+      {
+        "position": 14,
+        "surface": "אֲבִימֶּ֥לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "פְּלִשְׁתִּ֖ים",
+        "phrase": "of the Philistines",
+        "literal": "Philistines",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "גְּרָֽרָ/ה",
+        "phrase": "to Gerar",
+        "literal": "Gerar-ward",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

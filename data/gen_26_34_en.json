@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And Esau was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol formula)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂו֙",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "a son of",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבָּעִ֣ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקַּ֤ח",
+        "phrase": "he took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אִשָּׁה֙",
+        "phrase": "a wife",
+        "literal": "woman-wife",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוּדִ֔ית",
+        "phrase": "Judith",
+        "literal": "Judith",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּת",
+        "phrase": "daughter of",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בְּאֵרִ֖י",
+        "phrase": "Beeri",
+        "literal": "Beeri",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 12,
+        "surface": "הַֽ/חִתִּ֑י",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct object marker]",
+        "source": "KJV, ESV, NASB (conjunction + particle)"
+      },
+      {
+        "position": 14,
+        "surface": "בָּ֣שְׂמַ֔ת",
+        "phrase": "Basemath",
+        "literal": "Basemath",
+        "source": "KJV (Bashemath), ESV, NASB (proper name)"
+      },
+      {
+        "position": 15,
+        "surface": "בַּת",
+        "phrase": "daughter of",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "אֵילֹ֖ן",
+        "phrase": "Elon",
+        "literal": "Elon",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 17,
+        "surface": "הַֽ/חִתִּֽי",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and he did not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB (waw-consecutive + negation)"
+      },
+      {
+        "position": 2,
+        "surface": "הִכִּיר֔/וֹ",
+        "phrase": "recognize him",
+        "literal": "recognize-him",
+        "source": "KJV, ESV, NASB (hiphil perfect 3ms + 3ms suffix)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "that/because",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הָי֣וּ",
+        "phrase": "were",
+        "literal": "be-PL",
+        "source": "KJV, ESV, NASB (qal perfect 3mp)"
+      },
+      {
+        "position": 5,
+        "surface": "יָדָ֗י/ו",
+        "phrase": "his hands",
+        "literal": "hand-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ/ידֵ֛י",
+        "phrase": "like the hands of",
+        "literal": "like-hand-PL",
+        "source": "KJV, ESV, NASB (preposition + noun construct)"
+      },
+      {
+        "position": 7,
+        "surface": "עֵשָׂ֥ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אָחִ֖י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שְׂעִרֹ֑ת",
+        "phrase": "hairy",
+        "literal": "hairy-PL",
+        "source": "KJV, ESV, NASB (feminine plural adjective)"
+      },
+      {
+        "position": 10,
+        "surface": "וַֽ/יְבָרְכֵֽ/הוּ",
+        "phrase": "so he blessed him",
+        "literal": "and-bless-him",
+        "source": "KJV, ESV, NASB (waw-consecutive + piel perfect 3ms + 3ms suffix)"
+      }
+    ]
+  }
+]

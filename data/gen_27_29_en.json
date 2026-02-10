@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יַֽעַבְד֣וּ/ךָ",
+        "phrase": "serve you",
+        "literal": "serve-they-you",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "עַמִּ֗ים",
+        "phrase": "peoples",
+        "literal": "peoples",
+        "source": "ESV, NASB, NKJV"
+      },
+      {
+        "position": 3,
+        "surface": "ו/ישתחו",
+        "phrase": "and bow down",
+        "literal": "and-bow",
+        "source": "ESV, NASB; waw-consecutive + jussive"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יִֽשְׁתַּחֲו֤וּ",
+        "phrase": "and bow down",
+        "literal": "and-bow down-they",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֙",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "ESV, NASB; preposition + pronominal suffix"
+      },
+      {
+        "position": 6,
+        "surface": "לְאֻמִּ֔ים",
+        "phrase": "nations",
+        "literal": "nations",
+        "source": "ESV, NASB, NKJV"
+      },
+      {
+        "position": 7,
+        "surface": "הֱוֵ֤ה",
+        "phrase": "be",
+        "literal": "be",
+        "source": "ESV, NASB; jussive of היה"
+      },
+      {
+        "position": 8,
+        "surface": "גְבִיר֙",
+        "phrase": "lord",
+        "literal": "lord-mighty",
+        "source": "ESV, NASB, NET notes"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/אַחֶ֔י/ךָ",
+        "phrase": "over your brothers",
+        "literal": "to-brothers-your",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/יִשְׁתַּחֲוּ֥וּ",
+        "phrase": "bow down",
+        "literal": "and-bow down-they",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/ךָ֖",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "אִמֶּ֑/ךָ",
+        "phrase": "of your mother",
+        "literal": "mother-your",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אֹרְרֶ֣י/ךָ",
+        "phrase": "who curse you",
+        "literal": "curse ones-your",
+        "source": "ESV, NASB, NKJV"
+      },
+      {
+        "position": 15,
+        "surface": "אָר֔וּר",
+        "phrase": "be cursed",
+        "literal": "cursed",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 16,
+        "surface": "וּֽ/מְבָרֲכֶ֖י/ךָ",
+        "phrase": "who bless you",
+        "literal": "and-bless ones-your",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "בָּרֽוּךְ",
+        "phrase": "be blessed",
+        "literal": "blessed",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

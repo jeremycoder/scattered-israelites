@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּירָא֙",
+        "phrase": "and he was afraid",
+        "literal": "and-he_feared",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יֹּאמַ֔ר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מַה",
+        "phrase": "How",
+        "literal": "what/how",
+        "source": "interrogative particle (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "נּוֹרָ֖א",
+        "phrase": "awesome",
+        "literal": "fearful/awesome",
+        "source": "ESV, NASB; KJV 'dreadful'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מָּק֣וֹם",
+        "phrase": "is this place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֣ין",
+        "phrase": "is none",
+        "literal": "not/is_not",
+        "source": "KJV, ESV; negation (NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "זֶ֗ה",
+        "phrase": "other than",
+        "literal": "this",
+        "source": "KJV 'this is none other'; demonstrative (ESV)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֚י",
+        "phrase": "than",
+        "literal": "for/because",
+        "source": "explanatory particle (KJV, ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "אִם",
+        "phrase": "but",
+        "literal": "if/except",
+        "source": "exceptive particle (KJV 'but', ESV 'other than')"
+      },
+      {
+        "position": 11,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/זֶ֖ה",
+        "phrase": "and this",
+        "literal": "and-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "שַׁ֥עַר",
+        "phrase": "gate",
+        "literal": "gate",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/שָּׁמָֽיִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

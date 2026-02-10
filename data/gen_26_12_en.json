@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּזְרַע",
+        "phrase": "and sowed",
+        "literal": "and-he.sowed",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "בָּאָרֶץ",
+        "phrase": "in that land",
+        "literal": "in-the.land",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "הַהִוא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "Demonstrative pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַיִּמְצָא",
+        "phrase": "and reaped",
+        "literal": "and-he.found",
+        "source": "KJV 'received'; ESV, NASB 'reaped'; Hebrew verb מצא means 'find' but in agricultural context means 'reap' or 'harvest'"
+      },
+      {
+        "position": 6,
+        "surface": "בַּשָּׁנָה",
+        "phrase": "in the same year",
+        "literal": "in-the.year",
+        "source": "KJV, ESV, NASB, BSB, HCSB; refers to agricultural year from planting to harvest"
+      },
+      {
+        "position": 7,
+        "surface": "הַהִוא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "Demonstrative pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מֵאָה",
+        "phrase": "a hundredfold",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB, BSB, HCSB; means one hundred times the amount sown"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁעָרִים",
+        "phrase": "fold",
+        "literal": "gates",
+        "source": "Literally 'gates' but used idiomatically for 'fold' or 'times'; some sources render as part of 'hundredfold'"
+      },
+      {
+        "position": 10,
+        "surface": "וַיְבָרֲכֵהוּ",
+        "phrase": "and the LORD blessed him",
+        "literal": "and-he.blessed-him",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "Tetragrammaton; all translations render as 'LORD' or 'Yahweh'"
+      }
+    ]
+  }
+]

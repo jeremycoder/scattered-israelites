@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "So he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB (wayyiqra, Qal consecutive imperfect)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "it",
+        "literal": "ObjMarker-it",
+        "source": "direct object marker + 3fs pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁבְעָ֑ה",
+        "phrase": "Shibah",
+        "literal": "Shibah-oath",
+        "source": "KJV (Shebah), ESV (Shibah), NASB (Shibah); means 'oath' or 'seven'"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "-",
+        "literal": "upon",
+        "source": "preposition, often pleonastic here (ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "כֵּ֤ן",
+        "phrase": "therefore",
+        "literal": "thus-so",
+        "source": "KJV, ESV, NASB (kên, adverb)"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׁם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עִיר֙",
+        "phrase": "of the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בְּאֵ֣ר",
+        "phrase": "Beersheba",
+        "literal": "well",
+        "source": "part of proper name Beersheba (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "שֶׁ֔בַע",
+        "phrase": "Beersheba",
+        "literal": "seven-oath",
+        "source": "part of proper name Beersheba; means 'seven' or 'oath' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "עַ֖ד",
+        "phrase": "to",
+        "literal": "until-to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֖לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ֚ךְ",
+        "phrase": "go",
+        "literal": "go_away",
+        "source": "imperative 'go from us' (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵֽ/עִמָּ֔/נוּ",
+        "phrase": "from us",
+        "literal": "from_with_us",
+        "source": "'Go from us' (KJV, NET, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal conjunction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "עָצַֽמְתָּ",
+        "phrase": "you have become",
+        "literal": "you_have_become_strong",
+        "source": "`atsam: powerful/mightier (NASB, NET, KJV)"
+      },
+      {
+        "position": 9,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "than us",
+        "literal": "from_us",
+        "source": "comparative (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֹֽד",
+        "phrase": "much",
+        "literal": "very_much",
+        "source": "adverb of intensity (KJV, NASB, NET)"
+      }
+    ]
+  }
+]

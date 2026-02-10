@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "oath formula particle (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 2,
+        "surface": "תַּעֲשֵׂ֨ה",
+        "phrase": "you will do",
+        "literal": "you-do",
+        "source": "2ms imperfect Qal of עשה (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 3,
+        "surface": "עִמָּ֜/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "preposition + 1pl suffix (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 4,
+        "surface": "רָעָ֗ה",
+        "phrase": "harm",
+        "literal": "evil-harm",
+        "source": "feminine noun רעה (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁר֙",
+        "phrase": "just as",
+        "literal": "as-that",
+        "source": "כ + אשר (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negation (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 7,
+        "surface": "נְגַֽעֲנ֔וּ/ךָ",
+        "phrase": "we have touched you",
+        "literal": "we-touched-you",
+        "source": "1pl perfect Qal of נגע + 2ms suffix, idiomatic for 'harmed' (NET, REV, KJV, ESV)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/כַ/אֲשֶׁ֨ר",
+        "phrase": "and just as",
+        "literal": "and-as-that",
+        "source": "waw + כ + אשר (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 9,
+        "surface": "עָשִׂ֤ינוּ",
+        "phrase": "we have done",
+        "literal": "we-did",
+        "source": "1pl perfect Qal of עשה (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 10,
+        "surface": "עִמְּ/ךָ֙",
+        "phrase": "to you",
+        "literal": "with-you",
+        "source": "preposition + 2ms suffix (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 11,
+        "surface": "רַק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "restrictive particle (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 12,
+        "surface": "ט֔וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "masculine noun טוב (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/נְּשַׁלֵּֽחֲ/ךָ֖",
+        "phrase": "and we sent you away",
+        "literal": "and-we-sent-away-you",
+        "source": "waw-consecutive + 1pl perfect Piel of שׁלח + 2ms suffix (NET, KJV, ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/שָׁל֑וֹם",
+        "phrase": "in peace",
+        "literal": "in-peace",
+        "source": "preposition + שׁלום (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 15,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "2ms pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 16,
+        "surface": "עַתָּ֖ה",
+        "phrase": "now",
+        "literal": "now",
+        "source": "temporal adverb (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 17,
+        "surface": "בְּר֥וּךְ",
+        "phrase": "blessed",
+        "literal": "blessed",
+        "source": "Qal passive participle of ברך (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 18,
+        "surface": "יְהוָֽה",
+        "phrase": "of the LORD",
+        "literal": "YHWH",
+        "source": "proper name (KJV, ESV, NASB, NET)"
+      }
+    ]
+  }
+]

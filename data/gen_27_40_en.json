@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַל",
+        "phrase": "And by",
+        "literal": "and-upon",
+        "source": "KJV, ESV, NASB (conjunction and preposition)"
+      },
+      {
+        "position": 2,
+        "surface": "חַרְבְּ/ךָ֣",
+        "phrase": "your sword",
+        "literal": "sword-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "תִֽחְיֶ֔ה",
+        "phrase": "you shall live",
+        "literal": "you-will-live",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-(direct object marker)",
+        "source": "KJV, ESV, NASB (waw + et marker)"
+      },
+      {
+        "position": 5,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "תַּעֲבֹ֑ד",
+        "phrase": "you shall serve",
+        "literal": "you-will-serve",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיָה֙",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כַּ/אֲשֶׁ֣ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB (comparative particle)"
+      },
+      {
+        "position": 9,
+        "surface": "תָּרִ֔יד",
+        "phrase": "you grow restless",
+        "literal": "you-will-grow restive",
+        "source": "ESV, NASB (or 'have dominion' KJV)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/פָרַקְתָּ֥",
+        "phrase": "you will break",
+        "literal": "and-you-will-break off",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עֻלּ֖/וֹ",
+        "phrase": "his yoke",
+        "literal": "yoke-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 13,
+        "surface": "צַוָּארֶֽ/ךָ",
+        "phrase": "your neck",
+        "literal": "neck-your",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

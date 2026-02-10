@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, HCSB; conjunction ו + verb אמר (qal imperfect 3ms)"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "KJV, ESV, NASB, HCSB; 2ms personal pronoun"
+      },
+      {
+        "position": 3,
+        "surface": "זֶ֖ה",
+        "phrase": "really",
+        "literal": "this",
+        "source": "KJV, ESV, NASB, HCSB; demonstrative pronoun used for emphasis in interrogative context"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנִ֣י",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "KJV, ESV, NASB, HCSB; noun בן with 1s possessive suffix"
+      },
+      {
+        "position": 5,
+        "surface": "עֵשָׂ֑ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB, HCSB; proper noun"
+      },
+      {
+        "position": 6,
+        "surface": "וַיֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, HCSB; conjunction ו + verb אמר (qal imperfect 3ms)"
+      },
+      {
+        "position": 7,
+        "surface": "אָֽנִי",
+        "phrase": "I am",
+        "literal": "I",
+        "source": "KJV, ESV, NASB, HCSB; 1s personal pronoun with copular force"
+      }
+    ]
+  }
+]

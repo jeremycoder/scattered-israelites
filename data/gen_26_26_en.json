@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֵּלֶךְ",
+        "phrase": "went",
+        "literal": "and-he-went",
+        "source": "KJV, ESV, NASB; Wayyiqtol form of הלך (halak)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶלֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "KJV, ESV, NASB; proper noun, king of the Philistines"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלָיו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB; preposition אל (el) + 3ms pronoun"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְּרָר",
+        "phrase": "from Gerar",
+        "literal": "from-Gerar",
+        "source": "KJV, ESV, NASB; preposition מן (min) + proper noun Gerar"
+      },
+      {
+        "position": 5,
+        "surface": "וַאֲחֻזַּת",
+        "phrase": "and Ahuzzath",
+        "literal": "and-Ahuzzath",
+        "source": "KJV, ESV, NASB; conjunction + proper noun (his adviser)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵרֵעֵהוּ",
+        "phrase": "his adviser",
+        "literal": "from-friend-his",
+        "source": "KJV, ESV, NASB; preposition מן (min) + noun רע (rea) + 3ms possessive suffix"
+      },
+      {
+        "position": 7,
+        "surface": "וּפִיכֹל",
+        "phrase": "and Phichol",
+        "literal": "and-Phichol",
+        "source": "KJV, ESV, NASB; conjunction + proper noun"
+      },
+      {
+        "position": 8,
+        "surface": "שַׂר",
+        "phrase": "commander",
+        "literal": "commander",
+        "source": "KJV, ESV, NASB; noun שר (sar) meaning chief/commander"
+      },
+      {
+        "position": 9,
+        "surface": "צְבָאוֹ",
+        "phrase": "of his army",
+        "literal": "army-his",
+        "source": "KJV, ESV, NASB; noun צבא (tzava) + 3ms possessive suffix"
+      }
+    ]
+  }
+]

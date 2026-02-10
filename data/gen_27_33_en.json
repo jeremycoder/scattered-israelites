@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֶּחֱרַד",
+        "phrase": "and he trembled",
+        "literal": "and-he.trembled",
+        "source": "Conjunction waw + qal imperfect 3ms of חרד (to tremble)"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "Proper noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "חֲרָדָה",
+        "phrase": "trembling",
+        "literal": "trembling",
+        "source": "Feminine noun; ESV 'trembled very violently', NASB 'trembled violently'"
+      },
+      {
+        "position": 4,
+        "surface": "גְּדֹלָה",
+        "phrase": "great",
+        "literal": "great",
+        "source": "Feminine adjective; KJV 'exceeding great trembling', NASB 'very violently'"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "very",
+        "literal": "unto/to",
+        "source": "Preposition; intensifying particle in this construction"
+      },
+      {
+        "position": 6,
+        "surface": "מְאֹד",
+        "phrase": "exceedingly",
+        "literal": "exceedingly",
+        "source": "Adverb; KJV 'very exceedingly', ESV 'very violently'"
+      },
+      {
+        "position": 7,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Conjunction waw + qal imperfect 3ms of אמר (to say)"
+      },
+      {
+        "position": 8,
+        "surface": "מִי",
+        "phrase": "who",
+        "literal": "who",
+        "source": "Interrogative pronoun; ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "אֵפוֹא",
+        "phrase": "then",
+        "literal": "then",
+        "source": "Adverb of emphasis; ESV 'who was it then', NASB 'who was he then'"
+      },
+      {
+        "position": 10,
+        "surface": "הוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "Masculine singular pronoun"
+      },
+      {
+        "position": 11,
+        "surface": "הַצָּד",
+        "phrase": "the one who hunted",
+        "literal": "the-hunter",
+        "source": "Definite article + qal participle ms of צוד (to hunt); ESV, NASB 'hunted game'"
+      },
+      {
+        "position": 12,
+        "surface": "צַיִד",
+        "phrase": "game",
+        "literal": "game/venison",
+        "source": "Masculine noun; ESV 'game', KJV 'venison'"
+      },
+      {
+        "position": 13,
+        "surface": "וַיָּבֵא",
+        "phrase": "and brought",
+        "literal": "and-he.brought",
+        "source": "Conjunction waw + hifil imperfect 3ms of בוא (to bring)"
+      },
+      {
+        "position": 14,
+        "surface": "לִי",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Preposition + 1cs pronoun suffix"
+      },
+      {
+        "position": 15,
+        "surface": "וָאֹכַל",
+        "phrase": "and I ate",
+        "literal": "and-I.ate",
+        "source": "Conjunction waw + qal imperfect 1cs of אכל (to eat)"
+      },
+      {
+        "position": 16,
+        "surface": "מִכֹּל",
+        "phrase": "of all",
+        "literal": "from-all",
+        "source": "Preposition min + masculine singular construct of כל (all); ESV 'all of it', NASB 'all of it'"
+      },
+      {
+        "position": 17,
+        "surface": "בְטֶרֶם",
+        "phrase": "before",
+        "literal": "before",
+        "source": "Preposition + noun; temporal marker; ESV, NASB, KJV"
+      },
+      {
+        "position": 18,
+        "surface": "תָּבוֹא",
+        "phrase": "you came",
+        "literal": "you.came",
+        "source": "Qal imperfect 2ms of בוא (to come)"
+      },
+      {
+        "position": 19,
+        "surface": "וָאֲבָרְכֵהוּ",
+        "phrase": "and I blessed him",
+        "literal": "and-I.blessed-him",
+        "source": "Conjunction waw + piel imperfect 1cs of ברך (to bless) + 3ms object pronoun"
+      },
+      {
+        "position": 20,
+        "surface": "גַּם",
+        "phrase": "yes, and",
+        "literal": "also",
+        "source": "Adverb; ESV 'yes, and', NASB 'yes, and', KJV 'also'"
+      },
+      {
+        "position": 21,
+        "surface": "בָּרוּךְ",
+        "phrase": "blessed",
+        "literal": "blessed",
+        "source": "Qal passive participle ms of ברך (to bless); ESV, NASB, KJV"
+      },
+      {
+        "position": 22,
+        "surface": "יִהְיֶה",
+        "phrase": "he shall be",
+        "literal": "he.shall-be",
+        "source": "Qal imperfect 3ms of היה (to be); ESV 'he shall be blessed', NASB 'he shall be blessed'"
+      }
+    ]
+  }
+]

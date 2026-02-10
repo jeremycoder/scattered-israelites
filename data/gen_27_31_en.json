@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּעַשׂ",
+        "phrase": "he also made",
+        "literal": "and-he.made",
+        "source": "ESV, NASB, BSB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "Adverbial particle; ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "הוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "Pronoun; ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "מַטְעַמִּים",
+        "phrase": "savory food",
+        "literal": "tasty-foods",
+        "source": "ESV, NASB, BSB, Chabad; plural of טַעַם (taste/flavor)"
+      },
+      {
+        "position": 5,
+        "surface": "וַיָּבֵא",
+        "phrase": "and brought",
+        "literal": "and-he.brought",
+        "source": "ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "לְאָבִיו",
+        "phrase": "to his father",
+        "literal": "to-father-his",
+        "source": "ESV, NASB, Mechon-Mamre; לְ (to) + אָב (father) + suffix"
+      },
+      {
+        "position": 7,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and said",
+        "literal": "and-he.said",
+        "source": "ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "לְאָבִיו",
+        "phrase": "to his father",
+        "literal": "to-father-his",
+        "source": "ESV, NASB, Mechon-Mamre; לְ (to) + אָב (father) + suffix"
+      },
+      {
+        "position": 9,
+        "surface": "יָקֻם",
+        "phrase": "let arise",
+        "literal": "he.arise",
+        "source": "ESV, NASB, Chabad; jussive form of קום (to arise)"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִי",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "ESV, NASB, Mechon-Mamre; אָב (father) + suffix"
+      },
+      {
+        "position": 11,
+        "surface": "וְיֹאכַל",
+        "phrase": "and eat",
+        "literal": "and-he.eat",
+        "source": "ESV, NASB, Mechon-Mamre; וְ (and) + jussive of אכל (to eat)"
+      },
+      {
+        "position": 12,
+        "surface": "מִצֵּיד",
+        "phrase": "of the game",
+        "literal": "from-game",
+        "source": "ESV, NASB, Chabad; מִ (from) + צַיִד (game/hunting)"
+      },
+      {
+        "position": 13,
+        "surface": "בְנוֹ",
+        "phrase": "of his son",
+        "literal": "son-his",
+        "source": "ESV, NASB, Mechon-Mamre; בֵן (son) + suffix"
+      },
+      {
+        "position": 14,
+        "surface": "בַעֲבוּר",
+        "phrase": "so that",
+        "literal": "for-sake-of",
+        "source": "ESV, NASB, Chabad; בַּ (in) + עֲבוּר (sake/purpose)"
+      },
+      {
+        "position": 15,
+        "surface": "תְּבָרֲכַנִּי",
+        "phrase": "you may bless me",
+        "literal": "you.bless-me",
+        "source": "ESV, NASB, Mechon-Mamre; 2ms jussive of ברך (to bless) + 1s object"
+      },
+      {
+        "position": 16,
+        "surface": "נַפְשְׁךָ",
+        "phrase": "your soul",
+        "literal": "soul-your",
+        "source": "ESV, NASB, Chabad; נֶפֶשׁ (soul/being) + suffix; idiom for personal blessing"
+      }
+    ]
+  }
+]

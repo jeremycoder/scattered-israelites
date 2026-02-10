@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַל",
+        "phrase": "he went up",
+        "literal": "and-he_went_up",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁ֖ם",
+        "phrase": "from there",
+        "literal": "from_there",
+        "source": "KJV, ESV, NASB, Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "בְּאֵ֥ר",
+        "phrase": "Beersheba",
+        "literal": "well",
+        "source": "KJV ('Beer-sheba'), ESV, NASB, Chabad, Mechon-Mamre; construct form of בְּאֵר 'well'"
+      },
+      {
+        "position": 4,
+        "surface": "שָֽׁבַע",
+        "phrase": "",
+        "literal": "seven_oath",
+        "source": "KJV ('sheba'), ESV, NASB, Chabad, Mechon-Mamre; שָׁבַע means 'seven' or 'oath'"
+      }
+    ]
+  }
+]

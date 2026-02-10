@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יָשַׁבְתָּ֥",
+        "phrase": "and stay",
+        "literal": "and-you_shall_dwell",
+        "source": "KJV, ESV, NASB, NET (Strong's 3427)"
+      },
+      {
+        "position": 2,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, NET (Strong's 5973)"
+      },
+      {
+        "position": 3,
+        "surface": "יָמִ֣ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB, NET (Strong's 3117)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲחָדִ֑ים",
+        "phrase": "few",
+        "literal": "one-few",
+        "source": "KJV ('few days'), ESV, NASB, NET (idiom for short time; Strong's 259)"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֥ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, ESV, NASB, NET (prep; Strong's 5704)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB, NET (relative pronoun; Strong's 834)"
+      },
+      {
+        "position": 7,
+        "surface": "תָּשׁ֖וּב",
+        "phrase": "turns away",
+        "literal": "turns_away",
+        "source": "KJV, ESV, NASB, NET (Strong's 7725)"
+      },
+      {
+        "position": 8,
+        "surface": "חֲמַ֥ת",
+        "phrase": "fury",
+        "literal": "fury-heat",
+        "source": "KJV ('fury'), ESV ('anger'), NASB, NET (Strong's 2534)"
+      },
+      {
+        "position": 9,
+        "surface": "אָחִֽי/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB, NET (Strong's for אח)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/רִבְקָה֙",
+        "phrase": "Rebekah",
+        "literal": "and-Rebekah",
+        "source": "KJV, ESV, NASB (proper name with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "אָֽמְרָ֔ה",
+        "phrase": "said",
+        "literal": "she-said",
+        "source": "KJV ('spake'), ESV ('said'), NASB ('said')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֥ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנָ֖/הּ",
+        "phrase": "her son",
+        "literal": "son-her",
+        "source": "KJV ('her son'), ESV ('her son'), NASB ('her son')"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV ('saying'), ESV ('I overheard'), NASB ('Listen')"
+      },
+      {
+        "position": 7,
+        "surface": "הִנֵּ֤ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV ('Behold'), ESV ('I overheard'), NASB ('Listen')"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁמַ֨עְתִּי֙",
+        "phrase": "I heard",
+        "literal": "I-heard",
+        "source": "KJV ('I heard'), ESV ('I heard'), NASB ('I heard')"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "obj",
+        "source": "direct object marker (untranslated in English)"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִ֔י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "KJV ('thy father'), ESV ('your father'), NASB ('your father')"
+      },
+      {
+        "position": 11,
+        "surface": "מְדַבֵּ֛ר",
+        "phrase": "speaking",
+        "literal": "speaking",
+        "source": "KJV ('speak'), ESV ('speak'), NASB ('speaking')"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 13,
+        "surface": "עֵשָׂ֥ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 14,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV ('thy brother'), ESV ('your brother'), NASB ('your brother')"
+      },
+      {
+        "position": 15,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV ('saying'), ESV (implied), NASB ('He said')"
+      }
+    ]
+  }
+]

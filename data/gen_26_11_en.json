@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֣ו",
+        "phrase": "charged",
+        "literal": "and-commanded",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֔לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "particle; standard Hebrew grammar"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/נֹּגֵ֜עַ",
+        "phrase": "touches",
+        "literal": "the-touching",
+        "source": "KJV, ESV, NASB; NET: 'strikes' (harm)"
+      },
+      {
+        "position": 8,
+        "surface": "בָּ/אִ֥ישׁ",
+        "phrase": "this man",
+        "literal": "in-the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֛ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְ/אִשְׁתּ֖/וֹ",
+        "phrase": "or his wife",
+        "literal": "and-in-wife-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מ֥וֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "infinitive absolute; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יוּמָֽת",
+        "phrase": "shall be put to death",
+        "literal": "he-will-be-put-to-death",
+        "source": "KJV, ESV, NASB; emphatic construction (NET)"
+      }
+    ]
+  }
+]

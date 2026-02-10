@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֣ע",
+        "phrase": "and he obeyed",
+        "literal": "and-heard",
+        "source": "KJV, ESV, NASB, Mechon-Mamre (hearkened)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֖י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "conjunction + preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אִמּ֑/וֹ",
+        "phrase": "his mother",
+        "literal": "mother-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֵּ֖לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he-went",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "פַּדֶּ֥נָֽ/ה",
+        "phrase": "Paddan-aram",
+        "literal": "Paddan-aram",
+        "source": "proper name; KJV (Padan-aram), ESV (Paddan-aram), NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲרָֽם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "KJV, ESV, NASB (part of Paddan-aram)"
+      }
+    ]
+  }
+]

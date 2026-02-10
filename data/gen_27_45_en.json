@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 2,
+        "surface": "שׁ֨וּב",
+        "phrase": "turns away",
+        "literal": "return",
+        "source": "KJV, ESV, NASB (verb)"
+      },
+      {
+        "position": 3,
+        "surface": "אַף",
+        "phrase": "anger",
+        "literal": "nose-anger",
+        "source": "KJV, ESV, NASB (idiom for anger)"
+      },
+      {
+        "position": 4,
+        "surface": "אָחִ֜י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִמְּ/ךָ֗",
+        "phrase": "from you",
+        "literal": "from-you",
+        "source": "KJV, ESV, NASB (preposition + suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שָׁכַח֙",
+        "phrase": "and he forgets",
+        "literal": "and-forget",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֣ת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "that which",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "עָשִׂ֣יתָ",
+        "phrase": "you have done",
+        "literal": "do-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לּ֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שָׁלַחְתִּ֖י",
+        "phrase": "and I will send",
+        "literal": "and-send-I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/לְקַחְתִּ֣י/ךָ",
+        "phrase": "and bring you",
+        "literal": "and-take-I-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/שָּׁ֑ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/מָ֥ה",
+        "phrase": "why",
+        "literal": "to-what",
+        "source": "KJV, ESV, NASB (interrogative)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶשְׁכַּ֛ל",
+        "phrase": "should I lose",
+        "literal": "be-bereaved",
+        "source": "KJV (be deprived), ESV/NASB (lose/bereft)"
+      },
+      {
+        "position": 16,
+        "surface": "גַּם",
+        "phrase": "both",
+        "literal": "also",
+        "source": "KJV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 17,
+        "surface": "שְׁנֵי/כֶ֖ם",
+        "phrase": "of you",
+        "literal": "two-your(pl)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

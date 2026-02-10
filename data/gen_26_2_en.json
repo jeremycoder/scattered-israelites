@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּרָ֤א",
+        "phrase": "appeared",
+        "literal": "and-appeared",
+        "source": "KJV, ESV, NASB; וַ- consecutive waw, יֵרָא Niphal imperfect of ראה (to see/appear)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָי/ו֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB; אֵלָיו preposition + 3ms suffix"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB; proper name of God"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB; וַ- consecutive waw, יֹאמר Qal imperfect of אמר (to say)"
+      },
+      {
+        "position": 5,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB; negative particle for prohibition"
+      },
+      {
+        "position": 6,
+        "surface": "תֵּרֵ֣ד",
+        "phrase": "go down",
+        "literal": "go.down",
+        "source": "KJV, ESV, NASB; Qal imperfect 2ms of ירד (to descend)"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרָ֑יְמָ/ה",
+        "phrase": "to Egypt",
+        "literal": "to-Egypt",
+        "source": "KJV, ESV, NASB; מצרימה preposition + Egypt"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁכֹ֣ן",
+        "phrase": "dwell",
+        "literal": "dwell",
+        "source": "KJV, ESV, NASB; Qal imperative 2ms of שכן (to dwell)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ/אָ֔רֶץ",
+        "phrase": "in the land",
+        "literal": "in-the.land",
+        "source": "KJV, ESV, NASB; בָּ + הָאָרֶץ (the land)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB; relative pronoun"
+      },
+      {
+        "position": 11,
+        "surface": "אֹמַ֥ר",
+        "phrase": "I shall tell",
+        "literal": "I.say",
+        "source": "KJV, ESV, NASB; Qal imperfect 1cs of אמר (to say)"
+      },
+      {
+        "position": 12,
+        "surface": "אֵלֶֽי/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB; אֵלֶיךָ preposition + 2ms suffix"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to_him",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֣ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father_his",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "גְּשָׁ/ה",
+        "phrase": "come near",
+        "literal": "approach",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "נָּ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "ESV, NASB, KJV (particle of entreaty)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁקָ/ה",
+        "phrase": "and kiss me",
+        "literal": "and_kiss",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "לִּ֖/י",
+        "phrase": "me",
+        "literal": "to_me",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנִֽ/י",
+        "phrase": "my son",
+        "literal": "son_my",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

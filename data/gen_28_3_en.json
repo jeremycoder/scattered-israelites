@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֤ל",
+        "phrase": "and God",
+        "literal": "and-God",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "שַׁדַּי֙",
+        "phrase": "Almighty",
+        "literal": "Almighty",
+        "source": "KJV (Almighty), ESV (Almighty), NASB (Almighty), Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "יְבָרֵ֣ךְ",
+        "phrase": "bless",
+        "literal": "may-he-bless",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "אֹֽתְ/ךָ֔",
+        "phrase": "you",
+        "literal": "[direct object marker]-you",
+        "source": "standard object marker + 2ms suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יַפְרְ/ךָ֖",
+        "phrase": "and make you fruitful",
+        "literal": "and-make-fruitful-you",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יַרְבֶּ֑/ךָ",
+        "phrase": "and multiply you",
+        "literal": "and-multiply-you",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיִ֖יתָ",
+        "phrase": "and you shall be",
+        "literal": "and-you-will-be",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/קְהַ֥ל",
+        "phrase": "an assembly",
+        "literal": "to-assembly",
+        "source": "KJV (company), ESV (assembly), NASB (assembly); Mechon-Mamre (congregation)"
+      },
+      {
+        "position": 9,
+        "surface": "עַמִּֽים",
+        "phrase": "of peoples",
+        "literal": "of-peoples",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

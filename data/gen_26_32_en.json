@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִי",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, NASB, ESV; wayyiqtol narrative form"
+      },
+      {
+        "position": 2,
+        "surface": "בַּיּוֹם",
+        "phrase": "on that day",
+        "literal": "in-the-day",
+        "source": "KJV, NASB, ESV; preposition בְ + definite article + noun"
+      },
+      {
+        "position": 3,
+        "surface": "הַהוּא",
+        "phrase": "the same",
+        "literal": "the-that",
+        "source": "KJV, NASB, ESV; definite article + demonstrative pronoun"
+      },
+      {
+        "position": 4,
+        "surface": "וַיָּבֹאוּ",
+        "phrase": "came",
+        "literal": "and-they-came",
+        "source": "KJV, NASB, ESV; wayyiqtol 3mp of בוא"
+      },
+      {
+        "position": 5,
+        "surface": "עַבְדֵי",
+        "phrase": "servants",
+        "literal": "servants-of",
+        "source": "KJV, NASB, ESV; construct plural of עֶבֶד"
+      },
+      {
+        "position": 6,
+        "surface": "יִצְחָק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, NASB, ESV; proper noun"
+      },
+      {
+        "position": 7,
+        "surface": "וַיַּגִּדוּ",
+        "phrase": "and told",
+        "literal": "and-they-told",
+        "source": "KJV, NASB, ESV; wayyiqtol 3mp of נגד"
+      },
+      {
+        "position": 8,
+        "surface": "לוֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "KJV, NASB, ESV; preposition ל + 3ms pronoun suffix"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "concerning",
+        "literal": "upon/about",
+        "source": "KJV, NASB, ESV; preposition"
+      },
+      {
+        "position": 10,
+        "surface": "אֹדוֹת",
+        "phrase": "the matter of",
+        "literal": "accounts-of",
+        "source": "KJV, NASB, ESV; construct noun אֹדוֹת (often paired with עַל)"
+      },
+      {
+        "position": 11,
+        "surface": "הַבְּאֵר",
+        "phrase": "the well",
+        "literal": "the-well",
+        "source": "KJV, NASB, ESV; definite article + noun בְאֵר"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, NASB, ESV; relative pronoun"
+      },
+      {
+        "position": 13,
+        "surface": "חָפָרוּ",
+        "phrase": "they had dug",
+        "literal": "they-dug",
+        "source": "KJV, NASB, ESV; qatal 3mp of חפר"
+      },
+      {
+        "position": 14,
+        "surface": "וַיֹּאמְרוּ",
+        "phrase": "and said",
+        "literal": "and-they-said",
+        "source": "KJV, NASB, ESV; wayyiqtol 3mp of אמר"
+      },
+      {
+        "position": 15,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, NASB, ESV; preposition ל + 3ms pronoun suffix"
+      },
+      {
+        "position": 16,
+        "surface": "מָצָאנוּ",
+        "phrase": "we have found",
+        "literal": "we-found",
+        "source": "KJV, NASB, ESV; qatal 1cp of מצא"
+      },
+      {
+        "position": 17,
+        "surface": "מָיִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "KJV, NASB, ESV; masculine plural noun (often used as singular)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֶךְ",
+        "phrase": "Go",
+        "literal": "go-IMP",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "נָא֙",
+        "phrase": "now",
+        "literal": "please-PTC",
+        "source": "particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to"
+      },
+      {
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/צֹּ֔אן",
+        "phrase": "the flock",
+        "literal": "the-flock",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/קַֽח",
+        "phrase": "and take",
+        "literal": "and-take-IMP",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לִ֣/י",
+        "phrase": "me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/שָּׁ֗ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁנֵ֛י",
+        "phrase": "two",
+        "literal": "two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "גְּדָיֵ֥י",
+        "phrase": "kids",
+        "literal": "young-goats",
+        "source": "KJV, NASB; young goats (ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "עִזִּ֖ים",
+        "phrase": "of goats",
+        "literal": "goats",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "טֹבִ֑ים",
+        "phrase": "good",
+        "literal": "good-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶֽעֱשֶׂ֨ה",
+        "phrase": "and I will make",
+        "literal": "and-I-will-make",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֹתָ֧/ם",
+        "phrase": "them",
+        "literal": "OBJ-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "מַטְעַמִּ֛ים",
+        "phrase": "savory food",
+        "literal": "delicacies",
+        "source": "KJV (savoury meat), ESV/NASB (savory dish)"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/אָבִ֖י/ךָ",
+        "phrase": "for your father",
+        "literal": "to-father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "אָהֵֽב",
+        "phrase": "he loves",
+        "literal": "he-loves",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

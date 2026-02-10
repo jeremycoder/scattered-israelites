@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאֵת",
+        "phrase": "and the",
+        "literal": "and-direct.object.marker",
+        "source": "Conjunction vav + accusative marker; all major translations"
+      },
+      {
+        "position": 2,
+        "surface": "עֹרֹת",
+        "phrase": "skins",
+        "literal": "skins",
+        "source": "Feminine plural of עוֹר (ore); KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 3,
+        "surface": "גְּדָיֵי",
+        "phrase": "of the young goats",
+        "literal": "young-goats-of",
+        "source": "Construct plural of גדי (gdiy); KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 4,
+        "surface": "הָעִזִּים",
+        "phrase": "of the goats",
+        "literal": "the-goats",
+        "source": "Definite plural of עז (aze); KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 5,
+        "surface": "הִלְבִּישָׁה",
+        "phrase": "she put on",
+        "literal": "she-clothed",
+        "source": "Qal perfect 3fs of לבש (labash); KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "Preposition; all major translations"
+      },
+      {
+        "position": 7,
+        "surface": "יָדָיו",
+        "phrase": "his hands",
+        "literal": "hands-his",
+        "source": "Dual construct of יד (yawd) with 3ms suffix; KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וְעַל",
+        "phrase": "and on",
+        "literal": "and-upon",
+        "source": "Conjunction vav + preposition; all major translations"
+      },
+      {
+        "position": 9,
+        "surface": "חֶלְקַת",
+        "phrase": "the smooth part",
+        "literal": "smoothness-of",
+        "source": "Construct feminine singular of חלקה (chelqah); KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 10,
+        "surface": "צַוָּארָיו",
+        "phrase": "his neck",
+        "literal": "neck-his",
+        "source": "Dual construct of צוואר (tsavvar) with 3ms suffix; KJV, NASB, ESV, NET"
+      }
+    ]
+  }
+]

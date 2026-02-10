@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּעַשׂ",
+        "phrase": "made",
+        "literal": "and-he.made",
+        "source": "KJV, ESV, NASB, NET; vav-consecutive + qal imperfect 3ms of עשׂה"
+      },
+      {
+        "position": 2,
+        "surface": "לָהֶם",
+        "phrase": "for them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, NET; preposition ל + 3mp pronoun suffix"
+      },
+      {
+        "position": 3,
+        "surface": "מִשְׁתֶּה",
+        "phrase": "a feast",
+        "literal": "feast",
+        "source": "KJV, ESV, NASB, NET; masculine singular noun from שׁתה (drinking/banquet)"
+      },
+      {
+        "position": 4,
+        "surface": "וַיֹּאכְלוּ",
+        "phrase": "and they ate",
+        "literal": "and-they.ate",
+        "source": "KJV, ESV, NASB, NET; vav-consecutive + qal imperfect 3mp of אכל"
+      },
+      {
+        "position": 5,
+        "surface": "וַיִּשְׁתּוּ",
+        "phrase": "and they drank",
+        "literal": "and-they.drank",
+        "source": "KJV, ESV, NASB, NET; vav-consecutive + qal imperfect 3mp of שׁתה"
+      }
+    ]
+  }
+]

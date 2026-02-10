@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "KJV, ESV, NASB (interjection drawing attention)"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֖א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "KJV ('now'), ESV ('please'), NASB ('please') (particle of entreaty)"
+      },
+      {
+        "position": 4,
+        "surface": "זָקַ֑נְתִּי",
+        "phrase": "I am old",
+        "literal": "I_have_grown_old",
+        "source": "KJV, ESV, NASB, Bible Hub[1] (qal perfect 1cs of zaqan)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, Bible Hub[1] (negative particle)"
+      },
+      {
+        "position": 6,
+        "surface": "יָדַ֖עְתִּי",
+        "phrase": "I know",
+        "literal": "I_know",
+        "source": "KJV, ESV, NASB, Bible Hub[1] (qal perfect 1cs of yada)"
+      },
+      {
+        "position": 7,
+        "surface": "י֥וֹם",
+        "phrase": "the day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB, Bible Hub[1] (noun with definite article implied in context)"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹתִֽ/י",
+        "phrase": "of my death",
+        "literal": "of_dying-my",
+        "source": "KJV, ESV, NASB, Bible Hub[1] (hophal infinitive construct of mut + 1cs suffix)"
+      }
+    ]
+  }
+]

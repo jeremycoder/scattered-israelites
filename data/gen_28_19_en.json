@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֛א",
+        "phrase": "And he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (all translations)"
+      },
+      {
+        "position": 3,
+        "surface": "שֵֽׁם",
+        "phrase": "the name",
+        "literal": "name-the",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מָּק֥וֹם",
+        "phrase": "of the place",
+        "literal": "the-place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּֽית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB (Bethel = house of God)"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֑ל",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (Bethel = house of God)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אוּלָ֛ם",
+        "phrase": "however",
+        "literal": "and-however",
+        "source": "NASB, ESV; KJV 'but'"
+      },
+      {
+        "position": 9,
+        "surface": "ל֥וּז",
+        "phrase": "Luz",
+        "literal": "Luz",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שֵׁם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עִ֖יר",
+        "phrase": "of the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לָ/רִאשֹׁנָֽה",
+        "phrase": "at the first",
+        "literal": "to-the-first",
+        "source": "KJV, NASB; ESV 'formerly'"
+      }
+    ]
+  }
+]

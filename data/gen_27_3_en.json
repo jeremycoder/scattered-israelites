@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּה֙",
+        "phrase": "now therefore",
+        "literal": "and-now",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂא",
+        "phrase": "take",
+        "literal": "take",
+        "source": "KJV, ESV, NASB (imperative of נָשָׂא)"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֣א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "KJV ('I pray thee'), ESV, NASB (particle of entreaty)"
+      },
+      {
+        "position": 4,
+        "surface": "כֵלֶ֔י/ךָ",
+        "phrase": "your weapons",
+        "literal": "weapons-your",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 5,
+        "surface": "תֶּלְיְ/ךָ֖",
+        "phrase": "your quiver",
+        "literal": "quiver-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/קַשְׁתֶּ֑/ךָ",
+        "phrase": "and your bow",
+        "literal": "and-bow-your",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/צֵא֙",
+        "phrase": "and go out",
+        "literal": "and-go_out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שָּׂדֶ֔ה",
+        "phrase": "to the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/צ֥וּדָ/ה",
+        "phrase": "and hunt",
+        "literal": "and-hunt_it",
+        "source": "ESV, NASB (imperative of צוּד), NET tn"
+      },
+      {
+        "position": 10,
+        "surface": "לִּ֖/י",
+        "phrase": "for me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 11,
+        "surface": "צידה",
+        "phrase": "some game",
+        "literal": "hunt_provision",
+        "source": "KJV ('venison'), ESV ('game'), NASB; Kethib צֵידָה"
+      },
+      {
+        "position": 12,
+        "surface": "צָֽיִד",
+        "phrase": "game",
+        "literal": "hunt",
+        "source": "KJV ('venison'), ESV ('game'), NASB; Qere צָיִד"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּחְפְּר֥וּ",
+        "phrase": "and they dug",
+        "literal": "and-they_dug",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "עַבְדֵֽי",
+        "phrase": "servants of",
+        "literal": "servants_of",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֖ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/נָּ֑חַל",
+        "phrase": "in the valley",
+        "literal": "in_the-valley",
+        "source": "KJV (wadi), NASB, NET, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּ֨מְצְאוּ",
+        "phrase": "and they found",
+        "literal": "and-they_found",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "בְּאֵ֖ר",
+        "phrase": "a well",
+        "literal": "in_well",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "מַ֥יִם",
+        "phrase": "of water",
+        "literal": "water",
+        "source": "KJV, NASB, NET, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "חַיִּֽים",
+        "phrase": "living",
+        "literal": "living",
+        "source": "KJV (springing), NASB, NET (fresh flowing), ESV (living)"
+      }
+    ]
+  }
+]

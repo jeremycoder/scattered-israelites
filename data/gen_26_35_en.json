@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתִּהְיֶ֖יןָ",
+        "phrase": "and they were",
+        "literal": "and-they.were",
+        "source": "KJV, ESV, NASB; Qal imperfect feminine plural of היה (hayah) with vav-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "מֹ֣רַת",
+        "phrase": "bitterness",
+        "literal": "bitterness",
+        "source": "KJV (vexation), ESV (bitterness), NASB (grief); construct form of מרה (marah)"
+      },
+      {
+        "position": 3,
+        "surface": "ר֑וּחַ",
+        "phrase": "of spirit",
+        "literal": "spirit",
+        "source": "KJV (of the spirit), ESV (of spirit), NASB (of spirit); construct chain with preceding noun"
+      },
+      {
+        "position": 4,
+        "surface": "לְיִצְחָ֖ק",
+        "phrase": "to Isaac",
+        "literal": "to-Isaac",
+        "source": "KJV, ESV, NASB; preposition ל (le) + proper noun"
+      },
+      {
+        "position": 5,
+        "surface": "וּלְרִבְקָֽה",
+        "phrase": "and to Rebekah",
+        "literal": "and-to-Rebekah",
+        "source": "KJV, ESV, NASB; vav-conjunction + preposition ל (le) + proper noun"
+      }
+    ]
+  }
+]

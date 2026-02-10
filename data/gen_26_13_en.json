@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְדַּ֖ל",
+        "phrase": "and became great",
+        "literal": "and-became-great",
+        "source": "KJV, ESV, NASB, NET[1]"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אִ֑ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, NET[1]"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֵּ֤לֶךְ",
+        "phrase": "and went",
+        "literal": "and-went",
+        "source": "KJV (went forward), NET[1]"
+      },
+      {
+        "position": 4,
+        "surface": "הָלוֹךְ֙",
+        "phrase": "going",
+        "literal": "going",
+        "source": "NET (going)[1]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/גָדֵ֔ל",
+        "phrase": "and becoming great",
+        "literal": "and-becoming-great",
+        "source": "NET[1]"
+      },
+      {
+        "position": 6,
+        "surface": "עַ֥ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "note: introduces result clause; NET[1]"
+      },
+      {
+        "position": 8,
+        "surface": "גָדַ֖ל",
+        "phrase": "he became great",
+        "literal": "he-became-great",
+        "source": "KJV, ESV, NASB, NET[1]"
+      },
+      {
+        "position": 9,
+        "surface": "מְאֹֽד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "KJV, ESV, NASB (much, greatly)"
+      }
+    ]
+  }
+]

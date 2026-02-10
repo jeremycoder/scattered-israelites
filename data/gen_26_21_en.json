@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יַּחְפְּרוּ֙",
+        "phrase": "and they dug",
+        "literal": "and-they.dug",
+        "source": "KJV, NASB, ESV; wayyiqtol form of חפר (chaphar)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּאֵ֣ר",
+        "phrase": "a well",
+        "literal": "in-well",
+        "source": "KJV, NASB, ESV; preposition ב + noun אֵר (be'er)"
+      },
+      {
+        "position": 3,
+        "surface": "אַחֶ֔רֶת",
+        "phrase": "another",
+        "literal": "other-FEM",
+        "source": "KJV, NASB, ESV; feminine adjective אַחֶר (acher)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּרִ֖יבוּ",
+        "phrase": "and they quarreled",
+        "literal": "and-they.quarreled",
+        "source": "KJV, NASB, ESV; wayyiqtol form of ריב (riv)"
+      },
+      {
+        "position": 5,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, NASB, ESV; adverb גַּם (gam)"
+      },
+      {
+        "position": 6,
+        "surface": "עָלֶ֑י/הָ",
+        "phrase": "over it",
+        "literal": "upon-it",
+        "source": "KJV, NASB, ESV; preposition עַל (al) + 3rd feminine singular pronoun"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he.called",
+        "source": "KJV, NASB, ESV; wayyiqtol form of קרא (qara)"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמָ֖/הּ",
+        "phrase": "its name",
+        "literal": "name-its",
+        "source": "KJV, NASB, ESV; noun שֵׁם (shem) + 3rd feminine singular pronoun"
+      },
+      {
+        "position": 9,
+        "surface": "שִׂטְנָֽה",
+        "phrase": "Sitnah",
+        "literal": "hostility-FEM",
+        "source": "KJV, NASB, ESV; proper noun שִׂטְנָה (Sitnah), derived from שִׂטְנָה meaning hostility or accusation"
+      }
+    ]
+  }
+]

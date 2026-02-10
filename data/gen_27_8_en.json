@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֥ה",
+        "phrase": "Now therefore",
+        "literal": "and-now",
+        "source": "KJV, ESV, NASB, NET ('Now then')"
+      },
+      {
+        "position": 2,
+        "surface": "בְנִ֖/י",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמַ֣ע",
+        "phrase": "listen",
+        "literal": "listen",
+        "source": "KJV ('obey'), ESV ('obey'), NASB ('obey'), NET ('listen to my voice')"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/קֹלִ֑/י",
+        "phrase": "to my voice",
+        "literal": "in-voice-my",
+        "source": "NET (idiom 'listen to my voice' = obey), KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "to-that-which",
+        "source": "KJV, ESV, NASB, NET ('to that which')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "מְצַוָּ֥ה",
+        "phrase": "command",
+        "literal": "command",
+        "source": "KJV, ESV, NASB, NET ('I am commanding')"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָֽ/ךְ",
+        "phrase": "you",
+        "literal": "you-(direct object)",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

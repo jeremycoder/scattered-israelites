@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהֵבֵאתָ֥",
+        "phrase": "and you shall bring",
+        "literal": "and-bring.2MS",
+        "source": "ESV, NASB, KJV, Berean Study Bible"
+      },
+      {
+        "position": 2,
+        "surface": "לְאָבִ֖יךָ",
+        "phrase": "to your father",
+        "literal": "to-father.CS-2MS",
+        "source": "ESV, NASB, KJV, Berean Study Bible"
+      },
+      {
+        "position": 3,
+        "surface": "וְאָכָ֑ל",
+        "phrase": "that he may eat",
+        "literal": "and-eat.3MS",
+        "source": "ESV, NASB, KJV, Berean Study Bible"
+      },
+      {
+        "position": 4,
+        "surface": "בַּעֲבֻ֛ר",
+        "phrase": "so that",
+        "literal": "in-account.of",
+        "source": "ESV, NASB, KJV; preposition בְ + noun עֲבוּר"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "ESV, NASB, KJV; relative particle"
+      },
+      {
+        "position": 6,
+        "surface": "יְבָרֶכְךָ֖",
+        "phrase": "he may bless you",
+        "literal": "bless.3MS-2MS",
+        "source": "ESV, NASB, KJV, Berean Study Bible"
+      },
+      {
+        "position": 7,
+        "surface": "לִפְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face.of",
+        "source": "ESV, NASB, KJV; preposition לְ + noun פָּנִים"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹתֽוֹ",
+        "phrase": "his death",
+        "literal": "death.CS-3MS",
+        "source": "ESV, NASB, KJV, Berean Study Bible"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֥א",
+        "phrase": "he came",
+        "literal": "and-he_came",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (ESV, NIV, KJV)"
+      },
+      {
+        "position": 3,
+        "surface": "אָבִ֖י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֑/י",
+        "phrase": "My father",
+        "literal": "father-my",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 7,
+        "surface": "הִנֶּ֔נִּ/י",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 8,
+        "surface": "מִ֥י",
+        "phrase": "Who",
+        "literal": "who",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 9,
+        "surface": "אַתָּ֖ה",
+        "phrase": "are you",
+        "literal": "you",
+        "source": "ESV, NIV, KJV, JPS"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנִֽ/י",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "ESV, NIV, KJV, JPS"
+      }
+    ]
+  }
+]

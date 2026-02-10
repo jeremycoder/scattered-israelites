@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "And Isaac went",
+        "literal": "and-he-went",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁ֖ם",
+        "phrase": "away from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name; KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּ֥חַן",
+        "phrase": "and encamped",
+        "literal": "and-he-pitched_tent",
+        "source": "KJV ('pitched his tent'), Chabad ('encamped'), NET ('settled')[1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/נַֽחַל",
+        "phrase": "in the valley",
+        "literal": "in-valley",
+        "source": "KJV, NASB, NET ('Gerar Valley'); נחל = wadi/valley[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "גְּרָ֖ר",
+        "phrase": "of Gerar",
+        "literal": "Gerar",
+        "source": "proper name; KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "and dwelt",
+        "literal": "and-he-sat/dwelt",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 8,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "adverbial particle; KJV, ESV, NASB[1]"
+      }
+    ]
+  }
+]

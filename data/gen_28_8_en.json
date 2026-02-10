@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣רְא",
+        "phrase": "saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB, NET (wayyar)[2][3]"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂ֔ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "proper name; KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "conjunction; KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 4,
+        "surface": "רָע֖וֹת",
+        "phrase": "were displeasing",
+        "literal": "evil/bad",
+        "source": "KJV ('pleased not'), ESV ('evil'), NASB ('displeasing'); NET tn[2][3][4]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנ֣וֹת",
+        "phrase": "daughters",
+        "literal": "daughters",
+        "source": "KJV, ESV, NASB, NET[2][3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB; NET tn[2][3][4]"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/עֵינֵ֖י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "idiom 'displeasing to'; NET tn, KJV, ESV[2][3][4]"
+      },
+      {
+        "position": 8,
+        "surface": "יִצְחָ֥ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name; KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִֽי/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "KJV, ESV, NASB[2][3][4]"
+      }
+    ]
+  }
+]

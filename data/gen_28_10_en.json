@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֥א",
+        "phrase": "went out",
+        "literal": "and-he_went_out",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/בְּאֵ֣ר",
+        "phrase": "from Beersheba",
+        "literal": "from-well",
+        "source": "KJV, ESV, NASB (מִבְּאֵר as 'from Beersheba')"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑בַע",
+        "phrase": "",
+        "literal": "seven_oath",
+        "source": "KJV, ESV, NASB (שָׁבַע as part of Beersheba, 'well of the oath')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֵּ֖לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he_went",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "חָרָֽנָ/ה",
+        "phrase": "toward Haran",
+        "literal": "Haran-ward",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

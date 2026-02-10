@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "And dwelt",
+        "literal": "and-he_dwelt",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָ֖ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/גְרָֽר",
+        "phrase": "in Gerar",
+        "literal": "in-Gerar",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

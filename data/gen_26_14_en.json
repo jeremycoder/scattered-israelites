@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and he had",
+        "literal": "and-he-was",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of היה)"
+      },
+      {
+        "position": 2,
+        "surface": "ל֤/וֹ",
+        "phrase": "possessions",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB (dative preposition + 3ms suffix)"
+      },
+      {
+        "position": 3,
+        "surface": "מִקְנֵה",
+        "phrase": "possessions",
+        "literal": "possessions",
+        "source": "KJV, ESV, NASB (מקנה, livestock)"
+      },
+      {
+        "position": 4,
+        "surface": "צֹאן֙",
+        "phrase": "of flocks",
+        "literal": "flock",
+        "source": "KJV (flocks), ESV (flocks), NASB (flocks); includes sheep and goats [2]"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִקְנֵ֣ה",
+        "phrase": "and possessions",
+        "literal": "and-possessions",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בָקָ֔ר",
+        "phrase": "of cattle",
+        "literal": "cattle",
+        "source": "KJV, ESV, NASB (herds)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/עֲבֻדָּ֖ה",
+        "phrase": "and a great",
+        "literal": "and-service",
+        "source": "ESV (many servants), NASB (great household), Chabad (much production) [1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "רַבָּ֑ה",
+        "phrase": "household",
+        "literal": "great",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יְקַנְא֥וּ",
+        "phrase": "so that ... envied",
+        "literal": "and-they-envied",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "standard for all major translations"
+      },
+      {
+        "position": 11,
+        "surface": "פְּלִשְׁתִּֽים",
+        "phrase": "the Philistines",
+        "literal": "Philistines",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 28,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּיקַ֣ץ",
+        "phrase": "woke up",
+        "literal": "and-woke_up",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֮",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/שְּׁנָת/וֹ֒",
+        "phrase": "from his sleep",
+        "literal": "from-sleep-his",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אָכֵן֙",
+        "phrase": "Surely",
+        "literal": "indeed/truly",
+        "source": "KJV, NASB, ESV, YLT (emphatic particle)"
+      },
+      {
+        "position": 6,
+        "surface": "יֵ֣שׁ",
+        "phrase": "is",
+        "literal": "there_is",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "All translations"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/מָּק֖וֹם",
+        "phrase": "in this place",
+        "literal": "in-the-place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אָנֹכִ֖י",
+        "phrase": "and I",
+        "literal": "and-I",
+        "source": "KJV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 11,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "All translations (negative particle)"
+      },
+      {
+        "position": 12,
+        "surface": "יָדָֽעְתִּי",
+        "phrase": "knew",
+        "literal": "knew",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

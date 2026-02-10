@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 27,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָק֙",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (directional preposition)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "גְּשָׁ/ה",
+        "phrase": "come near",
+        "literal": "approach!-imperative",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "נָּ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "KJV, ESV, NASB (particle of entreaty)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/אֲמֻֽשְׁ/ךָ֖",
+        "phrase": "that I may feel you",
+        "literal": "and-I_will_touch_you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנִ֑/י",
+        "phrase": "my son",
+        "literal": "son_my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַֽ/אַתָּ֥ה",
+        "phrase": "are you",
+        "literal": "the-you",
+        "source": "ESV, NASB (emphatic pronoun)"
+      },
+      {
+        "position": 10,
+        "surface": "זֶ֛ה",
+        "phrase": "really",
+        "literal": "this",
+        "source": "ESV, NASB (emphatic demonstrative)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּנִ֥/י",
+        "phrase": "my son",
+        "literal": "son_my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אִם",
+        "phrase": "whether",
+        "literal": "if",
+        "source": "KJV, ESV, NASB (conditional particle)"
+      },
+      {
+        "position": 14,
+        "surface": "לֹֽא",
+        "phrase": "or not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

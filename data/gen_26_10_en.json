@@ -1,0 +1,118 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 26,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִימֶ֔לֶךְ",
+        "phrase": "Abimelech",
+        "literal": "Abimelech",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "interrogative; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "זֹּ֖את",
+        "phrase": "is this",
+        "literal": "this-FEM"
+      },
+      {
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "עָשִׂ֣יתָ",
+        "phrase": "have you done",
+        "literal": "you_have_done",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לָּ֑/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֠/מְעַט",
+        "phrase": "almost",
+        "literal": "like-little",
+        "source": "KJV (might lightly), ESV (nearly), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁכַ֞ב",
+        "phrase": "had lain",
+        "literal": "he_lay",
+        "source": "KJV (lien), ESV (taken to bed), NASB (slept)"
+      },
+      {
+        "position": 9,
+        "surface": "אַחַ֤ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עָם֙",
+        "phrase": "of the people",
+        "literal": "the-people",
+        "source": "KJV, ESV, NASB; NET (people)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "particle; untranslatable in English"
+      },
+      {
+        "position": 12,
+        "surface": "אִשְׁתֶּ֔/ךָ",
+        "phrase": "your wife",
+        "literal": "wife-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הֵבֵאתָ֥",
+        "phrase": "and you would have brought",
+        "literal": "and-you_brought",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "עָלֵ֖י/נוּ",
+        "phrase": "on us",
+        "literal": "upon-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אָשָֽׁם",
+        "phrase": "guilt",
+        "literal": "guilt",
+        "source": "KJV (guiltiness), ESV (guilt), NASB; NET (guilt)"
+      }
+    ]
+  }
+]
