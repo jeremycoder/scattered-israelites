@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֲמֵ֨שׁ",
+        "phrase": "fifteen",
+        "literal": "five",
+        "source": "KJV, ESV, NASB (cardinal number)"
+      },
+      {
+        "position": 2,
+        "surface": "עֶשְׂרֵ֤ה",
+        "phrase": "fifteen",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB (cardinal number)"
+      },
+      {
+        "position": 3,
+        "surface": "אַמָּה֙",
+        "phrase": "cubits",
+        "literal": "cubit",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/לְ/מַ֔עְלָ/ה",
+        "phrase": "upward",
+        "literal": "from-to-above",
+        "source": "KJV, ESV, NASB (מִלְמַעְלָה = from above)"
+      },
+      {
+        "position": 5,
+        "surface": "גָּבְר֖וּ",
+        "phrase": "prevailed",
+        "literal": "they-were-mighty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מָּ֑יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יְכֻסּ֖וּ",
+        "phrase": "were covered",
+        "literal": "and-they-were-covered",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הֶ/הָרִֽים",
+        "phrase": "the mountains",
+        "literal": "the-mountains",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

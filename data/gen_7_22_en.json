@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כֹּ֡ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NIV[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "נִשְׁמַת",
+        "phrase": "breath",
+        "literal": "breath-of",
+        "source": "KJV, ESV, NASB (construct of neshamah)[1][2][3]"
+      },
+      {
+        "position": 4,
+        "surface": "ר֨וּחַ",
+        "phrase": "of the spirit",
+        "literal": "spirit-breath",
+        "source": "KJV, NKJV, NASB[1][2][3]"
+      },
+      {
+        "position": 5,
+        "surface": "חַיִּ֜ים",
+        "phrase": "of life",
+        "literal": "life",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אַפָּ֗י/ו",
+        "phrase": "in its nostrils",
+        "literal": "in-nostrils-his/its",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/כֹּ֛ל",
+        "phrase": "of all",
+        "literal": "from-all",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "בֶּ/חָֽרָבָ֖ה",
+        "phrase": "on the dry land",
+        "literal": "in-the-dry",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "מֵֽתוּ",
+        "phrase": "died",
+        "literal": "they-died",
+        "source": "KJV, ESV, NASB[1][2]"
+      }
+    ]
+  }
+]

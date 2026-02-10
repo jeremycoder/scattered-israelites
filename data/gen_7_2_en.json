@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִ/כֹּ֣ל",
+        "phrase": "of every",
+        "literal": "from-all",
+        "source": "KJV, NASB, ESV: partitive preposition + all"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בְּהֵמָ֣ה",
+        "phrase": "animal",
+        "literal": "the-beast",
+        "source": "KJV ('beast'), NASB, ESV ('animal'): collective for quadrupeds"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/טְּהוֹרָ֗ה",
+        "phrase": "clean",
+        "literal": "the-pure",
+        "source": "KJV, NASB, ESV: ritually clean"
+      },
+      {
+        "position": 4,
+        "surface": "תִּֽקַּח",
+        "phrase": "you shall take",
+        "literal": "you-take",
+        "source": "KJV, NASB, ESV: 2ms imperative"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֛",
+        "phrase": "with you",
+        "literal": "to-you",
+        "source": "KJV, NASB, ESV: ethical dative"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁבְעָ֥ה",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, NASB, ESV: first 'seven' (pairs implied)"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁבְעָ֖ה",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, NASB, ESV: distributive 'seven seven' for pairs"
+      },
+      {
+        "position": 8,
+        "surface": "אִ֣ישׁ",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, NASB, ESV: 'male' or 'man' as counterpart"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אִשְׁתּ֑/וֹ",
+        "phrase": "and its female",
+        "literal": "and-wife-his",
+        "source": "KJV, NASB, ESV: 'and his female'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מִן",
+        "phrase": "and of",
+        "literal": "and-from",
+        "source": "KJV, NASB, ESV: contrastive conjunction + partitive"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/בְּהֵמָ֡ה",
+        "phrase": "the animal",
+        "literal": "the-beast",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "אֲ֠שֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, NASB, ESV: relative pronoun"
+      },
+      {
+        "position": 13,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, NASB, ESV: negation"
+      },
+      {
+        "position": 14,
+        "surface": "טְהֹרָ֥ה",
+        "phrase": "clean",
+        "literal": "pure",
+        "source": "KJV, NASB, ESV: ritually clean"
+      },
+      {
+        "position": 15,
+        "surface": "הִ֛וא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "KJV, NASB, ESV: 3fs pronoun (emphatic)"
+      },
+      {
+        "position": 16,
+        "surface": "שְׁנַ֖יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "KJV, NASB, ESV: pair"
+      },
+      {
+        "position": 17,
+        "surface": "אִ֥ישׁ",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/אִשְׁתּֽ/וֹ",
+        "phrase": "and its female",
+        "literal": "and-wife-his",
+        "source": "KJV, NASB, ESV"
+      }
+    ]
+  }
+]

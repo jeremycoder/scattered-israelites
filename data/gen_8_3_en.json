@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיָּשֻׁ֧בוּ",
+        "phrase": "and receded",
+        "literal": "and-3ms.preterite.return",
+        "source": "KJV 'returned', ESV 'receded', NASB 'receded'; vav consecutive with Qal preterite of שׁוּב (shuv)"
+      },
+      {
+        "position": 2,
+        "surface": "הַמַּ֛יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB; definite article + plural noun מַיִם (mayim)"
+      },
+      {
+        "position": 3,
+        "surface": "מֵעַ֥ל",
+        "phrase": "from off",
+        "literal": "from-upon",
+        "source": "KJV 'from off', ESV 'from', NASB 'from'; preposition מִן (min) + עַל (ʿal)"
+      },
+      {
+        "position": 4,
+        "surface": "הָאָ֖רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB; definite article + noun אֶרֶץ (ʾereṣ)"
+      },
+      {
+        "position": 5,
+        "surface": "הָלוֹךְ",
+        "phrase": "continually",
+        "literal": "going",
+        "source": "KJV 'continually', ESV 'continually', NASB 'continually'; infinitive absolute of הָלַךְ (halakh) indicating continuous action"
+      },
+      {
+        "position": 6,
+        "surface": "וָשׁוֹב",
+        "phrase": "and returning",
+        "literal": "and-returning",
+        "source": "KJV 'and returning', ESV 'continually', NASB 'continually'; vav + infinitive absolute of שׁוּב (shuv) for emphasis"
+      },
+      {
+        "position": 7,
+        "surface": "וַיַּחְסְרוּ",
+        "phrase": "and decreased",
+        "literal": "and-3mp.preterite.lessen",
+        "source": "KJV 'were abated', ESV 'had abated', NASB 'decreased'; vav consecutive with Qal preterite of חָסַר (khasar)"
+      },
+      {
+        "position": 8,
+        "surface": "הַמַּ֔יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB; definite article + plural noun מַיִם (mayim)"
+      },
+      {
+        "position": 9,
+        "surface": "מִקְצֵה",
+        "phrase": "after the end",
+        "literal": "from-end",
+        "source": "KJV 'after the end', ESV 'at the end', NASB 'after the end'; preposition מִן (min) + noun קֵץ (qeṣ)"
+      },
+      {
+        "position": 10,
+        "surface": "חֲמִשִּׁים",
+        "phrase": "hundred and fifty",
+        "literal": "fifty",
+        "source": "KJV, ESV, NASB; cardinal number חֲמִשִּׁים (khamishim)"
+      },
+      {
+        "position": 11,
+        "surface": "וּמְאַת",
+        "phrase": "and hundred",
+        "literal": "and-hundred",
+        "source": "KJV, ESV, NASB; vav + feminine noun מְאָה (meʾah)"
+      },
+      {
+        "position": 12,
+        "surface": "יוֹם",
+        "phrase": "days",
+        "literal": "day",
+        "source": "KJV, ESV, NASB; masculine noun יוֹם (yom) in construct relationship"
+      }
+    ]
+  }
+]

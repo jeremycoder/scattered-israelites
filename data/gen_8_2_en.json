@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּסָּֽכְרוּ֙",
+        "phrase": "were closed",
+        "literal": "and-they-closed",
+        "source": "KJV, NASB, ESV, HCSB; Wayyiqtol form of סכר (sakar)"
+      },
+      {
+        "position": 2,
+        "surface": "מַעְיְנֹ֣ת",
+        "phrase": "fountains",
+        "literal": "fountains",
+        "source": "KJV, NASB, ESV, HCSB; plural construct of מעין (mayin)"
+      },
+      {
+        "position": 3,
+        "surface": "תְּה֔וֹם",
+        "phrase": "of the deep",
+        "literal": "the-deep",
+        "source": "KJV, NASB, ESV, HCSB; construct form of תהום (tehom), referring to subterranean waters"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽאֲרֻבֹּ֖ת",
+        "phrase": "and the windows",
+        "literal": "and-windows",
+        "source": "KJV, NASB, ESV, HCSB; plural of ארובה (arubbah), meaning lattice or window"
+      },
+      {
+        "position": 5,
+        "surface": "הַשָּׁמָ֑יִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "KJV, NASB, ESV, HCSB; definite plural of שמים (shamayim)"
+      },
+      {
+        "position": 6,
+        "surface": "וַיִּכָּלֵ֥א",
+        "phrase": "and was restrained",
+        "literal": "and-it-was-restrained",
+        "source": "KJV, NASB, ESV, HCSB; Wayyiqtol form of כלא (kala), meaning to hold back or restrict"
+      },
+      {
+        "position": 7,
+        "surface": "הַגֶּ֖שֶׁם",
+        "phrase": "the rain",
+        "literal": "the-rain",
+        "source": "KJV, NASB, ESV, HCSB; definite singular of גשם (geshem)"
+      },
+      {
+        "position": 8,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, NASB, ESV, HCSB; preposition indicating source or origin"
+      },
+      {
+        "position": 9,
+        "surface": "הַשָּׁמָֽיִם",
+        "phrase": "heaven",
+        "literal": "the-heavens",
+        "source": "KJV, NASB, ESV, HCSB; definite plural of שמים (shamayim)"
+      }
+    ]
+  }
+]

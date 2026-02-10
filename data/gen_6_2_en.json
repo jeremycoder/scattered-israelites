@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּרְאוּ",
+        "phrase": "saw",
+        "literal": "and-they.saw",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NET (construct form)"
+      },
+      {
+        "position": 3,
+        "surface": "הָאֱלֹהִים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB, NET; LXX renders as 'angels of God'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object-marker",
+        "source": "Standard Hebrew grammar particle"
+      },
+      {
+        "position": 5,
+        "surface": "בְנוֹת",
+        "phrase": "daughters",
+        "literal": "daughters",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "הָאָדָם",
+        "phrase": "of men",
+        "literal": "the-man/mankind",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB, NET (conjunction)"
+      },
+      {
+        "position": 8,
+        "surface": "טֹבוֹת",
+        "phrase": "were fair/beautiful",
+        "literal": "good-feminine.plural",
+        "source": "KJV 'fair', ESV 'beautiful', NASB 'beautiful', NET 'beautiful'"
+      },
+      {
+        "position": 9,
+        "surface": "הֵנָּה",
+        "phrase": "[they]",
+        "literal": "they-feminine.plural",
+        "source": "KJV, ESV, NASB, NET (feminine pronoun)"
+      },
+      {
+        "position": 10,
+        "surface": "וַיִּקְחוּ",
+        "phrase": "and they took",
+        "literal": "and-they.took",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "לָהֶם",
+        "phrase": "for themselves",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, NET (dative/reflexive)"
+      },
+      {
+        "position": 12,
+        "surface": "נָשִׁים",
+        "phrase": "wives",
+        "literal": "women",
+        "source": "KJV 'wives', ESV 'wives', NASB 'wives', NET 'wives'; ICR notes 'women' is more literal"
+      },
+      {
+        "position": 13,
+        "surface": "מִכֹּל",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom/which",
+        "literal": "which/whom",
+        "source": "KJV, ESV, NASB, NET (relative pronoun)"
+      },
+      {
+        "position": 15,
+        "surface": "בָּחָרוּ",
+        "phrase": "they chose",
+        "literal": "they.chose",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

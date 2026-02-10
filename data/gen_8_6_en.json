@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, NASB, NKJV, NET (temporal indicator)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/קֵּ֖ץ",
+        "phrase": "at the end",
+        "literal": "from-end",
+        "source": "KJV, NASB, NIV, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אַרְבָּעִ֣ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "KJV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 4,
+        "surface": "י֑וֹם",
+        "phrase": "days",
+        "literal": "day",
+        "source": "KJV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּפְתַּ֣ח",
+        "phrase": "that Noah opened",
+        "literal": "and-opened",
+        "source": "KJV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 6,
+        "surface": "נֹ֔חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "All translations"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "Hebrew accusative marker (untranslated); NET"
+      },
+      {
+        "position": 8,
+        "surface": "חַלּ֥וֹן",
+        "phrase": "the window",
+        "literal": "window",
+        "source": "KJV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/תֵּבָ֖ה",
+        "phrase": "of the ark",
+        "literal": "the-ark",
+        "source": "KJV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 11,
+        "surface": "עָשָֽׂה",
+        "phrase": "he had made",
+        "literal": "he-made",
+        "source": "KJV, NASB, NIV, NKJV, NET (past perfect)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּ֣רְא",
+        "phrase": "saw",
+        "literal": "and-he.saw",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that-because",
+        "source": "Conjunction introducing the object of seeing; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "רַבָּ֛ה",
+        "phrase": "great",
+        "literal": "great-feminine",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "רָעַ֥ת",
+        "phrase": "wickedness",
+        "literal": "evil-construct",
+        "source": "KJV, ESV, NASB, BSB, HCSB; LEB 'evil'"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָדָ֖ם",
+        "phrase": "of man",
+        "literal": "the-mankind",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/אָ֑רֶץ",
+        "phrase": "on the earth",
+        "literal": "in-the-earth",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/כָל",
+        "phrase": "and every",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "יֵ֨צֶר֙",
+        "phrase": "inclination",
+        "literal": "inclination-formed.thing",
+        "source": "BSB, LEB 'inclination'; KJV 'imagination'; ESV, NASB 'intention'; root ysr means to form or shape"
+      },
+      {
+        "position": 10,
+        "surface": "מַחְשְׁבֹ֣ת",
+        "phrase": "of the thoughts",
+        "literal": "thoughts-construct",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "לִבּ֔/וֹ",
+        "phrase": "of his heart",
+        "literal": "heart-his",
+        "source": "KJV, ESV, NASB, BSB, HCSB; heart represents the seat of will and decision in Hebrew"
+      },
+      {
+        "position": 12,
+        "surface": "רַ֥ק",
+        "phrase": "only",
+        "literal": "only-particle",
+        "source": "KJV, ESV, NASB, BSB, HCSB; restrictive particle"
+      },
+      {
+        "position": 13,
+        "surface": "רַ֖ע",
+        "phrase": "evil",
+        "literal": "evil",
+        "source": "KJV, ESV, NASB, BSB, HCSB"
+      },
+      {
+        "position": 14,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, BSB, HCSB; emphasizes the totality of time"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "the time",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB, BSB, HCSB; idiom meaning 'continually' or 'all the time' in poetic contexts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נֹ֕חַ",
+        "phrase": "But Noah",
+        "literal": "and-Noah",
+        "source": "KJV, ESV, NASB (waw disjunctive + proper name)"
+      },
+      {
+        "position": 2,
+        "surface": "מָ֥צָא",
+        "phrase": "found",
+        "literal": "found",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "חֵ֖ן",
+        "phrase": "favor",
+        "literal": "favor-grace",
+        "source": "ESV, NASB (KJV: grace)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/עֵינֵ֥י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָֽה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

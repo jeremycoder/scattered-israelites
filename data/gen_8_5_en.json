@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/מַּ֗יִם",
+        "phrase": "and the waters",
+        "literal": "and-the-waters",
+        "source": "KJV, ESV, NASB, NET[1][4]"
+      },
+      {
+        "position": 2,
+        "surface": "הָיוּ֙",
+        "phrase": "were",
+        "literal": "they-were",
+        "source": "KJV, ESV, NASB, NET[1][4]"
+      },
+      {
+        "position": 3,
+        "surface": "הָל֣וֹךְ",
+        "phrase": "going",
+        "literal": "going",
+        "source": "continuous action, NET tn[1]"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/חָס֔וֹר",
+        "phrase": "and decreasing",
+        "literal": "and-lessening",
+        "source": "NET tn, KJV 'decreased', NASB 'decreased'[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֖ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/חֹ֣דֶשׁ",
+        "phrase": "the month",
+        "literal": "the-month",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/עֲשִׂירִ֑י",
+        "phrase": "tenth",
+        "literal": "the-tenth",
+        "source": "KJV, ESV, NASB[4][8]"
+      },
+      {
+        "position": 8,
+        "surface": "בָּֽ/עֲשִׂירִ֙י",
+        "phrase": "in the tenth",
+        "literal": "in-the-tenth",
+        "source": "KJV, ESV, NASB[4][8]"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אֶחָ֣ד",
+        "phrase": "on the first",
+        "literal": "in-one",
+        "source": "KJV, ESV, NASB[4][8]"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/חֹ֔דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "נִרְא֖וּ",
+        "phrase": "were seen",
+        "literal": "were-seen",
+        "source": "NET tn 'could be seen', KJV, NASB[1][4]"
+      },
+      {
+        "position": 12,
+        "surface": "רָאשֵׁ֥י",
+        "phrase": "tops",
+        "literal": "heads",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הֶֽ/הָרִֽים",
+        "phrase": "of the mountains",
+        "literal": "the-mountains",
+        "source": "KJV, ESV, NASB[4]"
+      }
+    ]
+  }
+]

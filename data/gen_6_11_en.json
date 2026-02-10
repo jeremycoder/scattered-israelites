@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּשָּׁחֵ֥ת",
+        "phrase": "was corrupt",
+        "literal": "and-became_corrupt",
+        "source": "KJV, ESV, NASB (Nifal consecutive imperfect of שָׁחַת)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to_face_of",
+        "source": "KJV, NASB; 'in the sight of' ESV"
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/אֱלֹהִ֑ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תִּמָּלֵ֥א",
+        "phrase": "was filled",
+        "literal": "and-was_filled",
+        "source": "KJV, ESV, NASB (Nifal consecutive imperfect of מָלֵא)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חָמָֽס",
+        "phrase": "violence",
+        "literal": "violence",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

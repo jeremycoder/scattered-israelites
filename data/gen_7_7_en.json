@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיָּבֹא",
+        "phrase": "went",
+        "literal": "and-he.went",
+        "source": "KJV, ASV, ESV, NASB; Hiphil wayyiqtol form of בוא (ba')"
+      },
+      {
+        "position": 2,
+        "surface": "נֹחַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "וּבָנָיו",
+        "phrase": "and his sons",
+        "literal": "and-sons.his",
+        "source": "KJV, ASV, ESV, NASB; conjunction + noun construct + possessive suffix"
+      },
+      {
+        "position": 4,
+        "surface": "וְאִשְׁתּוֹ",
+        "phrase": "and his wife",
+        "literal": "and-wife.his",
+        "source": "KJV, ASV, ESV, NASB; conjunction + noun + possessive suffix"
+      },
+      {
+        "position": 5,
+        "surface": "וּנְשֵׁי",
+        "phrase": "and the wives",
+        "literal": "and-wives",
+        "source": "KJV, ASV, ESV, NASB; conjunction + construct plural of אִשָּׁה"
+      },
+      {
+        "position": 6,
+        "surface": "בָנָיו",
+        "phrase": "of his sons",
+        "literal": "sons.his",
+        "source": "KJV, ASV, ESV, NASB; construct noun + possessive suffix in genitive relationship"
+      },
+      {
+        "position": 7,
+        "surface": "אִתּוֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ASV, ESV, NASB; preposition את (et) + possessive suffix"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "KJV, ASV, ESV, NASB; directional preposition"
+      },
+      {
+        "position": 9,
+        "surface": "הַתֵּבָה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ASV, ESV, NASB; definite article + noun תֵּבָה"
+      },
+      {
+        "position": 10,
+        "surface": "מִפְּנֵי",
+        "phrase": "because of",
+        "literal": "from-face",
+        "source": "KJV, ASV, ESV, NASB; preposition מִן + noun פָּנִים (construct form)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵי",
+        "phrase": "the waters",
+        "literal": "waters",
+        "source": "KJV, ASV, ESV, NASB; construct form of מַיִם"
+      },
+      {
+        "position": 12,
+        "surface": "הַמַּבּוּל",
+        "phrase": "of the flood",
+        "literal": "the-flood",
+        "source": "KJV, ASV, ESV, NASB; definite article + noun מַבּוּל; note: מַבּוּל can mean 'flood' or 'inundation/destruction from above'"
+      }
+    ]
+  }
+]

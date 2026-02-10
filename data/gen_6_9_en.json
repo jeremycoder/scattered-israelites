@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֚לֶּה",
+        "phrase": "These",
+        "literal": "these-PL",
+        "source": "KJV, ESV, NASB, Strong's 428"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְדֹ֣ת",
+        "phrase": "are the generations",
+        "literal": "generations",
+        "source": "KJV, ESV, NASB, Strong's 8435"
+      },
+      {
+        "position": 3,
+        "surface": "נֹ֔חַ",
+        "phrase": "of Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, Strong's 5146"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֗חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, Strong's 5146"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֥ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB, Strong's 376"
+      },
+      {
+        "position": 6,
+        "surface": "צַדִּ֛יק",
+        "phrase": "righteous",
+        "literal": "righteous",
+        "source": "KJV, ESV, NASB, Strong's 6662"
+      },
+      {
+        "position": 7,
+        "surface": "תָּמִ֥ים",
+        "phrase": "blameless",
+        "literal": "complete-unblemished",
+        "source": "ESV, NASB (KJV: perfect), Strong's 8549"
+      },
+      {
+        "position": 8,
+        "surface": "הָיָ֖ה",
+        "phrase": "he was",
+        "literal": "he-was",
+        "source": "KJV, ESV, NASB, Strong's 1961"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/דֹֽרֹתָ֑י/ו",
+        "phrase": "in his generations",
+        "literal": "in-generations-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "Particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB, Strong's 430"
+      },
+      {
+        "position": 12,
+        "surface": "הִֽתְהַלֶּךְ",
+        "phrase": "walked",
+        "literal": "walked-reciprocally",
+        "source": "KJV, ESV, NASB, Strong's 1980 (Hitpael)"
+      },
+      {
+        "position": 13,
+        "surface": "נֹֽחַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, Strong's 5146"
+      }
+    ]
+  }
+]

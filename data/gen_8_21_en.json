@@ -1,0 +1,235 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיָּרַח",
+        "phrase": "smelled",
+        "literal": "and-he-smelled",
+        "source": "KJV, NASB, NET, ESV; vayyarakh (wayyiqtol form of rakh)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, NASB, NET; divine name (Tetragrammaton)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle; marks definite object"
+      },
+      {
+        "position": 4,
+        "surface": "רֵיחַ",
+        "phrase": "aroma",
+        "literal": "smell/aroma",
+        "source": "KJV 'savour', NASB 'aroma', NET 'aroma'"
+      },
+      {
+        "position": 5,
+        "surface": "הַנִּיחֹחַ",
+        "phrase": "soothing",
+        "literal": "the-soothing/pleasing",
+        "source": "KJV 'sweet savour', NASB 'soothing aroma', NET 'soothing aroma'; cognate accusative construction"
+      },
+      {
+        "position": 6,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "KJV, NASB, NET; wayyiqtol form of amar"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, NASB, NET; divine name"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV 'in', NET 'to'"
+      },
+      {
+        "position": 9,
+        "surface": "לִבּוֹ",
+        "phrase": "his heart",
+        "literal": "his-heart",
+        "source": "KJV 'his heart', NASB 'Himself', NET 'himself'; leb with 3ms possessive suffix"
+      },
+      {
+        "position": 10,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; KJV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אֹסִף",
+        "phrase": "will I add/continue",
+        "literal": "I-will-add",
+        "source": "KJV 'will not again', NASB 'will never again', NET 'will never again'; yiqtol form of yasaf"
+      },
+      {
+        "position": 12,
+        "surface": "לְקַלֵּל",
+        "phrase": "to curse",
+        "literal": "to-curse",
+        "source": "KJV 'curse', NASB 'curse', NET 'curse'; infinitive construct of qalal (Piel stem)"
+      },
+      {
+        "position": 13,
+        "surface": "עוֹד",
+        "phrase": "anymore",
+        "literal": "still/yet/anymore",
+        "source": "KJV 'any more', NASB 'again', NET 'again'; adverbial"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 15,
+        "surface": "הָאֲדָמָה",
+        "phrase": "the ground",
+        "literal": "the-ground/earth",
+        "source": "KJV 'ground', NASB 'ground', NET 'ground'; adamah with definite article"
+      },
+      {
+        "position": 16,
+        "surface": "בַּעֲבוּר",
+        "phrase": "on account of",
+        "literal": "for-the-sake-of",
+        "source": "KJV 'for man's sake', NASB 'on account of man', NET 'because of humankind'; preposition ba- with avor"
+      },
+      {
+        "position": 17,
+        "surface": "הָאָדָם",
+        "phrase": "man",
+        "literal": "the-man/mankind",
+        "source": "KJV 'man', NASB 'man', NET 'humankind'; adam with definite article"
+      },
+      {
+        "position": 18,
+        "surface": "כִּי",
+        "phrase": "for/although",
+        "literal": "for/because",
+        "source": "KJV 'for', NASB 'for', NET 'even though'; concessive sense in this context per NET notes"
+      },
+      {
+        "position": 19,
+        "surface": "יֵצֶר",
+        "phrase": "inclination",
+        "literal": "inclination/imagination",
+        "source": "KJV 'imagination', NASB 'inclination', NET 'inclination'; yetser (formed thing, inclination)"
+      },
+      {
+        "position": 20,
+        "surface": "לֵב",
+        "phrase": "of the heart",
+        "literal": "heart",
+        "source": "KJV 'heart', NASB 'heart', NET 'mind'; leb (construct state)"
+      },
+      {
+        "position": 21,
+        "surface": "הָאָדָם",
+        "phrase": "of man",
+        "literal": "the-man/mankind",
+        "source": "KJV 'man', NASB 'man', NET 'humankind'; adam with definite article"
+      },
+      {
+        "position": 22,
+        "surface": "רַע",
+        "phrase": "is evil",
+        "literal": "evil",
+        "source": "KJV 'evil', NASB 'evil', NET 'evil'; adjective ra"
+      },
+      {
+        "position": 23,
+        "surface": "מִנְּעֻרָיו",
+        "phrase": "from his youth",
+        "literal": "from-his-youth",
+        "source": "KJV 'from his youth', NASB 'from his youth', NET 'from childhood on'; min with nour (youth) and 3ms suffix"
+      },
+      {
+        "position": 24,
+        "surface": "וְלֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "conjunction vav with negative particle lo"
+      },
+      {
+        "position": 25,
+        "surface": "אֹסִף",
+        "phrase": "will I add/continue",
+        "literal": "I-will-add",
+        "source": "KJV 'will not again', NASB 'will never again', NET 'will never again'; yiqtol form of yasaf"
+      },
+      {
+        "position": 26,
+        "surface": "עוֹד",
+        "phrase": "anymore",
+        "literal": "still/yet/anymore",
+        "source": "KJV 'any more', NASB 'again', NET 'again'; adverbial"
+      },
+      {
+        "position": 27,
+        "surface": "לְהַכּוֹת",
+        "phrase": "to strike/destroy",
+        "literal": "to-strike",
+        "source": "KJV 'smite', NASB 'destroy', NET 'destroy'; infinitive construct of nakah (Hiphil)"
+      },
+      {
+        "position": 28,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 29,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all/every",
+        "source": "KJV 'every', NASB 'every', NET 'every'; kol (totality)"
+      },
+      {
+        "position": 30,
+        "surface": "חַי",
+        "phrase": "living thing",
+        "literal": "living",
+        "source": "KJV 'thing living', NASB 'living thing', NET 'living being'; chai (alive, living)"
+      },
+      {
+        "position": 31,
+        "surface": "כַּאֲשֶׁר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "KJV 'as', NASB 'as', NET 'as'; ka- with asher (relative particle)"
+      },
+      {
+        "position": 32,
+        "surface": "עָשִׂיתִי",
+        "phrase": "I have done",
+        "literal": "I-did",
+        "source": "KJV 'I have done', NASB 'I have done', NET 'I have just done'; qal perfect 1cs of asah"
+      }
+    ]
+  }
+]

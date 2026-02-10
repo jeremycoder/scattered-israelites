@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהַמַּ֗יִם",
+        "phrase": "And the waters",
+        "literal": "and-the-waters",
+        "source": "Conjunction waw + definite article + noun; all major translations (KJV, ESV, NASB, NIV)"
+      },
+      {
+        "position": 2,
+        "surface": "גָּֽבְר֛וּ",
+        "phrase": "prevailed",
+        "literal": "prevail-QALPERF-3CP",
+        "source": "Root gabar (גבר) meaning 'to prevail, triumph, become mighty'; ESV, NASB, KJV, NIV all render as 'prevailed'"
+      },
+      {
+        "position": 3,
+        "surface": "מְאֹ֥ד",
+        "phrase": "exceedingly",
+        "literal": "exceedingly",
+        "source": "Adverb; KJV 'exceedingly', ESV 'so mightily', NASB 'more and more'"
+      },
+      {
+        "position": 4,
+        "surface": "מְאֹ֖ד",
+        "phrase": "exceedingly",
+        "literal": "exceedingly",
+        "source": "Repetition of position 3 for emphasis; NET notes 'the repetition emphasizes the depth of the waters'; Young's Literal 'very very mighty'"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "Preposition; all major translations render as 'upon' or 'on'"
+      },
+      {
+        "position": 6,
+        "surface": "הָאָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "Definite article + noun; all major translations"
+      },
+      {
+        "position": 7,
+        "surface": "וַיְכֻסּ֗וּ",
+        "phrase": "and were covered",
+        "literal": "and-cover-QALPERF-3CP",
+        "source": "Conjunction waw + verb root kasa (כסה) 'to cover'; all major translations render as 'were covered' or 'covered'"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "Noun; all major translations"
+      },
+      {
+        "position": 9,
+        "surface": "הֶהָרִים֙",
+        "phrase": "the mountains",
+        "literal": "the-mountains",
+        "source": "Definite article + noun harim (הרים); BibleRef notes this term is 'often translated as hills, or even high hills'; all major translations"
+      },
+      {
+        "position": 10,
+        "surface": "הַגְּבֹהִ֔ים",
+        "phrase": "the high",
+        "literal": "the-high",
+        "source": "Definite article + adjective from root gaboah (גבה) 'high, lofty'; all major translations render as 'high' or 'lofty'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "Relative pronoun; all major translations"
+      },
+      {
+        "position": 12,
+        "surface": "תַּ֖חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "Preposition; all major translations render as 'under'"
+      },
+      {
+        "position": 13,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "Noun; all major translations"
+      },
+      {
+        "position": 14,
+        "surface": "הַשָּׁמָֽיִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "Definite article + noun shamayim (שמים); all major translations render as 'heavens' or 'sky'"
+      }
+    ]
+  }
+]

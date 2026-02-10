@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/חֹ֨דֶשׁ֙",
+        "phrase": "And in the month",
+        "literal": "and-in-the-month",
+        "source": "KJV, ESV, NASB; וּ=and, בַ=in-the, חֹדֶשׁ=month (Strong's 2320)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שֵּׁנִ֔י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "KJV, ESV, NASB; הַ=the, שֵּׁנִי=second (Strong's 8145)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/שִׁבְעָ֧ה",
+        "phrase": "on the seven",
+        "literal": "in-seven",
+        "source": "KJV ('seventh'), ESV, NASB; בְּ=in/on, שִׁבְעָה=seven (Strong's 7651, cardinal used adverbially)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/עֶשְׂרִ֛ים",
+        "phrase": "and twentieth",
+        "literal": "and-twenty",
+        "source": "KJV, ESV, NASB; וְ=and, עֶשְׂרִים=twenty (Strong's 6242)"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB (Strong's 3117)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/חֹ֑דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "KJV, ESV, NASB; לַ=to/for-the, חֹדֶשׁ=month (dative, 'of the month')"
+      },
+      {
+        "position": 7,
+        "surface": "יָבְשָׁ֖ה",
+        "phrase": "was dry",
+        "literal": "was-dry",
+        "source": "KJV, ESV, NASB; יָבְשָׁה=it-was-dry (3fs perfect of יָבֵשׁ, Strong's 3001)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB; הָ=the, אָרֶץ=earth/land (Strong's 776)"
+      }
+    ]
+  }
+]

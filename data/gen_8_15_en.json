@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "And God spoke",
+        "literal": "and-spoke",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֥חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      }
+    ]
+  }
+]

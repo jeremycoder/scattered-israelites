@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתָּ֣ה",
+        "phrase": "And you",
+        "literal": "and-you",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "קַח",
+        "phrase": "take",
+        "literal": "take-(impv)",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֗",
+        "phrase": "for yourself",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/כָּל",
+        "phrase": "of all",
+        "literal": "from-all",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 5,
+        "surface": "מַֽאֲכָל֙",
+        "phrase": "food",
+        "literal": "food",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which-rel",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 7,
+        "surface": "יֵֽאָכֵ֔ל",
+        "phrase": "is eaten",
+        "literal": "is-eaten",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אָסַפְתָּ֖",
+        "phrase": "and gather",
+        "literal": "and-gather-(perf.consec)",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 9,
+        "surface": "אֵלֶ֑י/ךָ",
+        "phrase": "to yourself",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הָיָ֥ה",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/ךָ֛",
+        "phrase": "for you",
+        "literal": "for-you",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לָ/הֶ֖ם",
+        "phrase": "and for them",
+        "literal": "and-to-them",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אָכְלָֽה",
+        "phrase": "for food",
+        "literal": "for-food",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְבְּר֥וּ",
+        "phrase": "prevailed",
+        "literal": "and-they_prevailed",
+        "source": "ESV, NASB, KJV, NET (gabar: to be strong, prevail, overcome) [1][2][3]"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מַּ֖יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "ESV, NASB, KJV [1][3]"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "ESV, NASB, KJV (preposition) [3]"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "ESV, NASB, KJV [1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "חֲמִשִּׁ֥ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "ESV, NASB, KJV [1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מְאַ֖ת",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "ESV, NASB, KJV (lit. and-hundred) [1][3]"
+      },
+      {
+        "position": 7,
+        "surface": "יֽוֹם",
+        "phrase": "days",
+        "literal": "day",
+        "source": "ESV, NASB, KJV [1][3]"
+      }
+    ]
+  }
+]

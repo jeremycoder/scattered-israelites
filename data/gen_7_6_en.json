@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נֹ֕חַ",
+        "phrase": "Noah",
+        "literal": "and-Noah",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "was",
+        "literal": "son-of",
+        "source": "KJV, ESV, NASB (idiomatic for age)"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁ֥שׁ",
+        "phrase": "six",
+        "literal": "six",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הַ/מַּבּ֣וּל",
+        "phrase": "the flood",
+        "literal": "and-the-flood",
+        "source": "KJV, ESV, NASB, Chabad (mabbul='flood')"
+      },
+      {
+        "position": 7,
+        "surface": "הָיָ֔ה",
+        "phrase": "came",
+        "literal": "was",
+        "source": "KJV, ESV, NASB (inchoative sense)"
+      },
+      {
+        "position": 8,
+        "surface": "מַ֖יִם",
+        "phrase": "waters",
+        "literal": "waters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

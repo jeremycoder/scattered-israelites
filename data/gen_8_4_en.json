@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּ֤נַח",
+        "phrase": "and rested",
+        "literal": "and-rest",
+        "source": "KJV, ESV, NASB, ASV (Qal consecutive imperfect of נוּחַ)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תֵּבָה֙",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/חֹ֣דֶשׁ",
+        "phrase": "in the month",
+        "literal": "in-the-month",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁבִיעִ֔י",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/שִׁבְעָה",
+        "phrase": "on the seventh",
+        "literal": "in-seven",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָׂ֥ר",
+        "phrase": "tenth",
+        "literal": "ten",
+        "source": "KJV (seventeenth), ESV, NASB, ASV"
+      },
+      {
+        "position": 7,
+        "surface": "י֖וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/חֹ֑דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 9,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "KJV, ESV, NASB, ASV (preposition)"
+      },
+      {
+        "position": 10,
+        "surface": "הָרֵ֥י",
+        "phrase": "mountains",
+        "literal": "mountains-of",
+        "source": "KJV, ESV, NASB, ASV"
+      },
+      {
+        "position": 11,
+        "surface": "אֲרָרָֽט",
+        "phrase": "Ararat",
+        "literal": "Ararat",
+        "source": "KJV, ESV, NASB, ASV (proper name)"
+      }
+    ]
+  }
+]

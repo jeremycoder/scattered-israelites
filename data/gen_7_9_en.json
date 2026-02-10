@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁנַ֨יִם",
+        "phrase": "two",
+        "literal": "two-m",
+        "source": "KJV, ESV, NASB (dual of שְׁנַיִם 'two')"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁנַ֜יִם",
+        "phrase": "two",
+        "literal": "two-m",
+        "source": "KJV, ESV, NASB (idiom 'two two' = 'in pairs')"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ֧אוּ",
+        "phrase": "went in",
+        "literal": "they-came",
+        "source": "KJV, ESV, NASB (Qal perfect 3mp of בּוֹא 'to come/go/enter')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition of motion/direction)"
+      },
+      {
+        "position": 5,
+        "surface": "נֹ֛חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition of motion/direction)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תֵּבָ֖ה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB (הַ = definite article; תֵּבָה = 'ark, box')"
+      },
+      {
+        "position": 8,
+        "surface": "זָכָ֣ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, ESV, NASB, NET (generic term for male)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/נְקֵבָ֑ה",
+        "phrase": "and female",
+        "literal": "and-female",
+        "source": "KJV, ESV, NASB, NET (וּ = 'and'; נְקֵבָה = 'female')"
+      },
+      {
+        "position": 10,
+        "surface": "כַּֽ/אֲשֶׁ֛ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "KJV, ESV, NASB (כַּ = 'as'; אֲשֶׁר = 'which/that')"
+      },
+      {
+        "position": 11,
+        "surface": "צִוָּ֥ה",
+        "phrase": "had commanded",
+        "literal": "he-commanded",
+        "source": "KJV, ESV, NASB (Piel perfect 3ms of צָוָה 'to command')"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (proper name Elohim)"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "KJV, ESV, NASB (accusative marker)"
+      },
+      {
+        "position": 14,
+        "surface": "נֹֽחַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]

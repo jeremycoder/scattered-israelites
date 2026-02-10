@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֗ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָד֨וֹן",
+        "phrase": "abide",
+        "literal": "judge/remain/strive",
+        "source": "debated hapax; KJV 'judge', ESV 'contend', NASB 'remain'"
+      },
+      {
+        "position": 5,
+        "surface": "רוּחִ֤/י",
+        "phrase": "my Spirit",
+        "literal": "spirit-my",
+        "source": "KJV, ESV, NASB; ruach 'spirit/breath/wind'[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "בָֽ/אָדָם֙",
+        "phrase": "in man",
+        "literal": "in-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/עֹלָ֔ם",
+        "phrase": "forever",
+        "literal": "to-forever",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/שַׁ/גַּ֖ם",
+        "phrase": "in that",
+        "literal": "in-that_also",
+        "source": "KJV 'yet', ESV 'for', NASB 'because'; b'shaggam[2]"
+      },
+      {
+        "position": 9,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בָשָׂ֑ר",
+        "phrase": "flesh",
+        "literal": "flesh",
+        "source": "KJV, ESV, NASB; human mortality[1]"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הָי֣וּ",
+        "phrase": "shall be",
+        "literal": "and-they_will_be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יָמָ֔י/ו",
+        "phrase": "his days",
+        "literal": "days-his",
+        "source": "KJV, ESV, NASB; lifespan[1]"
+      },
+      {
+        "position": 13,
+        "surface": "מֵאָ֥ה",
+        "phrase": "a hundred",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/עֶשְׂרִ֖ים",
+        "phrase": "and twenty",
+        "literal": "and-twenty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "שָׁנָֽה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

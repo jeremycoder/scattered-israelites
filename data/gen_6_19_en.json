@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּמִכָּל",
+        "phrase": "and of all",
+        "literal": "and-from-all",
+        "source": "Conjunction + preposition + construct form"
+      },
+      {
+        "position": 2,
+        "surface": "הַחַי",
+        "phrase": "living thing",
+        "literal": "the-living",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִכָּל",
+        "phrase": "of all",
+        "literal": "from-all",
+        "source": "Preposition + construct form"
+      },
+      {
+        "position": 4,
+        "surface": "בָּשָׂר",
+        "phrase": "flesh",
+        "literal": "flesh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנַיִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מִכֹּל",
+        "phrase": "of every",
+        "literal": "from-every",
+        "source": "Preposition + construct form"
+      },
+      {
+        "position": 7,
+        "surface": "תָּבִיא",
+        "phrase": "you shall bring",
+        "literal": "you-will-bring",
+        "source": "KJV, ESV, NASB; Qal imperfect 2ms"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 9,
+        "surface": "הַתֵּבָה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לְהַחֲיֹת",
+        "phrase": "to keep alive",
+        "literal": "to-keep-alive",
+        "source": "KJV, ESV, NASB; infinitive construct + Hiphil"
+      },
+      {
+        "position": 11,
+        "surface": "אִתָּךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB; preposition + 2ms suffix. Alternatively analyzed as direct object marker (et) + 2ms suffix in Gen 6:19 debate"
+      },
+      {
+        "position": 12,
+        "surface": "זָכָר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וּנְקֵבָה",
+        "phrase": "and female",
+        "literal": "and-female",
+        "source": "KJV, ESV, NASB; conjunction + feminine noun"
+      },
+      {
+        "position": 14,
+        "surface": "יִהְיוּ",
+        "phrase": "they shall be",
+        "literal": "they-will-be",
+        "source": "KJV, ESV, NASB; Qal imperfect 3mp"
+      }
+    ]
+  }
+]

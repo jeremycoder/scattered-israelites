@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/הֲקִמֹתִ֥י",
+        "phrase": "I will establish",
+        "literal": "and-I_will_cause_to_stand",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct_object_marker]",
+        "source": "grammatical particle (KJV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּרִיתִ֖/י",
+        "phrase": "my covenant",
+        "literal": "covenant-my",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "אִתָּ֑/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בָאתָ֙",
+        "phrase": "and you shall come",
+        "literal": "and-you_shall_come",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תֵּבָ֔ה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "אַתָּ֕ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "emphatic pronoun (KJV, ESV)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בָנֶ֛י/ךָ",
+        "phrase": "and your sons",
+        "literal": "and-sons-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אִשְׁתְּ/ךָ֥",
+        "phrase": "and your wife",
+        "literal": "and-wife-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/נְשֵֽׁי",
+        "phrase": "and wives",
+        "literal": "and-wives",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "בָנֶ֖י/ךָ",
+        "phrase": "of your sons",
+        "literal": "sons-your",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 13,
+        "surface": "אִתָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַשׂ",
+        "phrase": "And Noah did",
+        "literal": "and-he_did",
+        "source": "KJV, ESV, NASB, NET (wayyaʿaś, Qal wayyiqtol 3ms from ʿāśâ 'do, make')"
+      },
+      {
+        "position": 2,
+        "surface": "נֹ֑חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, NET (proper name Nōaḥ)"
+      },
+      {
+        "position": 3,
+        "surface": "כְּ/כֹ֥ל",
+        "phrase": "according to all",
+        "literal": "as-all",
+        "source": "KJV, ESV, NASB, NET (kəkōl, preposition kə- 'as, like' + kōl 'all, everything')"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB, NET (ʾăšer, relative pronoun 'which, that')"
+      },
+      {
+        "position": 5,
+        "surface": "צִוָּ֖/הוּ",
+        "phrase": "the LORD commanded him",
+        "literal": "he_commanded-him",
+        "source": "KJV, ESV, NASB, NET (ṣiwwāhû, Piel perfect 3ms + 3ms suffix from ṣāwâ 'command')"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NET (proper name YHWH, divine name)"
+      }
+    ]
+  }
+]

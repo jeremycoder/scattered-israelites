@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "גַּ֣ם",
+        "phrase": "also",
+        "literal": "also-also",
+        "source": "KJV, ESV, NASB (particle of addition)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/ע֧וֹף",
+        "phrase": "of the birds",
+        "literal": "from-of_birds",
+        "source": "KJV (of fowls), ESV (of the birds), NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שָּׁמַ֛יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "KJV (of the air), ESV (of the heavens), NASB (of the sky)"
+      },
+      {
+        "position": 4,
+        "surface": "שִׁבְעָ֥ה",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB (seven or seven pairs)"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁבְעָ֖ה",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB (emphatic repetition for pairs)"
+      },
+      {
+        "position": 6,
+        "surface": "זָכָ֣ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "NET (zakhar), KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/נְקֵבָ֑ה",
+        "phrase": "and female",
+        "literal": "and-female",
+        "source": "NET (unqevah), KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/חַיּ֥וֹת",
+        "phrase": "to keep alive",
+        "literal": "to-cause_to_live",
+        "source": "NET (to keep alive), KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "זֶ֖רַע",
+        "phrase": "offspring",
+        "literal": "seed-offspring",
+        "source": "NET, KJV (seed), NASB (offspring)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon-on",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "פְּנֵ֥י",
+        "phrase": "the face",
+        "literal": "face-of",
+        "source": "KJV (face), ESV, NASB (surface)"
+      },
+      {
+        "position": 12,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all-every",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

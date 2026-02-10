@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּנָּ֣חֶם",
+        "phrase": "and regretted",
+        "literal": "and-Nifal-consecutive-imperfect-repent/regret",
+        "source": "KJV: repented; ESV: was sorry; NASB: regretted [1][3]"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "Proper name of God; KJV, ESV, NASB [3]"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "Conjunction; KJV, ESV, NASB [3]"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֥ה",
+        "phrase": "He had made",
+        "literal": "Qal-perfect-make/do",
+        "source": "KJV, ESV, NASB [3]"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "Particle; not translated [3]"
+      },
+      {
+        "position": 6,
+        "surface": "הָֽ/אָדָ֖ם",
+        "phrase": "man",
+        "literal": "the-man/humankind",
+        "source": "KJV: man; ESV: man; NASB: man [3]"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/אָ֑רֶץ",
+        "phrase": "on the earth",
+        "literal": "in/on-the-earth",
+        "source": "KJV, ESV, NASB [3]"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּתְעַצֵּ֖ב",
+        "phrase": "and it grieved him",
+        "literal": "and-Hitpael-consecutive-imperfect-grieve/be-troubled",
+        "source": "KJV: grieved; ESV: grieved; NASB: grieved [1][3]"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "at",
+        "literal": "to/unto",
+        "source": "Preposition; KJV: at; ESV: at [3]"
+      },
+      {
+        "position": 10,
+        "surface": "לִבּֽ/וֹ",
+        "phrase": "his heart",
+        "literal": "to-heart-his",
+        "source": "KJV, ESV, NASB [3]"
+      }
+    ]
+  }
+]

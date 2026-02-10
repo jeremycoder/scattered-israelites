@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּיָּ֣חֶל",
+        "phrase": "he waited",
+        "literal": "and-he waited",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "ע֔וֹד",
+        "phrase": "again",
+        "literal": "still-yet",
+        "source": "KJV (yet), ESV (again), NASB (again); adverbial particle"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחֵרִ֑ים",
+        "phrase": "more",
+        "literal": "other",
+        "source": "KJV (other), ESV (more), NASB (more)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְשַׁלַּח֙",
+        "phrase": "and sent out",
+        "literal": "and-he sent",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker; untranslatable (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יּוֹנָ֔ה",
+        "phrase": "the dove",
+        "literal": "the-dove",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לֹֽא",
+        "phrase": "but",
+        "literal": "and-not",
+        "source": "KJV (but), ESV (but), NASB (but)"
+      },
+      {
+        "position": 10,
+        "surface": "יָסְפָ֥ה",
+        "phrase": "return",
+        "literal": "she added-to-return",
+        "source": "KJV, ESV, NASB; from יסף 'to add/continue'"
+      },
+      {
+        "position": 11,
+        "surface": "שׁוּב",
+        "phrase": "to him",
+        "literal": "to return",
+        "source": "KJV, ESV, NASB; infinitive of שׁוּב 'to return'"
+      },
+      {
+        "position": 12,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "עֽוֹד",
+        "phrase": "again",
+        "literal": "still-yet",
+        "source": "KJV (again), ESV (again), NASB (anymore); adverbial particle, NET tn 'it did not again return to him still'"
+      }
+    ]
+  }
+]

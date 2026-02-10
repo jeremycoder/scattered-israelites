@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִ֧י",
+        "phrase": "and it was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מַּבּ֛וּל",
+        "phrase": "the flood",
+        "literal": "the-flood",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אַרְבָּעִ֥ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "י֖וֹם",
+        "phrase": "days",
+        "literal": "day-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּרְבּ֣וּ",
+        "phrase": "and increased",
+        "literal": "and-they-multiplied",
+        "source": "KJV (waters increased), ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מַּ֗יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּשְׂאוּ֙",
+        "phrase": "and lifted",
+        "literal": "and-they-lifted",
+        "source": "KJV (bare up), ESV (bore up), NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "Hebrew particle; standard grammars"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/תֵּבָ֔ה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/תָּ֖רָם",
+        "phrase": "and it rose",
+        "literal": "and-it-rose",
+        "source": "KJV (it was lift up), ESV (it rose), NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "above",
+        "literal": "from-upon",
+        "source": "KJV, ESV; preposition"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

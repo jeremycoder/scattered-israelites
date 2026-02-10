@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְשַׁלַּ֖ח",
+        "phrase": "and he sent out",
+        "literal": "and-he-sent_out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar (particle)"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/עֹרֵ֑ב",
+        "phrase": "the raven",
+        "literal": "the-raven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּצֵ֤א",
+        "phrase": "and it went out",
+        "literal": "and-it_went_out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "יָצוֹא֙",
+        "phrase": "going out",
+        "literal": "going_out",
+        "source": "NET tn, Bible Hub"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/שׁ֔וֹב",
+        "phrase": "and returning",
+        "literal": "and-returning",
+        "source": "NET tn, Bible Hub"
+      },
+      {
+        "position": 7,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יְבֹ֥שֶׁת",
+        "phrase": "had dried up",
+        "literal": "had_dried_up",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מַּ֖יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "from upon",
+        "literal": "from-upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

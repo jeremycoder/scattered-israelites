@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עֲשֵׂ֤ה",
+        "phrase": "make",
+        "literal": "make!-IMP",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/ךָ֙",
+        "phrase": "for yourself",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "תֵּבַ֣ת",
+        "phrase": "an ark",
+        "literal": "ark-ACC",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "עֲצֵי",
+        "phrase": "of",
+        "literal": "trees-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "גֹ֔פֶר",
+        "phrase": "gopher wood",
+        "literal": "gopher",
+        "source": "KJV, ESV, NASB; unknown wood type [1]"
+      },
+      {
+        "position": 6,
+        "surface": "קִנִּ֖ים",
+        "phrase": "rooms",
+        "literal": "nests-ACC",
+        "source": "KJV (rooms), ESV (rooms), NASB (compartments) [4]"
+      },
+      {
+        "position": 7,
+        "surface": "תַּֽעֲשֶׂ֣ה",
+        "phrase": "you shall make",
+        "literal": "you-shall-make",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "ACC-marker",
+        "source": "direct object marker"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/תֵּבָ֑ה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/כָֽפַרְתָּ֥",
+        "phrase": "and you shall cover",
+        "literal": "and-you-shall-cover",
+        "source": "KJV, ESV, NASB [1]"
+      },
+      {
+        "position": 11,
+        "surface": "אֹתָ֛/הּ",
+        "phrase": "it",
+        "literal": "it-ACC",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/בַּ֥יִת",
+        "phrase": "inside",
+        "literal": "from-house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/מִ/ח֖וּץ",
+        "phrase": "and outside",
+        "literal": "and-from-outside",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בַּ/כֹּֽפֶר",
+        "phrase": "with pitch",
+        "literal": "in-the-pitch",
+        "source": "KJV, ESV, NASB; כֹּפֶר (kopher) [1]"
+      }
+    ]
+  }
+]

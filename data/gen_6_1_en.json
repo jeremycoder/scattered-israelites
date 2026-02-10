@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 6,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "when",
+        "source": "KJV, ESV, NASB; temporal particle"
+      },
+      {
+        "position": 3,
+        "surface": "הֵחֵ֣ל",
+        "phrase": "men began",
+        "literal": "to-begin",
+        "source": "KJV, ESV, NASB; Niphal infinitive construct"
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/אָדָ֔ם",
+        "phrase": "men",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/רֹ֖ב",
+        "phrase": "to multiply",
+        "literal": "to-multiply",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 7,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הָֽ/אֲדָמָ֑ה",
+        "phrase": "of the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בָנ֖וֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יֻלְּד֥וּ",
+        "phrase": "were born",
+        "literal": "were-born",
+        "source": "KJV, ESV, NASB; Niphal perfect 3mp"
+      },
+      {
+        "position": 11,
+        "surface": "לָ/הֶֽם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

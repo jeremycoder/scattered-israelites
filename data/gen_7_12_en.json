@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽיְהִ֥י",
+        "phrase": "and it was",
+        "literal": "and-he/it-was",
+        "source": "Conjunction vav + qal imperfect 3ms of היה (hayah); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "הַגֶּ֖שֶׁם",
+        "phrase": "the rain",
+        "literal": "the-rain",
+        "source": "Definite article ha- + masculine singular noun geshem; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "Preposition 'al; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "הָאָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "Definite article ha- + feminine singular noun eretz; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אַרְבָּעִ֣ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "Masculine plural construct of arba'im (forty); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "י֔וֹם",
+        "phrase": "days",
+        "literal": "day",
+        "source": "Masculine singular noun yom; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "וְאַרְבָּעִ֖ים",
+        "phrase": "and forty",
+        "literal": "and-forty",
+        "source": "Conjunction vav + masculine plural construct arba'im; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "לָֽיְלָה",
+        "phrase": "nights",
+        "literal": "night",
+        "source": "Feminine singular noun laylah; KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

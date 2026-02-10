@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 8,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְשַׁלַּח",
+        "phrase": "and he sent out",
+        "literal": "and-he-sent",
+        "source": "KJV, ASV, NET; Hiphil imperfect with vav consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle marking the direct object"
+      },
+      {
+        "position": 3,
+        "surface": "הַיּוֹנָה",
+        "phrase": "dove",
+        "literal": "the-dove",
+        "source": "KJV, ASV, NET; feminine singular construct with definite article"
+      },
+      {
+        "position": 4,
+        "surface": "מֵאִתּוֹ",
+        "phrase": "from him",
+        "literal": "from-with-him",
+        "source": "KJV, ASV, NET; preposition מִן with את and third masculine singular suffix; NET notes this phrase is redundant in English translation"
+      },
+      {
+        "position": 5,
+        "surface": "לִרְאוֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "KJV, ASV, NET; infinitive construct with preposition לְ expressing purpose"
+      },
+      {
+        "position": 6,
+        "surface": "הֲקַלּוּ",
+        "phrase": "had receded",
+        "literal": "had-become-light/receded",
+        "source": "NET; qalal (קָלָל) in Qal perfect; NET notes this verb 'normally means to be light, to be slight' but refers here to waters receding"
+      },
+      {
+        "position": 7,
+        "surface": "הַמַּיִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ASV, NET; masculine plural with definite article"
+      },
+      {
+        "position": 8,
+        "surface": "מֵעַל",
+        "phrase": "from upon",
+        "literal": "from-upon",
+        "source": "KJV, ASV, NET; preposition מִן with עַל"
+      },
+      {
+        "position": 9,
+        "surface": "פְּנֵי",
+        "phrase": "the face of",
+        "literal": "face-of",
+        "source": "KJV, ASV, NET; construct form of פָּנִים (faces/surface)"
+      },
+      {
+        "position": 10,
+        "surface": "הָאֲדָמָה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "KJV, ASV, NET; feminine singular with definite article"
+      }
+    ]
+  }
+]

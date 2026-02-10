@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 7,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֜מַח",
+        "phrase": "and he blotted out",
+        "literal": "and-he_wiped_out",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle, StudyLight[1]"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-every",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יְק֣וּם",
+        "phrase": "living thing",
+        "literal": "the-living_thing",
+        "source": "ESV 'living thing', NASB 'living thing', StudyLight 'living possessions'[1]"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon-on",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 7,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face",
+        "literal": "face-of",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 8,
+        "surface": "הָֽ/אֲדָמָ֗ה",
+        "phrase": "of the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/אָדָ֤ם",
+        "phrase": "from man",
+        "literal": "from-man",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "until-to",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 11,
+        "surface": "בְּהֵמָה֙",
+        "phrase": "animals",
+        "literal": "livestock-animals",
+        "source": "KJV 'cattle', ESV 'animals', NASB, StudyLight[1]"
+      },
+      {
+        "position": 12,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "until-to",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 13,
+        "surface": "רֶ֨מֶשׂ֙",
+        "phrase": "creeping things",
+        "literal": "creeper-creeping_things",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/עַד",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 15,
+        "surface": "ע֣וֹף",
+        "phrase": "birds",
+        "literal": "bird-birds",
+        "source": "KJV 'fowl', ESV 'birds', NASB, StudyLight[1]"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "KJV 'heaven', ESV 'heavens', NASB, StudyLight[1]"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/יִּמָּח֖וּ",
+        "phrase": "and they were blotted out",
+        "literal": "and-they_were_wiped_out",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 18,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 19,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 20,
+        "surface": "וַ/יִשָּׁ֧אֶר",
+        "phrase": "and remained",
+        "literal": "and-remained",
+        "source": "KJV 'remained alive', ESV 'left', StudyLight[1]"
+      },
+      {
+        "position": 21,
+        "surface": "אַךְ",
+        "phrase": "only",
+        "literal": "only-but",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 22,
+        "surface": "נֹ֛חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 23,
+        "surface": "וַֽ/אֲשֶׁ֥ר",
+        "phrase": "and those",
+        "literal": "and-which",
+        "source": "KJV, ESV, StudyLight[1]"
+      },
+      {
+        "position": 24,
+        "surface": "אִתּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 25,
+        "surface": "בַּ/תֵּבָֽה",
+        "phrase": "in the ark",
+        "literal": "in-the-ark",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      }
+    ]
+  }
+]
