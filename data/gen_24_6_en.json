@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and said",
+        "literal": "and-he.said",
+        "source": "Conjunction waw + qal imperfect 3ms of אמר; ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָיו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition אל + 3ms pronominal suffix; ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָהָם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "הִשָּׁמֶר",
+        "phrase": "See to it / Beware",
+        "literal": "guard-yourself",
+        "source": "Niphal imperative 2ms of שמר; ESV 'See to it', NASB 'Beware', KJV 'Beware'"
+      },
+      {
+        "position": 5,
+        "surface": "לְךָ",
+        "phrase": "yourself",
+        "literal": "to-you",
+        "source": "Preposition ל + 2ms pronominal suffix; emphatic reflexive particle"
+      },
+      {
+        "position": 6,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "Negative particle introducing purpose/result clause; ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "תָּשִׁיב",
+        "phrase": "you bring back / you take",
+        "literal": "you.bring-back",
+        "source": "Qal imperfect 2ms of שוב; ESV 'take', NASB 'take', KJV 'bring'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DO-marker",
+        "source": "Direct object marker; grammatical particle"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנִי",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "Noun בן + 1s pronominal suffix; ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁמָּה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "Adverb of place; ESV, NASB, KJV"
+      }
+    ]
+  }
+]

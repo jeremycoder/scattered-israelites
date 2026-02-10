@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְיוּ֙",
+        "phrase": "And the life of",
+        "literal": "and-became",
+        "source": "KJV, ESV, NASB, NET[1][2][3][5]"
+      },
+      {
+        "position": 2,
+        "surface": "חַיֵּ֣י",
+        "phrase": "life of",
+        "literal": "lives-of",
+        "source": "construct of חַיִּים 'life'; KJV, ESV, NASB[2][3][5]"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂרָ֔ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "proper name; KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 4,
+        "surface": "מֵאָ֥ה",
+        "phrase": "a hundred",
+        "literal": "a-hundred",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֛ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עֶשְׂרִ֥ים",
+        "phrase": "and twenty",
+        "literal": "and-twenty",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/שֶׁ֣בַע",
+        "phrase": "and seven",
+        "literal": "and-seven",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנִ֑ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁנֵ֖י",
+        "phrase": "the years of",
+        "literal": "years-of",
+        "source": "KJV, ESV, NASB[1][2][3][5]"
+      },
+      {
+        "position": 11,
+        "surface": "חַיֵּ֥י",
+        "phrase": "the life of",
+        "literal": "lives-of",
+        "source": "construct of חַיִּים 'life'; KJV, ESV, NASB[2][3][5]"
+      },
+      {
+        "position": 12,
+        "surface": "שָׂרָֽה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "proper name; KJV, ESV, NASB[1][2][3][5]"
+      }
+    ]
+  }
+]

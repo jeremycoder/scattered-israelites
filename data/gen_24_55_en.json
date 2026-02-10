@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 55,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And her brother said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אָחִ֨י/הָ֙",
+        "phrase": "her brother",
+        "literal": "brother-her",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אִמָּ֔/הּ",
+        "phrase": "and her mother",
+        "literal": "and-mother-her",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "תֵּשֵׁ֨ב",
+        "phrase": "Let [her] stay",
+        "literal": "let-stay",
+        "source": "KJV (abide), ESV (remain), NASB (stay); jussive of yāšab"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נַּעֲרָ֥",
+        "phrase": "the girl",
+        "literal": "the-girl",
+        "source": "KJV (damsel), ESV (maiden), NASB (young woman), Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "אִתָּ֛/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "א֣וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "KJV, ESV, NASB; disjunctive particle"
+      },
+      {
+        "position": 9,
+        "surface": "עָשׂ֑וֹר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַחַ֖ר",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "תֵּלֵֽךְ",
+        "phrase": "she shall go",
+        "literal": "she-may-go",
+        "source": "KJV, ESV, NASB; cohortative/jussive of hālak"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּלְרִבְקָה",
+        "phrase": "Now Rebekah had",
+        "literal": "and-to-Rebekah",
+        "source": "Conjunction + preposition + proper noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "אָח",
+        "phrase": "a brother",
+        "literal": "brother",
+        "source": "Masculine singular noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "וּשְׁמוֹ",
+        "phrase": "and his name",
+        "literal": "and-name-his",
+        "source": "Conjunction + masculine singular noun + 3ms possessive suffix; ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "לָבָן",
+        "phrase": "was Laban",
+        "literal": "Laban",
+        "source": "Proper noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "וַיָּרָץ",
+        "phrase": "and Laban ran",
+        "literal": "and-he-ran",
+        "source": "Conjunction + 3ms imperfect of רוץ (run); ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "לָבָן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "Proper noun (subject of preceding verb); ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "הָאִישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "Definite article + masculine singular noun; ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "הַחוּצָה",
+        "phrase": "outside",
+        "literal": "the-outside",
+        "source": "Definite article + feminine singular noun (adverbial use); ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; ESV, NASB, KJV"
+      },
+      {
+        "position": 11,
+        "surface": "הָעָיִן",
+        "phrase": "the spring",
+        "literal": "the-spring",
+        "source": "Definite article + feminine singular noun; ESV, NASB, KJV"
+      }
+    ]
+  }
+]

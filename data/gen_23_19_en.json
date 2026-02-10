@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאַחֲרֵי",
+        "phrase": "and after",
+        "literal": "and-after",
+        "source": "KJV, ESV, NASB; conjunction + preposition"
+      },
+      {
+        "position": 2,
+        "surface": "כֵן",
+        "phrase": "this",
+        "literal": "thus/so",
+        "source": "KJV, ESV, NASB; demonstrative adverb"
+      },
+      {
+        "position": 3,
+        "surface": "קָבַר",
+        "phrase": "buried",
+        "literal": "bury-PERF.3MS",
+        "source": "KJV, ESV, NASB; qal perfect masculine singular"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "KJV, ESV, NASB; accusative particle"
+      },
+      {
+        "position": 6,
+        "surface": "שָׂרָה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 7,
+        "surface": "אִשְׁתּוֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB; noun + possessive suffix 3MS"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to/into",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 9,
+        "surface": "מְעָרַת",
+        "phrase": "the cave",
+        "literal": "cave-construct",
+        "source": "KJV, ESV, NASB; construct noun"
+      },
+      {
+        "position": 10,
+        "surface": "שְׂדֵה",
+        "phrase": "of the field",
+        "literal": "field-construct",
+        "source": "KJV, ESV, NASB; construct noun"
+      },
+      {
+        "position": 11,
+        "surface": "הַמַּכְפֵּלָה",
+        "phrase": "Machpelah",
+        "literal": "the-Machpelah",
+        "source": "KJV, ESV, NASB; definite proper noun (double/doubling)"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "before",
+        "literal": "upon/before",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 13,
+        "surface": "פְּנֵי",
+        "phrase": "the face of",
+        "literal": "face-construct",
+        "source": "KJV, ESV, NASB; construct noun (idiom: 'before')"
+      },
+      {
+        "position": 14,
+        "surface": "מַמְרֵא",
+        "phrase": "Mamre",
+        "literal": "Mamre",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 15,
+        "surface": "הִוא",
+        "phrase": "which is",
+        "literal": "it-is",
+        "source": "KJV, ESV, NASB; demonstrative pronoun"
+      },
+      {
+        "position": 16,
+        "surface": "חֶבְרוֹן",
+        "phrase": "Hebron",
+        "literal": "Hebron",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 17,
+        "surface": "בְאֶרֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB; preposition + noun"
+      },
+      {
+        "position": 18,
+        "surface": "כְּנָעַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB; proper noun"
+      }
+    ]
+  }
+]

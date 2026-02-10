@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָ֤ז",
+        "phrase": "then",
+        "literal": "then",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "תִּנָּקֶה֙",
+        "phrase": "you will be released",
+        "literal": "you-will-be-cleared",
+        "source": "KJV (clear), ESV (free), NASB (free), NIpHAL of נקה"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/אָ֣לָתִ֔/י",
+        "phrase": "from my oath",
+        "literal": "from-oath-my",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "when",
+        "literal": "when",
+        "source": "KJV, ESV, NASB (temporal use)"
+      },
+      {
+        "position": 5,
+        "surface": "תָב֖וֹא",
+        "phrase": "you come",
+        "literal": "you-come",
+        "source": "QAL imperfect of בוא, KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition, standard in translations"
+      },
+      {
+        "position": 7,
+        "surface": "מִשְׁפַּחְתִּ֑/י",
+        "phrase": "my family",
+        "literal": "family-my",
+        "source": "KJV (kindred), ESV (clan), NASB (relatives)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אִם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "standard negation"
+      },
+      {
+        "position": 10,
+        "surface": "יִתְּנוּ֙",
+        "phrase": "they give",
+        "literal": "they-give",
+        "source": "QAL imperfect of נתן, KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לָ֔/ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הָיִ֥יתָ",
+        "phrase": "then you shall be",
+        "literal": "and-you-will-be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "נָקִ֖י",
+        "phrase": "free",
+        "literal": "clear-innocent",
+        "source": "adjective from נקה, KJV (clear), ESV (free), NASB (free)"
+      },
+      {
+        "position": 14,
+        "surface": "מֵ/אָלָתִֽ/י",
+        "phrase": "from my oath",
+        "literal": "from-oath-my",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 64,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּשָּׂ֤א",
+        "phrase": "lifted up",
+        "literal": "and-she_lifted_up",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "רִבְקָה֙",
+        "phrase": "Rebekah",
+        "literal": "Rebekah",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "Hebrew particle (accusative marker)"
+      },
+      {
+        "position": 4,
+        "surface": "עֵינֶ֔י/הָ",
+        "phrase": "her eyes",
+        "literal": "eyes-her",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תֵּ֖רֶא",
+        "phrase": "and saw",
+        "literal": "and-she_saw",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "Hebrew particle (accusative marker)"
+      },
+      {
+        "position": 7,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/תִּפֹּ֖ל",
+        "phrase": "and she got down",
+        "literal": "and-she_fell",
+        "source": "KJV (fell), ESV (got down), NASB (dismounted), NET"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/גָּמָֽל",
+        "phrase": "the camel",
+        "literal": "the-camel",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

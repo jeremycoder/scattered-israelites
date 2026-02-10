@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לִ/בְנֵ֤י",
+        "phrase": "and to the sons",
+        "literal": "and-to sons",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/פִּֽילַגְשִׁים֙",
+        "phrase": "of the concubines",
+        "literal": "the-concubines",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "relative pronoun; NET, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אַבְרָהָ֔ם",
+        "phrase": "Abraham had",
+        "literal": "to/for-Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "נָתַ֥ן",
+        "phrase": "gave",
+        "literal": "he-gave",
+        "source": "KJV, ESV, NASB, YLT"
+      },
+      {
+        "position": 6,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper name; all translations"
+      },
+      {
+        "position": 7,
+        "surface": "מַתָּנֹ֑ת",
+        "phrase": "gifts",
+        "literal": "gifts",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יְשַׁלְּחֵ֞/ם",
+        "phrase": "and sent them",
+        "literal": "and-sent-them",
+        "source": "KJV, ESV, NASB, YLT"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/עַ֨ל",
+        "phrase": "away from",
+        "literal": "from-upon",
+        "source": "NET, ESV; directional phrase"
+      },
+      {
+        "position": 10,
+        "surface": "יִצְחָ֤ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "בְּנ/וֹ֙",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/עוֹדֶ֣/נּוּ",
+        "phrase": "while he was still",
+        "literal": "in-still-him",
+        "source": "KJV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "חַ֔י",
+        "phrase": "alive",
+        "literal": "alive/living",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "קֵ֖דְמָ/ה",
+        "phrase": "eastward",
+        "literal": "eastward",
+        "source": "KJV, ESV, NASB, YLT"
+      },
+      {
+        "position": 15,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/toward",
+        "source": "directional preposition; NET"
+      },
+      {
+        "position": 16,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "קֶֽדֶם",
+        "phrase": "of the east",
+        "literal": "east",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

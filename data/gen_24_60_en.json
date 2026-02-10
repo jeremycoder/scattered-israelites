@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 60,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְבָרֲכ֤וּ",
+        "phrase": "and they blessed",
+        "literal": "and-they_blessed",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 3,
+        "surface": "רִבְקָה֙",
+        "phrase": "Rebekah",
+        "literal": "Rebekah",
+        "source": "KJV, ESV, NASB[1][4][5]"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֣אמְרוּ",
+        "phrase": "and said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֔/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲחֹתֵ֕/נוּ",
+        "phrase": "our sister",
+        "literal": "sister-our",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 7,
+        "surface": "אַ֥תְּ",
+        "phrase": "you",
+        "literal": "you_(fem_sg)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הֲיִ֖י",
+        "phrase": "may you be",
+        "literal": "may_you_be_(jussive)",
+        "source": "KJV (\"be thou\"), ESV (\"may you\"), NASB[1][4]"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/אַלְפֵ֣י",
+        "phrase": "thousands of",
+        "literal": "to-thousands_of",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 10,
+        "surface": "רְבָבָ֑ה",
+        "phrase": "ten thousands",
+        "literal": "myriads",
+        "source": "KJV (\"ten thousands\"), ESV (\"ten thousands\"), NASB (\"myriads\")[1][4]"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/יִירַ֣שׁ",
+        "phrase": "and may possess",
+        "literal": "and-may_inherit/possess",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 12,
+        "surface": "זַרְעֵ֔/ךְ",
+        "phrase": "your seed",
+        "literal": "seed-your",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 13,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 14,
+        "surface": "שַׁ֥עַר",
+        "phrase": "the gate",
+        "literal": "gate",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 15,
+        "surface": "שֹׂנְאָֽי/ו",
+        "phrase": "of their enemies",
+        "literal": "haters-their",
+        "source": "KJV (\"those that hate them\"), ESV (\"their enemies\"), NASB (\"those who hate him\")[1][4]"
+      }
+    ]
+  }
+]

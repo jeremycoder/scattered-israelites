@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂ֜ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional particle (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֗ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "הַלְעִיטֵ֤/נִי",
+        "phrase": "feed me",
+        "literal": "cause_to_devour-me",
+        "source": "KJV 'Feed me', NIV 'let me have some', ESV 'let me eat'"
+      },
+      {
+        "position": 6,
+        "surface": "נָא֙",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "some of",
+        "literal": "from",
+        "source": "partitive preposition (ESV, NIV)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אָדֹ֤ם",
+        "phrase": "the red",
+        "literal": "the-red",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אָדֹם֙",
+        "phrase": "the red",
+        "literal": "the-red",
+        "source": "emphatic repetition (YLT 'red red', KJV, ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal conjunction (KJV, ESV)"
+      },
+      {
+        "position": 12,
+        "surface": "עָיֵ֖ף",
+        "phrase": "I am exhausted",
+        "literal": "weary",
+        "source": "KJV 'faint', ESV 'exhausted', NIV 'famished'"
+      },
+      {
+        "position": 13,
+        "surface": "אָנֹ֑כִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "emphatic pronoun (KJV, ESV)"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "כֵּ֥ן",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "קָרָֽא",
+        "phrase": "was called",
+        "literal": "called",
+        "source": "passive (ESV, KJV)"
+      },
+      {
+        "position": 17,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "אֱדֽוֹם",
+        "phrase": "Edom",
+        "literal": "Red",
+        "source": "proper name, 'red' (KJV, ESV, NASB, NLT)"
+      }
+    ]
+  }
+]

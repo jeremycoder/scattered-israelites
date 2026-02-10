@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁכְּנ֨וּ",
+        "phrase": "and they dwelt",
+        "literal": "and-they_dwelt",
+        "source": "ESV, NASB, KJV (they settled/dwelt)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵֽ/חֲוִילָ֜ה",
+        "phrase": "from Havilah",
+        "literal": "from-Havilah",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "until/to",
+        "source": "particle of extent (ESV, NASB, KJV)"
+      },
+      {
+        "position": 4,
+        "surface": "שׁ֗וּר",
+        "phrase": "Shur",
+        "literal": "Shur",
+        "source": "proper name (ESV, NASB, KJV)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "which is",
+        "literal": "which/that",
+        "source": "relative pronoun (ESV, NASB, KJV)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "opposite",
+        "literal": "upon/over",
+        "source": "preposition (ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "idiomatic for 'opposite' (ESV, NASB, KJV)"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "proper name (ESV, NASB, KJV)"
+      },
+      {
+        "position": 9,
+        "surface": "בֹּאֲ/כָ֖ה",
+        "phrase": "as you go",
+        "literal": "coming-you",
+        "source": "ESV, NASB, KJV (in the direction of)"
+      },
+      {
+        "position": 10,
+        "surface": "אַשּׁ֑וּרָ/ה",
+        "phrase": "Assyria",
+        "literal": "Asshur",
+        "source": "ESV, NASB, KJV (Assyria/Asshur)"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "over against",
+        "literal": "upon/over",
+        "source": "preposition (ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "פְּנֵ֥י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "idiomatic for 'over against' (ESV, NASB, KJV)"
+      },
+      {
+        "position": 13,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all/every",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 14,
+        "surface": "אֶחָ֖י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "ESV, NASB, KJV (kinsmen/brethren)"
+      },
+      {
+        "position": 15,
+        "surface": "נָפָֽל",
+        "phrase": "he settled",
+        "literal": "he_fell/settled",
+        "source": "MT 'fell'; LXX 'settled'; ESV, NASB (settled, lit. fell)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "and he spoke",
+        "literal": "and-he_spoke",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אִתָּ֖/ם",
+        "phrase": "with them",
+        "literal": "with-them",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "conditional particle; KJV, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "יֵ֣שׁ",
+        "phrase": "there is",
+        "literal": "there_is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽת",
+        "phrase": "(direct object marker)",
+        "literal": "[-DO-]",
+        "source": "grammatical marker; NIV, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "נַפְשְׁ/כֶ֗ם",
+        "phrase": "your willingness",
+        "literal": "soul-your",
+        "source": "KJV (mind), ESV (willing), NASB (soul)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/קְבֹּ֤ר",
+        "phrase": "to bury",
+        "literal": "to_bury",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-DO-]",
+        "source": "grammatical marker; NIV, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "מֵתִ/י֙",
+        "phrase": "my dead",
+        "literal": "dead-my",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/לְּ/פָנַ֔/י",
+        "phrase": "from before me",
+        "literal": "from-before-me",
+        "source": "KJV (out of my sight), ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "שְׁמָע֕וּ/נִי",
+        "phrase": "listen to me",
+        "literal": "hear-me",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/פִגְעוּ",
+        "phrase": "and intercede",
+        "literal": "and-meet/intercede",
+        "source": "KJV (entreat), ESV (intercede), NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לִ֖/י",
+        "phrase": "for me",
+        "literal": "for-me",
+        "source": "KJV, ESV, NIV"
+      },
+      {
+        "position": 15,
+        "surface": "בְּ/עֶפְר֥וֹן",
+        "phrase": "with Ephron",
+        "literal": "in-Ephron",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "צֹֽחַר",
+        "phrase": "Zohar",
+        "literal": "Zohar",
+        "source": "KJV, ESV, NIV, NASB"
+      }
+    ]
+  }
+]

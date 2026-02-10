@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁמָעֵ֣נוּ",
+        "phrase": "Hear us",
+        "literal": "hear-1CP",
+        "source": "KJV, NASB, NET; shama (to hear) + 1CP suffix"
+      },
+      {
+        "position": 2,
+        "surface": "אֲדֹנִ֗י",
+        "phrase": "my lord",
+        "literal": "lord-1CS",
+        "source": "KJV, NASB, NET; adown (lord/master) + 1CS suffix"
+      },
+      {
+        "position": 3,
+        "surface": "נְשִׂ֨יא",
+        "phrase": "a mighty prince",
+        "literal": "prince",
+        "source": "KJV, NASB, NET; nasiy (exalted one, prince, ruler)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ASV, Chabad; elohim (God, divine)"
+      },
+      {
+        "position": 5,
+        "surface": "אַתָּה֙",
+        "phrase": "you are",
+        "literal": "you-2MS",
+        "source": "KJV, NASB, NET; atta (you, masculine singular)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּתוֹכֵ֔נוּ",
+        "phrase": "among us",
+        "literal": "in-midst-1CP",
+        "source": "KJV, NASB, NET; be (in) + tavek (midst) + 1CP suffix"
+      },
+      {
+        "position": 7,
+        "surface": "בְּמִבְחַ֣ר",
+        "phrase": "in the choicest",
+        "literal": "in-choice",
+        "source": "KJV, NASB, NET; be (in) + mibchar (choice, select)"
+      },
+      {
+        "position": 8,
+        "surface": "קְבָרֵ֔ינוּ",
+        "phrase": "of our graves",
+        "literal": "graves-1CP",
+        "source": "KJV, NASB, NET; qeber (grave, sepulchre) + 1CP suffix"
+      },
+      {
+        "position": 9,
+        "surface": "קְבֹ֖ר",
+        "phrase": "bury",
+        "literal": "bury-IMP.2MS",
+        "source": "KJV, NASB, NET; qabar (to bury, inter) imperative"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DO-marker",
+        "source": "Standard Hebrew grammar; et (direct object marker)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵתֶ֑ךָ",
+        "phrase": "your dead",
+        "literal": "dead-2MS",
+        "source": "KJV, NASB, NET; muwth (dead) + 2MS suffix"
+      },
+      {
+        "position": 12,
+        "surface": "אִ֣ישׁ",
+        "phrase": "none",
+        "literal": "man",
+        "source": "KJV, NASB, NET; ish (man, person; used idiomatically with negation)"
+      },
+      {
+        "position": 13,
+        "surface": "מִמֶּ֔נּוּ",
+        "phrase": "of us",
+        "literal": "from-1CP",
+        "source": "KJV, NASB, NET; min (from) + 1CP suffix"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DO-marker",
+        "source": "Standard Hebrew grammar; et (direct object marker)"
+      },
+      {
+        "position": 15,
+        "surface": "קִבְר֛וֹ",
+        "phrase": "his grave",
+        "literal": "grave-3MS",
+        "source": "KJV, NASB, NET; qeber (grave, sepulchre) + 3MS suffix"
+      },
+      {
+        "position": 16,
+        "surface": "לֹֽא",
+        "phrase": "will not",
+        "literal": "not",
+        "source": "KJV, NASB, NET; lo (negation particle)"
+      },
+      {
+        "position": 17,
+        "surface": "יִכְלֶ֥ה",
+        "phrase": "refuse",
+        "literal": "withhold-3MS.IMPF",
+        "source": "KJV, NASB, NET; kala (to withhold, restrict, refuse) imperfect 3MS"
+      },
+      {
+        "position": 18,
+        "surface": "מִמְּךָ֖",
+        "phrase": "from you",
+        "literal": "from-2MS",
+        "source": "KJV, NASB, NET; min (from) + 2MS suffix"
+      },
+      {
+        "position": 19,
+        "surface": "מִקְּבֹ֥ר",
+        "phrase": "from burying",
+        "literal": "from-bury",
+        "source": "KJV, NASB, NET; min (from) + qabar (to bury) infinitive construct"
+      },
+      {
+        "position": 20,
+        "surface": "מֵתֶֽךָ",
+        "phrase": "your dead",
+        "literal": "dead-2MS",
+        "source": "KJV, NASB, NET; muwth (dead) + 2MS suffix"
+      }
+    ]
+  }
+]

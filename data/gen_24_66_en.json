@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 66,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְסַפֵּ֥ר",
+        "phrase": "told",
+        "literal": "and-he_told",
+        "source": "KJV, ESV, NASB [2][5][10]"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֶ֖בֶד",
+        "phrase": "the servant",
+        "literal": "the-servant",
+        "source": "KJV, ESV, NASB [2][5][10]"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/יִצְחָ֑ק",
+        "phrase": "to Isaac",
+        "literal": "to-Isaac",
+        "source": "KJV, ESV, NASB [2][5][10]"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "direct object marker (KJV, ESV, NASB omit) [2][5]"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB [2][5][10]"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דְּבָרִ֖ים",
+        "phrase": "the things",
+        "literal": "the-words/things",
+        "source": "KJV, ESV, NASB [2][5][10]"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB [2][5]"
+      },
+      {
+        "position": 8,
+        "surface": "עָשָֽׂה",
+        "phrase": "he had done",
+        "literal": "he_did/made",
+        "source": "KJV, ESV, NASB [2][5][10]"
+      }
+    ]
+  }
+]

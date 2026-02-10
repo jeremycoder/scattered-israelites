@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥רָץ",
+        "phrase": "ran",
+        "literal": "and-he-ran",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֶ֖בֶד",
+        "phrase": "the servant",
+        "literal": "the-servant",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/קְרָאתָ֑/הּ",
+        "phrase": "to meet her",
+        "literal": "to-meet-her",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "הַגְמִיאִ֥י/נִי",
+        "phrase": "let me drink",
+        "literal": "cause-to-drink-me",
+        "source": "KJV (\"let me...drink\"), ESV (\"let me drink\"), NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֛א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "Particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מְעַט",
+        "phrase": "a little",
+        "literal": "a-little",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "מַ֖יִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/כַּדֵּֽ/ךְ",
+        "phrase": "from your jar",
+        "literal": "from-jar-your",
+        "source": "KJV (\"pitcher\"), ESV (\"jar\"), NASB, Chabad"
+      }
+    ]
+  }
+]

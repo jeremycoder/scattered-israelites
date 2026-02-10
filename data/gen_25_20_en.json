@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And Isaac was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol)"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָק֙",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "implied in phrase 'forty years old'; YLT, Lexham"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבָּעִ֣ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/קַחְתּ֣/וֹ",
+        "phrase": "when he took",
+        "literal": "in-taking-his",
+        "source": "KJV 'when he took', ESV 'when he married'; infinitive construct"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "grammatical particle; untransliterated in English"
+      },
+      {
+        "position": 8,
+        "surface": "רִבְקָ֗ה",
+        "phrase": "Rebekah",
+        "literal": "Rebekah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בַּת",
+        "phrase": "the daughter of",
+        "literal": "daughter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בְּתוּאֵל֙",
+        "phrase": "Bethuel",
+        "literal": "Bethuel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/אֲרַמִּ֔י",
+        "phrase": "the Aramean",
+        "literal": "the-Aramean",
+        "source": "KJV 'Syrian', ESV 'Aramean', NASB 'Aramean'"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/פַּדַּ֖ן",
+        "phrase": "from Paddan",
+        "literal": "from-Paddan",
+        "source": "KJV 'of Padanaram', ESV 'from Paddan-aram'"
+      },
+      {
+        "position": 13,
+        "surface": "אֲרָ֑ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "KJV 'aram', ESV 'aram', NASB 'Aram'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲח֛וֹת",
+        "phrase": "sister of",
+        "literal": "sister",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "לָבָ֥ן",
+        "phrase": "Laban",
+        "literal": "Laban",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "הָ/אֲרַמִּ֖י",
+        "phrase": "the Aramean",
+        "literal": "the-Aramean",
+        "source": "KJV 'Syrian', ESV 'Aramean', NASB 'Aramean'"
+      },
+      {
+        "position": 17,
+        "surface": "ל֥/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "dative; YLT 'to him', implied in others"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/אִשָּֽׁה",
+        "phrase": "as a wife",
+        "literal": "for-wife",
+        "source": "KJV 'to wife', ESV 'to be his wife', NASB 'as a wife'"
+      }
+    ]
+  }
+]

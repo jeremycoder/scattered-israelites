@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תְּכַ֖ל",
+        "phrase": "and she finished",
+        "literal": "and-she finished",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/הַשְׁקֹת֑/וֹ",
+        "phrase": "giving him to drink",
+        "literal": "to-give-drink-him",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תֹּ֗אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she said",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "גַּ֤ם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "ESV, NASB, KJV (particle of addition)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/גְמַלֶּ֨י/ךָ֙",
+        "phrase": "for your camels",
+        "literal": "for-camels-your",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "אֶשְׁאָ֔ב",
+        "phrase": "I will draw",
+        "literal": "I will draw",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "עַ֥ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "ESV, NASB, KJV (preposition)"
+      },
+      {
+        "position": 8,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "ESV, NASB, KJV (conditional particle, archaic in context)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּלּ֖וּ",
+        "phrase": "they have finished",
+        "literal": "they finished",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/שְׁתֹּֽת",
+        "phrase": "drinking",
+        "literal": "to-drink",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

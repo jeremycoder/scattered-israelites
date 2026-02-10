@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/שָּׂדֶ֛ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which-relativizer",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "קָנָ֥ה",
+        "phrase": "purchased",
+        "literal": "bought",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/אֵ֣ת",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֵי",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חֵ֑ת",
+        "phrase": "of Heth",
+        "literal": "Heth",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁ֛מָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "קֻבַּ֥ר",
+        "phrase": "was buried",
+        "literal": "was-buried",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שָׂרָ֥ה",
+        "phrase": "and Sarah",
+        "literal": "and-Sarah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אִשְׁתּֽ/וֹ",
+        "phrase": "his wife",
+        "literal": "his-wife",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

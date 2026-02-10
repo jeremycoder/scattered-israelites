@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "but",
+        "literal": "if",
+        "source": "KJV, ESV, NASB (emphatic conditional particle)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֧א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֛/י",
+        "phrase": "of my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "תֵּלֵ֖ךְ",
+        "phrase": "you shall go",
+        "literal": "you-go.FS",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "KJV, ESV, NASB (conjunction + preposition)"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׁפַּחְתִּ֑/י",
+        "phrase": "my family",
+        "literal": "family-my",
+        "source": "KJV (kindred), ESV (relatives), NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לָקַחְתָּ֥",
+        "phrase": "and take",
+        "literal": "and-you-take.MS",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אִשָּׁ֖ה",
+        "phrase": "a wife",
+        "literal": "woman-wife",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/בְנִֽ/י",
+        "phrase": "for my son",
+        "literal": "to-son-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

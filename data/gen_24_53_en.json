@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 53,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיּוֹצֵא",
+        "phrase": "brought out",
+        "literal": "and-he-brought-out",
+        "source": "KJV, NASB, ESV; wayyiqtol form of יצא (yatsa)"
+      },
+      {
+        "position": 2,
+        "surface": "הָעֶבֶד",
+        "phrase": "the servant",
+        "literal": "the-servant",
+        "source": "KJV, NASB, ESV; definite noun"
+      },
+      {
+        "position": 3,
+        "surface": "כְּלֵי",
+        "phrase": "articles",
+        "literal": "vessels-of",
+        "source": "NASB, ESV; construct plural of כלי (keli)"
+      },
+      {
+        "position": 4,
+        "surface": "כֶסֶף",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "KJV, NASB, ESV; noun"
+      },
+      {
+        "position": 5,
+        "surface": "וּכְלֵי",
+        "phrase": "and articles",
+        "literal": "and-vessels-of",
+        "source": "KJV, NASB, ESV; conjunction + construct plural"
+      },
+      {
+        "position": 6,
+        "surface": "זָהָב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "KJV, NASB, ESV; noun"
+      },
+      {
+        "position": 7,
+        "surface": "וּבְגָדִים",
+        "phrase": "and garments",
+        "literal": "and-garments",
+        "source": "KJV, NASB, ESV; conjunction + plural noun"
+      },
+      {
+        "position": 8,
+        "surface": "וַיִּתֵּן",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "KJV, NASB, ESV; wayyiqtol form of נתן (natan)"
+      },
+      {
+        "position": 9,
+        "surface": "לְרִבְקָה",
+        "phrase": "to Rebekah",
+        "literal": "to-Rebekah",
+        "source": "KJV, NASB, ESV; preposition + proper noun"
+      },
+      {
+        "position": 10,
+        "surface": "וּמִגְדָּנֹת",
+        "phrase": "and precious things",
+        "literal": "and-precious-things",
+        "source": "NASB, ESV; conjunction + plural noun (migdanot)"
+      },
+      {
+        "position": 11,
+        "surface": "נָתַן",
+        "phrase": "gave",
+        "literal": "he-gave",
+        "source": "KJV, NASB, ESV; qatal form of נתן (natan)"
+      },
+      {
+        "position": 12,
+        "surface": "לְאָחִיהָ",
+        "phrase": "to her brother",
+        "literal": "to-brother-her",
+        "source": "KJV, NASB, ESV; preposition + noun + possessive suffix"
+      },
+      {
+        "position": 13,
+        "surface": "וּלְאִמָּהּ",
+        "phrase": "and to her mother",
+        "literal": "and-to-mother-her",
+        "source": "KJV, NASB, ESV; conjunction + preposition + noun + possessive suffix"
+      }
+    ]
+  }
+]

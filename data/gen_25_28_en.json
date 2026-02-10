@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֶּאֱהַ֥ב",
+        "phrase": "loved",
+        "literal": "and-he_loved",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָ֛ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; KJV (implied), ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "צַ֣יִד",
+        "phrase": "game",
+        "literal": "hunter's_game",
+        "source": "KJV (venison), ESV (game), NASB (game)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/פִ֑י/ו",
+        "phrase": "in his mouth",
+        "literal": "in_mouth-his",
+        "source": "KJV (in his mouth), ESV (in his mouth), NASB (in his mouth)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/רִבְקָ֖ה",
+        "phrase": "but Rebekah",
+        "literal": "and-Rebekah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֹהֶ֥בֶת",
+        "phrase": "loved",
+        "literal": "loving-FS",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle; KJV (implied), ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יַעֲקֹֽב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

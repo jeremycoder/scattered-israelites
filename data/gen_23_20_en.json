@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨קָם",
+        "phrase": "were deeded",
+        "literal": "and-arise/establish",
+        "source": "KJV (were made sure), NASB (were deeded), ESV (were made over); wayyiqtol of qum 'to arise/confirm'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שָּׂדֶ֜ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הַ/מְּעָרָ֧ה",
+        "phrase": "and the cave",
+        "literal": "and-the-cave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "KJV (that is therein), ESV, NASB; relative particle"
+      },
+      {
+        "position": 5,
+        "surface": "בּ֛/וֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "KJV, ESV, NASB; preposition b- + 3ms suffix"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אַבְרָהָ֖ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/אֲחֻזַּת",
+        "phrase": "for a possession",
+        "literal": "to-possession",
+        "source": "KJV (for a possession), ESV (as property), NASB (for a burial site); la- + 'achuzzah"
+      },
+      {
+        "position": 8,
+        "surface": "קָ֑בֶר",
+        "phrase": "of a burial place",
+        "literal": "grave/burial-place",
+        "source": "KJV (buryingplace), ESV (burying place), NASB (burial site)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/אֵ֖ת",
+        "phrase": "by",
+        "literal": "from-with",
+        "source": "KJV (by), NASB (by), ESV (by); me'et 'from [the hand of]'"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵי",
+        "phrase": "the sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "חֵֽת",
+        "phrase": "of Heth",
+        "literal": "Heth",
+        "source": "KJV (Heth), ESV (Hittites), NASB (Heth)"
+      }
+    ]
+  }
+]

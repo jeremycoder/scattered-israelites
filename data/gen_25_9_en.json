@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְבְּר֨וּ",
+        "phrase": "buried",
+        "literal": "and-they_buried",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 2,
+        "surface": "אֹת֜/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "standard accusative marker (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֤ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יִשְׁמָעֵאל֙",
+        "phrase": "and Ishmael",
+        "literal": "and-Ishmael",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "בָּנָ֔י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to",
+        "source": "preposition indicating location (ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "מְעָרַ֖ת",
+        "phrase": "cave",
+        "literal": "cave_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מַּכְפֵּלָ֑ה",
+        "phrase": "of Machpelah",
+        "literal": "the-Machpelah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to",
+        "source": "preposition indicating location (ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׂדֵ֞ה",
+        "phrase": "field",
+        "literal": "field_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עֶפְרֹ֤ן",
+        "phrase": "Ephron",
+        "literal": "Ephron",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "צֹ֨חַר֙",
+        "phrase": "of Zohar",
+        "literal": "Zohar",
+        "source": "proper name, var. Zohar (KJV), Zohar's (CEB, NKJV)"
+      },
+      {
+        "position": 14,
+        "surface": "הַֽ/חִתִּ֔י",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which is",
+        "literal": "which",
+        "source": "relative pronoun (ESV, NASB)"
+      },
+      {
+        "position": 16,
+        "surface": "עַל",
+        "phrase": "near",
+        "literal": "upon",
+        "source": "preposition (KJV 'east of', ESV 'east of', NASB 'opposite')"
+      },
+      {
+        "position": 17,
+        "surface": "פְּנֵ֥י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "idiomatic for 'facing' (NASB, JPS)"
+      },
+      {
+        "position": 18,
+        "surface": "מַמְרֵֽא",
+        "phrase": "Mamre",
+        "literal": "Mamre",
+        "source": "proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

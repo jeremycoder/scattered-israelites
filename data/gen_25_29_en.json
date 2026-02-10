@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥זֶד",
+        "phrase": "and he cooked",
+        "literal": "and-he-boiled/cooked",
+        "source": "KJV (sod), NASB (cooked), ESV (cooked); root זיד Qal wayyiqtol[1][3]"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper name; KJV, ESV, NASB[1][3]"
+      },
+      {
+        "position": 3,
+        "surface": "נָזִ֑יד",
+        "phrase": "stew",
+        "literal": "stew/pottage",
+        "source": "KJV (pottage), NASB (stew), ESV (stew)[1][3]"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּבֹ֥א",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "KJV (came), NASB (came), ESV (came); root בוא Qal wayyiqtol[1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "עֵשָׂ֛ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "Proper name; KJV, ESV, NASB[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "Preposition; KJV, ESV, NASB[1][3]"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שָּׂדֶ֖ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "KJV (field), NASB (field), ESV (field)[1][3]"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/ה֥וּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "3ms pronoun + conj.; KJV (and he), ESV (and he)[1][3]"
+      },
+      {
+        "position": 9,
+        "surface": "עָיֵֽף",
+        "phrase": "weary",
+        "literal": "weary/faint",
+        "source": "KJV (faint), NASB (famished), ESV (exhausted)[1][3]"
+      }
+    ]
+  }
+]

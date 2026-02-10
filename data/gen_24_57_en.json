@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 57,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֖וּ",
+        "phrase": "And they said",
+        "literal": "and-said-they",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "נִקְרָ֣א",
+        "phrase": "We will call",
+        "literal": "we-will-call",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "לַֽ/נַּעֲרָ֑",
+        "phrase": "the girl",
+        "literal": "to-the-girl",
+        "source": "KJV (damsel), ESV (young woman), NASB (girl), Chabad (maiden)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נִשְׁאֲלָ֖ה",
+        "phrase": "and ask",
+        "literal": "and-we-will-ask-her",
+        "source": "KJV (enquire), ESV (ask), NASB (consult), Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Standard Hebrew grammar (accusative marker); not translated in English"
+      },
+      {
+        "position": 6,
+        "surface": "פִּֽי/הָ",
+        "phrase": "her",
+        "literal": "mouth-her",
+        "source": "KJV (at her mouth), NASB (her wishes), ESV (her); idiomatic for 'her opinion'"
+      }
+    ]
+  }
+]

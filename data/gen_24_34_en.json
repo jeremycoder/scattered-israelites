@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "עֶ֥בֶד",
+        "phrase": "servant",
+        "literal": "servant",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham's",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "אָנֹֽכִי",
+        "phrase": "I am",
+        "literal": "I",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

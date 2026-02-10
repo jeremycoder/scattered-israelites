@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתְּמַהֵר",
+        "phrase": "and she hastened",
+        "literal": "and-she-hastened",
+        "source": "KJV, NET, ESV; root מהר (mhr) = to hasten"
+      },
+      {
+        "position": 2,
+        "surface": "וַתְּעַר",
+        "phrase": "and emptied",
+        "literal": "and-she-emptied",
+        "source": "KJV, NET; root ערה (ʿrh) = to empty, pour out"
+      },
+      {
+        "position": 3,
+        "surface": "כַּדָּהּ",
+        "phrase": "her jar",
+        "literal": "jar-her",
+        "source": "KJV (pitcher), NET, ESV; כד (kad) = jar, pitcher; ה = possessive suffix"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "KJV, NET, ESV; preposition indicating direction"
+      },
+      {
+        "position": 5,
+        "surface": "הַשֹּׁקֶת",
+        "phrase": "the trough",
+        "literal": "the-trough",
+        "source": "KJV, NET, ESV; שׁקת (šoqet) = watering trough"
+      },
+      {
+        "position": 6,
+        "surface": "וַתָּרָץ",
+        "phrase": "and ran",
+        "literal": "and-she-ran",
+        "source": "KJV, NET, ESV; root רוץ (rwṣ) = to run"
+      },
+      {
+        "position": 7,
+        "surface": "עוֹד",
+        "phrase": "again",
+        "literal": "again",
+        "source": "KJV, NET, ESV; adverb meaning again, still, yet"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, NET, ESV; preposition"
+      },
+      {
+        "position": 9,
+        "surface": "הַבְּאֵר",
+        "phrase": "the well",
+        "literal": "the-well",
+        "source": "KJV, NET, ESV; בְאֵר (beʾer) = well"
+      },
+      {
+        "position": 10,
+        "surface": "לִשְׁאֹב",
+        "phrase": "to draw",
+        "literal": "to-draw",
+        "source": "KJV, NET, ESV; infinitive construct of שׁאב (šʾb) = to draw (water)"
+      },
+      {
+        "position": 11,
+        "surface": "וַתִּשְׁאַב",
+        "phrase": "and drew",
+        "literal": "and-she-drew",
+        "source": "KJV, NET, ESV; root שׁאב (šʾb) = to draw"
+      },
+      {
+        "position": 12,
+        "surface": "לְכָל",
+        "phrase": "for all",
+        "literal": "for-all",
+        "source": "KJV, NET, ESV; preposition ל + כל (kol) = all"
+      },
+      {
+        "position": 13,
+        "surface": "גְּמַלָּיו",
+        "phrase": "his camels",
+        "literal": "camels-his",
+        "source": "KJV, NET, ESV; גמל (gamal) = camel; ו = possessive suffix"
+      }
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֣ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "God",
+        "literal": "God-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שָּׁמַ֗יִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "who",
+        "literal": "who/which-that",
+        "source": "relative particle; KJV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "לְקָחַ֜/נִי",
+        "phrase": "took me",
+        "literal": "he-took-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/בֵּ֣ית",
+        "phrase": "from the house",
+        "literal": "from-house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אָבִ/י֮",
+        "phrase": "of my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מֵ/אֶ֣רֶץ",
+        "phrase": "and from the land",
+        "literal": "and-from-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מֽוֹלַדְתִּ/י֒",
+        "phrase": "of my birth",
+        "literal": "birthplace-my",
+        "source": "KJV, NASB, ESV ('kindred')"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/אֲשֶׁ֨ר",
+        "phrase": "and who",
+        "literal": "and-who/which-that",
+        "source": "KJV, ESV; relative particle"
+      },
+      {
+        "position": 11,
+        "surface": "דִּבֶּר",
+        "phrase": "spoke",
+        "literal": "he-spoke",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לִ֜/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/אֲשֶׁ֤ר",
+        "phrase": "and who",
+        "literal": "and-who/which-that",
+        "source": "KJV, ESV; relative particle"
+      },
+      {
+        "position": 14,
+        "surface": "נִֽשְׁבַּֽע",
+        "phrase": "swore",
+        "literal": "he-swore",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "לִ/י֙",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "לְ/זַ֨רְעֲ/ךָ֔",
+        "phrase": "to your offspring",
+        "literal": "to-seed-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "אֶתֵּ֖ן",
+        "phrase": "I will give",
+        "literal": "I-will-give",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle; not translated"
+      },
+      {
+        "position": 20,
+        "surface": "הָ/אָ֣רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/זֹּ֑את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 22,
+        "surface": "ה֗וּא",
+        "phrase": "He",
+        "literal": "he/it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 23,
+        "surface": "יִשְׁלַ֤ח",
+        "phrase": "will send",
+        "literal": "he-will-send",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 24,
+        "surface": "מַלְאָכ/וֹ֙",
+        "phrase": "His angel",
+        "literal": "messenger-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 25,
+        "surface": "לְ/פָנֶ֔י/ךָ",
+        "phrase": "before you",
+        "literal": "to-before-face-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 26,
+        "surface": "וְ/לָקַחְתָּ֥",
+        "phrase": "and you shall take",
+        "literal": "and-you-will-take",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 27,
+        "surface": "אִשָּׁ֛ה",
+        "phrase": "a wife",
+        "literal": "woman/wife",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 28,
+        "surface": "לִ/בְנִ֖/י",
+        "phrase": "for my son",
+        "literal": "for-son-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 29,
+        "surface": "מִ/שָּֽׁם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

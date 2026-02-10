@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִי",
+        "phrase": "and it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of היה"
+      },
+      {
+        "position": 2,
+        "surface": "כַאֲשֶׁר",
+        "phrase": "when",
+        "literal": "as-which",
+        "source": "KJV, NASB, ESV; preposition כ + relative pronoun אשר"
+      },
+      {
+        "position": 3,
+        "surface": "כִּלּוּ",
+        "phrase": "had finished",
+        "literal": "finished-they",
+        "source": "KJV, NASB, ESV; qal perfect of כלל with 3mp suffix"
+      },
+      {
+        "position": 4,
+        "surface": "הַגְּמַלִּים",
+        "phrase": "the camels",
+        "literal": "the-camels",
+        "source": "KJV, NASB, ESV; definite article + masculine plural noun"
+      },
+      {
+        "position": 5,
+        "surface": "לִשְׁתּוֹת",
+        "phrase": "to drink",
+        "literal": "to-drink",
+        "source": "KJV, NASB, ESV; preposition ל + qal infinitive construct of שתה"
+      },
+      {
+        "position": 6,
+        "surface": "וַיִּקַּח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of לקח"
+      },
+      {
+        "position": 7,
+        "surface": "הָאִישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, NASB, ESV; definite article + masculine singular noun"
+      },
+      {
+        "position": 8,
+        "surface": "נֶזֶם",
+        "phrase": "a nose ring",
+        "literal": "nose-ring",
+        "source": "Chabad, Mechon-Mamre; masculine singular noun; Clarke's Commentary notes this is a nose-ring rather than ear-ring based on singular form"
+      },
+      {
+        "position": 9,
+        "surface": "זָהָב",
+        "phrase": "of gold",
+        "literal": "gold",
+        "source": "KJV, NASB, ESV; masculine singular noun in construct state"
+      },
+      {
+        "position": 10,
+        "surface": "בֶּקַע",
+        "phrase": "weighing half a shekel",
+        "literal": "beka",
+        "source": "KJV (half shekel), NASB, ESV; masculine singular noun; beka is a unit of weight equal to half a shekel"
+      },
+      {
+        "position": 11,
+        "surface": "מִשְׁקָלוֹ",
+        "phrase": "its weight",
+        "literal": "weight-its",
+        "source": "KJV, NASB, ESV; noun משקל with 3ms possessive suffix"
+      },
+      {
+        "position": 12,
+        "surface": "וּשְׁנֵי",
+        "phrase": "and two",
+        "literal": "and-two",
+        "source": "KJV, NASB, ESV; vav conjunction + dual construct of שנים"
+      },
+      {
+        "position": 13,
+        "surface": "צְמִידִים",
+        "phrase": "bracelets",
+        "literal": "bracelets",
+        "source": "KJV, NASB, ESV; masculine plural noun צמיד"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "for",
+        "literal": "upon",
+        "source": "KJV, NASB, ESV; preposition עַל indicating purpose or destination"
+      },
+      {
+        "position": 15,
+        "surface": "יָדֶיהָ",
+        "phrase": "her hands",
+        "literal": "hands-her",
+        "source": "KJV, NASB, ESV; feminine dual noun יד with 3fs possessive suffix"
+      },
+      {
+        "position": 16,
+        "surface": "עֲשָׂרָה",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "KJV, NASB, ESV; feminine form of number עשרה"
+      },
+      {
+        "position": 17,
+        "surface": "זָהָב",
+        "phrase": "of gold",
+        "literal": "gold",
+        "source": "KJV, NASB, ESV; masculine singular noun in construct state"
+      },
+      {
+        "position": 18,
+        "surface": "מִשְׁקָלָם",
+        "phrase": "their weight",
+        "literal": "weight-their",
+        "source": "KJV, NASB, ESV; noun משקל with 3mp possessive suffix"
+      }
+    ]
+  }
+]

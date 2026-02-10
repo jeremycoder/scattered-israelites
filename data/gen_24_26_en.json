@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקֹּ֣ד",
+        "phrase": "bowed low",
+        "literal": "and-bowed",
+        "source": "KJV (bowed down his head), ESV (bowed his head), NASB (bowed), NET (bowed low); Qal wayyiqtol from קוד, 'to bow'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אִ֔ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, NET; definite noun אִישׁ"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּשְׁתַּ֖חוּ",
+        "phrase": "and worshiped",
+        "literal": "and-bowed-down",
+        "source": "KJV (worshipped), ESV (worshiped), NASB (bowed himself down), NET (prostrated himself); Hitpael wayyiqtol from שׁחה, 'to bow down'"
+      },
+      {
+        "position": 4,
+        "surface": "לַֽ/יהוָֽה",
+        "phrase": "to the LORD",
+        "literal": "to-YHWH",
+        "source": "KJV, ESV, NASB, NET; preposition לְ + divine name יהוה"
+      }
+    ]
+  }
+]

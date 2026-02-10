@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧סֶף",
+        "phrase": "took again",
+        "literal": "and-he_added",
+        "source": "KJV, ESV, NASB (waw-consecutive + yāsap, 'and he added')"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֛ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּקַּ֥ח",
+        "phrase": "took",
+        "literal": "and-he_took",
+        "source": "KJV, ESV, NASB (waw-consecutive + lāqaḥ, 'and he took')"
+      },
+      {
+        "position": 4,
+        "surface": "אִשָּׁ֖ה",
+        "phrase": "wife",
+        "literal": "woman-wife",
+        "source": "KJV, ESV, NASB (ʾiššâ, 'woman'; wife in context)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/שְׁמָ֥/הּ",
+        "phrase": "and her name",
+        "literal": "and-name-her",
+        "source": "KJV, ESV, NASB (ūšəmāh, 'and her name')"
+      },
+      {
+        "position": 6,
+        "surface": "קְטוּרָֽה",
+        "phrase": "Keturah",
+        "literal": "Keturah",
+        "source": "Proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֤שֶׂם",
+        "phrase": "placed",
+        "literal": "and-he-placed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֶ֨בֶד֙",
+        "phrase": "the servant",
+        "literal": "the-servant",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar note"
+      },
+      {
+        "position": 4,
+        "surface": "יָד֔/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "תַּ֛חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "יֶ֥רֶךְ",
+        "phrase": "thigh",
+        "literal": "thigh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲדֹנָ֑י/ו",
+        "phrase": "his master",
+        "literal": "lord-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּשָּׁ֣בַֽע",
+        "phrase": "and swore",
+        "literal": "and-he-swore",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "concerning",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/דָּבָ֖ר",
+        "phrase": "the matter",
+        "literal": "the-word/matter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

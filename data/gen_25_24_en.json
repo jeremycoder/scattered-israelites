@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּמְלְא֥וּ",
+        "phrase": "were fulfilled",
+        "literal": "and-they_were_filled",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "יָמֶ֖י/הָ",
+        "phrase": "her days",
+        "literal": "days-her",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/לֶ֑דֶת",
+        "phrase": "to give birth",
+        "literal": "to-bear",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, NASB; particle of surprise (ESV: 'behold')"
+      },
+      {
+        "position": 5,
+        "surface": "תוֹמִ֖ם",
+        "phrase": "twins",
+        "literal": "twins",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/בִטְנָֽ/הּ",
+        "phrase": "in her womb",
+        "literal": "in-womb-her",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

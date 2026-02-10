@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִי",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of היה"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֲרֵי",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, NASB, ESV; preposition with construct form"
+      },
+      {
+        "position": 3,
+        "surface": "מוֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "KJV, NASB, ESV; construct noun (מות)"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, NASB, ESV; proper noun in construct relationship"
+      },
+      {
+        "position": 5,
+        "surface": "וַיְבָרֶךְ",
+        "phrase": "God blessed",
+        "literal": "and-he-blessed",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of ברך"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NASB, ESV; nominative subject"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "KJV, NASB, ESV; accusative particle"
+      },
+      {
+        "position": 8,
+        "surface": "יִצְחָק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, NASB, ESV; proper noun, direct object"
+      },
+      {
+        "position": 9,
+        "surface": "בְנוֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "KJV, NASB, ESV; noun with possessive suffix"
+      },
+      {
+        "position": 10,
+        "surface": "וַיֵּשֶׁב",
+        "phrase": "and Isaac dwelt",
+        "literal": "and-he-dwelt",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of ישב"
+      },
+      {
+        "position": 11,
+        "surface": "יִצְחָק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, NASB, ESV; proper noun, nominative subject"
+      },
+      {
+        "position": 12,
+        "surface": "עִם",
+        "phrase": "by/near",
+        "literal": "with/by",
+        "source": "KJV, NASB, ESV; preposition indicating proximity"
+      },
+      {
+        "position": 13,
+        "surface": "בְאֵר",
+        "phrase": "Beer",
+        "literal": "well",
+        "source": "KJV, NASB, ESV; noun in construct with preposition"
+      },
+      {
+        "position": 14,
+        "surface": "לַחַי",
+        "phrase": "Lahai",
+        "literal": "the-living",
+        "source": "KJV, NASB, ESV; proper noun element (part of place name Beer-lahai-roi)"
+      },
+      {
+        "position": 15,
+        "surface": "רֹאִי",
+        "phrase": "Roi",
+        "literal": "seer-my",
+        "source": "KJV, NASB, ESV; proper noun element (part of place name Beer-lahai-roi); literally 'my seer'"
+      }
+    ]
+  }
+]

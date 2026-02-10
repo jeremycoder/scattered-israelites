@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲדֹנִ֣י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמָעֵ֔נִי",
+        "phrase": "listen to me",
+        "literal": "hear-me",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶרֶץ֩",
+        "phrase": "land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבַּ֨ע",
+        "phrase": "four",
+        "literal": "four",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "מֵאֹ֧ת",
+        "phrase": "hundred",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "שֶֽׁקֶל",
+        "phrase": "shekels",
+        "literal": "shekel",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "כֶּ֛סֶף",
+        "phrase": "of silver",
+        "literal": "silver",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּינִ֥י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בֵֽינְ/ךָ֖",
+        "phrase": "and you",
+        "literal": "and-between-you",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "הִ֑וא",
+        "phrase": "is that",
+        "literal": "it",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶת",
+        "phrase": "your",
+        "literal": "and-obj.marker",
+        "source": "ESV, NASB (obj. marker); supports 'your dead'"
+      },
+      {
+        "position": 13,
+        "surface": "מֵתְ/ךָ֖",
+        "phrase": "dead",
+        "literal": "dead-your",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "קְבֹֽר",
+        "phrase": "bury",
+        "literal": "bury!",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֧עַן",
+        "phrase": "answered",
+        "literal": "and-answered",
+        "source": "KJV, ESV, NASB, 'And answered' (interlinear)"
+      },
+      {
+        "position": 2,
+        "surface": "עֶפְר֛וֹן",
+        "phrase": "Ephron",
+        "literal": "Ephron",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Standard Hebrew grammar, particle (interlinears)"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֥ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB, 'saying' (interlinear)"
+      },
+      {
+        "position": 6,
+        "surface": "לֽ/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, 'to him' (interlinear)"
+      }
+    ]
+  }
+]

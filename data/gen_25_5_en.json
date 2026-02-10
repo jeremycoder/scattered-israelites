@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּתֵּ֧ן",
+        "phrase": "gave",
+        "literal": "and-he.gave",
+        "source": "Vav consecutive + Qal imperfect 3ms of נתן; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֛ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper noun, nominative subject; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object-marker",
+        "source": "Accusative particle; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "Masculine singular construct; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "Relative pronoun; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 6,
+        "surface": "ל֖/וֹ",
+        "phrase": "he had",
+        "literal": "to-him",
+        "source": "Preposition ל + 3ms pronominal suffix on היה (understood); KJV 'he had', ESV 'he owned', NASB 'he owned'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/יִצְחָֽק",
+        "phrase": "to Isaac",
+        "literal": "to-Isaac",
+        "source": "Preposition ל + proper noun; KJV, ESV, NASB all 'to Isaac'"
+      }
+    ]
+  }
+]

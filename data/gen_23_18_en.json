@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְאַבְרָהָ֥ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "לְמִקְנָ֖ה",
+        "phrase": "as a possession",
+        "literal": "to-possession",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "לְעֵינֵ֣י",
+        "phrase": "in the presence of",
+        "literal": "to-eyes-of",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "חֵ֑ת",
+        "phrase": "Heth (the Hittites)",
+        "literal": "Heth",
+        "source": "KJV, ESV, NASB; Hebrew proper noun"
+      },
+      {
+        "position": 6,
+        "surface": "בְּכֹ֖ל",
+        "phrase": "before all",
+        "literal": "in-all",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "בָּאֵ֥י",
+        "phrase": "who went in",
+        "literal": "those-entering",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "שַֽׁעַר",
+        "phrase": "at the gate",
+        "literal": "gate",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "עִירֽוֹ",
+        "phrase": "of his city",
+        "literal": "city-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

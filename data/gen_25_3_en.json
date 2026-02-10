@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יָקְשָׁ֣ן",
+        "phrase": "and Jokshan",
+        "literal": "and-Jokshan",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֔ד",
+        "phrase": "fathered",
+        "literal": "begat-fathered",
+        "source": "KJV ('begat'), ESV ('fathered'), NASB ('became the father of')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew particle (accusative marker); KJV, ESV, NASB (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁבָ֖א",
+        "phrase": "Sheba",
+        "literal": "Sheba",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "דְּדָ֑ן",
+        "phrase": "Dedan",
+        "literal": "Dedan",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "and the sons of",
+        "literal": "and-sons_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "דְדָ֔ן",
+        "phrase": "Dedan",
+        "literal": "Dedan",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 9,
+        "surface": "הָי֛וּ",
+        "phrase": "were",
+        "literal": "they_were",
+        "source": "KJV, ESV, NASB ('were')"
+      },
+      {
+        "position": 10,
+        "surface": "אַשּׁוּרִ֥ם",
+        "phrase": "Asshurim",
+        "literal": "Asshurim",
+        "source": "KJV, ESV ('Asshurim'), NASB ('Asshurim')"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/לְטוּשִׁ֖ים",
+        "phrase": "and Letushim",
+        "literal": "and-Letushim",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/לְאֻמִּֽים",
+        "phrase": "and Leummim",
+        "literal": "and-Leummim",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]

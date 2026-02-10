@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּ֣מָת",
+        "phrase": "and she died",
+        "literal": "and-she_died",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂרָ֗ה",
+        "phrase": "Sarah",
+        "literal": "Sarah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/קִרְיַ֥ת",
+        "phrase": "in Kiriath",
+        "literal": "in_Kiriath",
+        "source": "KJV, ESV, NASB (Kiriath-arba)"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבַּ֛ע",
+        "phrase": "Arba",
+        "literal": "four",
+        "source": "KJV (Kirjatharba), NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הִ֥וא",
+        "phrase": "that is",
+        "literal": "she/it_is",
+        "source": "KJV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "חֶבְר֖וֹן",
+        "phrase": "Hebron",
+        "literal": "Hebron",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in_land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יָּבֹא֙",
+        "phrase": "and came",
+        "literal": "and-he_came",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/סְפֹּ֥ד",
+        "phrase": "to mourn",
+        "literal": "to_mourn",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/שָׂרָ֖ה",
+        "phrase": "for Sarah",
+        "literal": "to_Sarah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/לִ/בְכֹּתָֽ/הּ",
+        "phrase": "and to weep for her",
+        "literal": "and-to_weep-her",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

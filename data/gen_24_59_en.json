@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 59,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽיְשַׁלְּח֛וּ",
+        "phrase": "So they sent away",
+        "literal": "and-they-sent",
+        "source": "KJV, ESV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew grammar particle"
+      },
+      {
+        "position": 3,
+        "surface": "רִבְקָ֥ה",
+        "phrase": "Rebekah",
+        "literal": "Rebekah",
+        "source": "KJV, ESV, NASB, NIV, NKJV, CJB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲחֹתָ֖ם",
+        "phrase": "their sister",
+        "literal": "sister-their",
+        "source": "KJV, ESV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 5,
+        "surface": "וְאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct-object-marker",
+        "source": "Standard Hebrew grammar particle"
+      },
+      {
+        "position": 6,
+        "surface": "מֵנִקְתָּ֑הּ",
+        "phrase": "her nurse",
+        "literal": "nurse-her",
+        "source": "KJV, ESV, NASB, NIV, NKJV; Hausa translation notes 'woman who gave her support'"
+      },
+      {
+        "position": 7,
+        "surface": "וְאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct-object-marker",
+        "source": "Standard Hebrew grammar particle"
+      },
+      {
+        "position": 8,
+        "surface": "עֶ֥בֶד",
+        "phrase": "servant",
+        "literal": "servant",
+        "source": "KJV, ESV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 9,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham's",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB, NIV, NKJV"
+      },
+      {
+        "position": 10,
+        "surface": "וְאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct-object-marker",
+        "source": "Standard Hebrew grammar particle"
+      },
+      {
+        "position": 11,
+        "surface": "אֲנָשָֽׁיו",
+        "phrase": "his men",
+        "literal": "men-his",
+        "source": "KJV, ESV, NASB, NIV, NKJV"
+      }
+    ]
+  }
+]

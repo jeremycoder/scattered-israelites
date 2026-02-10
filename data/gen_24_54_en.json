@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 54,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאכְל֣וּ",
+        "phrase": "and they ate",
+        "literal": "and-they_ate",
+        "source": "KJV, NASB, ESV (wayyōʾḵəlū from ʾākal 'eat')"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יִּשְׁתּ֗וּ",
+        "phrase": "and they drank",
+        "literal": "and-they_drank",
+        "source": "KJV, NASB, ESV (wayyishtū from shāthāh 'drink')"
+      },
+      {
+        "position": 3,
+        "surface": "ה֛וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, NASB, ESV (hūʾ 'he')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הָ/אֲנָשִׁ֥ים",
+        "phrase": "and the men",
+        "literal": "and-the_men",
+        "source": "KJV, NASB, ESV (wəhāʾănāshīm 'and the men')"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "who_REL",
+        "source": "KJV, NASB, ESV (relative particle 'ăšer)"
+      },
+      {
+        "position": 6,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with_him",
+        "source": "KJV, NASB, ESV (ʿimmô 'with him')"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יָּלִ֑ינוּ",
+        "phrase": "and they spent the night",
+        "literal": "and-they_lodged",
+        "source": "KJV, NASB, ESV (wayyālinū from lûn 'lodge, spend night')"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּק֣וּמוּ",
+        "phrase": "and they arose",
+        "literal": "and-they_arose",
+        "source": "KJV, NASB, ESV (wayyāqūmū from qûm 'arise')"
+      },
+      {
+        "position": 9,
+        "surface": "בַ/בֹּ֔קֶר",
+        "phrase": "in the morning",
+        "literal": "in_the_morning",
+        "source": "KJV, NASB, ESV (babboqer 'in the morning')"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, NASB, ESV (wayyōʾmer from ʾāmar 'say')"
+      },
+      {
+        "position": 11,
+        "surface": "שַׁלְּחֻ֥/נִי",
+        "phrase": "send me away",
+        "literal": "send_away_me",
+        "source": "KJV, NASB, ESV (shalləḥūnī from shālaḥ 'send away')"
+      },
+      {
+        "position": 12,
+        "surface": "לַֽ/אדֹנִֽ/י",
+        "phrase": "to my master",
+        "literal": "to_master_my",
+        "source": "KJV, NASB, ESV (laʾdōnī 'to my master')"
+      }
+    ]
+  }
+]

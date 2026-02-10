@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "הִשָּׁבְעָה",
+        "phrase": "swear",
+        "literal": "swear-to.me",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 4,
+        "surface": "לִי",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Particle marker; incorporated in position 3"
+      },
+      {
+        "position": 5,
+        "surface": "כַּיּוֹם",
+        "phrase": "this day / now",
+        "literal": "as-the.day",
+        "source": "KJV (this day), ESV (now), NASB (First)"
+      },
+      {
+        "position": 6,
+        "surface": "וַיִּשָּׁבַע",
+        "phrase": "and he swore",
+        "literal": "and-he.swore",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 7,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַיִּמְכֹּר",
+        "phrase": "and he sold",
+        "literal": "and-he.sold",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Particle; untranslated in English"
+      },
+      {
+        "position": 10,
+        "surface": "בְּכֹרָתוֹ",
+        "phrase": "his birthright",
+        "literal": "his.firstborn.right",
+        "source": "KJV, ESV, NASB, NLT"
+      },
+      {
+        "position": 11,
+        "surface": "לְיַעֲקֹב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB, NLT"
+      }
+    ]
+  }
+]

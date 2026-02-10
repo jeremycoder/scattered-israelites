@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאֵלֶּה",
+        "phrase": "Now these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB; waw-conjunction + feminine plural demonstrative"
+      },
+      {
+        "position": 2,
+        "surface": "תֹּלְדֹת",
+        "phrase": "are the generations",
+        "literal": "generations",
+        "source": "KJV, ESV, NASB; feminine plural construct of tôledôt (genealogies/descendants)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׁמָעֵאל",
+        "phrase": "of Ishmael",
+        "literal": "Ishmael",
+        "source": "KJV, ESV, NASB; proper noun, construct state"
+      },
+      {
+        "position": 4,
+        "surface": "בֶּן",
+        "phrase": "the son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB; masculine singular construct"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָם",
+        "phrase": "of Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB; proper noun, construct state"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "who/which",
+        "source": "KJV, ESV, NASB; relative pronoun"
+      },
+      {
+        "position": 7,
+        "surface": "יָלְדָה",
+        "phrase": "bore",
+        "literal": "she-bore",
+        "source": "KJV, ESV, NASB; qal perfect 3rd feminine singular of yld (to bear/give birth)"
+      },
+      {
+        "position": 8,
+        "surface": "הָגָר",
+        "phrase": "Hagar",
+        "literal": "Hagar",
+        "source": "KJV, ESV, NASB; proper noun with definite article"
+      },
+      {
+        "position": 9,
+        "surface": "הַמִּצְרִית",
+        "phrase": "the Egyptian",
+        "literal": "the-Egyptian",
+        "source": "KJV, ESV, NASB; definite article + feminine singular adjective"
+      },
+      {
+        "position": 10,
+        "surface": "שִׁפְחַת",
+        "phrase": "the maidservant",
+        "literal": "maidservant-of",
+        "source": "KJV, ESV, NASB; feminine singular construct of šiphḥâ (handmaid/servant)"
+      },
+      {
+        "position": 11,
+        "surface": "שָׂרָה",
+        "phrase": "of Sarah",
+        "literal": "Sarah",
+        "source": "KJV, ESV, NASB; proper noun, construct state"
+      },
+      {
+        "position": 12,
+        "surface": "לְאַבְרָהָם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "KJV, ESV, NASB; preposition lamed + proper noun"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨קָם֙",
+        "phrase": "rose up",
+        "literal": "and-he_stood_up",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/עַ֖ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "פְּנֵ֣י",
+        "phrase": "before",
+        "literal": "face_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מֵת֑/וֹ",
+        "phrase": "his dead",
+        "literal": "his_dead",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "spoke",
+        "literal": "and-he_spoke",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנֵי",
+        "phrase": "sons of",
+        "literal": "sons_of",
+        "source": "KJV, NASB, NKJV"
+      },
+      {
+        "position": 9,
+        "surface": "חֵ֖ת",
+        "phrase": "Heth",
+        "literal": "Heth",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, NASB, NKJV (quotative particle)"
+      }
+    ]
+  }
+]

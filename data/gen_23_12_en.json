@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁתַּ֨חוּ֙",
+        "phrase": "bowed down",
+        "literal": "and-bowed_down",
+        "source": "ESV, KJV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to_face_of",
+        "source": "ESV ('before'), KJV ('before'), NASB ('before')"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֥ם",
+        "phrase": "the people",
+        "literal": "people",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "ESV, KJV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהָיָ֣ה",
+        "phrase": "and let it come to pass",
+        "literal": "and-be.3ms",
+        "source": "KJV, NASB, ESV; vav-consecutive with haya"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽנַּעֲרָ֗",
+        "phrase": "the young woman",
+        "literal": "the-maiden.fs",
+        "source": "KJV, NASB, ESV; definite feminine singular"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "to whom",
+        "literal": "which/that",
+        "source": "KJV, NASB, ESV; relative pronoun"
+      },
+      {
+        "position": 4,
+        "surface": "אֹמַ֤ר",
+        "phrase": "I shall say",
+        "literal": "say.1cs",
+        "source": "KJV, NASB, ESV; Qal imperfect 1st common singular"
+      },
+      {
+        "position": 5,
+        "surface": "אֵלֶ֨יהָ֙",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, NASB, ESV; preposition + 3fs pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "הַטִּי",
+        "phrase": "lower",
+        "literal": "lower.2fs.imp",
+        "source": "KJV, NASB, ESV; Hiphil imperative 2nd feminine singular of natah"
+      },
+      {
+        "position": 7,
+        "surface": "נָ֤א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "KJV, NASB, ESV; particle of entreaty"
+      },
+      {
+        "position": 8,
+        "surface": "כַדֵּךְ֙",
+        "phrase": "your pitcher",
+        "literal": "pitcher-your.fs",
+        "source": "KJV, NASB, ESV; noun + 2fs possessive suffix"
+      },
+      {
+        "position": 9,
+        "surface": "וְאֶשְׁתֶּ֔ה",
+        "phrase": "and I will drink",
+        "literal": "and-drink.1cs",
+        "source": "KJV, NASB, ESV; vav + Qal imperfect 1st common singular"
+      },
+      {
+        "position": 10,
+        "surface": "וְאָמְרָ֣ה",
+        "phrase": "and she shall say",
+        "literal": "and-say.3fs",
+        "source": "KJV, NASB, ESV; vav + Qal perfect 3rd feminine singular"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁתֵ֔ה",
+        "phrase": "drink",
+        "literal": "drink.2ms.imp",
+        "source": "KJV, NASB, ESV; Qal imperative 2nd masculine singular"
+      },
+      {
+        "position": 12,
+        "surface": "וְגַם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "KJV, NASB, ESV; vav + adverb"
+      },
+      {
+        "position": 13,
+        "surface": "גְּמַלֶּיךָ",
+        "phrase": "your camels",
+        "literal": "camels-your.mp",
+        "source": "KJV, NASB, ESV; noun + 2ms possessive suffix"
+      },
+      {
+        "position": 14,
+        "surface": "אַשְׁקֶ֑ה",
+        "phrase": "I will water",
+        "literal": "water.1cs",
+        "source": "KJV, NASB, ESV; Hiphil imperfect 1st common singular of shaqah"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתָהּ",
+        "phrase": "her",
+        "literal": "object.marker-her",
+        "source": "KJV, NASB, ESV; direct object marker + 3fs pronoun"
+      },
+      {
+        "position": 16,
+        "surface": "הֹכַחְתָּ֙",
+        "phrase": "you have appointed",
+        "literal": "appoint.2ms.pf",
+        "source": "KJV, NASB, ESV; Hiphil perfect 2nd masculine singular of yakach"
+      },
+      {
+        "position": 17,
+        "surface": "לְעַבְדְּךָ֣",
+        "phrase": "for your servant",
+        "literal": "for-servant-your.ms",
+        "source": "KJV, NASB, ESV; preposition + noun + 2ms possessive suffix"
+      },
+      {
+        "position": 18,
+        "surface": "לְיִצְחָ֔ק",
+        "phrase": "for Isaac",
+        "literal": "for-Isaac",
+        "source": "KJV, NASB, ESV; preposition + proper noun"
+      },
+      {
+        "position": 19,
+        "surface": "וּבָהּ",
+        "phrase": "and by her",
+        "literal": "and-in/by-her",
+        "source": "KJV, NASB, ESV; vav + preposition + 3fs pronoun"
+      },
+      {
+        "position": 20,
+        "surface": "אֵדַ֔ע",
+        "phrase": "I shall know",
+        "literal": "know.1cs",
+        "source": "KJV, NASB, ESV; Qal imperfect 1st common singular of yada"
+      },
+      {
+        "position": 21,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "KJV, NASB, ESV; conjunction"
+      },
+      {
+        "position": 22,
+        "surface": "עָשִׂ֥יתָ",
+        "phrase": "you have shown",
+        "literal": "do.2ms.pf",
+        "source": "KJV, NASB, ESV; Qal perfect 2nd masculine singular of asah"
+      },
+      {
+        "position": 23,
+        "surface": "חֶ֖סֶד",
+        "phrase": "kindness",
+        "literal": "kindness.ms",
+        "source": "KJV, NASB, ESV; noun masculine singular"
+      },
+      {
+        "position": 24,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "KJV, NASB, ESV; preposition"
+      },
+      {
+        "position": 25,
+        "surface": "אֲדֹנִֽי",
+        "phrase": "my master",
+        "literal": "master-my.ms",
+        "source": "KJV, NASB, ESV; noun + 1cs possessive suffix"
+      }
+    ]
+  }
+]

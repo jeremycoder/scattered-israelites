@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֹמַ֖ר",
+        "phrase": "And I said",
+        "literal": "and-I_said",
+        "source": "KJV, NASB, ESV, Lexham (wā’ōmar)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, NASB, ESV (preposition ’el)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲדֹנִ֑/י",
+        "phrase": "my master",
+        "literal": "my_lord",
+        "source": "KJV, NASB, ESV (’ăḏōnî)"
+      },
+      {
+        "position": 4,
+        "surface": "אֻלַ֛י",
+        "phrase": "Perhaps",
+        "literal": "perhaps",
+        "source": "KJV ('Peradventure'), NASB ('Suppose'), Chabad (’ulay)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, NASB, ESV (lō’)"
+      },
+      {
+        "position": 6,
+        "surface": "תֵלֵ֥ךְ",
+        "phrase": "will follow",
+        "literal": "she_will_go",
+        "source": "NASB, ESV, Lexham (tēlēk; yalak 'to go/walk')"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אִשָּׁ֖ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "KJV, NASB, ESV (hā’iššâ)"
+      },
+      {
+        "position": 8,
+        "surface": "אַחֲרָֽ/י",
+        "phrase": "me",
+        "literal": "after-me",
+        "source": "KJV, NASB, ESV (’aḥărāy)"
+      }
+    ]
+  }
+]

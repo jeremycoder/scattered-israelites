@@ -1,0 +1,207 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of היה"
+      },
+      {
+        "position": 2,
+        "surface": "כִּרְאֹ֣ת",
+        "phrase": "when he saw",
+        "literal": "when-seeing",
+        "source": "KJV, NASB, ESV; כי with infinitive construct of ראה"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew particle marking definite direct object"
+      },
+      {
+        "position": 4,
+        "surface": "הַנֶּ֗זֶם",
+        "phrase": "the ring",
+        "literal": "the-ring",
+        "source": "KJV, NASB, ESV; definite noun, masculine singular"
+      },
+      {
+        "position": 5,
+        "surface": "וְֽאֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct-object-marker",
+        "source": "Vav conjunction with את particle"
+      },
+      {
+        "position": 6,
+        "surface": "הַצְּמִדִים֮",
+        "phrase": "the bracelets",
+        "literal": "the-bracelets",
+        "source": "KJV, NASB, ESV; definite noun, masculine plural"
+      },
+      {
+        "position": 7,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, NASB, ESV; preposition"
+      },
+      {
+        "position": 8,
+        "surface": "יְדֵ֣י",
+        "phrase": "the hands",
+        "literal": "hands-of",
+        "source": "KJV, NASB, ESV; construct form of יד (hand), feminine plural"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחֹתוֹ֒",
+        "phrase": "his sister",
+        "literal": "sister-his",
+        "source": "KJV, NASB, ESV; noun with possessive suffix, feminine singular"
+      },
+      {
+        "position": 10,
+        "surface": "וּכְשָׁמְע֗וֹ",
+        "phrase": "and when he heard",
+        "literal": "and-when-hearing-his",
+        "source": "KJV, NASB, ESV; vav with כ and infinitive construct of שמע with possessive suffix"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew particle"
+      },
+      {
+        "position": 12,
+        "surface": "דִּבְרֵ֞י",
+        "phrase": "the words",
+        "literal": "words-of",
+        "source": "KJV, NASB, ESV; construct form of דבר (word), masculine plural"
+      },
+      {
+        "position": 13,
+        "surface": "רִבְקָ֤ה",
+        "phrase": "Rebekah",
+        "literal": "Rebekah",
+        "source": "KJV, NASB, ESV; proper noun, feminine singular"
+      },
+      {
+        "position": 14,
+        "surface": "אֲחֹתוֹ֙",
+        "phrase": "his sister",
+        "literal": "sister-his",
+        "source": "KJV, NASB, ESV; noun with possessive suffix, feminine singular"
+      },
+      {
+        "position": 15,
+        "surface": "לֵאמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, NASB, ESV; infinitive construct of אמר with preposition ל"
+      },
+      {
+        "position": 16,
+        "surface": "כֹּֽה",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "KJV, NASB, ESV; adverb"
+      },
+      {
+        "position": 17,
+        "surface": "דִבֶּ֥ר",
+        "phrase": "spoke",
+        "literal": "he-spoke",
+        "source": "KJV, NASB, ESV; qal perfect of דבר, masculine singular"
+      },
+      {
+        "position": 18,
+        "surface": "אֵלַ֖י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, NASB, ESV; preposition אל with first person singular suffix"
+      },
+      {
+        "position": 19,
+        "surface": "הָאִ֑ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, NASB, ESV; definite noun, masculine singular"
+      },
+      {
+        "position": 20,
+        "surface": "וַיָּבֹא֙",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "KJV, NASB, ESV; vav-consecutive with qal imperfect of בוא"
+      },
+      {
+        "position": 21,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, NASB, ESV; preposition"
+      },
+      {
+        "position": 22,
+        "surface": "הָאִ֔ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, NASB, ESV; definite noun, masculine singular"
+      },
+      {
+        "position": 23,
+        "surface": "וְהִנֵּ֛ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, NASB, ESV; vav with הנה particle"
+      },
+      {
+        "position": 24,
+        "surface": "עֹמֵ֥ד",
+        "phrase": "standing",
+        "literal": "standing",
+        "source": "KJV, NASB, ESV; qal participle of עמד, masculine singular"
+      },
+      {
+        "position": 25,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "KJV, NASB, ESV; preposition"
+      },
+      {
+        "position": 26,
+        "surface": "הַגְּמַלִּ֖ים",
+        "phrase": "the camels",
+        "literal": "the-camels",
+        "source": "KJV, NASB, ESV; definite noun, masculine plural"
+      },
+      {
+        "position": 27,
+        "surface": "עַל",
+        "phrase": "at",
+        "literal": "upon",
+        "source": "KJV, NASB, ESV; preposition"
+      },
+      {
+        "position": 28,
+        "surface": "הָעָֽיִן",
+        "phrase": "the fountain",
+        "literal": "the-fountain",
+        "source": "KJV, NASB, ESV; definite noun, feminine singular (עין = spring/fountain)"
+      }
+    ]
+  }
+]

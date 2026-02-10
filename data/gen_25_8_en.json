@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְוַ֨ע",
+        "phrase": "breathed his last",
+        "literal": "and-gave.up.the.ghost",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יָּ֧מָת",
+        "phrase": "and died",
+        "literal": "and-died",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָהָ֛ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name; KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/שֵׂיבָ֥ה",
+        "phrase": "in old age",
+        "literal": "in-old.age",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "טוֹבָ֖ה",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "זָקֵ֣ן",
+        "phrase": "an old man",
+        "literal": "old.man",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שָׂבֵ֑עַ",
+        "phrase": "and full",
+        "literal": "and-satisfied",
+        "source": "KJV (full of years), NASB (satisfied with life), ESV"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֵּאָ֖סֶף",
+        "phrase": "and was gathered",
+        "literal": "and-was.gathered",
+        "source": "KJV, NASB, ESV; ʾāsap = to gather"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; KJV, NASB, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "עַמָּֽי/ו",
+        "phrase": "his people",
+        "literal": "peoples-his",
+        "source": "KJV, NASB, ESV; ʿammāyw = his people"
+      }
+    ]
+  }
+]

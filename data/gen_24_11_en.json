@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּבְרֵ֧ךְ",
+        "phrase": "he made kneel",
+        "literal": "and-caused-to-kneel",
+        "source": "KJV, ESV, NASB, Chabad (ברך = kneel)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/גְּמַלִּ֛ים",
+        "phrase": "the camels",
+        "literal": "the-camels",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/ח֥וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/עִ֖יר",
+        "phrase": "the city",
+        "literal": "to-the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּאֵ֣ר",
+        "phrase": "well",
+        "literal": "well",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מָּ֑יִם",
+        "phrase": "of water",
+        "literal": "the-of-water",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/עֵ֣ת",
+        "phrase": "at the time",
+        "literal": "to-time",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עֶ֔רֶב",
+        "phrase": "of evening",
+        "literal": "evening",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/עֵ֖ת",
+        "phrase": "the time",
+        "literal": "to-time",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "צֵ֥את",
+        "phrase": "of going out",
+        "literal": "going out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/שֹּׁאֲבֹֽת",
+        "phrase": "of the drawers",
+        "literal": "the-drawing_(fem.pl)",
+        "source": "KJV (women that draw), ESV (women go out), NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִשְׁמָ֥ע",
+        "phrase": "and Mishma",
+        "literal": "and-Mishma",
+        "source": "KJV, ESV, NASB, AMP[1][2][4]"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/דוּמָ֖ה",
+        "phrase": "and Dumah",
+        "literal": "and-Dumah",
+        "source": "KJV, ESV, NASB, AMP[1][2][4]"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מַשָּֽׂא",
+        "phrase": "and Massa",
+        "literal": "and-Massa",
+        "source": "KJV, ESV, NASB, AMP[1][2][4]"
+      }
+    ]
+  }
+]

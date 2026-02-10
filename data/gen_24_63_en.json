@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 63,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֥א",
+        "phrase": "went out",
+        "literal": "and-went-out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְחָ֛ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/שׂ֥וּחַ",
+        "phrase": "to meditate",
+        "literal": "to-meditate",
+        "source": "KJV, NASB, ESV; uncertain: walk/pray (NET, NRSV)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/שָּׂדֶ֖ה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנ֣וֹת",
+        "phrase": "toward",
+        "literal": "to-face-of",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עָ֑רֶב",
+        "phrase": "evening",
+        "literal": "evening",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּשָּׂ֤א",
+        "phrase": "he lifted up",
+        "literal": "and-he-lifted",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֵינָי/ו֙",
+        "phrase": "his eyes",
+        "literal": "eyes-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּ֔רְא",
+        "phrase": "and looked",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV; narrative marker (ESV: and)"
+      },
+      {
+        "position": 11,
+        "surface": "גְמַלִּ֖ים",
+        "phrase": "camels",
+        "literal": "camels",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בָּאִֽים",
+        "phrase": "were coming",
+        "literal": "coming",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

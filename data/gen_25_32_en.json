@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he.said",
+        "source": "Conjunction waw + qal imperfect 3ms of אמר (amar); all major translations"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂ֔ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "Proper noun; all major translations"
+      },
+      {
+        "position": 3,
+        "surface": "הִנֵּ֛ה",
+        "phrase": "Behold/Look",
+        "literal": "behold",
+        "source": "Interjection hinneh; KJV 'Behold', ESV/NASB 'Behold', HCSB 'Look', GNT 'All right'"
+      },
+      {
+        "position": 4,
+        "surface": "אָנֹכִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "1st person singular pronoun; all major translations"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹלֵ֖ךְ",
+        "phrase": "am going/about to",
+        "literal": "going",
+        "source": "Qal participle masculine singular of הלך (halak); indicates imminent action"
+      },
+      {
+        "position": 6,
+        "surface": "לָמ֑וּת",
+        "phrase": "to die",
+        "literal": "to-die",
+        "source": "Preposition le + qal infinitive construct of מות (muwth); all major translations"
+      },
+      {
+        "position": 7,
+        "surface": "וְלָמָּה",
+        "phrase": "and what profit/what good",
+        "literal": "and-what",
+        "source": "Conjunction waw + interrogative pronoun mah; KJV 'what profit', ESV/NASB 'what use', HCSB 'what good'"
+      },
+      {
+        "position": 8,
+        "surface": "זֶּ֥ה",
+        "phrase": "is this",
+        "literal": "this",
+        "source": "Demonstrative pronoun zeh; all major translations"
+      },
+      {
+        "position": 9,
+        "surface": "לִי",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Preposition le + 1st person singular suffix; all major translations"
+      },
+      {
+        "position": 10,
+        "surface": "בְּכֹרָֽה",
+        "phrase": "birthright",
+        "literal": "birthright",
+        "source": "Noun bkowrah (primogeniture); all major translations"
+      }
+    ]
+  }
+]

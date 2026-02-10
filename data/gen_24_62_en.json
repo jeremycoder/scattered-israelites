@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 62,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יִצְחָק֙",
+        "phrase": "And Isaac",
+        "literal": "and-Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ֣א",
+        "phrase": "had come",
+        "literal": "he-came",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/בּ֔וֹא",
+        "phrase": "from coming",
+        "literal": "from-coming",
+        "source": "NASB, NET (from the way of)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּאֵ֥ר",
+        "phrase": "the well",
+        "literal": "well",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לַחַ֖י",
+        "phrase": "of the living one",
+        "literal": "to-life",
+        "source": "NET (Lahai); cf. Gen 16:14"
+      },
+      {
+        "position": 6,
+        "surface": "רֹאִ֑י",
+        "phrase": "who sees me",
+        "literal": "seeing-me",
+        "source": "NET (Roi); cf. Gen 16:14"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/ה֥וּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יוֹשֵׁ֖ב",
+        "phrase": "was dwelling",
+        "literal": "sitting-dwelling",
+        "source": "ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/נֶּֽגֶב",
+        "phrase": "of the Negev",
+        "literal": "the-south",
+        "source": "ESV, NASB, NET"
+      }
+    ]
+  }
+]

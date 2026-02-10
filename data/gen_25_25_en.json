@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֤א",
+        "phrase": "and came out",
+        "literal": "and-came.out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רִאשׁוֹן֙",
+        "phrase": "the first",
+        "literal": "the-first.one",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַדְמוֹנִ֔י",
+        "phrase": "ruddy",
+        "literal": "red-ruddy",
+        "source": "KJV (red), ESV (ruddy), NASB (red), Chabad (ruddy)"
+      },
+      {
+        "position": 4,
+        "surface": "כֻּלּ֖/וֹ",
+        "phrase": "all of him",
+        "literal": "all-of.him",
+        "source": "ESV (all of it), NASB (all of it), KJV (all over)"
+      },
+      {
+        "position": 5,
+        "surface": "כְּ/אַדֶּ֣רֶת",
+        "phrase": "like a garment",
+        "literal": "like-garment",
+        "source": "KJV (like an hairy garment), ESV (like a hairy cloak), NASB (like a hair garment)"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׂעָ֑ר",
+        "phrase": "of hair",
+        "literal": "hair",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּקְרְא֥וּ",
+        "phrase": "and they called",
+        "literal": "and-they.called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עֵשָֽׂו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "KJV, ESV, NASB (proper name, hairy)"
+      }
+    ]
+  }
+]

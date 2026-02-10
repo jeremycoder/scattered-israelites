@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 56,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "negative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "תְּאַחֲר֣וּ",
+        "phrase": "delay",
+        "literal": "delay.you(pl)",
+        "source": "KJV (Hinder), ESV (delay), NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתִ֔/י",
+        "phrase": "me",
+        "literal": "me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יהוָ֖ה",
+        "phrase": "the LORD",
+        "literal": "and-YHWH",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "הִצְלִ֣יחַ",
+        "phrase": "has prospered",
+        "literal": "has.prospered",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "דַּרְכִּ֑/י",
+        "phrase": "my way",
+        "literal": "way-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שַׁלְּח֕וּ/נִי",
+        "phrase": "send me away",
+        "literal": "send.away-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵלְכָ֖ה",
+        "phrase": "that I may go",
+        "literal": "and-I-will.go",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לַֽ/אדֹנִֽ/י",
+        "phrase": "to my master",
+        "literal": "to-master-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

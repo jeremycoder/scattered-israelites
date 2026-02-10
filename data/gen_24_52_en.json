@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 52,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, ASV, NASB; narrative wayehi construction"
+      },
+      {
+        "position": 2,
+        "surface": "כַּאֲשֶׁ֥ר",
+        "phrase": "when",
+        "literal": "as-that/which",
+        "source": "KJV, ESV, NASB; temporal conjunction"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁמַ֛ע",
+        "phrase": "heard",
+        "literal": "he-heard",
+        "source": "KJV, ESV, NASB, HCSB; Qal perfect 3ms"
+      },
+      {
+        "position": 4,
+        "surface": "עֶ֥בֶד",
+        "phrase": "servant",
+        "literal": "servant",
+        "source": "KJV, ESV, NASB, HCSB; masculine singular construct"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham's",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB, HCSB; proper noun in construct chain"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "All translations; accusative particle"
+      },
+      {
+        "position": 7,
+        "surface": "דִּבְרֵיהֶ֑ם",
+        "phrase": "their words",
+        "literal": "words-their",
+        "source": "KJV, ESV, NASB, HCSB; masculine plural construct with 3mp suffix"
+      },
+      {
+        "position": 8,
+        "surface": "וַיִּשְׁתַּ֥חוּ",
+        "phrase": "he bowed down",
+        "literal": "and-he-bowed-down",
+        "source": "KJV, ESV, NASB, HCSB; Hitpael wayyiqtol 3ms"
+      },
+      {
+        "position": 9,
+        "surface": "אַרְצָה",
+        "phrase": "to the ground",
+        "literal": "ground-ward",
+        "source": "KJV, ESV, NASB, HCSB; feminine singular with directional -ah"
+      },
+      {
+        "position": 10,
+        "surface": "לַיהוָה",
+        "phrase": "before the LORD",
+        "literal": "to-the-LORD",
+        "source": "KJV, ESV, NASB, HCSB; preposition le- with divine name"
+      }
+    ]
+  }
+]

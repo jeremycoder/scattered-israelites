@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 23,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֨ר",
+        "phrase": "and he spoke",
+        "literal": "and-he_spoke",
+        "source": "KJV, ESV, NASB, Chabad[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB[2]"
+      },
+      {
+        "position": 3,
+        "surface": "עֶפְר֜וֹן",
+        "phrase": "Ephron",
+        "literal": "Ephron",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אָזְנֵ֤י",
+        "phrase": "in the hearing of",
+        "literal": "in-ears_of",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "עַם",
+        "phrase": "the people",
+        "literal": "people",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֨רֶץ֙",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB[2]"
+      },
+      {
+        "position": 8,
+        "surface": "אַ֛ךְ",
+        "phrase": "but",
+        "literal": "but-only",
+        "source": "Chabad; particle of emphasis, KJV 'but'[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "KJV, ESV, NASB[2]"
+      },
+      {
+        "position": 10,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "KJV, ESV, NASB[2]"
+      },
+      {
+        "position": 11,
+        "surface": "ל֖וּ",
+        "phrase": "please",
+        "literal": "if only",
+        "source": "optative particle, NASB 'only please', Chabad 'if only'[1][2]"
+      },
+      {
+        "position": 12,
+        "surface": "שְׁמָעֵ֑/נִי",
+        "phrase": "listen to me",
+        "literal": "hear-me",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 13,
+        "surface": "נָתַ֜תִּי",
+        "phrase": "I give",
+        "literal": "I_have_given",
+        "source": "perfect as present, ESV 'I give', NASB 'I will give'[2]"
+      },
+      {
+        "position": 14,
+        "surface": "כֶּ֤סֶף",
+        "phrase": "money",
+        "literal": "silver",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/שָּׂדֶה֙",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 16,
+        "surface": "קַ֣ח",
+        "phrase": "take",
+        "literal": "take",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 17,
+        "surface": "מִמֶּ֔/נִּי",
+        "phrase": "from me",
+        "literal": "from-me",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/אֶקְבְּרָ֥ה",
+        "phrase": "and I will bury",
+        "literal": "and-I_will_bury",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "KJV, ESV, NASB; accusative marker[2]"
+      },
+      {
+        "position": 20,
+        "surface": "מֵתִ֖/י",
+        "phrase": "my dead",
+        "literal": "dead_my",
+        "source": "KJV, ESV, NASB[1][2]"
+      },
+      {
+        "position": 21,
+        "surface": "שָֽׁמָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB[1][2]"
+      }
+    ]
+  }
+]

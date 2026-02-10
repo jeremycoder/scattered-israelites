@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 2,
+        "surface": "הֵ֞ם",
+        "phrase": "[are] they",
+        "literal": "they",
+        "source": "emphatic pronoun; KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֤י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׁמָעֵאל֙",
+        "phrase": "Ishmael",
+        "literal": "Ishmael",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֵ֣לֶּה",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁמֹתָ֔/ם",
+        "phrase": "their names",
+        "literal": "names-of-them",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/חַצְרֵי/הֶ֖ם",
+        "phrase": "in their villages",
+        "literal": "in-villages-of-them",
+        "source": "NASB (villages), KJV (towns), NKJV (settlements)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בְ/טִֽירֹתָ֑/ם",
+        "phrase": "and in their encampments",
+        "literal": "and-in-encampments-of-them",
+        "source": "NASB (camps), KJV (castles), NKJV (encampments)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁנֵים",
+        "phrase": "twelve",
+        "literal": "two",
+        "source": "KJV, ESV, NASB; with עָשָׂ֥ר = twelve"
+      },
+      {
+        "position": 10,
+        "surface": "עָשָׂ֥ר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB; with שְׁנֵים = twelve"
+      },
+      {
+        "position": 11,
+        "surface": "נְשִׂיאִ֖ם",
+        "phrase": "princes",
+        "literal": "princes",
+        "source": "KJV, ESV, NASB, NKJV"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/אֻמֹּתָֽ/ם",
+        "phrase": "according to their tribes",
+        "literal": "to-nations-of-them",
+        "source": "NASB (tribes), KJV (nations), NKJV (tribes)"
+      }
+    ]
+  }
+]

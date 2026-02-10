@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "בַּת",
+        "phrase": "daughter",
+        "literal": "daughter_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִ֣י",
+        "phrase": "whose",
+        "literal": "who",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אַ֔תְּ",
+        "phrase": "are you",
+        "literal": "you_(fem_sg)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַגִּ֥ידִי",
+        "phrase": "tell me",
+        "literal": "tell_(impv)-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֖א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לִ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הֲ/יֵ֧שׁ",
+        "phrase": "is there",
+        "literal": "question-there_is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִ֛י/ךְ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מָק֥וֹם",
+        "phrase": "room",
+        "literal": "place",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "לָ֖/נוּ",
+        "phrase": "for us",
+        "literal": "for-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/לִֽין",
+        "phrase": "to lodge",
+        "literal": "to-lodge",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

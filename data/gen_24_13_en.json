@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִנֵּ֛ה",
+        "phrase": "Behold",
+        "literal": "behold-INTERJ",
+        "source": "KJV, NASB, ESV, CJB; particle expressing attention or presence"
+      },
+      {
+        "position": 2,
+        "surface": "אָנֹכִ֥י",
+        "phrase": "I",
+        "literal": "I-1CS",
+        "source": "KJV, NASB, ESV, CJB; first person singular pronoun"
+      },
+      {
+        "position": 3,
+        "surface": "נִצָּ֖ב",
+        "phrase": "am standing",
+        "literal": "stand-PERF.1CS",
+        "source": "KJV, NASB, ESV, CJB; natsab (to station, stand)"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "upon-PREP",
+        "source": "KJV, NASB, ESV, CJB; preposition indicating location"
+      },
+      {
+        "position": 5,
+        "surface": "עֵ֣ין",
+        "phrase": "spring",
+        "literal": "eye-N.FS",
+        "source": "KJV, NASB, ESV, CJB; ayin (eye; by analogy, fountain)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מָּ֑יִם",
+        "phrase": "the water",
+        "literal": "the-water-N.MP",
+        "source": "KJV, NASB, ESV, CJB; definite article + mayim (water)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בְנוֹת֙",
+        "phrase": "and the daughters",
+        "literal": "and-daughters-N.FP",
+        "source": "KJV, NASB, ESV, CJB; conjunction + bath (daughter)"
+      },
+      {
+        "position": 8,
+        "surface": "אַנְשֵׁ֣י",
+        "phrase": "of the men",
+        "literal": "men-N.MP.CSTR",
+        "source": "KJV, NASB, ESV, CJB; enosh (man) in construct state"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עִ֔יר",
+        "phrase": "of the city",
+        "literal": "the-city-N.FS",
+        "source": "KJV, NASB, ESV, CJB; definite article + ir (city)"
+      },
+      {
+        "position": 10,
+        "surface": "יֹצְאֹ֖ת",
+        "phrase": "are coming out",
+        "literal": "come.out-PTCP.FP",
+        "source": "KJV, NASB, ESV, CJB; yatsa (to go out)"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/שְׁאֹ֥ב",
+        "phrase": "to draw",
+        "literal": "to-draw-INF.CSTR",
+        "source": "KJV, NASB, ESV, CJB; preposition + shaab (to draw water)"
+      },
+      {
+        "position": 12,
+        "surface": "מָֽיִם",
+        "phrase": "water",
+        "literal": "water-N.MP",
+        "source": "KJV, NASB, ESV, CJB; mayim (water)"
+      }
+    ]
+  }
+]

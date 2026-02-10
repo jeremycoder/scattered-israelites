@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּ֨רָץ֙",
+        "phrase": "and she ran",
+        "literal": "and-she_ran",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/נַּעֲרָ֔",
+        "phrase": "the girl",
+        "literal": "the-girl",
+        "source": "KJV (damsel), ESV (girl), NASB (maiden)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תַּגֵּ֖ד",
+        "phrase": "and told",
+        "literal": "and-she_told",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בֵ֣ית",
+        "phrase": "to the house of",
+        "literal": "to-house_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אִמָּ֑/הּ",
+        "phrase": "her mother",
+        "literal": "mother-her",
+        "source": "KJV, ESV, NASB (mother's house)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/דְּבָרִ֖ים",
+        "phrase": "about these things",
+        "literal": "like_the-things",
+        "source": "ESV (things), KJV (these things), NASB (these matters); REV notes dabar as 'things, matters'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֵֽלֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV, NASB (demonstrative)"
+      }
+    ]
+  }
+]

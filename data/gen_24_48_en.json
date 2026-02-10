@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֶקֹּ֥ד",
+        "phrase": "and I bowed",
+        "literal": "and-I-bow",
+        "source": "KJV, NASB, ESV (Qal wayyiqtol 1cs)"
+      },
+      {
+        "position": 2,
+        "surface": "וָֽ/אֶשְׁתַּחֲוֶ֖ה",
+        "phrase": "and worshiped",
+        "literal": "and-I-prostrate-myself",
+        "source": "KJV, NASB, ESV (Hitpael wayyiqtol 1cs)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "the LORD",
+        "literal": "to-YHWH",
+        "source": "KJV, NASB, ESV (preposition + proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/אֲבָרֵ֗ךְ",
+        "phrase": "and blessed",
+        "literal": "and-I-bless",
+        "source": "KJV, NASB, ESV (Piel wayyiqtol 1cs)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard particle, untranslatable (KJV, NASB, ESV)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, NASB, ESV (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֵי֙",
+        "phrase": "God",
+        "literal": "gods-of",
+        "source": "KJV, NASB, ESV (bound form)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲדֹנִ֣/י",
+        "phrase": "of my master",
+        "literal": "lord-my",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, NASB, ESV (proper name)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "who",
+        "literal": "which/who",
+        "source": "KJV, NASB, ESV (relative pronoun)"
+      },
+      {
+        "position": 11,
+        "surface": "הִנְחַ֨/נִי֙",
+        "phrase": "had guided me",
+        "literal": "he-led-me",
+        "source": "NASB 'guided', KJV 'led' (Hifil perfect 3ms + 1cs suffix)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/דֶ֣רֶךְ",
+        "phrase": "in the way",
+        "literal": "in-way",
+        "source": "KJV, NASB, ESV (preposition + noun)"
+      },
+      {
+        "position": 13,
+        "surface": "אֱמֶ֔ת",
+        "phrase": "of truth",
+        "literal": "truth",
+        "source": "KJV 'right', NASB 'right' (KJV 'right way', lit. 'way of truth')"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/קַ֛חַת",
+        "phrase": "to take",
+        "literal": "to-take",
+        "source": "KJV, NASB, ESV (infinitive construct)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard particle, untranslatable (KJV, NASB, ESV)"
+      },
+      {
+        "position": 16,
+        "surface": "בַּת",
+        "phrase": "daughter",
+        "literal": "daughter-of",
+        "source": "KJV, NASB, ESV (bound form)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲחִ֥י",
+        "phrase": "of my brother",
+        "literal": "brother-my",
+        "source": "KJV, NASB, ESV (here = kinsman)"
+      },
+      {
+        "position": 18,
+        "surface": "אֲדֹנִ֖/י",
+        "phrase": "my master",
+        "literal": "lord-my",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 19,
+        "surface": "לִ/בְנֽ/וֹ",
+        "phrase": "for his son",
+        "literal": "to-son-his",
+        "source": "KJV, NASB, ESV (preposition + noun + 3ms suffix)"
+      }
+    ]
+  }
+]

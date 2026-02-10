@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאַבְרָהָ֣ם",
+        "phrase": "And Abraham",
+        "literal": "and-Abraham",
+        "source": "KJV, ESV, NASB; conjunction vav + proper noun"
+      },
+      {
+        "position": 2,
+        "surface": "זָקֵ֔ן",
+        "phrase": "was old",
+        "literal": "old",
+        "source": "KJV, ESV, NASB; adjective masculine singular"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ֖א",
+        "phrase": "advanced",
+        "literal": "come/gone",
+        "source": "KJV 'well stricken', ESV 'advanced', NASB 'advanced'; qal perfect masculine singular of בוא"
+      },
+      {
+        "position": 4,
+        "surface": "בַּיָּמִ֑ים",
+        "phrase": "in years",
+        "literal": "in-the-days",
+        "source": "KJV, ESV, NASB; preposition bet + definite article + noun masculine plural"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽיהוָ֛ה",
+        "phrase": "and the LORD",
+        "literal": "and-YHWH",
+        "source": "KJV, ESV, NASB; conjunction vav + divine name"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּרַ֥ךְ",
+        "phrase": "had blessed",
+        "literal": "blessed",
+        "source": "KJV, ESV, NASB; qal perfect masculine singular of ברך"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "KJV, ESV, NASB; accusative particle"
+      },
+      {
+        "position": 8,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "KJV, ESV, NASB; proper noun masculine singular"
+      },
+      {
+        "position": 9,
+        "surface": "בַּכֹּֽל",
+        "phrase": "in all things",
+        "literal": "in-the-all",
+        "source": "KJV, ESV, NASB; preposition bet + definite article + noun masculine singular"
+      }
+    ]
+  }
+]

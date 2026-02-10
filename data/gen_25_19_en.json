@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛לֶּה",
+        "phrase": "And these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB (waw-consecutive + demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְדֹ֥ת",
+        "phrase": "are the generations",
+        "literal": "generations",
+        "source": "KJV ('generations'), ESV ('account'), NASB ('genealogy'); from root ילד 'to bear, beget'"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֖ק",
+        "phrase": "of Isaac",
+        "literal": "Isaac",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אַבְרָהָ֑ם",
+        "phrase": "of Abraham",
+        "literal": "Abraham",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper name; apposition for emphasis; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "fathered",
+        "literal": "caused-to-bear",
+        "source": "KJV ('begat'), ESV/NASB ('fathered'); Hiphil of ילד"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle; not translated in English (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "יִצְחָֽק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "Proper name; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

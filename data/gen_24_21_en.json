@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהָאִישׁ",
+        "phrase": "And the man",
+        "literal": "and-the-man",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁתָּאֵה",
+        "phrase": "was gazing/wondering",
+        "literal": "was-gazing",
+        "source": "ESV (gazed), KJV (wondering), NASB (gazing), Darby (astonished)"
+      },
+      {
+        "position": 3,
+        "surface": "לָהּ",
+        "phrase": "at her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 4,
+        "surface": "מַחֲרִישׁ",
+        "phrase": "in silence",
+        "literal": "being-silent",
+        "source": "ESV (silence), NASB (silence), NRSV (silence), KJV (held his peace)"
+      },
+      {
+        "position": 5,
+        "surface": "לָדַעַת",
+        "phrase": "to know/learn",
+        "literal": "to-know",
+        "source": "KJV (to wit), ESV (to learn), NASB (to know), NRSV (to learn)"
+      },
+      {
+        "position": 6,
+        "surface": "הַהִצְלִיחַ",
+        "phrase": "had prospered/made successful",
+        "literal": "the-had-prospered",
+        "source": "KJV (made prosperous), ESV (prospered), NASB (made successful), NRSV (made successful)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, ESV, NASB, NRSV (all render as LORD)"
+      },
+      {
+        "position": 8,
+        "surface": "דַּרְכּוֹ",
+        "phrase": "his journey",
+        "literal": "his-way/road",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 9,
+        "surface": "אִם",
+        "phrase": "or",
+        "literal": "if",
+        "source": "Conditional particle; rendered as 'or' in context with negation"
+      },
+      {
+        "position": 10,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, NRSV"
+      }
+    ]
+  }
+]

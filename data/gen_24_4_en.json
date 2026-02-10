@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 24,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֧י",
+        "phrase": "but",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB, NIV (contrastive conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, NIV (preposition)"
+      },
+      {
+        "position": 3,
+        "surface": "אַרְצִ֛/י",
+        "phrase": "my country",
+        "literal": "land-my",
+        "source": "KJV (my country), NASB (my country), NIV (my country)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹלַדְתִּ֖/י",
+        "phrase": "my relatives",
+        "literal": "birthplace-my",
+        "source": "KJV (kindred), NASB (relatives), NIV (relatives), LXX (tribe)"
+      },
+      {
+        "position": 6,
+        "surface": "תֵּלֵ֑ךְ",
+        "phrase": "you shall go",
+        "literal": "you-go",
+        "source": "KJV, ESV, NASB, NIV (2ms imperative)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לָקַחְתָּ֥",
+        "phrase": "and take",
+        "literal": "and-take-you",
+        "source": "KJV, ESV, NASB, NIV (2ms perfect consecutive)"
+      },
+      {
+        "position": 8,
+        "surface": "אִשָּׁ֖ה",
+        "phrase": "a wife",
+        "literal": "woman",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/בְנִ֥/י",
+        "phrase": "for my son",
+        "literal": "to-son-my",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/יִצְחָֽק",
+        "phrase": "Isaac",
+        "literal": "to-Isaac",
+        "source": "KJV, ESV, NASB, NIV (proper name)"
+      }
+    ]
+  }
+]

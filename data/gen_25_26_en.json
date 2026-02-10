@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 25,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַֽחֲרֵי",
+        "phrase": "and afterward",
+        "literal": "and-after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "כֵ֞ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יָצָ֣א",
+        "phrase": "came out",
+        "literal": "he went out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אָחִ֗י/ו",
+        "phrase": "his brother",
+        "literal": "his brother",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יָד֤/וֹ",
+        "phrase": "and his hand",
+        "literal": "and-hand-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֹחֶ֨זֶת֙",
+        "phrase": "was grasping",
+        "literal": "grasping-FS",
+        "source": "ESV, NASB; participle"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/עֲקֵ֣ב",
+        "phrase": "on the heel",
+        "literal": "in-the heel",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֵשָׂ֔ו",
+        "phrase": "of Esau",
+        "literal": "Esau",
+        "source": "proper name; KJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; etym. 'heel'; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/יִצְחָ֛ק",
+        "phrase": "and Isaac",
+        "literal": "and-Isaac",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בֶּן",
+        "phrase": "was",
+        "literal": "son",
+        "source": "KJV 'was', lit. son; ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "שִׁשִּׁ֥ים",
+        "phrase": "sixty",
+        "literal": "sixty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "בְּ/לֶ֥דֶת",
+        "phrase": "when she gave birth",
+        "literal": "in-giving-birth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "to them",
+        "literal": "them",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]
