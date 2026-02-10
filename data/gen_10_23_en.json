@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּבְנֵי",
+        "phrase": "and the sons",
+        "literal": "and-sons",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "אֲרָם",
+        "phrase": "of Aram",
+        "literal": "Aram",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "עוּץ",
+        "phrase": "Uz",
+        "literal": "Uz",
+        "source": "KJV, ESV, NASB, NIV; proper noun, appears in Job 1:1"
+      },
+      {
+        "position": 4,
+        "surface": "וְחוּל",
+        "phrase": "and Hul",
+        "literal": "and-Hul",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "וְגֶתֶר",
+        "phrase": "and Gether",
+        "literal": "and-Gether",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "וָמַשׁ",
+        "phrase": "and Mash",
+        "literal": "and-Mash",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתֶּ֖ם",
+        "phrase": "As for you",
+        "literal": "and-you",
+        "source": "KJV, NASB, ESV (wəʾattem: conjunctive pronoun, 'and you')"
+      },
+      {
+        "position": 2,
+        "surface": "פְּר֣וּ",
+        "phrase": "be fruitful",
+        "literal": "be_fruitful",
+        "source": "KJV, NASB, ESV (pərû: imperative of parah, 'be fruitful')"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/רְב֑וּ",
+        "phrase": "and multiply",
+        "literal": "and-multiply",
+        "source": "KJV, NASB, ESV (ûrəḇû: imperative of rāḇâ, 'multiply')"
+      },
+      {
+        "position": 4,
+        "surface": "שִׁרְצ֥וּ",
+        "phrase": "bring forth abundantly",
+        "literal": "swarm",
+        "source": "KJV ('bring forth abundantly'), NASB ('populate abundantly'), ESV ('increase greatly') (širṣû: imperative of šāraṣ, 'swarm/abound')"
+      },
+      {
+        "position": 5,
+        "surface": "בָ/אָ֖רֶץ",
+        "phrase": "in the earth",
+        "literal": "in-the_earth",
+        "source": "KJV, NASB, ESV (bāʾāreṣ: preposition + 'earth/land')"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/רְבוּ",
+        "phrase": "and multiply",
+        "literal": "and-multiply",
+        "source": "KJV, NASB, ESV (ûrəḇû: imperative of rāḇâ, 'multiply')"
+      },
+      {
+        "position": 7,
+        "surface": "בָֽ/הּ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "KJV ('therein'), NASB, ESV (bāh: preposition + 3fs pronoun, 'in it')"
+      }
+    ]
+  }
+]

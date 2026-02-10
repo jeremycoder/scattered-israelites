@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "accusative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "קַשְׁתִּ֕י",
+        "phrase": "my bow",
+        "literal": "bow-my",
+        "source": "qesheth 'bow' + 1cs suffix (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "נָתַ֖תִּי",
+        "phrase": "I have set",
+        "literal": "I-have-given/placed",
+        "source": "nathan 'to give/place' 1cs perfect (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "בֶּֽ/עָנָ֑ן",
+        "phrase": "in the cloud",
+        "literal": "in-cloud",
+        "source": "bə- 'in' + ha- 'the' + ʿānān 'cloud' (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הָֽיְתָה֙",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "wə- 'and' + hāyâ 'to be' 3fs perfect consecutive (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/א֣וֹת",
+        "phrase": "for a sign",
+        "literal": "to/for-sign",
+        "source": "lə- 'for' + ʾôṯ 'sign' (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "בְּרִ֔ית",
+        "phrase": "of covenant",
+        "literal": "covenant",
+        "source": "bərîṯ 'covenant' (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּינִ֖/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "bênay 'between me' (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "wə- 'and' + bên 'between' (KJV, ESV, NASB)[1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "ha- 'the' + ʾereṣ 'earth' (KJV, ESV, NASB)[1][2]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/חִוִּ֥י",
+        "phrase": "the Hivite",
+        "literal": "the-Hivite",
+        "source": "KJV, ESV, NASB, Strong's H2340"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker with conjunction)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/עַרְקִ֖י",
+        "phrase": "the Arkite",
+        "literal": "the-Arkite",
+        "source": "KJV, ESV, NASB, Strong's H6208"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker with conjunction)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/סִּינִֽי",
+        "phrase": "the Sinite",
+        "literal": "the-Sinite",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

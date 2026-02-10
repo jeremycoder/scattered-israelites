@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁלֹשָׁ֥ה",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB, Strong's H7969[4]"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB, Strong's H428[4]"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵי",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, Strong's H1121[4]"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֑חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, Strong's H5146[4]"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מֵ/אֵ֖לֶּה",
+        "phrase": "and-from these",
+        "literal": "and-from these",
+        "source": "Mechon-Mamre 'and of these'[5], NOG 'From them'[1]"
+      },
+      {
+        "position": 6,
+        "surface": "נָֽפְצָ֥ה",
+        "phrase": "was scattered",
+        "literal": "was-scattered",
+        "source": "KJV 'overspread', Mechon-Mamre 'overspread'[5], NOG 'populated'[1]"
+      },
+      {
+        "position": 7,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

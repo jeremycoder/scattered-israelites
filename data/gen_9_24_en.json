@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּ֥יקֶץ",
+        "phrase": "awoke",
+        "literal": "and-he.awoke",
+        "source": "KJV, ESV, NASB, NET; wayyiqtol form of יקץ (yaqatz)"
+      },
+      {
+        "position": 2,
+        "surface": "נֹ֖חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, NET; proper noun"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/יֵּינ֑/וֹ",
+        "phrase": "from his wine",
+        "literal": "from-his.wine",
+        "source": "KJV, ESV, NASB, NET; preposition מִן (min) + construct noun יין (yayin) + 3ms possessive suffix"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּ֕דַע",
+        "phrase": "and knew",
+        "literal": "and-he.knew",
+        "source": "KJV, ESV, NASB, NET; wayyiqtol form of ידע (yada)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֛ת",
+        "phrase": "what",
+        "literal": "direct.object.marker",
+        "source": "KJV, ESV, NASB, NET; direct object marker אֶת (et), here introducing the relative clause"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which/what",
+        "literal": "which",
+        "source": "KJV, ESV, NASB, NET; relative pronoun אֲשֶׁר (asher)"
+      },
+      {
+        "position": 7,
+        "surface": "עָ֥שָׂה",
+        "phrase": "had done",
+        "literal": "he.did",
+        "source": "KJV, ESV, NASB, NET; qatal form of עשׂה (asah); NET footnote notes the general sense of עשׂה"
+      },
+      {
+        "position": 8,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, NET; preposition לְ (le) + 3ms possessive suffix"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנ֥/וֹ",
+        "phrase": "his son",
+        "literal": "his.son",
+        "source": "KJV, ESV, NASB, NET; noun בֵּן (ben) + 3ms possessive suffix"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/קָּטָֽן",
+        "phrase": "the youngest",
+        "literal": "the-small/young",
+        "source": "KJV, ESV, NASB, NET; definite article הַ (ha) + adjective קָטָן (qatan) meaning 'small, young, youngest'"
+      }
+    ]
+  }
+]

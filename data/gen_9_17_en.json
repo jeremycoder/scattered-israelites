@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition); directional particle"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֑חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "זֹ֤את",
+        "phrase": "this",
+        "literal": "this-FS",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "אֽוֹת",
+        "phrase": "sign",
+        "literal": "sign",
+        "source": "KJV (token), ESV (sign), NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/בְּרִית֙",
+        "phrase": "of the covenant",
+        "literal": "the-covenant",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "הֲקִמֹ֔תִי",
+        "phrase": "I have established",
+        "literal": "I-have-established",
+        "source": "KJV, NASB, NET (perfect Qal)"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּינִ֕/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "בָּשָׂ֖ר",
+        "phrase": "flesh",
+        "literal": "flesh",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 15,
+        "surface": "עַל",
+        "phrase": "that is",
+        "literal": "upon",
+        "source": "KJV (upon), ESV (on), NASB, NET (preposition)"
+      },
+      {
+        "position": 16,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "on the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

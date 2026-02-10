@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "direct object marker with conjunction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "עוֹבָ֥ל",
+        "phrase": "Obal",
+        "literal": "Obal",
+        "source": "proper name (KJV, ESV, NASB, Chabad)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "direct object marker with conjunction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִֽימָאֵ֖ל",
+        "phrase": "Abimael",
+        "literal": "Abimael",
+        "source": "proper name (KJV, ESV, NASB, Chabad)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "direct object marker with conjunction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁבָֽא",
+        "phrase": "Sheba",
+        "literal": "Sheba",
+        "source": "proper name (KJV, ESV, NASB, Chabad)"
+      }
+    ]
+  }
+]

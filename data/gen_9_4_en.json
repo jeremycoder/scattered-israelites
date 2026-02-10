@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַךְ",
+        "phrase": "Only",
+        "literal": "only-restrictive-particle",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "בָּשָׂ֕ר",
+        "phrase": "flesh",
+        "literal": "flesh-masculine-singular-construct",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנַפְשׁ֥וֹ",
+        "phrase": "with its life",
+        "literal": "in-life-3ms-possessive",
+        "source": "KJV (with the life thereof), ESV (with its life), Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "דָמ֖וֹ",
+        "phrase": "its blood",
+        "literal": "blood-3ms-possessive",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not-negative-particle",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "תֹאכֵֽלוּ",
+        "phrase": "you shall eat",
+        "literal": "eat-2mp-imperfect",
+        "source": "KJV (shall ye not eat), ESV (shall you not eat), NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

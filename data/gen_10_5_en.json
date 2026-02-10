@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֵ֠/אֵלֶּה",
+        "phrase": "From these",
+        "literal": "from-these",
+        "source": "KJV, ESV, NASB, NIV[1][2][3]"
+      },
+      {
+        "position": 2,
+        "surface": "נִפְרְד֞וּ",
+        "phrase": "were separated",
+        "literal": "they-were-separated",
+        "source": "ESV, NASB (\"spread\" or \"divided\"); KJV (\"divided\")[1][2][3]"
+      },
+      {
+        "position": 3,
+        "surface": "אִיֵּ֤י",
+        "phrase": "coastlands",
+        "literal": "islands/coastlands",
+        "source": "ESV, NASB, NIV (\"coastlands\"); KJV (\"isles\")[1][2][3][4]"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/גּוֹיִם֙",
+        "phrase": "of the nations",
+        "literal": "the-nations",
+        "source": "KJV, ESV, NASB, NIV[1][2][3]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אַרְצֹתָ֔/ם",
+        "phrase": "into their lands",
+        "literal": "in-lands-their",
+        "source": "ESV, NASB, NIV; KJV (\"in their lands\")[1][2][3]"
+      },
+      {
+        "position": 6,
+        "surface": "אִ֖ישׁ",
+        "phrase": "each",
+        "literal": "man/each",
+        "source": "KJV, ESV, NASB, NIV (\"every one\")[1][2][3]"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/לְשֹׁנ֑/וֹ",
+        "phrase": "according to his language",
+        "literal": "to-language-his",
+        "source": "KJV, ESV, NASB, NIV[1][2][3]"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/מִשְׁפְּחֹתָ֖/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "ESV, NASB, NIV; KJV (\"after their families\")[1][2][3]"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/גוֹיֵ/הֶֽם",
+        "phrase": "in their nations",
+        "literal": "in-nations-their",
+        "source": "KJV, ESV, NASB, NIV[1][2][3]"
+      }
+    ]
+  }
+]

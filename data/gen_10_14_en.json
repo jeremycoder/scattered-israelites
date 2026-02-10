@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker wə’ēt)"
+      },
+      {
+        "position": 2,
+        "surface": "פַּתְרֻסִ֞ים",
+        "phrase": "Pathrusim",
+        "literal": "Pathrusim",
+        "source": "KJV, ESV, NASB, proper name of people"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker wə’ēt)"
+      },
+      {
+        "position": 4,
+        "surface": "כַּסְלֻחִ֗ים",
+        "phrase": "Casluhim",
+        "literal": "Casluhim",
+        "source": "KJV, ESV, NASB, proper name of people"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "from whom",
+        "literal": "which-who-relative-pronoun",
+        "source": "KJV, ESV, NASB (’ăšer)"
+      },
+      {
+        "position": 6,
+        "surface": "יָצְא֥וּ",
+        "phrase": "came",
+        "literal": "they-went-out",
+        "source": "KJV, ESV, NASB (yāṣ’ū)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/שָּׁ֛ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB (miššām)"
+      },
+      {
+        "position": 8,
+        "surface": "פְּלִשְׁתִּ֖ים",
+        "phrase": "the Philistines",
+        "literal": "Philistines",
+        "source": "KJV (Philistim), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker wə’ēt)"
+      },
+      {
+        "position": 10,
+        "surface": "כַּפְתֹּרִֽים",
+        "phrase": "Caphtorim",
+        "literal": "Caphtorim",
+        "source": "KJV, ESV, NASB, proper name of people"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁפְּחֹ֧ת",
+        "phrase": "families",
+        "literal": "families-of",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵי",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֛חַ",
+        "phrase": "of Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/תוֹלְדֹתָ֖/ם",
+        "phrase": "according to their generations",
+        "literal": "to-generations-of-them",
+        "source": "KJV (generations), NASB (genealogies), NET"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/גוֹיֵ/הֶ֑ם",
+        "phrase": "in their nations",
+        "literal": "in-nations-of-them",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מֵ/אֵ֜לֶּה",
+        "phrase": "and from these",
+        "literal": "and-from-these",
+        "source": "KJV (by these), NASB (out of these), NET"
+      },
+      {
+        "position": 8,
+        "surface": "נִפְרְד֧וּ",
+        "phrase": "were separated",
+        "literal": "were-separated",
+        "source": "NET (spread), NASB (separated), KJV (divided)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/גּוֹיִ֛ם",
+        "phrase": "the nations",
+        "literal": "the-nations",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אָ֖רֶץ",
+        "phrase": "on the earth",
+        "literal": "in-the-earth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אַחַ֥ר",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מַּבּֽוּל",
+        "phrase": "the flood",
+        "literal": "the-flood",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

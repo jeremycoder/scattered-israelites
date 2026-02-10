@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "הֲדוֹרָ֥ם",
+        "phrase": "Hadoram",
+        "literal": "Hadoram",
+        "source": "KJV, ESV, NASB, NET (proper name, son of Joktan, Strong's H1913)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "אוּזָ֖ל",
+        "phrase": "Uzal",
+        "literal": "Uzal",
+        "source": "KJV, ESV, NASB, NET (proper name, son of Joktan, Strong's H187)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "דִּקְלָֽה",
+        "phrase": "Diklah",
+        "literal": "Diklah",
+        "source": "KJV, ESV, NASB, NET (proper name, son of Joktan)"
+      }
+    ]
+  }
+]

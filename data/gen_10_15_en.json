@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/כְנַ֗עַן",
+        "phrase": "And Canaan",
+        "literal": "and-Canaan",
+        "source": "KJV, ESV, NASB, etc."
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֛ד",
+        "phrase": "fathered",
+        "literal": "begat-fathered",
+        "source": "KJV ('begat'), ESV ('fathered'), NASB ('became the father of')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "accusative-marker",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "צִידֹ֥ן",
+        "phrase": "Sidon",
+        "literal": "Sidon",
+        "source": "KJV, ESV, NASB, etc."
+      },
+      {
+        "position": 5,
+        "surface": "בְּכֹר֖/וֹ",
+        "phrase": "his firstborn",
+        "literal": "firstborn-his",
+        "source": "KJV, ESV, NASB, etc."
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-accusative-marker",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "חֵֽת",
+        "phrase": "Heth",
+        "literal": "Heth",
+        "source": "KJV, ESV, NASB, etc."
+      }
+    ]
+  }
+]

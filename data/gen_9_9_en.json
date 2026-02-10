@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲנִ֕י",
+        "phrase": "And I",
+        "literal": "and-I",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "הִנְנִ֥/י",
+        "phrase": "behold, I",
+        "literal": "behold-I",
+        "source": "NET (hinni with participle for immediacy); KJV 'behold'; ESV 'Behold'"
+      },
+      {
+        "position": 3,
+        "surface": "מֵקִ֛ים",
+        "phrase": "establish",
+        "literal": "causing-to-stand",
+        "source": "KJV 'establish', ESV 'establish', NASB 'establish'; NET 'confirm'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle (KJV, ESV, NASB omit)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּרִיתִ֖/י",
+        "phrase": "my covenant",
+        "literal": "covenant-my",
+        "source": "KJV 'my covenant', ESV 'my covenant', NASB 'My covenant'"
+      },
+      {
+        "position": 6,
+        "surface": "אִתְּ/כֶ֑ם",
+        "phrase": "with you",
+        "literal": "with-you(pl)",
+        "source": "KJV 'with you', ESV 'with you', NASB 'with you'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and with",
+        "literal": "and-direct-object-marker",
+        "source": "KJV 'and with', ESV 'and with'; particle omitted in translation"
+      },
+      {
+        "position": 8,
+        "surface": "זַרְעֲ/כֶ֖ם",
+        "phrase": "your offspring",
+        "literal": "seed-your(pl)",
+        "source": "KJV 'your seed', ESV 'your offspring', NASB 'your descendants'"
+      },
+      {
+        "position": 9,
+        "surface": "אַֽחֲרֵי/כֶֽם",
+        "phrase": "after you",
+        "literal": "after-you(pl)",
+        "source": "KJV 'after you', ESV 'after you', NASB 'after you'"
+      }
+    ]
+  }
+]

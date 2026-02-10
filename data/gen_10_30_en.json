@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִ֥י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "מוֹשָׁבָ֖/ם",
+        "phrase": "their dwelling",
+        "literal": "dwelling-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/מֵּשָׁ֑א",
+        "phrase": "from Mesha",
+        "literal": "from-Mesha",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "בֹּאֲ/כָ֥ה",
+        "phrase": "as you go",
+        "literal": "going-you(ms)",
+        "source": "KJV ('as thou goest'), ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "סְפָ֖רָ/ה",
+        "phrase": "to Sephar",
+        "literal": "Sephar",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ֥ר",
+        "phrase": "the mountain",
+        "literal": "the-mountain",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/קֶּֽדֶם",
+        "phrase": "of the east",
+        "literal": "the-east",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

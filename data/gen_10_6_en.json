@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "the sons",
+        "literal": "and-sons",
+        "source": "Conjunction vav + construct plural of בֵּן (ben, 'son'). All major translations (KJV, ESV, NASB, NIV, NKJV)"
+      },
+      {
+        "position": 2,
+        "surface": "חָ֑ם",
+        "phrase": "of Ham",
+        "literal": "Ham",
+        "source": "Proper noun, genitive relationship. All major translations (KJV, ESV, NASB, NIV, NKJV)"
+      },
+      {
+        "position": 3,
+        "surface": "כּ֥וּשׁ",
+        "phrase": "Cush",
+        "literal": "Cush",
+        "source": "Proper noun. All major translations (KJV, ESV, NASB, NIV, NKJV). Hebrew Names Version: Kush"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִצְרַ֖יִם",
+        "phrase": "and Mizraim",
+        "literal": "and-Mizraim",
+        "source": "Conjunction vav + proper noun (dual form, Egypt). KJV, NASB, NKJV: Mizraim; ESV, NIV: Egypt"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/פ֥וּט",
+        "phrase": "and Put",
+        "literal": "and-Put",
+        "source": "Conjunction vav + proper noun. KJV, NASB, NKJV: Phut/Put; ESV, NIV: Put"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/כְנָֽעַן",
+        "phrase": "and Canaan",
+        "literal": "and-Canaan",
+        "source": "Conjunction vav + proper noun. All major translations (KJV, ESV, NASB, NIV, NKJV)"
+      }
+    ]
+  }
+]

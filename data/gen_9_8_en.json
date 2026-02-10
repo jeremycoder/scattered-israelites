@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, NET; preposition of indirect object"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֔חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "אִתּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, NET; NET tn: 'to Noah and to his sons with him'"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB, NET, Chabad; infinitive construct 'to say'"
+      }
+    ]
+  }
+]

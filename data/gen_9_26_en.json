@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, NASB, ESV (waw-consecutive imperfect of 'amar)"
+      },
+      {
+        "position": 2,
+        "surface": "בָּר֥וּךְ",
+        "phrase": "Blessed",
+        "literal": "blessed",
+        "source": "KJV, NASB, ESV (qal participle of barak)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהֹוָ֖ה",
+        "phrase": "be the LORD",
+        "literal": "YHWH",
+        "source": "KJV, NASB, ESV (proper name of God)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹ֣הֵי",
+        "phrase": "the God",
+        "literal": "God_of",
+        "source": "KJV, NASB, ESV ('elohim construct)"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁ֑ם",
+        "phrase": "of Shem",
+        "literal": "Shem",
+        "source": "KJV, NASB, ESV (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "וִיהִ֥י",
+        "phrase": "And let",
+        "literal": "and-be",
+        "source": "KJV, NASB, ESV (jussive of hayah)"
+      },
+      {
+        "position": 7,
+        "surface": "כְנַ֖עַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "KJV, NASB, ESV (proper name)"
+      },
+      {
+        "position": 8,
+        "surface": "עֶ֥בֶד",
+        "phrase": "be his servant",
+        "literal": "servant",
+        "source": "KJV, NASB, ESV ('ebed)"
+      },
+      {
+        "position": 9,
+        "surface": "לָֽ/מוֹ",
+        "phrase": "",
+        "literal": "to-them",
+        "source": "KJV ('his'), NASB/ESV ('his'), MT lamo ('to them'); note: refers to Shem and brothers"
+      }
+    ]
+  }
+]

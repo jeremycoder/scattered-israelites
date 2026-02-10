@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "And the sons of",
+        "literal": "and-sons",
+        "source": "KJV, ESV, NASB, Lexham English Bible"
+      },
+      {
+        "position": 2,
+        "surface": "גֹּ֑מֶר",
+        "phrase": "Gomer",
+        "literal": "Gomer",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "אַשְׁכֲּנַ֥ז",
+        "phrase": "Ashkenaz",
+        "literal": "Ashkenaz",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/רִיפַ֖ת",
+        "phrase": "and Riphath",
+        "literal": "and-Riphath",
+        "source": "KJV, NASB, Lexham; ESV (Riphath)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/תֹגַרְמָֽה",
+        "phrase": "and Togarmah",
+        "literal": "and-Togarmah",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]

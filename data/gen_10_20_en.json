@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣לֶּה",
+        "phrase": "These are",
+        "literal": "these-PL",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, LSB"
+      },
+      {
+        "position": 3,
+        "surface": "חָ֔ם",
+        "phrase": "Ham",
+        "literal": "Ham",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/מִשְׁפְּחֹתָ֖/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "KJV, ESV, NASB, LSB"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/לְשֹֽׁנֹתָ֑/ם",
+        "phrase": "according to their languages",
+        "literal": "to-tongues/languages-their",
+        "source": "KJV, ESV, NASB, LSB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אַרְצֹתָ֖/ם",
+        "phrase": "in their lands",
+        "literal": "in-lands-their",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/גוֹיֵ/הֶֽם",
+        "phrase": "in their nations",
+        "literal": "in-nations-their",
+        "source": "KJV, ESV, NASB, LSB"
+      }
+    ]
+  }
+]

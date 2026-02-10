@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תְּהִ֨י",
+        "phrase": "And the beginning",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, NIV (waw-consecutive imperfect of היה)"
+      },
+      {
+        "position": 2,
+        "surface": "רֵאשִׁ֤ית",
+        "phrase": "of his kingdom",
+        "literal": "beginning-head",
+        "source": "KJV, ESV, NASB, NIV (רֵאשִׁית = beginning, first)"
+      },
+      {
+        "position": 3,
+        "surface": "מַמְלַכְתּ/וֹ֙",
+        "phrase": "was",
+        "literal": "kingdom-his",
+        "source": "KJV, ESV, NASB, NIV (מַמְלַכְתּוֹ = his kingdom)"
+      },
+      {
+        "position": 4,
+        "surface": "בָּבֶ֔ל",
+        "phrase": "Babel",
+        "literal": "Babel",
+        "source": "KJV, ESV, NASB, NIV (proper name, Babylon)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶ֖רֶךְ",
+        "phrase": "and Erech",
+        "literal": "and-Erech",
+        "source": "KJV, ESV, NASB, NIV (וְ = and; Erech = proper name, Uruk)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אַכַּ֣ד",
+        "phrase": "and Accad",
+        "literal": "and-Accad",
+        "source": "KJV, ESV, NASB, NIV (וְ = and; Akkad = proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/כַלְנֵ֑ה",
+        "phrase": "and Calneh",
+        "literal": "and-Calneh",
+        "source": "KJV, ESV, NASB, NIV (וְ = and; Calneh = proper name)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/אֶ֖רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB, NIV (בְּ = in; אֶרֶץ = land)"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁנְעָֽר",
+        "phrase": "of Shinar",
+        "literal": "Shinar",
+        "source": "KJV, ESV, NASB, NIV (proper name)"
+      }
+    ]
+  }
+]

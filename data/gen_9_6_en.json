@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שֹׁפֵךְ֙",
+        "phrase": "sheds",
+        "literal": "shedding",
+        "source": "KJV, ESV, NASB (participle of שָׁפַךְ 'to shed, pour out')"
+      },
+      {
+        "position": 2,
+        "surface": "דַּ֣ם",
+        "phrase": "blood",
+        "literal": "blood",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/אָדָ֔ם",
+        "phrase": "of man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB (הָ definite article + אָדָם 'man, humankind')"
+      },
+      {
+        "position": 4,
+        "surface": "בָּֽ/אָדָ֖ם",
+        "phrase": "by man",
+        "literal": "in/by-man",
+        "source": "KJV, ESV, NASB (בְּ preposition 'in/by' + אָדָם 'man')"
+      },
+      {
+        "position": 5,
+        "surface": "דָּמ֣/וֹ",
+        "phrase": "his blood",
+        "literal": "blood-his",
+        "source": "KJV, ESV, NASB (דָּמוֹ 'his blood')"
+      },
+      {
+        "position": 6,
+        "surface": "יִשָּׁפֵ֑ךְ",
+        "phrase": "shall be shed",
+        "literal": "shall-be-shed",
+        "source": "KJV, ESV, NASB (niphal imperfect of שָׁפַךְ 'shall be shed')"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (conjunction 'for, because')"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/צֶ֣לֶם",
+        "phrase": "in the image",
+        "literal": "in-image",
+        "source": "KJV, ESV, NASB (בְּ preposition 'in' + צֶלֶם 'image, likeness')"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "עָשָׂ֖ה",
+        "phrase": "He made",
+        "literal": "he-made",
+        "source": "KJV, ESV, NASB (qal perfect of עָשָׂה 'he made')"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "KJV, ESV, NASB (אֶת, accusative marker, often untranslated)"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אָדָֽם",
+        "phrase": "man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB (הָ definite article + אָדָם 'man, humankind')"
+      }
+    ]
+  }
+]

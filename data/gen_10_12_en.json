@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ.marker",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "רֶ֔סֶן",
+        "phrase": "Resen",
+        "literal": "Resen",
+        "source": "KJV, ESV, NASB (proper name of a city)"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "נִֽינְוֵ֖ה",
+        "phrase": "Nineveh",
+        "literal": "Nineveh",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָּ֑לַח",
+        "phrase": "Calah",
+        "literal": "Calah",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "הִ֖וא",
+        "phrase": "it",
+        "literal": "she/it-is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עִ֥יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/גְּדֹלָֽה",
+        "phrase": "great",
+        "literal": "the-great",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

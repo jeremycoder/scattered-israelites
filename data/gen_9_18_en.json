@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽהְי֣וּ",
+        "phrase": "And the sons were",
+        "literal": "and-they_were",
+        "source": "KJV, ESV, NASB (waw-consecutive perfect 3mp)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "sons of",
+        "literal": "sons_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "נֹ֗חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יֹּֽצְאִים֙",
+        "phrase": "who went out",
+        "literal": "the-going_out",
+        "source": "KJV ('that went forth'), ESV ('who went forth'), NASB ('who came out')"
+      },
+      {
+        "position": 5,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/תֵּבָ֔ה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שֵׁ֖ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חָ֣ם",
+        "phrase": "and Ham",
+        "literal": "and-Ham",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וָ/יָ֑פֶת",
+        "phrase": "and Japheth",
+        "literal": "and-Japheth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/חָ֕ם",
+        "phrase": "and Ham",
+        "literal": "and-Ham",
+        "source": "KJV, ESV, NASB (resumptive)"
+      },
+      {
+        "position": 11,
+        "surface": "ה֖וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV ('is'), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲבִ֥י",
+        "phrase": "father of",
+        "literal": "father_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "כְנָֽעַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

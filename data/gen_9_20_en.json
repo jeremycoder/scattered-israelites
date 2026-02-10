@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיָּחֶל",
+        "phrase": "began",
+        "literal": "and-he-began",
+        "source": "KJV, ESV, NASB, HCSB; וַ (vav-consecutive) + יָחֶל (3ms perfect of חלל)"
+      },
+      {
+        "position": 2,
+        "surface": "נֹחַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "KJV 'husbandman', ESV 'man', NASB 'farming'; construct phrase with following noun"
+      },
+      {
+        "position": 4,
+        "surface": "הָאֲדָמָה",
+        "phrase": "of the soil",
+        "literal": "the-ground/soil",
+        "source": "KJV 'husbandman', ESV 'of-the-soil', NASB 'farming'; definite noun in construct relationship"
+      },
+      {
+        "position": 5,
+        "surface": "וַיִּטַּע",
+        "phrase": "and planted",
+        "literal": "and-he-planted",
+        "source": "KJV, ESV, NASB, HCSB; וַ (vav-consecutive) + יִטַּע (3ms imperfect of נטע)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּרֶם",
+        "phrase": "a vineyard",
+        "literal": "vineyard",
+        "source": "KJV, ESV, NASB, HCSB; masculine singular noun"
+      }
+    ]
+  }
+]

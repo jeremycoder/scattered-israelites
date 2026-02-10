@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יַ֤פְתְּ",
+        "phrase": "enlarge",
+        "literal": "enlarge!-impv",
+        "source": "KJV, ESV, NASB, TLV (jussive from יָפַת 'to enlarge')"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, TLV"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/יֶ֔פֶת",
+        "phrase": "Japheth",
+        "literal": "to/for-Japheth",
+        "source": "KJV, ESV, NASB, TLV (לְ preposition + proper name יֶפֶת)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יִשְׁכֹּ֖ן",
+        "phrase": "and may he dwell",
+        "literal": "and-let him dwell",
+        "source": "KJV, ESV, NASB, TLV (וְ conj. + jussive שָׁכַן 'dwell')"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אָֽהֳלֵי",
+        "phrase": "in the tents of",
+        "literal": "in-tents-of",
+        "source": "KJV, ESV, NASB, TLV (בְּ 'in' + אֹהֶל 'tent' pl. const. w/ י suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׁ֑ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB, TLV (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וִ/יהִ֥י",
+        "phrase": "and may ... be",
+        "literal": "and-let him be",
+        "source": "KJV, ESV, NASB, TLV (וַיְהִי jussive 'and let be')"
+      },
+      {
+        "position": 8,
+        "surface": "כְנַ֖עַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, TLV (proper name)"
+      },
+      {
+        "position": 9,
+        "surface": "עֶ֥בֶד",
+        "phrase": "slave",
+        "literal": "slave/servant",
+        "source": "KJV ('servant'), ESV ('slave'), NASB ('servant'), TLV ('slave')"
+      },
+      {
+        "position": 10,
+        "surface": "לָֽ/מוֹ",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, TLV (לְ 'to' + 3mp suff. מוֹ)"
+      }
+    ]
+  }
+]

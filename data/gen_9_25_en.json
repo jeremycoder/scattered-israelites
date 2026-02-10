@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אָר֣וּר",
+        "phrase": "Cursed",
+        "literal": "cursed",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "be Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "עֶ֥בֶד",
+        "phrase": "a servant",
+        "literal": "servant",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "עֲבָדִ֖ים",
+        "phrase": "of servants",
+        "literal": "of_servants",
+        "source": "KJV, ESV, NASB; NET: superlative genitive"
+      },
+      {
+        "position": 6,
+        "surface": "יִֽהְיֶ֥ה",
+        "phrase": "he shall be",
+        "literal": "he_shall_be",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/אֶחָֽי/ו",
+        "phrase": "to his brothers",
+        "literal": "to-brothers-his",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

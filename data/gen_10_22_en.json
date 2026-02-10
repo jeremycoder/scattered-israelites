@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, DBY"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֖ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "עֵילָ֣ם",
+        "phrase": "Elam",
+        "literal": "Elam",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַשּׁ֑וּר",
+        "phrase": "and Asshur",
+        "literal": "and-Asshur",
+        "source": "KJV (Asshur), ESV (Asshur), NASB (Asshur) (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אַרְפַּכְשַׁ֖ד",
+        "phrase": "and Arphaxad",
+        "literal": "and-Arpachshad",
+        "source": "KJV (Arphaxad), ESV (Arpachshad), NASB (Arpachshad) (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/ל֥וּד",
+        "phrase": "and Lud",
+        "literal": "and-Lud",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/אֲרָֽם",
+        "phrase": "and Aram",
+        "literal": "and-Aram",
+        "source": "KJV, ESV, NASB (proper name)"
+      }
+    ]
+  }
+]

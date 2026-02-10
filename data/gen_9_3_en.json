@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "Every",
+        "literal": "every",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "רֶ֨מֶשׂ֙",
+        "phrase": "moving thing",
+        "literal": "creeper-moving_thing",
+        "source": "KJV (moving thing), ESV (creeping thing), NASB (moving thing), Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which-rel",
+        "source": "relative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוּא",
+        "phrase": "it",
+        "literal": "he/it",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "חַ֔י",
+        "phrase": "lives",
+        "literal": "living-alive",
+        "source": "KJV (liveth), ESV (lives), NASB (alive), Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/כֶ֥ם",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "יִהְיֶ֖ה",
+        "phrase": "shall be",
+        "literal": "it_will_be",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אָכְלָ֑ה",
+        "phrase": "food",
+        "literal": "for-food",
+        "source": "KJV (meat), ESV (food), NASB (food), Chabad (eat)"
+      },
+      {
+        "position": 9,
+        "surface": "כְּ/יֶ֣רֶק",
+        "phrase": "like the green",
+        "literal": "like-green_plant",
+        "source": "KJV (green herb), ESV (plants), NASB (vegetation), Chabad (green vegetation)"
+      },
+      {
+        "position": 10,
+        "surface": "עֵ֔שֶׂב",
+        "phrase": "plants",
+        "literal": "herb-grass",
+        "source": "KJV (herb), ESV (plant), NASB (plant), Chabad (vegetation)"
+      },
+      {
+        "position": 11,
+        "surface": "נָתַ֥תִּי",
+        "phrase": "I have given",
+        "literal": "I_have_given",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "accusative marker; not translated; standard in Hebrew grammar"
+      },
+      {
+        "position": 14,
+        "surface": "כֹּֽל",
+        "phrase": "everything",
+        "literal": "all-everything",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

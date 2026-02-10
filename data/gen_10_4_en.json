@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֥י",
+        "phrase": "And the sons of",
+        "literal": "and-sons_of",
+        "source": "KJV, ESV, NASB, YLT[1][3]"
+      },
+      {
+        "position": 2,
+        "surface": "יָוָ֖ן",
+        "phrase": "Javan",
+        "literal": "Javan",
+        "source": "KJV, ESV, NASB, YLT[1][3]"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִישָׁ֣ה",
+        "phrase": "Elishah",
+        "literal": "Elishah",
+        "source": "KJV, ESV, NASB, YLT[1][3]"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/תַרְשִׁ֑ישׁ",
+        "phrase": "and Tarshish",
+        "literal": "and-Tarshish",
+        "source": "KJV, ESV, NASB, YLT[1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "כִּתִּ֖ים",
+        "phrase": "Kittim",
+        "literal": "Kittim",
+        "source": "KJV, ESV, NASB (Kittites), YLT[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/דֹדָנִֽים",
+        "phrase": "and Dodanim",
+        "literal": "and-Dodanim",
+        "source": "KJV, ESV, NASB, YLT (some Rodanim)[1][3]"
+      }
+    ]
+  }
+]

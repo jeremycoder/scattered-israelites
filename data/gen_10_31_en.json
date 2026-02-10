@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "KJV, ESV, NASB (demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "[are] the sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁ֔ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/מִשְׁפְּחֹתָ֖/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/לְשֹׁנֹתָ֑/ם",
+        "phrase": "according to their languages",
+        "literal": "to-tongues/languages-their",
+        "source": "KJV (tongues), ESV, NASB (languages)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אַרְצֹתָ֖/ם",
+        "phrase": "in their lands",
+        "literal": "in-lands-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/גוֹיֵ/הֶֽם",
+        "phrase": "according to their nations",
+        "literal": "to-nations-their",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

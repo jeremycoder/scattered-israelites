@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כ֖וּשׁ",
+        "phrase": "And Cush",
+        "literal": "and-Cush",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֣ד",
+        "phrase": "begat",
+        "literal": "bore",
+        "source": "KJV, NASB, ESV (fathered)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "נִמְרֹ֑ד",
+        "phrase": "Nimrod",
+        "literal": "Nimrod",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הֵחֵ֔ל",
+        "phrase": "began",
+        "literal": "began",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "לִֽ/הְי֥וֹת",
+        "phrase": "to be",
+        "literal": "to-be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "גִּבֹּ֖ר",
+        "phrase": "a mighty one",
+        "literal": "mighty-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the earth",
+        "literal": "in-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

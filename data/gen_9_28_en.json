@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽיְחִי",
+        "phrase": "And lived",
+        "literal": "and-he.lived",
+        "source": "KJV, ESV, NASB; vav-consecutive with qal imperfect of חיה"
+      },
+      {
+        "position": 2,
+        "surface": "נֹחַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אַחַר",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 4,
+        "surface": "הַמַּבּוּל",
+        "phrase": "the flood",
+        "literal": "the-flood",
+        "source": "KJV, ESV, NASB; definite article with noun"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁלֹשׁ",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB; feminine numeral"
+      },
+      {
+        "position": 6,
+        "surface": "מֵאוֹת",
+        "phrase": "hundred",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB; feminine plural construct"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB; feminine singular noun in construct chain"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽחֲמִשִּׁים",
+        "phrase": "and fifty",
+        "literal": "and-fifty",
+        "source": "KJV, ESV, NASB; vav-conjunction with masculine plural numeral"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB; feminine singular noun"
+      }
+    ]
+  }
+]

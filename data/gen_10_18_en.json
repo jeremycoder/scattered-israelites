@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct object marker",
+        "source": "KJV, ESV, NASB (accusative particle)"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אַרְוָדִ֥י",
+        "phrase": "the Arvadite",
+        "literal": "the-Arvadite",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct object marker",
+        "source": "KJV, ESV, NASB (accusative particle)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/צְּמָרִ֖י",
+        "phrase": "the Zemarite",
+        "literal": "the-Zemarite",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct object marker",
+        "source": "KJV, ESV, NASB (accusative particle)"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/חֲמָתִ֑י",
+        "phrase": "the Hamathite",
+        "literal": "the-Hamathite",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַחַ֣ר",
+        "phrase": "and afterward",
+        "literal": "and-after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "נָפֹ֔צוּ",
+        "phrase": "were spread abroad",
+        "literal": "they-were-dispersed",
+        "source": "KJV, NASB (puwts - to disperse)"
+      },
+      {
+        "position": 9,
+        "surface": "מִשְׁפְּח֖וֹת",
+        "phrase": "families",
+        "literal": "families-his",
+        "source": "KJV, ESV, NASB (mishpachah - families)"
+      },
+      {
+        "position": 10,
+        "surface": "הַֽ/כְּנַעֲנִֽי",
+        "phrase": "of the Canaanites",
+        "literal": "the-Canaanite",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

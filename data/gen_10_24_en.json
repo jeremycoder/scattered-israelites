@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַרְפַּכְשַׁ֖ד",
+        "phrase": "And Arpachshad",
+        "literal": "and-Arpachshad",
+        "source": "KJV, ESV, NASB, Chabad[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֣ד",
+        "phrase": "begot",
+        "literal": "begat",
+        "source": "KJV (begat), ESV (fathered), NASB (father of)[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "grammatical marker (KJV, ESV, NASB)[2]"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑לַח",
+        "phrase": "Shelah",
+        "literal": "Shelah",
+        "source": "KJV (Salah), ESV/NASB (Shelah)[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שֶׁ֖לַח",
+        "phrase": "and Shelah",
+        "literal": "and-Shelah",
+        "source": "KJV, ESV, NASB, Chabad[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "יָלַ֥ד",
+        "phrase": "begot",
+        "literal": "begat",
+        "source": "KJV (begat), ESV (fathered), NASB (father of)[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "grammatical marker (KJV, ESV, NASB)[2]"
+      },
+      {
+        "position": 8,
+        "surface": "עֵֽבֶר",
+        "phrase": "Eber",
+        "literal": "Eber",
+        "source": "KJV, ESV, NASB, Chabad[1][2]"
+      }
+    ]
+  }
+]

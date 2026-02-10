@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 9,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨ת",
+        "phrase": "and with",
+        "literal": "and-with",
+        "source": "KJV, ESV, NASB (object marker with waw conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-every",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "נֶ֤פֶשׁ",
+        "phrase": "living creature",
+        "literal": "soul-life-breath",
+        "source": "KJV (soul), ESV (living creature), NASB (living creature)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/חַיָּה֙",
+        "phrase": "that lives",
+        "literal": "the-living",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 6,
+        "surface": "אִתְּ/כֶ֔ם",
+        "phrase": "is with you",
+        "literal": "with-you(pl)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/ע֧וֹף",
+        "phrase": "of the birds",
+        "literal": "in-of_the-fowl",
+        "source": "KJV (fowl), ESV (birds), NASB (birds)"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/בְּהֵמָ֛ה",
+        "phrase": "of the livestock",
+        "literal": "in-the-cattle",
+        "source": "KJV (cattle), ESV (livestock), NASB (cattle)"
+      },
+      {
+        "position": 9,
+        "surface": "וּֽ/בְ/כָל",
+        "phrase": "and of every",
+        "literal": "and-in-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "חַיַּ֥ת",
+        "phrase": "wild animal",
+        "literal": "beast-wild",
+        "source": "KJV (beast), ESV (beast), NASB (living creature)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "of the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אִתְּ/כֶ֑ם",
+        "phrase": "with you",
+        "literal": "with-you(pl)",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/כֹּל֙",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "יֹצְאֵ֣י",
+        "phrase": "that come out of",
+        "literal": "goers_out",
+        "source": "KJV (go out), ESV (come out), NASB (come out)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/תֵּבָ֔ה",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/כֹ֖ל",
+        "phrase": "to every",
+        "literal": "to-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "חַיַּ֥ת",
+        "phrase": "wild animal",
+        "literal": "beast-wild",
+        "source": "KJV (beast), ESV (beast), NASB (living creature)"
+      },
+      {
+        "position": 18,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "of the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

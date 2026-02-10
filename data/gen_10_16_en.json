@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יְבוּסִי֙",
+        "phrase": "the Jebusite",
+        "literal": "the-Jebusite",
+        "source": "KJV, ESV, NASB, Strong's 2983"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ֣/אֱמֹרִ֔י",
+        "phrase": "the Amorite",
+        "literal": "the-Amorite",
+        "source": "KJV, ESV, NASB, Strong's 567"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "KJV, ESV, NASB (direct object marker with conjunction)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גִּרְגָּשִֽׁי",
+        "phrase": "the Girgashite",
+        "literal": "the-Girgashite",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Conjunction + accusative marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "אוֹפִ֥ר",
+        "phrase": "Ophir",
+        "literal": "Ophir",
+        "source": "Proper name (KJV, ESV, NASB, NIV)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Conjunction + accusative marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "חֲוִילָ֖ה",
+        "phrase": "Havilah",
+        "literal": "Havilah",
+        "source": "Proper name (KJV, ESV, NASB, NIV)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "Conjunction + accusative marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹבָ֑ב",
+        "phrase": "Jobab",
+        "literal": "Jobab",
+        "source": "Proper name (KJV, ESV, NASB, NIV)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יָקְטָֽן",
+        "phrase": "Joktan",
+        "literal": "Joktan",
+        "source": "Proper name (KJV, ESV, NASB, NIV)"
+      }
+    ]
+  }
+]

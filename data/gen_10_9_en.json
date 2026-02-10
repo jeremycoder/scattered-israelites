@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֽוּא",
+        "phrase": "He",
+        "literal": "he",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "הָיָ֥ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "גִבֹּֽר",
+        "phrase": "mighty",
+        "literal": "mighty-one",
+        "source": "KJV, ESV, NASB; also rendered 'powerful' (HCSB)"
+      },
+      {
+        "position": 4,
+        "surface": "צַ֖יִד",
+        "phrase": "hunter",
+        "literal": "hunter",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "KJV, ESV, NASB, HCSB; preposition לִ (to) + construct noun פְנֵי (face)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, HCSB; Tetragrammaton"
+      },
+      {
+        "position": 7,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "Interlinear analysis; causal particle introducing explanation"
+      },
+      {
+        "position": 8,
+        "surface": "כֵּן֙",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "Interlinear analysis; adverb of manner"
+      },
+      {
+        "position": 9,
+        "surface": "יֵֽאָמַ֔ר",
+        "phrase": "it is said",
+        "literal": "it-is-said",
+        "source": "KJV, ESV, NASB, HCSB; passive imperfect"
+      },
+      {
+        "position": 10,
+        "surface": "כְּ/נִמְרֹ֛ד",
+        "phrase": "Like Nimrod",
+        "literal": "like-Nimrod",
+        "source": "KJV, ESV, NASB, HCSB; preposition כְּ (like) + proper noun"
+      },
+      {
+        "position": 11,
+        "surface": "גִּבּ֥וֹר",
+        "phrase": "mighty",
+        "literal": "mighty-one",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 12,
+        "surface": "צַ֖יִד",
+        "phrase": "hunter",
+        "literal": "hunter",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 13,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "KJV, ESV, NASB, HCSB; preposition לִ (to) + construct noun פְנֵי (face)"
+      },
+      {
+        "position": 14,
+        "surface": "יְהוָֽה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, HCSB; Tetragrammaton"
+      }
+    ]
+  }
+]

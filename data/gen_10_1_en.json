@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאֵלֶּה",
+        "phrase": "And these are",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB; conjunction + demonstrative pronoun"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְדֹת",
+        "phrase": "the generations",
+        "literal": "generations",
+        "source": "KJV, ESV, NASB; feminine plural noun (toledot)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵי",
+        "phrase": "of the sons",
+        "literal": "of-sons",
+        "source": "KJV, ESV, NASB; preposition + construct plural noun"
+      },
+      {
+        "position": 4,
+        "surface": "נֹחַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 6,
+        "surface": "חָם",
+        "phrase": "Ham",
+        "literal": "Ham",
+        "source": "KJV, ESV, NASB; proper noun"
+      },
+      {
+        "position": 7,
+        "surface": "וָיָפֶת",
+        "phrase": "and Japheth",
+        "literal": "and-Japheth",
+        "source": "KJV, ESV, NASB; conjunction + proper noun"
+      },
+      {
+        "position": 8,
+        "surface": "וַיִּוָּלְדוּ",
+        "phrase": "and sons were born",
+        "literal": "and-were-born",
+        "source": "KJV, ESV, NASB; conjunction + Niphal imperfect 3rd masculine plural of yalad"
+      },
+      {
+        "position": 9,
+        "surface": "לָהֶם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB; preposition + 3rd masculine plural pronoun"
+      },
+      {
+        "position": 10,
+        "surface": "בָּנִים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "KJV, ESV, NASB; masculine plural noun"
+      },
+      {
+        "position": 11,
+        "surface": "אַחַר",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 12,
+        "surface": "הַמַּבּוּל",
+        "phrase": "the flood",
+        "literal": "the-flood",
+        "source": "KJV, ESV, NASB; definite article + noun (mabbul)"
+      }
+    ]
+  }
+]

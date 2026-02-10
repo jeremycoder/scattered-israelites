@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 10,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "KJV, ESV, NASB; preposition of separation (Strong's H4480)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֥רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB; Article + Noun fs 'land, earth' (Strong's H776)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/הִ֖וא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV, ESV, NASB; Article + demonstrative pronoun 'that' (Strong's H1931)"
+      },
+      {
+        "position": 4,
+        "surface": "יָצָ֣א",
+        "phrase": "he went forth",
+        "literal": "he-went-out",
+        "source": "KJV, ESV, NASB; Verb Qal perfect 3ms 'to go out' (Strong's H3318)"
+      },
+      {
+        "position": 5,
+        "surface": "אַשּׁ֑וּר",
+        "phrase": "Asshur",
+        "literal": "Asshur",
+        "source": "KJV, ESV, NASB; Proper noun 'Asshur/Assyria' (Strong's H804)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּ֨בֶן֙",
+        "phrase": "and he built",
+        "literal": "and-he-built",
+        "source": "KJV, ESV, NASB; Waw-consec + Verb Qal impf 3ms 'to build' (Strong's H1129)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "KJV, ESV, NASB; not translated, direct object marker (Strong's H853)"
+      },
+      {
+        "position": 8,
+        "surface": "נִ֣ינְוֵ֔ה",
+        "phrase": "Nineveh",
+        "literal": "Nineveh",
+        "source": "KJV, ESV, NASB; Proper noun 'Nineveh' (Strong's H5210)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "KJV, ESV, NASB; conj waw + direct object marker (Strong's H853)"
+      },
+      {
+        "position": 10,
+        "surface": "רְחֹבֹ֥ת",
+        "phrase": "Rehoboth",
+        "literal": "Rehoboth",
+        "source": "KJV, ESV, NASB; Proper noun 'Rehoboth-Ir' (Strong's)"
+      },
+      {
+        "position": 11,
+        "surface": "עִ֖יר",
+        "phrase": "Ir",
+        "literal": "city",
+        "source": "KJV, ESV, NASB; Noun fs 'city' (Strong's H5892)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "KJV, ESV, NASB; conj waw + direct object marker (Strong's H853)"
+      },
+      {
+        "position": 13,
+        "surface": "כָּֽלַח",
+        "phrase": "Calah",
+        "literal": "Calah",
+        "source": "KJV, ESV, NASB; Proper noun 'Calah'"
+      }
+    ]
+  }
+]
