@@ -2,62 +2,29 @@
 {% block title %}{{ book.name }} {{ chapter }} — Scattered Israelites Bible{% endblock %}
 
 {% block content %}
-<div class="mb-4 flex items-center justify-between">
-  <div>
-    <a href="{% url 'chapter-list' book.slug %}" class="text-sm text-earth-700 hover:text-gold-500 transition">&larr; {{ book.name }}</a>
-  </div>
-  <div class="flex gap-3 text-sm">
+<div class="page-nav">
+  <a href="{% url 'chapter-list' book.slug %}" class="breadcrumb">&larr; {{ book.name }}</a>
+  <div class="page-nav-links">
     {% if prev_chapter %}
-    <a href="{% url 'chapter-view' book.slug prev_chapter %}"
-       hx-get="{% url 'verse-list-partial' book.slug prev_chapter %}"
-       hx-target="#verse-container"
-       hx-push-url="{% url 'chapter-view' book.slug prev_chapter %}"
-       class="text-earth-700 hover:text-gold-500 transition">&larr; Chapter {{ prev_chapter }}</a>
+    <a href="{% url 'chapter-view' book.slug prev_chapter %}" class="nav-link">&larr; Chapter {{ prev_chapter }}</a>
     {% endif %}
     {% if next_chapter %}
-    <a href="{% url 'chapter-view' book.slug next_chapter %}"
-       hx-get="{% url 'verse-list-partial' book.slug next_chapter %}"
-       hx-target="#verse-container"
-       hx-push-url="{% url 'chapter-view' book.slug next_chapter %}"
-       class="text-earth-700 hover:text-gold-500 transition">Chapter {{ next_chapter }} &rarr;</a>
+    <a href="{% url 'chapter-view' book.slug next_chapter %}" class="nav-link">Chapter {{ next_chapter }} &rarr;</a>
     {% endif %}
   </div>
 </div>
 
-<h1 class="font-heading text-2xl font-bold mb-6">{{ book.name }} {{ chapter }}</h1>
+<h1 class="page-title">{{ book.name }} {{ chapter }}</h1>
 
-<div id="verse-container">
-  {% include "reader/partials/verse_list.html" %}
-</div>
+{% include "reader/partials/verse_list.html" %}
 
-<!-- Word detail slide-in panel -->
-<div id="word-panel-overlay" class="word-panel-overlay" onclick="closeWordPanel()"></div>
-<div id="word-panel" class="word-panel">
-  <div class="flex justify-between items-center mb-4">
-    <h2 class="font-heading text-lg font-bold">Word Detail</h2>
-    <button onclick="closeWordPanel()" class="text-sand-400 hover:text-earth-700 text-2xl leading-none transition">&times;</button>
-  </div>
-  <div id="word-panel-content">
-    <p class="text-sand-400 text-sm">Click a word to see its details.</p>
-  </div>
-</div>
-
-<!-- Bottom navigation -->
-<div class="mt-8 flex justify-between text-sm">
+<div class="bottom-nav">
   {% if prev_chapter %}
-  <a href="{% url 'chapter-view' book.slug prev_chapter %}"
-     hx-get="{% url 'verse-list-partial' book.slug prev_chapter %}"
-     hx-target="#verse-container"
-     hx-push-url="{% url 'chapter-view' book.slug prev_chapter %}"
-     class="text-earth-700 hover:text-gold-500 transition">&larr; Chapter {{ prev_chapter }}</a>
+  <a href="{% url 'chapter-view' book.slug prev_chapter %}" class="nav-link">&larr; Chapter {{ prev_chapter }}</a>
   {% else %}<span></span>{% endif %}
 
   {% if next_chapter %}
-  <a href="{% url 'chapter-view' book.slug next_chapter %}"
-     hx-get="{% url 'verse-list-partial' book.slug next_chapter %}"
-     hx-target="#verse-container"
-     hx-push-url="{% url 'chapter-view' book.slug next_chapter %}"
-     class="text-earth-700 hover:text-gold-500 transition">Chapter {{ next_chapter }} &rarr;</a>
+  <a href="{% url 'chapter-view' book.slug next_chapter %}" class="nav-link">Chapter {{ next_chapter }} &rarr;</a>
   {% else %}<span></span>{% endif %}
 </div>
 {% endblock %}

@@ -9,36 +9,48 @@
 {% endblock %}
 
 {% block content %}
-<div class="mb-4">
-  <a href="{% url 'verse-view' book.slug chapter verse_num %}" class="text-sm text-earth-700 hover:text-gold-500 transition">&larr; {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
-</div>
+<!-- Breadcrumb -->
+<a href="{% url 'verse-view' book.slug chapter verse_num %}" class="breadcrumb">&larr; {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
 
-<!-- Main word display -->
-<div class="bg-parchment rounded-lg border border-sand-200 shadow-sm p-8 mb-8 text-center">
-  <p class="text-5xl hebrew mb-3" dir="rtl">{{ word.surface }}</p>
+<!-- Hero card -->
+<div class="word-study-hero">
+  <p class="big-hebrew hebrew" dir="rtl">{{ word.surface }}</p>
   {% if transliteration %}
-  <p class="text-xl text-earth-600 italic mb-2">{{ transliteration }}</p>
+  <p class="translit">{{ transliteration }}</p>
   {% endif %}
   {% if gloss %}
-  <p class="text-lg">{{ gloss }}</p>
+  <p class="gloss-large">{{ gloss }}</p>
   {% endif %}
-  <p class="text-sm text-sand-400 mt-3">{{ book.name }} {{ chapter }}:{{ verse_num }} &middot; Word #{{ word.position }}</p>
+  <p class="location">{{ book.name }} {{ chapter }}:{{ verse_num }} &middot; Word #{{ word.position }}</p>
 </div>
 
+<!-- Translation card (HebrewTranslation) -->
+{% if translation %}
+<div class="card mb-card">
+  <div class="card-header">Translation</div>
+  <div class="card-body">
+    <table class="kv-table">
+      {% if translation.phrase %}<tr><td>Phrase</td><td>{{ translation.phrase }}</td></tr>{% endif %}
+      {% if translation.literal %}<tr><td>Literal</td><td>{{ translation.literal }}</td></tr>{% endif %}
+    </table>
+  </div>
+</div>
+{% endif %}
+
 <!-- Verse in context -->
-<div class="mb-8">
-  <h2 class="font-heading text-lg font-semibold mb-3">Verse in Context</h2>
-  <div class="bg-parchment rounded-lg border border-sand-200 shadow-sm p-5">
+<h2 class="section-heading">Verse in Context</h2>
+<div class="card mb-card">
+  <div class="card-body">
     <div class="verse-words">
       {% for w in verse_words %}
       {% if w.id == word.id %}
-      <span class="word-cell bg-gold-400/20 ring-2 ring-gold-400 rounded">
-        <span class="word-surface hebrew font-bold">{{ w.surface }}</span>
-        <span class="word-gloss font-semibold">{{ glosses|dict_get:w.strongs_id }}</span>
+      <span class="word-cell highlight">
+        <span class="word-surface hebrew">{{ w.surface }}</span>
+        <span class="word-gloss">{{ glosses|dict_get:w.strongs_id }}</span>
       </span>
       {% else %}
       <a href="{% url 'word-view' book.slug chapter verse_num w.slug %}"
-         class="word-cell no-underline">
+         class="word-cell">
         <span class="word-surface hebrew">{{ w.surface }}</span>
         <span class="word-gloss">{{ glosses|dict_get:w.strongs_id }}</span>
       </a>
@@ -48,77 +60,102 @@
   </div>
 </div>
 
-<div class="grid md:grid-cols-2 gap-6 mb-8">
-  <!-- Morphology -->
+<!-- Morphology + Lexicon side-by-side -->
+<div class="two-col mb-card">
   {% if analysis %}
-  <div>
-    <h2 class="font-heading text-lg font-semibold mb-3">Morphology</h2>
-    <div class="bg-parchment rounded-lg border border-sand-200 shadow-sm p-5">
-      <table class="w-full text-sm">
-        <tr><td class="text-sand-500 pr-3 py-1">Raw Code</td><td class="font-mono text-xs py-1">{{ word.morphology }}</td></tr>
-        <tr><td class="text-sand-500 pr-3 py-1">Part of Speech</td><td class="py-1">{{ analysis.part_of_speech }}</td></tr>
-        {% if analysis.subtype %}<tr><td class="text-sand-500 pr-3 py-1">Subtype</td><td class="py-1">{{ analysis.subtype }}</td></tr>{% endif %}
-        {% if analysis.binyan %}<tr><td class="text-sand-500 pr-3 py-1">Binyan</td><td class="py-1">{{ analysis.binyan }}</td></tr>{% endif %}
-        {% if analysis.conjugation %}<tr><td class="text-sand-500 pr-3 py-1">Conjugation</td><td class="py-1">{{ analysis.conjugation }}</td></tr>{% endif %}
-        {% if analysis.person %}<tr><td class="text-sand-500 pr-3 py-1">Person</td><td class="py-1">{{ analysis.person }}</td></tr>{% endif %}
-        {% if analysis.gender %}<tr><td class="text-sand-500 pr-3 py-1">Gender</td><td class="py-1">{{ analysis.gender }}</td></tr>{% endif %}
-        {% if analysis.number %}<tr><td class="text-sand-500 pr-3 py-1">Number</td><td class="py-1">{{ analysis.number }}</td></tr>{% endif %}
-        {% if analysis.state %}<tr><td class="text-sand-500 pr-3 py-1">State</td><td class="py-1">{{ analysis.state }}</td></tr>{% endif %}
-        {% if analysis.definiteness %}<tr><td class="text-sand-500 pr-3 py-1">Definiteness</td><td class="py-1">{{ analysis.definiteness }}</td></tr>{% endif %}
-        {% if analysis.suffix_person %}<tr><td class="text-sand-500 pr-3 py-1">Suffix Person</td><td class="py-1">{{ analysis.suffix_person }}</td></tr>{% endif %}
-        {% if analysis.suffix_gender %}<tr><td class="text-sand-500 pr-3 py-1">Suffix Gender</td><td class="py-1">{{ analysis.suffix_gender }}</td></tr>{% endif %}
-        {% if analysis.suffix_number %}<tr><td class="text-sand-500 pr-3 py-1">Suffix Number</td><td class="py-1">{{ analysis.suffix_number }}</td></tr>{% endif %}
+  <div class="card">
+    <div class="card-header">Morphology</div>
+    <div class="card-body">
+      <table class="kv-table">
+        <tr><td>Raw Code</td><td style="font-family:ui-monospace,'Cascadia Code',monospace; font-size:0.875rem;">{{ word.morphology }}</td></tr>
+        <tr><td>Part of Speech</td><td>{{ analysis.part_of_speech }}</td></tr>
+        {% if analysis.subtype %}<tr><td>Subtype</td><td>{{ analysis.subtype }}</td></tr>{% endif %}
+        {% if analysis.binyan %}<tr><td>Binyan</td><td>{{ analysis.binyan }}</td></tr>{% endif %}
+        {% if analysis.conjugation %}<tr><td>Conjugation</td><td>{{ analysis.conjugation }}</td></tr>{% endif %}
+        {% if analysis.person %}<tr><td>Person</td><td>{{ analysis.person }}</td></tr>{% endif %}
+        {% if analysis.gender %}<tr><td>Gender</td><td>{{ analysis.gender }}</td></tr>{% endif %}
+        {% if analysis.number %}<tr><td>Number</td><td>{{ analysis.number }}</td></tr>{% endif %}
+        {% if analysis.state %}<tr><td>State</td><td>{{ analysis.state }}</td></tr>{% endif %}
+        {% if analysis.definiteness %}<tr><td>Definiteness</td><td>{{ analysis.definiteness }}</td></tr>{% endif %}
+        {% if analysis.suffix_person %}<tr><td>Suffix Person</td><td>{{ analysis.suffix_person }}</td></tr>{% endif %}
+        {% if analysis.suffix_gender %}<tr><td>Suffix Gender</td><td>{{ analysis.suffix_gender }}</td></tr>{% endif %}
+        {% if analysis.suffix_number %}<tr><td>Suffix Number</td><td>{{ analysis.suffix_number }}</td></tr>{% endif %}
       </table>
     </div>
   </div>
   {% endif %}
 
-  <!-- Lexicon -->
-  <div>
-    <h2 class="font-heading text-lg font-semibold mb-3">Lexicon</h2>
-    <div class="bg-parchment rounded-lg border border-sand-200 shadow-sm p-5">
-      <table class="w-full text-sm">
-        <tr><td class="text-sand-500 pr-3 py-1">Lemma</td><td class="hebrew text-lg py-1" dir="rtl">{{ word.lemma }}</td></tr>
-        {% if word.strongs_id %}<tr><td class="text-sand-500 pr-3 py-1">Strong's</td><td class="py-1">{{ word.strongs_id }}</td></tr>{% endif %}
-        {% if transliteration %}<tr><td class="text-sand-500 pr-3 py-1">Transliteration</td><td class="py-1 italic">{{ transliteration }}</td></tr>{% endif %}
-        {% if gloss %}<tr><td class="text-sand-500 pr-3 py-1">Gloss</td><td class="py-1">{{ gloss }}</td></tr>{% endif %}
-        {% if definition %}<tr><td class="text-sand-500 pr-3 py-1">Definition</td><td class="py-1 text-xs">{{ definition }}</td></tr>{% endif %}
+  <div class="card">
+    <div class="card-header">Lexicon</div>
+    <div class="card-body">
+      <table class="kv-table">
+        <tr><td>Lemma</td><td class="hebrew" dir="rtl" style="font-size:1.25rem;">{{ word.lemma }}</td></tr>
+        {% if word.strongs_id %}<tr><td>Strong's</td><td>{{ word.strongs_id }}</td></tr>{% endif %}
+        {% if transliteration %}<tr><td>Transliteration</td><td style="font-style:italic;">{{ transliteration }}</td></tr>{% endif %}
+        {% if gloss %}<tr><td>Gloss</td><td>{{ gloss }}</td></tr>{% endif %}
+        {% if definition %}<tr><td>Definition</td><td style="font-size:0.875rem;">{{ definition }}</td></tr>{% endif %}
       </table>
     </div>
   </div>
 </div>
 
-<!-- Morphemes -->
-{% if morphemes %}
-<div class="mb-8">
-  <h2 class="font-heading text-lg font-semibold mb-3">Word Construction</h2>
-  <div class="bg-parchment rounded-lg border border-sand-200 shadow-sm overflow-hidden">
-    <table class="w-full text-sm">
-      <thead class="bg-sand-100">
-        <tr>
-          <th class="px-3 py-2 text-left text-xs font-medium text-sand-500 uppercase">Slot</th>
-          <th class="px-3 py-2 text-left text-xs font-medium text-sand-500 uppercase">Type</th>
-          <th class="px-3 py-2 text-right text-xs font-medium text-sand-500 uppercase">Form</th>
-          <th class="px-3 py-2 text-left text-xs font-medium text-sand-500 uppercase">Gloss</th>
-        </tr>
-      </thead>
-      <tbody class="divide-y divide-sand-200">
-        {% for m in morphemes %}
-        <tr>
-          <td class="px-3 py-2 text-sand-500">{{ m.slot }}</td>
-          <td class="px-3 py-2">{{ m.type }}</td>
-          <td class="px-3 py-2 text-right hebrew text-lg" dir="rtl">{{ m.form }}</td>
-          <td class="px-3 py-2">{{ m.gloss|default:"" }}</td>
-        </tr>
-        {% endfor %}
-      </tbody>
+<!-- Lexical Info card (HebrewLexicalInfo) -->
+{% if lexical_info %}
+<div class="card mb-card">
+  <div class="card-header">Lexical Info</div>
+  <div class="card-body">
+    <table class="kv-table">
+      {% if lexical_info.root %}<tr><td>Root</td><td class="hebrew" dir="rtl" style="font-size:1.25rem;">{{ lexical_info.root }}</td></tr>{% endif %}
+      {% if lexical_info.root_consonants %}<tr><td>Root Consonants</td><td>{{ lexical_info.root_consonants }}</td></tr>{% endif %}
+      {% if lexical_info.gloss_basic %}<tr><td>Basic Gloss</td><td>{{ lexical_info.gloss_basic }}</td></tr>{% endif %}
+      {% if lexical_info.sense %}<tr><td>Sense</td><td>{{ lexical_info.sense }}</td></tr>{% endif %}
     </table>
   </div>
 </div>
 {% endif %}
 
-<div class="mt-8">
-  <a href="{% url 'verse-view' book.slug chapter verse_num %}"
-     class="text-sm text-earth-700 hover:text-gold-500 transition">&larr; Back to {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
+<!-- Word Construction table -->
+{% if morphemes %}
+<div class="card mb-card">
+  <div class="card-header">Word Construction</div>
+  <table class="detail-table">
+    <thead>
+      <tr>
+        <th>Slot</th>
+        <th>Type</th>
+        <th class="text-right">Form</th>
+        <th>Gloss</th>
+        <th>Root</th>
+        <th>Binyan</th>
+        <th>PGN</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for m in morphemes %}
+      <tr>
+        <td class="col-muted">{{ m.slot }}</td>
+        <td>{{ m.type }}</td>
+        <td class="col-hebrew hebrew" dir="rtl">{{ m.form }}</td>
+        <td>{{ m.gloss|default:"" }}</td>
+        <td>{% if m.root %}<span class="hebrew" dir="rtl">{{ m.root }}</span>{% endif %}</td>
+        <td>{{ m.binyan|default:"" }}</td>
+        <td class="col-muted">{% if m.person %}{{ m.person }}{% endif %}{% if m.gender %}{{ m.gender }}{% endif %}{% if m.number %}{{ m.number }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}
+
+<!-- Deep Dive placeholder -->
+<div class="deep-dive-placeholder">
+  <p class="placeholder-title">Deep Dive</p>
+  <p>Comprehensive word study coming soon — usage across Scripture, semantic range, and related roots.</p>
+</div>
+
+<!-- Back link -->
+<div class="bottom-nav">
+  <a href="{% url 'verse-view' book.slug chapter verse_num %}" class="nav-link">&larr; Back to {{ book.name }} {{ chapter }}:{{ verse_num }}</a>
+  <span></span>
 </div>
 {% endblock %}

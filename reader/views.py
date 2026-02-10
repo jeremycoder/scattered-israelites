@@ -46,7 +46,7 @@ def chapter_list(request, book_slug):
 
 
 def _get_chapter_context(book, chapter):
-    """Shared context builder for chapter view and verse list partial."""
+    """Shared context builder for chapter view."""
     verses_qs = (
         Verse.objects.filter(book=book, chapter=chapter)
         .prefetch_related('wordoccurrence_set__hebrew_analysis')
@@ -93,41 +93,6 @@ def chapter_view(request, book_slug, chapter):
     book = get_object_or_404(Book, slug=book_slug)
     ctx = _get_chapter_context(book, chapter)
     return render(request, 'reader/chapter_view.html', ctx)
-
-
-def verse_list_partial(request, book_slug, chapter):
-    book = get_object_or_404(Book, slug=book_slug)
-    ctx = _get_chapter_context(book, chapter)
-    return render(request, 'reader/partials/verse_list.html', ctx)
-
-
-def word_detail_partial(request, pk):
-    word = get_object_or_404(
-        WordOccurrence.objects.select_related('verse__book', 'hebrew_analysis'),
-        pk=pk,
-    )
-    analysis = None
-    try:
-        analysis = word.hebrew_analysis
-    except HebrewMorphAnalysis.DoesNotExist:
-        pass
-
-    gloss = ''
-    definition = ''
-    if word.strongs_id:
-        try:
-            lex = Lexeme.objects.get(strongs_id=word.strongs_id)
-            gloss = lex.gloss
-            definition = lex.definition
-        except Lexeme.DoesNotExist:
-            pass
-
-    return render(request, 'reader/partials/word_detail.html', {
-        'word': word,
-        'analysis': analysis,
-        'gloss': gloss,
-        'definition': definition,
-    })
 
 
 def verse_view(request, book_slug, chapter, verse_num):
@@ -179,7 +144,11 @@ def word_view(request, book_slug, chapter, verse_num, word_slug):
     book = get_object_or_404(Book, slug=book_slug)
     verse = get_object_or_404(Verse, book=book, chapter=chapter, verse=verse_num)
     word = get_object_or_404(
-        WordOccurrence.objects.select_related('hebrew_analysis'),
+        WordOccurrence.objects.select_related(
+            'hebrew_analysis',
+            'hebrew_translation',
+            'hebrew_lexical',
+        ),
         verse=verse,
         slug=word_slug,
     )
@@ -189,6 +158,9 @@ def word_view(request, book_slug, chapter, verse_num, word_slug):
         analysis = word.hebrew_analysis
     except HebrewMorphAnalysis.DoesNotExist:
         pass
+
+    translation = getattr(word, 'hebrew_translation', None)
+    lexical_info = getattr(word, 'hebrew_lexical', None)
 
     gloss = ''
     definition = ''
@@ -235,6 +207,8 @@ def word_view(request, book_slug, chapter, verse_num, word_slug):
         'verse_num': verse_num,
         'word': word,
         'analysis': analysis,
+        'translation': translation,
+        'lexical_info': lexical_info,
         'gloss': gloss,
         'definition': definition,
         'transliteration': transliteration,

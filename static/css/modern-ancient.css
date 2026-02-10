@@ -1,0 +1,537 @@
+/* ================================================================
+   "Modern Ancient" Palette — Scattered Israelites Bible
+   ================================================================
+   Design direction: museum editorial typography.
+   High contrast, warm accents, clean white content areas.
+
+   FONT STACK
+   Headings:  Cinzel           — ancient feel at display sizes
+   Body:      Inter            — designed for screens; tall x-height,
+                                 open apertures, zero reading fatigue
+   Hebrew:    Noto Sans Hebrew — matches sans-serif direction,
+                                 reliable cross-device rendering
+   Mono:      system ui-monospace stack
+
+   PALETTE TOKENS
+   --charcoal-900:  #1C1917   nav/footer background
+   --charcoal-800:  #292524   secondary dark
+   --charcoal-700:  #44403C   dark accents
+
+   --warm-50:       #FAFAF9   page background (near-white, warm)
+   --warm-100:      #F5F5F4   card backgrounds
+   --warm-200:      #E7E5E4   borders, dividers
+   --warm-300:      #D6D3D1   muted borders
+
+   --text-primary:  #1C1917   body text (near-black, warm)
+   --text-secondary:#57534E   secondary text (stone-600)
+   --text-muted:    #6B6560   muted labels (darkened for AA)
+
+   --terracotta:    #C2410C   primary accent (links, active)
+   --terracotta-dk: #9A3412   hover state
+   --gold:          #B45309   secondary accent (headings, highlights)
+   --gold-light:    #F59E0B   nav accent border
+   --olive:         #4D7C0F   tertiary accent (section headings)
+   --olive-dark:    #3F6212   hover
+   ================================================================ */
+
+:root {
+  --charcoal-900: #1C1917;
+  --charcoal-800: #292524;
+  --charcoal-700: #44403C;
+
+  --warm-50:  #FAFAF9;
+  --warm-100: #F5F5F4;
+  --warm-200: #E7E5E4;
+  --warm-300: #D6D3D1;
+
+  --text-primary:   #1C1917;
+  --text-secondary: #57534E;
+  --text-muted:     #6B6560;
+
+  --terracotta:    #C2410C;
+  --terracotta-dk: #9A3412;
+  --gold:          #B45309;
+  --gold-light:    #F59E0B;
+  --olive:         #4D7C0F;
+  --olive-dark:    #3F6212;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  font-size: 1.125rem;
+  color: var(--text-primary);
+  background: var(--warm-50);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+}
+
+.hebrew {
+  font-family: "Noto Sans Hebrew", "Noto Serif Hebrew", "SBL Hebrew", sans-serif;
+}
+
+/* Layout */
+.container { max-width: 72rem; margin: 0 auto; width: 100%; padding: 0 1rem; }
+main { flex: 1; padding: 1.5rem 1rem; }
+main .container { padding: 0; }
+
+/* ---- NAV ---- */
+nav {
+  background: var(--charcoal-900);
+  border-bottom: 3px solid var(--gold-light);
+  padding: 0.75rem 1rem;
+}
+nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav .site-title {
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  font-size: 1.375rem;
+  color: #FAFAF9;
+  text-decoration: none;
+  letter-spacing: -0.01em;
+}
+nav .nav-links { display: flex; gap: 1.25rem; }
+nav .nav-links a {
+  color: #D6D3D1;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+nav .nav-links a:hover { color: var(--gold-light); }
+
+/* ---- SECTION HEADINGS ---- */
+.section-divider {
+  margin: 2.5rem 0 0;
+  padding: 1.5rem 0 0.5rem;
+  border-top: 2px solid var(--warm-200);
+}
+.section-divider:first-child { margin-top: 0; border-top: none; padding-top: 0; }
+.section-divider h2 {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+
+/* ---- PAGE TITLES ---- */
+h1.page-title {
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+.page-subtitle {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+.division-heading {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: var(--olive);
+  margin-bottom: 0.75rem;
+}
+.division-heading span {
+  font-family: "Inter", system-ui, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--text-muted);
+}
+
+/* ---- BOOK LIST ---- */
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+.book-card {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  text-align: center;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  min-width: 0;
+  color: var(--text-primary);
+  background: white;
+  border: 1px solid var(--warm-200);
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.book-card:hover {
+  border-color: var(--terracotta);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+/* ---- CHAPTER GRID ---- */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
+  gap: 0.375rem;
+}
+.chapter-tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  background: white;
+  border: 1px solid var(--warm-200);
+  border-radius: 0.375rem;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.chapter-tile:hover {
+  border-color: var(--terracotta);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+/* ---- VERSE DISPLAY ---- */
+.verse-block { margin-bottom: 1.5rem; }
+.verse-words {
+  direction: rtl;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+.word-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.5rem 0.625rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  direction: ltr;
+  transition: background-color 0.15s;
+  text-decoration: none;
+  color: inherit;
+}
+.word-cell:hover { background-color: var(--warm-100); }
+.word-cell.active { background-color: var(--warm-200); }
+.word-surface {
+  font-size: 1.75rem;
+  line-height: 2.25rem;
+  direction: rtl;
+  color: var(--text-primary);
+}
+.word-gloss {
+  font-size: 0.975rem;
+  line-height: 1.375rem;
+  color: var(--text-secondary);
+}
+.word-morph-code {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: var(--text-muted);
+  font-family: ui-monospace, "Cascadia Code", "Fira Code", monospace;
+}
+.verse-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.75rem;
+  height: 1.75rem;
+  padding: 0 0.25rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--terracotta);
+  background: transparent;
+  border-radius: 9999px;
+  margin-left: 0.25rem;
+  direction: ltr;
+  text-decoration: none;
+  transition: background-color 0.15s;
+}
+.verse-number:hover {
+  background-color: var(--warm-100);
+}
+
+/* ---- WORD DETAIL TABLE ---- */
+.detail-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+}
+.detail-table thead th {
+  padding: 0.625rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  background: var(--warm-100);
+  text-align: left;
+  border-bottom: 1px solid var(--warm-200);
+}
+.detail-table thead th.text-right { text-align: right; }
+.detail-table tbody td {
+  padding: 0.625rem 0.75rem;
+  border-bottom: 1px solid var(--warm-200);
+  color: var(--text-primary);
+}
+.detail-table tbody tr:last-child td { border-bottom: none; }
+.detail-table tbody tr:hover { background: var(--warm-50); }
+.detail-table .col-muted { color: var(--text-muted); }
+.detail-table .col-mono {
+  font-family: ui-monospace, "Cascadia Code", "Fira Code", monospace;
+  font-size: 0.9125rem;
+  color: var(--text-secondary);
+}
+.detail-table .col-hebrew {
+  font-size: 1.25rem;
+  direction: rtl;
+  text-align: right;
+}
+.detail-table .col-link {
+  color: var(--terracotta);
+  text-decoration: none;
+}
+.detail-table .col-link:hover { color: var(--terracotta-dk); text-decoration: underline; }
+
+/* ---- CARD ---- */
+.card {
+  background: white;
+  border: 1px solid var(--warm-200);
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+.card-body { padding: 1.25rem; }
+.card-header {
+  padding: 0.75rem 1.25rem;
+  background: var(--warm-100);
+  border-bottom: 1px solid var(--warm-200);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+}
+
+/* ---- WORD STUDY CARD ---- */
+.word-study-hero {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  background: white;
+  border: 1px solid var(--warm-200);
+  border-radius: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.word-study-hero .big-hebrew {
+  font-size: 4rem;
+  line-height: 1.2;
+  color: var(--text-primary);
+  direction: rtl;
+  margin-bottom: 0.5rem;
+}
+.word-study-hero .translit {
+  font-size: 1.375rem;
+  font-style: italic;
+  color: var(--gold);
+  margin-bottom: 0.25rem;
+}
+.word-study-hero .gloss-large {
+  font-size: 1.25rem;
+  color: var(--text-primary);
+}
+.word-study-hero .location {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-top: 0.75rem;
+}
+
+/* KV table inside cards */
+.kv-table { width: 100%; font-size: 0.9375rem; border-collapse: collapse; }
+.kv-table td { padding: 0.375rem 0; }
+.kv-table td:first-child {
+  color: var(--text-muted);
+  padding-right: 0.75rem;
+  white-space: nowrap;
+  width: 40%;
+}
+.kv-table td:last-child { color: var(--text-primary); }
+.kv-table tr + tr td { border-top: 1px solid var(--warm-100); }
+
+/* ---- BREADCRUMB / NAV LINKS ---- */
+.breadcrumb {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+}
+.breadcrumb a, a.breadcrumb, .nav-link {
+  font-size: 0.9375rem;
+  color: var(--terracotta);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.breadcrumb a:hover, a.breadcrumb:hover, .nav-link:hover {
+  color: var(--terracotta-dk);
+  text-decoration: underline;
+}
+
+/* Top navigation bar between breadcrumb and prev/next */
+.page-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+.page-nav-links {
+  display: flex;
+  gap: 0.75rem;
+}
+
+/* Bottom prev/next navigation */
+.bottom-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  font-size: 0.9375rem;
+}
+
+/* ---- HIGHLIGHTED WORD (in-context) ---- */
+.word-cell.highlight {
+  background: rgba(180, 83, 9, 0.1);
+  outline: 2px solid var(--gold);
+  border-radius: 0.375rem;
+}
+.word-cell.highlight .word-surface { font-weight: 700; }
+.word-cell.highlight .word-gloss { font-weight: 600; }
+
+/* ---- SECTION HEADING (inline) ---- */
+.section-heading {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+/* ---- DOWNLOAD LINKS ---- */
+.download-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.download-links a {
+  font-size: 0.9375rem;
+  color: var(--terracotta);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.download-links a:hover {
+  color: var(--terracotta-dk);
+  text-decoration: underline;
+}
+
+/* ---- DEEP DIVE PLACEHOLDER ---- */
+.deep-dive-placeholder {
+  margin-top: 1.5rem;
+  padding: 2rem;
+  text-align: center;
+  border: 2px dashed var(--warm-300);
+  border-radius: 0.75rem;
+  color: var(--text-muted);
+}
+.deep-dive-placeholder .placeholder-title {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-secondary);
+}
+
+/* Spacing utility */
+.mb-card { margin-bottom: 1.5rem; }
+
+/* ---- ACCESSIBILITY ---- */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  z-index: 100;
+  padding: 0.75rem 1.25rem;
+  background: var(--charcoal-900);
+  color: #FAFAF9;
+  font-weight: 600;
+  border-radius: 0 0 0.5rem 0.5rem;
+  text-decoration: none;
+  transition: top 0.15s;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* Focus ring for keyboard navigation */
+a:focus-visible,
+button:focus-visible,
+.word-cell:focus-visible,
+.book-card:focus-visible,
+.chapter-tile:focus-visible {
+  outline: 3px solid var(--terracotta);
+  outline-offset: 2px;
+  border-radius: 0.25rem;
+}
+/* Remove default outline since we handle it with focus-visible */
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* ---- FOOTER ---- */
+footer {
+  margin-top: 3rem;
+  background: var(--charcoal-900);
+  border-top: 3px solid var(--gold-light);
+  padding: 2rem 1rem;
+  text-align: center;
+}
+footer .ministry-name {
+  font-family: "Cinzel", serif;
+  font-size: 1.25rem;
+  color: #FAFAF9;
+  margin-bottom: 0.375rem;
+}
+footer .tagline {
+  font-size: 0.9375rem;
+  color: #D6D3D1;
+  margin-bottom: 1rem;
+}
+footer .attribution {
+  font-size: 0.8125rem;
+  color: #A8A29E;
+}
+footer .attribution a {
+  color: #D6D3D1;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.15s;
+}
+footer .attribution a:hover { color: var(--gold-light); }
+
+/* ---- TWO-COLUMN LAYOUT ---- */
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 640px) {
+  body { font-size: 1rem; }
+  .book-grid { grid-template-columns: repeat(3, 1fr); }
+  .chapter-grid { grid-template-columns: repeat(5, 1fr); }
+  h1.page-title { font-size: 1.5rem; }
+  .word-study-hero .big-hebrew { font-size: 3rem; }
+  .two-col { grid-template-columns: 1fr !important; }
+}

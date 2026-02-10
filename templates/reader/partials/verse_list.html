@@ -1,19 +1,17 @@
 {% load reader_tags %}
 
 {% for verse in verses %}
-<div class="mb-6">
+<div class="verse-block">
   <div class="verse-words">
     <a href="{% url 'verse-view' book.slug chapter verse.verse %}"
-       class="verse-number hover:bg-sand-100 hover:text-gold-600 transition">{{ verse.verse }}</a>
+       class="verse-number">{{ verse.verse }}</a>
     {% for word in verse.words %}
-    <span class="word-cell"
-          hx-get="{% url 'word-detail-partial' word.id %}"
-          hx-target="#word-panel-content"
-          onclick="document.querySelectorAll('.word-cell.active').forEach(el => el.classList.remove('active')); this.classList.add('active');">
+    <a href="{% url 'word-view' book.slug chapter verse.verse word.slug %}"
+       class="word-cell">
       <span class="word-surface hebrew">{{ word.surface }}</span>
       <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
       <span class="word-morph-code">{{ word.morphology }}</span>
-    </span>
+    </a>
     {% endfor %}
   </div>
 </div>

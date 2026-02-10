@@ -2,24 +2,19 @@
 {% block title %}{{ book.name }} — Scattered Israelites Bible{% endblock %}
 
 {% block content %}
-<div class="mb-4">
-  <a href="{% url 'book-list' %}" class="text-sm text-earth-700 hover:text-gold-500 transition">&larr; All Books</a>
-</div>
+<a href="{% url 'book-list' %}" class="breadcrumb">&larr; All Books</a>
 
-<h1 class="font-heading text-2xl font-bold mb-2">{{ book.name }}</h1>
-<p class="text-sm text-sand-500 mb-6">{{ book.get_testament_display }} &middot; {{ chapters|length }} chapters</p>
+<h1 class="page-title">{{ book.name }}</h1>
+<p class="page-subtitle">{{ book.get_testament_display }} &middot; {{ chapters|length }} chapters</p>
 
-<div class="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 lg:grid-cols-12 gap-2 mb-8">
+<div class="chapter-grid">
   {% for ch in chapters %}
-  <a href="{% url 'chapter-view' book.slug ch %}"
-     class="block rounded border border-sand-200 bg-parchment py-2 text-center text-sm font-medium shadow-sm hover:border-gold-400 hover:shadow-md transition">
-    {{ ch }}
-  </a>
+  <a href="{% url 'chapter-view' book.slug ch %}" class="chapter-tile">{{ ch }}</a>
   {% endfor %}
 </div>
 
-<div class="flex gap-4 text-sm">
-  <a href="{% url 'api-export-json' book.osis_id %}" class="text-earth-700 hover:text-gold-500 transition">Download JSON</a>
-  <a href="{% url 'api-export-csv' book.osis_id %}" class="text-earth-700 hover:text-gold-500 transition">Download CSV</a>
+<div class="download-links">
+  <a href="{% url 'api-export-json' book.osis_id %}">Download JSON</a>
+  <a href="{% url 'api-export-csv' book.osis_id %}">Download CSV</a>
 </div>
 {% endblock %}
