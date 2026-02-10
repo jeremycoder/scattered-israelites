@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And God said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֗ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יְהִ֤י",
+        "phrase": "Let there be",
+        "literal": "let_be",
+        "source": "KJV, ESV, NASB (jussive of hayah)"
+      },
+      {
+        "position": 4,
+        "surface": "מְאֹרֹת֙",
+        "phrase": "lights",
+        "literal": "luminaries",
+        "source": "KJV (lights), ESV (lights), NASB (lights); from or (light)"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/רְקִ֣יעַ",
+        "phrase": "in the expanse",
+        "literal": "in_expansion",
+        "source": "ESV (expanse), NASB (expanse), KJV (firmament); bi + rqia construct"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "of the heavens",
+        "literal": "the_heavens",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/הַבְדִּ֕יל",
+        "phrase": "to separate",
+        "literal": "to_divide",
+        "source": "KJV, ESV, NASB (infinitive construct Hiphil of badal)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֖וֹם",
+        "phrase": "the day",
+        "literal": "the_day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/לָּ֑יְלָה",
+        "phrase": "the night",
+        "literal": "the_night",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הָי֤וּ",
+        "phrase": "and let them be",
+        "literal": "and-they_be",
+        "source": "KJV, ESV, NASB (cohortative perfect of hayah)"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/אֹתֹת֙",
+        "phrase": "for signs",
+        "literal": "for-signs",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/לְ/מ֣וֹעֲדִ֔ים",
+        "phrase": "for seasons",
+        "literal": "and-for-appointed_times",
+        "source": "KJV (seasons), ESV (seasons), NASB (seasons)"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/לְ/יָמִ֖ים",
+        "phrase": "for days",
+        "literal": "and-for-days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/שָׁנִֽים",
+        "phrase": "and years",
+        "literal": "and-years",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

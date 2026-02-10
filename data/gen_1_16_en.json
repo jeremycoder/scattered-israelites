@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "and made",
+        "literal": "and-made",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect 3ms of עשה)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "untranslatable particle; KJV, ESV, NASB (accusative marker)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁנֵ֥י",
+        "phrase": "two",
+        "literal": "two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מְּאֹרֹ֖ת",
+        "phrase": "lights",
+        "literal": "the-luminaries",
+        "source": "KJV (lights), ESV (lights), NASB (lights)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גְּדֹלִ֑ים",
+        "phrase": "great",
+        "literal": "the-great-[ones]",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "untranslatable particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מָּא֤וֹר",
+        "phrase": "light",
+        "literal": "the-luminary",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/גָּדֹל֙",
+        "phrase": "greater",
+        "literal": "the-great",
+        "source": "KJV (greater light), ESV (greater light), NASB (greater light)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מֶמְשֶׁ֣לֶת",
+        "phrase": "to rule",
+        "literal": "for-rule",
+        "source": "KJV (to rule), ESV (to rule), NASB (for the rule)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יּ֔וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מָּא֤וֹר",
+        "phrase": "light",
+        "literal": "the-luminary",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/קָּטֹן֙",
+        "phrase": "lesser",
+        "literal": "the-small",
+        "source": "KJV (lesser light), ESV (lesser light), NASB (lesser light)"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/מֶמְשֶׁ֣לֶת",
+        "phrase": "to rule",
+        "literal": "for-rule",
+        "source": "KJV (to rule), ESV (to rule), NASB (for the rule)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/לַּ֔יְלָה",
+        "phrase": "the night",
+        "literal": "the-night",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "KJV, ESV, NASB (variant of את)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/כּוֹכָבִֽים",
+        "phrase": "the stars",
+        "literal": "the-stars",
+        "source": "KJV, ESV, NASB (no verb in Hebrew; supplied in translations)"
+      }
+    ]
+  }
+]

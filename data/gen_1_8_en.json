@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֧א",
+        "phrase": "and called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB (vayyiqra, waw-consecutive qal imperfect from qara)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (Elohim, divine name)"
+      },
+      {
+        "position": 3,
+        "surface": "לָֽ/רָקִ֖יעַ",
+        "phrase": "the firmament",
+        "literal": "to-the_expansion/firmament",
+        "source": "KJV (firmament), ESV (expanse), NASB (expanse); raqia‘ from raqa‘ 'to beat out'"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁמָ֑יִם",
+        "phrase": "Heaven",
+        "literal": "skies/heavens",
+        "source": "KJV, ESV, NASB (shamayim, dual form meaning skies)"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and it was",
+        "literal": "and-it_became",
+        "source": "KJV, ESV, NASB (vayhi, waw-consecutive qal imperfect from hayah)"
+      },
+      {
+        "position": 6,
+        "surface": "עֶ֥רֶב",
+        "phrase": "evening",
+        "literal": "evening",
+        "source": "KJV, ESV, NASB (‘erev)"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and it was",
+        "literal": "and-it_became",
+        "source": "KJV, ESV, NASB (vayhi, waw-consecutive qal imperfect from hayah)"
+      },
+      {
+        "position": 8,
+        "surface": "בֹ֖קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "KJV, ESV, NASB (boqer)"
+      },
+      {
+        "position": 9,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB (yom)"
+      },
+      {
+        "position": 10,
+        "surface": "שֵׁנִֽי",
+        "phrase": "second",
+        "literal": "second",
+        "source": "KJV, ESV, NASB (sheni, ordinal from shenayim)"
+      }
+    ]
+  }
+]

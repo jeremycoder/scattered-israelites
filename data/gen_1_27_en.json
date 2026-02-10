@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּבְרָ֨א",
+        "phrase": "and he created",
+        "literal": "and-he_created",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/אָדָם֙",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV (man), ESV (mankind), NASB (man); ha-adam as 'the man' or 'humankind'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/צַלְמ֔/וֹ",
+        "phrase": "in his image",
+        "literal": "in-image-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/צֶ֥לֶם",
+        "phrase": "in image",
+        "literal": "in-image",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "of_God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בָּרָ֣א",
+        "phrase": "he created",
+        "literal": "he_created",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֹת֑/וֹ",
+        "phrase": "him",
+        "literal": "[dom]-him",
+        "source": "KJV, ESV, NASB; et as direct object marker"
+      },
+      {
+        "position": 10,
+        "surface": "זָכָ֥ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/נְקֵבָ֖ה",
+        "phrase": "and female",
+        "literal": "and-female",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בָּרָ֥א",
+        "phrase": "he created",
+        "literal": "he_created",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "them",
+        "literal": "[dom]-them",
+        "source": "KJV, ESV, NASB; et as direct object marker"
+      }
+    ]
+  }
+]

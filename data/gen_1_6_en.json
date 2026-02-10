@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive Qal imperfect 3ms from אמר)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (proper name, mp abs but singular)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהִ֥י",
+        "phrase": "let there be",
+        "literal": "let_it_be",
+        "source": "KJV, ESV, NASB (jussive Qal imperfect 3ms from היה)"
+      },
+      {
+        "position": 4,
+        "surface": "רָקִ֖יעַ",
+        "phrase": "an expanse",
+        "literal": "expanse",
+        "source": "ESV, NASB (firmament-KJV); from רקע 'to spread out'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/ת֣וֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst_of",
+        "source": "KJV, ESV, NASB (בְּ + תוֹךְ 'midst')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מָּ֑יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB (def art + dual mp 'waters')"
+      },
+      {
+        "position": 7,
+        "surface": "וִ/יהִ֣י",
+        "phrase": "and let it be",
+        "literal": "and-let_it_be",
+        "source": "KJV, ESV, NASB (waw + jussive Qal imperfect 3ms from היה)"
+      },
+      {
+        "position": 8,
+        "surface": "מַבְדִּ֔יל",
+        "phrase": "separating",
+        "literal": "separating",
+        "source": "ESV, NASB (Hiphil participle ms abs from בדל)"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מַ֖יִם",
+        "phrase": "waters",
+        "literal": "waters",
+        "source": "KJV, ESV, NASB (dual mp construct 'waters')"
+      },
+      {
+        "position": 11,
+        "surface": "לָ/מָֽיִם",
+        "phrase": "from waters",
+        "literal": "to-waters",
+        "source": "KJV, ESV, NASB (לְ + dual mp 'waters')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּרְא",
+        "phrase": "And God saw",
+        "literal": "and-he-saw",
+        "source": "KJV, NASB, ESV; wayyiqtol form of ראה (ra'ah)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NASB, ESV; masculine plural noun used as singular for deity"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "all",
+        "literal": "direct-object-marker",
+        "source": "KJV, NASB, ESV; particle marking direct object"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NASB, ESV; masculine singular construct noun"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "KJV, NASB, ESV; relative pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָׂה",
+        "phrase": "he had made",
+        "literal": "he-made",
+        "source": "KJV, NASB, ESV; qatal form of עשה (asah)"
+      },
+      {
+        "position": 7,
+        "surface": "וְהִנֵּה",
+        "phrase": "and behold/and wow",
+        "literal": "and-behold",
+        "source": "KJV 'behold'; colloquial rendering 'wow' per source [1]; particle hinneh marking perspective shift"
+      },
+      {
+        "position": 8,
+        "surface": "טוֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, NASB, ESV; masculine singular adjective"
+      },
+      {
+        "position": 9,
+        "surface": "מְאֹד",
+        "phrase": "very/really",
+        "literal": "very/much",
+        "source": "KJV 'very'; source [1] notes me'od is a noun meaning 'might' or 'very much'"
+      },
+      {
+        "position": 10,
+        "surface": "וַיְהִי",
+        "phrase": "And there was",
+        "literal": "and-there-was",
+        "source": "KJV, NASB, ESV; wayyiqtol form of היה (hayah)"
+      },
+      {
+        "position": 11,
+        "surface": "עֶרֶב",
+        "phrase": "evening",
+        "literal": "evening",
+        "source": "KJV, NASB, ESV; masculine singular noun"
+      },
+      {
+        "position": 12,
+        "surface": "וַיְהִי",
+        "phrase": "and there was",
+        "literal": "and-there-was",
+        "source": "KJV, NASB, ESV; wayyiqtol form of היה (hayah)"
+      },
+      {
+        "position": 13,
+        "surface": "בֹקֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "KJV, NASB, ESV; masculine singular noun"
+      },
+      {
+        "position": 14,
+        "surface": "יוֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, NASB, ESV; masculine singular noun"
+      },
+      {
+        "position": 15,
+        "surface": "הַשִּׁשִּׁי",
+        "phrase": "the sixth",
+        "literal": "the-sixth",
+        "source": "KJV, NASB, ESV; definite ordinal adjective"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּקְרָ֨א",
+        "phrase": "and he called",
+        "literal": "and-he.called",
+        "source": "ESV, NASB, KJV; converted imperfect (preterite) form of קרא (qara, to call)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "ESV, NASB, KJV; masculine plural absolute (treated as singular with singular verb)"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/אוֹר֙",
+        "phrase": "to the light",
+        "literal": "to-the.light",
+        "source": "ESV, NASB, KJV; preposition ל (to) + definite article ה + אור (light)"
+      },
+      {
+        "position": 4,
+        "surface": "י֔וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "ESV, NASB, KJV; masculine singular absolute"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לַ/חֹ֖שֶׁךְ",
+        "phrase": "and to the darkness",
+        "literal": "and-to-the.darkness",
+        "source": "ESV, NASB, KJV; conjunction ו + preposition ל + definite article ה + חשך (darkness)"
+      },
+      {
+        "position": 6,
+        "surface": "קָ֣רָא",
+        "phrase": "he called",
+        "literal": "he.called",
+        "source": "ESV, NASB, KJV; converted imperfect (preterite) form of קרא (qara, to call)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ֑יְלָה",
+        "phrase": "night",
+        "literal": "night",
+        "source": "ESV, NASB, KJV; feminine singular absolute; note: לילה (lailah) means night"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and there was",
+        "literal": "and-there.was",
+        "source": "ESV, NASB, KJV; conjunction ו + converted imperfect of היה (hayah, to be)"
+      },
+      {
+        "position": 9,
+        "surface": "עֶ֥רֶב",
+        "phrase": "evening",
+        "literal": "evening",
+        "source": "ESV, NASB, KJV; masculine singular absolute"
+      },
+      {
+        "position": 10,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and there was",
+        "literal": "and-there.was",
+        "source": "ESV, NASB, KJV; conjunction ו + converted imperfect of היה (hayah, to be)"
+      },
+      {
+        "position": 11,
+        "surface": "בֹ֖קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "ESV, NASB, KJV; masculine singular absolute"
+      },
+      {
+        "position": 12,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "ESV, NASB, KJV; masculine singular absolute"
+      },
+      {
+        "position": 13,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "ESV, NASB, KJV; masculine singular absolute; literally 'day one' (yom echad) rather than 'the first day'"
+      }
+    ]
+  }
+]

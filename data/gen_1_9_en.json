@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "And God said",
+        "literal": "and-he-said",
+        "source": "Converted imperfect with vav-consecutive; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Masculine plural noun (often treated as singular in English); KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יִקָּוּ",
+        "phrase": "let be gathered",
+        "literal": "let-gather-they",
+        "source": "Imperfect with jussive force (cohortative/imperative sense); KJV 'Let...be gathered', ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הַמַּיִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "Definite masculine plural noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִתַּחַת",
+        "phrase": "from under",
+        "literal": "from-under",
+        "source": "Preposition min + noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַשָּׁמַיִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "Definite masculine plural noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition indicating direction; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מָקוֹם",
+        "phrase": "one place",
+        "literal": "place",
+        "source": "Masculine singular noun from root meaning 'to stand'; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶחָד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "Masculine singular numeral; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְתֵרָאֶה",
+        "phrase": "and let appear",
+        "literal": "and-appear-she",
+        "source": "Converted imperfect with jussive force; KJV 'let...appear', ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַיַּבָּשָׁה",
+        "phrase": "the dry land",
+        "literal": "the-dry-land",
+        "source": "Definite feminine singular noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַיְהִי",
+        "phrase": "and it was",
+        "literal": "and-it-was",
+        "source": "Converted imperfect of היה (to be); KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "כֵן",
+        "phrase": "so",
+        "literal": "so",
+        "source": "Adverb of affirmation; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּבְרָ֣א",
+        "phrase": "and created",
+        "literal": "and-he-created",
+        "source": "KJV, ESV, NASB, NET (waw-consecutive imperfect of bara 'create')"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar (untranslated marker)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/תַּנִּינִ֖ם",
+        "phrase": "the great sea creatures",
+        "literal": "the-sea-monsters",
+        "source": "NET ('sea creatures'), KJV ('whales'), ESV ('sea creatures'), NASB ('sea monsters')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גְּדֹלִ֑ים",
+        "phrase": "the great",
+        "literal": "the-great-PL",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֣ת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "standard Hebrew grammar (untranslated marker)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "every-all",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "נֶ֣פֶשׁ",
+        "phrase": "living creature",
+        "literal": "soul-life-breath",
+        "source": "NET ('living'), KJV ('moving creature'), ESV ('living creature'), NASB ('living thing')"
+      },
+      {
+        "position": 9,
+        "surface": "הַֽ/חַיָּ֣ה",
+        "phrase": "living",
+        "literal": "the-living",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "הָֽ/רֹמֶ֡שֶׂת",
+        "phrase": "that moves",
+        "literal": "the-moving-creeping",
+        "source": "KJV ('moving'), ESV ('moves'), NASB ('moves'), NET ('moving')"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "that",
+        "literal": "which-that",
+        "source": "KJV, ESV, NASB, NET (relative pronoun)"
+      },
+      {
+        "position": 12,
+        "surface": "שָׁרְצ֨וּ",
+        "phrase": "swarmed",
+        "literal": "they-swarmed-teemed",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מַּ֜יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/מִֽינֵ/הֶ֗ם",
+        "phrase": "according to their kinds",
+        "literal": "to-kind-their",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אֵ֨ת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "standard Hebrew grammar (untranslated marker)"
+      },
+      {
+        "position": 16,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "every-all",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 17,
+        "surface": "ע֤וֹף",
+        "phrase": "bird",
+        "literal": "bird-fowl",
+        "source": "KJV ('fowl'), ESV ('winged bird'), NASB ('winged bird'), NET ('winged bird')"
+      },
+      {
+        "position": 18,
+        "surface": "כָּנָף֙",
+        "phrase": "winged",
+        "literal": "wing",
+        "source": "KJV ('fowl'), ESV ('winged'), NASB ('winged'), NET ('winged')"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/מִינֵ֔/הוּ",
+        "phrase": "according to its kind",
+        "literal": "to-kind-its",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 20,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB, NET (waw-consecutive imperfect of ra'ah)"
+      },
+      {
+        "position": 21,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 22,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that-because",
+        "source": "KJV, ESV, NASB, NET (introduces result clause)"
+      },
+      {
+        "position": 23,
+        "surface": "טֽוֹב",
+        "phrase": "it was good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

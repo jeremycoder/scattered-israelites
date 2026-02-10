@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְבָ֧רֶךְ",
+        "phrase": "blessed",
+        "literal": "and-he/she-blessed",
+        "source": "KJV, NASB, ESV; wayyiqtol form of בָּרַךְ (barak)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֛ם",
+        "phrase": "them",
+        "literal": "direct-object-marker-them",
+        "source": "KJV, NASB, ESV; את (et) + 3mp suffix"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NASB, ESV; elohim (divine name)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵאמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, NASB, ESV; infinitive construct of אָמַר (amar) with preposition ל"
+      },
+      {
+        "position": 5,
+        "surface": "פְּר֣וּ",
+        "phrase": "be fruitful",
+        "literal": "bear-fruit",
+        "source": "KJV, NASB, ESV; imperative masculine plural of פָּרָה (parah); related to fruit (פְּרִי)"
+      },
+      {
+        "position": 6,
+        "surface": "וּרְב֗וּ",
+        "phrase": "and multiply",
+        "literal": "and-increase",
+        "source": "KJV, NASB, ESV; waw conjunction + imperative masculine plural of רָבָה (rabah)"
+      },
+      {
+        "position": 7,
+        "surface": "וּמִלְא֤וּ",
+        "phrase": "and fill",
+        "literal": "and-fill",
+        "source": "KJV, NASB, ESV; waw conjunction + imperative masculine plural of מָלֵא (male)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "KJV, NASB, ESV; את (et) marks definite direct object"
+      },
+      {
+        "position": 9,
+        "surface": "הַמַּ֨יִם֙",
+        "phrase": "waters",
+        "literal": "the-waters",
+        "source": "KJV, NASB, ESV; definite article ה + מַיִם (mayim)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּיַּמִּ֔ים",
+        "phrase": "in the seas",
+        "literal": "in-the-seas",
+        "source": "KJV, NASB, ESV; preposition בְּ + definite article ה + יָם (yam, plural יַמִּים)"
+      },
+      {
+        "position": 11,
+        "surface": "וְהָעוֹף",
+        "phrase": "and the birds",
+        "literal": "and-the-birds",
+        "source": "KJV, NASB, ESV; waw conjunction + definite article ה + עוֹף (owph)"
+      },
+      {
+        "position": 12,
+        "surface": "יִ֥רֶב",
+        "phrase": "multiply",
+        "literal": "he/she-increases",
+        "source": "KJV, NASB, ESV; yiqtol form of רָבָה (rabah)"
+      },
+      {
+        "position": 13,
+        "surface": "בָּאָֽרֶץ",
+        "phrase": "on the earth",
+        "literal": "in-the-earth",
+        "source": "KJV, NASB, ESV; preposition בְּ + definite article ה + אֶרֶץ (erets)"
+      }
+    ]
+  }
+]

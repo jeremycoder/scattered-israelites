@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect from אמר)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׁרְצ֣וּ",
+        "phrase": "let swarm",
+        "literal": "let_them_swarm",
+        "source": "ESV, NASB (jussive imperfect from שרץ)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מַּ֔יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֖רֶץ",
+        "phrase": "a swarm",
+        "literal": "swarm",
+        "source": "Chabad, Mechon-Mamre (construct noun from שרץ)"
+      },
+      {
+        "position": 6,
+        "surface": "נֶ֣פֶשׁ",
+        "phrase": "of living creatures",
+        "literal": "soul/creature",
+        "source": "KJV (living soul), ESV (living creatures), NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חַיָּ֑ה",
+        "phrase": "living",
+        "literal": "living",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/עוֹף֙",
+        "phrase": "and let birds",
+        "literal": "and-bird",
+        "source": "ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "יְעוֹפֵ֣ף",
+        "phrase": "fly",
+        "literal": "let_fly",
+        "source": "KJV (marginal), ESV, NASB (hiphil jussive from עוף)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "above",
+        "literal": "upon",
+        "source": "preposition, KJV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "across",
+        "literal": "upon",
+        "source": "preposition, Chabad, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "פְּנֵ֖י",
+        "phrase": "the face of",
+        "literal": "face_of",
+        "source": "KJV (open), NASB"
+      },
+      {
+        "position": 14,
+        "surface": "רְקִ֥יעַ",
+        "phrase": "the expanse",
+        "literal": "expanse/firmament",
+        "source": "ESV, NASB (רקיע)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/שָּׁמָֽיִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

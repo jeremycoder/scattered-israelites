@@ -7,4 +7,5 @@ __pycache__/
 *.pyd
 *.sqlite3
 .db.sqlite3
-data/
+data/*
+!data/gen_*.json

@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתּוֹצֵא",
+        "phrase": "and brought forth",
+        "literal": "and-she.brought.forth",
+        "source": "Hifil converted imperfect, 3rd feminine singular from יצא (to go out); KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "Definite feminine noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "דֶּשֶׁא",
+        "phrase": "vegetation",
+        "literal": "vegetation",
+        "source": "Masculine noun (collective); KJV 'tender grass', ESV 'vegetation', NASB 'vegetation'"
+      },
+      {
+        "position": 4,
+        "surface": "עֵשֶׂב",
+        "phrase": "herb",
+        "literal": "herb",
+        "source": "Masculine noun; KJV, ESV, NASB 'herb'"
+      },
+      {
+        "position": 5,
+        "surface": "מַזְרִיעַ",
+        "phrase": "yielding seed",
+        "literal": "sowing-seed",
+        "source": "Hifil participle masculine singular from זרע (to sow); KJV 'sowing seed', ESV 'yielding seed'"
+      },
+      {
+        "position": 6,
+        "surface": "זֶרַע",
+        "phrase": "seed",
+        "literal": "seed",
+        "source": "Masculine noun; KJV, ESV, NASB 'seed'"
+      },
+      {
+        "position": 7,
+        "surface": "לְמִינֵהוּ",
+        "phrase": "according to its kind",
+        "literal": "to-kind-its",
+        "source": "Preposition ל + noun מין (kind) + 3rd masculine singular suffix; KJV, ESV, NASB 'after its kind'"
+      },
+      {
+        "position": 8,
+        "surface": "וְעֵץ",
+        "phrase": "and tree",
+        "literal": "and-tree",
+        "source": "Conjunction ו + masculine noun; KJV, ESV, NASB 'and tree'"
+      },
+      {
+        "position": 9,
+        "surface": "עֹשֶׂה",
+        "phrase": "bearing",
+        "literal": "making",
+        "source": "Qal participle masculine singular from עשה (to make/do); KJV 'bearing', ESV 'bearing'"
+      },
+      {
+        "position": 10,
+        "surface": "פְּרִי",
+        "phrase": "fruit",
+        "literal": "fruit",
+        "source": "Masculine noun; KJV, ESV, NASB 'fruit'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "in which",
+        "literal": "which",
+        "source": "Relative pronoun; KJV, ESV, NASB 'wherein/in which'"
+      },
+      {
+        "position": 12,
+        "surface": "זַרְעוֹ",
+        "phrase": "its seed",
+        "literal": "seed-its",
+        "source": "Masculine noun זרע + 3rd masculine singular suffix; KJV, ESV, NASB 'seed'"
+      },
+      {
+        "position": 13,
+        "surface": "בוֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "Preposition ב + 3rd masculine singular suffix; KJV, ESV, NASB 'in it'"
+      },
+      {
+        "position": 14,
+        "surface": "לְמִינֵהוּ",
+        "phrase": "according to its kind",
+        "literal": "to-kind-its",
+        "source": "Preposition ל + noun מין (kind) + 3rd masculine singular suffix; KJV, ESV, NASB 'after its kind'"
+      },
+      {
+        "position": 15,
+        "surface": "וַיַּרְא",
+        "phrase": "and saw",
+        "literal": "and-he.saw",
+        "source": "Qal converted imperfect, 3rd masculine singular from ראה (to see); KJV, ESV, NASB 'and saw'"
+      },
+      {
+        "position": 16,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Masculine plural noun (used with singular verb); KJV, ESV, NASB 'God'"
+      },
+      {
+        "position": 17,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "Conjunction; KJV, ESV, NASB 'that'"
+      },
+      {
+        "position": 18,
+        "surface": "טוֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "Masculine adjective; KJV, ESV, NASB 'good'"
+      }
+    ]
+  }
+]

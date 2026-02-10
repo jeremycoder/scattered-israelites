@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָי֤וּ",
+        "phrase": "and let them be",
+        "literal": "and-be-3mp-imperative",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/מְאוֹרֹת֙",
+        "phrase": "for lights",
+        "literal": "to-luminaries-fp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/רְקִ֣יעַ",
+        "phrase": "in the expanse",
+        "literal": "in-firmament-ms-construct",
+        "source": "ESV, NASB; KJV 'firmament'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens-mp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/הָאִ֖יר",
+        "phrase": "to give light",
+        "literal": "to-cause-to-shine-inf-construct-hiphil",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth-fs",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and it was",
+        "literal": "and-was-3ms-waw-consecutive",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כֵֽן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּרְא",
+        "phrase": "and saw",
+        "literal": "and-he.saw",
+        "source": "KJV, ESV, NASB, NET; converted imperfect with vav-consecutive prefix"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NET; masculine plural noun used as singular"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object-marker",
+        "source": "NET; untranslated particle marking definite direct object"
+      },
+      {
+        "position": 4,
+        "surface": "הָאוֹר",
+        "phrase": "the light",
+        "literal": "the-light",
+        "source": "KJV, ESV, NASB, NET; definite noun with article"
+      },
+      {
+        "position": 5,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB, NET; conjunction introducing subordinate clause"
+      },
+      {
+        "position": 6,
+        "surface": "טוֹב",
+        "phrase": "was good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB, NET; adjective meaning whatever enhances or promotes life"
+      },
+      {
+        "position": 7,
+        "surface": "וַיַּבְדֵּל",
+        "phrase": "and separated",
+        "literal": "and-he.separated",
+        "source": "KJV, ESV, NASB, NET; converted imperfect of badal (to divide/separate) in Hiphil stem"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NET; masculine plural noun used as singular"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB, NET; preposition used twice in Hebrew but rendered once in English"
+      },
+      {
+        "position": 10,
+        "surface": "הָאוֹר",
+        "phrase": "the light",
+        "literal": "the-light",
+        "source": "KJV, ESV, NASB, NET; definite noun with article"
+      },
+      {
+        "position": 11,
+        "surface": "וּבֵין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB, NET; conjunction with preposition; rendered as 'from' in dynamic equivalents"
+      },
+      {
+        "position": 12,
+        "surface": "הַחֹשֶׁךְ",
+        "phrase": "the darkness",
+        "literal": "the-darkness",
+        "source": "KJV, ESV, NASB, NET; definite noun with article"
+      }
+    ]
+  }
+]

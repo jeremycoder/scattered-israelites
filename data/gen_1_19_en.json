@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and there was",
+        "literal": "and-become",
+        "source": "KJV, ESV, NASB, YLT[2]"
+      },
+      {
+        "position": 2,
+        "surface": "עֶ֥רֶב",
+        "phrase": "evening",
+        "literal": "evening",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[3]"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and there was",
+        "literal": "and-become",
+        "source": "KJV, ESV, NASB, YLT[2]"
+      },
+      {
+        "position": 4,
+        "surface": "בֹ֖קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[3]"
+      },
+      {
+        "position": 5,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB, Chabad[4]"
+      },
+      {
+        "position": 6,
+        "surface": "רְבִיעִֽי",
+        "phrase": "fourth",
+        "literal": "fourth",
+        "source": "KJV, ESV, NASB, YLT[2]"
+      }
+    ]
+  }
+]

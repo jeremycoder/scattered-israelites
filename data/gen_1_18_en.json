@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לִ/מְשֹׁל֙",
+        "phrase": "and to rule",
+        "literal": "and-to-rule",
+        "source": "KJV, ESV, NASB; infinitive construct of מָשַׁל (to rule)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "over the day",
+        "literal": "in-the-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בַ/לַּ֔יְלָה",
+        "phrase": "and over the night",
+        "literal": "and-in-the-night",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וּֽ/לֲ/הַבְדִּ֔יל",
+        "phrase": "and to divide",
+        "literal": "and-to-cause-to-separate",
+        "source": "KJV, ESV, NASB; Hiphil infinitive of בָּדַל"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/א֖וֹר",
+        "phrase": "the light",
+        "literal": "the-light",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/חֹ֑שֶׁךְ",
+        "phrase": "the darkness",
+        "literal": "the-darkness",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB; waw-consecutive Qal imperfect of רָאָה"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB; subordinating conjunction"
+      },
+      {
+        "position": 12,
+        "surface": "טֽוֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-he.said",
+        "source": "KJV, NASB, ESV; Qal consecutive imperfect 3ms with waw conjunction"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֗ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, NASB, ESV; masculine plural noun"
+      },
+      {
+        "position": 3,
+        "surface": "תּוֹצֵ֨א",
+        "phrase": "let bring forth",
+        "literal": "let-bring-forth",
+        "source": "KJV, NASB, ESV; Hifil imperative jussive 3fs"
+      },
+      {
+        "position": 4,
+        "surface": "הָאָ֜רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, NASB, ESV; feminine singular noun with definite article"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֤פֶשׁ",
+        "phrase": "living creatures",
+        "literal": "creature",
+        "source": "KJV, NASB, ESV; feminine singular noun (collective sense)"
+      },
+      {
+        "position": 6,
+        "surface": "חַיָּה֙",
+        "phrase": "living",
+        "literal": "living",
+        "source": "KJV, NASB, ESV; feminine singular adjective"
+      },
+      {
+        "position": 7,
+        "surface": "לְמִינָ֔הּ",
+        "phrase": "according to its kind",
+        "literal": "to-its.kind",
+        "source": "KJV, NASB, ESV; preposition lamed with masculine singular noun and 3fs possessive suffix"
+      },
+      {
+        "position": 8,
+        "surface": "בְּהֵמָ֥ה",
+        "phrase": "cattle",
+        "literal": "livestock",
+        "source": "KJV, NASB, ESV; feminine singular noun"
+      },
+      {
+        "position": 9,
+        "surface": "וָרֶ֛מֶשׂ",
+        "phrase": "and creeping things",
+        "literal": "and-creeping.thing",
+        "source": "KJV, NASB, ESV; waw conjunction with masculine singular noun"
+      },
+      {
+        "position": 10,
+        "surface": "וְחַֽיְתוֹ",
+        "phrase": "and beasts",
+        "literal": "and-beast.of",
+        "source": "KJV, NASB, ESV; waw conjunction with feminine singular construct noun and 3ms possessive suffix"
+      },
+      {
+        "position": 11,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "of the earth",
+        "literal": "earth",
+        "source": "KJV, NASB, ESV; feminine singular noun in construct relationship"
+      },
+      {
+        "position": 12,
+        "surface": "לְמִינָ֑הּ",
+        "phrase": "according to its kind",
+        "literal": "to-its.kind",
+        "source": "KJV, NASB, ESV; preposition lamed with masculine singular noun and 3fs possessive suffix"
+      },
+      {
+        "position": 13,
+        "surface": "וַֽיְהִי",
+        "phrase": "and it was",
+        "literal": "and-it.was",
+        "source": "KJV, NASB, ESV; Qal consecutive imperfect 3ms with waw conjunction"
+      },
+      {
+        "position": 14,
+        "surface": "כֵֽן",
+        "phrase": "so",
+        "literal": "so",
+        "source": "KJV, NASB, ESV; adverb"
+      }
+    ]
+  }
+]

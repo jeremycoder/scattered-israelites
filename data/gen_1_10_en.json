@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֨א",
+        "phrase": "and called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB (waw-consecutive Qal imperfect 3ms from קרא)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/יַּבָּשָׁה֙",
+        "phrase": "the dry land",
+        "literal": "to-the_dry_land",
+        "source": "KJV, ESV, NASB (לַ + article + יַבָּשָׁה)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶ֔רֶץ",
+        "phrase": "Earth",
+        "literal": "earth-land",
+        "source": "KJV, ESV, NASB; in context, dry land[1]"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/מִקְוֵ֥ה",
+        "phrase": "and to the gathering",
+        "literal": "and-to_gathering",
+        "source": "KJV ('gathering together'), ESV ('gathering'), NASB ('gathering'); לְ + מִקְוֵה construct[2]"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מַּ֖יִם",
+        "phrase": "of the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB (article + construct מַיִם)"
+      },
+      {
+        "position": 7,
+        "surface": "קָרָ֣א",
+        "phrase": "called",
+        "literal": "he_called",
+        "source": "KJV, ESV, NASB (Qal perfect 3ms from קרא)[2]"
+      },
+      {
+        "position": 8,
+        "surface": "יַמִּ֑ים",
+        "phrase": "Seas",
+        "literal": "seas",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and saw",
+        "literal": "and-he_saw",
+        "source": "KJV, ESV, NASB (waw-consecutive Qal imperfect 3ms from ראה)"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that-because",
+        "source": "KJV, ESV, NASB (conjunction כי)"
+      },
+      {
+        "position": 12,
+        "surface": "טֽוֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

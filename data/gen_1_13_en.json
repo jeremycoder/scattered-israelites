@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽיְהִי",
+        "phrase": "and it was",
+        "literal": "and-he.was",
+        "source": "Converted imperfect (preterite) of היה (to be), third masculine singular with waw-consecutive; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "עֶ֥רֶב",
+        "phrase": "evening",
+        "literal": "evening",
+        "source": "Masculine noun; KJV, ESV, NASB all render as 'evening'"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽיְהִי",
+        "phrase": "and it was",
+        "literal": "and-he.was",
+        "source": "Converted imperfect (preterite) of היה (to be), third masculine singular with waw-consecutive; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בֹ֖קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "Masculine noun; KJV, ESV, NASB all render as 'morning'"
+      },
+      {
+        "position": 5,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "Masculine noun; KJV, ESV, NASB all render as 'day'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלִישִֽׁי",
+        "phrase": "third",
+        "literal": "third",
+        "source": "Ordinal adjective from שלוש (three); KJV, ESV, NASB all render as 'third'"
+      }
+    ]
+  }
+]

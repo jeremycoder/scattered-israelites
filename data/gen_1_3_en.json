@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar 'say')"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB (Elohim, plural form with singular sense)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהִי",
+        "phrase": "let there be",
+        "literal": "be!(jussive)",
+        "source": "KJV, ESV, NASB (jussive imperfect of hayah 'be')"
+      },
+      {
+        "position": 4,
+        "surface": "אוֹר",
+        "phrase": "light",
+        "literal": "light",
+        "source": "KJV, ESV, NASB (ʾor 'light, shine')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְהִי",
+        "phrase": "and there was",
+        "literal": "and-there_was",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of hayah 'be')"
+      },
+      {
+        "position": 6,
+        "surface": "אוֹר",
+        "phrase": "light",
+        "literal": "light",
+        "source": "KJV, ESV, NASB (ʾor 'light')"
+      }
+    ]
+  }
+]

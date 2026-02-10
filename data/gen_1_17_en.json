@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֥ן",
+        "phrase": "and he gave",
+        "literal": "and-gave",
+        "source": "KJV 'set', ESV 'placed', NASB 'placed'; wayyiqtol from nātan, nun assimilated"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "[direct-object-marker]-them",
+        "source": "KJV, ESV, NASB; accusative marker + 3mp pronoun"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, Chabad; Elohim, grammatically plural but singular sense"
+      },
+      {
+        "position": 4,
+        "surface": "בִּ/רְקִ֣יעַ",
+        "phrase": "in the expanse",
+        "literal": "in-expanse",
+        "source": "ESV 'expanse', KJV/NASB 'firmament'; bə + raqiaʿ"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׁמָ֑יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "KJV, ESV, NASB; haššāmayim"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/הָאִ֖יר",
+        "phrase": "to light",
+        "literal": "to-lights",
+        "source": "KJV 'give light', NASB 'give light', ESV 'give light'; lə + hiphil infinitive construct of ʾôr"
+      },
+      {
+        "position": 7,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB; preposition ʿal"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB; hāʾāreṣ"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָ/אָרֶץ",
+        "phrase": "and the earth",
+        "literal": "and-the-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָיְתָה",
+        "phrase": "was",
+        "literal": "she-was",
+        "source": "KJV, ESV, NASB; hayetah (H1961), emphatic 'to exist' or 'come to be'"
+      },
+      {
+        "position": 3,
+        "surface": "תֹהוּ",
+        "phrase": "formless",
+        "literal": "formlessness",
+        "source": "KJV, ESV, NASB; tohu (H8414), 'without form, confusion, emptiness'"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/בֹהוּ",
+        "phrase": "and void",
+        "literal": "and-void",
+        "source": "KJV, ESV, NASB; bohu (H922), 'emptiness, without content'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/חֹשֶׁךְ",
+        "phrase": "and darkness",
+        "literal": "and-darkness",
+        "source": "KJV, ESV, NASB; khoshek (H2822)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "preposition, KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "פְּנֵי",
+        "phrase": "the surface of",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB; construct of panim"
+      },
+      {
+        "position": 8,
+        "surface": "תְהוֹם",
+        "phrase": "the deep",
+        "literal": "deep",
+        "source": "KJV, ESV, NASB; tehom (H8415)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/רוּחַ",
+        "phrase": "and the Spirit",
+        "literal": "and-spirit",
+        "source": "KJV, ESV, NASB; ruakh, 'spirit, breath, wind'"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִים",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB; Elohim"
+      },
+      {
+        "position": 11,
+        "surface": "מְרַחֶפֶת",
+        "phrase": "was hovering",
+        "literal": "hovering",
+        "source": "KJV, ESV, NASB; merachefet, piel participle of rachaf"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "preposition, KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "פְּנֵי",
+        "phrase": "the surface of",
+        "literal": "face-of",
+        "source": "KJV, ESV, NASB; construct of panim"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/מָּיִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "KJV, ESV, NASB; mayim (dual form)"
+      }
+    ]
+  }
+]
