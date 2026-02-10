@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "and name",
+        "literal": "and-name",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "אָחִ֖י/ו",
+        "phrase": "of his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 3,
+        "surface": "יוּבָ֑ל",
+        "phrase": "was Jubal",
+        "literal": "Jubal",
+        "source": "Proper name; KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 4,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "emphatic pronoun; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָיָ֔ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבִ֕י",
+        "phrase": "father",
+        "literal": "father",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "תֹּפֵ֥שׂ",
+        "phrase": "who play",
+        "literal": "grasping-ptc",
+        "source": "Qal participle of תפש; ESV, NASB, JPS; 'handle' KJV"
+      },
+      {
+        "position": 9,
+        "surface": "כִּנּ֖וֹר",
+        "phrase": "the harp",
+        "literal": "lyre",
+        "source": "KJV (harp), ESV (lyre), NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/עוּגָֽב",
+        "phrase": "and pipe",
+        "literal": "and-ugab",
+        "source": "KJV (organ/pipe), ESV (flute/pipe), NASB, JPS"
+      }
+    ]
+  }
+]

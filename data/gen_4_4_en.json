@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֶ֨בֶל",
+        "phrase": "And Abel",
+        "literal": "and-Abel",
+        "source": "ESV, KJV, NASB, OJB"
+      },
+      {
+        "position": 2,
+        "surface": "הֵבִ֥יא",
+        "phrase": "brought",
+        "literal": "he-brought",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "particle; ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "ה֛וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "emphatic pronoun; ESV (implied), OJB"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/בְּכֹר֥וֹת",
+        "phrase": "from the firstborn",
+        "literal": "from-firstborn-of-him",
+        "source": "ESV, KJV, NASB, OJB (bechorot)"
+      },
+      {
+        "position": 6,
+        "surface": "צֹאנ֖/וֹ",
+        "phrase": "of his flock",
+        "literal": "flock-his",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מֵֽ/חֶלְבֵ/הֶ֑ן",
+        "phrase": "and of their fat portions",
+        "literal": "and-from-fat-their",
+        "source": "ESV, KJV, NASB, OJB (chelev)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּ֣שַׁע",
+        "phrase": "had regard",
+        "literal": "and-he-regarded",
+        "source": "ESV, KJV (looked), NASB; cf. [2] sh-ayin-h 'pay attention'"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֔ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "ESV, KJV, NASB, OJB (Hashem)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "for",
+        "literal": "to",
+        "source": "preposition; ESV, KJV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הֶ֖בֶל",
+        "phrase": "Abel",
+        "literal": "Abel",
+        "source": "ESV, KJV, NASB, OJB (Hevel)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶל",
+        "phrase": "and for",
+        "literal": "and-to",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִנְחָתֽ/וֹ",
+        "phrase": "his offering",
+        "literal": "offering-his",
+        "source": "ESV, KJV, NASB, OJB (minchah)"
+      }
+    ]
+  }
+]

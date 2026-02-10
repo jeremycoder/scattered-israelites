@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶל",
+        "phrase": "but to",
+        "literal": "and-to",
+        "source": "KJV, ESV, NASB (waw disjunctive + preposition 'to')"
+      },
+      {
+        "position": 2,
+        "surface": "קַ֥יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "KJV, ESV, NASB (waw conjunctive + preposition 'to')"
+      },
+      {
+        "position": 4,
+        "surface": "מִנְחָת֖/וֹ",
+        "phrase": "his offering",
+        "literal": "offering-his",
+        "source": "KJV ('his offering'), ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negative particle)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁעָ֑ה",
+        "phrase": "regard",
+        "literal": "regard",
+        "source": "ESV ('regard'), NASB ('respect'), KJV ('respect'); root שעה 'pay attention' [1]"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּ֤חַר",
+        "phrase": "became angry",
+        "literal": "and-burned",
+        "source": "KJV ('wroth'), ESV ('angry'), NASB ('angry'); root חרה 'burn' [3][5]"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/קַ֨יִן֙",
+        "phrase": "to Cain",
+        "literal": "to-Cain",
+        "source": "KJV, ESV, NASB (preposition + dative)"
+      },
+      {
+        "position": 9,
+        "surface": "מְאֹ֔ד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "KJV, ESV, NASB (intensity adverb)"
+      },
+      {
+        "position": 10,
+        "surface": "וַֽ/יִּפְּל֖וּ",
+        "phrase": "fell",
+        "literal": "and-fell",
+        "source": "KJV ('fell'), ESV ('fell'), NASB ('fell'); root נפל 'fall' [3]"
+      },
+      {
+        "position": 11,
+        "surface": "פָּנָֽי/ו",
+        "phrase": "his face",
+        "literal": "faces-his",
+        "source": "KJV ('countenance'), ESV ('countenance'), NASB ('countenance'); idiomatic for facial expression [3][4]"
+      }
+    ]
+  }
+]

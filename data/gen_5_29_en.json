@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֧א",
+        "phrase": "he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (all translations)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמ֛/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "נֹ֖חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "proper name (KJV, ESV, NASB, NET)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "זֶ֞֠ה",
+        "phrase": "this one",
+        "literal": "this",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "יְנַחֲמֵ֤/נוּ",
+        "phrase": "will comfort us",
+        "literal": "he_will_comfort-us",
+        "source": "KJV, NET (from nacham, 'comfort'), Chabad 'give rest'"
+      },
+      {
+        "position": 8,
+        "surface": "מִֽ/מַּעֲשֵׂ֨/נוּ֙",
+        "phrase": "from our work",
+        "literal": "from-work-our",
+        "source": "KJV 'our work', NET 'our labor', NASB 'our work'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מֵ/עִצְּב֣וֹן",
+        "phrase": "and from the toil",
+        "literal": "and-from-toil",
+        "source": "KJV 'toil', NET 'painful toil', NASB 'painfulness'"
+      },
+      {
+        "position": 10,
+        "surface": "יָדֵ֔י/נוּ",
+        "phrase": "of our hands",
+        "literal": "hands-our",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "grammatical preposition (all translations)"
+      },
+      {
+        "position": 12,
+        "surface": "הָ֣/אֲדָמָ֔ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun (all translations)"
+      },
+      {
+        "position": 14,
+        "surface": "אֵֽרְרָ֖/הּ",
+        "phrase": "he has cursed",
+        "literal": "he_cursed-it",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 15,
+        "surface": "יְהוָֽה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "proper name (KJV, ESV, NASB, NET)"
+      }
+    ]
+  }
+]

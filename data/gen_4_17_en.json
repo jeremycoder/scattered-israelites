@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֤דַע",
+        "phrase": "and knew",
+        "literal": "and-he-knew",
+        "source": "KJV, ESV, NASB, NET (euphemism for sexual relations)"
+      },
+      {
+        "position": 2,
+        "surface": "קַ֨יִן֙",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar particle"
+      },
+      {
+        "position": 4,
+        "surface": "אִשְׁתּ֔/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תַּ֖הַר",
+        "phrase": "and she conceived",
+        "literal": "and-she-conceived",
+        "source": "KJV, ESV, NASB, NET (or 'she became pregnant')"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "and bore",
+        "literal": "and-she-gave-birth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew grammar particle"
+      },
+      {
+        "position": 8,
+        "surface": "חֲנ֑וֹךְ",
+        "phrase": "Enoch",
+        "literal": "Enoch",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "and he was",
+        "literal": "and-he-was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בֹּ֣נֶה",
+        "phrase": "building",
+        "literal": "building",
+        "source": "KJV ('building'), NASB ('was building'), NET"
+      },
+      {
+        "position": 11,
+        "surface": "עִ֔יר",
+        "phrase": "a city",
+        "literal": "city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יִּקְרָא֙",
+        "phrase": "and he called",
+        "literal": "and-he-called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "שֵׁ֣ם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/עִ֔יר",
+        "phrase": "of the city",
+        "literal": "the-city",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "כְּ/שֵׁ֖ם",
+        "phrase": "as the name",
+        "literal": "like-name",
+        "source": "KJV, ESV, NASB, NET ('according to the name of')"
+      },
+      {
+        "position": 16,
+        "surface": "בְּנ֥/וֹ",
+        "phrase": "of his son",
+        "literal": "son-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "חֲנֽוֹךְ",
+        "phrase": "Enoch",
+        "literal": "Enoch",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

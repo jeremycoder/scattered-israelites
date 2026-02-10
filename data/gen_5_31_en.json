@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (waw-consecutive of הָיָה 'to be')"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB (כֹּל 'all, whole')"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵי",
+        "phrase": "the days of",
+        "literal": "days-of",
+        "source": "KJV, ESV, NASB (יָמִים construct 'days of')"
+      },
+      {
+        "position": 4,
+        "surface": "לֶ֔מֶךְ",
+        "phrase": "Lamech",
+        "literal": "Lamech",
+        "source": "KJV, ESV, NASB (proper name Strong's H3929)"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֤בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB (שֶׁבַע 'seven')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁבְעִים֙",
+        "phrase": "and seventy",
+        "literal": "and-seventy",
+        "source": "KJV, ESV, NASB (וְשִׁבְעִים 'and seventy')"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB (שָׁנָה 'year')"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/שְׁבַ֥ע",
+        "phrase": "and seven",
+        "literal": "and-seven",
+        "source": "KJV, ESV, NASB (וְשֶׁבַע 'and seven')"
+      },
+      {
+        "position": 9,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB (מֵאוֹת 'hundreds')"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB (שָׁנָה 'year')"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he_died",
+        "source": "KJV, ESV, NASB (waw-consecutive of מוּת 'to die')"
+      }
+    ]
+  }
+]

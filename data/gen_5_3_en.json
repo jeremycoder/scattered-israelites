@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִ֣י",
+        "phrase": "And Adam lived",
+        "literal": "and-he_lived",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אָדָ֗ם",
+        "phrase": "Adam",
+        "literal": "Adam",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹשִׁ֤ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מְאַת֙",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-he_begat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/דְמוּת֖/וֹ",
+        "phrase": "in his likeness",
+        "literal": "in-likeness-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כְּ/צַלְמ֑/וֹ",
+        "phrase": "after his image",
+        "literal": "as-image-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "שֵֽׁת",
+        "phrase": "Seth",
+        "literal": "Seth",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

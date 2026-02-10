@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "When",
+        "literal": "when-that",
+        "source": "Conditional particle introducing temporal clause; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "תַֽעֲבֹד֙",
+        "phrase": "you till",
+        "literal": "you-work/cultivate",
+        "source": "2ms imperfect of עבד (to work, till); KJV 'tillest', ESV 'cultivate', NASB 'cultivate'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "Direct object marker; marks the following noun as definite object"
+      },
+      {
+        "position": 4,
+        "surface": "הָ֣אֲדָמָ֔ה",
+        "phrase": "ground",
+        "literal": "the-ground",
+        "source": "Definite feminine noun אֲדָמָה (ground, soil, earth); KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "תֹסֵ֥ף",
+        "phrase": "will continue",
+        "literal": "will-add/continue",
+        "source": "3fs imperfect of יסף (to add, continue); indicates ongoing action; KJV 'shall yield', ESV 'will yield', NASB 'will yield'"
+      },
+      {
+        "position": 7,
+        "surface": "תֵּת",
+        "phrase": "to give",
+        "literal": "to-give",
+        "source": "Infinitive construct of נתן (to give); KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּחָ֖הּ",
+        "phrase": "its strength",
+        "literal": "strength-its",
+        "source": "Masculine noun כֹּחַ (strength, power, produce) with 3fs possessive suffix; KJV 'strength', ESV 'produce', NASB 'crops'"
+      },
+      {
+        "position": 9,
+        "surface": "לָ֑ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "Preposition ל with 2ms pronominal suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "נָ֥ע",
+        "phrase": "a fugitive",
+        "literal": "fugitive/wanderer",
+        "source": "Masculine participle of נוע (to wander, flee); KJV 'fugitive', ESV 'fugitive', NASB 'vagrant'"
+      },
+      {
+        "position": 11,
+        "surface": "וָנָ֖ד",
+        "phrase": "and a wanderer",
+        "literal": "and-wanderer",
+        "source": "Conjunction ו with masculine participle of נוד (to wander, flee); paired with נָע to express single concept of homelessness; KJV 'wanderer', ESV 'wanderer', NASB 'wanderer'"
+      },
+      {
+        "position": 12,
+        "surface": "תִּֽהְיֶ֥ה",
+        "phrase": "you shall be",
+        "literal": "you-will-be",
+        "source": "2ms imperfect of היה (to be); KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בָאָֽרֶץ",
+        "phrase": "on the earth",
+        "literal": "in-the-earth",
+        "source": "Preposition ב with definite feminine noun אֶרֶץ (earth, land); KJV 'in the earth', ESV 'on the earth', NASB 'on the earth'"
+      }
+    ]
+  }
+]

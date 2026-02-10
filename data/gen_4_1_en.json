@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהָאָדָם",
+        "phrase": "And the man",
+        "literal": "and-the-man",
+        "source": "KJV, ESV, NASB; וְ (vav-conjunction) + הַ (definite article) + אָדָם (man)"
+      },
+      {
+        "position": 2,
+        "surface": "יָדַע",
+        "phrase": "knew",
+        "literal": "he-knew",
+        "source": "KJV, ESV, NASB; qal perfect 3ms of ידע (to know, have relations with)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew particle marking definite direct object"
+      },
+      {
+        "position": 4,
+        "surface": "חַוָּה",
+        "phrase": "Eve",
+        "literal": "Eve",
+        "source": "KJV, ESV, NASB; proper noun, feminine singular"
+      },
+      {
+        "position": 5,
+        "surface": "אִשְׁתּוֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "KJV, ESV, NASB; אִשָּׁה (wife) + וֹ (3ms possessive suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "וַתַּהַר",
+        "phrase": "and she conceived",
+        "literal": "and-she-conceived",
+        "source": "KJV, ESV, NASB; וַ (vav-consecutive) + qal imperfect 3fs of הרה (to conceive)"
+      },
+      {
+        "position": 7,
+        "surface": "וַתֵּלֶד",
+        "phrase": "and she bore",
+        "literal": "and-she-bore",
+        "source": "KJV, ESV, NASB; וַ (vav-consecutive) + qal imperfect 3fs of ילד (to bear, give birth)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew particle marking definite direct object"
+      },
+      {
+        "position": 9,
+        "surface": "קַיִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "KJV, ESV, NASB; proper noun, masculine singular"
+      },
+      {
+        "position": 10,
+        "surface": "וַתֹּאמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "KJV, ESV, NASB; וַ (vav-consecutive) + qal imperfect 3fs of אמר (to say)"
+      },
+      {
+        "position": 11,
+        "surface": "קָנִיתִי",
+        "phrase": "I have acquired",
+        "literal": "I-acquired",
+        "source": "KJV, ESV, NASB; qal perfect 1cs of קנה (to acquire, get, obtain)"
+      },
+      {
+        "position": 12,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB; masculine singular noun"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew particle marking definite direct object"
+      },
+      {
+        "position": 14,
+        "surface": "יְהוָה",
+        "phrase": "the Lord",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB; divine name, typically rendered 'the Lord' in English translations"
+      }
+    ]
+  }
+]

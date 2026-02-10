@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "If",
+        "literal": "that-if",
+        "source": "KJV, ESV, NASB, NIV (conditional particle)"
+      },
+      {
+        "position": 2,
+        "surface": "שִׁבְעָתַ֖יִם",
+        "phrase": "sevenfold",
+        "literal": "seven-times",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "יֻקַּם",
+        "phrase": "is avenged",
+        "literal": "will-be-avenged",
+        "source": "KJV, ESV, NASB, NIV (Niphal imperfect of qum)"
+      },
+      {
+        "position": 4,
+        "surface": "קָ֑יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "Proper name; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֶ֖מֶךְ",
+        "phrase": "and Lamech",
+        "literal": "and-Lamech",
+        "source": "KJV (Lemekh), ESV, NASB, NIV (proper name with conjunction)"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁבְעִ֥ים",
+        "phrase": "seventy",
+        "literal": "seventy",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שִׁבְעָֽה",
+        "phrase": "and seven",
+        "literal": "and-seven",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

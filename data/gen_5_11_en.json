@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽהְיוּ֙",
+        "phrase": "And all the days were",
+        "literal": "and-became-they",
+        "source": "KJV, ESV, NASB; wayyihyu = consecutive imperfect of hayah (to be)"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-",
+        "source": "KJV, ESV, NASB; kol = totality"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵ֣י",
+        "phrase": "the days of",
+        "literal": "days-of",
+        "source": "KJV, ESV, NASB; yeme = construct of yom (day)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱנ֔וֹשׁ",
+        "phrase": "Enosh",
+        "literal": "Enosh",
+        "source": "KJV (Enos), ESV (Enosh), NASB; proper name, 'mortal man' etymologically"
+      },
+      {
+        "position": 5,
+        "surface": "חָמֵ֣שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB; chamesh = cardinal number"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנִ֔ים",
+        "phrase": "hundred",
+        "literal": "years",
+        "source": "KJV, ESV, NASB; shanim = plural of shanah (year)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/תְשַׁ֥ע",
+        "phrase": "and nine",
+        "literal": "and-nine",
+        "source": "KJV, ESV, NASB; utesha' = conjunction + tesha' (nine)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB; me'ot = plural of me'ah (hundred)"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB; shanah = year (absolute form)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he_died",
+        "source": "KJV, ESV, NASB; wayyamot = consecutive imperfect of mut (to die)"
+      }
+    ]
+  }
+]

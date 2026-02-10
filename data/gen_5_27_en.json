@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְיוּ֙",
+        "phrase": "and they were",
+        "literal": "and-they_were",
+        "source": "KJV, ESV, NASB: 'And all the days...were'"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵ֣י",
+        "phrase": "days",
+        "literal": "days_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מְתוּשֶׁ֔לַח",
+        "phrase": "Methuselah",
+        "literal": "Methuselah",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "תֵּ֤שַׁע",
+        "phrase": "nine",
+        "literal": "nine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁשִּׁים֙",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/תְשַׁ֥ע",
+        "phrase": "and nine",
+        "literal": "and-nine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he_died",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

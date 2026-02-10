@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִי",
+        "phrase": "And lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 2,
+        "surface": "לֶ֕מֶךְ",
+        "phrase": "Lamech",
+        "literal": "Lamech",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁתַּ֧יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "Interlinear[1]; KJV 'an hundred eighty and two'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁמֹנִ֛ים",
+        "phrase": "and eighty",
+        "literal": "and-eighty",
+        "source": "Interlinear[1]; KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "Interlinear[1]; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מְאַ֣ת",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "Interlinear[1]; KJV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "Interlinear[1]; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and fathered",
+        "literal": "and-begat/fathered",
+        "source": "KJV 'begat', ESV/NASB 'fathered', Interlinear[1]"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּֽן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      }
+    ]
+  }
+]

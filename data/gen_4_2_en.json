@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֣סֶף",
+        "phrase": "and she added",
+        "literal": "and-she_added",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/לֶ֔דֶת",
+        "phrase": "to bear",
+        "literal": "to_give_birth",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "grammatical particle; untransliterated in English"
+      },
+      {
+        "position": 4,
+        "surface": "אָחִ֖י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "grammatical particle; untransliterated in English"
+      },
+      {
+        "position": 6,
+        "surface": "הָ֑בֶל",
+        "phrase": "Abel",
+        "literal": "Abel",
+        "source": "proper name; KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and was",
+        "literal": "and_became",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "הֶ֨בֶל֙",
+        "phrase": "Abel",
+        "literal": "Abel",
+        "source": "proper name; KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "רֹ֣עֵה",
+        "phrase": "keeper",
+        "literal": "shepherd",
+        "source": "KJV (keeper), ESV (keeper), NASB (keeper), Chabad (shepherd)"
+      },
+      {
+        "position": 10,
+        "surface": "צֹ֔אן",
+        "phrase": "of sheep",
+        "literal": "flock",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/קַ֕יִן",
+        "phrase": "and Cain",
+        "literal": "and-Cain",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 12,
+        "surface": "הָיָ֖ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 13,
+        "surface": "עֹבֵ֥ד",
+        "phrase": "tiller",
+        "literal": "servant-worker",
+        "source": "KJV (tiller), ESV (worker), NASB (worker), Chabad (tiller)"
+      },
+      {
+        "position": 14,
+        "surface": "אֲדָמָֽה",
+        "phrase": "of the ground",
+        "literal": "ground-soil",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

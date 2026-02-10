@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "And Noah was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (waw-consecutive + hayah 'to be')"
+      },
+      {
+        "position": 2,
+        "surface": "נֹ֕חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "a son of",
+        "literal": "son",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יּ֣וֹלֶד",
+        "phrase": "Noah fathered",
+        "literal": "and-begat",
+        "source": "KJV, ESV, NASB (waw-consecutive + yalad 'begat')"
+      },
+      {
+        "position": 8,
+        "surface": "נֹ֔חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "accusative particle (ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "שֵׁ֖ם",
+        "phrase": "Shem",
+        "literal": "Shem-name",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "accusative particle (ESV, NASB)"
+      },
+      {
+        "position": 12,
+        "surface": "חָ֥ם",
+        "phrase": "Ham",
+        "literal": "Ham-hot",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "waw + accusative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "יָֽפֶת",
+        "phrase": "Japheth",
+        "literal": "Japheth",
+        "source": "proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

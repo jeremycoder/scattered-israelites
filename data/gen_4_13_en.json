@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "קַ֖יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "גָּד֥וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB (adjective)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲוֺנִ֖/י",
+        "phrase": "my iniquity",
+        "literal": "iniquity-my",
+        "source": "Chabad (עֲוֹנִי), KJV (punishment), ESV (punishment); note: עָוֹן = iniquity, guilt, punishment"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/נְּשֹֽׂא",
+        "phrase": "than I can bear",
+        "literal": "from-bearing",
+        "source": "KJV, ESV, NASB (min + infinitive construct of nasa', to lift/bear)"
+      }
+    ]
+  }
+]

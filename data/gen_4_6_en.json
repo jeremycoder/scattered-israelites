@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֥אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "Conjunction ו + wayyiqtol form of אמר (to say); ESV, KJV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "Tetragrammaton, divine name; ESV, KJV, NASB render as 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition indicating direction; ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "קָ֑יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "Proper noun, name of first son; ESV, KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֚מָּה",
+        "phrase": "Why",
+        "literal": "to-what",
+        "source": "Preposition ל + interrogative pronoun מה; ESV, KJV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "חָ֣רָה",
+        "phrase": "are you angry",
+        "literal": "it.burned",
+        "source": "Qal perfect 3fs of חרה (to burn, grow warm with anger); ESV 'angry', KJV 'wroth', NASB 'angry'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ֔ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "Preposition ל + 2ms pronominal suffix; ESV, KJV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְלָ֖מָּה",
+        "phrase": "and why",
+        "literal": "and-to-what",
+        "source": "Conjunction ו + preposition ל + interrogative pronoun מה; ESV, KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "נָפְל֥וּ",
+        "phrase": "has fallen",
+        "literal": "they.fell",
+        "source": "Qal perfect 3cp of נפל (to fall); ESV 'has fallen', KJV 'fallen', NASB 'has fallen'"
+      },
+      {
+        "position": 10,
+        "surface": "פָנֶֽיךָ",
+        "phrase": "your face",
+        "literal": "face-your",
+        "source": "Noun פנים (face, countenance) + 2ms pronominal suffix; ESV, KJV, NASB"
+      }
+    ]
+  }
+]

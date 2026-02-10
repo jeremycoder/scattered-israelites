@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִ֣י",
+        "phrase": "lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "חֲנ֔וֹךְ",
+        "phrase": "Enoch",
+        "literal": "Enoch",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "חָמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/שִׁשִּׁ֖ים",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-he-begat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 8,
+        "surface": "מְתוּשָֽׁלַח",
+        "phrase": "Methuselah",
+        "literal": "Methuselah",
+        "source": "proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

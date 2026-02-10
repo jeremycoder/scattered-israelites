@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֶ֣ה",
+        "phrase": "This",
+        "literal": "this",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "סֵ֔פֶר",
+        "phrase": "book",
+        "literal": "book-scroll",
+        "source": "KJV, ESV, NASB (book, record, scroll)"
+      },
+      {
+        "position": 3,
+        "surface": "תּוֹלְדֹ֖ת",
+        "phrase": "of the generations",
+        "literal": "generations-births",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "אָדָ֑ם",
+        "phrase": "of Adam",
+        "literal": "man-humanity",
+        "source": "KJV, ESV, NASB (collective: humankind)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/י֗וֹם",
+        "phrase": "In the day",
+        "literal": "in-day",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "בְּרֹ֤א",
+        "phrase": "created",
+        "literal": "create-made",
+        "source": "KJV, ESV, NASB (Qal infinitive construct)"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אָדָ֔ם",
+        "phrase": "man",
+        "literal": "man-humanity",
+        "source": "KJV, ESV, NASB (collective)"
+      },
+      {
+        "position": 9,
+        "surface": "בִּ/דְמ֥וּת",
+        "phrase": "in the likeness",
+        "literal": "in-likeness",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "of-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "עָשָׂ֥ה",
+        "phrase": "He made",
+        "literal": "made-do",
+        "source": "KJV, ESV, NASB (Qal perfect)"
+      },
+      {
+        "position": 12,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "direct-object-him",
+        "source": "KJV, ESV, NASB (collective humankind; NET notes plural sense)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּֽהְי֞וּ",
+        "phrase": "And all the days were",
+        "literal": "and-they-were",
+        "source": "KJV, ESV, NASB; vav-consecutive + qal imperfect 3mp of היה"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB; construct state"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵ֤י",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB; construct plural of יום"
+      },
+      {
+        "position": 4,
+        "surface": "אָדָם֙",
+        "phrase": "of Adam",
+        "literal": "Adam",
+        "source": "KJV, ESV, NASB; proper noun in construct relationship"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB; relative pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "חַ֔י",
+        "phrase": "he lived",
+        "literal": "he-lived",
+        "source": "KJV, ESV, NASB; qal perfect 3ms of חיה"
+      },
+      {
+        "position": 7,
+        "surface": "תְּשַׁ֤ע",
+        "phrase": "nine",
+        "literal": "nine",
+        "source": "KJV, ESV, NASB; feminine numeral"
+      },
+      {
+        "position": 8,
+        "surface": "מֵאוֹת֙",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB; feminine plural of מאה"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB; feminine singular construct"
+      },
+      {
+        "position": 10,
+        "surface": "וּשְׁלֹשִׁ֖ים",
+        "phrase": "and thirty",
+        "literal": "and-thirty",
+        "source": "KJV, ESV, NASB; vav + masculine plural numeral"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB; feminine singular"
+      },
+      {
+        "position": 12,
+        "surface": "וַיָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he-died",
+        "source": "KJV, ESV, NASB; vav-consecutive + qal imperfect 3ms of מות"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/ל֤וֹא",
+        "phrase": "will you not?",
+        "literal": "question-particle-not",
+        "source": "ESV, KJV, NASB (interrogative particle)"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "תֵּיטִיב֙",
+        "phrase": "you do well",
+        "literal": "you-do-good",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "שְׂאֵ֔ת",
+        "phrase": "be accepted",
+        "literal": "lifting-up",
+        "source": "ESV (footnote: lifting up of face), NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אִם֙",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "תֵיטִ֔יב",
+        "phrase": "you do well",
+        "literal": "you-do-good",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/פֶּ֖תַח",
+        "phrase": "at the door",
+        "literal": "to-the-door",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "חַטָּ֣את",
+        "phrase": "sin",
+        "literal": "sin",
+        "source": "ESV, KJV, NASB (or sin offering per some scholars)"
+      },
+      {
+        "position": 10,
+        "surface": "רֹבֵ֑ץ",
+        "phrase": "is crouching",
+        "literal": "crouching",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֵלֶ֨י/ךָ֙",
+        "phrase": "toward you",
+        "literal": "and-to-you",
+        "source": "ESV (footnote: to/toward), NASB"
+      },
+      {
+        "position": 12,
+        "surface": "תְּשׁ֣וּקָת֔/וֹ",
+        "phrase": "its desire",
+        "literal": "its-desire",
+        "source": "ESV, NIV, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אַתָּ֖ה",
+        "phrase": "and you",
+        "literal": "and-you",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "תִּמְשָׁל",
+        "phrase": "must rule",
+        "literal": "you-rule",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "בּֽ/וֹ",
+        "phrase": "over it",
+        "literal": "in-it",
+        "source": "ESV, KJV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And it was",
+        "literal": "and-become",
+        "source": "KJV, ESV, NASB (way·hî: And were)"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB (kāl: all)"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵ֣י",
+        "phrase": "the days of",
+        "literal": "days-of",
+        "source": "KJV, ESV, NASB (yə·mê: the days)"
+      },
+      {
+        "position": 4,
+        "surface": "חֲנ֑וֹךְ",
+        "phrase": "Enoch",
+        "literal": "Enoch",
+        "source": "KJV, ESV, NASB (ḥă·nō·wḵ: of Enoch)"
+      },
+      {
+        "position": 5,
+        "surface": "חָמֵ֤שׁ",
+        "phrase": "three hundred",
+        "literal": "five",
+        "source": "KJV, ESV, NASB (ḥā·mêš: five; part of total 365)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁשִּׁים֙",
+        "phrase": "sixty",
+        "literal": "and-sixty",
+        "source": "KJV, ESV, NASB (wə·šiš·šîm: and sixty)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB (šā·nāh: years)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/שְׁלֹ֥שׁ",
+        "phrase": "and",
+        "literal": "and-three",
+        "source": "KJV, ESV, NASB (ū·šə·lōš: and three)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB (mê·’ō·wṯ: hundred)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָֽה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB (šā·nāh: years)"
+      }
+    ]
+  }
+]

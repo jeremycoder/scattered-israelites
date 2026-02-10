@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥צֵא",
+        "phrase": "went out",
+        "literal": "and-went_out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "קַ֖יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/לִּ/פְנֵ֣י",
+        "phrase": "from the presence of",
+        "literal": "from-before",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "dwelt",
+        "literal": "and-sat/dwelt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אֶֽרֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "נ֖וֹד",
+        "phrase": "Nod",
+        "literal": "Wandering",
+        "source": "KJV, ESV, NASB; pun on 'wander' [3]"
+      },
+      {
+        "position": 8,
+        "surface": "קִדְמַת",
+        "phrase": "east of",
+        "literal": "east_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עֵֽדֶן",
+        "phrase": "Eden",
+        "literal": "Eden",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

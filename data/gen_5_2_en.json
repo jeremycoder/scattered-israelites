@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זָכָ֥ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "KJV, NASB, ESV; noun masculine singular"
+      },
+      {
+        "position": 2,
+        "surface": "וּנְקֵבָ֖ה",
+        "phrase": "and female",
+        "literal": "and-female",
+        "source": "KJV, NASB, ESV; conjunction waw + noun feminine singular"
+      },
+      {
+        "position": 3,
+        "surface": "בְּרָאָ֑ם",
+        "phrase": "He created them",
+        "literal": "he-created-them",
+        "source": "KJV, NASB, ESV; verb Qal perfect 3ms + object pronoun 3mp"
+      },
+      {
+        "position": 4,
+        "surface": "וַיְבָ֣רֶךְ",
+        "phrase": "and He blessed",
+        "literal": "and-he-blessed",
+        "source": "KJV, NASB, ESV; conjunction waw + verb Piel consecutive imperfect 3ms"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֗ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "KJV, NASB, ESV; direct object marker + pronoun 3mp"
+      },
+      {
+        "position": 6,
+        "surface": "וַיִּקְרָ֤א",
+        "phrase": "and called",
+        "literal": "and-he-called",
+        "source": "KJV, NASB, ESV; conjunction waw + verb Qal consecutive imperfect 3ms"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "the name of",
+        "literal": "direct-object-marker",
+        "source": "KJV, NASB, ESV; direct object marker (untranslated particle)"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמָם",
+        "phrase": "their name",
+        "literal": "name-their",
+        "source": "KJV, NASB, ESV; noun masculine singular + pronoun 3mp possessive"
+      },
+      {
+        "position": 9,
+        "surface": "אָדָ֔ם",
+        "phrase": "Adam/Man",
+        "literal": "Adam",
+        "source": "KJV, NASB, ESV; noun masculine singular (proper name or common noun 'man/mankind')"
+      },
+      {
+        "position": 10,
+        "surface": "בְּיוֹם",
+        "phrase": "in the day",
+        "literal": "in-the-day",
+        "source": "KJV, NASB, ESV; preposition bet + noun masculine singular"
+      },
+      {
+        "position": 11,
+        "surface": "הִבָּֽרְאָם",
+        "phrase": "they were created",
+        "literal": "they-were-created",
+        "source": "KJV, NASB, ESV; verb Nifal perfect 3mp"
+      }
+    ]
+  }
+]

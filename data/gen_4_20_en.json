@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֥לֶד",
+        "phrase": "gave birth to",
+        "literal": "and-gave.birth",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "עָדָ֖ה",
+        "phrase": "Adah",
+        "literal": "Adah",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct.object.marker",
+        "source": "grammatical marker (not translated; NASB, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "יָבָ֑ל",
+        "phrase": "Jabal",
+        "literal": "Jabal",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הָיָ֔ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲבִ֕י",
+        "phrase": "father of",
+        "literal": "father-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יֹשֵׁ֥ב",
+        "phrase": "those who dwell",
+        "literal": "sitter",
+        "source": "participle 'dweller' (ESV, NASB, NIV)"
+      },
+      {
+        "position": 9,
+        "surface": "אֹ֖הֶל",
+        "phrase": "in tents",
+        "literal": "tent",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מִקְנֶֽה",
+        "phrase": "and livestock",
+        "literal": "and-livestock",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

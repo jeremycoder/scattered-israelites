@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּֽהְיוּ֙",
+        "phrase": "and were",
+        "literal": "and-they-were",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵי",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֔ת",
+        "phrase": "Seth",
+        "literal": "Seth",
+        "source": "KJV, ESV, NASB, WEB; proper noun"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁתֵּ֤ים",
+        "phrase": "twelve",
+        "literal": "two",
+        "source": "KJV, ESV, NASB, WEB; construct form in compound number"
+      },
+      {
+        "position": 6,
+        "surface": "עֶשְׂרֵה֙",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB, WEB; combines with preceding word to form 'twelve'"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 8,
+        "surface": "וּתְשַׁ֥ע",
+        "phrase": "and nine",
+        "literal": "and-nine",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 9,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 11,
+        "surface": "וַיָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he-died",
+        "source": "KJV, ESV, NASB, WEB"
+      }
+    ]
+  }
+]

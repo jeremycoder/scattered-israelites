@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽקַּֽח",
+        "phrase": "took",
+        "literal": "and-took",
+        "source": "KJV, ESV, NASB, NIV[2][4]"
+      },
+      {
+        "position": 2,
+        "surface": "ל֥/וֹ",
+        "phrase": "for himself",
+        "literal": "to-him",
+        "source": "dative pronoun, lit. 'to him'; KJV 'unto him', NASB 'to himself'[2][4]"
+      },
+      {
+        "position": 3,
+        "surface": "לֶ֖מֶךְ",
+        "phrase": "Lamech",
+        "literal": "Lamech",
+        "source": "proper name (לֶמֶךְ); KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁתֵּ֣י",
+        "phrase": "two",
+        "literal": "two-f.",
+        "source": "dual fem. numeral; KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 5,
+        "surface": "נָשִׁ֑ים",
+        "phrase": "wives",
+        "literal": "women",
+        "source": "plural of אִשָּׁה 'woman, wife'; KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׁ֤ם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אַחַת֙",
+        "phrase": "of the one",
+        "literal": "the-one",
+        "source": "def. art. + fem. 'one'; KJV, ESV, NASB[1][2][4]"
+      },
+      {
+        "position": 8,
+        "surface": "עָדָ֔ה",
+        "phrase": "was Adah",
+        "literal": "Adah",
+        "source": "proper name (עָדָה); KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "and the name",
+        "literal": "and-name",
+        "source": "KJV, ESV, NASB[2][4]"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שֵּׁנִ֖ית",
+        "phrase": "of the second",
+        "literal": "the-second",
+        "source": "def. art. + 'second'; lit. preference for 'other' in Eng.; KJV, ESV, NASB[1][2][4]"
+      },
+      {
+        "position": 11,
+        "surface": "צִלָּֽה",
+        "phrase": "Zillah",
+        "literal": "Zillah",
+        "source": "proper name (צִלָּה); KJV, ESV, NASB[2][4]"
+      }
+    ]
+  }
+]

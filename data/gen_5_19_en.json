@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִי",
+        "phrase": "and he lived",
+        "literal": "and-he.lived",
+        "source": "KJV, ESV, NASB, Chabad.org"
+      },
+      {
+        "position": 2,
+        "surface": "יֶ֗רֶד",
+        "phrase": "Jared",
+        "literal": "Jared",
+        "source": "KJV, ESV, NASB; proper noun meaning 'descent' or 'to descend'"
+      },
+      {
+        "position": 3,
+        "surface": "אַֽחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִיד֣/וֹ",
+        "phrase": "he had begotten",
+        "literal": "beget-he.3ms-OBJ.3ms",
+        "source": "KJV, ESV, NASB; hiphil perfect with suffix"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "OBJ",
+        "source": "Standard Hebrew grammar; marks definite direct object"
+      },
+      {
+        "position": 6,
+        "surface": "חֲנ֔וֹךְ",
+        "phrase": "Enoch",
+        "literal": "Enoch",
+        "source": "KJV, ESV, NASB; proper noun meaning 'dedicated' or 'initiated'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמֹנֶ֥ה",
+        "phrase": "eight",
+        "literal": "eight",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he begot",
+        "literal": "and-he.begot",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "son.PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughter.PL",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

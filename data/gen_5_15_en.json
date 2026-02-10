@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִ֣י",
+        "phrase": "and lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB; Conj-w | V-Qal-ConsecImperf-3ms[1][4]"
+      },
+      {
+        "position": 2,
+        "surface": "מַֽהֲלַלְאֵ֔ל",
+        "phrase": "Mahalalel",
+        "literal": "Mahalalel",
+        "source": "KJV, ESV, NASB; N-proper-ms[1][3]"
+      },
+      {
+        "position": 3,
+        "surface": "חָמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB; Number-fs[1][3]"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנִ֖ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB; N-fp[1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שִׁשִּׁ֣ים",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "KJV, ESV, NASB; Conj-w | Number-cp[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB; N-fs[1][3]"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and he begat",
+        "literal": "and-he-begat",
+        "source": "KJV, ESV, NASB; Conj-w | V-Hifil-ConsecImperf-3ms[1][4]"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "obj-marker",
+        "source": "DirObjM; uniform across translations[1][4]"
+      },
+      {
+        "position": 9,
+        "surface": "יָֽרֶד",
+        "phrase": "Jared",
+        "literal": "Jared",
+        "source": "KJV, ESV, NASB; N-proper-ms[1][3]"
+      }
+    ]
+  }
+]

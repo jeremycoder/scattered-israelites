@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחִ֣י",
+        "phrase": "And Methuselah lived",
+        "literal": "and-lived",
+        "source": "KJV, ESV, NASB (wayyiqtol of חיה, 'live')"
+      },
+      {
+        "position": 2,
+        "surface": "מְתוּשֶׁ֔לַח",
+        "phrase": "Methuselah",
+        "literal": "Methuselah",
+        "source": "Proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׁ֧בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁמֹנִ֛ים",
+        "phrase": "and eighty",
+        "literal": "and-eighty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מְאַ֣ת",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-begat",
+        "source": "KJV, ESV, NASB (hiphil wayyiqtol of ילד, 'beget')"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "Standard particle (ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "לָֽמֶךְ",
+        "phrase": "Lamech",
+        "literal": "Lamech",
+        "source": "Proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

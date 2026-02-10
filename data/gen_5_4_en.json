@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽהְי֣וּ",
+        "phrase": "and were",
+        "literal": "and-was-PL",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 2,
+        "surface": "יְמֵי",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 3,
+        "surface": "אָדָ֗ם",
+        "phrase": "of Adam",
+        "literal": "Adam",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 4,
+        "surface": "אַֽחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹלִיד֣/וֹ",
+        "phrase": "he fathered",
+        "literal": "he-begot-him",
+        "source": "ESV, NASB[1]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "OBJ",
+        "source": "accusative marker[1]"
+      },
+      {
+        "position": 7,
+        "surface": "שֵׁ֔ת",
+        "phrase": "Seth",
+        "literal": "Seth",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמֹנֶ֥ה",
+        "phrase": "eight",
+        "literal": "eight",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 9,
+        "surface": "מֵאֹ֖ת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-he-begot",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 12,
+        "surface": "בָּנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "ESV, NASB, KJV[1]"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בָנֽוֹת",
+        "phrase": "and daughters",
+        "literal": "and-daughters",
+        "source": "ESV, NASB, KJV[1]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽהְיוּ֙",
+        "phrase": "And all",
+        "literal": "and-become.3mp",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵי",
+        "phrase": "the days of",
+        "literal": "days-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יֶ֔רֶד",
+        "phrase": "Jared",
+        "literal": "Jared",
+        "source": "KJV, ESV, NASB (proper name יֶרֶד)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁתַּ֤יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁשִּׁים֙",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/תְשַׁ֥ע",
+        "phrase": "and nine",
+        "literal": "and-nine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-die.3ms",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

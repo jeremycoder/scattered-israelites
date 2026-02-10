@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "and said",
+        "literal": "and-say",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "ל֣/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB (preposition l- + 3ms suffix)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֗ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB (proper name of God)"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֵן֙",
+        "phrase": "therefore",
+        "literal": "for-thus",
+        "source": "KJV, ESV, NASB (preposition l- + ken 'so, therefore')"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "whoever",
+        "literal": "all",
+        "source": "KJV, ESV, NASB (kol 'every, any')"
+      },
+      {
+        "position": 6,
+        "surface": "הֹרֵ֣ג",
+        "phrase": "kills",
+        "literal": "killing",
+        "source": "KJV ('slayeth'), ESV, NASB (horeg participle of harag 'kill')"
+      },
+      {
+        "position": 7,
+        "surface": "קַ֔יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "KJV, ESV, NASB (proper name Qayin)"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁבְעָתַ֖יִם",
+        "phrase": "sevenfold",
+        "literal": "seven-times",
+        "source": "KJV, ESV, NASB (shib'athayim 'sevenfold')"
+      },
+      {
+        "position": 9,
+        "surface": "יֻקָּ֑ם",
+        "phrase": "will be taken",
+        "literal": "be-avenged",
+        "source": "KJV, ESV, NASB (nifal imperfect of naqam 'avenge')"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יָּ֨שֶׂם",
+        "phrase": "and set",
+        "literal": "and-put",
+        "source": "KJV ('set'), NASB ('appointed'), ESV (waw-consecutive of sim 'put, appoint')"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֤ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/קַ֨יִן֙",
+        "phrase": "for Cain",
+        "literal": "to-Cain",
+        "source": "NASB, REV (l- + Qayin; 'for' per context)"
+      },
+      {
+        "position": 13,
+        "surface": "א֔וֹת",
+        "phrase": "sign",
+        "literal": "sign",
+        "source": "KJV ('mark'), NASB ('sign'), ESV"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/בִלְתִּ֥י",
+        "phrase": "lest",
+        "literal": "to-not",
+        "source": "KJV, ESV, NASB (l- + bilti 'lest, not')"
+      },
+      {
+        "position": 15,
+        "surface": "הַכּוֹת",
+        "phrase": "strike",
+        "literal": "the-striking",
+        "source": "REV, context of nakah 'strike, kill' (infinitive construct)"
+      },
+      {
+        "position": 16,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "obj-him",
+        "source": "KJV, ESV, NASB (et + 3ms suffix, object marker)"
+      },
+      {
+        "position": 17,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "מֹצְאֽ/וֹ",
+        "phrase": "finding him",
+        "literal": "finding-him",
+        "source": "KJV, ESV, NASB (mots'o participle of matsa' 'find' + 3ms suffix)"
+      }
+    ]
+  }
+]

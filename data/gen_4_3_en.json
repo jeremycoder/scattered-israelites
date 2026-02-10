@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִ֖י",
+        "phrase": "And it came to pass",
+        "literal": "and-happen",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/קֵּ֣ץ",
+        "phrase": "at the end of",
+        "literal": "from-end",
+        "source": "NET (at the designated time), literal 'from an end'; KJV (in process of time)"
+      },
+      {
+        "position": 3,
+        "surface": "יָמִ֑ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "Often collective for 'a year' (Ibn Ezra); NET, KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּבֵ֨א",
+        "phrase": "Cain brought",
+        "literal": "and-brought",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "קַ֜יִן",
+        "phrase": "Cain",
+        "literal": "Cain",
+        "source": "Proper name; all translations"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/פְּרִ֧י",
+        "phrase": "some of the fruit",
+        "literal": "from-fruit",
+        "source": "NET, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אֲדָמָ֛ה",
+        "phrase": "of the ground",
+        "literal": "the-ground",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "מִנְחָ֖ה",
+        "phrase": "an offering",
+        "literal": "offering",
+        "source": "KJV (offering), NET (offering), NASB (offering)"
+      },
+      {
+        "position": 9,
+        "surface": "לַֽ/יהוָֽה",
+        "phrase": "to the LORD",
+        "literal": "to-YHWH",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

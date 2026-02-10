@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֵן֩",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV, NASB, NKJV, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "גֵּרַ֨שְׁתָּ",
+        "phrase": "you have driven",
+        "literal": "you-have-driven-out",
+        "source": "KJV, NASB, NKJV, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתִ֜/י",
+        "phrase": "me",
+        "literal": "[direct-object]-me",
+        "source": "standard object marker + pronoun; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יּ֗וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "KJV, NASB, NIV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/עַל֙",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "preposition; all translations"
+      },
+      {
+        "position": 6,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face of",
+        "literal": "face-of",
+        "source": "KJV, NASB, NKJV"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אֲדָמָ֔ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מִ/פָּנֶ֖י/ךָ",
+        "phrase": "and from your face",
+        "literal": "and-from face-your",
+        "source": "KJV, NASB, NKJV, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אֶסָּתֵ֑ר",
+        "phrase": "I will be hidden",
+        "literal": "I-will-be-hidden",
+        "source": "KJV, NASB, NKJV, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הָיִ֜יתִי",
+        "phrase": "I will be",
+        "literal": "and-I-will-be",
+        "source": "consecutive imperfect; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "נָ֤ע",
+        "phrase": "a fugitive",
+        "literal": "fugitive",
+        "source": "KJV, NKJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וָ/נָד֙",
+        "phrase": "and a wanderer",
+        "literal": "and-wanderer",
+        "source": "KJV, NKJV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בָּ/אָ֔רֶץ",
+        "phrase": "on the earth",
+        "literal": "in-the-land",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/הָיָ֥ה",
+        "phrase": "and it will be",
+        "literal": "and-it-will-be",
+        "source": "KJV, NKJV; consecutive imperfect"
+      },
+      {
+        "position": 15,
+        "surface": "כָל",
+        "phrase": "whoever",
+        "literal": "all",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "מֹצְאִ֖/י",
+        "phrase": "finds me",
+        "literal": "finds-me",
+        "source": "KJV, NASB, NKJV"
+      },
+      {
+        "position": 17,
+        "surface": "יַֽהַרְגֵֽ/נִי",
+        "phrase": "will kill me",
+        "literal": "will-kill-me",
+        "source": "KJV, NASB, NKJV, ESV"
+      }
+    ]
+  }
+]

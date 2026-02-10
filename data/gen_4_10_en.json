@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 4,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 2,
+        "surface": "מֶ֣ה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 3,
+        "surface": "עָשִׂ֑יתָ",
+        "phrase": "have you done",
+        "literal": "you_have_done",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 4,
+        "surface": "ק֚וֹל",
+        "phrase": "the voice",
+        "literal": "voice",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 5,
+        "surface": "דְּמֵ֣י",
+        "phrase": "of your bloods",
+        "literal": "bloods_of",
+        "source": "KJV (blood), ESV (blood), NASB (blood); plural 'bloods' for intensity[1]"
+      },
+      {
+        "position": 6,
+        "surface": "אָחִ֔י/ךָ",
+        "phrase": "of your brother",
+        "literal": "brother_your",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 7,
+        "surface": "צֹעֲקִ֥ים",
+        "phrase": "is crying out",
+        "literal": "crying_out",
+        "source": "KJV (crieth), ESV (is crying), NASB (is crying)[1]"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלַ֖/י",
+        "phrase": "to Me",
+        "literal": "to_me",
+        "source": "KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 9,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "particle; KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 10,
+        "surface": "הָֽ/אֲדָמָֽה",
+        "phrase": "the ground",
+        "literal": "the_ground",
+        "source": "KJV, ESV, NASB[1]"
+      }
+    ]
+  }
+]

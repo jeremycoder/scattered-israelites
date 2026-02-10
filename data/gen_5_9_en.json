@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִ֥י",
+        "phrase": "lived",
+        "literal": "and-lived",
+        "source": "KJV, NASB, ESV: 'lived'"
+      },
+      {
+        "position": 2,
+        "surface": "אֱנ֖וֹשׁ",
+        "phrase": "Enosh",
+        "literal": "Enosh",
+        "source": "KJV (Enos), NASB, ESV: proper name"
+      },
+      {
+        "position": 3,
+        "surface": "תִּשְׁעִ֣ים",
+        "phrase": "ninety",
+        "literal": "ninety",
+        "source": "KJV, NASB, ESV: 'ninety'"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "KJV, NASB, ESV: 'years'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and fathered",
+        "literal": "and-begat",
+        "source": "KJV ('begat'), NASB/ESV ('fathered')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle; unrendered in English translations (KJV, NASB, ESV)"
+      },
+      {
+        "position": 7,
+        "surface": "קֵינָֽן",
+        "phrase": "Kenan",
+        "literal": "Kenan",
+        "source": "KJV (Cainan), NASB/ESV: proper name"
+      }
+    ]
+  }
+]

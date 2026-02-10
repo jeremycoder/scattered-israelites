@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְחִי",
+        "phrase": "and lived",
+        "literal": "and-he-lived",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֕ת",
+        "phrase": "Seth",
+        "literal": "Seth",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 3,
+        "surface": "חָמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנִ֖ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מְאַ֣ת",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "year",
+        "literal": "year",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יּ֖וֹלֶד",
+        "phrase": "and he fathered",
+        "literal": "and-he-begat",
+        "source": "KJV, ESV, NASB, OJB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle; not translated in English"
+      },
+      {
+        "position": 9,
+        "surface": "אֱנֽוֹשׁ",
+        "phrase": "Enosh",
+        "literal": "Enosh",
+        "source": "KJV, ESV, NASB, OJB"
+      }
+    ]
+  }
+]

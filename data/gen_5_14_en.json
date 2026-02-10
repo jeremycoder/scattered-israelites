@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 5,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּֽהְיוּ֙",
+        "phrase": "And were",
+        "literal": "and-they.were",
+        "source": "Verb form; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "Noun; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 3,
+        "surface": "יְמֵ֣י",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "Noun construct; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 4,
+        "surface": "קֵינָ֔ן",
+        "phrase": "of Kenan",
+        "literal": "Kenan",
+        "source": "Proper noun; KJV (Cainan), ESV, NASB, WEB"
+      },
+      {
+        "position": 5,
+        "surface": "עֶ֣שֶׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "Noun; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנִ֔ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "Noun masculine plural; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 7,
+        "surface": "וּתְשַׁ֥ע",
+        "phrase": "and nine",
+        "literal": "and-nine",
+        "source": "Conjunction + noun feminine; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 8,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundred",
+        "source": "Noun feminine plural construct; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "Noun feminine singular; KJV, ESV, NASB, WEB"
+      },
+      {
+        "position": 10,
+        "surface": "וַיָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he.died",
+        "source": "Conjunction + verb; KJV, ESV, NASB, WEB"
+      }
+    ]
+  }
+]
