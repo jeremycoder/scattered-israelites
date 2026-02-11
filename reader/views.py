@@ -49,7 +49,7 @@ def _get_chapter_context(book, chapter):
     """Shared context builder for chapter view."""
     verses_qs = (
         Verse.objects.filter(book=book, chapter=chapter)
-        .prefetch_related('wordoccurrence_set__hebrew_analysis')
+        .prefetch_related('wordoccurrence_set__hebrew_analysis', 'wordoccurrence_set__translations')
         .order_by('verse')
     )
 

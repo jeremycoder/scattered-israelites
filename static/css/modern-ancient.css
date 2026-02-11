@@ -202,7 +202,7 @@ h1.page-title {
 }
 
 /* ---- VERSE DISPLAY ---- */
-.verse-block { margin-bottom: 1.5rem; }
+.verse-block { margin-bottom: 1.5rem; text-align: right; }
 .verse-words {
   direction: rtl;
   display: inline-flex;

@@ -10,7 +10,12 @@
        class="word-cell morph-hover"
        title="{{ word.surface }} — {{ glosses|dict_get:word.strongs_id }}">
       <span class="word-surface hebrew">{{ word.surface }}</span>
-      <span class="word-gloss">{{ glosses|dict_get:word.strongs_id }}</span>
+      <span class="word-translit">{{ word.slug }}</span>
+      {% for tr in word.translations.all %}
+        {% if tr.language_code == "en" %}
+          <span class="word-gloss">{{ tr.phrase }}</span>
+        {% endif %}
+      {% endfor %}
       <span class="word-morph-code">{{ word.morphology }}</span>
     </a>
     {% endfor %}
