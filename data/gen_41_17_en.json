@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "said",
+        "literal": "and-he_spoke",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB, TLV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/חֲלֹמִ֕/י",
+        "phrase": "In my dream",
+        "literal": "in_the-dream_my",
+        "source": "KJV, ESV, NASB, TLV"
+      },
+      {
+        "position": 6,
+        "surface": "הִנְ/נִ֥י",
+        "phrase": "behold I",
+        "literal": "behold_me",
+        "source": "emphatic particle (Mechon-Mamre, JPS)"
+      },
+      {
+        "position": 7,
+        "surface": "עֹמֵ֖ד",
+        "phrase": "was standing",
+        "literal": "standing",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׂפַ֥ת",
+        "phrase": "the bank",
+        "literal": "lip bank",
+        "source": "KJV, Mechon-Mamre, TLV"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יְאֹֽר",
+        "phrase": "of the Nile",
+        "literal": "the-river",
+        "source": "KJV, ESV, NASB, TLV"
+      }
+    ]
+  }
+]

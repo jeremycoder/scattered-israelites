@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יַעֲשֶׂ֣ה",
+        "phrase": "do this",
+        "literal": "do",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יַפְקֵ֥ד",
+        "phrase": "and let him appoint",
+        "literal": "and-appoint",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "פְּקִדִ֖ים",
+        "phrase": "overseers",
+        "literal": "overseers",
+        "source": "ESV, NASB; KJV 'officers'"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "preposition; ESV, KJV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/חִמֵּשׁ֙",
+        "phrase": "and take a fifth",
+        "literal": "and-fifth",
+        "source": "ESV, NIV, NASB; KJV 'take up the fifth part'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(accusative)",
+        "source": "grammatical marker; not translated"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "of the land",
+        "literal": "land",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/שֶׁ֖בַע",
+        "phrase": "in the seven",
+        "literal": "in-seven",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "שְׁנֵ֥י",
+        "phrase": "years",
+        "literal": "years",
+        "source": "ESV, KJV, NIV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/שָּׂבָֽע",
+        "phrase": "of abundance",
+        "literal": "the-abundance",
+        "source": "ESV, NIV; KJV 'plenteous'"
+      }
+    ]
+  }
+]

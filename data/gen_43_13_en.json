@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB; wə-’eṯ- (Conj-w | DirObjM)[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחִי/כֶ֖ם",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB, NIV; ’ă-ḥî-ḵem (N-msc | 2mp)[1]"
+      },
+      {
+        "position": 3,
+        "surface": "קָ֑חוּ",
+        "phrase": "take",
+        "literal": "take",
+        "source": "KJV, ESV, NASB; qā-ḥū (V-Qal-Imp-mp)[1]"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/ק֖וּמוּ",
+        "phrase": "and arise",
+        "literal": "and-arise",
+        "source": "KJV, ESV, NASB; wə-qū-mū (Conj-w | V-Qal-Imp-mp)[1]"
+      },
+      {
+        "position": 5,
+        "surface": "שׁ֥וּבוּ",
+        "phrase": "go back",
+        "literal": "return",
+        "source": "KJV, ESV, NASB, NIV; šū-ḇū (V-Qal-Imp-mp)[1]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB; ’el- (Prep)[1]"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אִֽישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, NIV; hā-’îš (Art | N-ms)[1]"
+      }
+    ]
+  }
+]

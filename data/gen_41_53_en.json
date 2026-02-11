@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 53,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּכְלֶ֕ינָה",
+        "phrase": "came to an end",
+        "literal": "and-finished_(f.pl.)",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 2,
+        "surface": "שֶׁ֖בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁנֵ֣י",
+        "phrase": "years",
+        "literal": "years_(dual)",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׂבָ֑ע",
+        "phrase": "of plenty",
+        "literal": "the-abundance",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "relative particle; KJV, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "הָיָ֖ה",
+        "phrase": "had been",
+        "literal": "was",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

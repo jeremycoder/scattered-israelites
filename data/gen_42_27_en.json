@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּפְתַּ֨ח",
+        "phrase": "opened",
+        "literal": "and-he_opened",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אֶחָ֜ד",
+        "phrase": "one of them",
+        "literal": "the-one",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle (all translations)"
+      },
+      {
+        "position": 4,
+        "surface": "שַׂקּ֗/וֹ",
+        "phrase": "his sack",
+        "literal": "sack-his",
+        "source": "KJV (sack), ESV (sack), NASB (sack)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/תֵ֥ת",
+        "phrase": "to give",
+        "literal": "to-give",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מִסְפּ֛וֹא",
+        "phrase": "fodder",
+        "literal": "fodder",
+        "source": "KJV (provender), ESV/NASB (fodder)"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/חֲמֹר֖/וֹ",
+        "phrase": "to his donkey",
+        "literal": "to-donkey-his",
+        "source": "KJV (ass), ESV/NASB (donkey)"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/מָּל֑וֹן",
+        "phrase": "at the lodging place",
+        "literal": "in-the-inn/lodging",
+        "source": "KJV (inn), ESV/NASB (lodging place)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּרְא֙",
+        "phrase": "he saw",
+        "literal": "and-he_saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle (all translations)"
+      },
+      {
+        "position": 11,
+        "surface": "כַּסְפּ֔/וֹ",
+        "phrase": "his money",
+        "literal": "silver-his/money-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הִנֵּה",
+        "phrase": "and behold",
+        "literal": "and-lo/indeed",
+        "source": "KJV, NASB (behold), ESV (there)"
+      },
+      {
+        "position": 13,
+        "surface": "ה֖וּא",
+        "phrase": "it",
+        "literal": "it/he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/פִ֥י",
+        "phrase": "in the mouth of",
+        "literal": "in-mouth_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אַמְתַּחְתּֽ/וֹ",
+        "phrase": "his sack",
+        "literal": "his-bag/sack",
+        "source": "KJV (sack), ESV/NASB (sack/bag)"
+      }
+    ]
+  }
+]

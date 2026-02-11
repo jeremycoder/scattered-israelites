@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ה֣וּא",
+        "phrase": "It is",
+        "literal": "he/it",
+        "source": "KJV, ESV, NASB (emphatic pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דָּבָ֔ר",
+        "phrase": "the thing",
+        "literal": "the-word/matter",
+        "source": "KJV 'the thing', NASB 'as I have spoken', ESV 'as I told'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "relative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "דִּבַּ֖רְתִּי",
+        "phrase": "I have spoken",
+        "literal": "I-have-spoken",
+        "source": "Qal perfect 1cs from דבר (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper name (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "what",
+        "literal": "which/that",
+        "source": "relative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עֹשֶׂ֖ה",
+        "phrase": "is about to do",
+        "literal": "doing/making",
+        "source": "Participle Qal ms from עשה (NASB, ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "הֶרְאָ֥ה",
+        "phrase": "has shown",
+        "literal": "he-has-shown",
+        "source": "Hiphil perfect 3ms from ראה (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(accusative-marker)",
+        "source": "untranslated particle"
+      },
+      {
+        "position": 12,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper name (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

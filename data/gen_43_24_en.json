@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיָּבֵא",
+        "phrase": "brought",
+        "literal": "and-he-brought",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 2,
+        "surface": "הָאִישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB; NET note identifies as steward"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew grammar; marks definite object"
+      },
+      {
+        "position": 4,
+        "surface": "הָאֲנָשִׁים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּיתָה",
+        "phrase": "into Joseph's house",
+        "literal": "house-ward",
+        "source": "KJV, ESV, NASB; preposition בְ + noun with directional ה"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹסֵף",
+        "phrase": "Joseph's",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 7,
+        "surface": "וַיִּתֶּן",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 8,
+        "surface": "מַיִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 9,
+        "surface": "וַיִּרְחֲצוּ",
+        "phrase": "and they washed",
+        "literal": "and-they-washed",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 10,
+        "surface": "רַגְלֵיהֶם",
+        "phrase": "their feet",
+        "literal": "feet-their",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 11,
+        "surface": "וַיִּתֵּן",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "KJV, ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 12,
+        "surface": "מִסְפּוֹא",
+        "phrase": "fodder",
+        "literal": "fodder",
+        "source": "KJV (provender), ESV, NASB, Holman CSB"
+      },
+      {
+        "position": 13,
+        "surface": "לַחֲמֹרֵיהֶם",
+        "phrase": "to their donkeys",
+        "literal": "to-the-donkeys-their",
+        "source": "KJV (asses), ESV, NASB, Holman CSB"
+      }
+    ]
+  }
+]

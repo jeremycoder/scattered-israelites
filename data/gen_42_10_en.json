@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֥וּ",
+        "phrase": "And they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "No",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "אֲדֹנִ֑/י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/עֲבָדֶ֥י/ךָ",
+        "phrase": "but your servants",
+        "literal": "and-servants-your",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ֖אוּ",
+        "phrase": "have come",
+        "literal": "they_came",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/שְׁבָּר",
+        "phrase": "to buy",
+        "literal": "to-buy",
+        "source": "KJV, ESV, NASB, NET (purchase grain)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹֽכֶל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

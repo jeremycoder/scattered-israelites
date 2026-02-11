@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁ֨ם",
+        "phrase": "and there",
+        "literal": "and-there",
+        "source": "ESV, KJV, NASB (adverbial phrase)"
+      },
+      {
+        "position": 2,
+        "surface": "אִתָּ֜/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "נַ֣עַר",
+        "phrase": "young man",
+        "literal": "youth",
+        "source": "ESV, NIV, JPS (Strong's 5288)"
+      },
+      {
+        "position": 4,
+        "surface": "עִבְרִ֗י",
+        "phrase": "Hebrew",
+        "literal": "Hebrew",
+        "source": "ESV, KJV, NASB (Strong's 5680)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶ֚בֶד",
+        "phrase": "servant",
+        "literal": "slave-servant",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/שַׂ֣ר",
+        "phrase": "to the captain",
+        "literal": "to-captain",
+        "source": "ESV, NIV, JPS"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/טַּבָּחִ֔ים",
+        "phrase": "of the guard",
+        "literal": "the-butcher's",
+        "source": "ESV, KJV, NASB (captain of the guard)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/נְּ֨סַפֶּר",
+        "phrase": "and we told",
+        "literal": "and-we-recounted",
+        "source": "ESV, NIV, JPS"
+      },
+      {
+        "position": 9,
+        "surface": "ל֔/וֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּפְתָּר",
+        "phrase": "and he interpreted",
+        "literal": "and-he-interpreted",
+        "source": "ESV, NIV, JPS"
+      },
+      {
+        "position": 11,
+        "surface": "לָ֖/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "untranslated particle (Strong's 853)"
+      },
+      {
+        "position": 13,
+        "surface": "חֲלֹמֹתֵ֑י/נוּ",
+        "phrase": "our dreams",
+        "literal": "dreams-our",
+        "source": "ESV, NIV, NASB (Strong's 2472)"
+      },
+      {
+        "position": 14,
+        "surface": "אִ֥ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "ESV, KJV, JPS"
+      },
+      {
+        "position": 15,
+        "surface": "כַּ/חֲלֹמ֖/וֹ",
+        "phrase": "according to his dream",
+        "literal": "as-dream-his",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "פָּתָֽר",
+        "phrase": "he interpreted",
+        "literal": "he-interpreted",
+        "source": "ESV, JPS, KJV"
+      }
+    ]
+  }
+]

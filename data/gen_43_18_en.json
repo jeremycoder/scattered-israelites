@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּֽירְא֣וּ",
+        "phrase": "and were afraid",
+        "literal": "and-they.were.afraid",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽאֲנָשִׁ֗ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֣י",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, ESV, NASB; causal conjunction"
+      },
+      {
+        "position": 4,
+        "surface": "הֽוּבְאוּ֮",
+        "phrase": "they were brought",
+        "literal": "they.were.brought",
+        "source": "KJV, ESV, NASB, HCSB; Hophal passive"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֣ית",
+        "phrase": "into the house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹסֵף֒",
+        "phrase": "of Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, HCSB; proper noun in construct"
+      },
+      {
+        "position": 7,
+        "surface": "וַיֹּאמְר֗וּ",
+        "phrase": "and they said",
+        "literal": "and-they.said",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "KJV, ESV, NASB; preposition"
+      },
+      {
+        "position": 9,
+        "surface": "דְּבַ֤ר",
+        "phrase": "word/matter",
+        "literal": "word",
+        "source": "KJV, ESV, NASB; construct form"
+      },
+      {
+        "position": 10,
+        "surface": "הַכֶּ֨סֶף֙",
+        "phrase": "the money",
+        "literal": "the-money",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "הַשָּׁ֤ב",
+        "phrase": "that was returned",
+        "literal": "the-returned",
+        "source": "KJV, ESV, NASB, HCSB; Qal passive participle"
+      },
+      {
+        "position": 12,
+        "surface": "בְּאַמְתְּחֹתֵֽינוּ",
+        "phrase": "in our sacks",
+        "literal": "in-sacks-our",
+        "source": "KJV, ESV, NASB, HCSB; preposition + noun + possessive suffix"
+      },
+      {
+        "position": 13,
+        "surface": "בַּתְּחִלָּ֔ה",
+        "phrase": "the first time",
+        "literal": "in-the-beginning",
+        "source": "KJV, ESV, NASB, HCSB; temporal adverbial phrase"
+      },
+      {
+        "position": 14,
+        "surface": "אֲנַ֖חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "KJV, ESV, NASB, HCSB; independent pronoun"
+      },
+      {
+        "position": 15,
+        "surface": "מֽוּבָאִ֑ים",
+        "phrase": "are being brought",
+        "literal": "brought",
+        "source": "KJV, ESV, NASB, HCSB; Hophal participle"
+      },
+      {
+        "position": 16,
+        "surface": "לְהִתְגֹּלֵ֤ל",
+        "phrase": "to roll upon",
+        "literal": "to-roll.oneself",
+        "source": "KJV 'seek occasion'; ESV, NASB 'attack'; Hitpael infinitive"
+      },
+      {
+        "position": 17,
+        "surface": "עָלֵֽינוּ",
+        "phrase": "upon us",
+        "literal": "upon-us",
+        "source": "KJV, ESV, NASB, HCSB; preposition + possessive suffix"
+      },
+      {
+        "position": 18,
+        "surface": "וּלְהִתְנַפֵּ֣ל",
+        "phrase": "and to fall upon",
+        "literal": "and-to-fall.oneself",
+        "source": "KJV, ESV, NASB, HCSB; conjunction + Hitpael infinitive"
+      },
+      {
+        "position": 19,
+        "surface": "עָלֵֽינוּ",
+        "phrase": "upon us",
+        "literal": "upon-us",
+        "source": "KJV, ESV, NASB, HCSB; preposition + possessive suffix"
+      },
+      {
+        "position": 20,
+        "surface": "וְלָקַ֧חַת",
+        "phrase": "and to take",
+        "literal": "and-to.take",
+        "source": "KJV, ESV, NASB, HCSB; conjunction + Qal infinitive"
+      },
+      {
+        "position": 21,
+        "surface": "אֹתָֽנוּ",
+        "phrase": "us",
+        "literal": "us",
+        "source": "KJV, ESV, NASB, HCSB; direct object marker + possessive suffix"
+      },
+      {
+        "position": 22,
+        "surface": "לַעֲבָדִ֖ים",
+        "phrase": "as slaves",
+        "literal": "for-slaves",
+        "source": "KJV, ESV, NASB, HCSB; preposition + noun"
+      },
+      {
+        "position": 23,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "KJV, ESV, NASB, HCSB; conjunction + accusative marker"
+      },
+      {
+        "position": 24,
+        "surface": "חֲמֹרֵֽינוּ",
+        "phrase": "our donkeys",
+        "literal": "donkeys-our",
+        "source": "KJV, ESV, NASB, HCSB; noun + possessive suffix"
+      }
+    ]
+  }
+]

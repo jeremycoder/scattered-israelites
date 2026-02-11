@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֶׁ֣בַע",
+        "phrase": "And the seven",
+        "literal": "and-seven",
+        "source": "KJV, ESV, NASB (waw-consecutive + cardinal number)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ֠/פָּרוֹת",
+        "phrase": "cows",
+        "literal": "the-cows",
+        "source": "KJV (kine), ESV (cows), NASB (cows); definite article + fem. pl. noun"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/רַקּ֨וֹת",
+        "phrase": "lean",
+        "literal": "the-thin_fleshed",
+        "source": "KJV (lean), ESV (lean), NASB (gaunt); definite article + fem. pl. adj. participle"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הָ/רָעֹ֜ת",
+        "phrase": "and ugly",
+        "literal": "and-the-evil",
+        "source": "KJV (ill favoured), ESV (ugly), NASB (ugly); conj. + def. art. + fem. pl. adj."
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עֹלֹ֣ת",
+        "phrase": "that came up",
+        "literal": "the-coming_up",
+        "source": "KJV (came up), ESV (came up), NASB (came up); def. art. + fem. pl. participle"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֲרֵי/הֶ֗ן",
+        "phrase": "after them",
+        "literal": "after-them",
+        "source": "KJV, ESV, NASB (preposition + 3fs pronoun suffix)"
+      },
+      {
+        "position": 7,
+        "surface": "שֶׁ֤בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB (cardinal number)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁנִים֙",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB (fem. pl. noun)"
+      },
+      {
+        "position": 9,
+        "surface": "הֵ֔נָּה",
+        "phrase": "these",
+        "literal": "they",
+        "source": "KJV (these), ESV (these), NASB (these); demonstrative pronoun"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/שֶׁ֤בַע",
+        "phrase": "and the seven",
+        "literal": "and-seven",
+        "source": "KJV, ESV, NASB (waw + cardinal number)"
+      },
+      {
+        "position": 11,
+        "surface": "הַֽ/שִׁבֳּלִים֙",
+        "phrase": "ears of grain",
+        "literal": "the-ears",
+        "source": "KJV (ears), ESV (ears), NASB (heads of grain); def. art. + fem. pl. noun"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/רֵק֔וֹת",
+        "phrase": "empty",
+        "literal": "the-empty",
+        "source": "KJV (thin), ESV (thin), NASB (thin); def. art. + fem. pl. adj."
+      },
+      {
+        "position": 13,
+        "surface": "שְׁדֻפ֖וֹת",
+        "phrase": "blasted",
+        "literal": "scorched",
+        "source": "KJV (blasted), ESV (scorched), NASB (parched); fem. pl. participle"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/קָּדִ֑ים",
+        "phrase": "east wind",
+        "literal": "the-east",
+        "source": "KJV (east wind), ESV (east wind), NASB (east wind); def. art. + masc. sing. noun"
+      },
+      {
+        "position": 15,
+        "surface": "יִהְי֕וּ",
+        "phrase": "will be",
+        "literal": "they_will_be",
+        "source": "KJV, ESV, NASB (3mp imperfect of היה)"
+      },
+      {
+        "position": 16,
+        "surface": "שֶׁ֖בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "שְׁנֵ֥י",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB (dual construct form of שנה)"
+      },
+      {
+        "position": 18,
+        "surface": "רָעָֽב",
+        "phrase": "of famine",
+        "literal": "famine",
+        "source": "KJV, ESV, NASB (masc. sing. noun in construct state)"
+      }
+    ]
+  }
+]

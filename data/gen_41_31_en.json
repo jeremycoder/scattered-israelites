@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB (conjunction and negation)"
+      },
+      {
+        "position": 2,
+        "surface": "יִוָּדַ֤ע",
+        "phrase": "be known",
+        "literal": "be-known",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שָּׂבָע֙",
+        "phrase": "the plenty",
+        "literal": "the-abundance",
+        "source": "KJV (plenty), ESV (plenty), NASB (abundance)"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ/אָ֔רֶץ",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/פְּנֵ֛י",
+        "phrase": "because of",
+        "literal": "from-face_of",
+        "source": "KJV (by reason of), ESV (by reason of), NASB (because of)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/רָעָ֥ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "KJV (that), ESV (that), NASB (that); demonstrative"
+      },
+      {
+        "position": 8,
+        "surface": "אַחֲרֵי",
+        "phrase": "that follows",
+        "literal": "after",
+        "source": "KJV (following), ESV (that will follow), NASB (that will follow)"
+      },
+      {
+        "position": 9,
+        "surface": "כֵ֑ן",
+        "phrase": "it",
+        "literal": "thus",
+        "source": "KJV, ESV, NASB (implied in context); adverbial particle"
+      },
+      {
+        "position": 10,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (causal conjunction)"
+      },
+      {
+        "position": 11,
+        "surface": "כָבֵ֥ד",
+        "phrase": "it will be severe",
+        "literal": "heavy",
+        "source": "KJV (grievous), ESV (severe), NASB (severe)"
+      },
+      {
+        "position": 12,
+        "surface": "ה֖וּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "KJV, ESV, NASB (pronoun)"
+      },
+      {
+        "position": 13,
+        "surface": "מְאֹֽד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "KJV, ESV, NASB (intensifier)"
+      }
+    ]
+  }
+]

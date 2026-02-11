@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 51,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB (qara' = to call)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֛ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper name (Yowceph)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "Particle marking direct object (ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֥ם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB (shem = name)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בְּכ֖וֹר",
+        "phrase": "of the firstborn",
+        "literal": "the-firstborn",
+        "source": "KJV, ESV, NASB (bəkôr = firstborn)"
+      },
+      {
+        "position": 6,
+        "surface": "מְנַשֶּׁ֑ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "Proper name (causing-to-forget)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for-because",
+        "source": "KJV, ESV, NASB (introduces explanation)"
+      },
+      {
+        "position": 8,
+        "surface": "נַשַּׁ֤/נִי",
+        "phrase": "has made me forget",
+        "literal": "has-made-forget-me",
+        "source": "NASB, ESV (nashani = has made me forget)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB ('elohiym)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "Particle marking direct object"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עֲמָלִ֔/י",
+        "phrase": "my toil",
+        "literal": "my-toil",
+        "source": "KJV (amal = toil), NASB (trouble)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-[accusative_marker]",
+        "source": "Conjunction + object marker (KJV, ESV)"
+      },
+      {
+        "position": 14,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB (bayith = house)"
+      },
+      {
+        "position": 16,
+        "surface": "אָבִֽ/י",
+        "phrase": "of my father",
+        "literal": "my-father",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

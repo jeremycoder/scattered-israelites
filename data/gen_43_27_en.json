@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁאַ֤ל",
+        "phrase": "and he asked",
+        "literal": "and-he_asked",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of שׁאל)"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/הֶם֙",
+        "phrase": "them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB (preposition ל + 3mp pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/שָׁל֔וֹם",
+        "phrase": "about their welfare",
+        "literal": "to-peace",
+        "source": "KJV ('of their welfare'), ESV ('about their welfare'), NASB ('about their well-being')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB (waw-consecutive imperfect of אמר)"
+      },
+      {
+        "position": 5,
+        "surface": "הֲ/שָׁל֛וֹם",
+        "phrase": "Is it well",
+        "literal": "?peace",
+        "source": "KJV ('Is your father well'), ESV ('Is it well'), NASB ('Is it well')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבִי/כֶ֥ם",
+        "phrase": "with your father",
+        "literal": "father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/זָּקֵ֖ן",
+        "phrase": "the old man",
+        "literal": "the-old",
+        "source": "KJV ('the old man'), ESV ('the old man'), NASB ('the old man')"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "of whom",
+        "literal": "which/who",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲמַרְתֶּ֑ם",
+        "phrase": "you spoke",
+        "literal": "you_said",
+        "source": "KJV, ESV, NASB (2mp perfect of אמר)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/עוֹדֶ֖/נּוּ",
+        "phrase": "Is he still",
+        "literal": "?-still-him",
+        "source": "KJV ('Is he yet'), ESV ('Is he still'), NASB ('Is he still'); העודנו = ה + עוד + 3ms pron."
+      },
+      {
+        "position": 11,
+        "surface": "חָֽי",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

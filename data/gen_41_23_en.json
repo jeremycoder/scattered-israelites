@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִנֵּה֙",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB, NIV (conjunction + interjection)"
+      },
+      {
+        "position": 2,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁבֳּלִ֔ים",
+        "phrase": "heads of grain",
+        "literal": "ears-of-grain",
+        "source": "KJV (ears), ESV (heads), NASB (heads), NIV (heads)"
+      },
+      {
+        "position": 4,
+        "surface": "צְנֻמ֥וֹת",
+        "phrase": "withered",
+        "literal": "parched-f",
+        "source": "KJV (thin), ESV (thin), NASB (scrawny), NIV (withered); note: hardened or shriveled"
+      },
+      {
+        "position": 5,
+        "surface": "דַּקּ֖וֹת",
+        "phrase": "thin",
+        "literal": "thin-f",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁדֻפ֣וֹת",
+        "phrase": "blasted",
+        "literal": "blasted-f",
+        "source": "KJV, ESV (scorched), NASB (blasted), NIV (scorched)"
+      },
+      {
+        "position": 7,
+        "surface": "קָדִ֑ים",
+        "phrase": "by the east wind",
+        "literal": "east",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "צֹמְח֖וֹת",
+        "phrase": "sprang up",
+        "literal": "springing-up-f",
+        "source": "OpenBible (sprang up), context of growth"
+      },
+      {
+        "position": 9,
+        "surface": "אַחֲרֵי/הֶֽם",
+        "phrase": "after them",
+        "literal": "after-them",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB (waw-consecutive + ra'ah 'to see')"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֛ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָ֖י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּכִּרֵ֑/ם",
+        "phrase": "recognized them",
+        "literal": "and-he-recognized-them",
+        "source": "KJV, ESV, NASB (waw-consecutive + niphal/hithpael + accusative)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּתְנַכֵּ֨ר",
+        "phrase": "made himself strange",
+        "literal": "and-he-made-himself-strange",
+        "source": "KJV ('made himself strange'), NASB ('disguised himself'), ESV ('treated like strangers')"
+      },
+      {
+        "position": 7,
+        "surface": "אֲלֵי/הֶ֜ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְדַבֵּ֧ר",
+        "phrase": "spoke",
+        "literal": "and-he-spoke",
+        "source": "KJV, ESV, NASB (waw-consecutive + piel)"
+      },
+      {
+        "position": 9,
+        "surface": "אִתָּ֣/ם",
+        "phrase": "to them",
+        "literal": "with-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "קָשׁ֗וֹת",
+        "phrase": "harshly",
+        "literal": "harshly",
+        "source": "KJV ('roughly'), ESV/NASB ('harshly')"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB (waw-consecutive + qal)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲלֵ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מֵ/אַ֣יִן",
+        "phrase": "from where",
+        "literal": "from-where",
+        "source": "KJV ('Whence'), ESV/NASB ('Where')"
+      },
+      {
+        "position": 14,
+        "surface": "בָּאתֶ֔ם",
+        "phrase": "have you come",
+        "literal": "you-came",
+        "source": "KJV, ESV, NASB (2mp qal)"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יֹּ֣אמְר֔וּ",
+        "phrase": "they said",
+        "literal": "and-they-said",
+        "source": "KJV, ESV, NASB (waw-consecutive + qal 3mp)"
+      },
+      {
+        "position": 16,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from the land",
+        "literal": "from-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "כְּנַ֖עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "לִ/שְׁבָּר",
+        "phrase": "to buy",
+        "literal": "to-buy",
+        "source": "KJV, ESV, NASB (infinitive construct + lamed)"
+      },
+      {
+        "position": 19,
+        "surface": "אֹֽכֶל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּאכַ֣לְנָה",
+        "phrase": "and they ate",
+        "literal": "and-they_ate",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/פָּר֗וֹת",
+        "phrase": "the cows",
+        "literal": "the-cows",
+        "source": "KJV (kine), ESV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "רָע֤וֹת",
+        "phrase": "ugly",
+        "literal": "evil/bad",
+        "source": "ESV (ugly), KJV (ill favoured), NIV"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מַּרְאֶה֙",
+        "phrase": "in appearance",
+        "literal": "the-appearance",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/דַקֹּ֣ת",
+        "phrase": "and gaunt",
+        "literal": "and-thin",
+        "source": "ESV, NIV, KJV (lean)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/בָּשָׂ֔ר",
+        "phrase": "of flesh",
+        "literal": "the-flesh",
+        "source": "KJV (leanfleshed), ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle (ESV, NIV)"
+      },
+      {
+        "position": 8,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "the seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/פָּר֔וֹת",
+        "phrase": "cows",
+        "literal": "the-cows",
+        "source": "KJV (kine), ESV, NIV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יְפֹ֥ת",
+        "phrase": "beautiful",
+        "literal": "beautiful",
+        "source": "ESV (attractive), KJV (well favoured), NIV (sleek)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/מַּרְאֶ֖ה",
+        "phrase": "in appearance",
+        "literal": "the-appearance",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הַ/בְּרִיאֹ֑ת",
+        "phrase": "and healthy",
+        "literal": "and-the-fat/healthy",
+        "source": "ESV (plump), KJV (fat), NIV (fat)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יִּיקַ֖ץ",
+        "phrase": "and he awoke",
+        "literal": "and-he_awoke",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NIV, NASB"
+      }
+    ]
+  }
+]

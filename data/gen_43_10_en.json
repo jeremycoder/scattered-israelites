@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֖י",
+        "phrase": "for",
+        "literal": "for-that",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 2,
+        "surface": "לוּלֵ֣א",
+        "phrase": "if we had not",
+        "literal": "if-not",
+        "source": "KJV ('except'), ESV, NASB (negative conditional particle)"
+      },
+      {
+        "position": 3,
+        "surface": "הִתְמַהְמָ֑הְנוּ",
+        "phrase": "delayed",
+        "literal": "we-had-lingered/procrastinated",
+        "source": "ESV ('delayed'), NET ('delayed'), NASB ('delayed')"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "surely",
+        "literal": "for-that",
+        "source": "KJV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 5,
+        "surface": "עַתָּ֥ה",
+        "phrase": "by now",
+        "literal": "now",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שַׁ֖בְנוּ",
+        "phrase": "we could have returned",
+        "literal": "we-had-returned",
+        "source": "ESV, NET, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "זֶ֥ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "KJV ('this'), NET ('by now')"
+      },
+      {
+        "position": 8,
+        "surface": "פַעֲמָֽיִם",
+        "phrase": "twice",
+        "literal": "times-two",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

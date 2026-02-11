@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֛אוּ",
+        "phrase": "they came",
+        "literal": "and-they_came",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "direct object marker/preposition (NIV, KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "יַעֲקֹ֥ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִי/הֶ֖ם",
+        "phrase": "their father",
+        "literal": "father-their",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "אַ֣רְצָ/ה",
+        "phrase": "to the land",
+        "literal": "land-to",
+        "source": "NIV, Mechon-Mamre, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּגִּ֣ידוּ",
+        "phrase": "and they told",
+        "literal": "and-they_declared",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "ל֔/וֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֛ת",
+        "phrase": "(direct object marker)",
+        "literal": "obj_marker",
+        "source": "standard Hebrew particle (untranslated in NIV, KJV, ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "NIV, KJV, ESV, Chabad"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/קֹּרֹ֥ת",
+        "phrase": "that had happened",
+        "literal": "the-things_happening",
+        "source": "NIV ('happened'), Chabad ('befallen'), Mechon-Mamre"
+      },
+      {
+        "position": 12,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "to them",
+        "literal": "obj-them",
+        "source": "NIV, Chabad, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, Mechon-Mamre, Chabad ('saying')"
+      }
+    ]
+  }
+]

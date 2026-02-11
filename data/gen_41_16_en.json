@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֨עַן",
+        "phrase": "answered",
+        "literal": "and-he_answered",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֧ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֛ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֖ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "בִּלְעָדָ֑/י",
+        "phrase": "not in me",
+        "literal": "without_me",
+        "source": "KJV ('not in me'), ESV ('not in me'), NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִ֕ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "יַעֲנֶ֖ה",
+        "phrase": "will give an answer",
+        "literal": "he_will_answer",
+        "source": "KJV, ESV ('will give'), NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁל֥וֹם",
+        "phrase": "a favorable answer",
+        "literal": "peace",
+        "source": "KJV ('of peace'), ESV ('favorable'), NASB ('favorable'), HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

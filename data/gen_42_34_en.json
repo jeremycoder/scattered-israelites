@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ֠הָבִיאוּ",
+        "phrase": "bring",
+        "literal": "and-bring-PL",
+        "source": "ESV, NIV, KJV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "OBJ",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחִי/כֶ֣ם",
+        "phrase": "your brother",
+        "literal": "brother-your-PL",
+        "source": "ESV, NIV, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קָּטֹן֮",
+        "phrase": "youngest",
+        "literal": "the-little",
+        "source": "ESV, NIV, KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֵלַ/י֒",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "ESV, NIV, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵֽדְעָ֗ה",
+        "phrase": "then I will know",
+        "literal": "and-I-will-know",
+        "source": "ESV, NIV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "ESV, NIV; conjunction"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "ESV, NIV, KJV; negative particle"
+      },
+      {
+        "position": 9,
+        "surface": "מְרַגְּלִים֙",
+        "phrase": "spies",
+        "literal": "spies",
+        "source": "ESV, NIV, KJV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אַתֶּ֔ם",
+        "phrase": "you",
+        "literal": "you-PL",
+        "source": "ESV, NIV; pronoun"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֥י",
+        "phrase": "but",
+        "literal": "that",
+        "source": "ESV, NIV; conjunction"
+      },
+      {
+        "position": 12,
+        "surface": "כֵנִ֖ים",
+        "phrase": "honest",
+        "literal": "upright-PL",
+        "source": "ESV, NIV, KJV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אַתֶּ֑ם",
+        "phrase": "you are",
+        "literal": "you-PL",
+        "source": "ESV, NIV; pronoun"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "OBJ",
+        "source": "grammatical particle"
+      },
+      {
+        "position": 15,
+        "surface": "אֲחִי/כֶם֙",
+        "phrase": "your brother",
+        "literal": "brother-your-PL",
+        "source": "ESV, NIV, KJV"
+      },
+      {
+        "position": 16,
+        "surface": "אֶתֵּ֣ן",
+        "phrase": "I will give",
+        "literal": "I-will-give",
+        "source": "ESV, NIV, NASB, KJV"
+      },
+      {
+        "position": 17,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to-you-PL",
+        "source": "ESV, NIV, KJV"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "ESV, NIV; conjunction + particle"
+      },
+      {
+        "position": 19,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "ESV, NIV, KJV, NASB"
+      },
+      {
+        "position": 20,
+        "surface": "תִּסְחָֽרוּ",
+        "phrase": "you shall trade",
+        "literal": "you-will-trade-PL",
+        "source": "ESV, KJV, NASB (traffick/trade)"
+      }
+    ]
+  }
+]

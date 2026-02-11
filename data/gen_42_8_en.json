@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּכֵּ֥ר",
+        "phrase": "recognized",
+        "literal": "and-he-recognized",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[3]"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "Particle; standard in all translations"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָ֑י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV ('his brethren'), ESV, NASB, Mechon-Mamre[3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הֵ֖ם",
+        "phrase": "but they",
+        "literal": "and-they",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[3]"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הִכִּרֻֽ/הוּ",
+        "phrase": "recognized him",
+        "literal": "recognized-him",
+        "source": "KJV ('knew...him not'), ESV, NASB, Mechon-Mamre[3]"
+      }
+    ]
+  }
+]

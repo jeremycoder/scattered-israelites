@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 52,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛ת",
+        "phrase": "and",
+        "literal": "and-OBJ.marker",
+        "source": "standard Hebrew grammar; conjunction and object marker (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֥ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שֵּׁנִ֖י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      },
+      {
+        "position": 4,
+        "surface": "קָרָ֣א",
+        "phrase": "he called",
+        "literal": "he called",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      },
+      {
+        "position": 5,
+        "surface": "אֶפְרָ֑יִם",
+        "phrase": "Ephraim",
+        "literal": "Ephraim",
+        "source": "proper name; KJV, ESV, NASB, NIV[1][2][3]"
+      },
+      {
+        "position": 6,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      },
+      {
+        "position": 7,
+        "surface": "הִפְרַ֥/נִי",
+        "phrase": "has made me fruitful",
+        "literal": "has made fruitful-me",
+        "source": "related to Ephraim; KJV, ESV, NASB, NIV[1][2][3]"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      },
+      {
+        "position": 10,
+        "surface": "עָנְיִֽ/י",
+        "phrase": "of my affliction",
+        "literal": "of affliction-my",
+        "source": "KJV, ESV, NASB, NIV[1][3]"
+      }
+    ]
+  }
+]

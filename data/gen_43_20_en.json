@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֖וּ",
+        "phrase": "and they said",
+        "literal": "and-said-they",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "בִּ֣י",
+        "phrase": "please",
+        "literal": "please",
+        "source": "Particle of entreaty; ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אֲדֹנִ֑/י",
+        "phrase": "my lord",
+        "literal": "my-lord",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יָרֹ֥ד",
+        "phrase": "indeed",
+        "literal": "to-descend",
+        "source": "Infinitive absolute for emphasis; NET, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "יָרַ֛דְנוּ",
+        "phrase": "we came down",
+        "literal": "we-descended",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/תְּחִלָּ֖ה",
+        "phrase": "the first time",
+        "literal": "in-the-beginning",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/שְׁבָּר",
+        "phrase": "to buy",
+        "literal": "to-buy",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֹֽכֶל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

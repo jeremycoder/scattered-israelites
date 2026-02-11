@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּ֥אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵהֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "All translations; proper noun"
+      },
+      {
+        "position": 4,
+        "surface": "ה֗וּא",
+        "phrase": "it is",
+        "literal": "that-one",
+        "source": "KJV, ESV, NASB; demonstrative pronoun functioning as copula"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "that",
+        "source": "KJV, ESV, NASB; relative pronoun"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבַּ֧רְתִּי",
+        "phrase": "I said",
+        "literal": "I.spoke",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲלֵכֶ֛ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "לֵאמֹ֖ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB; infinitive construct introducing direct speech"
+      },
+      {
+        "position": 9,
+        "surface": "מְרַגְּלִ֥ים",
+        "phrase": "spies",
+        "literal": "spies",
+        "source": "KJV, ESV, NASB, HCSB; plural masculine noun"
+      },
+      {
+        "position": 10,
+        "surface": "אַתֶּֽם",
+        "phrase": "you are",
+        "literal": "you",
+        "source": "KJV, ESV, NASB, HCSB; second person masculine plural pronoun"
+      }
+    ]
+  }
+]

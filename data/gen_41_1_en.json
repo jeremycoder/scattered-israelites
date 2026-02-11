@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "wayyiqtol of היה; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/קֵּ֖ץ",
+        "phrase": "at the end",
+        "literal": "from-end",
+        "source": "preposition מִן + קֵץ; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁנָתַ֣יִם",
+        "phrase": "of two years",
+        "literal": "years-two",
+        "source": "dual of שָׁנָה; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "יָמִ֑ים",
+        "phrase": "full",
+        "literal": "days",
+        "source": "idiomatic 'two years, days'; NET tn, KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/פַרְעֹ֣ה",
+        "phrase": "that Pharaoh",
+        "literal": "and-Pharaoh",
+        "source": "waw + proper name; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "חֹלֵ֔ם",
+        "phrase": "dreamed",
+        "literal": "was-dreaming",
+        "source": "qatal participle of חָלַם; NET tn, KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִנֵּ֖ה",
+        "phrase": "and behold",
+        "literal": "and-lo",
+        "source": "narrative particle; KJV, Mechon-Mamre, NET"
+      },
+      {
+        "position": 8,
+        "surface": "עֹמֵ֥ד",
+        "phrase": "he was standing",
+        "literal": "standing",
+        "source": "qatal participle of עָמַד; KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יְאֹֽר",
+        "phrase": "the Nile",
+        "literal": "the-river",
+        "source": "הַ + יְאֹר (Egyptian loanword); NET tn, KJV, ESV, NASB"
+      }
+    ]
+  }
+]

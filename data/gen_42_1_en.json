@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣רְא",
+        "phrase": "saw",
+        "literal": "and-he_saw",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB; subordinating conjunction"
+      },
+      {
+        "position": 4,
+        "surface": "יֶשׁ",
+        "phrase": "there was",
+        "literal": "there_is",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֖בֶר",
+        "phrase": "grain",
+        "literal": "grain",
+        "source": "KJV (corn), ESV/NASB (grain), NET (grain)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/מִצְרָ֑יִם",
+        "phrase": "in Egypt",
+        "literal": "in-Egypt",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/בָנָ֔י/ו",
+        "phrase": "to his sons",
+        "literal": "to-sons-his",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "לָ֖/מָּה",
+        "phrase": "why",
+        "literal": "for-what",
+        "source": "KJV, ESV, NASB; interrogative"
+      },
+      {
+        "position": 11,
+        "surface": "תִּתְרָאֽוּ",
+        "phrase": "are you staring",
+        "literal": "you_see_each_other",
+        "source": "KJV (look one upon another), ESV/NET (looking at each other), NASB (staring)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁנֵים",
+        "phrase": "twelve",
+        "literal": "two-m",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂ֥ר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲנַ֛חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אַחִ֖ים",
+        "phrase": "brothers",
+        "literal": "brothers",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֑י/נוּ",
+        "phrase": "of our father",
+        "literal": "father-our",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֶחָ֣ד",
+        "phrase": "one",
+        "literal": "the-one",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֵינֶ֔/נּוּ",
+        "phrase": "is not",
+        "literal": "not-he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/קָּטֹ֥ן",
+        "phrase": "the youngest",
+        "literal": "and-the-young",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יּ֛וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "[direct-object-marker]",
+        "source": "ESV, NASB (particle)"
+      },
+      {
+        "position": 12,
+        "surface": "אָבִ֖י/נוּ",
+        "phrase": "our father",
+        "literal": "father-our",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "כְּנָֽעַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

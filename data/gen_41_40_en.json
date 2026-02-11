@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַתָּה",
+        "phrase": "You",
+        "literal": "you-2ms",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 2,
+        "surface": "תִּהְיֶה",
+        "phrase": "shall be",
+        "literal": "be-2ms.impf",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon-prep",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּיתִי",
+        "phrase": "my house",
+        "literal": "house-1cs",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 5,
+        "surface": "וְעַל",
+        "phrase": "and according to",
+        "literal": "and-conj upon-prep",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 6,
+        "surface": "פִּיךָ",
+        "phrase": "your command",
+        "literal": "mouth-2ms",
+        "source": "KJV (word), ESV (command), NIV (orders), NASB (command); Hebrew literally 'mouth' used idiomatically for command"
+      },
+      {
+        "position": 7,
+        "surface": "יִשַּׁק",
+        "phrase": "shall order themselves / shall kiss",
+        "literal": "kiss-3ms.impf",
+        "source": "KJV (ruled), ESV (order themselves), NIV (submit), NASB (obedient); Hebrew root נשק can mean 'kiss' or 'arm themselves'; commentaries note homage interpretation"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-ms",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 9,
+        "surface": "עַמִּי",
+        "phrase": "my people",
+        "literal": "people-1cs",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 10,
+        "surface": "רַק",
+        "phrase": "only",
+        "literal": "only-adv",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 11,
+        "surface": "הַכִּסֵּא",
+        "phrase": "the throne",
+        "literal": "the-art throne-ms",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶגְדַּל",
+        "phrase": "will I be greater",
+        "literal": "be-great-1cs.impf",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      },
+      {
+        "position": 13,
+        "surface": "מִמֶּךָ",
+        "phrase": "than you",
+        "literal": "from-prep you-2ms",
+        "source": "KJV, ESV, NIV, NASB, CSB"
+      }
+    ]
+  }
+]

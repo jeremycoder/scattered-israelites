@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּרְכֵּ֣ב",
+        "phrase": "he had him ride",
+        "literal": "and-caused-to-ride",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "אֹת֗/וֹ",
+        "phrase": "him",
+        "literal": "[direct-object-marker]-him",
+        "source": "standard accusative marker (ESV, KJV)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/מִרְכֶּ֤בֶת",
+        "phrase": "in the chariot",
+        "literal": "in-chariot",
+        "source": "ESV, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מִּשְׁנֶה֙",
+        "phrase": "of the second",
+        "literal": "the-second",
+        "source": "ESV 'second chariot', KJV 'second'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun (ESV, Mechon-Mamre)"
+      },
+      {
+        "position": 6,
+        "surface": "ל֔/וֹ",
+        "phrase": "he had",
+        "literal": "to-him",
+        "source": "possessive pronoun (ESV, KJV)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּקְרְא֥וּ",
+        "phrase": "and they called out",
+        "literal": "and-they-called",
+        "source": "ESV, YLT"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/פָנָ֖י/ו",
+        "phrase": "before him",
+        "literal": "to-before-him",
+        "source": "ESV, Mechon-Mamre"
+      },
+      {
+        "position": 9,
+        "surface": "אַבְרֵ֑ךְ",
+        "phrase": "Bow the knee!",
+        "literal": "abrek (Egyptian: kneel/bow)",
+        "source": "ESV, NASB; Chabad 'king's patron'; debated term"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/נָת֣וֹן",
+        "phrase": "appointing",
+        "literal": "and-giving/placing",
+        "source": "infinitive; Chabad, Mechon-Mamre"
+      },
+      {
+        "position": 11,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "him",
+        "literal": "[direct-object-marker]-him",
+        "source": "standard accusative marker (ESV, KJV)"
+      },
+      {
+        "position": 12,
+        "surface": "עַ֖ל",
+        "phrase": "over",
+        "literal": "upon/over",
+        "source": "ESV, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "ESV, Mechon-Mamre"
+      },
+      {
+        "position": 14,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "ESV, KJV"
+      },
+      {
+        "position": 15,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

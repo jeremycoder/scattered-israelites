@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֶּאֱסֹ֥ף",
+        "phrase": "he put",
+        "literal": "and-he-gathered",
+        "source": "KJV, ESV, NASB, Mechon-Mamre (put/gathered them)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "[direct-object-marker]-them",
+        "source": "standard Hebrew grammar (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to",
+        "source": "KJV (into), ESV (in), NASB (in)"
+      },
+      {
+        "position": 4,
+        "surface": "מִשְׁמָ֖ר",
+        "phrase": "prison",
+        "literal": "guard/ward",
+        "source": "KJV (ward), ESV (custody), NASB (prison), Mechon-Mamre (ward)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁלֹ֥שֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "יָמִֽים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

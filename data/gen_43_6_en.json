@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "And said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "proper name (Jacob); KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/מָ֥ה",
+        "phrase": "Why",
+        "literal": "for-what",
+        "source": "interrogative; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הֲרֵעֹתֶ֖ם",
+        "phrase": "did you deal evilly",
+        "literal": "did-you-treat-badly",
+        "source": "Hiphil perfect 2mp from ra'a; KJV ('dealt ye so ill'), ESV ('treat me so badly'), NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לִ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "dative preposition + 1cs suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/הַגִּ֣יד",
+        "phrase": "to tell",
+        "literal": "to-tell",
+        "source": "infinitive construct from nagad; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/אִ֔ישׁ",
+        "phrase": "the man",
+        "literal": "to-the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/ע֥וֹד",
+        "phrase": "still",
+        "literal": "the-still",
+        "source": "KJV ('yet'), ESV ('another'), NASB; interrogative sense 'whether still'"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "you have",
+        "literal": "to-you",
+        "source": "dative preposition + 2mp suffix; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אָֽח",
+        "phrase": "a brother",
+        "literal": "brother",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

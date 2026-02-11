@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "particle of motion; KJV, ESV, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "חֲל֥וֹם",
+        "phrase": "dream",
+        "literal": "dream",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "of Pharaoh",
+        "literal": "Pharaoh's",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֶחָ֣ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "ה֑וּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "emphatic pronoun; KJV, ESV, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֣ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "accusative marker; not translated"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "what",
+        "literal": "which-that",
+        "source": "relative pronoun; KJV, ESV, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עֹשֶׂ֖ה",
+        "phrase": "is doing",
+        "literal": "doing",
+        "source": "KJV (doing), ESV (revealed); participle"
+      },
+      {
+        "position": 13,
+        "surface": "הִגִּ֥יד",
+        "phrase": "has told/shown",
+        "literal": "has-declared",
+        "source": "KJV (shewed), ESV (revealed), NIV (revealed)"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/פַרְעֹֽה",
+        "phrase": "to Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "KJV, ESV, NIV, NASB"
+      }
+    ]
+  }
+]

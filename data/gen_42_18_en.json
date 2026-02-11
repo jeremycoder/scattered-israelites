@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶ֤ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "in_the-day",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שְּׁלִישִׁ֔י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "זֹ֥את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "NET (tn: 'Do this'), KJV, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "עֲשׂ֖וּ",
+        "phrase": "do",
+        "literal": "do!",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וִֽ/חְי֑וּ",
+        "phrase": "and live",
+        "literal": "and-live!",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative_marker",
+        "source": "standard Hebrew grammar"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "יָרֵֽא",
+        "phrase": "fear",
+        "literal": "fear",
+        "source": "KJV ('fear God'), ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "ESV, KJV, NASB (waw-consecutive imperfect of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; ESV, KJV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אַחֲרֵ֨י",
+        "phrase": "since",
+        "literal": "after",
+        "source": "KJV ('Forasmuch as'), ESV ('Since'), NASB; preposition meaning 'after'"
+      },
+      {
+        "position": 6,
+        "surface": "הוֹדִ֧יעַ",
+        "phrase": "has shown",
+        "literal": "has_made_known",
+        "source": "ESV, KJV, NASB (hiphil perfect of yada, 'to make known')"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִ֛ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אוֹתְ/ךָ֖",
+        "phrase": "you",
+        "literal": "direct_object-you",
+        "source": "ESV, KJV, NASB (et + 2ms suffix)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct_object_marker",
+        "source": "standard Hebrew particle; not translated"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֵין",
+        "phrase": "there is none",
+        "literal": "not_is",
+        "source": "ESV, KJV, NASB (negative existential)"
+      },
+      {
+        "position": 13,
+        "surface": "נָב֥וֹן",
+        "phrase": "discerning",
+        "literal": "discerning",
+        "source": "ESV ('discerning'), NASB ('discerning'), KJV ('discreet'); from bin"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/חָכָ֖ם",
+        "phrase": "and wise",
+        "literal": "and-wise",
+        "source": "ESV, KJV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "כָּמֽוֹ/ךָ",
+        "phrase": "as you",
+        "literal": "like-you",
+        "source": "ESV, KJV, NASB"
+      }
+    ]
+  }
+]

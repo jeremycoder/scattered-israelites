@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּישָׁ֕ן",
+        "phrase": "and he fell asleep",
+        "literal": "and-he_slept",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 2,
+        "surface": "וַֽ/יַּחֲלֹ֖ם",
+        "phrase": "and dreamed",
+        "literal": "and-he_dreamed",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁנִ֑ית",
+        "phrase": "a second time",
+        "literal": "second",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּ֣ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, NASB, ESV, NET; discourse marker drawing attention"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁבֳּלִ֗ים",
+        "phrase": "ears of grain",
+        "literal": "ears",
+        "source": "NASB, ESV, NET; KJV 'ears of corn'"
+      },
+      {
+        "position": 7,
+        "surface": "עֹל֛וֹת",
+        "phrase": "came up",
+        "literal": "coming_up",
+        "source": "NET, Mechon-Mamre; participle 'ascending'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/קָנֶ֥ה",
+        "phrase": "on one stalk",
+        "literal": "in-stalk",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 9,
+        "surface": "אֶחָ֖ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, NASB, ESV, NET"
+      },
+      {
+        "position": 10,
+        "surface": "בְּרִיא֥וֹת",
+        "phrase": "plump",
+        "literal": "healthy",
+        "source": "NASB, ESV, NET; KJV 'rank'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/טֹבֽוֹת",
+        "phrase": "and good",
+        "literal": "and-good",
+        "source": "KJV, NASB, ESV, NET"
+      }
+    ]
+  }
+]

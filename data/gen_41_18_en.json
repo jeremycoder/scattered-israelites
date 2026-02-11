@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִנֵּ֣ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NIV, NASB (narrative introducer)"
+      },
+      {
+        "position": 2,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "KJV, ESV, NIV (preposition of origin)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יְאֹ֗ר",
+        "phrase": "the Nile",
+        "literal": "the-river",
+        "source": "KJV (river), ESV/NIV (Nile); יְאֹר = Nile in Egyptian context [1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "עֹלֹת֙",
+        "phrase": "came up",
+        "literal": "coming-up",
+        "source": "KJV, ESV, NIV, NASB [1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NIV [1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "פָּר֔וֹת",
+        "phrase": "cows",
+        "literal": "cows",
+        "source": "KJV (kine), ESV/NIV (cows) [1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "בְּרִיא֥וֹת",
+        "phrase": "fat",
+        "literal": "healthy",
+        "source": "KJV (fatfleshed), ESV (plump), NIV (fat) [1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "בָּשָׂ֖ר",
+        "phrase": "of flesh",
+        "literal": "flesh",
+        "source": "KJV (fatfleshed), ESV (attractive) [1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "וִ/יפֹ֣ת",
+        "phrase": "and sleek",
+        "literal": "and-beautiful",
+        "source": "KJV (well favoured), ESV/NIV (sleek) [1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "תֹּ֑אַר",
+        "phrase": "in appearance",
+        "literal": "form/appearance",
+        "source": "KJV (well favoured), ESV (attractive) [1][2]"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תִּרְעֶ֖ינָה",
+        "phrase": "and they grazed",
+        "literal": "and-they grazed",
+        "source": "KJV (fed), ESV/NIV (grazed) [1][2]"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אָֽחוּ",
+        "phrase": "in the reeds",
+        "literal": "in-meadow/reeds",
+        "source": "KJV (meadow), ESV/NIV (reeds/marsh grass) [1][2]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "KJV, ESV, NASB (object marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "בִּנְיָמִין֙",
+        "phrase": "Benjamin",
+        "literal": "Benjamin",
+        "source": "proper name, KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחִ֣י",
+        "phrase": "the brother of",
+        "literal": "brother-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name, KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁלַ֥ח",
+        "phrase": "did send",
+        "literal": "send",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name, KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "OBJ",
+        "source": "object marker, KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶחָ֑י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אָמַ֔ר",
+        "phrase": "he said",
+        "literal": "say",
+        "source": "KJV, ESV, NASB; NET notes possible 'thought'"
+      },
+      {
+        "position": 12,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "יִקְרָאֶ֖/נּוּ",
+        "phrase": "it happen to him",
+        "literal": "meet-him",
+        "source": "KJV ('befall him'), ESV, NASB; Mechon-Mamre"
+      },
+      {
+        "position": 14,
+        "surface": "אָסֽוֹן",
+        "phrase": "disaster",
+        "literal": "disaster",
+        "source": "KJV ('mischief'), ESV/NASB ('harm'), Mechon-Mamre"
+      }
+    ]
+  }
+]

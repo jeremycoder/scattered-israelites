@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּ֣ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "KJV, ASV, JPS; particle drawing attention"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁמַ֔עְתִּי",
+        "phrase": "I have heard",
+        "literal": "I-have-heard",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV; conjunction introducing clause"
+      },
+      {
+        "position": 5,
+        "surface": "יֶשׁ",
+        "phrase": "there is",
+        "literal": "there-is",
+        "source": "ESV, NASB; existential particle"
+      },
+      {
+        "position": 6,
+        "surface": "שֶׁ֖בֶר",
+        "phrase": "grain",
+        "literal": "grain",
+        "source": "KJV (corn), ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/מִצְרָ֑יִם",
+        "phrase": "in Egypt",
+        "literal": "in-Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "רְדוּ",
+        "phrase": "go down",
+        "literal": "go-down",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁ֨מָּ/ה֙",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV (thither), ESV; directional particle"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/שִׁבְרוּ",
+        "phrase": "and buy",
+        "literal": "and-buy",
+        "source": "KJV, ESV, NASB (from root of grain)"
+      },
+      {
+        "position": 11,
+        "surface": "לָ֣/נוּ",
+        "phrase": "for us",
+        "literal": "for-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/שָּׁ֔ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/נִחְיֶ֖ה",
+        "phrase": "and we will live",
+        "literal": "and-we-will-live",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "KJV, ESV; negative particle"
+      },
+      {
+        "position": 15,
+        "surface": "נָמֽוּת",
+        "phrase": "die",
+        "literal": "we-will-die",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

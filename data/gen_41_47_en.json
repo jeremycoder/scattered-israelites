@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 47,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּ֣עַשׂ",
+        "phrase": "and produced",
+        "literal": "and-made",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the land",
+        "literal": "the-earth",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/שֶׁ֖בַע",
+        "phrase": "in seven",
+        "literal": "in-seven",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁנֵ֣י",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׂבָ֑ע",
+        "phrase": "of plenty",
+        "literal": "the-abundance",
+        "source": "KJV (plenteous), ESV (plentiful), NASB (plenty)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/קְמָצִֽים",
+        "phrase": "by handfuls",
+        "literal": "to-handfuls",
+        "source": "KJV, ASV; lit. 'in handfuls'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵם֙",
+        "phrase": "And they",
+        "literal": "and-they",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negative particle)"
+      },
+      {
+        "position": 3,
+        "surface": "יָֽדְע֔וּ",
+        "phrase": "knew",
+        "literal": "knew",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB (introducing clause)"
+      },
+      {
+        "position": 5,
+        "surface": "שֹׁמֵ֖עַ",
+        "phrase": "understood",
+        "literal": "hearing-ptcp.m.sg",
+        "source": "ESV, NASB; KJV 'understood'; lit. 'hearing'"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "KJV, ESV, NASB (causal)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מֵּלִ֖יץ",
+        "phrase": "the interpreter",
+        "literal": "the-interpreter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּינֹתָֽ/ם",
+        "phrase": "between them",
+        "literal": "between-them",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

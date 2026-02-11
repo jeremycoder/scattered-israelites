@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "KJV, ESV, NASB, NIV (conditional particle)"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּנִ֣ים",
+        "phrase": "honest",
+        "literal": "honest-true",
+        "source": "KJV (true men), ESV (honest men), NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אַתֶּ֔ם",
+        "phrase": "you",
+        "literal": "you-PL",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "אֲחִי/כֶ֣ם",
+        "phrase": "your brother",
+        "literal": "brother-your-PL",
+        "source": "KJV (brethren), ESV (brothers), NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "יֵאָסֵ֖ר",
+        "phrase": "be confined",
+        "literal": "be-bound",
+        "source": "KJV (be bound), ESV (remain confined), NASB (be confined)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/בֵ֣ית",
+        "phrase": "in the house of",
+        "literal": "in-house-of",
+        "source": "KJV (in the house of), ESV (where you are in custody), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׁמַרְ/כֶ֑ם",
+        "phrase": "your prison",
+        "literal": "guard-your-PL",
+        "source": "KJV (prison), NASB (prison), ESV (custody)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אַתֶּם֙",
+        "phrase": "and you",
+        "literal": "and-you-PL",
+        "source": "KJV (but go ye), ESV (let the rest go), NASB (as for the rest of you)"
+      },
+      {
+        "position": 10,
+        "surface": "לְכ֣וּ",
+        "phrase": "go",
+        "literal": "go-IMPERATIVE-PL",
+        "source": "KJV (go ye), ESV (go), NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "הָבִ֔יאוּ",
+        "phrase": "take/carry",
+        "literal": "bring-IMPERATIVE-PL",
+        "source": "KJV (carry), ESV (carry), NASB (carry)"
+      },
+      {
+        "position": 12,
+        "surface": "שֶׁ֖בֶר",
+        "phrase": "grain",
+        "literal": "grain",
+        "source": "KJV (corn/grain), ESV (grain), NASB (grain)"
+      },
+      {
+        "position": 13,
+        "surface": "רַעֲב֥וֹן",
+        "phrase": "famine",
+        "literal": "hunger-famine",
+        "source": "KJV (famine), ESV (famine), NASB (famine)"
+      },
+      {
+        "position": 14,
+        "surface": "בָּתֵּי/כֶֽם",
+        "phrase": "your households",
+        "literal": "houses-your-PL",
+        "source": "KJV (houses), ESV (households), NASB (households), NIV"
+      }
+    ]
+  }
+]

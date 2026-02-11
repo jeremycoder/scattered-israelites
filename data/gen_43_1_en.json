@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָ/רָעָ֖ב",
+        "phrase": "but the famine",
+        "literal": "and-the-famine",
+        "source": "KJV, ESV, NASB (waw disjunctive 'however/but'; definite article; רָעָב 'famine')"
+      },
+      {
+        "position": 2,
+        "surface": "כָּבֵ֥ד",
+        "phrase": "was severe",
+        "literal": "was-heavy",
+        "source": "KJV ('sore'), ESV ('severe'), NASB ('severe'); Qal perfect of כָּבֵד 'to be heavy/severe'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "KJV, ESV, NASB (preposition בְּ 'in'; definite article; אֶרֶץ 'land/earth')"
+      }
+    ]
+  }
+]

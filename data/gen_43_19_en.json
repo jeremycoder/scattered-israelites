@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יִּגְּשׁוּ֙",
+        "phrase": "they approached",
+        "literal": "and-they_approached",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אִ֔ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "who",
+        "literal": "who/which",
+        "source": "relative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over/on",
+        "source": "preposition (ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph's",
+        "literal": "Joseph",
+        "source": "proper name (KJV, ESV, Mechon-Mamre)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְדַבְּר֥וּ",
+        "phrase": "they spoke",
+        "literal": "and-they_spoke",
+        "source": "KJV ('communed'), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "פֶּ֥תַח",
+        "phrase": "at the entrance",
+        "literal": "entrance/doorway",
+        "source": "ESV, NASB, KJV ('door')"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/בָּֽיִת",
+        "phrase": "of the house",
+        "literal": "the-house",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 49,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּצְבֹּר",
+        "phrase": "and he gathered",
+        "literal": "and-he.gathered",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "בָּר",
+        "phrase": "grain",
+        "literal": "grain",
+        "source": "KJV (corn), NASB, ESV, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "כְּחוֹל",
+        "phrase": "like the sand",
+        "literal": "like-sand",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "הַיָּם",
+        "phrase": "of the sea",
+        "literal": "the-sea",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "הַרְבֵּה",
+        "phrase": "in great abundance",
+        "literal": "abundance",
+        "source": "NASB, ESV; KJV 'very much'"
+      },
+      {
+        "position": 7,
+        "surface": "מְאֹד",
+        "phrase": "very much",
+        "literal": "very-much",
+        "source": "KJV, NASB; intensifies preceding noun"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "KJV, NASB, ESV; introduces causal clause"
+      },
+      {
+        "position": 10,
+        "surface": "חָדַל",
+        "phrase": "he stopped",
+        "literal": "he.ceased",
+        "source": "NASB, ESV; KJV 'left off'"
+      },
+      {
+        "position": 11,
+        "surface": "לִסְפֹּר",
+        "phrase": "measuring",
+        "literal": "to-count",
+        "source": "KJV (numbering), NASB, ESV, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "KJV, NASB, ESV; introduces second causal clause"
+      },
+      {
+        "position": 13,
+        "surface": "אֵין",
+        "phrase": "there was no",
+        "literal": "there.is.not",
+        "source": "KJV, NASB, ESV, NIV"
+      },
+      {
+        "position": 14,
+        "surface": "מִסְפָּר",
+        "phrase": "number",
+        "literal": "number",
+        "source": "KJV, NASB, ESV, NIV"
+      }
+    ]
+  }
+]

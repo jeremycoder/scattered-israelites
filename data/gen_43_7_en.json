@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֡וּ",
+        "phrase": "And they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֣וֹל",
+        "phrase": "asked",
+        "literal": "asking",
+        "source": "interlinear gloss; participle form"
+      },
+      {
+        "position": 3,
+        "surface": "שָֽׁאַל",
+        "phrase": "he asked",
+        "literal": "he_asked",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הָ֠/אִישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֣/נוּ",
+        "phrase": "us",
+        "literal": "to_us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/מֽוֹלַדְתֵּ֜/נוּ",
+        "phrase": "and our family",
+        "literal": "and-to_family_our",
+        "source": "ESV, NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/ע֨וֹד",
+        "phrase": "still",
+        "literal": "the-still",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲבִי/כֶ֥ם",
+        "phrase": "your father",
+        "literal": "father_your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "חַי֙",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הֲ/יֵ֣שׁ",
+        "phrase": "is there",
+        "literal": "question_is_there",
+        "source": "ESV, NASB; interrogative particle"
+      },
+      {
+        "position": 12,
+        "surface": "לָ/כֶ֣ם",
+        "phrase": "to you",
+        "literal": "to_you",
+        "source": "interlinear; preposition"
+      },
+      {
+        "position": 13,
+        "surface": "אָ֔ח",
+        "phrase": "a brother",
+        "literal": "brother",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/נַ֨גֶּד",
+        "phrase": "and we told",
+        "literal": "and_we_told",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "ל֔/וֹ",
+        "phrase": "him",
+        "literal": "to_him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "עַל",
+        "phrase": "according to",
+        "literal": "upon",
+        "source": "KJV; preposition"
+      },
+      {
+        "position": 17,
+        "surface": "פִּ֖י",
+        "phrase": "the mouth of",
+        "literal": "mouth_of",
+        "source": "KJV; idiom for 'tenor'"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/דְּבָרִ֣ים",
+        "phrase": "these words",
+        "literal": "the-words",
+        "source": "KJV, interlinear"
+      },
+      {
+        "position": 19,
+        "surface": "הָ/אֵ֑לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 20,
+        "surface": "הֲ/יָד֣וֹעַ",
+        "phrase": "could we know",
+        "literal": "question_know",
+        "source": "KJV, ESV, NASB; infinitive absolute"
+      },
+      {
+        "position": 21,
+        "surface": "נֵדַ֔ע",
+        "phrase": "we know",
+        "literal": "we_know",
+        "source": "interlinear; cohortative"
+      },
+      {
+        "position": 22,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB; conjunction"
+      },
+      {
+        "position": 23,
+        "surface": "יֹאמַ֔ר",
+        "phrase": "he would say",
+        "literal": "he_says",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 24,
+        "surface": "הוֹרִ֖ידוּ",
+        "phrase": "bring down",
+        "literal": "bring_down",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 25,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "interlinear; accusative marker"
+      },
+      {
+        "position": 26,
+        "surface": "אֲחִי/כֶֽם",
+        "phrase": "your brother",
+        "literal": "brother_your",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִנֵּ֞ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB (discourse particle)"
+      },
+      {
+        "position": 2,
+        "surface": "שֶֽׁבַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "פָּר֤וֹת",
+        "phrase": "cows",
+        "literal": "cows",
+        "source": "KJV (kine), ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲחֵרוֹת֙",
+        "phrase": "other",
+        "literal": "other-FEM.PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "עֹל֣וֹת",
+        "phrase": "came up",
+        "literal": "coming up-FEM.PL",
+        "source": "ESV, NASB (participle)"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֲרֵי/הֶ֔ן",
+        "phrase": "after them",
+        "literal": "after-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "דַּלּ֨וֹת",
+        "phrase": "poor",
+        "literal": "lean-poor-FEM.PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/רָע֥וֹת",
+        "phrase": "and very ugly",
+        "literal": "and-evil-FEM.PL",
+        "source": "ESV (very ugly), KJV (ill favoured), NASB"
+      },
+      {
+        "position": 9,
+        "surface": "תֹּ֛אַר",
+        "phrase": "form",
+        "literal": "form",
+        "source": "Chabad (form), note: modifies ugliness"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֹ֖ד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "KJV, ESV, NASB (intensifier)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/רַקּ֣וֹת",
+        "phrase": "and thin",
+        "literal": "and-thin-FEM.PL",
+        "source": "ESV, NASB, KJV (leanfleshed)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּשָׂ֑ר",
+        "phrase": "flesh",
+        "literal": "flesh",
+        "source": "KJV (leanfleshed), modifies thinness"
+      },
+      {
+        "position": 13,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "רָאִ֧יתִי",
+        "phrase": "I had seen",
+        "literal": "I-have-seen",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "כָ/הֵ֛נָּה",
+        "phrase": "such as these",
+        "literal": "like-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "בְּ/כָל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 19,
+        "surface": "לָ/רֹֽעַ",
+        "phrase": "for badness",
+        "literal": "to-evil",
+        "source": "KJV (for badness), NASB (for ugliness)"
+      }
+    ]
+  }
+]

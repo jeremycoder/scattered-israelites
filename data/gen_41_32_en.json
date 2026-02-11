@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַ֨ל",
+        "phrase": "And concerning",
+        "literal": "and-concerning",
+        "source": "KJV, ESV, NASB (conjunction + preposition)"
+      },
+      {
+        "position": 2,
+        "surface": "הִשָּׁנ֧וֹת",
+        "phrase": "the repeating",
+        "literal": "the-repeating",
+        "source": "ESV 'repeating', NIV 'given...in two forms', NASB 'repeated'; Niphal participle of שׁנה"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/חֲל֛וֹם",
+        "phrase": "of the dream",
+        "literal": "the-dream",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (directional preposition)"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "פַּעֲמָ֑יִם",
+        "phrase": "twice",
+        "literal": "two-times",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "that/because",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 8,
+        "surface": "נָכ֤וֹן",
+        "phrase": "is established",
+        "literal": "is-prepared/fixed",
+        "source": "KJV 'established', ESV 'determined', NASB 'fixed'; Niphal participle of כּוּן"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/דָּבָר֙",
+        "phrase": "the matter",
+        "literal": "the-thing/matter",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מֵ/עִ֣ם",
+        "phrase": "by",
+        "literal": "from-with",
+        "source": "KJV 'by', ESV 'by', NASB 'from'; preposition indicating source"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/מְמַהֵ֥ר",
+        "phrase": "and will hasten",
+        "literal": "and-hastening",
+        "source": "KJV 'will shortly bring', ESV 'is hastening', NASB 'is hastening'; Hiphil participle of מהר + conjunction"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "לַ/עֲשֹׂתֽ/וֹ",
+        "phrase": "to do it",
+        "literal": "to-do-it",
+        "source": "KJV 'to perform it', ESV 'to do it', NASB 'to do it'; infinitive construct of עשׂה + suffix + preposition"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֗וּ",
+        "phrase": "And they said",
+        "literal": "and-they_said",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁל֛וֹם",
+        "phrase": "[is] well",
+        "literal": "peace-well_being",
+        "source": "KJV (in good health), ESV (well), NASB (well), Interlinear (in good health)[1]"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/עַבְדְּ/ךָ֥",
+        "phrase": "your servant",
+        "literal": "to-servant-your",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אָבִ֖י/נוּ",
+        "phrase": "our father",
+        "literal": "to-father-our",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 5,
+        "surface": "עוֹדֶ֣/נּוּ",
+        "phrase": "he is still",
+        "literal": "still-him",
+        "source": "ESV (still), NASB (still), Interlinear (yet)[1]"
+      },
+      {
+        "position": 6,
+        "surface": "חָ֑י",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "KJV, ESV, NASB, Interlinear[1]"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/יִּקְּד֖וּ",
+        "phrase": "And they bowed",
+        "literal": "and-they_bowed",
+        "source": "KJV (bowed down their heads), ESV (bowed their heads), Interlinear[1]"
+      },
+      {
+        "position": 8,
+        "surface": "ו/ישתחו",
+        "phrase": "and prostrated",
+        "literal": "and-they_bowed_down",
+        "source": "Interlinear (prostrated), textual variant note[1]"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּֽשְׁתַּחֲוּֽוּ",
+        "phrase": "themselves",
+        "literal": "and-they_prostrated_themselves",
+        "source": "ESV (prostrated themselves), NASB (in homage), KJV (made obeisance), Interlinear[1]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֨אוּ֙",
+        "phrase": "and came",
+        "literal": "and-they_came",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons_of",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[5]"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/שְׁבֹּ֖ר",
+        "phrase": "to buy",
+        "literal": "to_buy",
+        "source": "KJV (corn), ESV (buy), NASB (buy grain), StudyLight[1]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/ת֣וֹךְ",
+        "phrase": "among",
+        "literal": "in_midst_of",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[5]"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/בָּאִ֑ים",
+        "phrase": "those who were coming",
+        "literal": "the-coming.ones",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "conjunction; KJV, ESV, NASB[1]"
+      },
+      {
+        "position": 8,
+        "surface": "הָיָ֥ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/רָעָ֖ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[5]"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land_of",
+        "source": "KJV, ESV, NASB, StudyLight[1]"
+      },
+      {
+        "position": 11,
+        "surface": "כְּנָֽעַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[5]"
+      }
+    ]
+  }
+]

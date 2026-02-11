@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִנֵּ֣ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יְאֹ֗ר",
+        "phrase": "the Nile",
+        "literal": "the-river",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "עֹלֹת֙",
+        "phrase": "there came up",
+        "literal": "coming-up",
+        "source": "ESV, NASB, StudyLight interlinear"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "פָּר֔וֹת",
+        "phrase": "cows",
+        "literal": "cows",
+        "source": "ESV, NASB, KJV (kine)"
+      },
+      {
+        "position": 7,
+        "surface": "יְפ֥וֹת",
+        "phrase": "attractive",
+        "literal": "beautiful",
+        "source": "ESV, NASB (sleek), KJV (well favoured)"
+      },
+      {
+        "position": 8,
+        "surface": "מַרְאֶ֖ה",
+        "phrase": "in appearance",
+        "literal": "of-appearance",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְרִיאֹ֣ת",
+        "phrase": "and plump",
+        "literal": "and-healthy",
+        "source": "ESV, NASB (fat), StudyLight"
+      },
+      {
+        "position": 10,
+        "surface": "בָּשָׂ֑ר",
+        "phrase": "in flesh",
+        "literal": "of-flesh",
+        "source": "ESV, KJV (fatfleshed), NASB"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תִּרְעֶ֖ינָה",
+        "phrase": "and they fed",
+        "literal": "and-they-grazed",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אָֽחוּ",
+        "phrase": "in the reeds",
+        "literal": "in-the-reed-grass",
+        "source": "ESV, NASB (marsh grass), KJV (meadow)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּר֙",
+        "phrase": "Then spoke",
+        "literal": "and-he_spoke",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[2][3]"
+      },
+      {
+        "position": 2,
+        "surface": "שַׂ֣ר",
+        "phrase": "chief",
+        "literal": "chief",
+        "source": "KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מַּשְׁקִ֔ים",
+        "phrase": "cupbearer",
+        "literal": "the-cupbearer",
+        "source": "KJV (chief butler), ESV (cupbearer), NASB (cupbearer)[2][3]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "[direct_object_marker]",
+        "source": "Particle marking object; KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "of",
+        "literal": "[direct_object_marker]",
+        "source": "Particle marking object; KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 8,
+        "surface": "חֲטָאַ֕/י",
+        "phrase": "my faults",
+        "literal": "my_sins/faults",
+        "source": "KJV (my sins), ESV (my offenses), NASB (my offenses)[2][3]"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB[2][3]"
+      },
+      {
+        "position": 10,
+        "surface": "מַזְכִּ֥יר",
+        "phrase": "remember",
+        "literal": "remembering",
+        "source": "KJV (make mention), ESV (recall), NASB (make mention)[2][3]"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB[2][3]"
+      }
+    ]
+  }
+]

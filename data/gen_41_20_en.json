@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּאכַ֨לְנָה֙",
+        "phrase": "ate",
+        "literal": "and-3fs.eat",
+        "source": "Conjunction vav + Qal imperfect feminine singular of אכל (akhal, 'to eat') with energic nun and feminine plural suffix"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/פָּר֔וֹת",
+        "phrase": "the cows",
+        "literal": "the-cows",
+        "source": "Definite article + feminine plural construct of פרה (parah, 'cow'); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/רַקּ֖וֹת",
+        "phrase": "the lean",
+        "literal": "the-lean",
+        "source": "Definite article + feminine plural of רק (raq, 'lean, thin'); KJV 'lean', ESV 'thin', NASB 'lean'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הָ/רָע֑וֹת",
+        "phrase": "and the ugly",
+        "literal": "and-the-ugly",
+        "source": "Conjunction vav + definite article + feminine plural of רע (ra', 'bad, ugly, ill-favored'); KJV 'ill favoured', ESV 'ugly', NASB 'ugly'"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֣ת",
+        "phrase": "[direct object marker]",
+        "literal": "DO-marker",
+        "source": "Direct object marker; indicates the following noun is the definite object of the verb"
+      },
+      {
+        "position": 6,
+        "surface": "שֶׁ֧בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "Feminine construct form of שבע (sheva', 'seven'); used with feminine plural noun"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/פָּר֛וֹת",
+        "phrase": "the cows",
+        "literal": "the-cows",
+        "source": "Definite article + feminine plural of פרה (parah, 'cow'); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/רִאשֹׁנ֖וֹת",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "Definite article + feminine plural of ראשון (rishon, 'first'); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/בְּרִיאֹֽת",
+        "phrase": "the fat",
+        "literal": "the-healthy",
+        "source": "Definite article + feminine plural of בריא (bri', 'healthy, fat, well-fed'); KJV 'fat', ESV 'plump', NASB 'fat', NIV 'fat'"
+      }
+    ]
+  }
+]

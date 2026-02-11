@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "KJV, NKJV, NASB, ESV - vav consecutive with qal imperfect of אמר"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "All translations - proper noun, subject of the clause"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, NKJV, NASB, ESV - preposition indicating indirect object"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "All translations - proper noun, recipient of speech"
+      },
+      {
+        "position": 5,
+        "surface": "רְאֵה",
+        "phrase": "See",
+        "literal": "see",
+        "source": "KJV, NKJV, NASB, ESV - qal imperative masculine singular of ראה, introducing the main statement"
+      },
+      {
+        "position": 6,
+        "surface": "נָתַתִּי",
+        "phrase": "I have set",
+        "literal": "I.have-set",
+        "source": "KJV, NKJV, NASB, ESV - qal perfect first person singular of נתן; NET notes this may be descriptive present or rhetorical future"
+      },
+      {
+        "position": 7,
+        "surface": "אֹתְךָ",
+        "phrase": "you",
+        "literal": "you-ACC",
+        "source": "All translations - direct object marker את with second person masculine singular suffix"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over",
+        "source": "KJV, NKJV, NASB, ESV - preposition indicating authority or position"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "All translations - construct form of כל, modifying the following noun"
+      },
+      {
+        "position": 10,
+        "surface": "אֶרֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "All translations - feminine noun in construct state"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרָיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "All translations - proper noun, dual form indicating the two lands of Upper and Lower Egypt"
+      }
+    ]
+  }
+]

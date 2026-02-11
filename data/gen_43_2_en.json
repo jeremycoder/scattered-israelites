@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "it came to pass",
+        "literal": "and-it_became",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁ֤ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "כִּלּוּ֙",
+        "phrase": "they had finished",
+        "literal": "they-finished",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לֶ/אֱכֹ֣ל",
+        "phrase": "eating",
+        "literal": "to_eat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "grammatical particle (all translations)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שֶּׁ֔בֶר",
+        "phrase": "the grain",
+        "literal": "the-grain_provisions",
+        "source": "KJV (corn), ESV (grain), NASB (grain)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "that-which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הֵבִ֖יאוּ",
+        "phrase": "they had brought",
+        "literal": "they_brought",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲלֵי/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֲבִי/הֶ֔ם",
+        "phrase": "their father",
+        "literal": "father-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "שֻׁ֖בוּ",
+        "phrase": "go back",
+        "literal": "return!",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "שִׁבְרוּ",
+        "phrase": "buy",
+        "literal": "buy!",
+        "source": "KJV, ESV, NASB (from root 'shever' grain)"
+      },
+      {
+        "position": 15,
+        "surface": "לָ֥/נוּ",
+        "phrase": "for us",
+        "literal": "for-us",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "מְעַט",
+        "phrase": "a little",
+        "literal": "a_little",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "אֹֽכֶל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

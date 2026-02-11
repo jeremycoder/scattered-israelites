@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 5,
+        "surface": "חֲל֣וֹם",
+        "phrase": "A dream",
+        "literal": "dream",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 6,
+        "surface": "חָלַ֔מְתִּי",
+        "phrase": "I have dreamed",
+        "literal": "I_dreamed",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/פֹתֵ֖ר",
+        "phrase": "interpreter",
+        "literal": "and-interpreter",
+        "source": "KJV, ESV, NASB (no interpreter)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵ֣ין",
+        "phrase": "there is no",
+        "literal": "not_is",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 9,
+        "surface": "אֹת֑/וֹ",
+        "phrase": "for it",
+        "literal": "it-ACC",
+        "source": "KJV, ESV, NASB (it)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/אֲנִ֗י",
+        "phrase": "and I",
+        "literal": "and-I",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁמַ֤עְתִּי",
+        "phrase": "have heard",
+        "literal": "I_heard",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 12,
+        "surface": "עָלֶ֨י/ךָ֙",
+        "phrase": "about you",
+        "literal": "upon-you",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 13,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "it said",
+        "literal": "to_say",
+        "source": "KJV (say), ESV (that)"
+      },
+      {
+        "position": 14,
+        "surface": "תִּשְׁמַ֥ע",
+        "phrase": "you hear",
+        "literal": "you_hear",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 15,
+        "surface": "חֲל֖וֹם",
+        "phrase": "a dream",
+        "literal": "dream",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 16,
+        "surface": "לִ/פְתֹּ֥ר",
+        "phrase": "to interpret",
+        "literal": "to_interpret",
+        "source": "KJV, ESV, NASB, NRSV"
+      },
+      {
+        "position": 17,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "it",
+        "literal": "it-ACC",
+        "source": "KJV, ESV, NASB, NRSV"
+      }
+    ]
+  }
+]

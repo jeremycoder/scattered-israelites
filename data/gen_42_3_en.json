@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּרְד֥וּ",
+        "phrase": "went down",
+        "literal": "and-they-descended",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחֵֽי",
+        "phrase": "brothers of",
+        "literal": "brothers-of",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "עֲשָׂרָ֑ה",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/שְׁבֹּ֥ר",
+        "phrase": "to buy",
+        "literal": "to-buy",
+        "source": "KJV ('to buy'), ESV/NASB/NET ('to buy grain')"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ֖ר",
+        "phrase": "grain",
+        "literal": "grain",
+        "source": "KJV (corn), ESV/NASB/NET (grain)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/מִּצְרָֽיִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

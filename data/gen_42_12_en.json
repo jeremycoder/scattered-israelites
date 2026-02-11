@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶ֑ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֕א",
+        "phrase": "No",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, NET, Chabad (emphatic negation)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "but",
+        "literal": "for-because",
+        "source": "KJV, ESV, NASB, NET, Chabad (explanatory particle)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶרְוַ֥ת",
+        "phrase": "nakedness",
+        "literal": "nakedness_vulnerability",
+        "source": "KJV ('nakedness'), NET ('vulnerable'), Chabad, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "בָּאתֶ֥ם",
+        "phrase": "you have come",
+        "literal": "you_came",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/רְאֽוֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "KJV, ESV, NASB, NET, Chabad"
+      }
+    ]
+  }
+]

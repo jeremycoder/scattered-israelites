@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 43,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "KJV, NIV, ESV, NASB (conditional particle)"
+      },
+      {
+        "position": 2,
+        "surface": "יֶשְׁ/ךָ֛",
+        "phrase": "you send",
+        "literal": "there-is-you",
+        "source": "NIV 'will send', NASB 'wilt send', Mechon-Mamre 'wilt send'"
+      },
+      {
+        "position": 3,
+        "surface": "מְשַׁלֵּ֥חַ",
+        "phrase": "send",
+        "literal": "sending",
+        "source": "KJV 'send', NIV 'send', NASB 'send' (Hiphil participle of שׁלח)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "standard Hebrew grammar (accusative marker, untranslatable)"
+      },
+      {
+        "position": 5,
+        "surface": "אָחִ֖י/נוּ",
+        "phrase": "our brother",
+        "literal": "brother-our",
+        "source": "NIV 'our brother', KJV 'our brother', ESV 'our brother'"
+      },
+      {
+        "position": 6,
+        "surface": "אִתָּ֑/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "NIV 'with us', KJV 'with us', NASB 'with us'"
+      },
+      {
+        "position": 7,
+        "surface": "נֵרְדָ֕ה",
+        "phrase": "we will go down",
+        "literal": "we-will-go-down",
+        "source": "NIV 'we will go down', KJV 'we will go down', Mechon-Mamre 'we will go down'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נִשְׁבְּרָ֥ה",
+        "phrase": "and buy",
+        "literal": "and-we-will-buy",
+        "source": "NIV 'and buy', KJV 'and buy', NASB 'and buy food' (from שׁבר, buy grain)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/ךָ֖",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "NIV 'for you', KJV 'thee', Mechon-Mamre 'thee'"
+      },
+      {
+        "position": 10,
+        "surface": "אֹֽכֶל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "NIV 'food', KJV 'food', ESV 'food'"
+      }
+    ]
+  }
+]

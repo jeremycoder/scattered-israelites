@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And Pharaoh said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Lexham"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "עֲבָדָ֑י/ו",
+        "phrase": "his servants",
+        "literal": "his_servants",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הֲ/נִמְצָ֣א",
+        "phrase": "Can we find",
+        "literal": "question-can_be_found",
+        "source": "verb; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָ/זֶ֔ה",
+        "phrase": "like this",
+        "literal": "like-this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אִ֕ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֛ר",
+        "phrase": "in whom",
+        "literal": "who/that",
+        "source": "relative particle; ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "ר֥וּחַ",
+        "phrase": "the Spirit",
+        "literal": "spirit",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בּֽ/וֹ",
+        "phrase": "is in him",
+        "literal": "in-him",
+        "source": "preposition; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

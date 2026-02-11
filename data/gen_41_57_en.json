@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 41,
+    "verse": 57,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְכָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "Conjunction vav + masculine singular construct of kol (all, every)"
+      },
+      {
+        "position": 2,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth/land",
+        "literal": "the-earth",
+        "source": "Definite article + feminine singular noun eretz (earth, land, country); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "בָּאוּ",
+        "phrase": "came",
+        "literal": "came-3mp",
+        "source": "Qal perfect 3rd masculine plural of bo (to come, enter); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרַיְמָה",
+        "phrase": "to Egypt",
+        "literal": "Egypt-ward",
+        "source": "Proper noun Mitzrayim (Egypt) with directional he suffix; KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "לִשְׁבֹּר",
+        "phrase": "to buy",
+        "literal": "to-buy",
+        "source": "Preposition le + Qal infinitive construct of shavar (to break, buy grain); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "from",
+        "literal": "to/toward",
+        "source": "Preposition el (to, toward, from in context of commercial transaction); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "יוֹסֵף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun Yosef (Joseph); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "Causal conjunction ki (because, for, that); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "חָזַק",
+        "phrase": "was severe",
+        "literal": "was-strong",
+        "source": "Qal perfect 3rd masculine singular of chazaq (to be strong, severe); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "הָרָעָב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "Definite article + masculine singular noun raav (famine, hunger); KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 11,
+        "surface": "בְּכָל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "Preposition be + masculine singular construct of kol (all, every)"
+      },
+      {
+        "position": 12,
+        "surface": "הָאָרֶץ",
+        "phrase": "the earth/land",
+        "literal": "the-earth",
+        "source": "Definite article + feminine singular noun eretz (earth, land, country); KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "דִּ֠בֶּר",
+        "phrase": "spoke",
+        "literal": "spoke",
+        "source": "KJV, ESV, NASB, H1696 (Qal perfect 3ms)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אִ֨ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "KJV, ESV, NASB, H582"
+      },
+      {
+        "position": 3,
+        "surface": "אֲדֹנֵ֥י",
+        "phrase": "the lord",
+        "literal": "lord-of",
+        "source": "KJV, ESV, NASB, H113 (construct)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֛רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB, H776"
+      },
+      {
+        "position": 5,
+        "surface": "אִתָּ֖/נוּ",
+        "phrase": "to us",
+        "literal": "with-us",
+        "source": "KJV, ESV, NASB, H854 + H900"
+      },
+      {
+        "position": 6,
+        "surface": "קָשׁ֑וֹת",
+        "phrase": "harshly",
+        "literal": "hard-things",
+        "source": "KJV ('roughly'), ESV, NASB, H7186"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֵּ֣ן",
+        "phrase": "and took",
+        "literal": "and-gave",
+        "source": "KJV, ESV, NASB, H5414 (wayyiqtol)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ֔/נוּ",
+        "phrase": "us",
+        "literal": "direct-object-marker-us",
+        "source": "KJV, ESV, NASB, H853 + H900 (accusative marker)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽ/מְרַגְּלִ֖ים",
+        "phrase": "as spies",
+        "literal": "as-spies",
+        "source": "KJV, ESV, NASB, H7270 (preposition + participle)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "H853 (accusative marker)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB, H776"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 42,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/נֹּ֥אמֶר",
+        "phrase": "we said",
+        "literal": "and-we_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּנִ֣ים",
+        "phrase": "honest men",
+        "literal": "honest",
+        "source": "KJV (upright), ESV/NASB (honest), Chabad (honest)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲנָ֑חְנוּ",
+        "phrase": "we are",
+        "literal": "we",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "הָיִ֖ינוּ",
+        "phrase": "we were",
+        "literal": "we_were",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "מְרַגְּלִֽים",
+        "phrase": "spies",
+        "literal": "spies",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]
