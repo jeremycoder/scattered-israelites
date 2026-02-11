@@ -231,6 +231,13 @@ h1.page-title {
   direction: rtl;
   color: var(--text-primary);
 }
+.word-translit {
+  font-size: 0.9750rem;
+  line-height: 1.125rem;
+  color: #9a3412;
+  font-style: italic;
+  font-family: monospace;
+}
 .word-gloss {
   font-size: 0.975rem;
   line-height: 1.375rem;
@@ -305,8 +312,12 @@ h1.page-title {
   direction: rtl;
   text-align: right;
 }
+.detail-table .col-hebrew .word-translit {
+  display: block;
+  text-align: right;
+}
 .detail-table .col-link {
-  color: var(--terracotta);
+  color: var(--text-primary);
   text-decoration: none;
 }
 .detail-table .col-link:hover { color: var(--terracotta-dk); text-decoration: underline; }
