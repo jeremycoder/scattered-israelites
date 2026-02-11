@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/מְּעָרָ֞ה",
+        "phrase": "in the cave",
+        "literal": "in-the.cave",
+        "source": "prep+noun fs (BDB: meʿārāh); KJV/ESV 'in the cave'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that is",
+        "literal": "which",
+        "source": "rel.pron (BDB: ʾăšer); ESV/NIV 'that is'"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/שְׂדֵ֧ה",
+        "phrase": "in the field",
+        "literal": "in.field",
+        "source": "prep+noun ms (BDB: śādeh); KJV/ESV 'in the field'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מַּכְפֵּלָ֛ה",
+        "phrase": "of Machpelah",
+        "literal": "the.Machpelah",
+        "source": "art+noun proper (HALOT: makpēlâ); all 'Machpelah'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which is",
+        "literal": "which",
+        "source": "rel.pron; ESV/NIV 'which is'"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "before",
+        "literal": "upon",
+        "source": "prep (BDB: ʿal, 'east of'); KJV/ESV 'before'"
+      },
+      {
+        "position": 7,
+        "surface": "פְּנֵי",
+        "phrase": "",
+        "literal": "face",
+        "source": "noun mp construct (BDB: pānîm); idiomatic 'before'"
+      },
+      {
+        "position": 8,
+        "surface": "מַמְרֵ֖א",
+        "phrase": "Mamre",
+        "literal": "Mamre",
+        "source": "noun proper (HALOT: mamrēʾ); all 'Mamre'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in.land",
+        "source": "prep+noun fs (BDB: ʾereṣ); KJV/ESV 'in the land'"
+      },
+      {
+        "position": 10,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "noun proper; all 'Canaan'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "which",
+        "literal": "which",
+        "source": "rel.pron; ESV/NIV 'which'"
+      },
+      {
+        "position": 12,
+        "surface": "קָנָ֨ה",
+        "phrase": "bought",
+        "literal": "bought",
+        "source": "Qal perf 3ms (BDB: qānâ); all 'bought'"
+      },
+      {
+        "position": 13,
+        "surface": "אַבְרָהָ֜ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "noun proper; all 'Abraham'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "dom.obj",
+        "source": "particle (direct object marker); standard"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/שָּׂדֶ֗ה",
+        "phrase": "the field",
+        "literal": "the.field",
+        "source": "art+noun ms; KJV/ESV 'the field'"
+      },
+      {
+        "position": 16,
+        "surface": "מֵ/אֵ֛ת",
+        "phrase": "from",
+        "literal": "from",
+        "source": "prep (BDB: mēʾēt); all 'from'"
+      },
+      {
+        "position": 17,
+        "surface": "עֶפְרֹ֥ן",
+        "phrase": "Ephron",
+        "literal": "Ephron",
+        "source": "noun proper; all 'Ephron'"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/חִתִּ֖י",
+        "phrase": "the Hittite",
+        "literal": "the.Hittite",
+        "source": "art+noun ms (BDB: ḥittî); all 'Hittite'"
+      },
+      {
+        "position": 19,
+        "surface": "לַ/אֲחֻזַּת",
+        "phrase": "as a possession",
+        "literal": "for.possession",
+        "source": "prep+noun fs construct (HALOT: ʾaḥuzzâ); KJV 'possession'"
+      },
+      {
+        "position": 20,
+        "surface": "קָֽבֶר",
+        "phrase": "of a burial place",
+        "literal": "burial-place",
+        "source": "noun ms (BDB: qeber); ESV/NASB 'burial place'"
+      }
+    ]
+  }
+]

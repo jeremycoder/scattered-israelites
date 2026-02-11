@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "wayyiqtol 3ms; KJV 'And Pharaoh said', ESV 'Pharaoh said'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֛ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper noun; all translations 'Pharaoh'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV/ESV/NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָ֖י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "n-pl-cst+3ms suff.; NET 'Joseph’s brothers', ESV 'his brothers'"
+      },
+      {
+        "position": 5,
+        "surface": "מַה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "interrog. pron.; all 'What'"
+      },
+      {
+        "position": 6,
+        "surface": "מַּעֲשֵׂי/כֶ֑ם",
+        "phrase": "is your occupation",
+        "literal": "doings-your",
+        "source": "n-mp-cst+2mp suff.; lit. 'works of you'; KJV 'your occupation', ESV 'your occupation'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּאמְר֣וּ",
+        "phrase": "And they said",
+        "literal": "and-they_said",
+        "source": "wayyiqtol 3mp; KJV 'And they said', ESV 'And they said'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV/ESV/NASB 'to'"
+      },
+      {
+        "position": 9,
+        "surface": "פַּרְעֹ֗ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper noun; all translations 'Pharaoh'"
+      },
+      {
+        "position": 10,
+        "surface": "רֹעֵ֥ה",
+        "phrase": "shepherds",
+        "literal": "shepherds",
+        "source": "ptc. mpl; lit. 'shepherding'; KJV/ESV 'shepherds'"
+      },
+      {
+        "position": 11,
+        "surface": "צֹאן֙",
+        "phrase": "of sheep",
+        "literal": "flock",
+        "source": "n-fs; sheep/goats; NASB 'shepherds', ESV 'shepherds'"
+      },
+      {
+        "position": 12,
+        "surface": "עֲבָדֶ֔י/ךָ",
+        "phrase": "your servants",
+        "literal": "servants-your",
+        "source": "n-mp-cst+2ms suff.; KJV 'Thy servants', ESV 'Your servants'"
+      },
+      {
+        "position": 13,
+        "surface": "גַּם",
+        "phrase": "both",
+        "literal": "also",
+        "source": "adv.; emphatic; KJV 'both', NASB 'both'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲנַ֖חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "pron. 1cp; all 'we'"
+      },
+      {
+        "position": 15,
+        "surface": "גַּם",
+        "phrase": "and",
+        "literal": "also",
+        "source": "adv.; emphatic; KJV 'and also', ESV 'as'"
+      },
+      {
+        "position": 16,
+        "surface": "אֲבוֹתֵֽי/נוּ",
+        "phrase": "our fathers",
+        "literal": "fathers-our",
+        "source": "n-mp-cst+1cp suff.; NET 'our ancestors', KJV 'our fathers'"
+      }
+    ]
+  }
+]

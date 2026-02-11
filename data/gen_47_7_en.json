@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֵ֤א",
+        "phrase": "Then brought",
+        "literal": "and-brought",
+        "source": "wayyiqtol Qal 3ms בּוֹא; KJV 'brought', ESV 'brought'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all translations 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "DOM",
+        "source": "et particle; untransliterated in English"
+      },
+      {
+        "position": 4,
+        "surface": "יַֽעֲקֹ֣ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper noun; all translations 'Jacob'"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֔י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "noun + 3ms suffix; KJV/ESV/NASB 'his father'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּֽעֲמִדֵ֖/הוּ",
+        "phrase": "and presented him",
+        "literal": "and-caused-to-stand-him",
+        "source": "wayyiqtol Hiphil 3ms עמד + 3ms obj; NET 'caused him to stand', KJV 'set', NASB 'presented'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "prep + pnē; all translations 'before'"
+      },
+      {
+        "position": 8,
+        "surface": "פַרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper noun; all translations 'Pharaoh'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יְבָ֥רֶךְ",
+        "phrase": "and blessed",
+        "literal": "and-blessed",
+        "source": "wayyiqtol Piel 3ms בָּרַךְ; NET note on blessing sense, all translations 'blessed'"
+      },
+      {
+        "position": 10,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper noun; all translations 'Jacob'"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "DOM",
+        "source": "et particle; untransliterated in English"
+      },
+      {
+        "position": 12,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper noun; all translations 'Pharaoh'"
+      }
+    ]
+  }
+]

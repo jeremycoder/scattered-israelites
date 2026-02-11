@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Vav consecutive + qal imperfect 3ms of אמר; all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֛ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, nominative subject; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֖י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "Noun construct + 3ms possessive suffix; KJV 'his father', ESV 'his father'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; all translations"
+      },
+      {
+        "position": 6,
+        "surface": "כֵ֣ן",
+        "phrase": "so",
+        "literal": "so",
+        "source": "Adverb; KJV 'so', ESV 'this way', NASB 'so'"
+      },
+      {
+        "position": 7,
+        "surface": "אָבִ֑/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "Noun construct + 1s possessive suffix; vocative address; all translations"
+      },
+      {
+        "position": 8,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "Causal conjunction; all translations"
+      },
+      {
+        "position": 9,
+        "surface": "זֶ֣ה",
+        "phrase": "this one",
+        "literal": "this",
+        "source": "Demonstrative pronoun masculine singular; ESV 'this one', NASB 'this one'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/בְּכֹ֔ר",
+        "phrase": "the firstborn",
+        "literal": "the-firstborn",
+        "source": "Definite article + noun masculine singular; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "שִׂ֥ים",
+        "phrase": "put",
+        "literal": "put",
+        "source": "Qal imperative 2ms of שׂים; all translations"
+      },
+      {
+        "position": 12,
+        "surface": "יְמִינְ/ךָ֖",
+        "phrase": "your right hand",
+        "literal": "right.hand-your",
+        "source": "Noun feminine construct + 2ms possessive suffix; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "Preposition; all translations"
+      },
+      {
+        "position": 14,
+        "surface": "רֹאשֽׁ/וֹ",
+        "phrase": "his head",
+        "literal": "head-his",
+        "source": "Noun masculine construct + 3ms possessive suffix; all translations"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֤שֶׁב",
+        "phrase": "And Joseph dwelt",
+        "literal": "and-dwelt",
+        "source": "wayyiqtol 3ms from yāšab; KJV 'dwelt', ESV 'stayed', NASB 'remained'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/מִצְרַ֔יִם",
+        "phrase": "in Egypt",
+        "literal": "in-Egypt",
+        "source": "prep+proper name; KJV 'in Egypt', ESV/NASB same"
+      },
+      {
+        "position": 4,
+        "surface": "ה֖וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "pronoun 3ms emphatic; KJV/ESV 'he', NASB omits"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֣ית",
+        "phrase": "and the household of",
+        "literal": "and-house",
+        "source": "conj+def art+noun ms 'bayit'; KJV 'and his father's house', ESV/NASB 'his father's household'"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "noun ms+3ms suff; KJV/ESV/NASB 'his father's'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יְחִ֣י",
+        "phrase": "and Joseph lived",
+        "literal": "and-lived",
+        "source": "wayyiqtol 3ms from ḥāyâ; KJV 'lived', ESV/NASB 'lived'"
+      },
+      {
+        "position": 8,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵאָ֥ה",
+        "phrase": "a hundred",
+        "literal": "hundred",
+        "source": "noun fs; KJV/ESV/NASB 'an hundred / one hundred'"
+      },
+      {
+        "position": 10,
+        "surface": "וָ/עֶ֖שֶׂר",
+        "phrase": "and ten",
+        "literal": "and-ten",
+        "source": "conj+noun mp; KJV 'and ten', ESV/NASB 'and ten'"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁנִֽים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "noun fp; KJV/ESV/NASB 'years'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְלַקֵּ֣ט",
+        "phrase": "And Joseph gathered",
+        "literal": "and-gathered",
+        "source": "wayyiqtol Qal 3ms לקט; KJV 'gathered', ESV 'gathered', NASB 'gathered'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֗ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "particle; standard Biblical Hebrew"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "quantifier; KJV/ESV/NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כֶּ֨סֶף֙",
+        "phrase": "the money",
+        "literal": "the-silver/money",
+        "source": "def art + kesef 'silver/money'; all translations"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נִּמְצָ֤א",
+        "phrase": "that was found",
+        "literal": "the-found",
+        "source": "Niphal participle ms 'found'; KJV 'that was found', ESV/NASB similar"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/אֶֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "prep + eretz 'land'; all translations"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "proper noun; all translations"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְ/אֶ֣רֶץ",
+        "phrase": "and in the land",
+        "literal": "and-in-land",
+        "source": "conj + prep + eretz; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "proper noun; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "בַּ/שֶּׁ֖בֶר",
+        "phrase": "for the grain",
+        "literal": "in-the-grain",
+        "source": "prep + shever 'grain/provisions'; KJV 'corn', ESV/NASB 'grain'"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pronoun; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "הֵ֣ם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "3mp pronoun; all translations"
+      },
+      {
+        "position": 14,
+        "surface": "שֹׁבְרִ֑ים",
+        "phrase": "were buying",
+        "literal": "buying",
+        "source": "Hiphil participle mpl שבר 'buy grain'; NET 'buying', ESV 'purchasing'"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יָּבֵ֥א",
+        "phrase": "and he brought",
+        "literal": "and-brought",
+        "source": "wayyiqtol Hiphil 3ms בוא; KJV/ESV/NASB"
+      },
+      {
+        "position": 16,
+        "surface": "יוֹסֵ֛ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all translations"
+      },
+      {
+        "position": 17,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "particle; standard"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/כֶּ֖סֶף",
+        "phrase": "the money",
+        "literal": "the-money",
+        "source": "def art + kesef; all translations"
+      },
+      {
+        "position": 19,
+        "surface": "בֵּ֥יתָ/ה",
+        "phrase": "into his house",
+        "literal": "to-house-his",
+        "source": "prep + bayit + 3ms suff; all translations"
+      },
+      {
+        "position": 20,
+        "surface": "פַרְעֹֽה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "proper noun; KJV/ESV/NASB 'Pharaoh's house'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּלְכוּ֙",
+        "phrase": "And they went",
+        "literal": "and-they_went",
+        "source": "wayyiqtol Qal 3mp of הלך; KJV 'went', ESV/NASB 'came'"
+      },
+      {
+        "position": 2,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "adverb; all major translations 'also'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "noun mp + 3ms suff; KJV/ESV/NASB 'his brethren/brothers'"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יִּפְּל֖וּ",
+        "phrase": "and fell down",
+        "literal": "and-they_fell",
+        "source": "wayyiqtol Qal 3mp of נפל (prostrate); KJV 'fell down', ESV/NASB 'fell'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/פָנָ֑י/ו",
+        "phrase": "before him",
+        "literal": "to-face-his",
+        "source": "prep + noun mp + 3ms suff; KJV 'before his face', ESV/NASB 'before him'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֣אמְר֔וּ",
+        "phrase": "and they said",
+        "literal": "and-they_said",
+        "source": "wayyiqtol Qal 3mp of אמר; all translations 'and they said'"
+      },
+      {
+        "position": 7,
+        "surface": "הִנֶּ֥/נּֽוּ",
+        "phrase": "Behold we",
+        "literal": "behold-us",
+        "source": "particle + 1cp pron; KJV/ESV/NASB 'Behold, we'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/ךָ֖",
+        "phrase": "are your",
+        "literal": "to-you(ms)",
+        "source": "prep + 2ms pron; contextual 'your' in phrase"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/עֲבָדִֽים",
+        "phrase": "servants",
+        "literal": "to-servants",
+        "source": "prep + noun mp; KJV/ESV/NASB 'servants/slaves'"
+      }
+    ]
+  }
+]

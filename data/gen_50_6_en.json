@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "wayyiqtol 3ms Qal from אמר; KJV 'And Pharaoh said', ESV 'Pharaoh said', NASB 'Pharaoh said'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper noun, subject; all major translations (KJV, ESV, NASB) 'Pharaoh'"
+      },
+      {
+        "position": 3,
+        "surface": "עֲלֵ֛ה",
+        "phrase": "Go up",
+        "literal": "go up",
+        "source": "imperative ms Qal from עלה; KJV 'Go up', ESV 'Go up', NASB 'Go up'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/קְבֹ֥ר",
+        "phrase": "and bury",
+        "literal": "and-bury",
+        "source": "conjunctive waw + imperative ms Qal from קבר; KJV 'and bury', ESV 'and bury', NASB 'and bury'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct object marker",
+        "source": "et, accusative marker; omitted in English translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "noun + 2ms suff; KJV 'thy father', ESV 'your father', NASB 'your father'"
+      },
+      {
+        "position": 7,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "comparative preposition + relative particle; KJV 'according as', ESV 'as', NASB 'just as'"
+      },
+      {
+        "position": 8,
+        "surface": "הִשְׁבִּיעֶֽ/ךָ",
+        "phrase": "he made you swear",
+        "literal": "he-caused-you-to-swear",
+        "source": "hiphil perfect 3ms + 2ms suff from שבע; KJV 'he made thee swear', ESV 'he made you swear', NASB 'he made you swear'"
+      }
+    ]
+  }
+]

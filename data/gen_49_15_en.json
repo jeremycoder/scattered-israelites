@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤רְא",
+        "phrase": "and he saw",
+        "literal": "and-he-saw",
+        "source": "wayyiqtol Qal 3ms ראה; KJV 'saw', ESV 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "מְנֻחָה֙",
+        "phrase": "a resting place",
+        "literal": "resting-place",
+        "source": "nf מנוחה; KJV 'rest', ESV 'resting place', NASB 'resting place'"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "conj כי; all translations 'that'"
+      },
+      {
+        "position": 4,
+        "surface": "ט֔וֹב",
+        "phrase": "it was good",
+        "literal": "good",
+        "source": "adj טוב; KJV 'good', ESV 'good'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-Acc",
+        "source": "conj w/ את obj marker; KJV/ESV 'and'"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "def art + nf ארץ; KJV/ESV 'the land'"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "conj כי; all translations 'that'"
+      },
+      {
+        "position": 8,
+        "surface": "נָעֵ֑מָה",
+        "phrase": "it was pleasant",
+        "literal": "pleasant",
+        "source": "fsc Niphal perf 3fs נעם; KJV 'pleasant', ESV 'pleasant'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֵּ֤ט",
+        "phrase": "he bowed",
+        "literal": "and-he-inclined",
+        "source": "wayyiqtol Hiphil 3ms נטה; KJV 'bowed', ESV 'bowed'"
+      },
+      {
+        "position": 10,
+        "surface": "שִׁכְמ/וֹ֙",
+        "phrase": "his shoulder",
+        "literal": "shoulder-his",
+        "source": "nm שכם + 3ms suff; KJV/ESV 'shoulder'"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/סְבֹּ֔ל",
+        "phrase": "to bear",
+        "literal": "to-bear",
+        "source": "inf constr סבל; KJV 'to bear', ESV 'to bear'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "and he became",
+        "literal": "and-he-was",
+        "source": "wayyiqtol Qal 3ms היה; KJV/ESV 'became'"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/מַס",
+        "phrase": "a tribute",
+        "literal": "to-tribute",
+        "source": "prep + nm מס; KJV 'tribute', ESV 'forced labor'"
+      },
+      {
+        "position": 14,
+        "surface": "עֹבֵֽד",
+        "phrase": "servant",
+        "literal": "serving",
+        "source": "part Qal ms עבד; KJV 'servant', ESV 'slave'"
+      }
+    ]
+  }
+]

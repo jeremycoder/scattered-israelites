@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּרְכֹ֣ת",
+        "phrase": "The blessings",
+        "literal": "in-blessings",
+        "source": "Noun construct with preposition; KJV, ESV, NASB all render 'blessings'"
+      },
+      {
+        "position": 2,
+        "surface": "אָבִ֗יךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "Noun construct + 2ms possessive suffix; all translations 'of your father'"
+      },
+      {
+        "position": 3,
+        "surface": "גָּֽבְרוּ֙",
+        "phrase": "have prevailed",
+        "literal": "they-prevailed",
+        "source": "Qal perfect 3cp; KJV 'prevailed', ESV 'are mighty', NASB 'surpassed'"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "above",
+        "literal": "upon",
+        "source": "Preposition; all translations render 'above' or 'beyond'"
+      },
+      {
+        "position": 5,
+        "surface": "בִּרְכֹ֣ת",
+        "phrase": "the blessings",
+        "literal": "in-blessings",
+        "source": "Noun construct with preposition; parallel to position 1"
+      },
+      {
+        "position": 6,
+        "surface": "הוֹרַ֔י",
+        "phrase": "of my ancestors",
+        "literal": "parents-my",
+        "source": "Noun construct + 1cs possessive suffix; KJV 'progenitors', ESV 'parents', NASB 'ancestors'"
+      },
+      {
+        "position": 7,
+        "surface": "עַֽד",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "Preposition; KJV 'unto', ESV 'up to', NASB 'up to'"
+      },
+      {
+        "position": 8,
+        "surface": "תַּאֲוַ֖ת",
+        "phrase": "the utmost bound",
+        "literal": "desire-of",
+        "source": "Noun construct; KJV 'utmost bound', ESV 'bounties', NASB 'bounties'"
+      },
+      {
+        "position": 9,
+        "surface": "גִּבְעֹ֣ת",
+        "phrase": "hills",
+        "literal": "hills",
+        "source": "Noun feminine plural; all translations 'hills'"
+      },
+      {
+        "position": 10,
+        "surface": "עוֹלָ֑ם",
+        "phrase": "of the everlasting",
+        "literal": "everlasting",
+        "source": "Noun masculine singular; KJV 'everlasting', ESV 'ancient', NASB 'everlasting'; Hebrew olam can mean both"
+      },
+      {
+        "position": 11,
+        "surface": "תִּֽהְיֶ֨ין֙",
+        "phrase": "they shall be",
+        "literal": "they-shall-be",
+        "source": "Qal imperfect 3fp; all translations 'shall be' or 'will be'"
+      },
+      {
+        "position": 12,
+        "surface": "לְרֹ֣אשׁ",
+        "phrase": "on the head",
+        "literal": "to-head",
+        "source": "Preposition + noun masculine singular; all translations 'on the head'"
+      },
+      {
+        "position": 13,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "of Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun; all translations 'Joseph'"
+      },
+      {
+        "position": 14,
+        "surface": "וּלְקָדְקֹ֖ד",
+        "phrase": "and on the crown of the head",
+        "literal": "and-to-crown-of-head",
+        "source": "Conjunction + preposition + noun construct; KJV 'crown of the head', ESV 'brow', NASB 'crown of the head'"
+      },
+      {
+        "position": 15,
+        "surface": "נְזִ֥יר",
+        "phrase": "of the prince",
+        "literal": "separated-one",
+        "source": "Noun masculine singular (Qal passive participle); KJV 'separate', ESV 'set apart', NASB 'distinguished'"
+      },
+      {
+        "position": 16,
+        "surface": "אֶחָֽיו",
+        "phrase": "among his brothers",
+        "literal": "brothers-his",
+        "source": "Noun masculine plural + 3ms possessive suffix; all translations 'brothers'"
+      }
+    ]
+  }
+]

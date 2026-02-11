@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "wayyiqtol 3ms Qal from 'amar; KJV 'And Jacob said', ESV 'Jacob said', NASB 'Jacob said'"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; all translations 'Jacob'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV/ESV/NASB 'unto/to Pharaoh'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "proper name; all translations 'Pharaoh'"
+      },
+      {
+        "position": 5,
+        "surface": "יְמֵי֙",
+        "phrase": "The days",
+        "literal": "days-of",
+        "source": "noun mp const. + prep.; KJV 'The days', ESV 'The days', NASB 'The years'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֣י",
+        "phrase": "of the years",
+        "literal": "years-of",
+        "source": "noun mp const.; KJV/ESV/NASB 'of the years'"
+      },
+      {
+        "position": 7,
+        "surface": "מְגוּרַ֔/י",
+        "phrase": "of my sojourning",
+        "literal": "sojournings-my",
+        "source": "noun mp const. 1cs; KJV 'of my pilgrimage', ESV 'of my sojourning', NASB 'of my sojourning'"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁלֹשִׁ֥ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "cardinal number; all translations 'thirty'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מְאַ֖ת",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "conj. + cardinal number; KJV 'an hundred and thirty', ESV/NASB 'a hundred and thirty'"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "noun fs; all translations 'years'"
+      },
+      {
+        "position": 11,
+        "surface": "מְעַ֣ט",
+        "phrase": "few",
+        "literal": "few",
+        "source": "adj.; KJV/ESV/NASB 'few'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/רָעִ֗ים",
+        "phrase": "and difficult",
+        "literal": "and-evil-PL",
+        "source": "conj. + adj. mp; KJV 'and evil', ESV 'and hard', NASB 'and unpleasant'"
+      },
+      {
+        "position": 13,
+        "surface": "הָיוּ֙",
+        "phrase": "have been",
+        "literal": "they were",
+        "source": "qatal 3cp from hayah; all translations 'have been'"
+      },
+      {
+        "position": 14,
+        "surface": "יְמֵי֙",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "noun mp const. + prep.; KJV/ESV 'the days', NASB 'the years'"
+      },
+      {
+        "position": 15,
+        "surface": "שְׁנֵ֣י",
+        "phrase": "of the years",
+        "literal": "years-of",
+        "source": "noun mp const.; KJV/ESV/NASB 'of the years'"
+      },
+      {
+        "position": 16,
+        "surface": "חַיַּ֔/י",
+        "phrase": "of my life",
+        "literal": "life-my",
+        "source": "noun mp const. 1cs; KJV/ESV/NASB 'of my life'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "conj. + neg.; all translations 'and have not'"
+      },
+      {
+        "position": 18,
+        "surface": "הִשִּׂ֗יגוּ",
+        "phrase": "have attained",
+        "literal": "they attained",
+        "source": "qatal 3cp Hiphil from nasag; KJV/ESV/NASB 'have ... attained'"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "direct object marker",
+        "source": "accusative particle; functions as 'to' in context"
+      },
+      {
+        "position": 20,
+        "surface": "יְמֵי֙",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "noun mp const. + prep.; KJV/ESV 'the days', NASB 'the years'"
+      },
+      {
+        "position": 21,
+        "surface": "שְׁנֵי֙",
+        "phrase": "of the years",
+        "literal": "years-of",
+        "source": "noun mp const.; KJV/ESV/NASB 'of the years'"
+      },
+      {
+        "position": 22,
+        "surface": "חַיֵּ֣י",
+        "phrase": "of the life",
+        "literal": "life-of",
+        "source": "noun mp const.; KJV/ESV/NASB 'of the life'"
+      },
+      {
+        "position": 23,
+        "surface": "אֲבֹתַ֔/י",
+        "phrase": "of my fathers",
+        "literal": "fathers-my",
+        "source": "noun mp const. 1cs; all translations 'of my fathers'"
+      },
+      {
+        "position": 24,
+        "surface": "בִּ/ימֵ֖י",
+        "phrase": "in the days",
+        "literal": "in-days-of",
+        "source": "prep. + noun mp const.; KJV/ESV/NASB 'in the days'"
+      },
+      {
+        "position": 25,
+        "surface": "מְגוּרֵי/הֶֽם",
+        "phrase": "of their sojourning",
+        "literal": "sojournings-their",
+        "source": "noun mp const. 3mp; KJV 'of their pilgrimage', ESV/NASB 'of their sojourning'"
+      }
+    ]
+  }
+]

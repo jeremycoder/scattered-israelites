@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "All",
+        "literal": "all",
+        "source": "Construct absolute; KJV, ESV, NASB all render 'All'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֛לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "Demonstrative pronoun feminine plural; KJV 'these', ESV 'these'"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁבְטֵ֥י",
+        "phrase": "tribes",
+        "literal": "tribes-of",
+        "source": "Construct plural of שִׁבְטִים; KJV, ESV 'tribes'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun; all translations 'Israel'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֣ים",
+        "phrase": "twelve",
+        "literal": "two",
+        "source": "Masculine dual construct; paired with עָשָׂר to form 'twelve'; KJV, ESV 'twelve'"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָׂ֑ר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "Masculine singular; with שְׁנֵים forms dual 'twelve'; KJV, ESV 'twelve'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ֠/זֹאת",
+        "phrase": "and this",
+        "literal": "and-this",
+        "source": "Conjunction + demonstrative feminine singular; KJV 'and this', ESV 'and this'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "Relative pronoun; introduces relative clause; KJV 'that', ESV 'that'"
+      },
+      {
+        "position": 9,
+        "surface": "דִּבֶּ֨ר",
+        "phrase": "spoke",
+        "literal": "spoke",
+        "source": "Qal perfect 3ms of דָּבַר; KJV 'spake', ESV 'spoke'"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/הֶ֤ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "Preposition + 3mp suffix; KJV, ESV 'unto them'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲבִי/הֶם֙",
+        "phrase": "their father",
+        "literal": "father-their",
+        "source": "Construct + 3mp suffix; KJV, ESV 'their father'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יְבָ֣רֶךְ",
+        "phrase": "and blessed",
+        "literal": "and-blessed",
+        "source": "Waw consecutive + Qal imperfect 3ms of בָּרַךְ; KJV 'and blessed', ESV 'and blessed'"
+      },
+      {
+        "position": 13,
+        "surface": "אוֹתָ֔/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "Direct object marker + 3mp suffix; KJV, ESV 'them'"
+      },
+      {
+        "position": 14,
+        "surface": "אִ֛ישׁ",
+        "phrase": "each one",
+        "literal": "man/each",
+        "source": "Masculine singular; distributive sense 'each one'; KJV 'every one', ESV 'each'"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "according to",
+        "literal": "which/that",
+        "source": "Relative pronoun; KJV 'according to', ESV 'according to'"
+      },
+      {
+        "position": 16,
+        "surface": "כְּ/בִרְכָת֖/וֹ",
+        "phrase": "his blessing",
+        "literal": "as-blessing-his",
+        "source": "Preposition + construct + 3ms suffix; KJV 'his blessing', ESV 'his blessing'"
+      },
+      {
+        "position": 17,
+        "surface": "בֵּרַ֥ךְ",
+        "phrase": "he blessed",
+        "literal": "blessed",
+        "source": "Qal perfect 3ms of בָּרַךְ; KJV 'blessed', ESV 'blessed'"
+      },
+      {
+        "position": 18,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "Direct object marker + 3mp suffix; KJV, ESV 'them'"
+      }
+    ]
+  }
+]

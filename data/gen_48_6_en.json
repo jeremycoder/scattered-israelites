@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מוֹלַדְתְּ/ךָ֛",
+        "phrase": "But your offspring",
+        "literal": "and-offspring-your",
+        "source": "waw-consec + n-moladot-2ms (KJV: thy issue; ESV/NASB: offspring) [1]"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "rel-pron (KJV/ESV/NASB agree) [1]"
+      },
+      {
+        "position": 3,
+        "surface": "הוֹלַ֥דְתָּ",
+        "phrase": "you have fathered",
+        "literal": "you_begot",
+        "source": "Qal perf 2ms hll (KJV: thou begettest; NASB: have been born) [1]"
+      },
+      {
+        "position": 4,
+        "surface": "אַחֲרֵי/הֶ֖ם",
+        "phrase": "after them",
+        "literal": "after-them",
+        "source": "prep + 3mp suf (KJV/ESV/NASB: after them) [1]"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֣",
+        "phrase": "shall be yours",
+        "literal": "to-you",
+        "source": "prep-l + 2ms suf (KJV: shall be thine; ESV: shall be yours) [1]"
+      },
+      {
+        "position": 6,
+        "surface": "יִהְי֑וּ",
+        "phrase": "they shall be",
+        "literal": "they_shall_be",
+        "source": "Qal impf 3mp hyh (KJV/ESV/NASB agree) [1]"
+      },
+      {
+        "position": 7,
+        "surface": "עַ֣ל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "prep (KJV: after; ESV/NASB: by) [1]"
+      },
+      {
+        "position": 8,
+        "surface": "שֵׁ֧ם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "n-ms sem (KJV/ESV/NASB: name) [1]"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחֵי/הֶ֛ם",
+        "phrase": "of their brothers",
+        "literal": "brothers-their",
+        "source": "n-mp + 3mp suf (KJV: their brethren; ESV/NASB: their brothers) [1]"
+      },
+      {
+        "position": 10,
+        "surface": "יִקָּרְא֖וּ",
+        "phrase": "shall be called",
+        "literal": "they_shall_be_called",
+        "source": "Nif impf 3mp qra (KJV/ESV/NASB agree) [1]"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/נַחֲלָתָֽ/ם",
+        "phrase": "in their inheritance",
+        "literal": "in-inheritance-their",
+        "source": "prep-b + n-fs + 3mp suf (KJV/ESV/NASB agree) [1]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְבָ֥רֶךְ",
+        "phrase": "And he blessed",
+        "literal": "and-blessed",
+        "source": "Conj-w|V-Qal-ConsecImperf-3ms; KJV 'blessed', ESV 'blessed', NASB 'blessed'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "Joseph",
+        "literal": "direct object marker",
+        "source": "Prep; KJV/ESV/NASB 'Joseph' (with following noun)"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "N-proper-ms; KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "and said",
+        "literal": "and-said",
+        "source": "Conj-w|V-Qal-ConsecImperf-3ms; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/אֱלֹהִ֡ים",
+        "phrase": "The God",
+        "literal": "the-God",
+        "source": "Art|N-mp; KJV 'God', ESV 'God', NASB 'God'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "before whom",
+        "literal": "who/which",
+        "source": "Pro-rel; KJV 'before whom', ESV 'before whom', NASB 'before whom'"
+      },
+      {
+        "position": 7,
+        "surface": "הִתְהַלְּכ֨וּ",
+        "phrase": "walked",
+        "literal": "walked",
+        "source": "V-Hithpael-Perf-3mp; KJV 'did walk', ESV 'walked', NASB 'walked'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבֹתַ֤/י",
+        "phrase": "my fathers",
+        "literal": "fathers-my",
+        "source": "N-mpc|1cs; KJV 'my fathers', ESV 'my fathers', NASB 'my fathers'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/פָנָי/ו֙",
+        "phrase": "before Him",
+        "literal": "to-before-his",
+        "source": "Prep|l|N-cpc|3ms; KJV 'before him', ESV 'before him', NASB 'before him'"
+      },
+      {
+        "position": 10,
+        "surface": "אַבְרָהָ֣ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "N-proper-ms; KJV/ESV/NASB 'Abraham'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/יִצְחָ֔ק",
+        "phrase": "and Isaac",
+        "literal": "and-Isaac",
+        "source": "Conj|N-proper-ms; KJV/ESV/NASB 'and Isaac'"
+      },
+      {
+        "position": 12,
+        "surface": "הָֽ/אֱלֹהִים֙",
+        "phrase": "the God",
+        "literal": "the-God",
+        "source": "Art|N-mp; KJV 'the God', ESV 'the God', NASB 'the God'"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/רֹעֶ֣ה",
+        "phrase": "who has been my shepherd",
+        "literal": "the-shepherding",
+        "source": "Art|V-Piel-Participle-ms; KJV 'fed', ESV 'shepherd', NASB 'shepherd'"
+      },
+      {
+        "position": 14,
+        "surface": "אֹתִ֔/י",
+        "phrase": "me",
+        "literal": "me",
+        "source": "|1cs; KJV/ESV/NASB 'me'"
+      },
+      {
+        "position": 15,
+        "surface": "מֵ/עוֹדִ֖/י",
+        "phrase": "all my life",
+        "literal": "from-still-my",
+        "source": "Prep|m|N-msc|1cs; KJV 'all my life long', ESV 'all my life', NASB 'all my life'"
+      },
+      {
+        "position": 16,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to/until",
+        "source": "Prep; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "this day",
+        "literal": "the-day",
+        "source": "Art|N-ms; KJV 'this day', ESV 'this day', NASB 'this day'"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "Art|Pro-ms; KJV/ESV/NASB 'this'"
+      }
+    ]
+  }
+]

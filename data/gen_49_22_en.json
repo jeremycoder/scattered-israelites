@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֵּ֤ן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "N-MSC; 'son' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "פֹּרָת֙",
+        "phrase": "fruitful",
+        "literal": "fruitful_one",
+        "source": "N-FSC; 'fruitful' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "N-P; proper name (all translations)"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֥ן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "N-MSC; 'son' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "פֹּרָ֖ת",
+        "phrase": "fruitful",
+        "literal": "fruitful_one",
+        "source": "N-FSC; 'fruitful' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲלֵי",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "Prep; 'by' (KJV 'by a well', ESV 'by a spring')"
+      },
+      {
+        "position": 7,
+        "surface": "עָ֑יִן",
+        "phrase": "spring",
+        "literal": "eye-spring",
+        "source": "N-FS; 'spring/eye' (ESV 'spring', KJV 'well')"
+      },
+      {
+        "position": 8,
+        "surface": "בָּנ֕וֹת",
+        "phrase": "daughters",
+        "literal": "daughters-his",
+        "source": "N-FP-C; lit. 'daughters' (YLT), fig. 'branches' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "צָעֲדָ֖ה",
+        "phrase": "run",
+        "literal": "she-stepped",
+        "source": "V-Qal-Perf-3fs; 'run/step' (KJV 'run', YLT 'step')"
+      },
+      {
+        "position": 10,
+        "surface": "עֲלֵי",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "Prep; 'over' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "שֽׁוּר",
+        "phrase": "wall",
+        "literal": "wall",
+        "source": "N-MS; 'wall' (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

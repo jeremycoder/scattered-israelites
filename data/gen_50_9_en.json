@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַל",
+        "phrase": "And there went up",
+        "literal": "and-went.up",
+        "source": "wayyiqtol Qal 3ms of עלה; KJV/ESV 'went up'"
+      },
+      {
+        "position": 2,
+        "surface": "עִמּ֔/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "prep. עִם + 3ms suff.; KJV/ESV 'with him'"
+      },
+      {
+        "position": 3,
+        "surface": "גַּם",
+        "phrase": "both",
+        "literal": "also",
+        "source": "adv. 'also/even'; KJV 'both'"
+      },
+      {
+        "position": 4,
+        "surface": "רֶ֖כֶב",
+        "phrase": "chariots",
+        "literal": "chariot",
+        "source": "n. ms. 'chariot'; KJV/ESV 'chariots'"
+      },
+      {
+        "position": 5,
+        "surface": "גַּם",
+        "phrase": "and",
+        "literal": "also",
+        "source": "adv. 'also/even'; KJV 'both'"
+      },
+      {
+        "position": 6,
+        "surface": "פָּרָשִׁ֑ים",
+        "phrase": "horsemen",
+        "literal": "horsemen",
+        "source": "n. mp. 'horsemen'; KJV/ESV 'horsemen'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and it was",
+        "literal": "and-was",
+        "source": "wayyiqtol Qal 3ms of היה; KJV/ESV 'it was'"
+      },
+      {
+        "position": 8,
+        "surface": "הַֽ/מַּחֲנֶ֖ה",
+        "phrase": "the company",
+        "literal": "the-camp",
+        "source": "n. ms. w/ def. art. 'camp/encampment'; NASB 'company', ESV 'entourage'[1][3]"
+      },
+      {
+        "position": 9,
+        "surface": "כָּבֵ֥ד",
+        "phrase": "very",
+        "literal": "heavy/great",
+        "source": "adj. ms. 'heavy/great/numerous'; KJV 'great'[3]"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֹֽד",
+        "phrase": "great",
+        "literal": "very/much",
+        "source": "adv. 'very'; KJV/ESV 'very great'[1][3]"
+      }
+    ]
+  }
+]

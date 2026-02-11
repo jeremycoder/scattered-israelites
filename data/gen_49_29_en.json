@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֣ו",
+        "phrase": "And he commanded",
+        "literal": "and-he-commanded",
+        "source": "wayyiqtol Qal 3ms vb; KJV/ESV 'charged'"
+      },
+      {
+        "position": 2,
+        "surface": "אוֹתָ֗/ם",
+        "phrase": "them",
+        "literal": "direct-object-them",
+        "source": "acc prn 3mp; agrees KJV/ESV/NASB"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "wayyiqtol Qal 3ms vb; KJV/ESV 'said'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲלֵ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "prep + prn 3mp; KJV/ESV 'unto them'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲנִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "1cs indep prn; KJV/ESV/NASB"
+      },
+      {
+        "position": 6,
+        "surface": "נֶאֱסָ֣ף",
+        "phrase": "am about to be gathered",
+        "literal": "am-being-gathered",
+        "source": "niphal participle ms 'be gathered'; ESV/NASB 'about to be gathered'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep; KJV/ESV 'unto'"
+      },
+      {
+        "position": 8,
+        "surface": "עַמִּ֔/י",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "n + 1cs prn; KJV/ESV/NASB"
+      },
+      {
+        "position": 9,
+        "surface": "קִבְר֥וּ",
+        "phrase": "bury",
+        "literal": "bury!",
+        "source": "impf Qal 2mp vb; KJV/ESV/NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֹתִ֖/י",
+        "phrase": "me",
+        "literal": "direct-object-me",
+        "source": "acc prn 1cs; agrees all trans."
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "with",
+        "literal": "to",
+        "source": "prep; KJV 'with', ESV 'with'"
+      },
+      {
+        "position": 12,
+        "surface": "אֲבֹתָ֑/י",
+        "phrase": "my fathers",
+        "literal": "fathers-my",
+        "source": "n construct + 1cs prn; KJV/ESV/NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to",
+        "source": "prep; context 'in'; KJV/ESV"
+      },
+      {
+        "position": 14,
+        "surface": "הַ֨/מְּעָרָ֔ה",
+        "phrase": "the cave",
+        "literal": "the-cave",
+        "source": "def art + n fs; KJV/ESV/NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "rel pron; KJV/ESV"
+      },
+      {
+        "position": 16,
+        "surface": "בִּ/שְׂדֵ֖ה",
+        "phrase": "in the field",
+        "literal": "in-field",
+        "source": "prep + n ms; KJV/ESV/NASB"
+      },
+      {
+        "position": 17,
+        "surface": "עֶפְר֥וֹן",
+        "phrase": "of Ephron",
+        "literal": "Ephron",
+        "source": "pn; KJV/ESV/NASB"
+      },
+      {
+        "position": 18,
+        "surface": "הַֽ/חִתִּֽי",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "def art + gentilic n ms; KJV/ESV/NASB"
+      }
+    ]
+  }
+]

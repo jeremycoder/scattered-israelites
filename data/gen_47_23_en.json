@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "Then said",
+        "literal": "and-said",
+        "source": "Conj-w | V-Qal-ConsecImperf-3ms; KJV 'Then Joseph said', ESV 'Then Joseph said'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "N-proper-ms; all translations 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Prep; KJV 'unto', NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "Art | N-ms; KJV 'the people', ESV 'the people'"
+      },
+      {
+        "position": 5,
+        "surface": "הֵן֩",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "Interj; KJV 'Behold', NASB 'Behold'"
+      },
+      {
+        "position": 6,
+        "surface": "קָנִ֨יתִי",
+        "phrase": "I have bought",
+        "literal": "I-have-bought",
+        "source": "V-Qal-Perf-1cs; KJV 'I have bought', NASB 'I have bought'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתְ/כֶ֥ם",
+        "phrase": "you",
+        "literal": "Obj-you(pl)",
+        "source": "DirObjM | 2mp; all translations 'you'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יּ֛וֹם",
+        "phrase": "this day",
+        "literal": "the-day",
+        "source": "Art | N-ms; KJV 'this day', NASB 'today'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-Obj",
+        "source": "Conj-w | DirObjM; KJV 'and', ESV 'and'"
+      },
+      {
+        "position": 10,
+        "surface": "אַדְמַתְ/כֶ֖ם",
+        "phrase": "your land",
+        "literal": "land-your(pl)",
+        "source": "N-fsc | 2mp; KJV 'your land', NASB 'your land'"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/פַרְעֹ֑ה",
+        "phrase": "for Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "Prep-l | N-proper-ms; all translations 'for Pharaoh'"
+      },
+      {
+        "position": 12,
+        "surface": "הֵֽא",
+        "phrase": "here is",
+        "literal": "lo",
+        "source": "Interj; KJV 'lo', NASB implied 'here'"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/כֶ֣ם",
+        "phrase": "for you",
+        "literal": "to-you(pl)",
+        "source": "Prep | 2mp; KJV 'for you', ESV 'for you'"
+      },
+      {
+        "position": 14,
+        "surface": "זֶ֔רַע",
+        "phrase": "seed",
+        "literal": "seed",
+        "source": "N-ms; all translations 'seed'"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/זְרַעְתֶּ֖ם",
+        "phrase": "and you shall sow",
+        "literal": "and-you(pl)-shall-sow",
+        "source": "Conj-w | V-Qal-ConjPerf-2mp; KJV 'ye shall sow', NASB 'you may sow'"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "it",
+        "literal": "Obj",
+        "source": "DirObjM; implied in translations"
+      },
+      {
+        "position": 17,
+        "surface": "הָ/אֲדָמָֽה",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "Art | N-fs; KJV 'the land', ESV 'the land'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זְבוּלֻ֕ן",
+        "phrase": "Zebulun",
+        "literal": "Zebulun",
+        "source": "proper name (tribe); KJV/ESV/NASB: Zebulun"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/ח֥וֹף",
+        "phrase": "shall dwell at the shore",
+        "literal": "to-shore",
+        "source": "prep. + n.m. חוֹף 'coast, shore'; KJV 'haven of the sea', ESV/NASB 'seashore'"
+      },
+      {
+        "position": 3,
+        "surface": "יַמִּ֖ים",
+        "phrase": "of seas",
+        "literal": "seas",
+        "source": "n.m.pl. 'seas'; modifies חוֹף; KJV/ESV/NASB agree"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׁכֹּ֑ן",
+        "phrase": "he shall dwell",
+        "literal": "he-will-dwell",
+        "source": "v.Qal.impf.3m.s. שָׁכַן; KJV/ESV/NASB: dwell/shall dwell"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הוּא֙",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "conj. + pron.3m.s.; ESV/NASB 'And he', KJV 'He'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/ח֣וֹף",
+        "phrase": "shall be to a shore",
+        "literal": "to-shore",
+        "source": "prep. + n.m. חוֹף 'coast'; apposition; KJV/ESV/NASB: haven/shore for ships"
+      },
+      {
+        "position": 7,
+        "surface": "אֳנִיּ֔וֹת",
+        "phrase": "for ships",
+        "literal": "ships",
+        "source": "n.f.pl. 'ships'; KJV/ESV/NASB: ships"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/יַרְכָת֖/וֹ",
+        "phrase": "and his flank",
+        "literal": "and-flank-his",
+        "source": "conj. + n.f.s.c. + suf.3m.s. יָרֶכֶת 'flank, border'; ESV/NASB 'flank', KJV 'border'"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "prep. 'on, upon'; KJV/ESV/NASB: unto/toward"
+      },
+      {
+        "position": 10,
+        "surface": "צִידֹֽן",
+        "phrase": "Sidon",
+        "literal": "Sidon",
+        "source": "proper name (city); KJV/ESV/NASB: Sidon"
+      }
+    ]
+  }
+]

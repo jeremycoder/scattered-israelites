@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲשׂ֥וּ",
+        "phrase": "And his sons did",
+        "literal": "and-they_did",
+        "source": "wayyiqtol 3mp of עשה; KJV/NASB/ESV 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "בָנָ֖י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "noun mp + 3ms suff; KJV/NASB/ESV 'his sons'"
+      },
+      {
+        "position": 3,
+        "surface": "ל֑/וֹ",
+        "phrase": "for him",
+        "literal": "to-him",
+        "source": "prep + 3ms pron suff; KJV/NASB/ESV 'unto/ for him'"
+      },
+      {
+        "position": 4,
+        "surface": "כֵּ֖ן",
+        "phrase": "just so",
+        "literal": "thus",
+        "source": "adverb; KJV/NASB/ESV 'even so/just as'"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "prep + rel pron; KJV/NASB/ESV 'according as'"
+      },
+      {
+        "position": 6,
+        "surface": "צִוָּֽ/ם",
+        "phrase": "he had commanded them",
+        "literal": "he_commanded-them",
+        "source": "pf 3ms of צוה + 3mp obj suff; KJV/NASB/ESV 'commanded them'"
+      }
+    ]
+  }
+]

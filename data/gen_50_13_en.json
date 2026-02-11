@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׂא֨וּ",
+        "phrase": "carried",
+        "literal": "and-they_carried",
+        "source": "wayyiqtol 3mp nasa' 'to lift, carry'; KJV 'carried', ESV 'carried'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹת֤/וֹ",
+        "phrase": "him",
+        "literal": "direct_object-him",
+        "source": "et + 3ms suff; KJV 'him', NASB 'him'"
+      },
+      {
+        "position": 3,
+        "surface": "בָנָי/ו֙",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "n + 3ms suff; ben 'son'; KJV 'his sons', ESV 'his sons'"
+      },
+      {
+        "position": 4,
+        "surface": "אַ֣רְצָ/ה",
+        "phrase": "to the land",
+        "literal": "land-to",
+        "source": "'erets 'land' + dir. he; KJV 'into the land', NASB 'to the land'"
+      },
+      {
+        "position": 5,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "proper noun Kna'an; KJV 'of Canaan', ESV 'of Canaan'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקְבְּר֣וּ",
+        "phrase": "and buried",
+        "literal": "and-they_buried",
+        "source": "wayyiqtol 3mp qabar 'to bury'; KJV 'buried', ESV 'buried'"
+      },
+      {
+        "position": 7,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "him",
+        "literal": "direct_object-him",
+        "source": "et + 3ms suff; KJV 'him', NASB 'him'"
+      },
+      {
+        "position": 8,
+        "surface": "בִּ/מְעָרַ֖ת",
+        "phrase": "in the cave",
+        "literal": "in-cave",
+        "source": "b + me'arah 'cave'; KJV 'in the cave', ESV 'in the cave'"
+      },
+      {
+        "position": 9,
+        "surface": "שְׂדֵ֣ה",
+        "phrase": "of the field",
+        "literal": "field",
+        "source": "sadeh 'field'; KJV 'of the field', NASB 'of the field'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מַּכְפֵּלָ֑ה",
+        "phrase": "of Machpelah",
+        "literal": "the-Machpelah",
+        "source": "ha + Makpelah proper noun; KJV 'of Machpelah', ESV 'of Machpelah'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "relative pron 'asher; KJV 'which', ESV 'which'"
+      },
+      {
+        "position": 12,
+        "surface": "קָנָה֩",
+        "phrase": "had bought",
+        "literal": "bought",
+        "source": "qatal 3ms qanah 'to buy'; KJV 'bought', NASB 'bought'"
+      },
+      {
+        "position": 13,
+        "surface": "אַבְרָהָ֨ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "proper noun 'Abraham; KJV 'Abraham', ESV 'Abraham'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "direct_object",
+        "source": "et (accusative marker); context 'with the field'; KJV 'with', ESV 'with'"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/שָּׂדֶ֜ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "ha + sadeh 'field'; KJV 'the field', NASB 'the field'"
+      },
+      {
+        "position": 16,
+        "surface": "לַ/אֲחֻזַּת",
+        "phrase": "for a possession",
+        "literal": "to-possession",
+        "source": "l + 'achuzzah 'possession'; KJV 'for a possession', ESV 'to possess'"
+      },
+      {
+        "position": 17,
+        "surface": "קֶ֗בֶר",
+        "phrase": "of a burying place",
+        "literal": "grave",
+        "source": "qeber 'grave, tomb'; KJV 'buryingplace', NASB 'burial site'"
+      },
+      {
+        "position": 18,
+        "surface": "מֵ/אֵ֛ת",
+        "phrase": "from",
+        "literal": "from",
+        "source": "min + 'et 'from'; KJV 'of', ESV 'from'"
+      },
+      {
+        "position": 19,
+        "surface": "עֶפְרֹ֥ן",
+        "phrase": "Ephron",
+        "literal": "Ephron",
+        "source": "proper noun 'Ephron; KJV 'Ephron', ESV 'Ephron'"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/חִתִּ֖י",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "ha + Chittiy 'Hittite'; KJV 'Hittite', NASB 'Hittite'"
+      },
+      {
+        "position": 21,
+        "surface": "עַל",
+        "phrase": "before",
+        "literal": "upon",
+        "source": "'al 'upon, before'; KJV 'before', ESV 'to the east of'"
+      },
+      {
+        "position": 22,
+        "surface": "פְּנֵ֥י",
+        "phrase": "the face of",
+        "literal": "face",
+        "source": "paneh 'face'; KJV 'before', ESV 'east of'"
+      },
+      {
+        "position": 23,
+        "surface": "מַמְרֵֽא",
+        "phrase": "Mamre",
+        "literal": "Mamre",
+        "source": "proper noun Mamre'; KJV 'Mamre', ESV 'Mamre'"
+      }
+    ]
+  }
+]

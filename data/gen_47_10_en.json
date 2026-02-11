@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְבָ֥רֶךְ",
+        "phrase": "and he blessed",
+        "literal": "and-he-blessed",
+        "source": "Wayyiqtol (vav-consecutive imperfect); root BRK (barak); KJV, ESV, NASB all render 'blessed'"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun; subject of the verb; all translations agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "—",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle (et); marks the direct object Pharaoh; untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "Proper noun; direct object of 'blessed'; all translations agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֵּצֵ֖א",
+        "phrase": "and he went out",
+        "literal": "and-he-went-out",
+        "source": "Wayyiqtol (vav-consecutive imperfect); root YTZ (yatsa); KJV, ESV, NASB all render 'went out'"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/לִּ/פְנֵ֥י",
+        "phrase": "from before",
+        "literal": "from-to-face-of",
+        "source": "Preposition min (from) + preposition le (to) + construct noun panim (face); idiomatically 'from before' or 'from the presence of'; KJV 'from before', ESV/NASB 'from his presence'"
+      },
+      {
+        "position": 7,
+        "surface": "פַרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "Proper noun; object of the preposition phrase; all translations agree"
+      }
+    ]
+  }
+]

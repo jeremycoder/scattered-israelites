@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-he_said",
+        "source": "wayyiqtol 3ms Qal of אמר; KJV 'said', ESV 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all trans. 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV/ESV/NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָ֔י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "n mpl abs + 3ms suff.; KJV 'brethren', ESV 'brothers'"
+      },
+      {
+        "position": 5,
+        "surface": "אָנֹכִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "1cs indep. pron.; all trans. 'I'"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ֑ת",
+        "phrase": "am about to die",
+        "literal": "dying",
+        "source": "ptc. ms Qal of מות; lit. 'dying'; NASB 'about to die', KJV 'die'"
+      },
+      {
+        "position": 7,
+        "surface": "וֵֽ/אלֹהִ֞ים",
+        "phrase": "but God",
+        "literal": "and-God",
+        "source": "conj. + n ms 'Elohim'; ESV 'but God', KJV 'and God'"
+      },
+      {
+        "position": 8,
+        "surface": "פָּקֹ֧ד",
+        "phrase": "will surely",
+        "literal": "visiting",
+        "source": "inf. abs. ms Qal of פקד; emphatic infinitive"
+      },
+      {
+        "position": 9,
+        "surface": "יִפְקֹ֣ד",
+        "phrase": "visit",
+        "literal": "he_will_visit",
+        "source": "yiqtol 3ms Qal of פקד; KJV/ESV 'visit'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶתְ/כֶ֗ם",
+        "phrase": "you",
+        "literal": "acc.-you_pl",
+        "source": "et + 2mp obj. pron.; all trans. 'you'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הֶעֱלָ֤ה",
+        "phrase": "and will bring up",
+        "literal": "and-he_will_cause_to_ascend",
+        "source": "conj. + yiqtol 3ms Hiphil of עלה; NASB 'bring up'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/כֶם֙",
+        "phrase": "you",
+        "literal": "acc.-you_pl",
+        "source": "et + 2mp obj. pron.; all trans. 'you'"
+      },
+      {
+        "position": 13,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "prep.; KJV/ESV 'out of'"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/אָ֣רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "art. + n fs; all trans. 'land'"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/זֹּ֔את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "art. + dem. fs; KJV/ESV 'this'"
+      },
+      {
+        "position": 16,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; all trans. 'to'"
+      },
+      {
+        "position": 17,
+        "surface": "הָ/אָ֕רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "art. + n fs; all trans. 'land'"
+      },
+      {
+        "position": 18,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "rel. pron.; all trans. 'which'"
+      },
+      {
+        "position": 19,
+        "surface": "נִשְׁבַּ֛ע",
+        "phrase": "he swore",
+        "literal": "he_swore",
+        "source": "qatal 3ms Niphal of שבע; ESV 'swore', KJV 'sware'"
+      },
+      {
+        "position": 20,
+        "surface": "לְ/אַבְרָהָ֥ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "prep. + proper noun; all trans. 'Abraham'"
+      },
+      {
+        "position": 21,
+        "surface": "לְ/יִצְחָ֖ק",
+        "phrase": "to Isaac",
+        "literal": "to-Isaac",
+        "source": "prep. + proper noun; all trans. 'Isaac'"
+      },
+      {
+        "position": 22,
+        "surface": "וּֽ/לְ/יַעֲקֹֽב",
+        "phrase": "and to Jacob",
+        "literal": "and-to-Jacob",
+        "source": "conj. + prep. + proper noun; all trans. 'Jacob'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "called",
+        "literal": "and-he_called",
+        "source": "wayyiqtol Qal 3ms from קרא; KJV 'called', ESV 'called', NASB 'summoned'"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name; all major translations agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep. indicating direction; KJV/ESV/NASB 'unto'"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֑י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "bnw construct + 3ms suff.; KJV 'his sons', ESV 'his sons', NASB 'his sons'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "wayyiqtol Qal 3ms from אמר; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 6,
+        "surface": "הֵאָֽסְפוּ֙",
+        "phrase": "Gather yourselves",
+        "literal": "imperative_pl gather_yourselves",
+        "source": "hofal imperative 2mp from אסף; KJV 'Gather yourselves together', ESV 'Gather yourselves together', NASB 'Assemble yourselves'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַגִּ֣ידָה",
+        "phrase": "that I may tell",
+        "literal": "and-I_will_tell",
+        "source": "cohortative Hiphil 1cs from נגד; KJV 'that I may tell', ESV 'that I may tell', NASB 'that I may tell'"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "to-you_pl",
+        "source": "prep. + 2mp suff.; KJV/ESV/NASB 'you'"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֛ת",
+        "phrase": "what",
+        "literal": "direct_object_marker",
+        "source": "ʾet (accusative marker); functions as 'that which' in context; all translations imply"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "relative pron.; KJV/ESV/NASB 'that which'"
+      },
+      {
+        "position": 11,
+        "surface": "יִקְרָ֥א",
+        "phrase": "shall befall",
+        "literal": "will_call",
+        "source": "yiqtol Qal 3ms from קרא ('will happen to' idiomatic); KJV 'befall', NASB 'befall', ESV 'happen'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "direct_object-you_pl",
+        "source": "ʾet + 2mp suff.; KJV/ESV/NASB 'you'"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/אַחֲרִ֥ית",
+        "phrase": "in the",
+        "literal": "in-end_of",
+        "source": "b- + ʾaḥărît; KJV 'in the last', ESV 'in days to come', NASB 'in the days to come'"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יָּמִֽים",
+        "phrase": "last days",
+        "literal": "the-days",
+        "source": "hayyāmîm; KJV 'last days', ESV 'days to come', NASB 'days to come'"
+      }
+    ]
+  }
+]

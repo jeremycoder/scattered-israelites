@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤רְא",
+        "phrase": "And Joseph saw",
+        "literal": "and-he_saw",
+        "source": "Qal wayyiqtol 3ms; KJV/ESV 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/אֶפְרַ֔יִם",
+        "phrase": "Ephraim's",
+        "literal": "to/for-Ephraim",
+        "source": "prep. + proper name; ESV 'Ephraim's', KJV 'Ephraim's'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֖י",
+        "phrase": "children of",
+        "literal": "sons-of",
+        "source": "nmp construct; NASB/ESV 'children/sons of'"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁלֵּשִׁ֑ים",
+        "phrase": "the third generation",
+        "literal": "thirds",
+        "source": "nmp 'third generation'; lit. 'thirds', KJV/ESV 'third generation'"
+      },
+      {
+        "position": 6,
+        "surface": "גַּ֗ם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "adv.; all trans. 'also'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֵ֤י",
+        "phrase": "children of",
+        "literal": "sons-of",
+        "source": "nmp construct; NASB/ESV 'sons/children of'"
+      },
+      {
+        "position": 8,
+        "surface": "מָכִיר֙",
+        "phrase": "Machir",
+        "literal": "Machir",
+        "source": "proper name; KJV/ESV 'Machir'"
+      },
+      {
+        "position": 9,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "nms construct; all trans. 'son of'"
+      },
+      {
+        "position": 10,
+        "surface": "מְנַשֶּׁ֔ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "proper name; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "יֻלְּד֖וּ",
+        "phrase": "were born",
+        "literal": "they_were_born",
+        "source": "Niphal perf. 3mp; NASB/ESV 'were born'"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "prep.; lit. 'upon'"
+      },
+      {
+        "position": 13,
+        "surface": "בִּרְכֵּ֥י",
+        "phrase": "the knees of",
+        "literal": "knees-of",
+        "source": "nfp construct; idiom 'born on knees'; ESV 'on Joseph's knees'"
+      },
+      {
+        "position": 14,
+        "surface": "יוֹסֵֽף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; all trans. agree"
+      }
+    ]
+  }
+]

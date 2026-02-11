@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְכַ֤ל",
+        "phrase": "And he finished",
+        "literal": "and-finished",
+        "source": "wayyiqtol Qal 3ms כלה; KJV 'made an end', ESV 'finished'"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper noun; all translations 'Jacob'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/צַוֺּ֣ת",
+        "phrase": "commanding",
+        "literal": "to-command",
+        "source": "infinitive construct Piel צוה; KJV 'commanding', ESV 'charging'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "et particle; omitted in English translations"
+      },
+      {
+        "position": 5,
+        "surface": "בָּנָ֔י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "noun mp + 3ms suffix; KJV 'his sons', ESV 'his sons'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֶּאֱסֹ֥ף",
+        "phrase": "and he drew",
+        "literal": "and-he-gathered",
+        "source": "wayyiqtol Qal 3ms אסף; ESV 'drew', AMP 'drew', lit. 'gathered'"
+      },
+      {
+        "position": 7,
+        "surface": "רַגְלָ֖י/ו",
+        "phrase": "his feet",
+        "literal": "feet-his",
+        "source": "noun fp + 3ms suffix; AMP 'his feet', Chabad 'his legs'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "preposition; KJV/ESV 'into'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּטָּ֑ה",
+        "phrase": "the bed",
+        "literal": "the-bed",
+        "source": "article + noun fs; KJV 'bed', ESV 'bed'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּגְוַ֖ע",
+        "phrase": "and breathed his last",
+        "literal": "and-he-expired",
+        "source": "wayyiqtol Qal 3ms גוע; KJV 'was gathered', ESV 'breathed his last'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יֵּאָ֥סֶף",
+        "phrase": "and was gathered",
+        "literal": "and-he-was-gathered",
+        "source": "wayyiqtol Nifal 3ms אסף; all translations 'gathered to his people'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV/ESV 'to'"
+      },
+      {
+        "position": 13,
+        "surface": "עַמָּֽי/ו",
+        "phrase": "his people",
+        "literal": "peoples-his",
+        "source": "noun mp + 3ms suffix (kin); KJV 'his people', ESV 'his people'"
+      }
+    ]
+  }
+]

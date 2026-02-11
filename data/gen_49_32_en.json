@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִקְנֵ֧ה",
+        "phrase": "the purchase",
+        "literal": "purchase-of",
+        "source": "n-msc construct (Strong's 4735); lit. 'purchase of' (KJV, Young's, LSV)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שָּׂדֶ֛ה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "art+n-ms (Strong's 7704); 'the field' (ESV, NASB, KJV)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הַ/מְּעָרָ֥ה",
+        "phrase": "and the cave",
+        "literal": "and-the-cave",
+        "source": "conj+art+n-fs (Strong's 4631); 'and the cave' (ESV, NASB, KJV)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "rel-pron; 'that is' (KJV, ESV)"
+      },
+      {
+        "position": 5,
+        "surface": "בּ֖/וֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "prep+3ms suff; 'in it' (all major trans.)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֵ֥ת",
+        "phrase": "from",
+        "literal": "from",
+        "source": "prep; 'from' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֵי",
+        "phrase": "the sons",
+        "literal": "sons-of",
+        "source": "n-mp construct (Strong's 1121); 'children/sons of' (KJV, LSV)"
+      },
+      {
+        "position": 8,
+        "surface": "חֵֽת",
+        "phrase": "of Heth",
+        "literal": "Heth",
+        "source": "pn (Strong's 2845); 'Heth/Hittites' (ESV, NASB, KJV)"
+      }
+    ]
+  }
+]

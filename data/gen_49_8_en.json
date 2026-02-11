@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוּדָ֗ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "proper name (NP); KJV/ESV/NASB: Judah[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּה֙",
+        "phrase": "you",
+        "literal": "you-(MS)",
+        "source": "pronoun 2MS (PN); KJV: thou art; ESV/NASB: (implied)[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹד֣וּ/ךָ",
+        "phrase": "shall praise",
+        "literal": "they-will-praise-you-(MS)",
+        "source": "verb Qal impf.3MP + 2MS suf. (VB); KJV: shall praise; ESV/NASB: shall praise[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "אַחֶ֔י/ךָ",
+        "phrase": "your brothers",
+        "literal": "brothers-your-(MS)",
+        "source": "noun MP + 2MS suf. (PN); KJV/ESV/NASB: thy brethren/brothers[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "יָדְ/ךָ֖",
+        "phrase": "your hand",
+        "literal": "hand-your-(MS)",
+        "source": "noun FS + 2MS suf. (PN); KJV/ESV/NASB: thy hand[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֹ֣רֶף",
+        "phrase": "on the neck",
+        "literal": "on-neck",
+        "source": "prep. + noun MS (PP); KJV: in the neck; ESV/NASB: on the neck[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "אֹיְבֶ֑י/ךָ",
+        "phrase": "of your enemies",
+        "literal": "enemies-your-(MS)",
+        "source": "noun MP + 2MS suf. (PN); KJV/ESV/NASB: thine enemies[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׁתַּחֲוּ֥וּ",
+        "phrase": "shall bow down",
+        "literal": "they-will-bow-down",
+        "source": "verb Hithpael impf.3CP (VB); KJV/ESV/NASB: shall bow down[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/ךָ֖",
+        "phrase": "to you",
+        "literal": "to-you-(MS)",
+        "source": "prep. + 2MS pron. (PP); KJV/ESV/NASB: before thee/to you[1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "noun MP constr. (PN); KJV/ESV/NASB: children/sons[1][2]"
+      },
+      {
+        "position": 11,
+        "surface": "אָבִֽי/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your-(MS)",
+        "source": "noun MS + 2MS suf. (PN); KJV/ESV/NASB: thy father's[1][2]"
+      }
+    ]
+  }
+]

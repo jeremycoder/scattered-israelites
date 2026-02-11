@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "גּ֤וּר",
+        "phrase": "lion's cub",
+        "literal": "cub-lion",
+        "source": "N-noun; KJV 'lion's whelp', ESV 'lion's cub', NASB 'lion's whelp'"
+      },
+      {
+        "position": 2,
+        "surface": "אַרְיֵה֙",
+        "phrase": "lion",
+        "literal": "lion",
+        "source": "N-ms; 'lion' in all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוּדָ֔ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "PN; proper name, vocative"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/טֶּ֖רֶף",
+        "phrase": "from the prey",
+        "literal": "from-prey",
+        "source": "prep.-N-ms; 'from the prey' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנִ֣/י",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "N-mc-1cs; construct + suffix, vocative"
+      },
+      {
+        "position": 6,
+        "surface": "עָלִ֑יתָ",
+        "phrase": "you have gone up",
+        "literal": "you-have-gone-up",
+        "source": "Qal-2ms perf.; 'thou art gone up' (KJV), 'you have gone up' (ESV)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּרַ֨ע",
+        "phrase": "he crouches",
+        "literal": "he-crouched",
+        "source": "Qal perf. 3ms; 'stooped down' (KJV), 'crouches' (ESV, NASB)"
+      },
+      {
+        "position": 8,
+        "surface": "רָבַ֧ץ",
+        "phrase": "he lies down",
+        "literal": "he-laid-down",
+        "source": "Qal perf. 3ms; 'couched' (KJV), 'lies down' (ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "כְּ/אַרְיֵ֛ה",
+        "phrase": "like a lion",
+        "literal": "like-lion",
+        "source": "prep.-N-ms; 'as a lion' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/כְ/לָבִ֖יא",
+        "phrase": "and like a lioness",
+        "literal": "and-like-lioness",
+        "source": "conj.-prep.-N-fs; 'and as an old lion' (KJV), 'like a lioness' (ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "מִ֥י",
+        "phrase": "who",
+        "literal": "who",
+        "source": "interrog. pron.; 'who' in all translations"
+      },
+      {
+        "position": 12,
+        "surface": "יְקִימֶֽ/נּוּ",
+        "phrase": "will rouse him",
+        "literal": "will-raise-him",
+        "source": "Hiphil impf. 3ms + 3ms obj.; 'shall rouse him' (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

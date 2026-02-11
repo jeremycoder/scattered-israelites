@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּה֙",
+        "phrase": "Now therefore",
+        "literal": "and-now",
+        "source": "conj-w adv; KJV 'Now therefore', ESV 'So now'"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "תִּירָ֔אוּ",
+        "phrase": "fear",
+        "literal": "you(pl)-fear",
+        "source": "2mp impf Qal ירא; KJV 'fear ye not', NASB 'do not be afraid'[2]"
+      },
+      {
+        "position": 4,
+        "surface": "אָנֹכִ֛י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "1sg indep pron; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "אֲכַלְכֵּ֥ל",
+        "phrase": "will provide for",
+        "literal": "I-will-provide",
+        "source": "1sg impf Piel כול; KJV 'nourish', NASB 'provide'[2]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "direct obj marker-2mp pron; all translations"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "conj-direct obj marker; KJV 'and'"
+      },
+      {
+        "position": 8,
+        "surface": "טַפְּ/כֶ֑ם",
+        "phrase": "your little ones",
+        "literal": "families-your(pl)",
+        "source": "טף-2mp suff; KJV 'little ones', NASB 'little ones'[2]"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יְנַחֵ֣ם",
+        "phrase": "And he comforted",
+        "literal": "and-he-comforted",
+        "source": "waw-consec 3ms perf Piel נחם; all translations[2]"
+      },
+      {
+        "position": 10,
+        "surface": "אוֹתָ֔/ם",
+        "phrase": "them",
+        "literal": "obj-them",
+        "source": "direct obj marker-3mp pron; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יְדַבֵּ֖ר",
+        "phrase": "and spoke",
+        "literal": "and-he-spoke",
+        "source": "waw-consec 3ms perf Piel דבר; KJV 'spake', NASB 'spoke'[2]"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "to",
+        "literal": "upon",
+        "source": "prep; idiomatic 'to the heart'"
+      },
+      {
+        "position": 13,
+        "surface": "לִבָּֽ/ם",
+        "phrase": "their hearts",
+        "literal": "heart-their(pl)",
+        "source": "לב-3mp suff; KJV 'kindly unto them', lit 'to their heart'[2][5]"
+      }
+    ]
+  }
+]

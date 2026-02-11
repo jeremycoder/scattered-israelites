@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כֹּֽה",
+        "phrase": "Thus",
+        "literal": "thus-so",
+        "source": "adverb; KJV 'So', ESV 'Thus'"
+      },
+      {
+        "position": 2,
+        "surface": "תֹאמְר֣וּ",
+        "phrase": "you shall say",
+        "literal": "say-2mp-Qal-imperf",
+        "source": "V-Qal-imperf-2mp; NASB 'you shall say', KJV 'ye say'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/יוֹסֵ֗ף",
+        "phrase": "to Joseph",
+        "literal": "to-Joseph",
+        "source": "prep-proper name; all trans 'to Joseph'"
+      },
+      {
+        "position": 4,
+        "surface": "אָ֣נָּ֡א",
+        "phrase": "I pray",
+        "literal": "please-beg",
+        "source": "particle of entreaty; ESV 'Please', KJV 'I pray thee'"
+      },
+      {
+        "position": 5,
+        "surface": "שָׂ֣א",
+        "phrase": "forgive",
+        "literal": "forgive-bear",
+        "source": "V-Qal-imp-ms; lit. 'bear/lift'; NASB 'forgive', KJV 'Forgive'"
+      },
+      {
+        "position": 6,
+        "surface": "נָ֠א",
+        "phrase": "please",
+        "literal": "please-now",
+        "source": "particle of entreaty; ESV 'please', KJV 'now'"
+      },
+      {
+        "position": 7,
+        "surface": "פֶּ֣שַׁע",
+        "phrase": "transgression",
+        "literal": "transgression-rebellion",
+        "source": "N-ms; KJV 'trespass', NASB 'transgression'"
+      },
+      {
+        "position": 8,
+        "surface": "אַחֶ֤י/ךָ",
+        "phrase": "of your brothers",
+        "literal": "brother-mp-your",
+        "source": "N-mp-2ms suff; all trans 'thy brethren/your brothers'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/חַטָּאתָ/ם֙",
+        "phrase": "and their sin",
+        "literal": "and-sin-their",
+        "source": "N-fp-3mp; ESV 'their sin', KJV 'their sin'"
+      },
+      {
+        "position": 10,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "conj; all trans 'for'"
+      },
+      {
+        "position": 11,
+        "surface": "רָעָ֣ה",
+        "phrase": "evil",
+        "literal": "evil-bad",
+        "source": "N-fs; KJV 'evil', NASB 'wrong'"
+      },
+      {
+        "position": 12,
+        "surface": "גְמָל֔וּ/ךָ",
+        "phrase": "they did to you",
+        "literal": "deal-recompense-3mp-you",
+        "source": "V-Piel-perf-3mp-2ms suff; lit. 'dealt fully'; ESV 'did you wrong'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/עַתָּה֙",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "conj-adverb; all trans 'and now'"
+      },
+      {
+        "position": 14,
+        "surface": "שָׂ֣א",
+        "phrase": "forgive",
+        "literal": "forgive-bear",
+        "source": "V-Qal-imp-ms; NASB 'forgive', KJV 'forgive'"
+      },
+      {
+        "position": 15,
+        "surface": "נָ֔א",
+        "phrase": "please",
+        "literal": "please-now",
+        "source": "particle; ESV 'please', KJV 'we pray thee'"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/פֶ֥שַׁע",
+        "phrase": "the transgression",
+        "literal": "to-transgression",
+        "source": "prep-N-ms; lit. 'to transgression'; KJV 'trespass', NASB 'transgression'"
+      },
+      {
+        "position": 17,
+        "surface": "עַבְדֵ֖י",
+        "phrase": "of the servants",
+        "literal": "servant-mp-constr",
+        "source": "N-mp; all trans 'servants'"
+      },
+      {
+        "position": 18,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "of the God",
+        "literal": "God-mp-constr",
+        "source": "N-mp; ESV 'God', KJV 'God'"
+      },
+      {
+        "position": 19,
+        "surface": "אָבִ֑י/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "N-ms-2ms suff; all trans 'thy/your father'"
+      },
+      {
+        "position": 20,
+        "surface": "וַ/יֵּ֥בְךְּ",
+        "phrase": "and wept",
+        "literal": "and-wept",
+        "source": "V-Qal-consec-impf-3ms; KJV 'wept', ESV 'wept'"
+      },
+      {
+        "position": 21,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; all trans 'Joseph'"
+      },
+      {
+        "position": 22,
+        "surface": "בְּ/דַבְּרָ֥/ם",
+        "phrase": "when they spoke",
+        "literal": "in-speak-their",
+        "source": "prep-Piel-inf-constr-3mp suff; NASB 'they spoke'"
+      },
+      {
+        "position": 23,
+        "surface": "אֵלָֽי/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "prep-3ms suff; all trans 'unto him/to him'"
+      }
+    ]
+  }
+]

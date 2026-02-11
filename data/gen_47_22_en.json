@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֛ק",
+        "phrase": "only",
+        "literal": "only-only",
+        "source": "adv; KJV 'only', ESV 'only', NASB 'only'"
+      },
+      {
+        "position": 2,
+        "surface": "אַדְמַ֥ת",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "n-fs + def art; construct; KJV 'land', ESV 'land', NASB 'land'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כֹּהֲנִ֖ים",
+        "phrase": "the priests",
+        "literal": "the-priests",
+        "source": "art + n-mp; KJV 'priests', ESV 'priests', NASB 'priests'"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "neg particle; KJV 'not', ESV 'did not', NASB 'did not'"
+      },
+      {
+        "position": 5,
+        "surface": "קָנָ֑ה",
+        "phrase": "he bought",
+        "literal": "he-bought",
+        "source": "Qal perf 3ms; KJV 'bought', ESV 'buy', NASB 'buy'"
+      },
+      {
+        "position": 6,
+        "surface": "כִּי֩",
+        "phrase": "for",
+        "literal": "for-that",
+        "source": "conj; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 7,
+        "surface": "חֹ֨ק",
+        "phrase": "an allotment",
+        "literal": "portion-portion",
+        "source": "n-ms; KJV 'portion', ESV 'allotment', NASB 'rations'"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/כֹּהֲנִ֜ים",
+        "phrase": "for the priests",
+        "literal": "to-the-priests",
+        "source": "prep + art + n-mp; KJV 'priests', ESV 'priests', NASB 'priests'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/אֵ֣ת",
+        "phrase": "from",
+        "literal": "from-with",
+        "source": "prep; KJV 'of', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 10,
+        "surface": "פַּרְעֹ֗ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "pn; all translations 'Pharaoh'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אָֽכְל֤וּ",
+        "phrase": "and they ate",
+        "literal": "and-they-ate",
+        "source": "conj + Qal perf 3cp; KJV 'did eat', ESV 'lived', NASB 'ate'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "dom-acc",
+        "source": "direct obj marker; context 'their'"
+      },
+      {
+        "position": 13,
+        "surface": "חֻקָּ/ם֙",
+        "phrase": "allotment",
+        "literal": "portion-their",
+        "source": "n-ms + 3mp suff; construct; KJV 'portion', ESV 'allotment', NASB 'rations'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which-rel",
+        "source": "rel pron; KJV 'which', ESV 'which', NASB 'which'"
+      },
+      {
+        "position": 15,
+        "surface": "נָתַ֤ן",
+        "phrase": "he gave",
+        "literal": "he-gave",
+        "source": "Qal perf 3ms; KJV 'gave', ESV 'gave', NASB 'gave'"
+      },
+      {
+        "position": 16,
+        "surface": "לָ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "prep + 3mp pron; KJV 'them', ESV 'them', NASB 'them'"
+      },
+      {
+        "position": 17,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "pn; all translations 'Pharaoh'"
+      },
+      {
+        "position": 18,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "upon",
+        "source": "prep; inferential 'therefore'; KJV 'wherefore', ESV 'therefore', NASB 'therefore'"
+      },
+      {
+        "position": 19,
+        "surface": "כֵּ֕ן",
+        "phrase": "thus",
+        "literal": "so",
+        "source": "adv; KJV implied, ESV 'that is why', NASB 'therefore'"
+      },
+      {
+        "position": 20,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "neg particle; KJV 'not', ESV 'did not', NASB 'did not'"
+      },
+      {
+        "position": 21,
+        "surface": "מָכְר֖וּ",
+        "phrase": "they sold",
+        "literal": "they-sold",
+        "source": "Qal perf 3cp; KJV 'sold', ESV 'sell', NASB 'sell'"
+      },
+      {
+        "position": 22,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "dom-acc",
+        "source": "direct obj marker; context 'their'"
+      },
+      {
+        "position": 23,
+        "surface": "אַדְמָתָֽ/ם",
+        "phrase": "land",
+        "literal": "land-their",
+        "source": "n-fs + 3mp suff; KJV 'lands', ESV 'lands', NASB 'land'"
+      }
+    ]
+  }
+]

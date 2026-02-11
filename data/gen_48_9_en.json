@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "wayyiqtol 3ms Qal; KJV/ESV 'And Joseph said'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all translations agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV/ESV 'unto'"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֔/י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "n-msc + 3ms suff.; KJV 'his father', ESV 'his father'"
+      },
+      {
+        "position": 5,
+        "surface": "בָּנַ֣/י",
+        "phrase": "My sons",
+        "literal": "sons-my",
+        "source": "n-mp + 1cs suff.; KJV/ESV 'my sons'"
+      },
+      {
+        "position": 6,
+        "surface": "הֵ֔ם",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "3mp pron.; functions as copula; all agree"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which/who",
+        "source": "rel. particle; KJV/ESV 'whom'"
+      },
+      {
+        "position": 8,
+        "surface": "נָֽתַן",
+        "phrase": "He has given",
+        "literal": "he_gave",
+        "source": "Qal perf. 3ms; KJV/ESV 'hath given'"
+      },
+      {
+        "position": 9,
+        "surface": "לִ֥/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "prep. + 1cs suff.; all agree"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "n-mp; generic 'gods' but context God; KJV/ESV 'God'"
+      },
+      {
+        "position": 11,
+        "surface": "בָּ/זֶ֑ה",
+        "phrase": "here",
+        "literal": "in-this",
+        "source": "prep. + dem. pron.; KJV 'in this place', ESV 'here'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יֹּאמַ֕ר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "wayyiqtol 3ms Qal; KJV/ESV 'And he said'"
+      },
+      {
+        "position": 13,
+        "surface": "קָֽחֶ/ם",
+        "phrase": "Take them",
+        "literal": "take!-them",
+        "source": "impv. 2ms Qal + 3mp suff.; KJV/ESV 'Bring them'"
+      },
+      {
+        "position": 14,
+        "surface": "נָ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV/ESV 'I pray thee'"
+      },
+      {
+        "position": 15,
+        "surface": "אֵלַ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "prep. + 1cs suff.; all agree"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/אֲבָרֲכֵֽ/ם",
+        "phrase": "and I will bless them",
+        "literal": "and-I_will_bless-them",
+        "source": "cohortative 1cs + 3mp suff. Piel; KJV/ESV 'and I will bless them'"
+      }
+    ]
+  }
+]

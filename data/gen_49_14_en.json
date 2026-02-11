@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יִשָּׂשכָ֖ר",
+        "phrase": "Issachar",
+        "literal": "Issachar",
+        "source": "N-proper-ms; name of tribe (KJV, ESV, NASB: Issachar)"
+      },
+      {
+        "position": 2,
+        "surface": "חֲמֹ֣ר",
+        "phrase": "is a donkey",
+        "literal": "donkey",
+        "source": "N-msc; male ass (KJV: ass, ESV/NASB: donkey)"
+      },
+      {
+        "position": 3,
+        "surface": "גָּ֑רֶם",
+        "phrase": "strong",
+        "literal": "bone-strong",
+        "source": "N-ms; bone, fig. strong (KJV: strong, ESV/NASB: strong donkey)"
+      },
+      {
+        "position": 4,
+        "surface": "רֹבֵ֖ץ",
+        "phrase": "lying down",
+        "literal": "couching-lying_down",
+        "source": "Ptcp-ms; crouch, recline (KJV: couching down, ESV/NASB: lying down)"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "Prep; between (all: between)"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/מִּשְׁפְּתָֽיִם",
+        "phrase": "the sheepfolds",
+        "literal": "the-sheepfolds-dual",
+        "source": "Art-N-fdp; sheepfolds/burdens (KJV: burdens, ESV/NASB: sheepfolds)"
+      }
+    ]
+  }
+]

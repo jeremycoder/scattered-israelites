@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲנִ֞י",
+        "phrase": "And I",
+        "literal": "and-I",
+        "source": "waw-consecutive + 1cs pron (disjunctive accent); KJV 'Moreover', ESV 'Moreover'"
+      },
+      {
+        "position": 2,
+        "surface": "נָתַ֧תִּֽי",
+        "phrase": "have given",
+        "literal": "I-have-given",
+        "source": "Qal perfect 1cs; KJV 'have given', ESV 'have given'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֛",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "prep l- + 2ms suff; all agree"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁכֶ֥ם",
+        "phrase": "one portion",
+        "literal": "portion",
+        "source": "n ms 'shoulder/portion/Shechem'; KJV 'one portion', ESV 'one portion more', NET 'mountain slope'"
+      },
+      {
+        "position": 5,
+        "surface": "אַחַ֖ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "adj ms; modifies שכם; Chabad 'one portion'"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "above",
+        "literal": "upon",
+        "source": "prep; KJV 'above', ESV 'than'"
+      },
+      {
+        "position": 7,
+        "surface": "אַחֶ֑י/ךָ",
+        "phrase": "your brothers",
+        "literal": "brothers-your",
+        "source": "n mp + 2ms suff; all agree"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "rel pron; all agree"
+      },
+      {
+        "position": 9,
+        "surface": "לָקַ֨חְתִּי֙",
+        "phrase": "I took",
+        "literal": "I-took",
+        "source": "Qal perfect 1cs; KJV 'I took', ESV 'I took'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/יַּ֣ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand",
+        "source": "prep min + n fs; idiomatic; all agree"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/אֱמֹרִ֔י",
+        "phrase": "the Amorite",
+        "literal": "the-Amorite",
+        "source": "art + n mp 'Amorites'; KJV 'Amorite', ESV 'Amorites'"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/חַרְבִּ֖/י",
+        "phrase": "with my sword",
+        "literal": "in-sword-my",
+        "source": "prep b- + n fs + 1cs suff; all agree"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בְ/קַשְׁתִּֽ/י",
+        "phrase": "and with my bow",
+        "literal": "and-in-bow-my",
+        "source": "waw + prep b- + n fs + 1cs suff; all agree"
+      }
+    ]
+  }
+]

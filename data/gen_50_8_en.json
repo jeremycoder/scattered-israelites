@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כֹל֙",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "conj+subst (whole; KJV/ESV 'And all'; NASB agrees) [1]"
+      },
+      {
+        "position": 2,
+        "surface": "בֵּ֣ית",
+        "phrase": "the house",
+        "literal": "house",
+        "source": "n-ms (household/family; KJV/ESV/NASB 'house') [1]"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "of Joseph",
+        "literal": "Joseph",
+        "source": "pn (proper name; KJV/ESV/NASB 'Joseph') [1]"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "conj+n-mp-3ms (siblings; KJV/ESV/NASB 'his brethren/ brothers') [1]"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֣ית",
+        "phrase": "and the house",
+        "literal": "and-house",
+        "source": "conj+n-ms (household; KJV/ESV/NASB 'house') [1]"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "of his father",
+        "literal": "father-his",
+        "source": "n-ms-3ms (father; KJV/ESV/NASB 'father's') [1]"
+      },
+      {
+        "position": 7,
+        "surface": "רַ֗ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "adv (except/restrictive; KJV/ESV/NASB 'only') [1]"
+      },
+      {
+        "position": 8,
+        "surface": "טַפָּ/ם֙",
+        "phrase": "their little ones",
+        "literal": "little ones-their",
+        "source": "n-mpc-3mp (children/dependents; KJV 'little ones'; ESV/NASB 'children') [1]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/צֹאנָ֣/ם",
+        "phrase": "and their flocks",
+        "literal": "and-flocks-their",
+        "source": "conj+n-fp-3mp (sheep/small cattle; KJV/ESV/NASB 'flocks') [1]"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְקָרָ֔/ם",
+        "phrase": "and their herds",
+        "literal": "and-cattle-their",
+        "source": "conj+n-mp-3mp (large cattle; KJV/ESV/NASB 'herds') [1]"
+      },
+      {
+        "position": 11,
+        "surface": "עָזְב֖וּ",
+        "phrase": "they left",
+        "literal": "they-left",
+        "source": "v-qal-3p (abandon; KJV/ESV/NASB 'left') [1]"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "prep+n-fs (land; KJV/ESV/NASB 'land') [1]"
+      },
+      {
+        "position": 13,
+        "surface": "גֹּֽשֶׁן",
+        "phrase": "of Goshen",
+        "literal": "Goshen",
+        "source": "pn (place name; KJV/ESV/NASB 'Goshen') [1]"
+      }
+    ]
+  }
+]

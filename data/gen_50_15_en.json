@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּרְא֤וּ",
+        "phrase": "And they saw",
+        "literal": "and-they_saw",
+        "source": "wayyiqtol 3mp Qal from ראה; KJV 'saw', ESV 'saw', NASB 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחֵֽי",
+        "phrase": "the brothers of",
+        "literal": "brothers_of",
+        "source": "n-mp const from אח; KJV 'brethren', ESV 'brothers', NASB 'brothers'"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "pn; all agree"
+      },
+      {
+        "position": 4,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "conj; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ֣ת",
+        "phrase": "had died",
+        "literal": "died",
+        "source": "qal perf 3ms from מות; KJV 'was dead', ESV 'was dead', NASB 'was dead'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבִי/הֶ֔ם",
+        "phrase": "their father",
+        "literal": "father_their",
+        "source": "n-ms + 3mp suff; KJV 'their father', ESV 'their father', NASB 'their father'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֣אמְר֔וּ",
+        "phrase": "and they said",
+        "literal": "and-they_said",
+        "source": "wayyiqtol 3mp Qal from אמר; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 8,
+        "surface": "ל֥וּ",
+        "phrase": "perhaps",
+        "literal": "if-only",
+        "source": "particle of wish/possibility; KJV 'lest', ESV 'What if', NASB 'What if'"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂטְמֵ֖/נוּ",
+        "phrase": "he will hate us",
+        "literal": "he_will_hate_us",
+        "source": "yiqtol 3ms Nifal from שׂטם + 1cp suff; KJV 'hate', ESV 'bears a grudge', NASB 'holds a grudge'"
+      },
+      {
+        "position": 10,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "pn; all agree"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הָשֵׁ֤ב",
+        "phrase": "and fully",
+        "literal": "and-returning",
+        "source": "inf const Hifil from שׁוב + vav; KJV 'return', ESV 'pay', NASB 'repay'"
+      },
+      {
+        "position": 12,
+        "surface": "יָשִׁיב֙",
+        "phrase": "he will repay",
+        "literal": "he_will_return",
+        "source": "yiqtol 3ms Hifil from שׁוב; KJV 'requite', ESV 'pays back', NASB 'repay'"
+      },
+      {
+        "position": 13,
+        "surface": "לָ֔/נוּ",
+        "phrase": "to us",
+        "literal": "to_us",
+        "source": "prep + 1cp suff; all agree"
+      },
+      {
+        "position": 14,
+        "surface": "אֵ֚ת",
+        "phrase": "-",
+        "literal": "direct_object_marker",
+        "source": "particle; often untransl"
+      },
+      {
+        "position": 15,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "adj; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 16,
+        "surface": "הָ֣/רָעָ֔ה",
+        "phrase": "the evil",
+        "literal": "the-evil",
+        "source": "n-fs def art; KJV 'evil', ESV 'wrong', NASB 'evil'"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "rel pron; all agree"
+      },
+      {
+        "position": 18,
+        "surface": "גָּמַ֖לְנוּ",
+        "phrase": "we did",
+        "literal": "we_did",
+        "source": "perf 1cp Qal from גמל; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 19,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "to him",
+        "literal": "obj-him",
+        "source": "direct obj marker + 3ms suff; all agree"
+      }
+    ]
+  }
+]

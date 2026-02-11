@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "Vav-consecutive + qal imperfect 3ms of היה; KJV, ESV, NASB all render as 'And it came to pass'"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "Preposition אחרי in construct state; all major translations: 'after'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דְּבָרִ֣ים",
+        "phrase": "the things",
+        "literal": "the-words",
+        "source": "Definite article + masculine plural noun דברים; KJV 'things', ESV 'these things', NASB 'these things'"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "Definite article + feminine plural demonstrative אלה; functions as 'these' in context"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and one said",
+        "literal": "and-he/one-said",
+        "source": "Vav-consecutive + qal imperfect 3ms of אמר; KJV 'one said', ESV 'someone said', NASB 'one said'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/יוֹסֵ֔ף",
+        "phrase": "to Joseph",
+        "literal": "to-Joseph",
+        "source": "Preposition ל + proper noun יוסף; all translations: 'to Joseph'"
+      },
+      {
+        "position": 7,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "Interjection הנה; KJV 'Behold', ESV 'Behold', NASB 'Behold'"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "Masculine singular construct אבי + 2ms possessive suffix ךָ; all translations: 'your father'"
+      },
+      {
+        "position": 9,
+        "surface": "חֹלֶ֑ה",
+        "phrase": "is sick",
+        "literal": "sick",
+        "source": "Qal participle masculine singular of חלה; KJV 'sick', ESV 'ill', NASB 'sick'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּקַּ֞ח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "Vav-consecutive + qal imperfect 3ms of לקח; all translations: 'and he took'"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "with him",
+        "literal": "direct-object-marker",
+        "source": "Direct object marker את; here functioning with עמו to mean 'with him'; KJV 'with him', ESV 'with him'"
+      },
+      {
+        "position": 12,
+        "surface": "שְׁנֵ֤י",
+        "phrase": "two",
+        "literal": "two",
+        "source": "Masculine dual construct of שנים; all translations: 'two'"
+      },
+      {
+        "position": 13,
+        "surface": "בָנָי/ו֙",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "Masculine plural construct בני + 3ms possessive suffix ו; all translations: 'his sons'"
+      },
+      {
+        "position": 14,
+        "surface": "עִמּ֔/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "Preposition עם + 3ms possessive suffix ו; all translations: 'with him'"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "Direct object marker את introducing first son; all translations use implicit article"
+      },
+      {
+        "position": 16,
+        "surface": "מְנַשֶּׁ֖ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "Proper noun מנשה; all translations: 'Manasseh'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "Vav conjunction + direct object marker את introducing second son; all translations: 'and'"
+      },
+      {
+        "position": 18,
+        "surface": "אֶפְרָֽיִם",
+        "phrase": "Ephraim",
+        "literal": "Ephraim",
+        "source": "Proper noun אפרים; all translations: 'Ephraim'"
+      }
+    ]
+  }
+]

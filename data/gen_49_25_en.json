@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֵ/אֵ֨ל",
+        "phrase": "from God",
+        "literal": "from-God",
+        "source": "prep. מֵ + נָ֖אל (God); KJV 'Even by the God', ESV 'by the God'"
+      },
+      {
+        "position": 2,
+        "surface": "אָבִ֜י/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "אָב (father) + 2ms suff. ךָ; NASB 'of your father', NET 'of your father'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יַעְזְרֶ֗/ךָּ",
+        "phrase": "and may he help you",
+        "literal": "and-help-you",
+        "source": "wayyiqtol 3ms יַעְזֵר + 2ms suff. ךָ; KJV 'who shall help thee', ESV 'who will help you'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵ֤ת",
+        "phrase": "and by",
+        "literal": "and-אֵת",
+        "source": "conj. וְ + acc. marker אֵת (poss. emend to אֵל 'God'); NET tn notes emendation"
+      },
+      {
+        "position": 5,
+        "surface": "שַׁדַּי֙",
+        "phrase": "Shaddai",
+        "literal": "Shaddai",
+        "source": "proper name שַׁדַּי (Almighty); KJV 'Almighty', ESV 'Almighty'"
+      },
+      {
+        "position": 6,
+        "surface": "וִ/יבָ֣רְכֶ֔/ךָּ",
+        "phrase": "and may he bless you",
+        "literal": "and-bless-you",
+        "source": "wayyiqtol 3ms יְבָרֵךְ + 2ms suff. ךָ; NASB 'who will bless you', NET 'who will bless you'"
+      },
+      {
+        "position": 7,
+        "surface": "בִּרְכֹ֤ת",
+        "phrase": "with blessings",
+        "literal": "blessings",
+        "source": "נָשִׂים בִּרְכַת (blessings); KJV 'with blessings', ESV 'with blessings'"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁמַ֨יִם֙",
+        "phrase": "of heaven",
+        "literal": "skies/heavens",
+        "source": "שָׁמַיִם (heavens); NASB 'of heaven', NET 'from the sky'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/עָ֔ל",
+        "phrase": "from above",
+        "literal": "from-above",
+        "source": "prep. מֵ + עַל (above); KJV 'above', ESV 'above'"
+      },
+      {
+        "position": 10,
+        "surface": "בִּרְכֹ֥ת",
+        "phrase": "blessings",
+        "literal": "blessings",
+        "source": "נָשִׂים בִּרְכַת (blessings); consistent across translations"
+      },
+      {
+        "position": 11,
+        "surface": "תְּה֖וֹם",
+        "phrase": "of the deep",
+        "literal": "deep/abyss",
+        "source": "תְּהוֹם (primordial deep); KJV 'deep that lieth under', ESV 'deep'"
+      },
+      {
+        "position": 12,
+        "surface": "רֹבֶ֣צֶת",
+        "phrase": "that lies beneath",
+        "literal": "crouching/lying",
+        "source": "ptc. f.s. רָבַץ (lying down); NASB 'that lies beneath', NET 'that lies below'"
+      },
+      {
+        "position": 13,
+        "surface": "תָּ֑חַת",
+        "phrase": "beneath",
+        "literal": "below/under",
+        "source": "תַּחַת (under); ESV 'beneath', KJV 'under'"
+      },
+      {
+        "position": 14,
+        "surface": "בִּרְכֹ֥ת",
+        "phrase": "blessings",
+        "literal": "blessings",
+        "source": "נָשִׂים בִּרְכַת (blessings); consistent"
+      },
+      {
+        "position": 15,
+        "surface": "שָׁדַ֖יִם",
+        "phrase": "of the breasts",
+        "literal": "breasts",
+        "source": "שָׁדַיִם (breasts); KJV 'breasts', ESV 'breasts'"
+      },
+      {
+        "position": 16,
+        "surface": "וָ/רָֽחַם",
+        "phrase": "and womb",
+        "literal": "and-womb",
+        "source": "conj. וְ + רֶחֶם (womb); NASB 'and of the womb', NET 'and womb'"
+      }
+    ]
+  }
+]

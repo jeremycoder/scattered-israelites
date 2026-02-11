@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָֽׁכַבְתִּי֙",
+        "phrase": "but I will lie down",
+        "literal": "and-I-will-lie_down",
+        "source": "conj-v-Qal-perfect-1cs; KJV 'But I will lie', ESV 'but let me lie', NASB 'but when I lie down'"
+      },
+      {
+        "position": 2,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "prep; all agree 'with'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲבֹתַ֔/י",
+        "phrase": "my fathers",
+        "literal": "fathers-my",
+        "source": "n-mp-1cs; KJV/ESV/NASB 'my fathers'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/נְשָׂאתַ֨/נִי֙",
+        "phrase": "and you shall carry",
+        "literal": "and-you_shall_carry-me",
+        "source": "conj-v-Qal-perfect-2ms-1as; KJV 'thou shalt carry me', ESV 'carry me', NASB 'take me up'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/מִּצְרַ֔יִם",
+        "phrase": "out of Egypt",
+        "literal": "from-Egypt",
+        "source": "prep-n_ms; all agree 'out of Egypt'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/קְבַרְתַּ֖/נִי",
+        "phrase": "and bury me",
+        "literal": "and-you_shall_bury-me",
+        "source": "conj-v-Qal-perfect-2ms-1as; KJV/ESV/NASB 'bury me'"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/קְבֻרָתָ֑/ם",
+        "phrase": "in their burying place",
+        "literal": "in-burial_their",
+        "source": "prep-n_fs-3mp; KJV 'their buryingplace', ESV 'their tomb', NASB 'their grave'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּאמַ֕ר",
+        "phrase": "And he said",
+        "literal": "and-he_said",
+        "source": "conj-v-Qal-consecutive_imperfect-3ms; all agree 'And he said'"
+      },
+      {
+        "position": 9,
+        "surface": "אָנֹכִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "pro-1cs emphatic; all agree 'I'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶֽעֱשֶׂ֥ה",
+        "phrase": "will do",
+        "literal": "I_will_do",
+        "source": "v-Qal-imperfect-1cs; KJV/ESV/NASB 'I will do'"
+      },
+      {
+        "position": 11,
+        "surface": "כִ/דְבָרֶֽ/ךָ",
+        "phrase": "as you have said",
+        "literal": "as-word-your",
+        "source": "prep-n_ms-2ms; all agree 'as thou hast said'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פַּ֤חַז",
+        "phrase": "unstable",
+        "literal": "reckless-unrestrained",
+        "source": "adj. (pāḥaz); KJV/ESV 'unstable', uncertain root meaning 'uncontrolled' [1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/מַּ֨יִם֙",
+        "phrase": "as water",
+        "literal": "like-the.waters",
+        "source": "prep.+n.pl. (kammayim); KJV/ESV/NASB 'as water' [1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "neg. particle (ʾal); all trans. 'not' [2]"
+      },
+      {
+        "position": 4,
+        "surface": "תּוֹתַ֔ר",
+        "phrase": "shall you excel",
+        "literal": "you.shall-remain/excel",
+        "source": "v. Qal impf.2ms (tōtār); KJV 'thou shalt not excel', ESV 'not have preeminence' [1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "conj. (kî); all trans. 'because/for' [2]"
+      },
+      {
+        "position": 6,
+        "surface": "עָלִ֖יתָ",
+        "phrase": "you went up",
+        "literal": "you-went.up",
+        "source": "v. Qal perf.2ms (ʿālîtā); KJV/ESV 'wentest up' [1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "מִשְׁכְּבֵ֣י",
+        "phrase": "to the bed of",
+        "literal": "beds-of",
+        "source": "n.mp constr. (miškbê); KJV 'thy father's bed', NASB 'beds of' [2]"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִ֑י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "n.ms + 2ms suff. (ʾābîkā); KJV/ESV 'thy father' [1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "אָ֥ז",
+        "phrase": "then",
+        "literal": "then",
+        "source": "adv. (ʾāz); KJV/ESV 'then' [2]"
+      },
+      {
+        "position": 10,
+        "surface": "חִלַּ֖לְתָּ",
+        "phrase": "you defiled",
+        "literal": "you-defiled/profaned",
+        "source": "v. Piel perf.2ms (ḥillaltā); KJV/ESV 'defiledst' [1][2]"
+      },
+      {
+        "position": 11,
+        "surface": "יְצוּעִ֥/י",
+        "phrase": "my couch",
+        "literal": "couch-my",
+        "source": "n.ms + 1s suff. (yəṣûʿay); KJV 'my couch', ESV 'my couch' [2]"
+      },
+      {
+        "position": 12,
+        "surface": "עָלָֽה",
+        "phrase": "he went up",
+        "literal": "he-went.up",
+        "source": "v. Qal perf.3ms (ʿālâ); MT 3ms, KJV 'he went up', some LXX 'you' [1][2]"
+      }
+    ]
+  }
+]

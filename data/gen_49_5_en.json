@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שִׁמְע֥וֹן",
+        "phrase": "Simeon",
+        "literal": "Simeon-proper name",
+        "source": "proper noun (NPMSC); KJV/ESV/NASB: Simeon[3][5]"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/לֵוִ֖י",
+        "phrase": "and Levi",
+        "literal": "and-Levi",
+        "source": "conj. + proper noun (CNPMSC); KJV/ESV/NASB: and Levi[3][5]"
+      },
+      {
+        "position": 3,
+        "surface": "אַחִ֑ים",
+        "phrase": "brothers",
+        "literal": "brothers",
+        "source": "adj. mpl. construct (AJMPNC); KJV/ESV/NASB: brethren/brothers[3][5]"
+      },
+      {
+        "position": 4,
+        "surface": "כְּלֵ֥י",
+        "phrase": "implements",
+        "literal": "implements-of",
+        "source": "noun mpl. construct (NCMPC); KJV: instruments, ESV/NASB: swords[3][5]"
+      },
+      {
+        "position": 5,
+        "surface": "חָמָ֖ס",
+        "phrase": "of violence",
+        "literal": "violence",
+        "source": "noun ms. abs. (NCMSA); all: violence/cruelty[3][5]"
+      },
+      {
+        "position": 6,
+        "surface": "מְכֵרֹתֵי/הֶֽם",
+        "phrase": "their swords",
+        "literal": "sales-their",
+        "source": "Piel participle mpl. + 3mp suf. (VPARMP + 3MP); lit. 'their sellings', fig. weapons (idiom); KJV: in their slayings, ESV/NASB: their swords[3][5]"
+      }
+    ]
+  }
+]

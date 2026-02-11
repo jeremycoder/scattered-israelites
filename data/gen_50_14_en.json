@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨שָׁב",
+        "phrase": "And Joseph returned",
+        "literal": "and-returned",
+        "source": "Qal wayyiqtol 3ms H7725; KJV/ESV 'And Joseph returned'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֤ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun H3130; all agree"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְרַ֨יְמָ/ה֙",
+        "phrase": "to Egypt",
+        "literal": "to-Egypt",
+        "source": "prep+proper noun H4714; KJV/ESV 'into Egypt'"
+      },
+      {
+        "position": 4,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "pronoun 3ms; emphatic, KJV/ESV 'he'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֔י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "conj+noun+3ms suff H251; KJV/ESV/NASB 'and his brethren/brothers'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "conj+quantifier H3605; KJV/ESV 'and all'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עֹלִ֥ים",
+        "phrase": "who had gone up",
+        "literal": "the-ones-going-up",
+        "source": "art+Qal act ptc mpl H5927; KJV/ESV 'that went up'"
+      },
+      {
+        "position": 8,
+        "surface": "אִתּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "prep+3ms pron H854; all agree"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/קְבֹּ֣ר",
+        "phrase": "to bury",
+        "literal": "to-bury",
+        "source": "prep+Qal inf const H6912; KJV/ESV/NASB 'to bury'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "DOM particle H853; not translated"
+      },
+      {
+        "position": 11,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "noun+3ms suff H1; KJV/ESV 'his father'"
+      },
+      {
+        "position": 12,
+        "surface": "אַחֲרֵ֖י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "prep H310; all agree"
+      },
+      {
+        "position": 13,
+        "surface": "קָבְר֥/וֹ",
+        "phrase": "he had buried him",
+        "literal": "burying-his",
+        "source": "Qal inf const+3ms obj H6912; ESV 'he had buried', NASB 'after he had buried'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "DOM particle H853; not translated"
+      },
+      {
+        "position": 15,
+        "surface": "אָבִֽי/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "noun+3ms suff H1; KJV/ESV 'his father'"
+      }
+    ]
+  }
+]

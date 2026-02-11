@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְבָ֨רֲכֵ֜/ם",
+        "phrase": "and he blessed them",
+        "literal": "and-he.blessed-them",
+        "source": "Wayyiqtol (vav-consecutive imperfect) + 3ms suffix; KJV, ESV, NASB all render 'blessed them'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on that day",
+        "literal": "in.the-day",
+        "source": "Preposition בְ + definite article + masculine singular noun; all major translations: 'that day'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/הוּא֮",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "Demonstrative pronoun with article; functions as emphatic demonstrative"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמוֹר֒",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "Infinitive construct לאמר; introduces direct speech; all translations: 'saying'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/ךָ֗",
+        "phrase": "by you",
+        "literal": "in-you",
+        "source": "Preposition בְ + 2ms pronoun; ESV 'by you', KJV 'by thee', NASB 'by you'"
+      },
+      {
+        "position": 6,
+        "surface": "יְבָרֵ֤ךְ",
+        "phrase": "will bless",
+        "literal": "he.will.bless",
+        "source": "Yiqtol 3ms; future tense; all translations: 'will bless' or 'shall bless'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun, masculine singular; subject of the blessing formula"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "Infinitive construct לאמר; introduces the blessing formula itself"
+      },
+      {
+        "position": 9,
+        "surface": "יְשִֽׂמְ/ךָ֣",
+        "phrase": "may God make you",
+        "literal": "he.will.place-you",
+        "source": "Yiqtol 3ms שׂים + 2ms suffix; jussive sense in blessing context; all translations: 'make you' or 'set you'"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Masculine plural noun (honorific); subject of the blessing; all translations: 'God'"
+      },
+      {
+        "position": 11,
+        "surface": "כְּ/אֶפְרַ֖יִם",
+        "phrase": "like Ephraim",
+        "literal": "like-Ephraim",
+        "source": "Preposition כְ + proper noun; comparative; all translations: 'like Ephraim'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/כִ/מְנַשֶּׁ֑ה",
+        "phrase": "and like Manasseh",
+        "literal": "and-like-Manasseh",
+        "source": "Conjunction וְ + preposition כִ + proper noun; parallel comparison; all translations: 'and like Manasseh'"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יָּ֥שֶׂם",
+        "phrase": "and he set",
+        "literal": "and-he.set",
+        "source": "Wayyiqtol (vav-consecutive imperfect) 3ms; KJV 'set', ESV 'put', NASB 'set'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Accusative particle; marks direct object; no English equivalent"
+      },
+      {
+        "position": 15,
+        "surface": "אֶפְרַ֖יִם",
+        "phrase": "Ephraim",
+        "literal": "Ephraim",
+        "source": "Proper noun, masculine singular; direct object of יָּשֶׂם"
+      },
+      {
+        "position": 16,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face.of",
+        "source": "Preposition לִ + construct noun פְנֵי; all translations: 'before'"
+      },
+      {
+        "position": 17,
+        "surface": "מְנַשֶּֽׁה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "Proper noun, masculine singular; object of preposition; all translations: 'Manasseh'"
+      }
+    ]
+  }
+]

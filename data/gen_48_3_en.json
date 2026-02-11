@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Vav consecutive + Qal imperfect 3ms of אמר; all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun, nominative subject; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, object of preposition; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֥ל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Noun masculine singular construct; ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "שַׁדַּ֛י",
+        "phrase": "Almighty",
+        "literal": "Shaddai",
+        "source": "Divine name (El Shaddai); all translations render as 'Almighty' or 'the Almighty'"
+      },
+      {
+        "position": 7,
+        "surface": "נִרְאָֽה",
+        "phrase": "appeared",
+        "literal": "he.appeared",
+        "source": "Niphal perfect 3ms of ראה; ESV, NASB, KJV 'appeared'"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלַ֥/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Preposition + 1cs suffix; all translations"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/ל֖וּז",
+        "phrase": "at Luz",
+        "literal": "in-Luz",
+        "source": "Preposition + proper noun; ESV, NASB, KJV 'at Luz'"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition + feminine noun construct; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "Proper noun in construct chain; all translations"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יְבָ֖רֶךְ",
+        "phrase": "and he blessed",
+        "literal": "and-he.blessed",
+        "source": "Vav consecutive + Qal imperfect 3ms of ברך; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "אֹתִֽ/י",
+        "phrase": "me",
+        "literal": "me",
+        "source": "Direct object marker + 1cs suffix; all translations"
+      }
+    ]
+  }
+]

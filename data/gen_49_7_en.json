@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֤וּר",
+        "phrase": "Cursed be",
+        "literal": "cursed-qal.perfect.3ms",
+        "source": "Qal perfect 3ms of אָרַר; KJV 'Cursed be', NASB 'Cursed be'[3]"
+      },
+      {
+        "position": 2,
+        "surface": "אַפָּ/ם֙",
+        "phrase": "their anger",
+        "literal": "nose-their",
+        "source": "אַף construct + 3mp suffix; KJV 'their anger', ESV 'their anger'[3]"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "Conjunction כי; KJV 'for', NASB 'for'[1]"
+      },
+      {
+        "position": 4,
+        "surface": "עָ֔ז",
+        "phrase": "it was fierce",
+        "literal": "strong",
+        "source": "Adjective עַז; KJV 'fierce', NASB 'fierce'[3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עֶבְרָתָ֖/ם",
+        "phrase": "and their wrath",
+        "literal": "and-wrath-their",
+        "source": "ו + עֶבְרָה construct + 3mp suffix; KJV 'their wrath', ESV 'their wrath'[3]"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "Conjunction כי; KJV 'for', NASB 'for'[1]"
+      },
+      {
+        "position": 7,
+        "surface": "קָשָׁ֑תָה",
+        "phrase": "it was cruel",
+        "literal": "hard-qal.perfect.3fs",
+        "source": "Qal perfect 3fs of קָשָׁה; KJV 'cruel', NASB 'cruel'[3]"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחַלְּקֵ֣/ם",
+        "phrase": "I will divide them",
+        "literal": "I-will-divide-them",
+        "source": "Piel imperfect cohortative 1cs of חָלַק + 3mp suffix; KJV 'I will divide them', ESV 'I will divide them'[3]"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/יַעֲקֹ֔ב",
+        "phrase": "in Jacob",
+        "literal": "in-Jacob",
+        "source": "ב + proper name יַעֲקֹב; KJV 'in Jacob', NASB 'in Jacob'[1]"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/אֲפִיצֵ֖/ם",
+        "phrase": "and scatter them",
+        "literal": "and-I-will-scatter-them",
+        "source": "ו + Hiphil imperfect cohortative 1cs of פּוּץ + 3mp suffix; KJV 'scatter them', NASB 'scatter them'[3]"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/יִשְׂרָאֵֽל",
+        "phrase": "in Israel",
+        "literal": "in-Israel",
+        "source": "ב + proper name יִשְׂרָאֵל; KJV 'in Israel', ESV 'in Israel'[1]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֣ח",
+        "phrase": "and he took",
+        "literal": "and-he.took",
+        "source": "Vav-consecutive + Qal imperfect 3ms of לקח; all major translations (KJV, ESV, NASB, NIV)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֮",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, nominative subject; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "both of them",
+        "literal": "direct.object.marker",
+        "source": "Direct object marker (את); introduces the dual object; KJV 'them both', ESV 'them both'"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁנֵי/הֶם֒",
+        "phrase": "both of them",
+        "literal": "two-of.them",
+        "source": "Construct dual of שנים + 3mp suffix; ESV 'both', NASB 'both', KJV 'both'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "Ephraim",
+        "literal": "direct.object.marker",
+        "source": "Direct object marker; introduces first named son"
+      },
+      {
+        "position": 6,
+        "surface": "אֶפְרַ֤יִם",
+        "phrase": "Ephraim",
+        "literal": "Ephraim",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 7,
+        "surface": "בִּֽ/ימִינ/וֹ֙",
+        "phrase": "in his right hand",
+        "literal": "in-right.hand-his",
+        "source": "Preposition ב + construct יד + 3ms suffix; all translations 'in his right hand'"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/שְּׂמֹ֣אל",
+        "phrase": "toward Israel's left",
+        "literal": "from-left",
+        "source": "Preposition מ + noun שמאל; ESV/NASB 'toward Israel's left', KJV 'toward Israel's left hand'"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun (Jacob's covenant name); all translations"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and Manasseh",
+        "literal": "and-direct.object.marker",
+        "source": "Vav conjunction + direct object marker; introduces second son"
+      },
+      {
+        "position": 11,
+        "surface": "מְנַשֶּׁ֥ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 12,
+        "surface": "בִ/שְׂמֹאל֖/וֹ",
+        "phrase": "in his left hand",
+        "literal": "in-left.hand-his",
+        "source": "Preposition ב + noun שמאל + 3ms suffix; all translations 'in his left hand'"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/ימִ֣ין",
+        "phrase": "toward Israel's right",
+        "literal": "from-right",
+        "source": "Preposition מ + noun ימין; ESV/NASB 'toward Israel's right', KJV 'toward Israel's right hand'"
+      },
+      {
+        "position": 14,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יַּגֵּ֖שׁ",
+        "phrase": "and brought them near",
+        "literal": "and-he.brought.near",
+        "source": "Vav-consecutive + Hiphil imperfect 3ms of נגש; all translations 'brought near/close'"
+      },
+      {
+        "position": 16,
+        "surface": "אֵלָֽי/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition אל + 3ms suffix; all translations 'to him/unto him'"
+      }
+    ]
+  }
+]

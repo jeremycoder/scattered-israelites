@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבִ֣יאוּ",
+        "phrase": "and they brought",
+        "literal": "and-they-brought",
+        "source": "Wayyiqtol 3mp; vav-consecutive + hiphil imperfect; all major translations agree"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "direct-object-marker",
+        "source": "Accusative marker; introduces the direct object"
+      },
+      {
+        "position": 3,
+        "surface": "מִקְנֵי/הֶם֮",
+        "phrase": "livestock",
+        "literal": "livestock-their",
+        "source": "Masculine plural construct + 3mp suffix; KJV 'cattle', NASB 'livestock'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; directional marker"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹסֵף֒",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, masculine singular"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּתֵּ֣ן",
+        "phrase": "and he gave",
+        "literal": "and-he-gave",
+        "source": "Wayyiqtol 3ms; vav-consecutive + qal imperfect; all translations agree"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/הֶם֩",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "Preposition + 3mp suffix; dative function"
+      },
+      {
+        "position": 8,
+        "surface": "יוֹסֵ֨ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, masculine singular; subject emphasis/clarification"
+      },
+      {
+        "position": 9,
+        "surface": "לֶ֜חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "Masculine singular; metonymy for food/grain; all translations render as 'food' or 'bread'"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/סּוּסִ֗ים",
+        "phrase": "for the horses",
+        "literal": "in-the-horses",
+        "source": "Preposition + definite article + masculine plural; exchange/trade marker"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/מִקְנֵ֥ה",
+        "phrase": "and for the livestock of",
+        "literal": "and-in-livestock-of",
+        "source": "Vav + preposition + construct form; coordinate exchange item"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/צֹּ֛אן",
+        "phrase": "the flocks",
+        "literal": "the-flocks",
+        "source": "Definite article + feminine singular; sheep/goats; NASB 'flocks'"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בְ/מִקְנֵ֥ה",
+        "phrase": "and for the livestock of",
+        "literal": "and-in-livestock-of",
+        "source": "Vav + preposition + construct form; parallel structure to position 11"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/בָּקָ֖ר",
+        "phrase": "the herds",
+        "literal": "the-cattle",
+        "source": "Definite article + masculine singular; cattle/herds; NASB 'herds of cattle'"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/בַ/חֲמֹרִ֑ים",
+        "phrase": "and for the donkeys",
+        "literal": "and-in-the-donkeys",
+        "source": "Vav + preposition + definite article + masculine plural; final exchange item"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/יְנַהֲלֵ֤/ם",
+        "phrase": "and he sustained them",
+        "literal": "and-he-sustained-them",
+        "source": "Wayyiqtol 3ms + 3mp suffix; hiphil of נהל; KJV 'fed', NASB 'supplied'"
+      },
+      {
+        "position": 17,
+        "surface": "בַּ/לֶּ֨חֶם֙",
+        "phrase": "with bread",
+        "literal": "in-the-bread",
+        "source": "Preposition + definite article + masculine singular; instrumental/means marker"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/כָל",
+        "phrase": "for all",
+        "literal": "in-all",
+        "source": "Preposition + masculine singular construct; comprehensive marker"
+      },
+      {
+        "position": 19,
+        "surface": "מִקְנֵ/הֶ֔ם",
+        "phrase": "their livestock",
+        "literal": "livestock-their",
+        "source": "Masculine plural construct + 3mp suffix; recapitulation of exchange"
+      },
+      {
+        "position": 20,
+        "surface": "בַּ/שָּׁנָ֖ה",
+        "phrase": "in that year",
+        "literal": "in-the-year",
+        "source": "Preposition + definite article + feminine singular; temporal marker"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/הִֽוא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "Definite article + demonstrative pronoun feminine singular; anaphoric reference"
+      }
+    ]
+  }
+]

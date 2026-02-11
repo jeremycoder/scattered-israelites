@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Wayyiqtol (vav + 3ms imperfect of אמר); KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "Proper noun, construct state; all translations 'Pharaoh'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "Proper noun; all translations 'Jacob'"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/מָּ֕ה",
+        "phrase": "how many",
+        "literal": "like-what",
+        "source": "Preposition כ + interrogative pronoun מה; KJV 'How old', ESV 'How many', NASB 'How many'"
+      },
+      {
+        "position": 6,
+        "surface": "יְמֵ֖י",
+        "phrase": "days",
+        "literal": "days-of",
+        "source": "Construct plural of יום; KJV 'days', ESV 'days', NASB 'days'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁנֵ֥י",
+        "phrase": "years",
+        "literal": "years-of",
+        "source": "Construct dual of שנה; KJV 'years', ESV 'years', NASB 'years'"
+      },
+      {
+        "position": 8,
+        "surface": "חַיֶּֽי/ךָ",
+        "phrase": "your life",
+        "literal": "life-of-you",
+        "source": "Construct singular חיים + 2ms possessive suffix; KJV 'thy life', ESV 'your life', NASB 'your life'"
+      }
+    ]
+  }
+]

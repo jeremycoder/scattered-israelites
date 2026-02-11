@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣שֶׂם",
+        "phrase": "And he set",
+        "literal": "and-he-set",
+        "source": "waw-consec + Qal impf.3ms שׂום; KJV 'made', ESV 'made it a statute'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֣/הּ",
+        "phrase": "it",
+        "literal": "obj.marker-it",
+        "source": "את + 3fs suff.; direct object marker; all trans agree"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֡ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; subj.; KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/חֹק֩",
+        "phrase": "as a statute",
+        "literal": "to-statute",
+        "source": "לְ + noun ms חֹק; 'decree, custom'; KJV 'law', ESV 'statute'"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "prep. עד; temporal limit; all trans agree"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/יּ֨וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "def art + noun ms יוֹם; KJV/ESV 'this day'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/זֶּ֜ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "def art + dem. ms זה; KJV/ESV 'this'"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over",
+        "source": "prep. על; rule/authority; all trans agree"
+      },
+      {
+        "position": 9,
+        "surface": "אַדְמַ֥ת",
+        "phrase": "land of",
+        "literal": "ground-of",
+        "source": "cstr. noun fs אֲדָמָה; KJV/ESV 'land'"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֛יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "proper name; gen.; all trans agree"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/פַרְעֹ֖ה",
+        "phrase": "for Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "לְ + proper name; dative; KJV/ESV 'Pharaoh'"
+      },
+      {
+        "position": 12,
+        "surface": "לַ/חֹ֑מֶשׁ",
+        "phrase": "for a fifth",
+        "literal": "to-fifth",
+        "source": "def art + noun ms חֹמֶשׁ 'one-fifth'; KJV/ESV/NASB 'fifth'"
+      },
+      {
+        "position": 13,
+        "surface": "רַ֞ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "adv. רַק; exceptive; KJV/ESV 'only'"
+      },
+      {
+        "position": 14,
+        "surface": "אַדְמַ֤ת",
+        "phrase": "land of",
+        "literal": "ground-of",
+        "source": "cstr. noun fs אֲדָמָה; KJV/ESV 'land'"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/כֹּֽהֲנִים֙",
+        "phrase": "the priests",
+        "literal": "the-priests",
+        "source": "def art + noun mp כֹּהֵן; KJV 'priests', ESV 'priests'"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/בַדָּ֔/ם",
+        "phrase": "alone",
+        "literal": "to-alone-them",
+        "source": "לְ + noun fs בָּדָד + 3mp suff.; 'by themselves'; lit. 'to their separation'"
+      },
+      {
+        "position": 17,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "neg. particle; all trans agree"
+      },
+      {
+        "position": 18,
+        "surface": "הָיְתָ֖ה",
+        "phrase": "it was",
+        "literal": "it-was",
+        "source": "Qal perf.3fs היה + waw-conv.; KJV/ESV 'became not'"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/פַרְעֹֽה",
+        "phrase": "Pharaoh's",
+        "literal": "to-Pharaoh",
+        "source": "לְ + proper name; possession; all trans agree"
+      }
+    ]
+  }
+]

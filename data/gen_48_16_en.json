@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/מַּלְאָךְ֩",
+        "phrase": "the angel",
+        "literal": "the-angel",
+        "source": "Definite article + masculine singular noun; all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/גֹּאֵ֨ל",
+        "phrase": "who has redeemed",
+        "literal": "the-redeemer/redeeming-one",
+        "source": "Definite article + masculine singular participle (Qal); ESV 'redeemed', NASB 'redeemed', KJV 'redeemed'"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתִ֜/י",
+        "phrase": "me",
+        "literal": "object-marker-me",
+        "source": "Direct object marker + first person singular suffix; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/כָּל",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "Preposition + masculine singular construct; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "רָ֗ע",
+        "phrase": "evil",
+        "literal": "evil",
+        "source": "Masculine singular noun; ESV/NASB 'evil', KJV 'evil', some translations 'harm'"
+      },
+      {
+        "position": 6,
+        "surface": "יְבָרֵךְ֮",
+        "phrase": "bless",
+        "literal": "may-he-bless",
+        "source": "Jussive, third person masculine singular (Piel); all translations use imperative/jussive sense"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "object-marker",
+        "source": "Direct object marker; grammatical particle, not translated"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/נְּעָרִים֒",
+        "phrase": "the boys",
+        "literal": "the-youths/boys",
+        "source": "Definite article + masculine plural noun; KJV 'lads', ESV/NASB 'boys'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/יִקָּרֵ֤א",
+        "phrase": "and may they be called",
+        "literal": "and-may-be-called",
+        "source": "Conjunction + jussive, third person masculine singular (Niphal); all translations 'called'"
+      },
+      {
+        "position": 10,
+        "surface": "בָ/הֶם֙",
+        "phrase": "in them",
+        "literal": "in-them",
+        "source": "Preposition + third person masculine plural suffix; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁמִ֔/י",
+        "phrase": "my name",
+        "literal": "name-my",
+        "source": "Masculine singular construct + first person singular suffix; all translations"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "and the name",
+        "literal": "and-name",
+        "source": "Conjunction + masculine singular noun; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "אֲבֹתַ֖/י",
+        "phrase": "of my fathers",
+        "literal": "fathers-my",
+        "source": "Masculine plural construct + first person singular suffix; all translations 'my fathers'"
+      },
+      {
+        "position": 14,
+        "surface": "אַבְרָהָ֣ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "Proper noun, masculine singular; all translations"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/יִצְחָ֑ק",
+        "phrase": "and Isaac",
+        "literal": "and-Isaac",
+        "source": "Conjunction + proper noun, masculine singular; all translations"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/יִדְגּ֥וּ",
+        "phrase": "and may they grow",
+        "literal": "and-may-they-multiply",
+        "source": "Conjunction + jussive, third person masculine plural (Qal); ESV/NASB 'grow', KJV 'grow'"
+      },
+      {
+        "position": 17,
+        "surface": "לָ/רֹ֖ב",
+        "phrase": "into a multitude",
+        "literal": "to-abundance/multitude",
+        "source": "Preposition + masculine singular noun; all translations 'multitude' or 'abundance'"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/קֶ֥רֶב",
+        "phrase": "in the midst",
+        "literal": "in-midst",
+        "source": "Preposition + masculine singular noun; all translations 'midst'"
+      },
+      {
+        "position": 19,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "of the earth",
+        "literal": "the-earth",
+        "source": "Definite article + feminine singular noun; all translations 'earth'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחִ֤י",
+        "phrase": "And Jacob lived",
+        "literal": "and-he-lived",
+        "source": "wayyiqtol 3ms; KJV 'lived', ESV 'lived'"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "proper name-ms; all translations 'Jacob'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "prep-b + N-fsc; BibleHub 'in the land', KJV 'in'"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "proper name-fs; all 'Egypt'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁבַ֥ע",
+        "phrase": "seventeen",
+        "literal": "seven",
+        "source": "cardinal number-fs; combines w/ next, all 'seventeen'"
+      },
+      {
+        "position": 6,
+        "surface": "עֶשְׂרֵ֖ה",
+        "phrase": "seventeen",
+        "literal": "ten-fs",
+        "source": "cardinal number-fs; w/ prev 'seventeen', all agree"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year-fs",
+        "source": "N-fs; all 'years'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "so",
+        "literal": "and-was",
+        "source": "wayyiqtol 3ms; KJV 'the days...were', ESV 'the days...were'"
+      },
+      {
+        "position": 9,
+        "surface": "יְמֵֽי",
+        "phrase": "the days",
+        "literal": "days",
+        "source": "N-mp construct; BibleHub 'days', all agree"
+      },
+      {
+        "position": 10,
+        "surface": "יַעֲקֹב֙",
+        "phrase": "of Jacob",
+        "literal": "Jacob",
+        "source": "proper name-ms; all 'Jacob'"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁנֵ֣י",
+        "phrase": "the years",
+        "literal": "years-two",
+        "source": "N-mp + dual; all 'years'"
+      },
+      {
+        "position": 12,
+        "surface": "חַיָּ֔י/ו",
+        "phrase": "of his life",
+        "literal": "life-his",
+        "source": "N-mp + 3ms suff; all 'his life'"
+      },
+      {
+        "position": 13,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "one",
+        "literal": "seven",
+        "source": "cardinal number; part of 147, NASB 'one'"
+      },
+      {
+        "position": 14,
+        "surface": "שָׁנִ֔ים",
+        "phrase": "hundred",
+        "literal": "years",
+        "source": "N-fp; idiomatic 'hundred', all agree"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אַרְבָּעִ֥ים",
+        "phrase": "and forty",
+        "literal": "and-forty",
+        "source": "cardinal number; all 'forty'"
+      },
+      {
+        "position": 16,
+        "surface": "וּ/מְאַ֖ת",
+        "phrase": "and a",
+        "literal": "and-hundred",
+        "source": "cardinal number; all 'hundred'"
+      },
+      {
+        "position": 17,
+        "surface": "שָׁנָֽה",
+        "phrase": "hundred and forty-seven years",
+        "literal": "year",
+        "source": "N-fs; total 147 years, all translations"
+      }
+    ]
+  }
+]

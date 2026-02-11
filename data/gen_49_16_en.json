@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "דָּ֖ן",
+        "phrase": "Dan",
+        "literal": "Dan",
+        "source": "Proper noun, name of Jacob's son and his tribe. All major translations (KJV, ESV, NASB) render identically."
+      },
+      {
+        "position": 2,
+        "surface": "יָדִ֣ין",
+        "phrase": "shall judge",
+        "literal": "he-will-judge",
+        "source": "Qal imperfect 3ms from דין (din, 'to judge'). KJV 'shall judge'; NASB 'will judge'; ESV 'will judge'."
+      },
+      {
+        "position": 3,
+        "surface": "עַמּ֑/וֹ",
+        "phrase": "his people",
+        "literal": "people-his",
+        "source": "Noun עם (am, 'people') with 3ms possessive suffix וֹ. All translations: 'his people'."
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/אַחַ֖ד",
+        "phrase": "as one",
+        "literal": "as-one",
+        "source": "Preposition כ (ke, 'as') + numeral אחד (echad, 'one'). KJV, NASB, ESV all render 'as one'."
+      },
+      {
+        "position": 5,
+        "surface": "שִׁבְטֵ֥י",
+        "phrase": "of the tribes",
+        "literal": "tribes-of",
+        "source": "Construct plural of שבט (shebet, 'tribe'). Construct form indicates genitive relationship. All translations: 'of the tribes'."
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun, name of Jacob and his descendants. All major translations render identically."
+      }
+    ]
+  }
+]

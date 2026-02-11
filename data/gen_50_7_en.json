@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַל",
+        "phrase": "and went up",
+        "literal": "and-he.went.up",
+        "source": "Vav-consecutive + Qal imperfect 3ms of עלה (alah); KJV 'went up', ESV 'went up', NASB 'went up'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, masculine singular; all translations 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/קְבֹּ֣ר",
+        "phrase": "to bury",
+        "literal": "to-bury",
+        "source": "Preposition ל + Qal infinitive construct of קבר (qabar); KJV 'to bury', ESV 'to bury', NASB 'to bury'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "—",
+        "literal": "direct.object.marker",
+        "source": "Direct object marker; no English equivalent, marks אביו as direct object"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "Noun masculine singular construct + 3ms possessive suffix; KJV 'his father', ESV 'his father', NASB 'his father'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּֽעֲל֨וּ",
+        "phrase": "and went up",
+        "literal": "and-they.went.up",
+        "source": "Vav-consecutive + Qal imperfect 3mp of עלה (alah); KJV 'went up', ESV 'went up', NASB 'went up'"
+      },
+      {
+        "position": 7,
+        "surface": "אִתּ֜/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "Preposition את (et) + 3ms suffix; KJV 'with him', ESV 'with him', NASB 'with him'"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "Noun masculine singular construct; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 9,
+        "surface": "עַבְדֵ֤י",
+        "phrase": "servants",
+        "literal": "servants.of",
+        "source": "Noun masculine plural construct of עבד (eved); KJV 'servants', ESV 'servants', NASB 'servants'"
+      },
+      {
+        "position": 10,
+        "surface": "פַרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "Proper noun, masculine singular; KJV 'Pharaoh', ESV 'Pharaoh', NASB 'Pharaoh'"
+      },
+      {
+        "position": 11,
+        "surface": "זִקְנֵ֣י",
+        "phrase": "elders",
+        "literal": "elders.of",
+        "source": "Noun masculine plural construct of זקן (zaqen); KJV 'elders', ESV 'elders', NASB 'elders'"
+      },
+      {
+        "position": 12,
+        "surface": "בֵית֔/וֹ",
+        "phrase": "his house",
+        "literal": "house-his",
+        "source": "Noun masculine singular construct + 3ms suffix; KJV 'his house', ESV 'his household', NASB 'his household'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/כֹ֖ל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "Vav-conjunction + noun masculine singular construct; KJV 'and all', ESV 'and all', NASB 'and all'"
+      },
+      {
+        "position": 14,
+        "surface": "זִקְנֵ֥י",
+        "phrase": "elders",
+        "literal": "elders.of",
+        "source": "Noun masculine plural construct of זקן (zaqen); KJV 'elders', ESV 'elders', NASB 'elders'"
+      },
+      {
+        "position": 15,
+        "surface": "אֶֽרֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "Noun feminine singular; KJV 'land', ESV 'land', NASB 'land'"
+      },
+      {
+        "position": 16,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "Proper noun, feminine singular; KJV 'Egypt', ESV 'Egypt', NASB 'Egypt'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרְב֣וּ",
+        "phrase": "drew near",
+        "literal": "and-drew.near-3mp",
+        "source": "wayyiqtol Qal of qarab; KJV 'drew nigh', ESV 'drew near'"
+      },
+      {
+        "position": 2,
+        "surface": "יְמֵֽי",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "construct mp of yom; KJV 'time', NASB 'days'"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֘ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "proper name; all translations 'Israel'"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/מוּת֒",
+        "phrase": "to die",
+        "literal": "to-die",
+        "source": "infinitive construct of mut; KJV 'must die', ESV 'to die'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקְרָ֣א",
+        "phrase": "and he called",
+        "literal": "and-he.called",
+        "source": "wayyiqtol Qal of qara'; KJV 'he called', NASB 'he called'"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/בְנ֣/וֹ",
+        "phrase": "to his son",
+        "literal": "to-son-his",
+        "source": "preposition + noun + 3ms suffix; KJV 'his son', ESV 'his son'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/יוֹסֵ֗ף",
+        "phrase": "Joseph",
+        "literal": "to-Joseph",
+        "source": "preposition + proper name; all translations 'Joseph'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and said",
+        "literal": "and-he.said",
+        "source": "wayyiqtol Qal of amar; KJV 'said', NASB 'said'"
+      },
+      {
+        "position": 9,
+        "surface": "ל/וֹ֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "preposition + 3ms suffix; KJV 'unto him', ESV 'to him'"
+      },
+      {
+        "position": 10,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "conditional particle; KJV 'If', ESV 'If'"
+      },
+      {
+        "position": 11,
+        "surface": "נָ֨א",
+        "phrase": "now",
+        "literal": "please",
+        "source": "particle of entreaty; KJV 'now', NASB 'please'"
+      },
+      {
+        "position": 12,
+        "surface": "מָצָ֤אתִי",
+        "phrase": "I have found",
+        "literal": "I.have.found",
+        "source": "perfect Qal 1cs of matsa'; KJV 'I have found', ESV 'I have found'"
+      },
+      {
+        "position": 13,
+        "surface": "חֵן֙",
+        "phrase": "grace",
+        "literal": "grace",
+        "source": "noun chen; KJV 'grace', NASB 'favor'"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/עֵינֶ֔י/ךָ",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "preposition + noun dual + 2ms suffix; KJV 'in thy sight', ESV 'in your sight'"
+      },
+      {
+        "position": 15,
+        "surface": "שִֽׂים",
+        "phrase": "put",
+        "literal": "put!",
+        "source": "imperative Qal ms of sim; KJV 'put', NASB 'place'"
+      },
+      {
+        "position": 16,
+        "surface": "נָ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV 'I pray thee', ESV 'please'"
+      },
+      {
+        "position": 17,
+        "surface": "יָדְ/ךָ֖",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "noun fs + 2ms suffix; KJV 'thy hand', ESV 'your hand'"
+      },
+      {
+        "position": 18,
+        "surface": "תַּ֣חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "preposition tahat; all translations 'under'"
+      },
+      {
+        "position": 19,
+        "surface": "יְרֵכִ֑/י",
+        "phrase": "my thigh",
+        "literal": "thigh-my",
+        "source": "noun fs + 1cs suffix; KJV 'my thigh', ESV 'my thigh'"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/עָשִׂ֤יתָ",
+        "phrase": "and deal",
+        "literal": "and-you.will.do",
+        "source": "weqatal Qal 2ms of asah; KJV 'deal', NASB 'deal'"
+      },
+      {
+        "position": 21,
+        "surface": "עִמָּדִ/י֙",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "preposition + 1cs suffix; KJV 'with me', ESV 'with me'"
+      },
+      {
+        "position": 22,
+        "surface": "חֶ֣סֶד",
+        "phrase": "kindly",
+        "literal": "kindness",
+        "source": "noun hesed; KJV 'kindly', NASB 'lovingkindness'"
+      },
+      {
+        "position": 23,
+        "surface": "וֶ/אֱמֶ֔ת",
+        "phrase": "and truly",
+        "literal": "and-truth",
+        "source": "waw + noun emet; KJV 'truly', ESV 'faithfulness'"
+      },
+      {
+        "position": 24,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle; KJV 'not', ESV 'do not'"
+      },
+      {
+        "position": 25,
+        "surface": "נָ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "particle of entreaty; KJV 'I pray thee', ESV 'please'"
+      },
+      {
+        "position": 26,
+        "surface": "תִקְבְּרֵ֖/נִי",
+        "phrase": "bury me",
+        "literal": "you.bury-me",
+        "source": "jussive Hiphil 2ms + 1cs suffix of qabar; KJV 'bury me not', NASB 'do not bury me'"
+      },
+      {
+        "position": 27,
+        "surface": "בְּ/מִצְרָֽיִם",
+        "phrase": "in Egypt",
+        "literal": "in-Egypt",
+        "source": "preposition + proper name; all translations 'in Egypt'"
+      }
+    ]
+  }
+]

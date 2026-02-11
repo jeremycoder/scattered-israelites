@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Adverb of negation; all major translations (KJV, NASB, ESV)"
+      },
+      {
+        "position": 2,
+        "surface": "יָס֥וּר",
+        "phrase": "shall depart",
+        "literal": "depart-3ms-imperfect",
+        "source": "Qal imperfect 3ms; KJV 'shall not depart', NASB 'shall not depart', ESV 'shall not depart'"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁ֨בֶט֙",
+        "phrase": "the scepter",
+        "literal": "scepter-ms",
+        "source": "Masculine singular noun; all translations 'scepter/sceptre'"
+      },
+      {
+        "position": 4,
+        "surface": "מִֽ/יהוּדָ֔ה",
+        "phrase": "from Judah",
+        "literal": "from-Judah-ms",
+        "source": "Preposition min + proper noun; all translations 'from Judah'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מְחֹקֵ֖ק",
+        "phrase": "and the ruler's staff",
+        "literal": "and-lawgiver/ruler-ms",
+        "source": "Conjunction + masculine singular noun (participle form); KJV 'nor a lawgiver', NASB 'nor the ruler's staff', ESV 'nor the scepter of his rule'"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/בֵּ֣ין",
+        "phrase": "from between",
+        "literal": "from-between",
+        "source": "Preposition min + preposition ben; all translations 'from between'"
+      },
+      {
+        "position": 7,
+        "surface": "רַגְלָ֑י/ו",
+        "phrase": "his feet",
+        "literal": "feet-3ms",
+        "source": "Feminine plural noun with 3ms possessive suffix; all translations 'his feet'"
+      },
+      {
+        "position": 8,
+        "surface": "עַ֚ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "Preposition; all translations 'until'"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that/which",
+        "source": "Conjunction; some translations render as relative pronoun 'which' or 'whose'"
+      },
+      {
+        "position": 10,
+        "surface": "יָבֹ֣א",
+        "phrase": "comes",
+        "literal": "come-3ms-imperfect",
+        "source": "Qal imperfect 3ms; all translations 'comes'"
+      },
+      {
+        "position": 11,
+        "surface": "שילה",
+        "phrase": "Shiloh",
+        "literal": "Shiloh",
+        "source": "Proper noun (transliteration); KJV/NASB 'Shiloh', ESV/EHV 'the one to whom it belongs' (interpreting as shelo)"
+      },
+      {
+        "position": 12,
+        "surface": "שִׁיל֔וֹ",
+        "phrase": "to him",
+        "literal": "to-him-3ms",
+        "source": "Preposition le + 3ms pronoun; variant reading of position 11; EHV interprets as 'to whom it belongs'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/ל֖/וֹ",
+        "phrase": "and to him",
+        "literal": "and-to-him-3ms",
+        "source": "Conjunction + preposition le + 3ms pronoun; all translations 'and to him'"
+      },
+      {
+        "position": 14,
+        "surface": "יִקְּהַ֥ת",
+        "phrase": "shall be the obedience",
+        "literal": "gather/obey-3fs-imperfect",
+        "source": "Qal imperfect 3fs (feminine agrees with 'obedience'); KJV 'shall the gathering', NASB 'shall be the obedience', ESV 'shall be the obedience'"
+      },
+      {
+        "position": 15,
+        "surface": "עַמִּֽים",
+        "phrase": "of the peoples",
+        "literal": "peoples-mp",
+        "source": "Masculine plural noun; all translations 'of the peoples/nations'"
+      }
+    ]
+  }
+]

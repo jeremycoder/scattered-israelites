@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֜אוּ",
+        "phrase": "And they came",
+        "literal": "and-they_came",
+        "source": "waw-consec + Qal impf. 3mp בוא; KJV 'And they came', ESV 'came'"
+      },
+      {
+        "position": 2,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV 'to', ESV 'to'"
+      },
+      {
+        "position": 3,
+        "surface": "גֹּ֣רֶן",
+        "phrase": "the threshing floor",
+        "literal": "threshing_floor",
+        "source": "n. fs abs.; KJV 'threshingfloor', ESV 'threshing floor'"
+      },
+      {
+        "position": 4,
+        "surface": "הָאָטָ֗ד",
+        "phrase": "of Atad",
+        "literal": "the_Atad",
+        "source": "proper n. + art.; KJV 'of Atad', ESV 'of Atad'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "which",
+        "literal": "which",
+        "source": "rel. pron.; KJV 'which', ESV 'which'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֵ֣בֶר",
+        "phrase": "beyond",
+        "literal": "in_beyond",
+        "source": "prep. + n. 'ēber; KJV 'beyond', ESV 'beyond'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יַּרְדֵּ֔ן",
+        "phrase": "the Jordan",
+        "literal": "the_Jordan",
+        "source": "proper n. + art.; KJV 'Jordan', ESV 'the Jordan'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּ֨סְפְּדוּ",
+        "phrase": "and they mourned",
+        "literal": "and-they_mourned",
+        "source": "waw-consec + Piel impf. 3mp ספד; KJV 'mourned', ESV 'lamented'"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "adv.; KJV 'there', ESV 'there'"
+      },
+      {
+        "position": 10,
+        "surface": "מִסְפֵּ֛ד",
+        "phrase": "a mourning",
+        "literal": "mourning",
+        "source": "n. ms abs. ספד; KJV 'lamentation', ESV 'lamentation'"
+      },
+      {
+        "position": 11,
+        "surface": "גָּד֥וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "adj. ms abs.; KJV 'great', ESV 'great'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/כָבֵ֖ד",
+        "phrase": "and very",
+        "literal": "and-heavy",
+        "source": "waw + adj. 'heavy' = intense; KJV 'very sore', ESV 'grievous'"
+      },
+      {
+        "position": 13,
+        "surface": "מְאֹ֑ד",
+        "phrase": "",
+        "literal": "exceedingly",
+        "source": "adv.; KJV 'very', ESV 'very'"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יַּ֧עַשׂ",
+        "phrase": "and he made",
+        "literal": "and-he_made",
+        "source": "waw-consec + Qal impf. 3ms עשה; KJV 'made', ESV 'made'"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/אָבִ֛י/ו",
+        "phrase": "for his father",
+        "literal": "to_father-his",
+        "source": "prep. + n. 'āb + suf. 3ms; KJV 'for his father', ESV 'for his father'"
+      },
+      {
+        "position": 16,
+        "surface": "אֵ֖בֶל",
+        "phrase": "mourning",
+        "literal": "mourning",
+        "source": "n. ms abs.; KJV 'mourning', ESV 'mourning'"
+      },
+      {
+        "position": 17,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "num. 'seven' fs cons.; KJV 'seven', ESV 'seven'"
+      },
+      {
+        "position": 18,
+        "surface": "יָמִֽים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "n. mp abs.; KJV 'days', ESV 'days'"
+      }
+    ]
+  }
+]

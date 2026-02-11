@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְמָרֲרֻ֖/הוּ",
+        "phrase": "and bitterly attacked him",
+        "literal": "and-made-bitter-3mp-him",
+        "source": "Piel consec. imperf. 3mp + 3ms obj.; KJV 'sorely grieved', ESV/NASB 'bitterly attacked' [1][5]"
+      },
+      {
+        "position": 2,
+        "surface": "וָ/רֹ֑בּוּ",
+        "phrase": "and shot at him",
+        "literal": "and-shoot-3mp",
+        "source": "Hiphil perf. 3mp; KJV/ESV/NASB 'shot at him' [1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יִּשְׂטְמֻ֖/הוּ",
+        "phrase": "and harassed him",
+        "literal": "and-harass-3mp-him",
+        "source": "Hitpael consec. imperf. 3mp + 3ms obj.; KJV 'hated', ESV/NASB 'harassed' [1][5]"
+      },
+      {
+        "position": 4,
+        "surface": "בַּעֲלֵ֥י",
+        "phrase": "the archers",
+        "literal": "owners-of",
+        "source": "Noun mp const.; KJV/ESV/NASB 'archers' [1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "חִצִּֽים",
+        "phrase": "arrows",
+        "literal": "arrows",
+        "source": "Noun mp abs.; KJV/ESV/NASB 'arrows' [1][2]"
+      }
+    ]
+  }
+]

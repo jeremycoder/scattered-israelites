@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רְאוּבֵן֙",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "Proper noun, name of Jacob's firstborn son. All translations: Reuben"
+      },
+      {
+        "position": 2,
+        "surface": "בְּכֹ֣רִ/י",
+        "phrase": "my firstborn",
+        "literal": "in-firstborn-of-me",
+        "source": "Construct phrase: preposition בְּ + noun בְּכוֹר (firstborn) + possessive suffix י (my). KJV, ESV, NASB: 'my firstborn'"
+      },
+      {
+        "position": 3,
+        "surface": "אַ֔תָּה",
+        "phrase": "you are",
+        "literal": "you",
+        "source": "2nd masculine singular pronoun. Functions as copula in Hebrew nominal clause. All translations: 'you are'"
+      },
+      {
+        "position": 4,
+        "surface": "כֹּחִ֖/י",
+        "phrase": "my might",
+        "literal": "strength-of-me",
+        "source": "Noun כֹּחַ (strength, might) + possessive suffix י (my). KJV, ESV, NASB: 'my might'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/רֵאשִׁ֣ית",
+        "phrase": "and the beginning",
+        "literal": "and-beginning",
+        "source": "Conjunction וְ + noun רֵאשִׁית (beginning, first fruits). KJV, ESV, NASB: 'and the beginning'"
+      },
+      {
+        "position": 6,
+        "surface": "אוֹנִ֑/י",
+        "phrase": "of my strength",
+        "literal": "strength-of-me",
+        "source": "Noun אוֹן (strength, vigor) + possessive suffix י (my). Construct relationship with preceding רֵאשִׁית. KJV, ESV, NASB: 'of my strength'"
+      },
+      {
+        "position": 7,
+        "surface": "יֶ֥תֶר",
+        "phrase": "preeminent",
+        "literal": "excess/preeminence",
+        "source": "Noun יֶתֶר (excess, preeminence, superiority). Accusative of specification. KJV: 'excellency'; ESV, NASB: 'preeminent'"
+      },
+      {
+        "position": 8,
+        "surface": "שְׂאֵ֖ת",
+        "phrase": "in dignity",
+        "literal": "dignity/elevation",
+        "source": "Noun שְׂאֵת (dignity, elevation, honor). Construct with יֶתֶר. KJV: 'of dignity'; ESV, NASB: 'in dignity'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/יֶ֥תֶר",
+        "phrase": "and preeminent",
+        "literal": "and-excess/preeminence",
+        "source": "Conjunction וְ + noun יֶתֶר (excess, preeminence). Parallel structure to position 7. KJV: 'and excellency'; ESV, NASB: 'and preeminent'"
+      },
+      {
+        "position": 10,
+        "surface": "עָֽז",
+        "phrase": "in power",
+        "literal": "strength/power",
+        "source": "Noun עֹז (strength, power, might). Construct with second יֶתֶר. KJV: 'of power'; ESV, NASB: 'in power'"
+      }
+    ]
+  }
+]

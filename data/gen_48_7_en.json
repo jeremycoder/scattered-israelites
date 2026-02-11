@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲנִ֣י",
+        "phrase": "And as for me",
+        "literal": "and-I",
+        "source": "waw-consecutive + 1cs pronoun; KJV 'And as for me', ESV 'As for me'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/בֹאִ֣/י",
+        "phrase": "when I came",
+        "literal": "in-coming-my",
+        "source": "b- + qal inf constr 1cs; NASB 'when I came', agrees KJV/ESV"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/פַּדָּ֗ן",
+        "phrase": "from Paddan",
+        "literal": "from-Paddan",
+        "source": "prep + proper noun (Paddan-aram); KJV 'from Padan', ESV 'from Paddan'"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ֩תָה֩",
+        "phrase": "died",
+        "literal": "she-died",
+        "source": "qal perf 3fs; KJV/ESV/NASB 'died'"
+      },
+      {
+        "position": 5,
+        "surface": "עָלַ֨/י",
+        "phrase": "upon me",
+        "literal": "upon-me",
+        "source": "prep + 1cs pron; lit. 'to me', ESV 'to my sorrow'"
+      },
+      {
+        "position": 6,
+        "surface": "רָחֵ֜ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "proper noun; KJV/ESV/NASB 'Rachel'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֤רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "b- + fs noun; KJV/ESV 'in the land'"
+      },
+      {
+        "position": 8,
+        "surface": "כְּנַ֨עַן֙",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "proper noun; KJV/ESV/NASB 'of Canaan'"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/דֶּ֔רֶךְ",
+        "phrase": "on the way",
+        "literal": "in-the-way",
+        "source": "ba- + fs noun; KJV/ESV 'in the way'"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/ע֥וֹד",
+        "phrase": "when still",
+        "literal": "in-stillness",
+        "source": "b- + inf constr 'to be'; NASB 'when there was still'"
+      },
+      {
+        "position": 11,
+        "surface": "כִּבְרַת",
+        "phrase": "some distance",
+        "literal": "length-of",
+        "source": "fs construct noun (kibrath); YLT 'kibrath of land', ESV 'some distance'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "of land",
+        "literal": "land",
+        "source": "fs noun; YLT 'of land'"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/בֹ֣א",
+        "phrase": "to come",
+        "literal": "to-come",
+        "source": "prep + qal inf constr; NASB 'to go'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶפְרָ֑תָה",
+        "phrase": "to Ephrath",
+        "literal": "Ephrathah",
+        "source": "proper noun; KJV/ESV/NASB 'Ephrath(a)'"
+      },
+      {
+        "position": 15,
+        "surface": "וָ/אֶקְבְּרֶ֤/הָ",
+        "phrase": "and I buried her",
+        "literal": "and-I-buried-her",
+        "source": "waw-consec + qal impf 1cs + 3fs obj; KJV/ESV 'and I buried her'"
+      },
+      {
+        "position": 16,
+        "surface": "שָּׁם֙",
+        "phrase": "there",
+        "literal": "there",
+        "source": "adverb; KJV/ESV/NASB 'there'"
+      },
+      {
+        "position": 17,
+        "surface": "בְּ/דֶ֣רֶךְ",
+        "phrase": "on the way",
+        "literal": "in-way",
+        "source": "b- + fs noun; KJV/ESV 'in the way'"
+      },
+      {
+        "position": 18,
+        "surface": "אֶפְרָ֔ת",
+        "phrase": "to Ephrath",
+        "literal": "Ephrat",
+        "source": "proper noun (short form); NASB 'to Ephrath'"
+      },
+      {
+        "position": 19,
+        "surface": "הִ֖וא",
+        "phrase": "that is",
+        "literal": "she",
+        "source": "3fs pron (apposition); ESV 'which is', lit. 'it'"
+      },
+      {
+        "position": 20,
+        "surface": "בֵּ֥ית",
+        "phrase": "Bethlehem",
+        "literal": "house",
+        "source": "proper noun part 1; KJV/ESV 'Beth-lehem'"
+      },
+      {
+        "position": 21,
+        "surface": "לָֽחֶם",
+        "phrase": "Bethlehem",
+        "literal": "of-bread",
+        "source": "proper noun part 2; KJV/ESV/NASB 'Bethlehem'"
+      }
+    ]
+  }
+]

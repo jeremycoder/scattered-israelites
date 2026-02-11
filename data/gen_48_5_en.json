@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֡ה",
+        "phrase": "And now",
+        "literal": "and-now",
+        "source": "conj+adv; ESV 'And now', KJV 'And now'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁנֵֽי",
+        "phrase": "your two",
+        "literal": "two-your",
+        "source": "num construct; ESV 'your two', NASB 'your two'"
+      },
+      {
+        "position": 3,
+        "surface": "בָנֶי/ךָ֩",
+        "phrase": "sons",
+        "literal": "sons-your",
+        "source": "n-pl-construct+2ms suff; ESV 'sons', KJV 'sons'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נּוֹלָדִ֨ים",
+        "phrase": "who were born",
+        "literal": "the-born",
+        "source": "art+ptcp mpl; ESV 'who were born', NASB 'who have been born'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֜",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "prep+2ms suff; ESV 'to you', all major trans"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "prep+def n; ESV 'in the land', KJV 'in the land'"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרַ֗יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "pn; ESV 'of Egypt', all major trans"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "before",
+        "literal": "until",
+        "source": "prep; ESV 'before', NASB 'before'"
+      },
+      {
+        "position": 9,
+        "surface": "בֹּאִ֥/י",
+        "phrase": "I came",
+        "literal": "coming-I",
+        "source": "inf construct+1s suff; ESV 'I came', KJV 'I came'"
+      },
+      {
+        "position": 10,
+        "surface": "אֵלֶ֛י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "prep+2ms suff; ESV 'to you', all major trans"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרַ֖יְמָ/ה",
+        "phrase": "to Egypt",
+        "literal": "Egypt-to",
+        "source": "pn+dir obj marker; ESV 'in Egypt', NASB 'to Egypt'"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/י",
+        "phrase": "mine",
+        "literal": "to-me",
+        "source": "prep+1s suff; ESV 'are mine', KJV 'they shall be mine'"
+      },
+      {
+        "position": 13,
+        "surface": "הֵ֑ם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "3mp pron; ESV 'are mine', NASB 'they shall be mine'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶפְרַ֨יִם֙",
+        "phrase": "Ephraim",
+        "literal": "Ephraim",
+        "source": "pn; ESV 'Ephraim', all major trans"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/מְנַשֶּׁ֔ה",
+        "phrase": "and Manasseh",
+        "literal": "and-Manasseh",
+        "source": "conj+pn; ESV 'and Manasseh', KJV 'and Manasseh'"
+      },
+      {
+        "position": 16,
+        "surface": "כִּ/רְאוּבֵ֥ן",
+        "phrase": "as Reuben",
+        "literal": "like-Reuben",
+        "source": "prep+pn; ESV 'as Reuben', NASB 'like Reuben'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/שִׁמְע֖וֹן",
+        "phrase": "and Simeon",
+        "literal": "and-Simeon",
+        "source": "conj+pn; ESV 'and Simeon', all major trans"
+      },
+      {
+        "position": 18,
+        "surface": "יִֽהְיוּ",
+        "phrase": "shall be",
+        "literal": "they-will.be",
+        "source": "3mp impf Qal; ESV 'shall be', KJV 'shall be'"
+      },
+      {
+        "position": 19,
+        "surface": "לִֽ/י",
+        "phrase": "mine",
+        "literal": "to-me",
+        "source": "prep+1s suff; ESV 'mine', NASB 'mine"
+      }
+    ]
+  }
+]

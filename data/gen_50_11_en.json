@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֡רְא",
+        "phrase": "saw",
+        "literal": "and-saw",
+        "source": "wayyiqtol Qal 3ms; KJV/ESV 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹשֵׁב֩",
+        "phrase": "the inhabitants",
+        "literal": "sitting/inhabiting-ptc m.pl.abs",
+        "source": "Hiphil ptc m.pl.abs; ESV/NASB 'inhabitants'"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֨רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "n.f.sg.const+def art; KJV/ESV 'of the land'"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/כְּנַעֲנִ֜י",
+        "phrase": "the Canaanites",
+        "literal": "the-Canaanite.pl",
+        "source": "n.m.pl.abs+def art; KJV/ESV 'Canaanites'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "particle; standard Hebrew grammar"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֵ֗בֶל",
+        "phrase": "the mourning",
+        "literal": "the-mourning",
+        "source": "n.m.sg.abs+def art; KJV/ESV 'mourning'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/גֹ֨רֶן֙",
+        "phrase": "at the threshing floor",
+        "literal": "in-threshing-floor",
+        "source": "prep+n.f.sg.const; NASB 'threshing floor'"
+      },
+      {
+        "position": 8,
+        "surface": "הָֽאָטָ֔ד",
+        "phrase": "of Atad",
+        "literal": "the-Atad",
+        "source": "proper n+n.f.sg.const+def art; KJV/ESV 'Atad'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּ֣אמְר֔וּ",
+        "phrase": "said",
+        "literal": "and-said.pl",
+        "source": "wayyiqtol Qal 3mp; KJV/ESV 'said'"
+      },
+      {
+        "position": 10,
+        "surface": "אֵֽבֶל",
+        "phrase": "mourning",
+        "literal": "mourning",
+        "source": "n.m.sg.abs; echoes prior 'evel'; TIPs 'mourning'"
+      },
+      {
+        "position": 11,
+        "surface": "כָּבֵ֥ד",
+        "phrase": "grievous",
+        "literal": "heavy",
+        "source": "adj.m.sg.abs; KJV 'grievous', lit. 'heavy'"
+      },
+      {
+        "position": 12,
+        "surface": "זֶ֖ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "demons.pron.m.sg; KJV/ESV 'this'"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/מִצְרָ֑יִם",
+        "phrase": "to the Egyptians",
+        "literal": "to-Egypt",
+        "source": "prep+n.m.pl.const; ESV 'for the Egyptians'"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "upon",
+        "source": "prep; context 'therefore'; KJV 'wherefore'"
+      },
+      {
+        "position": 15,
+        "surface": "כֵּ֞ן",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "adv; StudyLight 'thus'"
+      },
+      {
+        "position": 16,
+        "surface": "קָרָ֤א",
+        "phrase": "called",
+        "literal": "called",
+        "source": "Qal perf 3ms; KJV/ESV 'called'"
+      },
+      {
+        "position": 17,
+        "surface": "שְׁמָ/הּ֙",
+        "phrase": "its name",
+        "literal": "name-its",
+        "source": "n.m.sg.const+3sf suff; ESV 'name thereof'"
+      },
+      {
+        "position": 18,
+        "surface": "אָבֵ֣ל",
+        "phrase": "Abel",
+        "literal": "mourning",
+        "source": "n.m.sg.abs (pun); TIPs 'Abel-Mizraim'"
+      },
+      {
+        "position": 19,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Mizraim",
+        "literal": "Egypt",
+        "source": "n.m.sg.abs (pun); KJV 'Abelmizraim'"
+      },
+      {
+        "position": 20,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "rel.pron; KJV/ESV 'which'"
+      },
+      {
+        "position": 21,
+        "surface": "בְּ/עֵ֥בֶר",
+        "phrase": "beyond",
+        "literal": "in-crossing-over",
+        "source": "prep+n.m.sg.const; ESV 'beyond'"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/יַּרְדֵּֽן",
+        "phrase": "the Jordan",
+        "literal": "the-Jordan",
+        "source": "proper n+n.m.sg.const+def art; KJV/ESV 'Jordan'"
+      }
+    ]
+  }
+]

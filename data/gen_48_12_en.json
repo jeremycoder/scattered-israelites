@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּוֹצֵ֥א",
+        "phrase": "and he brought out",
+        "literal": "and-he.took.out",
+        "source": "Wayyiqtol (vav-consecutive imperfect); root יצא (yṣʾ); KJV 'brought them out', NASB 'took them out', NIV 'removed them'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֛ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, subject of the verb; all translations agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "Direct object marker (את) + 3ms suffix; refers to Ephraim and Manasseh"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/עִ֣ם",
+        "phrase": "from beside",
+        "literal": "from-with",
+        "source": "Preposition מן (min) + preposition עם (ʿim); KJV 'from beside', NASB 'from his knees', NIV 'from Israel's knees'"
+      },
+      {
+        "position": 5,
+        "surface": "בִּרְכָּ֑י/ו",
+        "phrase": "his knees",
+        "literal": "knees-his",
+        "source": "Noun בִּרְכַּיִם (birkaim, dual) + 3ms possessive suffix; refers to Jacob's knees where the boys had been positioned"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּשְׁתַּ֥חוּ",
+        "phrase": "and he bowed down",
+        "literal": "and-he.bowed.down",
+        "source": "Wayyiqtol (vav-consecutive imperfect); root שׁחה (šḥh); KJV 'bowed himself', NASB 'bowed', NIV 'bowed down'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/אַפָּ֖י/ו",
+        "phrase": "to his face",
+        "literal": "to-face-his",
+        "source": "Preposition ל (le) + noun אַף (ʾaf, face) + 3ms suffix; idiom for prostration; KJV 'to his face', NASB 'with his face', NIV 'with his face'"
+      },
+      {
+        "position": 8,
+        "surface": "אָֽרְצָ/ה",
+        "phrase": "to the ground",
+        "literal": "ground-ward",
+        "source": "Noun אֶרֶץ (ʾereṣ, earth/ground) + directional ה; all translations render as 'ground' or 'earth'"
+      }
+    ]
+  }
+]

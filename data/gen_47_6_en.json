@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶ֤רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "Noun feminine singular construct; all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/פָנֶ֣י/ךָ",
+        "phrase": "before you",
+        "literal": "to-face-your",
+        "source": "Preposition לְ + noun פָנִים (face) construct + 2ms possessive suffix; KJV 'before thee', ESV 'before you'"
+      },
+      {
+        "position": 4,
+        "surface": "הִ֔וא",
+        "phrase": "it is",
+        "literal": "it-is",
+        "source": "Pronoun 3fs with copula; some translations omit or restructure"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/מֵיטַ֣ב",
+        "phrase": "in the best",
+        "literal": "in-best",
+        "source": "Preposition בְּ + noun מֵיטַב (best part); KJV 'in the best', NASB 'in the best'"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "Definite article + noun feminine singular; construct relationship with preceding מֵיטַב"
+      },
+      {
+        "position": 7,
+        "surface": "הוֹשֵׁ֥ב",
+        "phrase": "settle",
+        "literal": "cause-to-dwell",
+        "source": "Hiphil imperative 2ms from יָשַׁב; KJV 'make...dwell', ESV 'Settle'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle; marks direct object"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "Noun masculine singular construct + 2ms possessive suffix; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct-object-marker",
+        "source": "Conjunction וְ + accusative particle; coordinates with preceding אֶת"
+      },
+      {
+        "position": 11,
+        "surface": "אַחֶ֑י/ךָ",
+        "phrase": "your brothers",
+        "literal": "brothers-your",
+        "source": "Noun masculine plural construct + 2ms possessive suffix; all translations"
+      },
+      {
+        "position": 12,
+        "surface": "יֵשְׁבוּ֙",
+        "phrase": "let them dwell",
+        "literal": "they-dwell",
+        "source": "Qal imperfect 3mp from יָשַׁב; jussive sense; KJV 'let them dwell', ESV 'Let them settle'"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition בְּ + noun feminine singular construct; all translations"
+      },
+      {
+        "position": 14,
+        "surface": "גֹּ֔שֶׁן",
+        "phrase": "Goshen",
+        "literal": "Goshen",
+        "source": "Proper noun; all translations"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אִם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "Conjunction וְ + conditional particle אִם; all translations"
+      },
+      {
+        "position": 16,
+        "surface": "יָדַ֗עְתָּ",
+        "phrase": "you know",
+        "literal": "you-know",
+        "source": "Qal perfect 2ms from יָדַע; KJV 'thou knowest', ESV 'you know'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/יֶשׁ",
+        "phrase": "and there are",
+        "literal": "and-there-is",
+        "source": "Conjunction וְ + existential particle יֶשׁ; all translations"
+      },
+      {
+        "position": 18,
+        "surface": "בָּ/ם֙",
+        "phrase": "among them",
+        "literal": "in-them",
+        "source": "Preposition בְּ + 3mp pronoun suffix; all translations"
+      },
+      {
+        "position": 19,
+        "surface": "אַנְשֵׁי",
+        "phrase": "men",
+        "literal": "men-of",
+        "source": "Noun masculine plural construct; construct relationship with following חַיִל"
+      },
+      {
+        "position": 20,
+        "surface": "חַ֔יִל",
+        "phrase": "ability",
+        "literal": "ability-strength",
+        "source": "Noun masculine singular; means strength, prowess, ability; KJV 'able men', NASB 'capable men'"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/שַׂמְתָּ֛/ם",
+        "phrase": "and put them",
+        "literal": "and-put-them",
+        "source": "Conjunction וְ + Qal perfect 2ms from שׂוּם + 3mp object suffix; KJV 'put them', ESV 'put them'"
+      },
+      {
+        "position": 22,
+        "surface": "שָׂרֵ֥י",
+        "phrase": "overseers",
+        "literal": "chiefs-of",
+        "source": "Noun masculine plural construct; construct relationship with following מִקְנֶה"
+      },
+      {
+        "position": 23,
+        "surface": "מִקְנֶ֖ה",
+        "phrase": "my livestock",
+        "literal": "livestock-possession",
+        "source": "Noun masculine singular; from קָנָה (to possess); refers to cattle/property; KJV 'cattle', NASB 'livestock'"
+      },
+      {
+        "position": 24,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "Preposition; indicates authority/oversight; all translations"
+      },
+      {
+        "position": 25,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which-that",
+        "source": "Relative pronoun; introduces relative clause; all translations"
+      },
+      {
+        "position": 26,
+        "surface": "לִֽ/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Preposition לְ + 1s pronoun suffix; KJV 'mine', ESV 'my'"
+      }
+    ]
+  }
+]

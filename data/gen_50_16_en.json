@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַוּ֕וּ",
+        "phrase": "And they commanded",
+        "literal": "and-they-commanded",
+        "source": "wayyiqtol 3mp Qal צוה; KJV 'sent', ESV 'sent a message', NASB 'sent word' [1][3]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "prep.; KJV/ESV/NASB 'to' [3]"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV/ESV/NASB 'Joseph' [3][4]"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "inf constr + לְ; KJV/ESV/NASB 'saying' [3]"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֣י/ךָ",
+        "phrase": "Your father",
+        "literal": "father-your",
+        "source": "n + 2ms suff.; KJV/ESV/NASB 'thy/your father' [1][4]"
+      },
+      {
+        "position": 6,
+        "surface": "צִוָּ֔ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "perf 3ms Qal צוה; KJV/ESV/NASB 'did command' [3][4]"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "לִפְנֵי 'before'; KJV/ESV/NASB 'before' [3][4]"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹת֖/וֹ",
+        "phrase": "his death",
+        "literal": "death-his",
+        "source": "n + 3ms suff.; KJV/ESV/NASB 'he died' [3][4]"
+      },
+      {
+        "position": 9,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "inf constr + לְ; KJV/ESV/NASB 'saying' [3]"
+      }
+    ]
+  }
+]

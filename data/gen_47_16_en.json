@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "wayyiqtol 3ms Qal of אמר; KJV 'And Joseph said', ESV 'Then Joseph said', NASB 'Then Joseph said'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all translations 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "הָב֣וּ",
+        "phrase": "Give",
+        "literal": "give!",
+        "source": "imperative 2mp Hiphil of נתן; KJV 'Give', ESV 'Give up', NASB 'Give up'"
+      },
+      {
+        "position": 4,
+        "surface": "מִקְנֵי/כֶ֔ם",
+        "phrase": "your livestock",
+        "literal": "livestock-your",
+        "source": "mp construct + 2mp suffix of מקנה; KJV 'your cattle', ESV 'your livestock', NASB 'your livestock'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶתְּנָ֥ה",
+        "phrase": "and I will give",
+        "literal": "and-I-will-give",
+        "source": "waw + cohortative 1s Qal of נתן; KJV 'and I will give', ESV 'and I will give', NASB 'and I will give'"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "prep + 2mp suffix; KJV 'you', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/מִקְנֵי/כֶ֑ם",
+        "phrase": "for your livestock",
+        "literal": "in-livestock-your",
+        "source": "prep + mp construct + 2mp suffix of מקנה; KJV 'for your cattle', ESV 'for your livestock', NASB 'for your livestock'"
+      },
+      {
+        "position": 8,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "conditional particle; KJV 'if', ESV 'since', NASB 'since'"
+      },
+      {
+        "position": 9,
+        "surface": "אָפֵ֖ס",
+        "phrase": "is gone",
+        "literal": "ceased/none",
+        "source": "Qal perfect 3ms of אפס; KJV 'fail', ESV 'is gone', NASB 'is gone'"
+      },
+      {
+        "position": 10,
+        "surface": "כָּֽסֶף",
+        "phrase": "money",
+        "literal": "silver/money",
+        "source": "ms of כסף; KJV 'money', ESV 'your money', NASB 'your money'"
+      }
+    ]
+  }
+]

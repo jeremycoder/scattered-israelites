@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "גָּ֖ד",
+        "phrase": "Gad",
+        "literal": "Gad-tribe_name",
+        "source": "proper noun (name of tribe); KJV/ESV/NASB 'Gad' [1]"
+      },
+      {
+        "position": 2,
+        "surface": "גְּד֣וּד",
+        "phrase": "a troop",
+        "literal": "troop-band",
+        "source": "noun (band/raiders); KJV 'a troop', ESV 'raiders', NASB 'raiders' [1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "יְגוּדֶ֑/נּוּ",
+        "phrase": "shall raid him",
+        "literal": "he-will-raid-him",
+        "source": "verb Qal impf. 3ms + 3ms suf.; KJV 'shall overcome him', ESV 'shall raid', NASB 'shall raid him' [1]"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/ה֖וּא",
+        "phrase": "but he",
+        "literal": "and-he",
+        "source": "conj. + 3ms pron.; KJV 'but he', ESV 'but he', NASB 'But he' [1]"
+      },
+      {
+        "position": 5,
+        "surface": "יָגֻ֥ד",
+        "phrase": "will raid",
+        "literal": "he-will-raid",
+        "source": "verb Qal impf. 3ms; KJV 'shall overcome', ESV 'shall raid', NASB 'will raid' [1]"
+      },
+      {
+        "position": 6,
+        "surface": "עָקֵֽב",
+        "phrase": "at the heels",
+        "literal": "heel",
+        "source": "noun (heel); KJV 'at the last', ESV/NASB 'at their heels' [1][2]"
+      }
+    ]
+  }
+]

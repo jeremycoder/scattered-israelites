@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נַפְתָּלִ֖י",
+        "phrase": "Naphtali",
+        "literal": "Naphtali",
+        "source": "proper name (tribe); KJV/NKJV/ESV 'Naphtali' [3][4]"
+      },
+      {
+        "position": 2,
+        "surface": "אַיָּלָ֣ה",
+        "phrase": "is a doe",
+        "literal": "hind-fem",
+        "source": "נִקְטָל fem. noun 'hind/doe'; KJV/ESV 'hind', NASB 'doe' [3][4]"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֻחָ֑ה",
+        "phrase": "let loose",
+        "literal": "sent_away-fem.sg.",
+        "source": "פֻּעַל participle fem. 'released/sent forth'; KJV 'let loose', NASB 'let loose' [3][4]"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נֹּתֵ֖ן",
+        "phrase": "that gives",
+        "literal": "the_giving",
+        "source": "הַ + הִפְעִיל participle masc.sg. 'the one giving'; agrees with Mechon-Mamre [4]"
+      },
+      {
+        "position": 5,
+        "surface": "אִמְרֵי",
+        "phrase": "words",
+        "literal": "words-of",
+        "source": "אִמְרֵי construct 'words of'; KJV/ESV 'goodly words' [3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "שָֽׁפֶר",
+        "phrase": "beautiful",
+        "literal": "beauty",
+        "source": "noun 'beauty/pleasantness'; KJV 'goodly', NASB 'beauty' [3][4]"
+      }
+    ]
+  }
+]

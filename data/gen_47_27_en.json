@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֧שֶׁב",
+        "phrase": "and he settled",
+        "literal": "and-he.settled",
+        "source": "Vav-consecutive + Qal imperfect 3ms of יׁשב; KJV 'dwelt', ESV 'settled', NASB 'lived'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun, masculine singular; subject of the clause"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition ב + construct noun אֶרֶץ; all translations agree"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "Proper noun, feminine dual form; genitive relationship with preceding construct"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition ב + construct noun אֶרֶץ; specifies the region"
+      },
+      {
+        "position": 6,
+        "surface": "גֹּ֑שֶׁן",
+        "phrase": "of Goshen",
+        "literal": "Goshen",
+        "source": "Proper noun, masculine singular; appositive to preceding phrase"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֵּאָחֲז֣וּ",
+        "phrase": "and they acquired",
+        "literal": "and-they.acquired",
+        "source": "Vav-consecutive + Qal imperfect 3mp of אחז; KJV 'gat them possessions', ESV 'gained possessions', NASB 'acquired property'"
+      },
+      {
+        "position": 8,
+        "surface": "בָ֔/הּ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "Preposition ב + 3fs pronominal suffix on feminine noun; refers to the land"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּפְר֥וּ",
+        "phrase": "and they were fruitful",
+        "literal": "and-they.were.fruitful",
+        "source": "Vav-consecutive + Qal imperfect 3mp of פרה; all translations agree"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּרְבּ֖וּ",
+        "phrase": "and they multiplied",
+        "literal": "and-they.multiplied",
+        "source": "Vav-consecutive + Qal imperfect 3mp of רבה; KJV 'multiplied', ESV 'multiplied', NASB 'became very numerous'"
+      },
+      {
+        "position": 11,
+        "surface": "מְאֹֽד",
+        "phrase": "greatly",
+        "literal": "greatly",
+        "source": "Adverb modifying the preceding verb; KJV 'exceedingly', ESV 'exceedingly', NASB 'very'"
+      }
+    ]
+  }
+]

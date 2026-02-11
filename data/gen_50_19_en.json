@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "And he said",
+        "literal": "and-said",
+        "source": "Verb, Qal, Wayyiqtol 3ms (ʾamar); KJV/ESV/NASB 'And Joseph said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶ֛ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "Prep ʾel + 3mp suffix; KJV/ESV/NASB 'unto them'"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun (Yosef); KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 4,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; KJV/ESV/NASB 'not'"
+      },
+      {
+        "position": 5,
+        "surface": "תִּירָ֑אוּ",
+        "phrase": "be afraid",
+        "literal": "fear",
+        "source": "Verb, Qal, Imperfect 2mp jussive (yara); KJV 'Fear not', ESV/NASB 'Do not fear'"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "Conjunction; KJV/ESV/NASB 'for'"
+      },
+      {
+        "position": 7,
+        "surface": "הֲ/תַ֥חַת",
+        "phrase": "in the place of",
+        "literal": "in-place-of",
+        "source": "Interrogative particle + prep taḥat; KJV/ESV/NASB 'in the place of'"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Noun mp (ʾelohim); KJV/ESV/NASB 'God'"
+      },
+      {
+        "position": 9,
+        "surface": "אָֽנִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "Pronoun 1cs; KJV/ESV/NASB 'am I'"
+      }
+    ]
+  }
+]

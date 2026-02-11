@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֨ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "Wayyiqtol verb form (vav-consecutive + qal imperfect 3ms of צוה); KJV, ESV, NASB all render 'commanded'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֤ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, masculine singular; Strong's 3130; all translations render 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle (את); marks the following noun as direct object"
+      },
+      {
+        "position": 4,
+        "surface": "עֲבָדָי/ו֙",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "Noun masculine plural construct with 3ms possessive suffix; עבד (ebed) 'servant'; KJV, ESV, NASB render 'his servants'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle (את); marks the following noun as direct object"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/רֹ֣פְאִ֔ים",
+        "phrase": "the physicians",
+        "literal": "the-healers",
+        "source": "Noun masculine plural with definite article; רפא (rapha) 'to heal'; literally 'healers' but rendered 'physicians' in KJV, ESV, NASB; source notes the word means 'healers' or 'those who heal'"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/חֲנֹ֖ט",
+        "phrase": "to embalm",
+        "literal": "to-embalm",
+        "source": "Preposition ל + qal infinitive construct of חנט (chanat) 'to embalm, to spice'; KJV, ESV, NASB render 'to embalm'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle (את); marks the following noun as direct object"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "Noun masculine singular with 3ms possessive suffix; אב (ab) 'father'; KJV, ESV, NASB render 'his father'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יַּחַנְט֥וּ",
+        "phrase": "and embalmed",
+        "literal": "and-they-embalmed",
+        "source": "Wayyiqtol verb form (vav-consecutive + qal imperfect 3mp of חנט); KJV, ESV, NASB render 'embalmed'"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/רֹפְאִ֖ים",
+        "phrase": "the physicians",
+        "literal": "the-healers",
+        "source": "Noun masculine plural with definite article; רפא (rapha) 'to heal'; literally 'healers' but rendered 'physicians' in KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Accusative particle (את); marks the following noun as direct object"
+      },
+      {
+        "position": 13,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun, masculine singular; Strong's 3478; alternative name for Jacob; KJV, ESV, NASB render 'Israel'"
+      }
+    ]
+  }
+]

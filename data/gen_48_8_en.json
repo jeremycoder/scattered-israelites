@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and he saw",
+        "literal": "and-he.saw",
+        "source": "Vav consecutive + Qal imperfect 3ms of ראה (ra'ah). KJV, ESV, NASB: 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun, subject of the clause. All translations: 'Israel'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object-marker",
+        "source": "Accusative particle marking the direct object. Standard in all translations"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons",
+        "literal": "sons-of",
+        "source": "Construct plural of בן (ben). KJV, ESV, NASB: 'sons'"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun in construct relationship. All translations: 'Joseph's'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Vav consecutive + Qal imperfect 3ms of אמר (amar). KJV, ESV, NASB: 'said'"
+      },
+      {
+        "position": 7,
+        "surface": "מִי",
+        "phrase": "Who",
+        "literal": "who",
+        "source": "Interrogative pronoun. KJV, ESV, NASB: 'Who'"
+      },
+      {
+        "position": 8,
+        "surface": "אֵֽלֶּה",
+        "phrase": "are these",
+        "literal": "these",
+        "source": "Demonstrative pronoun feminine plural. KJV, ESV, NASB: 'these' (with copula implied)"
+      }
+    ]
+  }
+]

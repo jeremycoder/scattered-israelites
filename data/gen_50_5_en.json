@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָבִ֞/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "Noun construct with 1st person singular suffix; KJV, ESV, NASB all render 'my father'"
+      },
+      {
+        "position": 2,
+        "surface": "הִשְׁבִּיעַ֣/נִי",
+        "phrase": "made me swear",
+        "literal": "caused-to-swear-me",
+        "source": "Hiphil perfect 3rd masculine singular + 1st person singular object suffix; KJV 'adjured me', ESV 'made me swear'"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "Preposition + infinitive construct; introduces direct speech; all major translations render 'saying'"
+      },
+      {
+        "position": 4,
+        "surface": "הִנֵּ֣ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "Interjection; KJV 'Lo', ESV 'Behold', NASB 'Behold'; marks emphasis in speech"
+      },
+      {
+        "position": 5,
+        "surface": "אָנֹכִי֮",
+        "phrase": "I",
+        "literal": "I",
+        "source": "1st person singular independent pronoun; emphatic form; all translations render 'I'"
+      },
+      {
+        "position": 6,
+        "surface": "מֵת֒",
+        "phrase": "am dying",
+        "literal": "dying",
+        "source": "Qal participle masculine singular; KJV 'die', ESV 'am about to die', NASB 'am about to die'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/קִבְרִ֗/י",
+        "phrase": "in my grave",
+        "literal": "in-grave-my",
+        "source": "Preposition + noun + 1st person singular suffix; KJV 'in my grave', ESV 'in my grave'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "Relative pronoun; introduces relative clause; all translations 'which'"
+      },
+      {
+        "position": 9,
+        "surface": "כָּרִ֤יתִי",
+        "phrase": "I dug",
+        "literal": "dug-I",
+        "source": "Qal perfect 1st person singular; KJV 'digged', ESV 'dug', NASB 'dug'; some sources note ambiguity with root meaning 'buy'"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/י֙",
+        "phrase": "for myself",
+        "literal": "for-me",
+        "source": "Preposition + 1st person singular suffix; KJV 'for me', ESV 'for myself'"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition + noun; KJV 'in the land', ESV 'in the land'"
+      },
+      {
+        "position": 12,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "Proper noun; all translations 'Canaan'"
+      },
+      {
+        "position": 13,
+        "surface": "שָׁ֖מָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "Adverb with directional suffix; KJV 'there', ESV 'there'"
+      },
+      {
+        "position": 14,
+        "surface": "תִּקְבְּרֵ֑/נִי",
+        "phrase": "bury me",
+        "literal": "bury-me",
+        "source": "Qal imperfect 2nd masculine singular + 1st person singular object suffix; KJV 'shalt thou bury me', ESV 'shall you bury me'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "Conjunction + adverb; KJV 'Now therefore', ESV 'Now therefore'"
+      },
+      {
+        "position": 16,
+        "surface": "אֶֽעֱלֶה",
+        "phrase": "let me go up",
+        "literal": "go-up-I",
+        "source": "Qal imperfect 1st person singular; KJV 'let me go up', ESV 'let me go up'; means 'go to Canaan'"
+      },
+      {
+        "position": 17,
+        "surface": "נָּ֛א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "Particle of entreaty; KJV 'I pray thee', ESV 'please', NASB 'please'"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/אֶקְבְּרָ֥ה",
+        "phrase": "and bury",
+        "literal": "and-bury-I",
+        "source": "Conjunction + Qal imperfect 1st person singular; KJV 'and bury', ESV 'and bury'"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "—",
+        "literal": "direct-object-marker",
+        "source": "Direct object marker; no English equivalent; marks 'my father' as direct object"
+      },
+      {
+        "position": 20,
+        "surface": "אָבִ֖/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "Noun + 1st person singular suffix; KJV 'my father', ESV 'my father'"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/אָשֽׁוּבָה",
+        "phrase": "and I will return",
+        "literal": "and-return-I",
+        "source": "Conjunction + Qal perfect 1st person singular (converted by waw); KJV 'and I will come again', ESV 'and I will return'"
+      }
+    ]
+  }
+]

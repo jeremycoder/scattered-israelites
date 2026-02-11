@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And Pharaoh said",
+        "literal": "and-said",
+        "source": "wayyōʾmer (v-qal-conv-3ms); KJV 'spake', ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "parʿōh (pn); all translations 'Pharaoh'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "ʾel (prep); KJV/ESV/NASB 'unto/to'"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "yôsēp (pn); all translations 'Joseph'"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "lēʾmōr (prep-inf-constr); KJV 'saying', ESV/NASB omit"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֥י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "ʾābîkā (n-ms-2ms); KJV/ESV/NASB 'thy father/your father'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַחֶ֖י/ךָ",
+        "phrase": "and your brothers",
+        "literal": "and-brothers-your",
+        "source": "wəʾaḥêkā (n-mp-2ms); KJV/ESV/NASB 'thy brethren/your brothers'"
+      },
+      {
+        "position": 8,
+        "surface": "בָּ֥אוּ",
+        "phrase": "have come",
+        "literal": "they-have-come",
+        "source": "bāʾû (v-qal-perf-3cp); KJV/ESV/NASB 'are come/have come'"
+      },
+      {
+        "position": 9,
+        "surface": "אֵלֶֽי/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "ʾēleykā (prep-2ms); KJV/ESV/NASB 'unto thee/to you'"
+      }
+    ]
+  }
+]

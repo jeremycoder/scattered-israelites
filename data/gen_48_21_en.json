@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he.said",
+        "source": "Vav consecutive + Qal imperfect 3ms of אמר; all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun; subject of the clause; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; marks indirect object; all translations"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun; recipient of speech; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "Interjection; attention-getter; KJV 'Behold', NASB 'Behold', ESV 'Behold'"
+      },
+      {
+        "position": 6,
+        "surface": "אָנֹכִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "Independent pronoun 1cs; emphatic subject; all translations"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ֑ת",
+        "phrase": "am dying",
+        "literal": "dying",
+        "source": "Qal participle ms of מות; present/imminent action; KJV 'die', NASB 'about to die', ESV 'about to die'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הָיָ֤ה",
+        "phrase": "and will be",
+        "literal": "and-he.will.be",
+        "source": "Vav + Qal imperfect 3ms of היה; future tense; all translations"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "Noun ms; subject of imperfect; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "עִמָּ/כֶ֔ם",
+        "phrase": "with you",
+        "literal": "with-you.pl",
+        "source": "Preposition עם + 2mp suffix; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הֵשִׁ֣יב",
+        "phrase": "and will bring back",
+        "literal": "and-he.will.return",
+        "source": "Vav + Hiphil imperfect 3ms of שוב; causative; KJV 'bring you again', NASB 'bring you back', ESV 'bring you back'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "you.pl",
+        "source": "Direct object marker + 2mp suffix; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; marks goal of action; all translations"
+      },
+      {
+        "position": 14,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "Noun fs; object of preposition; all translations"
+      },
+      {
+        "position": 15,
+        "surface": "אֲבֹתֵי/כֶֽם",
+        "phrase": "your fathers",
+        "literal": "fathers-your.pl",
+        "source": "Noun mp construct + 2mp suffix; all translations"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָה֙",
+        "phrase": "And it shall be",
+        "literal": "and-become",
+        "source": "waw-consec + Qal impf.3ms; KJV 'And it shall come to pass', ESV 'At the harvests'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/תְּבוּאֹ֔ת",
+        "phrase": "at the harvests",
+        "literal": "in-the-harvests",
+        "source": "prep. b + def.art. + tbwʾt f.pl.; NASB 'in the harvest', Chabad 'concerning the crops'"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/נְתַתֶּ֥ם",
+        "phrase": "you shall give",
+        "literal": "and-you(give)_(pl.)",
+        "source": "waw-consec + Qal perf.2mp; KJV 'ye shall give', ESV 'you shall give'"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמִישִׁ֖ית",
+        "phrase": "a fifth",
+        "literal": "fifth_(part)",
+        "source": "f. sing. noun; all major trans. 'fifth' or 'one-fifth'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/פַרְעֹ֑ה",
+        "phrase": "to Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "prep. l + proper noun; KJV/ESV/NASB 'to Pharaoh'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אַרְבַּ֣ע",
+        "phrase": "and four",
+        "literal": "and-four",
+        "source": "waw + cardinal numeral; Mechon-Mamre 'four parts'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יָּדֹ֡ת",
+        "phrase": "parts",
+        "literal": "the-hands",
+        "source": "def.art. + ydwt f.pl. 'hands'=portions; Chabad 'four parts', KJV 'four parts'"
+      },
+      {
+        "position": 8,
+        "surface": "יִהְיֶ֣ה",
+        "phrase": "shall be",
+        "literal": "it-will-be",
+        "source": "Qal impf.3ms; ESV 'shall be yours'"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶם֩",
+        "phrase": "yours",
+        "literal": "to-you(pl.)",
+        "source": "prep. l + 2mp suff.; NASB 'shall be your own'"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/זֶ֨רַע",
+        "phrase": "for seed",
+        "literal": "for-seed",
+        "source": "prep. l + noun; all trans. 'for seed'"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/שָּׂדֶ֧ה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "def.art. + sadeh m.s.; KJV 'of the field'"
+      },
+      {
+        "position": 12,
+        "surface": "וּֽ/לְ/אָכְלְ/כֶ֛ם",
+        "phrase": "and for your food",
+        "literal": "and-for-eating-your(pl.)",
+        "source": "waw + prep. l + infin. cstr. 'kl + 2mp suff.; ESV 'for your food'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/לַ/אֲשֶׁ֥ר",
+        "phrase": "and for those",
+        "literal": "and-to-the-which",
+        "source": "waw + prep. l + def.art. + ʾšr rel.pron.; NASB 'for those'"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/בָתֵּי/כֶ֖ם",
+        "phrase": "in your houses",
+        "literal": "in-houses-your(pl.)",
+        "source": "prep. b + btwykm f.dual + 2mp suff.; KJV 'in your households'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/לֶ/אֱכֹ֥ל",
+        "phrase": "and for food",
+        "literal": "and-for-eating",
+        "source": "waw + prep. l + infin. cstr. 'kl; Chabad 'to eat'"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/טַפְּ/כֶֽם",
+        "phrase": "for your little ones",
+        "literal": "for-little-children-your(pl.)",
+        "source": "prep. l + ṭpkm 'dependents' + 2mp suff.; ESV 'your little children'"
+      }
+    ]
+  }
+]

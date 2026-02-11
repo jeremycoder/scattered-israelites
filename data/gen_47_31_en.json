@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "Wayyiqtol (vav-consecutive imperfect); KJV, ESV, NASB all render 'And he said'"
+      },
+      {
+        "position": 2,
+        "surface": "הִשָּֽׁבְעָ/ה֙",
+        "phrase": "Swear",
+        "literal": "swear-to.me",
+        "source": "Qal imperative masculine singular of שׁבע (swear); KJV 'Swear unto me', ESV 'Swear to me'"
+      },
+      {
+        "position": 3,
+        "surface": "לִ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Preposition ל + first person singular pronoun; incorporated into imperative form"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּשָּׁבַ֖ע",
+        "phrase": "And he swore",
+        "literal": "and-he.swore",
+        "source": "Wayyiqtol (vav-consecutive imperfect) of שׁבע; KJV, ESV 'And he swore'"
+      },
+      {
+        "position": 5,
+        "surface": "ל֑/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition ל + third person masculine singular pronoun; KJV, ESV 'unto him'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּשְׁתַּ֥חוּ",
+        "phrase": "And he bowed down",
+        "literal": "and-he.bowed.down",
+        "source": "Wayyiqtol (vav-consecutive imperfect) of שׁחה (bow down, worship); KJV 'bowed himself', ESV 'bowed'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "Proper noun (subject of preceding verb); Jacob's alternate name; KJV, ESV 'Israel'"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "Preposition עַל (upon, on); KJV 'upon', ESV 'at'"
+      },
+      {
+        "position": 9,
+        "surface": "רֹ֥אשׁ",
+        "phrase": "the head",
+        "literal": "head",
+        "source": "Construct noun (construct state); KJV, ESV 'head'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מִּטָּֽה",
+        "phrase": "of the bed",
+        "literal": "the-bed",
+        "source": "Definite article ה + noun מִטָּה (bed, couch); KJV 'bed's head', ESV 'the bed'; LXX variant reads מַטֶּה (staff) instead"
+      }
+    ]
+  }
+]

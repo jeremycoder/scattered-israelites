@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִֽ/ישׁוּעָתְ/ךָ֖",
+        "phrase": "for your salvation",
+        "literal": "to-salvation-your",
+        "source": "preposition+noun(fs construct)+2ms suffix; KJV 'thy salvation', ESV/NASB 'Your salvation'"
+      },
+      {
+        "position": 2,
+        "surface": "קִוִּ֥יתִי",
+        "phrase": "I wait",
+        "literal": "I-have-waited",
+        "source": "Qal perfect 1cs from qavah 'to wait'; KJV 'I have waited', ESV 'I wait'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָֽה",
+        "phrase": "O LORD",
+        "literal": "YHWH",
+        "source": "proper name divine; KJV/ESV/NASB 'O LORD'"
+      }
+    ]
+  }
+]

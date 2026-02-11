@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֶ֤חֶם",
+        "phrase": "and bread",
+        "literal": "and-bread",
+        "source": "conj.+n-ms (KJV: bread; NET: food; ESV: bread)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵין֙",
+        "phrase": "there was no",
+        "literal": "not-is",
+        "source": "neg.+Qal-3ms (KJV: no; NET: no food; ESV: no bread)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/כָל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "prep.+n-ms (KJV: in all; NET: in all; ESV: in all)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "art.+n-fs (KJV: the land; NET: the land; ESV: the land)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "conj. (causal; KJV: for; NET: because; ESV: for)"
+      },
+      {
+        "position": 6,
+        "surface": "כָבֵ֥ד",
+        "phrase": "was heavy",
+        "literal": "was heavy",
+        "source": "Qal-3ms perf. heavy (KJV: heavy; NET: severe; ESV: severe)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/רָעָ֖ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "art.+n-ms (KJV: the famine; NET: the famine; ESV: the famine)"
+      },
+      {
+        "position": 8,
+        "surface": "מְאֹ֑ד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "adv. (KJV: sore; NET: very severe; ESV: very)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תֵּ֜לַהּ",
+        "phrase": "and it languished",
+        "literal": "and-languished",
+        "source": "waw-consec.+Qal-3fs *laʾah* to languish (NET: wasted away; ESV: languished)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶ֤רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "n-fs (KJV: land; NET: land; ESV: land)"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "pn (KJV: Egypt; NET: Egypt; ESV: Egypt)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶ֣רֶץ",
+        "phrase": "and land",
+        "literal": "and-land",
+        "source": "conj.+n-fs (KJV: the land; NET: the land; ESV: the land)"
+      },
+      {
+        "position": 13,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "pn (KJV: Canaan; NET: Canaan; ESV: Canaan)"
+      },
+      {
+        "position": 14,
+        "surface": "מִ/פְּנֵ֖י",
+        "phrase": "because of",
+        "literal": "from-face",
+        "source": "prep. from the presence of (KJV: because of; NET: because of; ESV: because of)"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/רָעָֽב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "art.+n-ms (KJV: the famine; NET: the famine; ESV: the famine)"
+      }
+    ]
+  }
+]

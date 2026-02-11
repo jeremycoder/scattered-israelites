@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֨קֶן",
+        "phrase": "So Joseph bought",
+        "literal": "and-bought",
+        "source": "wayyiqtol Qal 3ms from קנה; KJV 'bought', ESV 'bought'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֜ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper noun; all translations 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "et (accusative); standard Hebrew particle"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "quantifier; KJV/ESV/NET 'all'"
+      },
+      {
+        "position": 5,
+        "surface": "אַדְמַ֤ת",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "construct of אדמה 'ground, land'; KJV 'land', ESV 'land'"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "proper noun; all translations 'Egypt'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/פַרְעֹ֔ה",
+        "phrase": "for Pharaoh",
+        "literal": "to/for-Pharaoh",
+        "source": "preposition + proper noun; KJV/ESV 'for Pharaoh'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "causal ki; NET notes causal particle; KJV 'for'"
+      },
+      {
+        "position": 9,
+        "surface": "מָכְר֤וּ",
+        "phrase": "sold",
+        "literal": "they-sold",
+        "source": "perfect Qal 3mp from מכר; KJV 'sold', ESV 'sold'"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "the Egyptians",
+        "literal": "Egyptians",
+        "source": "gentilic noun; KJV 'Egyptians', ESV 'Egyptians'"
+      },
+      {
+        "position": 11,
+        "surface": "אִ֣ישׁ",
+        "phrase": "every",
+        "literal": "man",
+        "source": "אישׁ 'each man'; KJV 'every man', ESV 'each'"
+      },
+      {
+        "position": 12,
+        "surface": "שָׂדֵ֔/הוּ",
+        "phrase": "his field",
+        "literal": "field-his",
+        "source": "שׂדהוּ suffixed noun; KJV 'his field', ESV 'his field'"
+      },
+      {
+        "position": 13,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "for/because",
+        "source": "causal ki; all translations 'because/for'"
+      },
+      {
+        "position": 14,
+        "surface": "חָזַ֥ק",
+        "phrase": "was severe",
+        "literal": "was-strong",
+        "source": "perfect Qal 3ms from חזק; KJV 'prevailed', NET 'severe'"
+      },
+      {
+        "position": 15,
+        "surface": "עֲלֵ/הֶ֖ם",
+        "phrase": "upon them",
+        "literal": "on-them",
+        "source": "עליהם prep+suffix; NET tn 'upon them'"
+      },
+      {
+        "position": 16,
+        "surface": "הָ/רָעָ֑ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "def art + רעב; all translations 'famine'"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/תְּהִ֥י",
+        "phrase": "so became",
+        "literal": "and-became",
+        "source": "wayyiqtol Qal 3fs from היה; KJV 'so the land became'"
+      },
+      {
+        "position": 18,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "def art + ארץ; KJV/ESV 'the land'"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/פַרְעֹֽה",
+        "phrase": "Pharaoh's",
+        "literal": "to/for-Pharaoh",
+        "source": "preposition + proper noun; all translations 'Pharaoh's'"
+      }
+    ]
+  }
+]

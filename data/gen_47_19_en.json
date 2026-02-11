@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לָ֧/מָּה",
+        "phrase": "why",
+        "literal": "to-what",
+        "source": "interrogative particle; KJV 'wherefore', ESV 'why'"
+      },
+      {
+        "position": 2,
+        "surface": "נָמ֣וּת",
+        "phrase": "should we die",
+        "literal": "we-die",
+        "source": "1P Qal imperfect cohortative; KJV 'shall we die', NASB 'should we die'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/עֵינֶ֗י/ךָ",
+        "phrase": "before your eyes",
+        "literal": "to-eyes-your",
+        "source": "preposition + noun + 2MS suff; KJV 'before thine eyes', ESV 'before your eyes'"
+      },
+      {
+        "position": 4,
+        "surface": "גַּם",
+        "phrase": "both",
+        "literal": "also",
+        "source": "emphatic particle; KJV 'both', ESV 'both'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲנַ֨חְנוּ֙",
+        "phrase": "we",
+        "literal": "we",
+        "source": "1P pronoun; KJV 'we', ESV 'we'"
+      },
+      {
+        "position": 6,
+        "surface": "גַּ֣ם",
+        "phrase": "and",
+        "literal": "also",
+        "source": "emphatic particle; KJV 'and', ESV 'and'"
+      },
+      {
+        "position": 7,
+        "surface": "אַדְמָתֵ֔/נוּ",
+        "phrase": "our land",
+        "literal": "land-our",
+        "source": "noun FS + 1P suff; KJV 'our land', ESV 'our land'"
+      },
+      {
+        "position": 8,
+        "surface": "קְנֵֽה",
+        "phrase": "buy",
+        "literal": "buy",
+        "source": "2MS Qal imperative; KJV 'buy', NASB 'buy'"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתָ֥/נוּ",
+        "phrase": "us",
+        "literal": "obj-marker-us",
+        "source": "direct obj marker + 1P suff; KJV 'us', ESV 'us'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj-marker",
+        "source": "conj + direct obj marker; KJV 'and', ESV 'and'"
+      },
+      {
+        "position": 11,
+        "surface": "אַדְמָתֵ֖/נוּ",
+        "phrase": "our land",
+        "literal": "land-our",
+        "source": "noun FS + 1P suff; KJV 'our land', ESV 'our land'"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/לָּ֑חֶם",
+        "phrase": "for food",
+        "literal": "in-the-bread",
+        "source": "prep + article + noun; KJV 'for bread', NASB 'for food'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/נִֽהְיֶ֞ה",
+        "phrase": "we will be",
+        "literal": "and-we-become",
+        "source": "conj + 1P Niphal imperfect cohortative; KJV 'will be', ESV 'will be'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲנַ֤חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "1P pronoun; KJV 'we', ESV 'we'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אַדְמָתֵ֨/נוּ֙",
+        "phrase": "and our land",
+        "literal": "and-land-our",
+        "source": "conj + noun FS + 1P suff; KJV 'and our land', ESV 'and our land'"
+      },
+      {
+        "position": 16,
+        "surface": "עֲבָדִ֣ים",
+        "phrase": "slaves",
+        "literal": "servants",
+        "source": "noun MP; KJV 'servants', NASB 'slaves'"
+      },
+      {
+        "position": 17,
+        "surface": "לְ/פַרְעֹ֔ה",
+        "phrase": "to Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "prep + proper noun; KJV 'unto Pharaoh', ESV 'to Pharaoh'"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/תֶן",
+        "phrase": "and give",
+        "literal": "and-give",
+        "source": "conj + 2MS Qal imperative; KJV 'and give', ESV 'give'"
+      },
+      {
+        "position": 19,
+        "surface": "זֶ֗רַע",
+        "phrase": "seed",
+        "literal": "seed",
+        "source": "noun MS; KJV 'seed', ESV 'seed'"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/נִֽחְיֶה֙",
+        "phrase": "that we may live",
+        "literal": "and-we-live",
+        "source": "conj + 1P Qal imperfect cohortative; KJV 'that we may live', ESV 'so that we may live'"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "conj + negative; KJV 'and not', ESV 'and not'"
+      },
+      {
+        "position": 22,
+        "surface": "נָמ֔וּת",
+        "phrase": "die",
+        "literal": "we-die",
+        "source": "1P Qal imperfect; KJV 'die', ESV 'die'"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/הָ/אֲדָמָ֖ה",
+        "phrase": "and the land",
+        "literal": "and-the-land",
+        "source": "conj + article + noun FS; KJV 'the land', ESV 'the land'"
+      },
+      {
+        "position": 24,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative; KJV 'not', ESV 'not'"
+      },
+      {
+        "position": 25,
+        "surface": "תֵשָֽׁם",
+        "phrase": "be desolate",
+        "literal": "be-desolate",
+        "source": "3FS Qal imperfect; KJV 'be not desolate', NASB 'be desolate'"
+      }
+    ]
+  }
+]

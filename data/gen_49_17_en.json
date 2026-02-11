@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהִי",
+        "phrase": "shall be",
+        "literal": "he-shall-be",
+        "source": "Qal imperfect 3ms of היה; all major translations (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "דָן֙",
+        "phrase": "Dan",
+        "literal": "Dan",
+        "source": "Proper noun, tribal name; all translations"
+      },
+      {
+        "position": 3,
+        "surface": "נָחָ֣שׁ",
+        "phrase": "a serpent",
+        "literal": "serpent",
+        "source": "Masculine singular noun; KJV 'serpent', ESV 'serpent', NASB 'serpent'"
+      },
+      {
+        "position": 4,
+        "surface": "עֲלֵי",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "Preposition עַל with 3ms suffix; ESV 'in', KJV 'by'"
+      },
+      {
+        "position": 5,
+        "surface": "דֶ֔רֶךְ",
+        "phrase": "the way",
+        "literal": "way",
+        "source": "Feminine singular construct; all translations 'way'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁפִיפֹ֖ן",
+        "phrase": "a viper",
+        "literal": "horned-snake",
+        "source": "Masculine singular noun (hapax legomenon); KJV 'adder', ESV 'viper', NASB 'viper'"
+      },
+      {
+        "position": 7,
+        "surface": "עֲלֵי",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "Preposition עַל with 3ms suffix; parallel to position 4"
+      },
+      {
+        "position": 8,
+        "surface": "אֹ֑רַח",
+        "phrase": "the path",
+        "literal": "path",
+        "source": "Feminine singular noun; all translations 'path'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/נֹּשֵׁךְ֙",
+        "phrase": "the one biting",
+        "literal": "the-biting",
+        "source": "Definite article + Qal participle masculine singular of נשך; ESV 'that bites', KJV 'which biteth'"
+      },
+      {
+        "position": 10,
+        "surface": "עִקְּבֵי",
+        "phrase": "the heels of",
+        "literal": "heels-of",
+        "source": "Construct plural of עָקֵב with 3ms suffix; all translations 'heels'"
+      },
+      {
+        "position": 11,
+        "surface": "ס֔וּס",
+        "phrase": "a horse",
+        "literal": "horse",
+        "source": "Masculine singular noun; all translations 'horse'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יִּפֹּ֥ל",
+        "phrase": "and falls",
+        "literal": "and-he-falls",
+        "source": "Waw consecutive + Qal imperfect 3ms of נפל; all translations 'falls'"
+      },
+      {
+        "position": 13,
+        "surface": "רֹכְב֖/וֹ",
+        "phrase": "his rider",
+        "literal": "rider-his",
+        "source": "Qal participle masculine singular of רכב with 3ms suffix; all translations 'rider'"
+      },
+      {
+        "position": 14,
+        "surface": "אָחֽוֹר",
+        "phrase": "backward",
+        "literal": "backward",
+        "source": "Adverb; all translations 'backward'"
+      }
+    ]
+  }
+]

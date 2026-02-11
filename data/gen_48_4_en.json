@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "wayyiqtol 3ms; KJV 'and said', ESV 'and said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלַ֗/י",
+        "phrase": "to me",
+        "literal": "to_me",
+        "source": "prep.+1cs suf.; KJV 'unto me', ESV 'to me'"
+      },
+      {
+        "position": 3,
+        "surface": "הִנְ/נִ֤י",
+        "phrase": "Behold, I",
+        "literal": "behold_me",
+        "source": "ptcl.+1cs; KJV 'Behold I', ESV 'Behold, I'"
+      },
+      {
+        "position": 4,
+        "surface": "מַפְרְ/ךָ֙",
+        "phrase": "will make you fruitful",
+        "literal": "causing-fruitful_you(ms)",
+        "source": "Hiphil ptc.ms +2ms suf.; KJV 'make thee fruitful', ESV 'make you fruitful'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִרְבִּיתִ֔/ךָ",
+        "phrase": "and multiply you",
+        "literal": "and-I_will_multiply_you(ms)",
+        "source": "waw+hiphil yqtl 1cs +2ms suf.; KJV 'multiply thee', ESV 'multiply you'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/נְתַתִּ֖י/ךָ",
+        "phrase": "and I will make you",
+        "literal": "and-I_will_give_you(ms)",
+        "source": "waw+qal perf.1cs +2ms suf.; KJV 'make of thee', ESV 'make of you'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/קְהַ֣ל",
+        "phrase": "a company",
+        "literal": "to_assembly",
+        "source": "prep.+qahal 'assembly'; KJV 'company', ESV 'company'"
+      },
+      {
+        "position": 8,
+        "surface": "עַמִּ֑ים",
+        "phrase": "of peoples",
+        "literal": "peoples",
+        "source": "n.pl.abs.; KJV 'peoples', ESV 'peoples'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/נָ֨תַתִּ֜י",
+        "phrase": "and will give",
+        "literal": "and-I_gave",
+        "source": "waw+qal perf.1cs; KJV 'will give', ESV 'will give'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "obj_marker",
+        "source": "accusative particle; untrans."
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָ֧רֶץ",
+        "phrase": "the land",
+        "literal": "the_earth/land",
+        "source": "def.art.+n fs; KJV 'this land', ESV 'this land'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/זֹּ֛את",
+        "phrase": "this",
+        "literal": "the_this",
+        "source": "def.art.+demons.f; KJV 'this', ESV 'this'"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/זַרְעֲ/ךָ֥",
+        "phrase": "to your seed",
+        "literal": "to_seed_your(ms)",
+        "source": "prep.+zera' +2ms suf.; KJV 'thy seed', ESV 'your offspring'"
+      },
+      {
+        "position": 14,
+        "surface": "אַחֲרֶ֖י/ךָ",
+        "phrase": "after you",
+        "literal": "after_you(ms)",
+        "source": "prep.+2ms suf.; KJV 'after thee', ESV 'after you'"
+      },
+      {
+        "position": 15,
+        "surface": "אֲחֻזַּ֥ת",
+        "phrase": "possession",
+        "literal": "possession",
+        "source": "n fs 'holding'; KJV 'possession', ESV 'possession'"
+      },
+      {
+        "position": 16,
+        "surface": "עוֹלָֽם",
+        "phrase": "everlasting",
+        "literal": "eternity",
+        "source": "'olam 'forever'; KJV 'everlasting', ESV 'everlasting'"
+      }
+    ]
+  }
+]

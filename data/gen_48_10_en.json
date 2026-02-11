@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 48,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֵינֵ֤י",
+        "phrase": "and the eyes",
+        "literal": "and-eyes",
+        "source": "Conjunction waw + construct plural noun; all major translations (KJV, ESV, NASB, NIV)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "Proper noun (Jacob's covenant name); genitive relationship with preceding construct"
+      },
+      {
+        "position": 3,
+        "surface": "כָּבְד֣וּ",
+        "phrase": "had become heavy/dim",
+        "literal": "heavy-3ms",
+        "source": "Qal perfect 3ms of כבד (kabad); lexicon notes 'heavy' in sense of 'dull' for vision; KJV/ESV/NASB 'dim'"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/זֹּ֔קֶן",
+        "phrase": "from age",
+        "literal": "from-age",
+        "source": "Preposition min + masculine singular noun; all translations render 'from age' or 'with age'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle; standard negation"
+      },
+      {
+        "position": 6,
+        "surface": "יוּכַ֖ל",
+        "phrase": "he could",
+        "literal": "able-3ms",
+        "source": "Qal imperfect 3ms of יכל (yakol); modal sense 'could/was able'; KJV/ESV/NASB agree"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/רְא֑וֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "Preposition le + Qal infinitive construct of ראה (raah); all translations 'to see'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּגֵּ֤שׁ",
+        "phrase": "and he brought near",
+        "literal": "and-brought.near-3ms",
+        "source": "Waw consecutive + Hiphil imperfect 3ms of נגש (nagash); causative 'brought near'; KJV/ESV/NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתָ/ם֙",
+        "phrase": "them",
+        "literal": "them-accusative",
+        "source": "Direct object marker את + 3mp suffix; standard accusative construction"
+      },
+      {
+        "position": 10,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition el + 3ms suffix; all translations 'unto/to him'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יִּשַּׁ֥ק",
+        "phrase": "and he kissed",
+        "literal": "and-kissed-3ms",
+        "source": "Waw consecutive + Qal imperfect 3ms of נשק (nashaq); KJV/ESV/NASB 'kissed'"
+      },
+      {
+        "position": 12,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "them",
+        "literal": "to-them",
+        "source": "Preposition le + 3mp suffix; dative/indirect object; all translations"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יְחַבֵּ֥ק",
+        "phrase": "and he embraced",
+        "literal": "and-embraced-3ms",
+        "source": "Waw consecutive + Piel imperfect 3ms of חבק (chabaq); KJV/ESV/NASB 'embraced'"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/הֶֽם",
+        "phrase": "them",
+        "literal": "to-them",
+        "source": "Preposition le + 3mp suffix; dative object; parallel to position 12"
+      }
+    ]
+  }
+]

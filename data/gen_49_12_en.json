@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חַכְלִילִ֥י",
+        "phrase": "redder",
+        "literal": "dark-red-adj",
+        "source": "adj. (m. pl. construct); darker (NET), red (KJV), dull (NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵינַ֖יִם",
+        "phrase": "than wine",
+        "literal": "eyes-fem.pl.",
+        "source": "noun fp; eyes (all major trans.), context 'than wine'"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/יָּ֑יִן",
+        "phrase": "than wine",
+        "literal": "from-wine",
+        "source": "prep.+noun m; from wine (KJV/ESV/NET/NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/לְבֶן",
+        "phrase": "and whiter",
+        "literal": "and-to-white",
+        "source": "conj.+prep.+adj. m; and whiter (KJV), white (ESV/NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁנַּ֖יִם",
+        "phrase": "than milk",
+        "literal": "teeth-dual",
+        "source": "noun fd; teeth (all major trans.)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/חָלָֽב",
+        "phrase": "than milk",
+        "literal": "from-milk",
+        "source": "prep.+noun m; from milk (KJV/ESV/NET/NASB)"
+      }
+    ]
+  }
+]

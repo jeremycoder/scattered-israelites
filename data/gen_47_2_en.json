@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִ/קְצֵ֣ה",
+        "phrase": "and from among",
+        "literal": "and-from-end/extremity",
+        "source": "Conjunction + preposition + noun construct. The phrase מִקְצֵה (from the end/extremity) is unusual; Clarke's notes indicate six different interpretations exist for this construction."
+      },
+      {
+        "position": 2,
+        "surface": "אֶחָ֔י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "Noun construct with 3ms possessive suffix. Standard form across KJV, ESV, NASB."
+      },
+      {
+        "position": 3,
+        "surface": "לָקַ֖ח",
+        "phrase": "he took",
+        "literal": "took",
+        "source": "Qal perfect 3ms. All major translations render as 'took' or 'he took.'"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמִשָּׁ֣ה",
+        "phrase": "five",
+        "literal": "five",
+        "source": "Masculine numeral. Consistent across all translations."
+      },
+      {
+        "position": 5,
+        "surface": "אֲנָשִׁ֑ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "Masculine plural noun. Standard rendering in KJV, ESV, NASB."
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּצִּגֵ֖/ם",
+        "phrase": "and presented them",
+        "literal": "and-he-presented-them",
+        "source": "Conjunction + Hiphil imperfect 3ms + 3mp object suffix. Verb יצג (to place/present/station). KJV 'presented,' ESV 'presented,' NASB 'presented.'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "Preposition + construct noun. Idiom meaning 'before' or 'in the presence of.' All major translations render as 'before.'"
+      },
+      {
+        "position": 8,
+        "surface": "פַרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "Proper noun (Egyptian title). Consistent transliteration across all English versions."
+      }
+    ]
+  }
+]

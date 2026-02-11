@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתֶּ֕ם",
+        "phrase": "But as for you",
+        "literal": "and-you(pl)",
+        "source": "waw-conj + 2mp pronoun; KJV 'But as for you', ESV 'As for you'"
+      },
+      {
+        "position": 2,
+        "surface": "חֲשַׁבְתֶּ֥ם",
+        "phrase": "you meant",
+        "literal": "you-intended-2mp",
+        "source": "Qal perfect 2mp חשב 'to think, devise, plan'; NASB 'you meant', KJV 'ye thought'"
+      },
+      {
+        "position": 3,
+        "surface": "עָלַ֖/י",
+        "phrase": "against me",
+        "literal": "upon-me",
+        "source": "prep על + 1cs suff; all trans agree"
+      },
+      {
+        "position": 4,
+        "surface": "רָעָ֑ה",
+        "phrase": "evil",
+        "literal": "evil-fs",
+        "source": "fs noun 'evil, harm'; ESV 'evil', KJV 'evil'"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "mp noun 'God'; KJV/ESV/NASB 'God'"
+      },
+      {
+        "position": 6,
+        "surface": "חֲשָׁבָ֣/הּ",
+        "phrase": "meant it",
+        "literal": "intended-it-3fs",
+        "source": "Qal perfect 3fs חשב w/3fs suff; NASB 'meant it', KJV 'meant it'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/טֹבָ֔ה",
+        "phrase": "for good",
+        "literal": "to-good-fs",
+        "source": "prep ל + fs adj 'good'; all trans agree"
+      },
+      {
+        "position": 8,
+        "surface": "לְמַ֗עַן",
+        "phrase": "in order",
+        "literal": "for-the-sake-of",
+        "source": "prep 'for the purpose of'; ESV 'to bring', NASB 'in order'"
+      },
+      {
+        "position": 9,
+        "surface": "עֲשֹׂ֛ה",
+        "phrase": "to bring about",
+        "literal": "to-do",
+        "source": "Qal inf constr עשה 'to do, make'; KJV 'to bring to pass'"
+      },
+      {
+        "position": 10,
+        "surface": "כַּ/יּ֥וֹם",
+        "phrase": "as the day",
+        "literal": "like-the-day",
+        "source": "prep כ + def art + ms 'day'; NASB 'this present'"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "def art + ms demonst pron; all trans 'this day'"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/הַחֲיֹ֥ת",
+        "phrase": "to preserve alive",
+        "literal": "to-cause-to-live",
+        "source": "Hiphil inf constr חיה 'to keep alive'; KJV 'to save alive'"
+      },
+      {
+        "position": 13,
+        "surface": "עַם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "ms 'people, nation'; all trans agree"
+      },
+      {
+        "position": 14,
+        "surface": "רָֽב",
+        "phrase": "many",
+        "literal": "many-ms",
+        "source": "ms adj 'great, numerous'; NASB 'many', KJV 'much'"
+      }
+    ]
+  }
+]

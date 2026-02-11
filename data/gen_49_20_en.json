@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֵ/אָשֵׁ֖ר",
+        "phrase": "From Asher",
+        "literal": "from-Asher",
+        "source": "prep+proper name (genitive of source); KJV 'Out of Asher', ESV 'Asher’s', NASB 'Asher'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמֵנָ֣ה",
+        "phrase": "will be rich",
+        "literal": "fatness-his",
+        "source": "Ncfsc 'fat, rich'; KJV/ESV/NASB 'fat/rich'"
+      },
+      {
+        "position": 3,
+        "surface": "לַחְמ֑/וֹ",
+        "phrase": "his food",
+        "literal": "bread-his",
+        "source": "Ncmscl+3ms suff 'bread'; KJV 'his bread', ESV 'food', NASB 'food'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/ה֥וּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "cnj+3ms pron 'and he'; all trans agree"
+      },
+      {
+        "position": 5,
+        "surface": "יִתֵּ֖ן",
+        "phrase": "shall yield",
+        "literal": "he-will-give",
+        "source": "v-qal-3ms impf 'give, yield'; KJV/ESV/NASB 'yield/give'"
+      },
+      {
+        "position": 6,
+        "surface": "מַֽעֲדַנֵּי",
+        "phrase": "delicacies",
+        "literal": "delicacies-of",
+        "source": "Ncmpc 'delicacies, dainties'; KJV/ESV/NASB 'royal dainties/delights'"
+      },
+      {
+        "position": 7,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "of a king",
+        "literal": "king",
+        "source": "Ncmsa 'king'; construct chain, KJV/ESV/NASB 'royal/king’s'"
+      }
+    ]
+  }
+]

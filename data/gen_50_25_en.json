@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁבַּ֣ע",
+        "phrase": "Then Joseph made",
+        "literal": "and-caused.to.swear",
+        "source": "wayyiqtol 3ms šbʿ; KJV 'took an oath', ESV 'made...swear', NASB 'made'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; all agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct.object.marker",
+        "source": "ʾet; accusative marker"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֥י",
+        "phrase": "the sons of",
+        "literal": "sons.of",
+        "source": "pl. construct bn; all agree"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "proper name; all agree"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to.say",
+        "source": "inf. lē + ʾāmar; all agree"
+      },
+      {
+        "position": 7,
+        "surface": "פָּקֹ֨ד",
+        "phrase": "will surely",
+        "literal": "visit",
+        "source": "inf. abs. pqd; infinitive absolute"
+      },
+      {
+        "position": 8,
+        "surface": "יִפְקֹ֤ד",
+        "phrase": "visit",
+        "literal": "he.will.visit",
+        "source": "yiqtol 3ms pqd; ESV 'visit', NASB 'visit', KJV 'surely visit'"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "ʾĕlōhîm; all agree"
+      },
+      {
+        "position": 10,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "obj-you.pl",
+        "source": "ʾet + 2mp suffix; all agree"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הַעֲלִתֶ֥ם",
+        "phrase": "and you shall carry up",
+        "literal": "and-you(pl).shall.cause.to.ascend",
+        "source": "waw + yiqtol 2mp ʿlh hiphil; all agree"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct.object.marker",
+        "source": "ʾet; accusative marker"
+      },
+      {
+        "position": 13,
+        "surface": "עַצְמֹתַ֖/י",
+        "phrase": "my bones",
+        "literal": "bones-my",
+        "source": "ʿṣm + 1s suffix dual; all agree"
+      },
+      {
+        "position": 14,
+        "surface": "מִ/זֶּֽה",
+        "phrase": "from here",
+        "literal": "from-this",
+        "source": "prep. min + zʾh; all agree"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶ֨ת",
+        "phrase": "and as for",
+        "literal": "and-direct.object.marker",
+        "source": "Conjunction + accusative particle; KJV 'And as for the people'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "Definite noun (masculine singular); all major translations"
+      },
+      {
+        "position": 3,
+        "surface": "הֶעֱבִ֥יר",
+        "phrase": "he removed/transferred",
+        "literal": "he-caused.to.pass",
+        "source": "Hiphil perfect 3ms of עבר; KJV/NASB 'removed', NET 'made slaves' (textual variant)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "them",
+        "literal": "direct.object-him/it",
+        "source": "Accusative marker + 3ms suffix; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "לֶ/עָרִ֑ים",
+        "phrase": "to the cities",
+        "literal": "to-cities",
+        "source": "Preposition + definite plural noun; KJV/NASB/ESV agree; Septuagint reads 'to slavery'"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/קְצֵ֥ה",
+        "phrase": "from one end",
+        "literal": "from-end",
+        "source": "Preposition + construct noun; all translations"
+      },
+      {
+        "position": 7,
+        "surface": "גְבוּל",
+        "phrase": "of the border",
+        "literal": "border",
+        "source": "Construct form (boundary/territory); KJV 'borders'"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "Proper noun (dual form historically); all translations"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/עַד",
+        "phrase": "and to",
+        "literal": "and-until",
+        "source": "Conjunction + preposition; all translations"
+      },
+      {
+        "position": 10,
+        "surface": "קָצֵֽ/הוּ",
+        "phrase": "the other end of it",
+        "literal": "end-his",
+        "source": "Construct + 3ms suffix; KJV 'other end thereof'"
+      }
+    ]
+  }
+]

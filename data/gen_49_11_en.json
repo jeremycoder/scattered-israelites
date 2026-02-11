@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 49,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֹסְרִ֤י",
+        "phrase": "Binding",
+        "literal": "bind-PTCP.MS",
+        "source": "Qal participle masculine singular; KJV 'Binding', ESV 'Tying', NASB 'He ties'"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/גֶּ֨פֶן֙",
+        "phrase": "to the vine",
+        "literal": "to-DEF.vine",
+        "source": "Preposition + definite noun; all major translations 'to the vine'"
+      },
+      {
+        "position": 3,
+        "surface": "עיר/ה",
+        "phrase": "his foal",
+        "literal": "foal-DEF",
+        "source": "Noun feminine with definite article; variant reading (Qere עִירוֹ); KJV/ESV 'his foal'"
+      },
+      {
+        "position": 4,
+        "surface": "עִיר֔/וֹ",
+        "phrase": "his foal",
+        "literal": "foal-3MS.POSS",
+        "source": "Noun feminine + 3MS possessive suffix (Ketib); ESV/NASB 'his foal'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לַ/שֹּׂרֵקָ֖ה",
+        "phrase": "and to the choice vine",
+        "literal": "and-to-DEF.choice.vine",
+        "source": "Conjunction + preposition + definite noun; all translations 'to the choice vine'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנִ֣י",
+        "phrase": "the colt of",
+        "literal": "son-of",
+        "source": "Construct noun; KJV 'his ass's colt', ESV 'his donkey's colt'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲתֹנ֑/וֹ",
+        "phrase": "his donkey",
+        "literal": "she-donkey-3MS.POSS",
+        "source": "Feminine noun + 3MS possessive suffix; all translations 'his donkey/ass'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּבֵּ֤ס",
+        "phrase": "he washes",
+        "literal": "wash-3MS.PF",
+        "source": "Qal perfect 3MS; KJV/ESV/NASB 'he washes' or 'washes'"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/יַּ֨יִן֙",
+        "phrase": "in wine",
+        "literal": "in-DEF.wine",
+        "source": "Preposition + definite noun; all translations 'in wine'"
+      },
+      {
+        "position": 10,
+        "surface": "לְבֻשׁ֔/וֹ",
+        "phrase": "his garments",
+        "literal": "garment-3MS.POSS",
+        "source": "Noun masculine + 3MS possessive suffix; KJV 'his garments', ESV 'his clothing'"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/דַם",
+        "phrase": "and in the blood of",
+        "literal": "and-in-blood",
+        "source": "Conjunction + preposition + noun construct; all translations 'and in the blood of'"
+      },
+      {
+        "position": 12,
+        "surface": "עֲנָבִ֖ים",
+        "phrase": "grapes",
+        "literal": "grape-MP",
+        "source": "Noun masculine plural; all translations 'grapes'"
+      },
+      {
+        "position": 13,
+        "surface": "סות/ה",
+        "phrase": "his robes",
+        "literal": "robe-DEF",
+        "source": "Noun feminine with definite article (Qere סוּתוֹ); variant reading"
+      },
+      {
+        "position": 14,
+        "surface": "סוּתֽ/וֹ",
+        "phrase": "his robes",
+        "literal": "robe-3MS.POSS",
+        "source": "Noun feminine + 3MS possessive suffix (Ketib); KJV/ESV 'his robes'"
+      }
+    ]
+  }
+]

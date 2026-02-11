@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְכַלְכֵּ֤ל",
+        "phrase": "And Joseph nourished",
+        "literal": "and-he_nourished",
+        "source": "wayyiqtol 3ms Piel כול; KJV 'nourished', ESV 'provided'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; all translations 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "et (accusative); omitted in English"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֣י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "n-msc + 3ms suff; KJV/ESV 'his father'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct_object_marker",
+        "source": "conj + et; 'and' in translations"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָ֔י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "n-mp + 3ms suff; KJV/ESV 'his brethren/brothers'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-Acc.",
+        "source": "conj + et variant; 'and' in translations"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "adj-ms; KJV/ESV 'all'"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֣ית",
+        "phrase": "household",
+        "literal": "house",
+        "source": "n-ms 'house'; KJV 'house', ESV 'household'"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "of his father",
+        "literal": "father-his",
+        "source": "n-msc + 3ms suff; 'his father's' in translations"
+      },
+      {
+        "position": 11,
+        "surface": "לֶ֖חֶם",
+        "phrase": "with bread",
+        "literal": "bread",
+        "source": "n-ms; KJV/ESV 'with bread/food'"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/פִ֥י",
+        "phrase": "according to the mouth of",
+        "literal": "to-mouth",
+        "source": "prep + n-ms 'mouth'; idiomatic 'according to'"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/טָּֽף",
+        "phrase": "the little ones",
+        "literal": "the-little_children",
+        "source": "art + n-ms 'dependents/children'; ESV 'dependents', KJV 'families'"
+      }
+    ]
+  }
+]

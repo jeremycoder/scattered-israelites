@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 47,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּוֹשֵׁ֣ב",
+        "phrase": "and settled",
+        "literal": "and-he.settled",
+        "source": "Vav-consecutive + Qal imperfect 3ms of יׁשב; KJV, ESV, NASB all render 'settled'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֮",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun, subject of the verb"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Accusative particle introducing direct object"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֣י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "Noun construct with 3ms possessive suffix; all major translations render 'his father'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-direct.object.marker",
+        "source": "Vav conjunction + accusative particle"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָי/ו֒",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "Noun with 3ms possessive suffix; all translations render 'his brothers'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֵּ֨ן",
+        "phrase": "and gave",
+        "literal": "and-he.gave",
+        "source": "Vav-consecutive + Qal imperfect 3ms of נתן; KJV, ESV, NASB 'gave'"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/הֶ֤ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "Preposition ל + 3mp pronoun"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחֻזָּה֙",
+        "phrase": "a possession",
+        "literal": "possession",
+        "source": "Feminine noun; KJV 'possession', ESV 'a possession', NASB 'a possession'"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition ב + feminine noun construct"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "Proper noun in construct relationship; dual form referring to Upper and Lower Egypt"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/מֵיטַ֥ב",
+        "phrase": "in the best",
+        "literal": "in-best",
+        "source": "Preposition ב + construct form of טוב (good); all translations render 'best'"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "Definite feminine noun in construct; ESV, NASB 'of the land'"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition ב + feminine noun construct; appositive clarification"
+      },
+      {
+        "position": 15,
+        "surface": "רַעְמְסֵ֑ס",
+        "phrase": "of Rameses",
+        "literal": "Rameses",
+        "source": "Proper noun, Egyptian place name; also transliterated as Ramesses or Ra'amses"
+      },
+      {
+        "position": 16,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "Preposition כ + relative pronoun; introduces causal/comparative clause"
+      },
+      {
+        "position": 17,
+        "surface": "צִוָּ֥ה",
+        "phrase": "commanded",
+        "literal": "he.commanded",
+        "source": "Qal perfect 3ms of צוה; KJV, ESV, NASB all render 'commanded'"
+      },
+      {
+        "position": 18,
+        "surface": "פַרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "Proper noun, subject of the verb; all translations render 'Pharaoh'"
+      }
+    ]
+  }
+]

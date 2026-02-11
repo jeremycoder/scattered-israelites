@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 50,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣מָת",
+        "phrase": "So Joseph died",
+        "literal": "and-died",
+        "source": "wayyiqtol 3ms from מות (die); KJV/ESV/NASB 'died'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "being",
+        "literal": "son-of",
+        "source": "noun ms 'son'; idiomatic for age (ben-); KJV 'being', NASB 'at the age of'"
+      },
+      {
+        "position": 4,
+        "surface": "מֵאָ֥ה",
+        "phrase": "a hundred",
+        "literal": "hundred",
+        "source": "noun fs 'hundred'; KJV/ESV/NASB 'hundred'"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/עֶ֖שֶׂר",
+        "phrase": "and ten",
+        "literal": "and-ten",
+        "source": "waw + noun 'ten'; KJV/ESV/NASB 'and ten'"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנִ֑ים",
+        "phrase": "years old",
+        "literal": "years",
+        "source": "noun fp 'years'; KJV/ESV/NASB 'years (old)'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּחַנְט֣וּ",
+        "phrase": "and they embalmed",
+        "literal": "and-they-embalmed",
+        "source": "wayyiqtol 3mp from חנט (embalm); KJV/ESV/NASB 'they embalmed'"
+      },
+      {
+        "position": 8,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "him",
+        "literal": "obj-marker-him",
+        "source": "את + 3ms suffix 'him'; KJV/ESV/NASB 'him'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּ֥ישֶׂם",
+        "phrase": "and he was put",
+        "literal": "and-it-was-put",
+        "source": "wayyiqtol 3ms from שׂום (be placed); KJV 'he was put', NASB 'placed'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אָר֖וֹן",
+        "phrase": "in a coffin",
+        "literal": "in-ark",
+        "source": "prep ב + noun ms 'coffin/chest'; KJV/ESV/NASB 'coffin'"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/מִצְרָֽיִם",
+        "phrase": "in Egypt",
+        "literal": "in-Egypt",
+        "source": "prep ב + proper name 'Egypt'; KJV/ESV/NASB 'in Egypt'"
+      }
+    ]
+  }
+]
