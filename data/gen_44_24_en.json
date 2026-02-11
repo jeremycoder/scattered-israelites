@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, JPS"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ֣י",
+        "phrase": "when",
+        "literal": "when",
+        "source": "KJV, ESV, NASB (temporal conjunction)"
+      },
+      {
+        "position": 3,
+        "surface": "עָלִ֔ינוּ",
+        "phrase": "we went up",
+        "literal": "we-went_up",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 5,
+        "surface": "עַבְדְּ/ךָ֖",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֑/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/נַּ֨גֶּד",
+        "phrase": "and we told",
+        "literal": "and-we_declared",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "ל֔/וֹ",
+        "phrase": "him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB (preposition + pronoun)"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "Standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 10,
+        "surface": "דִּבְרֵ֥י",
+        "phrase": "the words",
+        "literal": "words-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲדֹנִֽ/י",
+        "phrase": "of my lord",
+        "literal": "lord-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

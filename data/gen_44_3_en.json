@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/בֹּ֖קֶר",
+        "phrase": "as soon as the morning",
+        "literal": "the-morning",
+        "source": "KJV, ESV, NASB, 'As soon as the morning' [4][5]"
+      },
+      {
+        "position": 2,
+        "surface": "א֑וֹר",
+        "phrase": "was light",
+        "literal": "light",
+        "source": "ESV 'dawned', NASB 'light', lit. 'light appeared' [4]"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הָ/אֲנָשִׁ֣ים",
+        "phrase": "and the men",
+        "literal": "and-the-men",
+        "source": "KJV, ESV, NASB [4][5]"
+      },
+      {
+        "position": 4,
+        "surface": "שֻׁלְּח֔וּ",
+        "phrase": "were sent away",
+        "literal": "they-were-sent-away",
+        "source": "KJV, ESV, NASB [4][5]"
+      },
+      {
+        "position": 5,
+        "surface": "הֵ֖מָּה",
+        "phrase": "they",
+        "literal": "they",
+        "source": "emphatic pronoun, KJV/ESV implied [4]"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/חֲמֹרֵי/הֶֽם",
+        "phrase": "and their donkeys",
+        "literal": "and-donkeys-their",
+        "source": "KJV, ESV, NASB [4][5]"
+      }
+    ]
+  }
+]

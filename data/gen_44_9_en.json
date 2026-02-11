@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "with whomever",
+        "literal": "which-ever",
+        "source": "KJV, ESV, NASB (relative particle)"
+      },
+      {
+        "position": 2,
+        "surface": "יִמָּצֵ֥א",
+        "phrase": "it is found",
+        "literal": "is-found",
+        "source": "KJV ('be found'), ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אִתּ֛/וֹ",
+        "phrase": "with it",
+        "literal": "with-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/עֲבָדֶ֖י/ךָ",
+        "phrase": "among your servants",
+        "literal": "from-servants-your",
+        "source": "KJV ('of thy servants'), ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/מֵ֑ת",
+        "phrase": "let him die",
+        "literal": "and-die",
+        "source": "KJV ('let him die'), ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/גַם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "KJV, ESV, NASB (conjunction)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנַ֕חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "נִֽהְיֶ֥ה",
+        "phrase": "will be",
+        "literal": "will-become",
+        "source": "KJV ('will be'), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לַֽ/אדֹנִ֖/י",
+        "phrase": "my lord's",
+        "literal": "to-lord-my",
+        "source": "KJV ('my lord's'), ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/עֲבָדִֽים",
+        "phrase": "slaves",
+        "literal": "to-servants",
+        "source": "KJV ('bondmen'), ESV ('slaves'), NASB"
+      }
+    ]
+  }
+]

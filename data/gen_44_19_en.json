@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲדֹנִ֣י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁאַ֔ל",
+        "phrase": "asked",
+        "literal": "ask",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical marker (ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "עֲבָדָ֖יו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 6,
+        "surface": "הֲ/יֵשׁ",
+        "phrase": "have you",
+        "literal": "?-there is",
+        "source": "interrogative particle + verb 'to be' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/כֶ֥ם",
+        "phrase": "you",
+        "literal": "to-you(pl)",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "אָ֖ב",
+        "phrase": "a father",
+        "literal": "father",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "אוֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "אָֽח",
+        "phrase": "a brother",
+        "literal": "brother",
+        "source": "KJV, ESV, NASB, Chabad"
+      }
+    ]
+  }
+]

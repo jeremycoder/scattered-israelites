@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּי",
+        "phrase": "For",
+        "literal": "for-that",
+        "source": "KJV, ESV, NASB (conjunction introducing reason)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵיךְ֙",
+        "phrase": "how",
+        "literal": "how",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽעֱלֶ֣ה",
+        "phrase": "shall I go up",
+        "literal": "I-shall-go-up",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֔/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הַ/נַּ֖עַר",
+        "phrase": "and the boy",
+        "literal": "and-the-boy",
+        "source": "KJV (lad), ESV (boy), NASB (lad)"
+      },
+      {
+        "position": 7,
+        "surface": "אֵינֶ֣/נּוּ",
+        "phrase": "is not",
+        "literal": "not-he",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אִתִּ֑/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "פֶּ֚ן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "KJV, ESV, NASB (negative purpose particle)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶרְאֶ֣ה",
+        "phrase": "I see",
+        "literal": "I-see",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בָ/רָ֔ע",
+        "phrase": "the evil",
+        "literal": "in-the-evil",
+        "source": "KJV (evil), ESV (evil), NASB (misery)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 13,
+        "surface": "יִמְצָ֖א",
+        "phrase": "will befall",
+        "literal": "will-find",
+        "source": "KJV (come), ESV (befall), NASB (befall)"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "KJV, ESV, NASB (untranslated accusative marker)"
+      },
+      {
+        "position": 15,
+        "surface": "אָבִֽ/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

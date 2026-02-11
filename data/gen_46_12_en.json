@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּבְנֵי",
+        "phrase": "And the sons",
+        "literal": "and-sons",
+        "source": "Conjunction ו + construct plural noun בְנֵי"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוּדָה",
+        "phrase": "of Judah",
+        "literal": "Judah",
+        "source": "Proper noun in construct relationship; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "עֵר",
+        "phrase": "Er",
+        "literal": "Er",
+        "source": "Proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְאוֹנָן",
+        "phrase": "and Onan",
+        "literal": "and-Onan",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְשֵׁלָה",
+        "phrase": "and Shelah",
+        "literal": "and-Shelah",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וָפֶרֶץ",
+        "phrase": "and Perez",
+        "literal": "and-Perez",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וָזָרַח",
+        "phrase": "and Zerah",
+        "literal": "and-Zerah",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַיָּמָת",
+        "phrase": "but died",
+        "literal": "and-he.died",
+        "source": "Conjunction ו + wayyiqtol 3ms of מות; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עֵר",
+        "phrase": "Er",
+        "literal": "Er",
+        "source": "Proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְאוֹנָן",
+        "phrase": "and Onan",
+        "literal": "and-Onan",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "בְּאֶרֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "Preposition ב + construct noun אֶרֶץ; KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "כְּנַעַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "Proper noun in construct relationship; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וַיִּהְיוּ",
+        "phrase": "and were",
+        "literal": "and-they.were",
+        "source": "Conjunction ו + wayyiqtol 3mp of היה; KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בְנֵי",
+        "phrase": "the sons",
+        "literal": "sons",
+        "source": "Construct plural noun בְנֵי; KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "פֶרֶץ",
+        "phrase": "of Perez",
+        "literal": "Perez",
+        "source": "Proper noun in construct relationship; KJV, ESV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "חֶצְרוֹן",
+        "phrase": "Hezron",
+        "literal": "Hezron",
+        "source": "Proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "וְחָמוּל",
+        "phrase": "and Hamul",
+        "literal": "and-Hamul",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

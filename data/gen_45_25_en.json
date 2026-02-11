@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יַּעֲל֖וּ",
+        "phrase": "they went up",
+        "literal": "and-they_went_up",
+        "source": "KJV, ESV, NASB, Chabad[3]"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[6]"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּבֹ֨אוּ֙",
+        "phrase": "and they came",
+        "literal": "and-they_came",
+        "source": "KJV, ESV, NASB, StudyLight[4]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB, Chabad[3]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבִי/הֶֽם",
+        "phrase": "their father",
+        "literal": "father-their",
+        "source": "KJV, ESV, NASB, BibleHub[5]"
+      }
+    ]
+  }
+]

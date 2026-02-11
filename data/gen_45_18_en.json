@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/קְח֧וּ",
+        "phrase": "and take",
+        "literal": "and-take!",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "your",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲבִי/כֶ֛ם",
+        "phrase": "father",
+        "literal": "father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and your",
+        "literal": "and-[direct object marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 5,
+        "surface": "בָּתֵּי/כֶ֖ם",
+        "phrase": "households",
+        "literal": "houses-your",
+        "source": "KJV, ESV, NASB (lit. 'houses')"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בֹ֣אוּ",
+        "phrase": "and come",
+        "literal": "and-come!",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלָ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶתְּנָ֣ה",
+        "phrase": "and I will give",
+        "literal": "and-I-will-give",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶ֗ם",
+        "phrase": "you",
+        "literal": "to-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "טוּב֙",
+        "phrase": "best",
+        "literal": "good",
+        "source": "KJV ('good'), ESV/NASB ('best')"
+      },
+      {
+        "position": 12,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "of the land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אִכְל֖וּ",
+        "phrase": "and you shall eat",
+        "literal": "and-eat!",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (KJV, ESV)"
+      },
+      {
+        "position": 16,
+        "surface": "חֵ֥לֶב",
+        "phrase": "fat",
+        "literal": "fat",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

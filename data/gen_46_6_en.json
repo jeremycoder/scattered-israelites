@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְח֣וּ",
+        "phrase": "they took",
+        "literal": "and-they-took",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "direct-object-marker",
+        "source": "standard Hebrew particle (KJV, ESV)"
+      },
+      {
+        "position": 3,
+        "surface": "מִקְנֵי/הֶ֗ם",
+        "phrase": "cattle",
+        "literal": "livestock-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "standard Hebrew conjunction and particle (KJV, ESV)"
+      },
+      {
+        "position": 5,
+        "surface": "רְכוּשָׁ/ם֙",
+        "phrase": "goods",
+        "literal": "possessions-their",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "רָֽכְשׁוּ֙",
+        "phrase": "they had acquired",
+        "literal": "they-acquired",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "כְּנַ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יָּבֹ֖אוּ",
+        "phrase": "and came",
+        "literal": "and-they-came",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרָ֑יְמָ/ה",
+        "phrase": "to Egypt",
+        "literal": "to-Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "זַרְע֥/וֹ",
+        "phrase": "his offspring",
+        "literal": "seed-his",
+        "source": "KJV (seed), ESV (offspring), NASB (descendants)"
+      },
+      {
+        "position": 15,
+        "surface": "אִתּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

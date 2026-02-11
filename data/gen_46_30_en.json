@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אָמ֣וּתָה",
+        "phrase": "let me die",
+        "literal": "let_die-I",
+        "source": "KJV ('now let me die'), ESV ('now let me die'), NASB ('now let me die')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/פָּ֑עַם",
+        "phrase": "now",
+        "literal": "the-time",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אַחֲרֵי֙",
+        "phrase": "since",
+        "literal": "after",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "רְאוֹתִ֣/י",
+        "phrase": "I have seen",
+        "literal": "seeing-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct_object_marker",
+        "source": "accusative marker; not translated"
+      },
+      {
+        "position": 10,
+        "surface": "פָּנֶ֔י/ךָ",
+        "phrase": "your face",
+        "literal": "face-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֥י",
+        "phrase": "because",
+        "literal": "that",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "עוֹדְ/ךָ֖",
+        "phrase": "you are still",
+        "literal": "still-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "חָֽי",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

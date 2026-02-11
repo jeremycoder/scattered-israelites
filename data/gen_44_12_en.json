@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחַפֵּ֕שׂ",
+        "phrase": "and he searched",
+        "literal": "and-he_searched",
+        "source": "KJV, ESV, NASB, NET[1][4]"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/גָּד֣וֹל",
+        "phrase": "beginning with the oldest",
+        "literal": "in_the_great_one",
+        "source": "KJV ('eldest'), ESV, NASB ('oldest')[1][4]"
+      },
+      {
+        "position": 3,
+        "surface": "הֵחֵ֔ל",
+        "phrase": "he began",
+        "literal": "he_began",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בַ/קָּטֹ֖ן",
+        "phrase": "and with the youngest",
+        "literal": "and_in_the_small_one",
+        "source": "KJV ('youngest'), ESV, NASB[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "כִּלָּ֑ה",
+        "phrase": "ending",
+        "literal": "he_finished",
+        "source": "ESV, NASB ('ending'); KJV ('left')[1][4]"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּמָּצֵא֙",
+        "phrase": "and it was found",
+        "literal": "and-it_was_found",
+        "source": "KJV, ESV, NASB, NET[1][4]"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/גָּבִ֔יעַ",
+        "phrase": "the cup",
+        "literal": "the_cup",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/אַמְתַּ֖חַת",
+        "phrase": "in the sack of",
+        "literal": "in_sack_of",
+        "source": "KJV, ESV, NASB[1][4]"
+      },
+      {
+        "position": 9,
+        "surface": "בִּנְיָמִֽן",
+        "phrase": "Benjamin",
+        "literal": "Benjamin",
+        "source": "KJV, ESV, NASB[1][4]"
+      }
+    ]
+  }
+]

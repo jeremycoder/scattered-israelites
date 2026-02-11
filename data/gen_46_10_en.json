@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "And the sons",
+        "literal": "and-sons",
+        "source": "Conjunction ו + construct plural of בֵּן (ben, son)"
+      },
+      {
+        "position": 2,
+        "surface": "שִׁמְע֗וֹן",
+        "phrase": "of Simeon",
+        "literal": "Simeon",
+        "source": "Proper noun, genitive relationship; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יְמוּאֵ֧ל",
+        "phrase": "Jemuel",
+        "literal": "Jemuel",
+        "source": "Proper noun (also Nemuel in 1 Chronicles 4:24); KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יָמִ֛ין",
+        "phrase": "and Jamin",
+        "literal": "and-Jamin",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֹ֖הַד",
+        "phrase": "and Ohad",
+        "literal": "and-Ohad",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יָכִ֣ין",
+        "phrase": "and Jachin",
+        "literal": "and-Jachin",
+        "source": "Conjunction ו + proper noun (also Jarib in 1 Chronicles 4:24); KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/צֹ֑חַר",
+        "phrase": "and Zohar",
+        "literal": "and-Zohar",
+        "source": "Conjunction ו + proper noun (also Zerah in 1 Chronicles 4:24); KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/שָׁא֖וּל",
+        "phrase": "and Shaul",
+        "literal": "and-Shaul",
+        "source": "Conjunction ו + proper noun; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בֶּן",
+        "phrase": "the son",
+        "literal": "son",
+        "source": "Masculine singular construct; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הַֽ/כְּנַעֲנִֽית",
+        "phrase": "of a Canaanite woman",
+        "literal": "the-Canaanite-woman",
+        "source": "Definite article ה + feminine singular of כְּנַעֲנִית (Canaanite); KJV, ESV, NASB"
+      }
+    ]
+  }
+]

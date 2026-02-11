@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְשַׁלַּ֥ח",
+        "phrase": "and he sent",
+        "literal": "and-he-sent-away",
+        "source": "NASB, ESV, KJV (Root: שׁלח shalach, Piel verb, 'to send away')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "Standard Hebrew grammar particle (marks definite direct object)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֖י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "NASB, ESV, KJV (אחיו 'echayv, brothers with 3ms suffix)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּלֵ֑כוּ",
+        "phrase": "and they went",
+        "literal": "and-they-went",
+        "source": "NASB, ESV, KJV (Root: הלך halakh, Qal, 'to go, depart')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "NASB, ESV, KJV (Root: אמר amar, Qal verb, 'to say')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲלֵ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "NASB, ESV, KJV (אלהם 'alehem, preposition אל with 3mp suffix)"
+      },
+      {
+        "position": 7,
+        "surface": "אַֽל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "Negative particle with imperative (prohibitive), NASB, ESV, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "תִּרְגְּז֖וּ",
+        "phrase": "quarrel",
+        "literal": "you-all-quake/tremble",
+        "source": "NASB ('quarrel'), ESV ('quarrel'), KJV ('fall out') (Root: רגז ragaz, 'to quiver, be agitated')"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/דָּֽרֶךְ",
+        "phrase": "on the way",
+        "literal": "in-the-way",
+        "source": "NASB, ESV, KJV (בדרך baderekh, preposition ב + noun דרך 'road, journey')"
+      }
+    ]
+  }
+]

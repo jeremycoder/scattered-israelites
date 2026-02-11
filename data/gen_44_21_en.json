@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֨אמֶר֙",
+        "phrase": "And you said",
+        "literal": "and-said.2ms",
+        "source": "KJV, ESV, NASB (וַתֹּאמֶר = 'thou saidst')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB (preposition 'unto')"
+      },
+      {
+        "position": 3,
+        "surface": "עֲבָדֶ֔י/ךָ",
+        "phrase": "your servants",
+        "literal": "servants-your",
+        "source": "KJV ('thy servants'), ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹרִדֻ֖/הוּ",
+        "phrase": "Bring him down",
+        "literal": "bring.down!-him",
+        "source": "KJV ('Bring him down'), ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֵלָ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָשִׂ֥ימָה",
+        "phrase": "that I may set",
+        "literal": "and-I-will-put",
+        "source": "KJV ('that I may set'), ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "עֵינִ֖/י",
+        "phrase": "my eyes",
+        "literal": "eyes-my",
+        "source": "KJV ('mine eyes'), ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עָלָֽי/ו",
+        "phrase": "upon him",
+        "literal": "upon-him",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

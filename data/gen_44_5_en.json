@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/ל֣וֹא",
+        "phrase": "Is not",
+        "literal": "question-particle/not",
+        "source": "interrogative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 2,
+        "surface": "זֶ֗ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "relative pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׁתֶּ֤ה",
+        "phrase": "drinks",
+        "literal": "drinks",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אֲדֹנִ/י֙",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "בּ֔/וֹ",
+        "phrase": "from it",
+        "literal": "in/on-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/ה֕וּא",
+        "phrase": "and he",
+        "literal": "and-he",
+        "source": "emphatic pronoun (NASB, ESV)"
+      },
+      {
+        "position": 8,
+        "surface": "נַחֵ֥שׁ",
+        "phrase": "practices divination",
+        "literal": "divines",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "יְנַחֵ֖שׁ",
+        "phrase": "indeed divines",
+        "literal": "divines",
+        "source": "emphatic (NASB 'indeed', KJV 'indeed')"
+      },
+      {
+        "position": 10,
+        "surface": "בּ֑/וֹ",
+        "phrase": "with it",
+        "literal": "in/on-it",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הֲרֵעֹתֶ֖ם",
+        "phrase": "you have done evil",
+        "literal": "you-have-done-evil",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "in what",
+        "literal": "which/that",
+        "source": "relative pronoun (KJV, ESV)"
+      },
+      {
+        "position": 13,
+        "surface": "עֲשִׂיתֶֽם",
+        "phrase": "you have done",
+        "literal": "you-have-done",
+        "source": "KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

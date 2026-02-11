@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֹּאמֶר",
+        "phrase": "and said",
+        "literal": "and-he.said",
+        "source": "KJV, NASB, ESV; wayyiqtol form of אמר (amar)"
+      },
+      {
+        "position": 2,
+        "surface": "אָבִינוּ",
+        "phrase": "our father",
+        "literal": "father-our",
+        "source": "KJV, NASB, ESV; construct form with 1cp suffix"
+      },
+      {
+        "position": 3,
+        "surface": "שֻׁבוּ",
+        "phrase": "go back",
+        "literal": "return-2mp",
+        "source": "KJV 'Go again', NASB 'Go back', ESV 'Go back'; qal imperative masculine plural of שוב (shuv)"
+      },
+      {
+        "position": 4,
+        "surface": "שִׁבְרוּ",
+        "phrase": "buy",
+        "literal": "buy-2mp",
+        "source": "KJV 'buy', NASB 'buy', ESV 'buy'; qal imperative masculine plural of שבר (shavar)"
+      },
+      {
+        "position": 5,
+        "surface": "לָנוּ",
+        "phrase": "for us",
+        "literal": "to-us",
+        "source": "KJV, NASB, ESV; preposition ל with 1cp suffix"
+      },
+      {
+        "position": 6,
+        "surface": "מְעַט",
+        "phrase": "a little",
+        "literal": "little",
+        "source": "KJV 'a little', NASB 'a little', ESV 'a little'; noun masculine singular"
+      },
+      {
+        "position": 7,
+        "surface": "אֹכֶל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "KJV 'food', NASB 'food', ESV 'food'; noun masculine singular of אכל (okhel)"
+      }
+    ]
+  }
+]

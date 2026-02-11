@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֚לֶּה",
+        "phrase": "These are",
+        "literal": "these",
+        "source": "KJV, ESV, NASB, NIV (demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "רָחֵ֔ל",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB, NIV (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "which/who",
+        "source": "KJV, ESV, NASB, NIV (relative pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "יֻלַּ֖ד",
+        "phrase": "were born",
+        "literal": "were-born",
+        "source": "KJV, ESV, NASB, NIV (nifal perfect 3ms 'to be born')"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/יַעֲקֹ֑ב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, ESV, NASB, NIV (preposition + proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "נֶ֖פֶשׁ",
+        "phrase": "the souls",
+        "literal": "soul",
+        "source": "KJV ('souls'), ESV/NIV ('persons'), NASB ('persons')"
+      },
+      {
+        "position": 9,
+        "surface": "אַרְבָּעָ֥ה",
+        "phrase": "fourteen",
+        "literal": "four-ten",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 10,
+        "surface": "עָשָֽׂר",
+        "phrase": "",
+        "literal": "ten",
+        "source": "KJV, ESV, NASB, NIV (combines with prior word)"
+      }
+    ]
+  }
+]

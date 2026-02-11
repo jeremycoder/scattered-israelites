@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְמַהֲר֗וּ",
+        "phrase": "they hurried",
+        "literal": "and-they_hurried",
+        "source": "KJV, ESV, NASB, NWT"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יּוֹרִ֛דוּ",
+        "phrase": "lowered",
+        "literal": "and-they_brought_down",
+        "source": "ESV, NASB, Berean, Lexham"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֥ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 5,
+        "surface": "אַמְתַּחְתּ֖/וֹ",
+        "phrase": "his sack",
+        "literal": "sack-his",
+        "source": "KJV, ESV, NASB, NWT"
+      },
+      {
+        "position": 6,
+        "surface": "אָ֑רְצָ/ה",
+        "phrase": "to the ground",
+        "literal": "to_ground",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/יִּפְתְּח֖וּ",
+        "phrase": "and opened",
+        "literal": "and-they_opened",
+        "source": "KJV, ESV, NASB, NWT"
+      },
+      {
+        "position": 8,
+        "surface": "אִ֥ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אַמְתַּחְתּֽ/וֹ",
+        "phrase": "his sack",
+        "literal": "sack-his",
+        "source": "KJV, ESV, NASB, NWT"
+      }
+    ]
+  }
+]

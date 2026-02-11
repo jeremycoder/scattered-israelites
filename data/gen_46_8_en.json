@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה",
+        "phrase": "And these",
+        "literal": "and-these",
+        "source": "KJV, ESV, NASB (waw-consecutive + demonstrative pronoun)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמ�וֹת",
+        "phrase": "are the names",
+        "literal": "names",
+        "source": "KJV ('the names'), ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵֽי",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "KJV ('children'), ESV ('sons'), NASB, Chabad"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "KJV, ESV, NASB, Chabad (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בָּאִ֥ים",
+        "phrase": "who came",
+        "literal": "the-coming",
+        "source": "KJV ('which came'), ESV ('who came'), NASB, Chabad (participle)"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֖יְמָ/ה",
+        "phrase": "to Egypt",
+        "literal": "from-Egypt",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲקֹ֣ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, Chabad (proper name)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בָנָ֑י/ו",
+        "phrase": "and his sons",
+        "literal": "and-sons-his",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "בְּכֹ֥ר",
+        "phrase": "firstborn",
+        "literal": "firstborn",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "of Jacob",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, Chabad (proper name)"
+      },
+      {
+        "position": 11,
+        "surface": "רְאוּבֵֽן",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "KJV, ESV, NASB, Chabad (proper name)"
+      }
+    ]
+  }
+]

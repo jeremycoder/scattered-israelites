@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְאֶת",
+        "phrase": "and",
+        "literal": "and-direct.object.marker",
+        "source": "Conjunction + accusative particle; marks the direct object"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוּדָה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "Proper noun; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁלַח",
+        "phrase": "he sent",
+        "literal": "he-sent",
+        "source": "Qal perfect 3ms; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "לְפָנָיו",
+        "phrase": "before him",
+        "literal": "to-face-his",
+        "source": "Preposition + noun + possessive suffix; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "Preposition; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹסֵף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "Proper noun; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 7,
+        "surface": "לְהוֹרֹת",
+        "phrase": "to point out / to direct",
+        "literal": "to-show/direct",
+        "source": "Preposition + Hiphil infinitive construct from ירה; KJV 'to direct', ESV 'to show the way', NASB 'to point out'"
+      },
+      {
+        "position": 8,
+        "surface": "לְפָנָיו",
+        "phrase": "before him",
+        "literal": "to-face-his",
+        "source": "Preposition + noun + possessive suffix; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 9,
+        "surface": "גֹּשְׁנָה",
+        "phrase": "Goshen",
+        "literal": "Goshen-ward",
+        "source": "Proper noun with directional ה; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 10,
+        "surface": "וַיָּבֹאוּ",
+        "phrase": "and they came",
+        "literal": "and-they-came",
+        "source": "Conjunction + Qal imperfect 3mp; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 11,
+        "surface": "אַרְצָה",
+        "phrase": "into the land",
+        "literal": "land-ward",
+        "source": "Noun with directional ה; KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 12,
+        "surface": "גֹּשֶׁן",
+        "phrase": "of Goshen",
+        "literal": "Goshen",
+        "source": "Proper noun in construct/apposition; KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "and the sons",
+        "literal": "and-sons",
+        "source": "Conjunction ו + construct plural of בן (ben, son)"
+      },
+      {
+        "position": 2,
+        "surface": "אָשֵׁ֗ר",
+        "phrase": "of Asher",
+        "literal": "Asher",
+        "source": "Proper noun; ESV, KJV, CSB"
+      },
+      {
+        "position": 3,
+        "surface": "יִמְנָ֧ה",
+        "phrase": "Imnah",
+        "literal": "Imnah",
+        "source": "Proper noun; ESV, KJV, CSB; etymology: prosperity (יִמְנָה yimnâh)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יִשְׁוָ֛ה",
+        "phrase": "and Ishvah",
+        "literal": "and-Ishvah",
+        "source": "Conjunction ו + proper noun; ESV, KJV, CSB; etymology: even, level (יִשְׁוָה yishvâh)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יִשְׁוִ֥י",
+        "phrase": "and Ishvi",
+        "literal": "and-Ishvi",
+        "source": "Conjunction ו + proper noun; ESV, KJV, CSB; etymology: even, level (יִשְׁוִי yishvi)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בְרִיעָ֖ה",
+        "phrase": "and Beriah",
+        "literal": "and-Beriah",
+        "source": "Conjunction ו + proper noun; ESV, KJV, CSB; etymology: in evil (בְרִיעָה beri'ah)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שֶׂ֣רַח",
+        "phrase": "and Serah",
+        "literal": "and-Serah",
+        "source": "Conjunction ו + proper noun (feminine); ESV, KJV, CSB; etymology: overflow (שֶׂרַח serach)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחֹתָ֑/ם",
+        "phrase": "their sister",
+        "literal": "sister-their",
+        "source": "Feminine noun אָחוֹת (achot, sister) + 3rd masculine plural possessive suffix; ESV, KJV, CSB"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "and the sons",
+        "literal": "and-sons",
+        "source": "Conjunction ו + construct plural of בן (ben, son)"
+      },
+      {
+        "position": 10,
+        "surface": "בְרִיעָ֔ה",
+        "phrase": "of Beriah",
+        "literal": "Beriah",
+        "source": "Proper noun in construct relationship; ESV, KJV, CSB"
+      },
+      {
+        "position": 11,
+        "surface": "חֶ֖בֶר",
+        "phrase": "Heber",
+        "literal": "Heber",
+        "source": "Proper noun; ESV, KJV, CSB; etymology: fellowship (חֶבֶר cheber)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/מַלְכִּיאֵֽל",
+        "phrase": "and Malchiel",
+        "literal": "and-Malchiel",
+        "source": "Conjunction ו + proper noun; ESV, KJV, CSB; etymology: king of El (מַלְכִּיאֵל malkiel)"
+      }
+    ]
+  }
+]

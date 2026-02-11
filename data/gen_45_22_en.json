@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/כֻלָּ֥/ם",
+        "phrase": "to all of them",
+        "literal": "to-all_of_them",
+        "source": "KJV, ESV, NASB, CSB"
+      },
+      {
+        "position": 2,
+        "surface": "נָתַ֛ן",
+        "phrase": "he gave",
+        "literal": "he_gave",
+        "source": "KJV, ESV, NASB, CSB"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/אִ֖ישׁ",
+        "phrase": "to each man",
+        "literal": "to-man",
+        "source": "KJV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "חֲלִפ֣וֹת",
+        "phrase": "changes",
+        "literal": "changes",
+        "source": "KJV, ESV, NASB (changes of garments)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׂמָלֹ֑ת",
+        "phrase": "of clothes",
+        "literal": "of_garments",
+        "source": "KJV (raiment), ESV, NASB (garments)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/בִנְיָמִ֤ן",
+        "phrase": "and to Benjamin",
+        "literal": "and-to_Benjamin",
+        "source": "KJV, ESV, NASB, CSB"
+      },
+      {
+        "position": 7,
+        "surface": "נָתַן֙",
+        "phrase": "he gave",
+        "literal": "he_gave",
+        "source": "KJV, ESV, NASB, CSB"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁלֹ֣שׁ",
+        "phrase": "three",
+        "literal": "three",
+        "source": "Mechon-Mamre (implied in 300), CSB"
+      },
+      {
+        "position": 9,
+        "surface": "מֵא֣וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "KJV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 10,
+        "surface": "כֶּ֔סֶף",
+        "phrase": "pieces of silver",
+        "literal": "silver",
+        "source": "KJV, ESV, NASB, Mechon-Mamre (shekels)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/חָמֵ֖שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "KJV, ESV, NASB, CSB"
+      },
+      {
+        "position": 12,
+        "surface": "חֲלִפֹ֥ת",
+        "phrase": "changes",
+        "literal": "changes",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "שְׂמָלֹֽת",
+        "phrase": "of clothes",
+        "literal": "of_garments",
+        "source": "KJV (raiment), ESV, NASB (garments)"
+      }
+    ]
+  }
+]

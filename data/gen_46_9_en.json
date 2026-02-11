@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "and the sons of",
+        "literal": "and-sons",
+        "source": "KJV, ESV, NASB; waw-consecutive + benê 'sons' construct"
+      },
+      {
+        "position": 2,
+        "surface": "רְאוּבֵ֑ן",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "KJV, ESV, NASB; proper name"
+      },
+      {
+        "position": 3,
+        "surface": "חֲנ֥וֹךְ",
+        "phrase": "Hanoch",
+        "literal": "Hanoch",
+        "source": "KJV (Hanoch), ESV (Hanoch), NASB (Hanoch); proper name"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/פַלּ֖וּא",
+        "phrase": "and Pallu",
+        "literal": "and-Pallu",
+        "source": "KJV (Phallu), ESV (Pallu), NASB (Pallu); waw + proper name"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/חֶצְר֥וֹן",
+        "phrase": "and Hezron",
+        "literal": "and-Hezron",
+        "source": "KJV, ESV, NASB; waw + proper name"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/כַרְמִֽי",
+        "phrase": "and Carmi",
+        "literal": "and-Carmi",
+        "source": "KJV, ESV, NASB; waw + proper name"
+      }
+    ]
+  }
+]

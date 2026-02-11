@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֤א",
+        "phrase": "and the one went out",
+        "literal": "and-went_out",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אֶחָד֙",
+        "phrase": "the one",
+        "literal": "the-one",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 3,
+        "surface": "מֵֽ/אִתִּ֔/י",
+        "phrase": "from me",
+        "literal": "from-with_me",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/אֹמַ֕ר",
+        "phrase": "and I said",
+        "literal": "and-I_said",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 5,
+        "surface": "אַ֖ךְ",
+        "phrase": "surely",
+        "literal": "only-surely",
+        "source": "emphatic particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "טָרֹ֣ף",
+        "phrase": "torn",
+        "literal": "torn_in_pieces",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 7,
+        "surface": "טֹרָ֑ף",
+        "phrase": "in pieces",
+        "literal": "torn_in_pieces",
+        "source": "infinitive absolute; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "רְאִיתִ֖י/ו",
+        "phrase": "I have seen him",
+        "literal": "I_saw-him",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "since",
+        "literal": "until",
+        "source": "KJV, ESV, NASB, temporal preposition"
+      },
+      {
+        "position": 11,
+        "surface": "הֵֽנָּה",
+        "phrase": "to this day",
+        "literal": "hither",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      }
+    ]
+  }
+]

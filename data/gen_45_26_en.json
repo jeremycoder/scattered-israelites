@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּגִּ֨דוּ",
+        "phrase": "and they told",
+        "literal": "and-they_told",
+        "source": "KJV, ESV, NASB, AMP"
+      },
+      {
+        "position": 2,
+        "surface": "ל֜/וֹ",
+        "phrase": "him",
+        "literal": "to_him",
+        "source": "dative marker, KJV, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "quotative particle, KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "ע֚וֹד",
+        "phrase": "still",
+        "literal": "still",
+        "source": "KJV, ESV, NASB, AMP"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹסֵ֣ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 6,
+        "surface": "חַ֔י",
+        "phrase": "is alive",
+        "literal": "alive",
+        "source": "KJV, ESV, NASB, AMP"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/כִֽי",
+        "phrase": "and",
+        "literal": "and-that",
+        "source": "conjunction, KJV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "emphatic pronoun, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מֹשֵׁ֖ל",
+        "phrase": "ruler",
+        "literal": "ruling",
+        "source": "KJV, ESV, NASB, AMP"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/כָל",
+        "phrase": "over all",
+        "literal": "in-all",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "proper name, all translations"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יָּ֣פָג",
+        "phrase": "and grew numb",
+        "literal": "and-grew_numb",
+        "source": "ESV, JPS; stunned (NASB, NIV)"
+      },
+      {
+        "position": 14,
+        "surface": "לִבּ֔/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "KJV, ESV, AMP"
+      },
+      {
+        "position": 15,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal particle, KJV, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negation, all translations"
+      },
+      {
+        "position": 17,
+        "surface": "הֶאֱמִ֖ין",
+        "phrase": "he believed",
+        "literal": "he_believed",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 18,
+        "surface": "לָ/הֶֽם",
+        "phrase": "them",
+        "literal": "to_them",
+        "source": "KJV, ESV"
+      }
+    ]
+  }
+]

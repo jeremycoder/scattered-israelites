@@ -1,0 +1,118 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֣ה",
+        "phrase": "And now",
+        "literal": "and-now",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV"
+      },
+      {
+        "position": 3,
+        "surface": "תֵּעָ֣צְב֗וּ",
+        "phrase": "be grieved",
+        "literal": "be-grieved-PL",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַל",
+        "phrase": "or",
+        "literal": "and-not",
+        "source": "conjunction + negative; KJV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "יִ֨חַר֙",
+        "phrase": "be angry",
+        "literal": "be-hot",
+        "source": "KJV (let it be anger), ESV (angry)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֵ֣ינֵי/כֶ֔ם",
+        "phrase": "with yourselves",
+        "literal": "in-eyes-your",
+        "source": "idiom for anger; KJV, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "for",
+        "source": "causal particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מְכַרְתֶּ֥ם",
+        "phrase": "you sold",
+        "literal": "you-sold-PL"
+      },
+      {
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתִ֖/י",
+        "phrase": "me",
+        "literal": "[direct object marker]-me",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 10,
+        "surface": "הֵ֑נָּה",
+        "phrase": "here",
+        "literal": "hither",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal particle; KJV, ESV"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/מִֽחְיָ֔ה",
+        "phrase": "to preserve life",
+        "literal": "for-preservation-of-life",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "שְׁלָחַ֥/נִי",
+        "phrase": "sent me",
+        "literal": "he-sent-me",
+        "source": "KJV, ESV"
+      },
+      {
+        "position": 14,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "לִ/פְנֵי/כֶֽם",
+        "phrase": "before you",
+        "literal": "to-before-you",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

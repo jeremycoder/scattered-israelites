@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "KJV, ESV, NASB (waw-consecutive 'and'; בְנֵי 'sons of'; construct state)"
+      },
+      {
+        "position": 2,
+        "surface": "גָ֔ד",
+        "phrase": "Gad",
+        "literal": "Gad",
+        "source": "KJV, ESV, NASB (proper name, son of Jacob)"
+      },
+      {
+        "position": 3,
+        "surface": "צִפְי֥וֹן",
+        "phrase": "Ziphion",
+        "literal": "Ziphion",
+        "source": "KJV (Ziphion), NASB (Ziphion), Strong's 6837"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/חַגִּ֖י",
+        "phrase": "and Haggi",
+        "literal": "and-Haggi",
+        "source": "KJV, ESV, NASB (waw 'and'; proper name Strong's 2291)"
+      },
+      {
+        "position": 5,
+        "surface": "שׁוּנִ֣י",
+        "phrase": "Shuni",
+        "literal": "Shuni",
+        "source": "KJV, ESV, NASB (proper name, father of Shunites Num 26:15)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶצְבֹּ֑ן",
+        "phrase": "and Ezbon",
+        "literal": "and-Ezbon",
+        "source": "KJV, ESV, NASB (waw 'and'; proper name Strong's 675, 'Ozni' in Num 26:16)"
+      },
+      {
+        "position": 7,
+        "surface": "עֵרִ֥י",
+        "phrase": "Eri",
+        "literal": "Eri",
+        "source": "KJV, ESV, NASB (proper name Strong's 6179)"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/אֲרוֹדִ֖י",
+        "phrase": "and Arodi",
+        "literal": "and-Arodi",
+        "source": "KJV (Arodi), NASB (Arodi), Strong's 722"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אַרְאֵלִֽי",
+        "phrase": "and Areli",
+        "literal": "and-Areli",
+        "source": "KJV, ESV, NASB (waw 'and'; proper name)"
+      }
+    ]
+  }
+]

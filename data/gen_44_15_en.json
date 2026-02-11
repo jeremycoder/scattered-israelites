@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he_said",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "preposition + pronoun; KJV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "מָֽה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "interrogative; KJV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מַּעֲשֶׂ֥ה",
+        "phrase": "the deed",
+        "literal": "the-deed",
+        "source": "KJV (deed), NASB (deed); Strong's 4639"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "demonstrative; KJV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "relative particle; KJV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עֲשִׂיתֶ֑ם",
+        "phrase": "you have done",
+        "literal": "you_have_done",
+        "source": "KJV, NASB, ESV; Strong's 6213"
+      },
+      {
+        "position": 9,
+        "surface": "הֲ/ל֣וֹא",
+        "phrase": "do ... not",
+        "literal": "not",
+        "source": "negative interrogative; KJV (wot ye not), NASB"
+      },
+      {
+        "position": 10,
+        "surface": "יְדַעְתֶּ֔ם",
+        "phrase": "you know",
+        "literal": "you_knew",
+        "source": "KJV (wot ye), NASB (know); Strong's 3045"
+      },
+      {
+        "position": 11,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "conjunction; KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "נַחֵ֧שׁ",
+        "phrase": "practice divination",
+        "literal": "divines",
+        "source": "infinitive absolute; KJV (certainly divine), NASB (indeed practice divination); Strong's 5172"
+      },
+      {
+        "position": 13,
+        "surface": "יְנַחֵ֛שׁ",
+        "phrase": "can divine",
+        "literal": "he_divines",
+        "source": "finite verb; KJV (divine), NASB (practice divination); Strong's 5172"
+      },
+      {
+        "position": 14,
+        "surface": "אִ֖ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "KJV, NASB, ESV; Strong's 376"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "that",
+        "source": "relative particle; KJV, NASB"
+      },
+      {
+        "position": 16,
+        "surface": "כָּמֹֽ/נִי",
+        "phrase": "I",
+        "literal": "like-me",
+        "source": "KJV (as I), NASB (as I); comparative"
+      }
+    ]
+  }
+]

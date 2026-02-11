@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֤י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "KJV, ESV, NASB, NIV (בְּנֵי bənê, Strong's 1121)"
+      },
+      {
+        "position": 2,
+        "surface": "רָחֵל֙",
+        "phrase": "Rachel",
+        "literal": "Rachel",
+        "source": "KJV, ESV, NASB, NIV (proper name, Strong's 7354)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֣שֶׁת",
+        "phrase": "wife",
+        "literal": "wife",
+        "source": "KJV, ESV, NASB, NIV (אֵשֶׁת ’ēšeṯ, Strong's 802)"
+      },
+      {
+        "position": 4,
+        "surface": "יַֽעֲקֹ֔ב",
+        "phrase": "Jacob's",
+        "literal": "Jacob",
+        "source": "KJV, ESV, NASB, NIV (proper name, Strong's 3290)"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, NIV (proper name, Strong's 3130)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בִנְיָמִֽן",
+        "phrase": "and Benjamin",
+        "literal": "and-Benjamin",
+        "source": "KJV, ESV, NASB, NIV (וּ waw 'and'; בִּנְיָמִין binyāmîn, Strong's 1144)"
+      }
+    ]
+  }
+]

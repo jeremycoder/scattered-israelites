@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/לְקַחְתֶּ֧ם",
+        "phrase": "and you take",
+        "literal": "and-you_take",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[2]"
+      },
+      {
+        "position": 2,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "KJV, ESV, NASB (emphatic particle)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "untranslated in English; standard marker (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "זֶ֛ה",
+        "phrase": "this one",
+        "literal": "this",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/עִ֥ם",
+        "phrase": "from",
+        "literal": "from_with",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[2]"
+      },
+      {
+        "position": 6,
+        "surface": "פָּנַ֖/י",
+        "phrase": "me",
+        "literal": "face-my",
+        "source": "KJV, ESV, NASB, Chabad[1]"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קָרָ֣/הוּ",
+        "phrase": "and befalls him",
+        "literal": "and-happen_to-him",
+        "source": "KJV ('mischief'), ESV ('harm'), NASB ('misfortune'), Mechon-Mamre[2]"
+      },
+      {
+        "position": 8,
+        "surface": "אָס֑וֹן",
+        "phrase": "misfortune",
+        "literal": "disaster-harm",
+        "source": "ESV, NASB, Chabad[1], Mechon-Mamre ('harm')[2]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הֽוֹרַדְתֶּ֧ם",
+        "phrase": "and you will bring down",
+        "literal": "and-you_bring_down",
+        "source": "KJV, ESV, NASB, Mechon-Mamre[2]"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct_object_marker",
+        "source": "untranslated in English; standard marker (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "שֵׂיבָתִ֛/י",
+        "phrase": "my gray hair",
+        "literal": "grayness-my",
+        "source": "KJV, ESV, NASB, Mechon-Mamre ('gray hairs')[2], Chabad ('hoary head')[1]"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/רָעָ֖ה",
+        "phrase": "in sorrow",
+        "literal": "in-evil",
+        "source": "KJV, ESV, NASB, Mechon-Mamre ('sorrow')[2]"
+      },
+      {
+        "position": 13,
+        "surface": "שְׁאֹֽלָ/ה",
+        "phrase": "to the grave",
+        "literal": "Sheol-ward",
+        "source": "KJV ('the grave'), ESV/NASB ('Sheol'), Mechon-Mamre ('the grave')[2], Chabad ('the grave')[1]"
+      }
+    ]
+  }
+]

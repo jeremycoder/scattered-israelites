@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NIV, ESV, NASB (quantifier)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ֠/נֶּפֶשׁ",
+        "phrase": "the souls",
+        "literal": "the-soul",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בָּאָ֨ה",
+        "phrase": "that came",
+        "literal": "the-coming",
+        "source": "KJV ('that came'), NIV ('who went'), ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/יַעֲקֹ֤ב",
+        "phrase": "to Jacob",
+        "literal": "to-Jacob",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "מִצְרַ֨יְמָ/ה֙",
+        "phrase": "to Egypt",
+        "literal": "Egypt-ward",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "יֹצְאֵ֣י",
+        "phrase": "that came out of",
+        "literal": "going-out",
+        "source": "KJV, NIV ('direct descendants'), ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "יְרֵכ֔/וֹ",
+        "phrase": "his loins",
+        "literal": "loins-his",
+        "source": "KJV, ESV, NASB; NIV ('direct descendants')"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/לְּ/בַ֖ד",
+        "phrase": "besides",
+        "literal": "from-apart",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "נְשֵׁ֣י",
+        "phrase": "the wives of",
+        "literal": "wives",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NIV, ESV, NASB (quantifier)"
+      },
+      {
+        "position": 13,
+        "surface": "נֶ֖פֶשׁ",
+        "phrase": "the souls",
+        "literal": "soul",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "שִׁשִּׁ֥ים",
+        "phrase": "sixty",
+        "literal": "sixty",
+        "source": "KJV, NIV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "וָ/שֵֽׁשׁ",
+        "phrase": "and six",
+        "literal": "and-six",
+        "source": "KJV, NIV, ESV, NASB"
+      }
+    ]
+  }
+]

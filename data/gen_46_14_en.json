@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "and the sons of",
+        "literal": "and-sons",
+        "source": "KJV, ESV, NASB; conjunction + construct state noun[3]"
+      },
+      {
+        "position": 2,
+        "surface": "זְבוּלֻ֑ן",
+        "phrase": "Zebulun",
+        "literal": "Zebulun",
+        "source": "KJV, ESV, NASB; proper name[3]"
+      },
+      {
+        "position": 3,
+        "surface": "סֶ֥רֶד",
+        "phrase": "Sered",
+        "literal": "Sered",
+        "source": "KJV, ESV, NASB; proper name[3]"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵל֖וֹן",
+        "phrase": "and Elon",
+        "literal": "and-Elon",
+        "source": "KJV, ESV, NASB; conjunction + proper name[3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יַחְלְאֵֽל",
+        "phrase": "and Jahleel",
+        "literal": "and-Jahleel",
+        "source": "KJV, ESV, NASB; conjunction + proper name[3]"
+      }
+    ]
+  }
+]

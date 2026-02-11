@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יַּשִּׂגֵ֑/ם",
+        "phrase": "he overtook them",
+        "literal": "and-overtook-them",
+        "source": "KJV, ESV, NASB, NET[1][3][4]"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יְדַבֵּ֣ר",
+        "phrase": "and he spoke",
+        "literal": "and-spoke",
+        "source": "KJV, ESV, NASB, NET[1][3][4]"
+      },
+      {
+        "position": 3,
+        "surface": "אֲלֵ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB[1][3][4]"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar, particle[4]"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/דְּבָרִ֖ים",
+        "phrase": "the words",
+        "literal": "the-words",
+        "source": "KJV ('words'), ESV/NASB ('words')[1][3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֵֽלֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "KJV ('these same'), ESV/NASB ('these')[1][3][4]"
+      }
+    ]
+  }
+]

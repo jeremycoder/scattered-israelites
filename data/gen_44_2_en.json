@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "And",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (waw-consecutive + et)"
+      },
+      {
+        "position": 2,
+        "surface": "גְּבִיעִ֞/י",
+        "phrase": "my cup",
+        "literal": "cup-my",
+        "source": "KJV (my cup), ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "גְּבִ֣יעַ",
+        "phrase": "the cup",
+        "literal": "cup-the",
+        "source": "KJV (cup), ESV, NASB (apposition)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כֶּ֗סֶף",
+        "phrase": "of silver",
+        "literal": "the-silver",
+        "source": "KJV (silver cup), ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "תָּשִׂים֙",
+        "phrase": "put",
+        "literal": "put!",
+        "source": "KJV (put), ESV, NASB (2ms imperative)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/פִי֙",
+        "phrase": "in the mouth of",
+        "literal": "in-mouth-of",
+        "source": "KJV (in the sack's mouth), ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אַמְתַּ֣חַת",
+        "phrase": "the sack",
+        "literal": "sack",
+        "source": "KJV (sack's), ESV (bag), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קָּטֹ֔ן",
+        "phrase": "of the youngest",
+        "literal": "the-youngest",
+        "source": "KJV (youngest), ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (waw + et)"
+      },
+      {
+        "position": 10,
+        "surface": "כֶּ֣סֶף",
+        "phrase": "money",
+        "literal": "silver/money",
+        "source": "KJV (money), ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "שִׁבְר֑/וֹ",
+        "phrase": "for his grain",
+        "literal": "grain-his",
+        "source": "KJV (corn/his), ESV (money for the grain), NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יַּ֕עַשׂ",
+        "phrase": "And he did",
+        "literal": "and-he-did",
+        "source": "KJV (And he did), ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "כִּ/דְבַ֥ר",
+        "phrase": "according to the word",
+        "literal": "as-word",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "of Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 16,
+        "surface": "דִּבֵּֽר",
+        "phrase": "he had spoken",
+        "literal": "he-spoke",
+        "source": "KJV (had told), ESV, NASB"
+      }
+    ]
+  }
+]

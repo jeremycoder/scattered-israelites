@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֥ן",
+        "phrase": "and he gave",
+        "literal": "and-gave",
+        "source": "KJV, ESV, NASB (wayyiqtol of nātan, 'to give')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "standard Hebrew grammar (particle, untranslatable in English)"
+      },
+      {
+        "position": 3,
+        "surface": "קֹל֖/וֹ",
+        "phrase": "his voice",
+        "literal": "voice-his",
+        "source": "KJV ('aloud'), ESV ('so loudly'), NASB ('so loudly')"
+      },
+      {
+        "position": 4,
+        "surface": "בִּ/בְכִ֑י",
+        "phrase": "in weeping",
+        "literal": "in-weeping",
+        "source": "KJV, ESV, NASB (preposition bə- + bəkî, 'weeping')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּשְׁמְע֣וּ",
+        "phrase": "and they heard",
+        "literal": "and-they-heard",
+        "source": "KJV, ESV, NASB (wayyiqtol plural of šāmaʿ, 'to hear')"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egyptians",
+        "source": "KJV, ESV, NASB (Miṣrayim, gentilic plural)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּשְׁמַ֖ע",
+        "phrase": "and heard",
+        "literal": "and-heard",
+        "source": "KJV, ESV, NASB (wayyiqtol singular of šāmaʿ)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB (bayit, 'house, household')"
+      },
+      {
+        "position": 9,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "of Pharaoh",
+        "literal": "of-Pharaoh",
+        "source": "KJV, ESV, NASB (Parʿōh, proper name)"
+      }
+    ]
+  }
+]

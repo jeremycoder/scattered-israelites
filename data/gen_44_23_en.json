@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 44,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֨אמֶר֙",
+        "phrase": "and you said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB, 'and you said to your servants' (wayyiqtol of amar)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "KJV, ESV, NASB, directional preposition"
+      },
+      {
+        "position": 3,
+        "surface": "עֲבָדֶ֔י/ךָ",
+        "phrase": "your servants",
+        "literal": "servants-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אִם",
+        "phrase": "unless",
+        "literal": "if",
+        "source": "KJV, ESV, NASB, conditional particle"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, negative particle"
+      },
+      {
+        "position": 6,
+        "surface": "יֵרֵ֛ד",
+        "phrase": "comes down",
+        "literal": "he-will-descend",
+        "source": "KJV, ESV, NASB, yiqtol of yarad"
+      },
+      {
+        "position": 7,
+        "surface": "אֲחִי/כֶ֥ם",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קָּטֹ֖ן",
+        "phrase": "youngest",
+        "literal": "the-small",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אִתְּ/כֶ֑ם",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB, negative particle"
+      },
+      {
+        "position": 11,
+        "surface": "תֹסִפ֖וּ/ן",
+        "phrase": "you shall ... again",
+        "literal": "you-will-add",
+        "source": "KJV, ESV, NASB, 'ye shall see ... no more' (yiqtol of yasaph)"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/רְא֥וֹת",
+        "phrase": "see",
+        "literal": "to-see",
+        "source": "KJV, ESV, NASB, infinitive construct of ra'ah"
+      },
+      {
+        "position": 13,
+        "surface": "פָּנָֽ/י",
+        "phrase": "my face",
+        "literal": "face-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

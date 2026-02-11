@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "And the sons of",
+        "literal": "and-sons_of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "נַפְתָּלִ֑י",
+        "phrase": "Naphtali",
+        "literal": "Naphtali",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יַחְצְאֵ֥ל",
+        "phrase": "Jahzeel",
+        "literal": "Jahzeel",
+        "source": "proper name; KJV (Jahzeel), ESV (Jahzeel)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/גוּנִ֖י",
+        "phrase": "and Guni",
+        "literal": "and-Guni",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יֵ֥צֶר",
+        "phrase": "and Jezer",
+        "literal": "and-Jezer",
+        "source": "proper name; KJV (Jezer), ESV (Jezer)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁלֵּֽם",
+        "phrase": "and Shillem",
+        "literal": "and-Shillem",
+        "source": "proper name; KJV (Shillem), ESV (Shillem)"
+      }
+    ]
+  }
+]

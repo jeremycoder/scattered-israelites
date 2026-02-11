@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּבְנֵי",
+        "phrase": "And the sons",
+        "literal": "and-sons",
+        "source": "Conjunction waw + construct plural of בֵּן (ben, son)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשָׂשכָר",
+        "phrase": "of Issachar",
+        "literal": "Issachar",
+        "source": "Proper noun; KJV, ESV, ASV all render as Issachar"
+      },
+      {
+        "position": 3,
+        "surface": "תּוֹלָע",
+        "phrase": "Tola",
+        "literal": "Tola",
+        "source": "Proper noun (personal name); KJV, ESV, ASV render as Tola"
+      },
+      {
+        "position": 4,
+        "surface": "וּפֻוָּה",
+        "phrase": "and Puvah",
+        "literal": "and-Puvah",
+        "source": "Conjunction waw + proper noun; KJV Phuvah, ESV Puvah, ASV Puvah"
+      },
+      {
+        "position": 5,
+        "surface": "וְיוֹב",
+        "phrase": "and Job",
+        "literal": "and-Job",
+        "source": "Conjunction waw + proper noun; KJV Job, ESV Iob, ASV Iob"
+      },
+      {
+        "position": 6,
+        "surface": "וְשִׁמְרוֹן",
+        "phrase": "and Shimron",
+        "literal": "and-Shimron",
+        "source": "Conjunction waw + proper noun; KJV Shimron, ESV Shimron, ASV Shimron"
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֤ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "directional preposition (KJV, ESV)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָי/ו֙",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֲנִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/ע֥וֹד",
+        "phrase": "still",
+        "literal": "the-still",
+        "source": "KJV (yet), ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִ֖/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "חָ֑י",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לֹֽא",
+        "phrase": "but ... not",
+        "literal": "and-not",
+        "source": "conjunctive negation (KJV, ESV)"
+      },
+      {
+        "position": 11,
+        "surface": "יָכְל֤וּ",
+        "phrase": "could",
+        "literal": "they_were_able",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אֶחָי/ו֙",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/עֲנ֣וֹת",
+        "phrase": "answer",
+        "literal": "to_answer",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "him",
+        "literal": "obj-him",
+        "source": "object marker + him (KJV, ESV)"
+      },
+      {
+        "position": 15,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal particle (KJV, ESV)"
+      },
+      {
+        "position": 16,
+        "surface": "נִבְהֲל֖וּ",
+        "phrase": "they were dismayed",
+        "literal": "they_were_dismayed",
+        "source": "KJV (troubled), ESV (dismayed), NASB"
+      },
+      {
+        "position": 17,
+        "surface": "מִ/פָּנָֽי/ו",
+        "phrase": "at his presence",
+        "literal": "from_face-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

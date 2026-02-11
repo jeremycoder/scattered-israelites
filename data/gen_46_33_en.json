@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְהָיָ֕ה",
+        "phrase": "And it shall come to pass",
+        "literal": "and-be.3ms",
+        "source": "KJV, ASV, ESV; vav-consecutive with future sense"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "that-when",
+        "source": "KJV, ASV, ESV; conditional particle"
+      },
+      {
+        "position": 3,
+        "surface": "יִקְרָ֥א",
+        "phrase": "calls",
+        "literal": "call.3ms",
+        "source": "KJV, ASV, ESV; Qal imperfect"
+      },
+      {
+        "position": 4,
+        "surface": "לָכֶ֖ם",
+        "phrase": "you",
+        "literal": "to-you.2mp",
+        "source": "KJV, ASV, ESV; preposition + pronoun"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "KJV, ASV, ESV; proper noun"
+      },
+      {
+        "position": 6,
+        "surface": "וְאָמַ֖ר",
+        "phrase": "and says",
+        "literal": "and-say.3ms",
+        "source": "KJV, ASV, ESV; vav-consecutive with Qal perfect"
+      },
+      {
+        "position": 7,
+        "surface": "מַה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "KJV, ASV, ESV; interrogative pronoun"
+      },
+      {
+        "position": 8,
+        "surface": "מַּעֲשֵׂיכֶֽם",
+        "phrase": "is your occupation",
+        "literal": "occupation.2mp",
+        "source": "KJV, ASV, ESV; construct plural noun + pronoun suffix"
+      }
+    ]
+  }
+]

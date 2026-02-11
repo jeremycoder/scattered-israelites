@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֵ֣ינְ/כֶ֔ם",
+        "phrase": "your eyes",
+        "literal": "and-eye-your_pl",
+        "source": "KJV, ESV, NASB (idiom 'let not your eyes spare')"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "negative particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "תָּחֹ֖ס",
+        "phrase": "regard",
+        "literal": "spare-regret",
+        "source": "from חוס 'spare/pity' (KJV 'regard not', ESV 'concern', NASB 'concern')"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "for",
+        "literal": "upon",
+        "source": "preposition (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "כְּלֵי/כֶ֑ם",
+        "phrase": "your belongings",
+        "literal": "vessels/utensils-your_pl",
+        "source": "KJV 'stuff', ESV 'goods', NASB 'goods'"
+      },
+      {
+        "position": 6,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for-because",
+        "source": "conjunction (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "ט֛וּב",
+        "phrase": "best",
+        "literal": "good",
+        "source": "KJV 'good', ESV/NASB 'best'"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "land",
+        "literal": "land-earth",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לָ/כֶ֥ם",
+        "phrase": "yours",
+        "literal": "to-you_pl",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "הֽוּא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "emphatic pronoun (KJV, ESV, NASB)"
+      }
+    ]
+  }
+]

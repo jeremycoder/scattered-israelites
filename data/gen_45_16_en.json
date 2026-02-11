@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/קֹּ֣ל",
+        "phrase": "the news",
+        "literal": "and-the-voice",
+        "source": "KJV (report), NIV (news), ESV (news)"
+      },
+      {
+        "position": 2,
+        "surface": "נִשְׁמַ֗ע",
+        "phrase": "was heard",
+        "literal": "was-heard",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֤ית",
+        "phrase": "in the house",
+        "literal": "house",
+        "source": "All major translations"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹה֙",
+        "phrase": "of Pharaoh",
+        "literal": "Pharaoh",
+        "source": "All major translations"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "Standard for infinitive construct; ESV, NIV"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ֖אוּ",
+        "phrase": "have come",
+        "literal": "they-have-come",
+        "source": "ESV, NIV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "אֲחֵ֣י",
+        "phrase": "brothers",
+        "literal": "brothers",
+        "source": "All major translations"
+      },
+      {
+        "position": 8,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "of Joseph",
+        "literal": "Joseph",
+        "source": "All major translations"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּיטַב֙",
+        "phrase": "and it was good",
+        "literal": "and-it-was-good",
+        "source": "Literal: NASB; phrase: pleased (ESV, NIV)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/עֵינֵ֣י",
+        "phrase": "in the eyes",
+        "literal": "in-eyes",
+        "source": "Idiom for 'well-pleasing'; all translations"
+      },
+      {
+        "position": 11,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "of Pharaoh",
+        "literal": "Pharaoh",
+        "source": "All major translations"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בְ/עֵינֵ֖י",
+        "phrase": "and in the eyes",
+        "literal": "and-in-eyes",
+        "source": "Idiom continuation; ESV, NIV"
+      },
+      {
+        "position": 13,
+        "surface": "עֲבָדָֽי/ו",
+        "phrase": "of his servants",
+        "literal": "servants-his",
+        "source": "ESV, NIV, NASB"
+      }
+    ]
+  }
+]

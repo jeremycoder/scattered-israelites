@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 45,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 2,
+        "surface": "זֶ֛ה",
+        "phrase": "these",
+        "literal": "this",
+        "source": "ESV, NET, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁנָתַ֥יִם",
+        "phrase": "two years",
+        "literal": "years-two",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רָעָ֖ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/קֶ֣רֶב",
+        "phrase": "in the midst of",
+        "literal": "in-midst",
+        "source": "NET tn, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עוֹד֙",
+        "phrase": "and still",
+        "literal": "and-yet",
+        "source": "ESV, NASB (KJV: 'yet')"
+      },
+      {
+        "position": 8,
+        "surface": "חָמֵ֣שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁנִ֔ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "in which",
+        "literal": "which-rel",
+        "source": "ESV, NASB (relative particle)"
+      },
+      {
+        "position": 11,
+        "surface": "אֵין",
+        "phrase": "there will be no",
+        "literal": "not-is",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "חָרִ֖ישׁ",
+        "phrase": "plowing",
+        "literal": "plowing",
+        "source": "ESV, NASB (KJV: earing)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/קָצִּֽיר",
+        "phrase": "nor harvesting",
+        "literal": "and-harvest",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 46,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and he said",
+        "literal": "and-said",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אָנֹכִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֵ֖ל",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "the God",
+        "literal": "God",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֑י/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "negative particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "תִּירָא֙",
+        "phrase": "be afraid",
+        "literal": "fear",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/רְדָ֣ה",
+        "phrase": "to go down",
+        "literal": "from-descend",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "מִצְרַ֔יְמָ/ה",
+        "phrase": "to Egypt",
+        "literal": "Egypt-ward",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "causal particle; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/ג֥וֹי",
+        "phrase": "into a nation",
+        "literal": "to-nation",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "גָּד֖וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשִֽׂימְ/ךָ֥",
+        "phrase": "I will make you",
+        "literal": "I-will-make-you",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]
