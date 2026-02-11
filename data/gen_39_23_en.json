@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣ין",
+        "phrase": "there was no",
+        "literal": "not-is",
+        "source": "KJV, ESV, NASB (negative existential)"
+      },
+      {
+        "position": 2,
+        "surface": "שַׂ֣ר",
+        "phrase": "keeper",
+        "literal": "head-prince",
+        "source": "KJV ('keeper'), ESV ('keeper'), NASB ('chief jailer')"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּית",
+        "phrase": "of the",
+        "literal": "house",
+        "source": "KJV, ESV, NASB (house/prison)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/סֹּ֗הַר",
+        "phrase": "prison",
+        "literal": "the-prison",
+        "source": "KJV ('prison'), ESV ('prison'), NASB ('prison')"
+      },
+      {
+        "position": 5,
+        "surface": "רֹאֶ֤ה",
+        "phrase": "looking",
+        "literal": "seeing",
+        "source": "KJV ('looked'), ESV ('paid no attention'), NASB ('supervise')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "standard Hebrew particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "anything",
+        "literal": "all",
+        "source": "KJV ('any thing'), ESV ('anything'), NASB ('anything')"
+      },
+      {
+        "position": 8,
+        "surface": "מְא֨וּמָה֙",
+        "phrase": "at all",
+        "literal": "anything",
+        "source": "KJV, ESV, NASB (emphatic negative with אין)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/יָד֔/וֹ",
+        "phrase": "under his hand",
+        "literal": "in-hand-his",
+        "source": "KJV ('under his hand'), ESV ('in Joseph's charge'), NASB ('under Joseph's charge')"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/אֲשֶׁ֥ר",
+        "phrase": "because",
+        "literal": "in-that-which",
+        "source": "KJV ('because'), ESV ('because'), NASB ('because')"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֖ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "אִתּ֑/וֹ",
+        "phrase": "was with him",
+        "literal": "with-him",
+        "source": "KJV ('with him'), ESV ('with him'), NASB ('with him')"
+      },
+      {
+        "position": 13,
+        "surface": "וַֽ/אֲשֶׁר",
+        "phrase": "and whatever",
+        "literal": "and-that-which",
+        "source": "KJV ('and that which'), ESV ('And whatever'), NASB ('whatever')"
+      },
+      {
+        "position": 14,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB (emphatic pronoun)"
+      },
+      {
+        "position": 15,
+        "surface": "עֹשֶׂ֖ה",
+        "phrase": "did",
+        "literal": "doing",
+        "source": "KJV ('he did'), ESV ('he did'), NASB ('he did')"
+      },
+      {
+        "position": 16,
+        "surface": "יְהוָ֥ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 17,
+        "surface": "מַצְלִֽיחַ",
+        "phrase": "made prosper",
+        "literal": "causing-to-prosper",
+        "source": "KJV ('made it to prosper'), ESV ('made it succeed'), NASB ('made to prosper')"
+      }
+    ]
+  }
+]

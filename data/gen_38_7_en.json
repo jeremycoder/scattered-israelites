@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol introducing the event)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵ֚ר",
+        "phrase": "Er",
+        "literal": "Er",
+        "source": "KJV, ESV, NASB (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּכ֣וֹר",
+        "phrase": "firstborn",
+        "literal": "firstborn",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוּדָ֔ה",
+        "phrase": "Judah's",
+        "literal": "Judah",
+        "source": "KJV, ESV, NASB (proper name, genitive context)"
+      },
+      {
+        "position": 5,
+        "surface": "רַ֖ע",
+        "phrase": "wicked",
+        "literal": "evil-bad",
+        "source": "KJV (wicked), ESV/NASB (wicked/evil)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֵינֵ֣י",
+        "phrase": "in the sight of",
+        "literal": "in-eyes-of",
+        "source": "KJV, ESV, NASB (idiomatic 'in the eyes of')"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֑ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB (divine name)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְמִתֵ֖/הוּ",
+        "phrase": "and put him to death",
+        "literal": "and-caused-to-die-him",
+        "source": "KJV (slew him), ESV/NASB (put him to death)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB (divine name)"
+      }
+    ]
+  }
+]

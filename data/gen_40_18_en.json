@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַן",
+        "phrase": "and answered",
+        "literal": "and-he_answered",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּ֔אמֶר",
+        "phrase": "and said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 4,
+        "surface": "זֶ֖ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "פִּתְרֹנ֑/וֹ",
+        "phrase": "its interpretation",
+        "literal": "interpretation-its",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹ֨שֶׁת֙",
+        "phrase": "the three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/סַּלִּ֔ים",
+        "phrase": "baskets",
+        "literal": "the-baskets",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁלֹ֥שֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB, Mechon-Mamre"
+      },
+      {
+        "position": 10,
+        "surface": "הֵֽם",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "ESV (they_are), NASB, note: copula/pronoun"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/דַבְּרָ֥/הּ",
+        "phrase": "as she spoke",
+        "literal": "as-speaking-her",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; all translations"
+      },
+      {
+        "position": 5,
+        "surface": "י֣וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "י֑וֹם",
+        "phrase": "by day",
+        "literal": "day",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹא",
+        "phrase": "that he did not",
+        "literal": "and-not",
+        "source": "conjunction-negation; KJV, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁמַ֥ע",
+        "phrase": "listen",
+        "literal": "hear",
+        "source": "NET tn 'listen to'; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֵלֶ֛י/הָ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/שְׁכַּ֥ב",
+        "phrase": "to lie",
+        "literal": "to-lie",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "אֶצְלָ֖/הּ",
+        "phrase": "beside her",
+        "literal": "at-her-side",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/הְי֥וֹת",
+        "phrase": "to be",
+        "literal": "to-be",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "עִמָּּֽ/הּ",
+        "phrase": "with her",
+        "literal": "with-her",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיִּקַּח",
+        "phrase": "took",
+        "literal": "and-he-took",
+        "source": "KJV, ESV, NASB, NIV; Qal consecutive imperfect 3ms with waw conjunction"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוּדָה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "KJV, ESV, NASB, NIV; proper noun masculine singular"
+      },
+      {
+        "position": 3,
+        "surface": "אִשָּׁה",
+        "phrase": "a wife",
+        "literal": "woman/wife",
+        "source": "KJV, ESV, NASB, NIV; noun feminine singular"
+      },
+      {
+        "position": 4,
+        "surface": "לְעֵר",
+        "phrase": "for Er",
+        "literal": "to-Er",
+        "source": "KJV, ESV, NASB, NIV; preposition lamed with proper noun masculine singular"
+      },
+      {
+        "position": 5,
+        "surface": "בְּכוֹרוֹ",
+        "phrase": "his firstborn",
+        "literal": "firstborn-his",
+        "source": "KJV, ESV, NASB, NIV; noun masculine singular construct with 3ms possessive suffix"
+      },
+      {
+        "position": 6,
+        "surface": "וּשְׁמָהּ",
+        "phrase": "and her name",
+        "literal": "and-name-her",
+        "source": "KJV, ESV, NASB, NIV; waw conjunction with noun masculine singular and 3fs possessive suffix"
+      },
+      {
+        "position": 7,
+        "surface": "תָּמָר",
+        "phrase": "Tamar",
+        "literal": "Tamar",
+        "source": "KJV, ESV, NASB, NIV; proper noun feminine singular; meaning 'palm' per Gill's Notes"
+      }
+    ]
+  }
+]

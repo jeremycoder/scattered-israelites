@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֧א",
+        "phrase": "he came",
+        "literal": "and-he-came",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵי/הֶ֛ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/בֹּ֑קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּ֣רְא",
+        "phrase": "he saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֔/ם",
+        "phrase": "them",
+        "literal": "[direct-object]-them",
+        "source": "KJV, ESV, NASB (object marker)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִנָּ֖/ם",
+        "phrase": "and behold they",
+        "literal": "and-behold-they",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "זֹעֲפִֽים",
+        "phrase": "were troubled",
+        "literal": "troubled-dejected",
+        "source": "ESV (troubled), NASB (dejected), KJV (sad); NET notes 'sick, emaciated'"
+      }
+    ]
+  }
+]

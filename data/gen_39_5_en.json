@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֡י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "KJV, NASB, ESV (narrative wayyiqtol formula)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/אָז֩",
+        "phrase": "from then",
+        "literal": "from-then",
+        "source": "KJV, NASB, ESV (temporal preposition + 'az)"
+      },
+      {
+        "position": 3,
+        "surface": "הִפְקִ֨יד",
+        "phrase": "he appointed",
+        "literal": "he-entrusted/overseer",
+        "source": "paqad: KJV 'made overseer', NASB 'made overseer', ESV 'made overseer'"
+      },
+      {
+        "position": 4,
+        "surface": "אֹת֜/וֹ",
+        "phrase": "him",
+        "literal": "-direct object marker/him",
+        "source": "standard accusative marker + suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/בֵית֗/וֹ",
+        "phrase": "in his house",
+        "literal": "in-house/his",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עַל֙",
+        "phrase": "and over",
+        "literal": "and-upon",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "relative pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "יֶשׁ",
+        "phrase": "there was",
+        "literal": "there is",
+        "source": "existential particle (KJV, NASB, ESV)"
+      },
+      {
+        "position": 10,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to/him",
+        "source": "preposition + suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יְבָ֧רֶךְ",
+        "phrase": "and blessed",
+        "literal": "and-blessed",
+        "source": "wayyiqtol of barak (KJV, NASB, ESV)"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָ֛ה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "proper name of God (KJV, NASB, ESV)"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct object marker",
+        "source": "untranslated marker (ESV, NASB notes)"
+      },
+      {
+        "position": 14,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "bayith (KJV, NASB, ESV)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/מִּצְרִ֖י",
+        "phrase": "of the Egyptian",
+        "literal": "the-Egyptian",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 16,
+        "surface": "בִּ/גְלַ֣ל",
+        "phrase": "because of",
+        "literal": "in-because_of",
+        "source": "KJV 'for sake', NASB 'on account', ESV 'because of'"
+      },
+      {
+        "position": 17,
+        "surface": "יוֹסֵ֑ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name (KJV, NASB, ESV)"
+      },
+      {
+        "position": 18,
+        "surface": "וַ/יְהִ֞י",
+        "phrase": "and was",
+        "literal": "and-was",
+        "source": "wayyiqtol (KJV, NASB, ESV)"
+      },
+      {
+        "position": 19,
+        "surface": "בִּרְכַּ֤ת",
+        "phrase": "blessing",
+        "literal": "blessing",
+        "source": "brakah construct (KJV, NASB, ESV)"
+      },
+      {
+        "position": 20,
+        "surface": "יְהוָה֙",
+        "phrase": "of the LORD",
+        "literal": "of-YHWH",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 21,
+        "surface": "בְּ/כָל",
+        "phrase": "upon all",
+        "literal": "in-upon/all",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 22,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "relative pronoun (KJV, ESV, NASB)"
+      },
+      {
+        "position": 23,
+        "surface": "יֶשׁ",
+        "phrase": "there was",
+        "literal": "there is",
+        "source": "existential (KJV, NASB, ESV)"
+      },
+      {
+        "position": 24,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to/him",
+        "source": "preposition + suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 25,
+        "surface": "בַּ/בַּ֖יִת",
+        "phrase": "in the house",
+        "literal": "in-the-house",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 26,
+        "surface": "וּ/בַ/שָּׂדֶֽה",
+        "phrase": "and in the field",
+        "literal": "and-in-the-field",
+        "source": "KJV, NASB, ESV"
+      }
+    ]
+  }
+]

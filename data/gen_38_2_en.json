@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּרְא",
+        "phrase": "saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁ֧ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB, NIV (adverbial particle)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוּדָ֛ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "KJV, ESV, NASB, NIV (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּת",
+        "phrase": "daughter",
+        "literal": "daughter-of",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֥ישׁ",
+        "phrase": "a certain",
+        "literal": "man",
+        "source": "KJV, ESV, NASB, NIV (idiomatic 'a certain man')"
+      },
+      {
+        "position": 6,
+        "surface": "כְּנַעֲנִ֖י",
+        "phrase": "Canaanite",
+        "literal": "Canaanite",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁמ֣/וֹ",
+        "phrase": "whose name was",
+        "literal": "and-name-his",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 8,
+        "surface": "שׁ֑וּעַ",
+        "phrase": "Shua",
+        "literal": "Shua",
+        "source": "KJV (Shuah), ESV, NASB, NIV (proper name)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּקָּחֶ֖/הָ",
+        "phrase": "he took her",
+        "literal": "and-he-took-her",
+        "source": "KJV, ESV, NASB, NIV (idiomatic 'married')"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יָּבֹ֥א",
+        "phrase": "went in",
+        "literal": "and-he-went-in",
+        "source": "KJV, ESV, NASB, NIV (euphemism for sexual relations)"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלֶֽי/הָ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "KJV, ESV, NASB, NIV (preposition + suffix)"
+      }
+    ]
+  }
+]

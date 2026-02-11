@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְהִי",
+        "phrase": "And it came to pass",
+        "literal": "and-he/it-was",
+        "source": "KJV, NASB, ESV; Qal imperfect with waw-consecutive"
+      },
+      {
+        "position": 2,
+        "surface": "כִּרְאוֹתָהּ",
+        "phrase": "when she saw",
+        "literal": "when-seeing-she",
+        "source": "KJV, ESV, NASB; preposition כִּ + infinitive construct + feminine suffix"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "KJV, ESV, NASB; conjunction introducing the object clause"
+      },
+      {
+        "position": 4,
+        "surface": "עָזַב",
+        "phrase": "he had left",
+        "literal": "he-left",
+        "source": "KJV, ESV, NASB; Qal perfect 3rd masculine singular"
+      },
+      {
+        "position": 5,
+        "surface": "בִּגְדוֹ",
+        "phrase": "his garment",
+        "literal": "garment-his",
+        "source": "KJV, ESV, NASB; noun with masculine singular possessive suffix"
+      },
+      {
+        "position": 6,
+        "surface": "בְּיָדָהּ",
+        "phrase": "in her hand",
+        "literal": "in-hand-her",
+        "source": "KJV, ESV, NASB; preposition בְּ + noun + feminine singular suffix"
+      },
+      {
+        "position": 7,
+        "surface": "וַיָּנָס",
+        "phrase": "and he fled",
+        "literal": "and-he-fled",
+        "source": "KJV, ESV, NASB; Qal imperfect with waw-consecutive"
+      },
+      {
+        "position": 8,
+        "surface": "הַחוּצָה",
+        "phrase": "outside",
+        "literal": "the-outside",
+        "source": "KJV, ESV, NASB; definite article + noun (adverbial usage)"
+      }
+    ]
+  }
+]

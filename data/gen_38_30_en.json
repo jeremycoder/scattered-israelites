@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַחַר֙",
+        "phrase": "And afterward",
+        "literal": "and-afterward",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יָצָ֣א",
+        "phrase": "came out",
+        "literal": "came out",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אָחִ֔י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "relative pronoun; KJV, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "preposition; KJV, ESV"
+      },
+      {
+        "position": 6,
+        "surface": "יָד֖/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שָּׁנִ֑י",
+        "phrase": "the scarlet",
+        "literal": "the-scarlet",
+        "source": "KJV (scarlet thread), ESV (scarlet thread), NASB"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he called",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "זָֽרַח",
+        "phrase": "Zerah",
+        "literal": "Shining One",
+        "source": "proper name; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

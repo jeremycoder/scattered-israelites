@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛ת",
+        "phrase": "but",
+        "literal": "and-direct-object-marker",
+        "source": "KJV, ESV, NASB (accusative marker with conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "שַׂ֥ר",
+        "phrase": "chief",
+        "literal": "chief-prince",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֹפִ֖ים",
+        "phrase": "of the bakers",
+        "literal": "the-bakers",
+        "source": "KJV, ESV, NASB (construct form with article)"
+      },
+      {
+        "position": 4,
+        "surface": "תָּלָ֑ה",
+        "phrase": "he hanged",
+        "literal": "he-hanged",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "just as",
+        "literal": "as-that",
+        "source": "KJV, ESV, NASB (comparative particle)"
+      },
+      {
+        "position": 6,
+        "surface": "פָּתַ֛ר",
+        "phrase": "had interpreted",
+        "literal": "he-interpreted",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "יוֹסֵֽף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

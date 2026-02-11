@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "yet",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB (conjunctive negation)"
+      },
+      {
+        "position": 2,
+        "surface": "זָכַ֧ר",
+        "phrase": "remember",
+        "literal": "remembered",
+        "source": "ESV, NIV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "שַֽׂר",
+        "phrase": "chief",
+        "literal": "chief-prince",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מַּשְׁקִ֛ים",
+        "phrase": "cupbearer",
+        "literal": "the-cupbearer",
+        "source": "ESV, NIV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "standard Hebrew grammar (accusative marker)"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "ESV, NIV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּשְׁכָּחֵֽ/הוּ",
+        "phrase": "but forgot him",
+        "literal": "and-he-forgot-him",
+        "source": "ESV, NASB, KJV (wayyiqtol reiterative)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיְסַפֵּ֧ר",
+        "phrase": "told",
+        "literal": "and-he-told",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "שַֽׂר",
+        "phrase": "chief",
+        "literal": "chief",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "הַמַּשְׁקִ֛ים",
+        "phrase": "cupbearer",
+        "literal": "the-cupbearer",
+        "source": "KJV (butler), ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "Standard Hebrew grammar; untranslated particle"
+      },
+      {
+        "position": 5,
+        "surface": "חֲלֹמוֹ",
+        "phrase": "his dream",
+        "literal": "dream-his",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "לְיוֹסֵ֑ף",
+        "phrase": "to Joseph",
+        "literal": "to-Joseph",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "וַיֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "לוֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 9,
+        "surface": "בַּחֲלוֹמִי",
+        "phrase": "In my dream",
+        "literal": "in-the-dream-my",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "וְהִנֵּה",
+        "phrase": "behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB; NET renders as 'there was'"
+      },
+      {
+        "position": 11,
+        "surface": "גֶפֶן",
+        "phrase": "a vine",
+        "literal": "vine",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "לְפָנַי",
+        "phrase": "before me",
+        "literal": "to-face-my",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And it came about",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol formula)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/עֵ֣ת",
+        "phrase": "at the time",
+        "literal": "in-time",
+        "source": "KJV ('in the time'), ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "לִדְתָּ֑/הּ",
+        "phrase": "of her giving birth",
+        "literal": "to-give-birth-her",
+        "source": "ESV, NASB, KJV ('of her travail/travailing')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "that behold",
+        "literal": "and-behold",
+        "source": "KJV, ESV, NASB (attention particle)"
+      },
+      {
+        "position": 5,
+        "surface": "תְאוֹמִ֖ים",
+        "phrase": "twins",
+        "literal": "twins",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/בִטְנָֽ/הּ",
+        "phrase": "in her womb",
+        "literal": "in-womb-her",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

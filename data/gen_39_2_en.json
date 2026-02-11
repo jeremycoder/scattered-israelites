@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And he was",
+        "literal": "and-was",
+        "source": "wayhi narrative sequential perfect; KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "proper name of God; KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "with-(direct-object-marker)",
+        "source": "preposition 'with'; KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "and he was",
+        "literal": "and-was",
+        "source": "wayhi narrative sequential perfect; KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אִ֣ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "'ish man; KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "מַצְלִ֑יחַ",
+        "phrase": "successful",
+        "literal": "successful-prosperous",
+        "source": "participle of tsalach to prosper; KJV 'prosperous', ESV/NASB 'successful'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "and he was",
+        "literal": "and-was",
+        "source": "wayhi narrative sequential perfect; KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/בֵ֥ית",
+        "phrase": "in the house",
+        "literal": "in-house",
+        "source": "preposition b- + bayit house; KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֲדֹנָ֖י/ו",
+        "phrase": "of his master",
+        "literal": "master-his",
+        "source": "'adown master + suffix 3ms; KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/מִּצְרִֽי",
+        "phrase": "the Egyptian",
+        "literal": "the-Egyptian",
+        "source": "ha- definite article + Mitsri Egyptian; KJV, ESV, NASB"
+      }
+    ]
+  }
+]

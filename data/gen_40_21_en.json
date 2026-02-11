@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֛שֶׁב",
+        "phrase": "and he restored",
+        "literal": "and-he_returned",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "standard Hebrew particle (accusative marker)"
+      },
+      {
+        "position": 3,
+        "surface": "שַׂ֥ר",
+        "phrase": "chief",
+        "literal": "chief/prince",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מַּשְׁקִ֖ים",
+        "phrase": "cupbearer",
+        "literal": "the-cupbearer",
+        "source": "KJV (chief butler), ESV (cupbearer), NASB"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "to",
+        "literal": "upon/to",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מַשְׁקֵ֑/הוּ",
+        "phrase": "his position",
+        "literal": "his-cupbearing",
+        "source": "ESV (cupbearer), NASB (office), NET (cupbearing)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֵּ֥ן",
+        "phrase": "and he gave",
+        "literal": "and-he_gave/placed",
+        "source": "KJV, ESV, NASB, Chabad"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כּ֖וֹס",
+        "phrase": "the cup",
+        "literal": "the-cup",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "into",
+        "literal": "upon/into",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "כַּ֥ף",
+        "phrase": "hand",
+        "literal": "palm/hand",
+        "source": "Chabad (palm), KJV (hand), ESV (hand)"
+      },
+      {
+        "position": 11,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

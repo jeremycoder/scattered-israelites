@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיַּרְא",
+        "phrase": "saw",
+        "literal": "and-he-saw",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "אֲדֹנָיו",
+        "phrase": "his master",
+        "literal": "master-his",
+        "source": "KJV, ESV, NASB, NET; אֲדֹנָי (adown) = lord, master, sovereign"
+      },
+      {
+        "position": 3,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "Causal particle introducing the object clause"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, ESV, NASB, NET; Yhovah (yeh-ho-vaw) = the self-Existent or Eternal"
+      },
+      {
+        "position": 5,
+        "surface": "אִתּוֹ",
+        "phrase": "was with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB, NET; preposition אִת (ith) + pronoun suffix"
+      },
+      {
+        "position": 6,
+        "surface": "וְכֹל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "Relative pronoun introducing the relative clause"
+      },
+      {
+        "position": 8,
+        "surface": "הוא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "KJV, ESV, NASB, NET; independent pronoun"
+      },
+      {
+        "position": 9,
+        "surface": "עֹשֶׂה",
+        "phrase": "did",
+        "literal": "doing",
+        "source": "KJV, ESV, NASB, NET; עָשָׂה (asah) = to do or make"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "Yahweh",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 11,
+        "surface": "מַצְלִיחַ",
+        "phrase": "caused to prosper",
+        "literal": "making-prosper",
+        "source": "KJV, ESV, NASB, NET; צָלַח (tsalach) = to push forward, prosper, succeed"
+      },
+      {
+        "position": 12,
+        "surface": "בְּיָדוֹ",
+        "phrase": "in his hand",
+        "literal": "in-hand-his",
+        "source": "KJV, ESV, NASB, NET; preposition בְּ (be) + יָד (yad) hand + pronoun suffix"
+      }
+    ]
+  }
+]

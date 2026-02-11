@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֨ח",
+        "phrase": "sent",
+        "literal": "and-he-sent",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוּדָ֜ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct-object-marker",
+        "source": "grammatical particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "גְּדִ֣י",
+        "phrase": "young goat",
+        "literal": "kid",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/עִזִּ֗ים",
+        "phrase": "of the goats",
+        "literal": "the-goats",
+        "source": "KJV, NASB, literal translations"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/יַד֙",
+        "phrase": "by the hand of",
+        "literal": "in-hand-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "רֵעֵ֣/הוּ",
+        "phrase": "his friend",
+        "literal": "his-friend",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "הָֽ/עֲדֻלָּמִ֔י",
+        "phrase": "the Adullamite",
+        "literal": "the-Adullamite",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/קַ֥חַת",
+        "phrase": "to take",
+        "literal": "to-take",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עֵרָב֖וֹן",
+        "phrase": "the pledge",
+        "literal": "the-pledge",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/יַּ֣ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand-of",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אִשָּׁ֑ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "מְצָאָֽ/הּ",
+        "phrase": "he found her",
+        "literal": "he-found-her",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

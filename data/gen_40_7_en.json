@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁאַ֞ל",
+        "phrase": "and he asked",
+        "literal": "and-he_asked",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "grammatical particle (ESV, NASB)"
+      },
+      {
+        "position": 3,
+        "surface": "סְרִיסֵ֣י",
+        "phrase": "officers",
+        "literal": "eunuchs",
+        "source": "KJV (officers), ESV (officers), YLT (eunuchs)"
+      },
+      {
+        "position": 4,
+        "surface": "פַרְעֹ֗ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "who",
+        "literal": "which/who",
+        "source": "relative pronoun (ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "אִתּ֧/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/מִשְׁמַ֛ר",
+        "phrase": "in custody",
+        "literal": "in-guard/custody",
+        "source": "KJV (ward), ESV (custody), NASB (confinement)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֥ית",
+        "phrase": "in the house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֲדֹנָ֖י/ו",
+        "phrase": "of his master",
+        "literal": "lords-his",
+        "source": "KJV (lord's), ESV (master's), NASB (master's)"
+      },
+      {
+        "position": 10,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to_say",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "מַדּ֛וּעַ",
+        "phrase": "why",
+        "literal": "why/what",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "פְּנֵי/כֶ֥ם",
+        "phrase": "are your faces",
+        "literal": "faces-your",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "רָעִ֖ים",
+        "phrase": "sad",
+        "literal": "bad/evil",
+        "source": "KJV (sadly), ESV (downcast), NASB (sad)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

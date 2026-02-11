@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַיֵּרַע",
+        "phrase": "and it displeased",
+        "literal": "and-he/it-was.evil",
+        "source": "ESV, NKJV, NIV; Hebrew root רעע (ra'a) meaning 'to be evil/displeasing'"
+      },
+      {
+        "position": 2,
+        "surface": "בְעֵינֵי",
+        "phrase": "in the sight of",
+        "literal": "in-eyes.of",
+        "source": "ESV, NKJV, NIV; idiomatic Hebrew expression for 'in the judgment/view of'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָה",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "ESV, NKJV, NIV; the divine name"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "that/which",
+        "source": "ESV, NKJV, NIV; relative pronoun introducing the object clause"
+      },
+      {
+        "position": 5,
+        "surface": "עָשָׂה",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "ESV, NKJV, NIV; Hebrew root עשׂה (asah) meaning 'to do/make'"
+      },
+      {
+        "position": 6,
+        "surface": "וַיָּמֶת",
+        "phrase": "and he died",
+        "literal": "and-he-died",
+        "source": "ESV, NKJV, NIV; Hebrew root מות (mut) meaning 'to die'; divine passive sense 'and he was put to death'"
+      },
+      {
+        "position": 7,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "ESV, NKJV, NIV; adverb indicating addition/emphasis"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתוֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "ESV, NKJV, NIV; direct object pronoun with את (et) marker"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּ֣קָם",
+        "phrase": "and she arose",
+        "literal": "and-she_arose",
+        "source": "KJV, ESV, NASB, NET[1][2][4]"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/תֵּ֔לֶךְ",
+        "phrase": "and went away",
+        "literal": "and-she_went",
+        "source": "KJV, ESV, NASB, NET[1][2][4]"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תָּ֥סַר",
+        "phrase": "and removed",
+        "literal": "and-she_removed",
+        "source": "ESV, NASB, NET[1][2][4]"
+      },
+      {
+        "position": 4,
+        "surface": "צְעִיפָ֖/הּ",
+        "phrase": "her veil",
+        "literal": "veil-her",
+        "source": "KJV, ESV, NASB (veil, shawl)[1][2][3][4]"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/עָלֶ֑י/הָ",
+        "phrase": "from upon her",
+        "literal": "from-upon-her",
+        "source": "preposition phrase, lit. 'from off her'; KJV, ESV[1][3][4]"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּלְבַּ֖שׁ",
+        "phrase": "and put on",
+        "literal": "and-she_put_on",
+        "source": "KJV, ESV, NASB, NET[1][2][3][4]"
+      },
+      {
+        "position": 7,
+        "surface": "בִּגְדֵ֥י",
+        "phrase": "garments of",
+        "literal": "garments-of",
+        "source": "KJV, ESV, NASB[1][3][4]"
+      },
+      {
+        "position": 8,
+        "surface": "אַלְמְנוּתָֽ/הּ",
+        "phrase": "her widowhood",
+        "literal": "widowhood-her",
+        "source": "KJV, ESV, NASB[1][2][3][4]"
+      }
+    ]
+  }
+]

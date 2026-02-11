@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כ֥וֹס",
+        "phrase": "And Pharaoh's cup",
+        "literal": "and-cup",
+        "source": "KJV, ESV, NASB (waw-consecutive + noun 'cup')"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/יָדִ֑/י",
+        "phrase": "was in my hand",
+        "literal": "in-hand-of.me",
+        "source": "KJV, ESV, NASB (preposition + noun + suffix)"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/אֶקַּ֣ח",
+        "phrase": "and I took",
+        "literal": "and-I.took",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect 1cs)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct.object.marker",
+        "source": "standard particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 6,
+        "surface": "הָֽ/עֲנָבִ֗ים",
+        "phrase": "grapes",
+        "literal": "the-grapes",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וָֽ/אֶשְׂחַ֤ט",
+        "phrase": "and squeezed",
+        "literal": "and-I.squeezed",
+        "source": "KJV (pressed), ESV/NET (squeezed), NASB (pressed); שׂחט = press/squeeze grapes"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ/ם֙",
+        "phrase": "them",
+        "literal": "them-direct.object",
+        "source": "standard particle + suffix (KJV, ESV, NASB)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to/into",
+        "source": "KJV, ESV, NASB (directional preposition)"
+      },
+      {
+        "position": 10,
+        "surface": "כּ֣וֹס",
+        "phrase": "Pharaoh's cup",
+        "literal": "cup",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "וָ/אֶתֵּ֥ן",
+        "phrase": "and I put",
+        "literal": "and-I.gave/put",
+        "source": "KJV, ESV, NASB (waw-consecutive + Qal imperfect 1cs 'give/put')"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct.object.marker",
+        "source": "standard particle (KJV, ESV, NASB)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/כּ֖וֹס",
+        "phrase": "cup",
+        "literal": "the-cup",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 15,
+        "surface": "עַל",
+        "phrase": "into",
+        "literal": "upon/into",
+        "source": "KJV, ESV, NASB (preposition)"
+      },
+      {
+        "position": 16,
+        "surface": "כַּ֥ף",
+        "phrase": "hand",
+        "literal": "palm/hand",
+        "source": "KJV, ESV, NASB (כַּף = palm)"
+      },
+      {
+        "position": 17,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

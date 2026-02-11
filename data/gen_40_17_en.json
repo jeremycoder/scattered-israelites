@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/סַּ֣ל",
+        "phrase": "and in the basket",
+        "literal": "and-in-the-basket",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/עֶלְי֔וֹן",
+        "phrase": "uppermost",
+        "literal": "upper-upper",
+        "source": "KJV ('uppermost'), NASB ('top'), ESV"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/כֹּ֛ל",
+        "phrase": "of all",
+        "literal": "from-all",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 4,
+        "surface": "מַאֲכַ֥ל",
+        "phrase": "food",
+        "literal": "food",
+        "source": "NASB ('baked food'), ESV ('baked food'), KJV ('bakemeats')"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "מַעֲשֵׂ֣ה",
+        "phrase": "kinds",
+        "literal": "work-making",
+        "source": "YLT ('work'), NASB ('baked food')"
+      },
+      {
+        "position": 7,
+        "surface": "אֹפֶ֑ה",
+        "phrase": "baker's",
+        "literal": "baker",
+        "source": "KJV, NASB, ESV"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הָ/ע֗וֹף",
+        "phrase": "and the birds",
+        "literal": "and-the-birds",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "אֹכֵ֥ל",
+        "phrase": "were eating",
+        "literal": "eating",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "direct object marker-them; KJV, ESV"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "preposition; KJV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/סַּ֖ל",
+        "phrase": "the basket",
+        "literal": "the-basket",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "from upon",
+        "literal": "from-upon",
+        "source": "preposition; KJV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "רֹאשִֽׁ/י",
+        "phrase": "my head",
+        "literal": "head-my",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 2,
+        "surface": "גֻנֹּ֣ב",
+        "phrase": "stolen",
+        "literal": "stolen-infinitive-absolute",
+        "source": "ESV, NASB, KJV (emphatic infinitive of גָּנַב)"
+      },
+      {
+        "position": 3,
+        "surface": "גֻּנַּ֔בְתִּי",
+        "phrase": "I was stolen",
+        "literal": "I-was-stolen-Pu'al-perfect-1cs",
+        "source": "KJV, ESV, NASB (passive of steal/kidnap)"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/אֶ֖רֶץ",
+        "phrase": "from the land",
+        "literal": "from-land",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עִבְרִ֑ים",
+        "phrase": "of the Hebrews",
+        "literal": "the-Hebrews",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/גַם",
+        "phrase": "and even",
+        "literal": "and-also",
+        "source": "ESV, NASB, KJV (conjunction + also)"
+      },
+      {
+        "position": 7,
+        "surface": "פֹּה֙",
+        "phrase": "here",
+        "literal": "here",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "KJV, ESV, NASB (negation)"
+      },
+      {
+        "position": 9,
+        "surface": "עָשִׂ֣יתִֽי",
+        "phrase": "I have done",
+        "literal": "I-did-Qal-perfect-1cs",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מְא֔וּמָה",
+        "phrase": "anything",
+        "literal": "anything",
+        "source": "KJV, ESV, NASB (מְאוּמָה from אַיִן, nothing at all)"
+      },
+      {
+        "position": 11,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that-for",
+        "source": "KJV, ESV, NASB (causal particle)"
+      },
+      {
+        "position": 12,
+        "surface": "שָׂמ֥וּ",
+        "phrase": "they have put",
+        "literal": "they-put-Qal-perfect-3mp",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 13,
+        "surface": "אֹתִ֖/י",
+        "phrase": "me",
+        "literal": "obj-marker-me",
+        "source": "KJV, ESV, NASB (direct object marker + 1cs suffix)"
+      },
+      {
+        "position": 14,
+        "surface": "בַּ/בּֽוֹר",
+        "phrase": "into the pit",
+        "literal": "in-the-pit",
+        "source": "KJV, ESV, NASB (בּוֹר = dungeon, cistern)"
+      }
+    ]
+  }
+]

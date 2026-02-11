@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "and it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (narrative wayyiqtol formula)"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/הֲרִימִ֥/י",
+        "phrase": "as I lifted up",
+        "literal": "as-lift-I",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "קוֹלִ֖/י",
+        "phrase": "my voice",
+        "literal": "voice-my",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/אֶקְרָ֑א",
+        "phrase": "and I cried",
+        "literal": "and-I-called",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּעֲזֹ֥ב",
+        "phrase": "that he left",
+        "literal": "and-he-left/abandoned",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "בִּגְד֛/וֹ",
+        "phrase": "his garment",
+        "literal": "garment-his",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 7,
+        "surface": "אֶצְלִ֖/י",
+        "phrase": "beside me",
+        "literal": "at/beside-me",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּ֥נָס",
+        "phrase": "and he fled",
+        "literal": "and-he-fled",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/חֽוּצָ/ה",
+        "phrase": "outside",
+        "literal": "the-outside",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

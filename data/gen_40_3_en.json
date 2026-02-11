@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֨ן",
+        "phrase": "and he put",
+        "literal": "and-he-put",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֜/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "KJV, ESV, NASB (accusative marker + 3mp pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/מִשְׁמַ֗ר",
+        "phrase": "in custody",
+        "literal": "in-ward/prison",
+        "source": "KJV ('ward'), ESV ('custody'), NASB ('confinement')"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֛ית",
+        "phrase": "in the house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "שַׂ֥ר",
+        "phrase": "of the captain",
+        "literal": "chief/prince",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/טַבָּחִ֖ים",
+        "phrase": "of the guard",
+        "literal": "the-butchers/executioners",
+        "source": "KJV ('captain of the guard'), ESV/NASB ('captain of the bodyguard')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "in",
+        "literal": "to/into",
+        "source": "directional preposition; KJV/ESV/NASB ('into')"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֣ית",
+        "phrase": "the prison",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/סֹּ֑הַר",
+        "phrase": "house",
+        "literal": "the-prison",
+        "source": "KJV ('prison'), ESV/NASB ('jail')"
+      },
+      {
+        "position": 10,
+        "surface": "מְק֕וֹם",
+        "phrase": "the place",
+        "literal": "place",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "where",
+        "literal": "which/that",
+        "source": "KJV, ESV, NASB (relative pronoun)"
+      },
+      {
+        "position": 12,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "proper name; KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "אָס֥וּר",
+        "phrase": "was confined",
+        "literal": "bound/prisoner",
+        "source": "KJV ('bound'), NASB ('imprisoned'), ESV ('confined')"
+      },
+      {
+        "position": 14,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַתַּהַר",
+        "phrase": "she conceived",
+        "literal": "and-she.conceived",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 2,
+        "surface": "עוד",
+        "phrase": "again",
+        "literal": "again",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 3,
+        "surface": "וַתֵּלֶד",
+        "phrase": "and bore",
+        "literal": "and-she.bore",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 5,
+        "surface": "וַתִּקְרָא",
+        "phrase": "and she called",
+        "literal": "and-she.called",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct.object.marker",
+        "source": "Grammatical particle; marks definite direct object"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמוֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB, HCSB"
+      },
+      {
+        "position": 8,
+        "surface": "אוֹנָן",
+        "phrase": "Onan",
+        "literal": "Onan",
+        "source": "Proper noun; KJV, ESV, NASB, HCSB"
+      }
+    ]
+  }
+]

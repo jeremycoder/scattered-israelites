@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֤סֶף",
+        "phrase": "and she added",
+        "literal": "and-she_added",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 2,
+        "surface": "עוֹד֙",
+        "phrase": "again",
+        "literal": "still-yet",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "and she bore",
+        "literal": "and-she_bore",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֔ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תִּקְרָ֥א",
+        "phrase": "and she called",
+        "literal": "and-she_called",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "direct_object_marker",
+        "source": "grammatical particle (ESV, NASB)"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 8,
+        "surface": "שֵׁלָ֑ה",
+        "phrase": "Shelah",
+        "literal": "Shelah",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הָיָ֥ה",
+        "phrase": "and he was",
+        "literal": "and-he_was",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 10,
+        "surface": "בִ/כְזִ֖יב",
+        "phrase": "at Chezib",
+        "literal": "in-Chezib",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/לִדְתָּ֥/הּ",
+        "phrase": "when she bore",
+        "literal": "in-bearing-her",
+        "source": "ESV, NASB, KJV"
+      },
+      {
+        "position": 12,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "ESV, NASB, KJV"
+      }
+    ]
+  }
+]

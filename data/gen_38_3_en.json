@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּ֖הַר",
+        "phrase": "and she conceived",
+        "literal": "and-she_conceived",
+        "source": "KJV, ESV, NASB, NIV (Strong's 2029)"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "and she gave birth",
+        "literal": "and-she_bore",
+        "source": "KJV, ESV, NASB, NIV (Strong's 3205)"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֑ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "KJV, ESV, NASB, NIV (Strong's 1121)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NASB, NIV (Strong's 7121; MT masculine, refers to Judah)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative_marker]",
+        "source": "standard Hebrew particle (no translation in English); ESV, NASB notes"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 7,
+        "surface": "עֵֽר",
+        "phrase": "Er",
+        "literal": "Er",
+        "source": "proper name; KJV, ESV, NASB, NIV"
+      }
+    ]
+  }
+]

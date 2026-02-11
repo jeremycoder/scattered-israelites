@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "and it was",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB (wayhi narrative perfect)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "the LORD",
+        "literal": "YHWH",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "direct-object-marker/with",
+        "source": "Particle indicating association (ESV, NASB)"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֵּ֥ט",
+        "phrase": "and extended",
+        "literal": "and-inclined/extended",
+        "source": "KJV (shewed), ESV (showed), NASB (extended)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "חָ֑סֶד",
+        "phrase": "kindness",
+        "literal": "loyalty/kindness/mercy",
+        "source": "KJV (mercy), ESV (steadfast love), NASB (kindness)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּתֵּ֣ן",
+        "phrase": "and gave",
+        "literal": "and-gave",
+        "source": "KJV, ESV, NASB, NIV"
+      },
+      {
+        "position": 9,
+        "surface": "חִנּ֔/וֹ",
+        "phrase": "him favor",
+        "literal": "his-favor/grace",
+        "source": "KJV (favour), ESV (favor), NASB (favor)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/עֵינֵ֖י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "Idiom for 'in the sight of' (KJV, ESV, NASB)"
+      },
+      {
+        "position": 11,
+        "surface": "שַׂ֥ר",
+        "phrase": "the chief",
+        "literal": "chief/prince",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 12,
+        "surface": "בֵּית",
+        "phrase": "of the house",
+        "literal": "house",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/סֹּֽהַר",
+        "phrase": "of the prison",
+        "literal": "the-round-house/prison",
+        "source": "KJV (prison), ESV (keeper of the prison), NASB (chief jailer)"
+      }
+    ]
+  }
+]

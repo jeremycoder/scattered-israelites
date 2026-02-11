@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּמְצָ֨א",
+        "phrase": "and found",
+        "literal": "and-he-found",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֥ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "All translations"
+      },
+      {
+        "position": 3,
+        "surface": "חֵ֛ן",
+        "phrase": "favor",
+        "literal": "favor-grace",
+        "source": "KJV (grace), ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/עֵינָ֖י/ו",
+        "phrase": "in his eyes",
+        "literal": "in-eyes-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְשָׁ֣רֶת",
+        "phrase": "and served",
+        "literal": "and-he-served",
+        "source": "KJV, ESV (attended), NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אֹת֑/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "Object marker + pronoun, all translations"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּפְקִדֵ֨/הוּ֙",
+        "phrase": "and appointed him",
+        "literal": "and-he-made-overseer-him",
+        "source": "ESV (made overseer), KJV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over",
+        "source": "Preposition, KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּית֔/וֹ",
+        "phrase": "his house",
+        "literal": "house-his",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 11,
+        "surface": "יֶשׁ",
+        "phrase": "that",
+        "literal": "that-which-is",
+        "source": "Existential particle, KJV (all that), ESV"
+      },
+      {
+        "position": 12,
+        "surface": "ל֖/וֹ",
+        "phrase": "he had",
+        "literal": "to-him",
+        "source": "Possessive, KJV, ESV"
+      },
+      {
+        "position": 13,
+        "surface": "נָתַ֥ן",
+        "phrase": "he put",
+        "literal": "he-gave",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/יָדֽ/וֹ",
+        "phrase": "into his hand",
+        "literal": "in-hand-his",
+        "source": "KJV, ESV, NASB"
+      }
+    ]
+  }
+]

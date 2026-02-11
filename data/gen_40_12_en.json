@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he_said",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "ל/וֹ֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֔ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "זֶ֖ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "פִּתְרֹנ֑/וֹ",
+        "phrase": "its interpretation",
+        "literal": "interpretation-its",
+        "source": "ESV 'its interpretation', NET 'its meaning', KJV 'the interpretation thereof'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹ֨שֶׁת֙",
+        "phrase": "the three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שָּׂ֣רִגִ֔ים",
+        "phrase": "branches",
+        "literal": "the-branches",
+        "source": "ESV, NASB, NET; Chabad 'tendrils'"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁלֹ֥שֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 9,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "הֵֽם",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "Literal translations (YLT); implied in ESV, NASB"
+      }
+    ]
+  }
+]

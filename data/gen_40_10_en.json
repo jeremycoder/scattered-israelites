@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 40,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/גֶּ֖פֶן",
+        "phrase": "and on the vine",
+        "literal": "and-in-the-vine",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹשָׁ֣ה",
+        "phrase": "three",
+        "literal": "three",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂרִיגִ֑ם",
+        "phrase": "branches",
+        "literal": "branches",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִ֤יא",
+        "phrase": "and it",
+        "literal": "and-she/it",
+        "source": "waw-consecutive + 3fs pronoun; NET, ESV"
+      },
+      {
+        "position": 5,
+        "surface": "כְ/פֹרַ֨חַת֙",
+        "phrase": "as budding",
+        "literal": "as-like-budding",
+        "source": "KJV('as soon as it budded'), NET, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "עָלְתָ֣ה",
+        "phrase": "came out",
+        "literal": "went up/came forth",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "נִצָּ֔/הּ",
+        "phrase": "its blossoms",
+        "literal": "its-blossom",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 8,
+        "surface": "הִבְשִׁ֥ילוּ",
+        "phrase": "ripened",
+        "literal": "they ripened/cooked",
+        "source": "KJV('brought forth'), NET, NASB, ESV"
+      },
+      {
+        "position": 9,
+        "surface": "אַשְׁכְּלֹתֶ֖י/הָ",
+        "phrase": "the clusters of",
+        "literal": "clusters-of-it",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 10,
+        "surface": "עֲנָבִֽים",
+        "phrase": "grapes",
+        "literal": "grapes",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]

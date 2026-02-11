@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 38,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "and it came to pass",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, YLT"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/מֵשִׁ֣יב",
+        "phrase": "as he was drawing back",
+        "literal": "as-drawing_back",
+        "source": "ESV, NIV, NASB, YLT"
+      },
+      {
+        "position": 3,
+        "surface": "יָד֗/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּה֙",
+        "phrase": "and behold",
+        "literal": "and-lo",
+        "source": "KJV, YLT; discourse marker (ESV: omitted)"
+      },
+      {
+        "position": 5,
+        "surface": "יָצָ֣א",
+        "phrase": "came out",
+        "literal": "he_came_out",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 6,
+        "surface": "אָחִ֔י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she_said",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 8,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "interrogative particle (KJV: How, ESV: What, YLT: What)"
+      },
+      {
+        "position": 9,
+        "surface": "פָּרַ֖צְתָּ",
+        "phrase": "have you broken forth",
+        "literal": "you_have_broken_out",
+        "source": "KJV, YLT, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "עָלֶ֣י/ךָ",
+        "phrase": "for yourself",
+        "literal": "upon-you",
+        "source": "ESV, NIV, NASB, YLT"
+      },
+      {
+        "position": 11,
+        "surface": "פָּ֑רֶץ",
+        "phrase": "breach",
+        "literal": "breach",
+        "source": "KJV, NKJV, YLT"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he_called",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 13,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "KJV, ESV, NIV, NASB"
+      },
+      {
+        "position": 14,
+        "surface": "פָּֽרֶץ",
+        "phrase": "Perez",
+        "literal": "Perez",
+        "source": "proper name (KJV: Pharez, ESV/NIV/NASB: Perez)"
+      }
+    ]
+  }
+]

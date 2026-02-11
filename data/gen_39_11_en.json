@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 39,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "and it happened",
+        "literal": "and-was",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/הַ/יּ֣וֹם",
+        "phrase": "about this",
+        "literal": "as-the-day",
+        "source": "KJV ('about this time'), NET ('about this day'), ESV"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "day",
+        "literal": "the-this",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּבֹ֥א",
+        "phrase": "that he went",
+        "literal": "and-he-came",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בַּ֖יְתָ/ה",
+        "phrase": "into the house",
+        "literal": "to-the-house",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/עֲשׂ֣וֹת",
+        "phrase": "to do",
+        "literal": "to-do/make",
+        "source": "ESV, NASB, NET"
+      },
+      {
+        "position": 7,
+        "surface": "מְלַאכְתּ֑/וֹ",
+        "phrase": "his work",
+        "literal": "work-his",
+        "source": "KJV ('business'), NASB, ESV, NET"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֵ֨ין",
+        "phrase": "and there was no",
+        "literal": "and-no/not",
+        "source": "ESV, NASB, Chabad"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֜ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "KJV, ESV, NASB"
+      },
+      {
+        "position": 10,
+        "surface": "מֵ/אַנְשֵׁ֥י",
+        "phrase": "of the men of",
+        "literal": "from-men",
+        "source": "NET, ESV ('men of'), NASB"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/בַּ֛יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "KJV, ESV, NASB, NET"
+      },
+      {
+        "position": 12,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "ESV, NASB, Chabad"
+      },
+      {
+        "position": 13,
+        "surface": "בַּ/בָּֽיִת",
+        "phrase": "in the house",
+        "literal": "in-the-house",
+        "source": "KJV, ESV, NASB, NET"
+      }
+    ]
+  }
+]
