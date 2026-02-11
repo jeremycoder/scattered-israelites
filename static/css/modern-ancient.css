@@ -120,7 +120,7 @@ nav .nav-links a:hover { color: var(--gold-light); }
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--text-secondary);
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
 /* ---- PAGE TITLES ---- */
@@ -340,6 +340,9 @@ h1.page-title {
   letter-spacing: 0.05em;
   color: var(--text-muted);
 }
+details.morphology-details > summary { cursor: pointer; list-style: none; }
+details.morphology-details > summary::before { content: "\25B6\00a0"; font-size: 0.6em; vertical-align: middle; }
+details.morphology-details[open] > summary::before { content: "\25BC\00a0"; }
 
 /* ---- WORD STUDY CARD ---- */
 .word-study-hero {
@@ -382,7 +385,7 @@ h1.page-title {
   white-space: nowrap;
   width: 40%;
 }
-.kv-table td:last-child { color: var(--text-primary); }
+.kv-table td:last-child { color: var(--text-primary); text-align: right; }
 .kv-table tr + tr td { border-top: 1px solid var(--warm-100); }
 
 /* ---- BREADCRUMB / NAV LINKS ---- */
@@ -455,25 +458,37 @@ h1.page-title {
   text-decoration: underline;
 }
 
-/* ---- DEEP DIVE PLACEHOLDER ---- */
-.deep-dive-placeholder {
-  margin-top: 1.5rem;
-  padding: 2rem;
-  text-align: center;
-  border: 2px dashed var(--warm-300);
-  border-radius: 0.75rem;
-  color: var(--text-muted);
+/* ---- NIGER-CONGO COMPARISON CARD ---- */
+.comparison-card .card-header { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+.comparison-arrow { color: var(--terracotta); font-weight: bold; }
+.comparison-word { color: #2e7d32; }
+.comparison-lang { color: #2e7d32; font-size: 0.875rem; }
+
+/* Niger-Congo badge in word study hero */
+.hero-nc-badge {
+  color: #2e7d32;
+  font-style: italic;
 }
-.deep-dive-placeholder .placeholder-title {
-  font-family: "Cinzel", serif;
-  font-weight: 600;
-  font-size: 1.125rem;
-  margin-bottom: 0.5rem;
+.nc-intro {
   color: var(--text-secondary);
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* Comparison indicator badge on word cells */
+.comparison-badge {
+  display: inline-block;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: #2e7d32;
+  line-height: 1;
 }
 
 /* Spacing utility */
-.mb-card { margin-bottom: 1.5rem; }
+.mb-card { margin-bottom: 1.5rem; margin-top: 1.5rem; }
 
 /* ---- ACCESSIBILITY ---- */
 .skip-link {

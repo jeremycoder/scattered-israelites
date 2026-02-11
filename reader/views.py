@@ -1,5 +1,9 @@
+import unicodedata
+
+from django.db import models
 from django.shortcuts import get_object_or_404, render
 
+from comparisons.models import LexicalComparison
 from lexicon.models import Book, HebrewMorphAnalysis, Lexeme, Verse, WordOccurrence
 
 # Torah / Nevi'im / Ketuvim grouping by OSIS ID
@@ -89,9 +93,27 @@ def _get_chapter_context(book, chapter):
     }
 
 
+def _get_comparison_strongs():
+    """Set of Strong's IDs whose Hebrew lemma has an accepted Niger-Congo comparison."""
+    hebrew_words_nfc = {
+        unicodedata.normalize('NFC', w)
+        for w in LexicalComparison.objects.filter(
+            status=LexicalComparison.STATUS_ACCEPTED,
+            is_removed=False,
+        ).values_list('hebrew_word', flat=True)
+    }
+    # Match with NFC normalization to handle differing Unicode forms
+    return {
+        sid for sid, lemma
+        in Lexeme.objects.filter(language='hebrew').values_list('strongs_id', 'lemma')
+        if unicodedata.normalize('NFC', lemma) in hebrew_words_nfc
+    }
+
+
 def chapter_view(request, book_slug, chapter):
     book = get_object_or_404(Book, slug=book_slug)
     ctx = _get_chapter_context(book, chapter)
+    ctx['comparison_strongs'] = _get_comparison_strongs()
     return render(request, 'reader/chapter_view.html', ctx)
 
 
@@ -137,6 +159,7 @@ def verse_view(request, book_slug, chapter, verse_num):
         'glosses': glosses,
         'prev_verse': prev_verse,
         'next_verse': next_verse,
+        'comparison_strongs': _get_comparison_strongs(),
         'meta_description': meta_description[:200],
     })
 
@@ -175,6 +198,18 @@ def word_view(request, book_slug, chapter, verse_num, word_slug):
             transliteration = lexeme.transliteration
         except Lexeme.DoesNotExist:
             pass
+
+    # Niger-Congo comparisons for this word (match via Lexeme's Hebrew lemma)
+    comparisons = []
+    if lexeme:
+        lemma_nfc = unicodedata.normalize('NFC', lexeme.lemma)
+        for comp in LexicalComparison.objects.filter(
+            status=LexicalComparison.STATUS_ACCEPTED,
+            is_removed=False,
+        ).select_related('language'):
+            if comp.lexeme_id == lexeme.pk or \
+               unicodedata.normalize('NFC', comp.hebrew_word) == lemma_nfc:
+                comparisons.append(comp)
 
     # All words in this verse for context display
     verse_words = list(
@@ -215,6 +250,7 @@ def word_view(request, book_slug, chapter, verse_num, word_slug):
         'transliteration': transliteration,
         'lexeme': lexeme,
         'morphemes': morphemes,
+        'comparisons': comparisons,
         'verse_words': verse_words,
         'glosses': glosses,
         'meta_title': meta_title,

@@ -22,6 +22,9 @@
 <!-- Hero card -->
 <div class="word-study-hero">
   <p class="big-hebrew hebrew" dir="rtl">{{ word.surface }}</p>
+  {% if comparisons %}
+  <p class="hero-nc-badge">Niger-Congo</p>
+  {% endif %}
   {% if transliteration %}
   <p class="translit">{{ transliteration }}</p>
   {% endif %}
@@ -29,6 +32,17 @@
   <p class="gloss-large">{{ gloss }}</p>
   {% endif %}
   <p class="location">{{ book.name }} {{ chapter }}:{{ verse_num }} &middot; Word #{{ word.position }}</p>
+</div>
+
+<!-- Lemma & Strong's codes -->
+<div class="card mb-card">
+  <div class="card-body">
+    <table class="kv-table">
+      {% if lexeme %}<tr><td>Lemma</td><td class="hebrew kv-hebrew" dir="rtl">{{ lexeme.lemma }}</td></tr>{% endif %}
+      {% if word.strongs_id %}<tr><td>Strong's</td><td>{{ word.strongs_id }}</td></tr>{% endif %}
+      {% if definition %}<tr><td>Definition</td><td class="kv-small">{{ definition }}</td></tr>{% endif %}
+    </table>
+  </div>
 </div>
 
 <!-- Translation card (HebrewTranslation) -->
@@ -44,72 +58,29 @@
 </div>
 {% endif %}
 
-<!-- Verse in context -->
-<div class="section-divider">
-  <h2>Verse in Context</h2>
-</div>
-<div class="card mb-card">
+<!-- Morphology -->
+{% if analysis %}
+<details class="card mb-card morphology-details">
+  <summary class="card-header">Morphology</summary>
   <div class="card-body">
-    <div class="verse-words">
-      {% for w in verse_words %}
-      {% if w.id == word.id %}
-      <span class="word-cell highlight">
-        <span class="word-surface hebrew">{{ w.surface }}</span>
-        <span class="word-gloss">{{ glosses|dict_get:w.strongs_id }}</span>
-      </span>
-      {% else %}
-      <a href="{% url 'word-view' book.slug chapter verse_num w.slug %}"
-         class="word-cell">
-        <span class="word-surface hebrew">{{ w.surface }}</span>
-        <span class="word-gloss">{{ glosses|dict_get:w.strongs_id }}</span>
-      </a>
-      {% endif %}
-      {% endfor %}
-    </div>
+    <table class="kv-table">
+      <tr><td>Raw Code</td><td class="kv-mono">{{ word.morphology }}</td></tr>
+      <tr><td>Part of Speech</td><td>{{ analysis.part_of_speech }}</td></tr>
+      {% if analysis.subtype %}<tr><td>Subtype</td><td>{{ analysis.subtype }}</td></tr>{% endif %}
+      {% if analysis.binyan %}<tr><td>Binyan</td><td>{{ analysis.binyan }}</td></tr>{% endif %}
+      {% if analysis.conjugation %}<tr><td>Conjugation</td><td>{{ analysis.conjugation }}</td></tr>{% endif %}
+      {% if analysis.person %}<tr><td>Person</td><td>{{ analysis.person }}</td></tr>{% endif %}
+      {% if analysis.gender %}<tr><td>Gender</td><td>{{ analysis.gender }}</td></tr>{% endif %}
+      {% if analysis.number %}<tr><td>Number</td><td>{{ analysis.number }}</td></tr>{% endif %}
+      {% if analysis.state %}<tr><td>State</td><td>{{ analysis.state }}</td></tr>{% endif %}
+      {% if analysis.definiteness %}<tr><td>Definiteness</td><td>{{ analysis.definiteness }}</td></tr>{% endif %}
+      {% if analysis.suffix_person %}<tr><td>Suffix Person</td><td>{{ analysis.suffix_person }}</td></tr>{% endif %}
+      {% if analysis.suffix_gender %}<tr><td>Suffix Gender</td><td>{{ analysis.suffix_gender }}</td></tr>{% endif %}
+      {% if analysis.suffix_number %}<tr><td>Suffix Number</td><td>{{ analysis.suffix_number }}</td></tr>{% endif %}
+    </table>
   </div>
-</div>
-
-<!-- Morphology + Lexicon side-by-side -->
-<div class="section-divider">
-  <h2>Grammar &amp; Lexicon</h2>
-</div>
-<div class="two-col mb-card">
-  {% if analysis %}
-  <div class="card">
-    <div class="card-header">Morphology</div>
-    <div class="card-body">
-      <table class="kv-table">
-        <tr><td>Raw Code</td><td class="kv-mono">{{ word.morphology }}</td></tr>
-        <tr><td>Part of Speech</td><td>{{ analysis.part_of_speech }}</td></tr>
-        {% if analysis.subtype %}<tr><td>Subtype</td><td>{{ analysis.subtype }}</td></tr>{% endif %}
-        {% if analysis.binyan %}<tr><td>Binyan</td><td>{{ analysis.binyan }}</td></tr>{% endif %}
-        {% if analysis.conjugation %}<tr><td>Conjugation</td><td>{{ analysis.conjugation }}</td></tr>{% endif %}
-        {% if analysis.person %}<tr><td>Person</td><td>{{ analysis.person }}</td></tr>{% endif %}
-        {% if analysis.gender %}<tr><td>Gender</td><td>{{ analysis.gender }}</td></tr>{% endif %}
-        {% if analysis.number %}<tr><td>Number</td><td>{{ analysis.number }}</td></tr>{% endif %}
-        {% if analysis.state %}<tr><td>State</td><td>{{ analysis.state }}</td></tr>{% endif %}
-        {% if analysis.definiteness %}<tr><td>Definiteness</td><td>{{ analysis.definiteness }}</td></tr>{% endif %}
-        {% if analysis.suffix_person %}<tr><td>Suffix Person</td><td>{{ analysis.suffix_person }}</td></tr>{% endif %}
-        {% if analysis.suffix_gender %}<tr><td>Suffix Gender</td><td>{{ analysis.suffix_gender }}</td></tr>{% endif %}
-        {% if analysis.suffix_number %}<tr><td>Suffix Number</td><td>{{ analysis.suffix_number }}</td></tr>{% endif %}
-      </table>
-    </div>
-  </div>
-  {% endif %}
-
-  <div class="card">
-    <div class="card-header">Lexicon</div>
-    <div class="card-body">
-      <table class="kv-table">
-        <tr><td>Lemma</td><td class="hebrew kv-hebrew" dir="rtl">{{ word.lemma }}</td></tr>
-        {% if word.strongs_id %}<tr><td>Strong's</td><td>{{ word.strongs_id }}</td></tr>{% endif %}
-        {% if transliteration %}<tr><td>Transliteration</td><td class="kv-italic">{{ transliteration }}</td></tr>{% endif %}
-        {% if gloss %}<tr><td>Gloss</td><td>{{ gloss }}</td></tr>{% endif %}
-        {% if definition %}<tr><td>Definition</td><td class="kv-small">{{ definition }}</td></tr>{% endif %}
-      </table>
-    </div>
-  </div>
-</div>
+</details>
+{% endif %}
 
 <!-- Lexical Info card (HebrewLexicalInfo) -->
 {% if lexical_info %}
@@ -163,11 +134,39 @@
 </div>
 {% endif %}
 
-<!-- Deep Dive placeholder -->
-<div class="deep-dive-placeholder">
-  <p class="placeholder-title">Deep Dive</p>
-  <p>Comprehensive word study coming soon — usage across Scripture, semantic range, and related roots.</p>
+<!-- Niger-Congo Connections -->
+{% if comparisons %}
+<div class="section-divider">
+  <h2 style="color: #2e7d32;">Niger-Congo Hebrew</h2>
 </div>
+<p class="nc-intro">Many Niger-Congo languages preserve ancient Hebrew vocabulary carried by Israelites scattered into Sub-Saharan Africa &mdash; first during the Assyrian conquest of the Northern Kingdom in 721 B.C., and again after the Roman conquest of Judea in A.D.&nbsp;70. These are the Hebrews &ldquo;beyond the rivers of Kush&rdquo; (Zephaniah 3:10).</p>
+{% for comp in comparisons %}
+<div class="card mb-card comparison-card">
+  <div class="card-header">
+    <span class="hebrew" dir="rtl">{{ comp.hebrew_word }}</span>
+    <span class="comparison-arrow">&harr;</span>
+    <span class="comparison-word">{{ comp.nc_word }}</span>
+    <span class="comparison-lang">({{ comp.language }})</span>
+  </div>
+  <div class="card-body">
+    <table class="kv-table">
+      <tr><td>Hebrew meaning</td><td>{{ comp.hebrew_meaning }}</td></tr>
+      <tr><td>{{ comp.language }} meaning</td><td>{{ comp.nc_meaning }}</td></tr>
+      {% if comp.nc_transliteration %}
+      <tr><td>Transliteration</td><td>{{ comp.nc_transliteration }}</td></tr>
+      {% endif %}
+      <tr><td>Category</td><td>{{ comp.get_category_display }}</td></tr>
+      {% if comp.semantic_domain %}
+      <tr><td>Semantic domain</td><td>{{ comp.semantic_domain }}</td></tr>
+      {% endif %}
+      {% if comp.notes %}
+      <tr><td>Notes</td><td>{{ comp.notes }}</td></tr>
+      {% endif %}
+    </table>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
 
 <!-- Back link -->
 <div class="bottom-nav">

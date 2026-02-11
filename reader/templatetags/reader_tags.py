@@ -9,3 +9,9 @@ def dict_get(d, key):
     if d is None:
         return ''
     return d.get(key, '')
+
+
+@register.filter
+def in_set(value, the_set):
+    """Check membership in a set. Usage: {% if word.lemma|in_set:comparison_lemmas %}"""
+    return value in the_set if the_set else False

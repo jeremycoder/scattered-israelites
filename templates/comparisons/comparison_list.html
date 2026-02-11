@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}Niger-Congo Hebrew Comparisons — Scattered Israelites Bible{% endblock %}
+
+{% block meta %}
+<meta name="description" content="Lexical comparisons between Biblical Hebrew and Niger-Congo languages, documenting vocabulary carried by Israelites scattered into Sub-Saharan Africa.">
+{% endblock %}
+
+{% block content %}
+<div class="section-divider">
+  <h2 style="color: #2e7d32;">Niger-Congo Hebrew</h2>
+</div>
+<p class="nc-intro">Many Niger-Congo languages preserve ancient Hebrew vocabulary carried by Israelites scattered into Sub-Saharan Africa &mdash; first during the Assyrian conquest of the Northern Kingdom in 721 B.C., and again after the Roman conquest of Judea in A.D.&nbsp;70. These are the Hebrews &ldquo;beyond the rivers of Kush&rdquo; (Zephaniah 3:10).</p>
+
+{% if page %}
+<table class="detail-table">
+  <thead>
+    <tr>
+      <th>Hebrew</th>
+      <th>Meaning</th>
+      <th>Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for entry in page %}
+    <tr>
+      <td class="col-hebrew">
+        <span class="hebrew" dir="rtl">{{ entry.hebrew_word }}</span>
+        <span class="word-translit">{{ entry.hebrew_transliteration }}</span>
+      </td>
+      <td>{{ entry.hebrew_meaning }}</td>
+      <td>
+        {% for lang in entry.languages %}
+        <a href="{% url 'comparison-detail' entry.slug %}" class="col-link">{{ lang }}</a>{% if not forloop.last %}, {% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No comparisons have been accepted yet.</p>
+{% endif %}
+
+{% if page.has_other_pages %}
+<div class="bottom-nav">
+  {% if page.has_previous %}
+  <a href="?page={{ page.previous_page_number }}" class="nav-link">&larr; Previous</a>
+  {% else %}
+  <span></span>
+  {% endif %}
+  {% if page.has_next %}
+  <a href="?page={{ page.next_page_number }}" class="nav-link">Next &rarr;</a>
+  {% else %}
+  <span></span>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}

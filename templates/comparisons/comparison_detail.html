@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}{{ hebrew_transliteration }} — Niger-Congo Hebrew — Scattered Israelites Bible{% endblock %}
+
+{% block meta %}
+<meta name="description" content="Niger-Congo language connections for the Hebrew word {{ hebrew_word }} ({{ hebrew_transliteration }}), meaning "{{ hebrew_meaning }}".">
+{% endblock %}
+
+{% block content %}
+<nav aria-label="Breadcrumb">
+  <ol class="breadcrumb-trail">
+    <li><a href="{% url 'comparison-list' %}">Niger-Congo</a></li>
+    <li><span class="current">{{ hebrew_transliteration }}</span></li>
+  </ol>
+</nav>
+
+<div class="word-study-hero">
+  <p class="big-hebrew hebrew" dir="rtl">{{ hebrew_word }}</p>
+  <p class="translit">{{ hebrew_transliteration }}</p>
+  <p class="gloss-large">{{ hebrew_meaning }}</p>
+</div>
+
+{% if definition %}
+<p class="kv-small" style="margin-bottom:1.5rem;">{{ definition }}</p>
+{% endif %}
+
+{% for comp in comparisons %}
+<div class="card mb-card comparison-card">
+  <div class="card-header">
+    <span class="hebrew" dir="rtl">{{ comp.hebrew_word }}</span>
+    <span class="comparison-arrow">&harr;</span>
+    <span class="comparison-word">{{ comp.nc_word }}</span>
+    <span class="comparison-lang">({{ comp.language }})</span>
+  </div>
+  <div class="card-body">
+    <table class="kv-table">
+      <tr><td>Hebrew meaning</td><td>{{ comp.hebrew_meaning }}</td></tr>
+      <tr><td>{{ comp.language }} meaning</td><td>{{ comp.nc_meaning }}</td></tr>
+      {% if comp.nc_transliteration %}
+      <tr><td>Transliteration</td><td>{{ comp.nc_transliteration }}</td></tr>
+      {% endif %}
+      <tr><td>Category</td><td>{{ comp.get_category_display }}</td></tr>
+      {% if comp.semantic_domain %}
+      <tr><td>Semantic domain</td><td>{{ comp.semantic_domain }}</td></tr>
+      {% endif %}
+      {% if comp.notes %}
+      <tr><td>Notes</td><td>{{ comp.notes }}</td></tr>
+      {% endif %}
+    </table>
+  </div>
+</div>
+{% endfor %}
+
+<div class="bottom-nav">
+  <a href="{% url 'comparison-list' %}" class="nav-link">&larr; Back to Niger-Congo</a>
+  <span></span>
+</div>
+{% endblock %}

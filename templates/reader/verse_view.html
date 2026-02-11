@@ -40,6 +40,9 @@
       <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
          class="word-cell">
         <span class="word-surface hebrew">{{ word.surface }}</span>
+        {% if word.strongs_id|in_set:comparison_strongs %}
+        <span class="comparison-badge">Niger-Congo</span>
+        {% endif %}
         <span class="word-translit">{{ word.slug }}</span>
         {% for tr in word.translations.all %}
           {% if tr.language_code == "en" %}
@@ -78,6 +81,9 @@
         <td class="col-hebrew">
           <a href="{% url 'word-view' book.slug chapter verse_num word.slug %}"
              class="col-link hebrew" dir="rtl">{{ word.surface }}</a>
+          {% if word.strongs_id|in_set:comparison_strongs %}
+          <span class="comparison-badge">Niger-Congo</span>
+          {% endif %}
           <span class="word-translit" dir="ltr">{{ word.slug }}</span>
         </td>
         <td>{{ glosses|dict_get:word.strongs_id }}</td>
