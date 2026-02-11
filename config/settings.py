@@ -60,6 +60,7 @@ INSTALLED_APPS = [
     'lexicon',
     'api',
     'reader',
+    'comparisons',
 ]
 
 MIDDLEWARE = [
