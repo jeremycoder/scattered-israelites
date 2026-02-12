@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And spoke",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'spake', ESV 'said', NASB 'spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֥ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶֽל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "H413 conj. + prep. 'and to'; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "אַהֲרֹ֖ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 proper name; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; KJV 'saying', ESV (omitted), NASB 'saying'"
+      }
+    ]
+  }
+]

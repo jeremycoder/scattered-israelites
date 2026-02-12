@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְח֞וּ",
+        "phrase": "So they took",
+        "literal": "and-they-took",
+        "source": "H3947 wayyiqtol 3mp Qal of לָקַח 'to take'; KJV 'they took', ESV 'they took', NASB 'they took'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 3,
+        "surface": "פִּ֣יחַ",
+        "phrase": "soot of",
+        "literal": "soot-of",
+        "source": "H6368 n.ms constr. piach 'soot, ashes'; KJV 'ashes', ESV 'soot', NASB 'soot'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כִּבְשָׁ֗ן",
+        "phrase": "the kiln",
+        "literal": "the-kiln",
+        "source": "H3536 art. + n.ms kivshan 'kiln, furnace'; KJV 'the furnace', ESV 'the kiln', NASB 'the kiln'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּֽעַמְדוּ֙",
+        "phrase": "and stood",
+        "literal": "and-they-stood",
+        "source": "H5975 wayyiqtol 3mp Qal of עָמַד 'to stand'; KJV 'and stood', ESV 'and stood', NASB 'and stood'"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 prep. l- + n.mp constr. panim 'face'; KJV 'before', ESV 'before', NASB 'before'"
+      },
+      {
+        "position": 7,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּזְרֹ֥ק",
+        "phrase": "and Moses threw",
+        "literal": "and-he-threw",
+        "source": "H2236 wayyiqtol 3ms Qal of זָרַק 'to throw, scatter'; KJV 'and Moses sprinkled it', ESV 'and Moses threw it', NASB 'and Moses threw it'"
+      },
+      {
+        "position": 9,
+        "surface": "אֹת֛/וֹ",
+        "phrase": "it",
+        "literal": "DOM-it",
+        "source": "H853 direct object marker + 3ms suff.; KJV 'it', ESV 'it', NASB 'it'"
+      },
+      {
+        "position": 10,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/שָּׁמָ֑יְמָ/ה",
+        "phrase": "toward the heavens",
+        "literal": "the-heavens-ward",
+        "source": "H8064 art. + n.mp shamayim 'heavens' + dir. he; KJV 'toward heaven', ESV 'toward heaven', NASB 'toward the sky'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "and it became",
+        "literal": "and-it-was",
+        "source": "H1961 wayyiqtol 3ms Qal of הָיָה 'to be, become'; KJV 'and it became', ESV 'and it caused', NASB 'and it became'"
+      },
+      {
+        "position": 13,
+        "surface": "שְׁחִין֙",
+        "phrase": "boils",
+        "literal": "boils",
+        "source": "H7822 n.ms shechin 'boil, inflamed spot'; KJV 'a boil', ESV 'boils', NASB 'boils'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲבַעְבֻּעֹ֔ת",
+        "phrase": "with blisters",
+        "literal": "blisters",
+        "source": "H76 n.fp ʾavaʿbuʿot 'blisters, boils'; KJV 'blains', ESV 'sores', NASB 'sores'"
+      },
+      {
+        "position": 15,
+        "surface": "פֹּרֵ֕חַ",
+        "phrase": "breaking out",
+        "literal": "sprouting",
+        "source": "H6524 Qal ptc. ms of פָּרַח 'to bud, sprout, break out'; KJV 'breaking forth', ESV 'breaking out', NASB 'breaking out'"
+      },
+      {
+        "position": 16,
+        "surface": "בָּ/אָדָ֖ם",
+        "phrase": "on man",
+        "literal": "on-the-man",
+        "source": "H120 prep. b- + art. + n.ms ʾadam 'man'; KJV 'upon man', ESV 'on man', NASB 'on man'"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/בַ/בְּהֵמָֽה",
+        "phrase": "and on beast",
+        "literal": "and-on-the-animal",
+        "source": "H929 waw + prep. b- + art. + n.fs behemah 'beast, animal'; KJV 'and upon beast', ESV 'and beast', NASB 'and on beast'"
+      }
+    ]
+  }
+]

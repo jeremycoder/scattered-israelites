@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֛י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 conj. ki 'for, because, that'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 conj. ʾim 'if'; KJV 'if', ESV 'if', NASB 'if'"
+      },
+      {
+        "position": 3,
+        "surface": "מָאֵ֥ן",
+        "phrase": "you refuse",
+        "literal": "refusing",
+        "source": "H3986 Piel ptc. ms of מָאֵן 'to refuse'; KJV 'thou refuse', ESV 'you refuse', NASB 'you refuse'"
+      },
+      {
+        "position": 4,
+        "surface": "אַתָּ֖ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 indep. pron. 2ms ʾattah 'you'; KJV 'thou', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/שַׁלֵּ֑חַ",
+        "phrase": "to let [them] go",
+        "literal": "to-send-away",
+        "source": "H7971 prep. l- + Piel inf. constr. of שָׁלַח 'to send'; KJV 'to let them go', ESV 'to let them go', NASB 'to let them go'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עוֹדְ/ךָ֖",
+        "phrase": "and still",
+        "literal": "and-still-you",
+        "source": "H5750 waw + adv. ʿod 'still, yet' + 2ms suff.; KJV 'and wilt hold them still', ESV 'and still hold them', NASB 'and continue to hold'"
+      },
+      {
+        "position": 7,
+        "surface": "מַחֲזִ֥יק",
+        "phrase": "hold",
+        "literal": "holding-fast",
+        "source": "H2388 Hiphil ptc. ms of חָזַק 'to be strong, seize'; KJV 'hold', ESV 'hold', NASB 'hold'"
+      },
+      {
+        "position": 8,
+        "surface": "בָּֽ/ם",
+        "phrase": "them",
+        "literal": "on-them",
+        "source": "prep. b- + 3mp suff.; KJV 'them', ESV 'them', NASB 'them'"
+      }
+    ]
+  }
+]

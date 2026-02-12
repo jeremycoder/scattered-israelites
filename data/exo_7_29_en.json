@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/כָ֥ה",
+        "phrase": "And upon you",
+        "literal": "and-on-you",
+        "source": "conj. + prep. b- + 2ms suff. 'and on you'; KJV 'and upon thee', ESV 'on you', NASB 'on you'"
+      },
+      {
+        "position": 2,
+        "surface": "וּֽ/בְ/עַמְּ/ךָ֖",
+        "phrase": "and upon your people",
+        "literal": "and-on-people-your",
+        "source": "H5971 conj. + prep. b- + n.ms constr. + 2ms suff. עַם 'people'; KJV 'and upon thy people', ESV 'and on your people', NASB 'and on your people'"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בְ/כָל",
+        "phrase": "and upon all",
+        "literal": "and-on-all-of",
+        "source": "H3605 conj. + prep. b- + n.ms constr. כֹּל 'all'; KJV 'and upon all', ESV 'and on all', NASB 'and on all'"
+      },
+      {
+        "position": 4,
+        "surface": "עֲבָדֶ֑י/ךָ",
+        "phrase": "your servants",
+        "literal": "servants-your",
+        "source": "H5650 n.mp constr. + 2ms suff. עֶבֶד 'servant'; KJV 'thy servants', ESV 'your servants', NASB 'your servants'"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲל֖וּ",
+        "phrase": "shall come up",
+        "literal": "they-will-go-up",
+        "source": "H5927 Qal impf. 3mp of עָלָה 'to go up'; KJV 'shall … come up', ESV 'shall come', NASB 'shall come up'"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/צְפַרְדְּעִֽים",
+        "phrase": "the frogs",
+        "literal": "the-frogs",
+        "source": "H6854 art. + n.fp צְפַרְדֵּעַ 'frog'; KJV 'the frogs', ESV 'the frogs', NASB 'the frogs'"
+      }
+    ]
+  }
+]

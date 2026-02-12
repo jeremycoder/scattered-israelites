@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/חִטָּ֥ה",
+        "phrase": "But the wheat",
+        "literal": "and-the-wheat",
+        "source": "H2406 waw + art. + n.fs chittah 'wheat'; KJV 'but the wheat', ESV 'but the wheat', NASB 'but the wheat'"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הַ/כֻּסֶּ֖מֶת",
+        "phrase": "and the spelt",
+        "literal": "and-the-spelt",
+        "source": "H3698 waw + art. + n.fs kussemet 'spelt, emmer'; KJV 'and the rie', ESV 'and the emmer', NASB 'and the spelt'"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "were not",
+        "literal": "not",
+        "source": "H3808 neg. part. loʾ 'not'; KJV 'were not', ESV 'were not', NASB 'were not'"
+      },
+      {
+        "position": 4,
+        "surface": "נֻכּ֑וּ",
+        "phrase": "struck",
+        "literal": "they-were-struck",
+        "source": "H5221 Pual perf. 3cp of נָכָה 'to strike'; KJV 'smitten', ESV 'struck down', NASB 'ruined'"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 conj. ki 'for, because'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲפִילֹ֖ת",
+        "phrase": "they ripen late",
+        "literal": "late-ripening",
+        "source": "H648 adj.fp ʾaphilot 'late, late-ripening'; KJV 'they were not grown up', ESV 'they are late in coming up', NASB 'they ripen late'"
+      },
+      {
+        "position": 7,
+        "surface": "הֵֽנָּה",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "H2007 indep. pron. 3fp hennah 'they'; KJV 'they', ESV 'they', NASB 'they'"
+      }
+    ]
+  }
+]

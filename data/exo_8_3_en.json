@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּֽעֲשׂוּ",
+        "phrase": "And did",
+        "literal": "and-they-did",
+        "source": "H6213 wayyiqtol 3mp Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "כֵ֥ן",
+        "phrase": "likewise",
+        "literal": "so",
+        "source": "H3651 adv. ken 'so, thus'; KJV 'so', ESV 'the same', NASB 'the same'"
+      },
+      {
+        "position": 3,
+        "surface": "הַֽ/חֲרְטֻמִּ֖ים",
+        "phrase": "the magicians",
+        "literal": "the-magicians",
+        "source": "H2748 art. + n.mp chartom 'magician, diviner'; KJV 'the magicians', ESV 'the magicians', NASB 'the magicians'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/לָטֵי/הֶ֑ם",
+        "phrase": "with their secret arts",
+        "literal": "with-secret-arts-their",
+        "source": "H3909 prep. b- + n.mp lat 'secret art, enchantment' + 3mp suff.; KJV 'with their enchantments', ESV 'by their secret arts', NASB 'with their secret arts'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּעֲל֥וּ",
+        "phrase": "and brought up",
+        "literal": "and-they-caused-to-come-up",
+        "source": "H5927 wayyiqtol 3mp Hiphil of עָלָה 'to go up'; KJV 'brought up', ESV 'brought up', NASB 'brought up'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 7,
+        "surface": "הַֽ/צְפַרְדְּעִ֖ים",
+        "phrase": "the frogs",
+        "literal": "the-frogs",
+        "source": "H6854 art. + n.fp tsephardeyaʿ 'frog'; KJV 'frogs', ESV 'frogs', NASB 'frogs'"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 prep. ʿal 'over, upon'; KJV 'upon', ESV 'over', NASB 'over'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs construct ʾerets 'land, earth'; KJV 'the land', ESV 'the land', NASB 'the land'"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name Mitsrayim 'Egypt'; all trans. agree"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שַׂמְתִּ֣י",
+        "phrase": "And I will put",
+        "literal": "and-I-will-set",
+        "source": "H7760 conj. + Qal perf. 1cs of שִׂים 'to put, set'; KJV 'I will put', ESV 'I will put', NASB 'I will put'"
+      },
+      {
+        "position": 2,
+        "surface": "פְדֻ֔ת",
+        "phrase": "a division",
+        "literal": "redemption",
+        "source": "H6304 n.fs pedut 'division, distinction' (or 'redemption'); KJV 'a division', ESV 'redemption', NASB 'a division'"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996 prep. beyn 'between'; KJV 'between', ESV 'between', NASB 'between'"
+      },
+      {
+        "position": 4,
+        "surface": "עַמִּ֖/י",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 n.ms construct ʿam 'people' + 1cs suff.; KJV 'my people', ESV 'my people', NASB 'My people'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "H996 conj. + prep. beyn 'and between'; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 6,
+        "surface": "עַמֶּ֑/ךָ",
+        "phrase": "your people",
+        "literal": "people-your",
+        "source": "H5971 n.ms construct ʿam 'people' + 2ms suff.; KJV 'thy people', ESV 'your people', NASB 'your people'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/מָחָ֥ר",
+        "phrase": "Tomorrow",
+        "literal": "for-tomorrow",
+        "source": "H4279 prep. l- + n.ms machar 'tomorrow'; KJV 'to morrow', ESV 'tomorrow', NASB 'tomorrow'"
+      },
+      {
+        "position": 8,
+        "surface": "יִהְיֶ֖ה",
+        "phrase": "shall be",
+        "literal": "it-will-be",
+        "source": "H1961 Qal impf. 3ms of הָיָה 'to be'; KJV 'shall be', ESV 'shall be', NASB 'will happen'"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֹ֥ת",
+        "phrase": "this sign",
+        "literal": "the-sign",
+        "source": "H226 art. + n.fs ʾot 'sign'; KJV 'this sign', ESV 'this sign', NASB 'this sign'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 art. + dem. pron. zeh 'this'; KJV 'this', ESV 'this', NASB 'this'"
+      }
+    ]
+  }
+]

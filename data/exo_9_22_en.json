@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "Then said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "נְטֵ֤ה",
+        "phrase": "Stretch out",
+        "literal": "stretch-out",
+        "source": "H5186 Qal imv. 2ms of נָטָה 'to stretch out, extend'; KJV 'stretch forth', ESV 'stretch out', NASB 'stretch out'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 7,
+        "surface": "יָֽדְ/ךָ֙",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "H3027 n.fs constr. yad 'hand' + 2ms suff.; KJV 'thine hand', ESV 'your hand', NASB 'your hand'"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "toward",
+        "literal": "over",
+        "source": "H5921 prep. ʿal 'over, upon'; KJV 'toward', ESV 'toward', NASB 'toward'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "H8064 art. + n.mp shamayim 'heavens, sky'; KJV 'heaven', ESV 'the sky', NASB 'the sky'"
+      },
+      {
+        "position": 10,
+        "surface": "וִ/יהִ֥י",
+        "phrase": "that there may be",
+        "literal": "and-let-there-be",
+        "source": "H1961 waw + Qal jussive 3ms of הָיָה 'to be'; KJV 'that there may be', ESV 'that there may be', NASB 'that hail may fall'"
+      },
+      {
+        "position": 11,
+        "surface": "בָרָ֖ד",
+        "phrase": "hail",
+        "literal": "hail",
+        "source": "H1259 n.ms barad 'hail'; KJV 'hail', ESV 'hail', NASB 'hail'"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/כָל",
+        "phrase": "in all",
+        "literal": "in-all-of",
+        "source": "H3605 prep. b- + n.ms constr. kol 'all'; KJV 'in all', ESV 'over all', NASB 'on all'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs constr. ʾerets 'land, earth'; KJV 'the land of', ESV 'the land of', NASB 'the land of'"
+      },
+      {
+        "position": 14,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name Mitsrayim 'Egypt'; all trans. agree"
+      },
+      {
+        "position": 15,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 prep. ʿal 'over, upon'; KJV 'upon', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 16,
+        "surface": "הָ/אָדָ֣ם",
+        "phrase": "man",
+        "literal": "the-man",
+        "source": "H120 art. + n.ms ʾadam 'man'; KJV 'man', ESV 'man', NASB 'man'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/עַל",
+        "phrase": "and on",
+        "literal": "and-on",
+        "source": "H5921 waw + prep. ʿal 'and upon'; KJV 'and upon', ESV 'and', NASB 'and on'"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/בְּהֵמָ֗ה",
+        "phrase": "beast",
+        "literal": "the-animal",
+        "source": "H929 art. + n.fs behemah 'beast, animal'; KJV 'beast', ESV 'beast', NASB 'beast'"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/עַ֛ל",
+        "phrase": "and on",
+        "literal": "and-on",
+        "source": "H5921 waw + prep. ʿal 'and upon'; KJV 'and upon', ESV 'and', NASB 'and on'"
+      },
+      {
+        "position": 20,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-of",
+        "source": "H3605 n.ms constr. kol 'all, every'; KJV 'every', ESV 'every', NASB 'every'"
+      },
+      {
+        "position": 21,
+        "surface": "עֵ֥שֶׂב",
+        "phrase": "plant of",
+        "literal": "herb-of",
+        "source": "H6212 n.ms constr. ʿesev 'herb, plant, grass'; KJV 'herb of', ESV 'plant of', NASB 'plant of'"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/שָּׂדֶ֖ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "H7704 art. + n.ms sadeh 'field'; KJV 'the field', ESV 'the field', NASB 'the field'"
+      },
+      {
+        "position": 23,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land-of",
+        "source": "H776 prep. b- + n.fs constr. ʾerets 'land'; KJV 'in the land of', ESV 'in the land of', NASB 'in the land of'"
+      },
+      {
+        "position": 24,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name Mitsrayim 'Egypt'; all trans. agree"
+      }
+    ]
+  }
+]

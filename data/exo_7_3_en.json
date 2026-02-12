@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲנִ֥י",
+        "phrase": "And I",
+        "literal": "and-I",
+        "source": "H589 conj. + pers. pron. 1cs אֲנִי 'I'; KJV 'and I', ESV 'but I', NASB 'but I'"
+      },
+      {
+        "position": 2,
+        "surface": "אַקְשֶׁ֖ה",
+        "phrase": "will harden",
+        "literal": "I-will-harden",
+        "source": "H7185 Hiphil impf. 1cs of קָשָׁה 'to be hard'; KJV 'will harden', ESV 'will harden', NASB 'will harden'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ֣ב",
+        "phrase": "the heart of",
+        "literal": "heart-of",
+        "source": "H3820 n.ms constr. לֵב 'heart'; KJV 'heart', ESV 'heart', NASB 'heart'"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הִרְבֵּיתִ֧י",
+        "phrase": "and multiply",
+        "literal": "and-I-will-multiply",
+        "source": "H7235 conj. + Hiphil perf. 1cs of רָבָה 'to be many, multiply'; KJV 'and multiply', ESV 'and multiply', NASB 'and multiply'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתֹתַ֛/י",
+        "phrase": "my signs",
+        "literal": "signs-my",
+        "source": "H226 n.fp constr. + 1cs suff. אוֹת 'sign'; KJV 'my signs', ESV 'my signs', NASB 'my signs'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-DOM",
+        "source": "H853 conj. + direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 10,
+        "surface": "מוֹפְתַ֖/י",
+        "phrase": "my wonders",
+        "literal": "wonders-my",
+        "source": "H4159 n.mp constr. + 1cs suff. מוֹפֵת 'wonder, portent'; KJV 'my wonders', ESV 'my wonders', NASB 'my wonders'"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land-of",
+        "source": "H776 prep. b- + n.fs constr. אֶרֶץ 'land'; KJV 'in the land of', ESV 'in the land of', NASB 'in the land of'"
+      },
+      {
+        "position": 12,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name; all trans. agree"
+      }
+    ]
+  }
+]

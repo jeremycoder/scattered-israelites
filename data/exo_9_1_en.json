@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "Then said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "בֹּ֖א",
+        "phrase": "Go",
+        "literal": "go",
+        "source": "H935 Qal imv. 2ms of בּוֹא 'to go, come'; KJV 'go in', ESV 'go in', NASB 'go'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/דִבַּרְתָּ֣",
+        "phrase": "and speak",
+        "literal": "and-you-shall-speak",
+        "source": "H1696 waw + Piel perf. 2ms of דָּבַר 'to speak'; KJV 'and tell', ESV 'and say', NASB 'and speak'"
+      },
+      {
+        "position": 9,
+        "surface": "אֵלָ֗י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 prep. + 3ms suff.; KJV 'unto him', ESV 'to him', NASB 'to him'"
+      },
+      {
+        "position": 10,
+        "surface": "כֹּֽה",
+        "phrase": "Thus",
+        "literal": "thus",
+        "source": "H3541 adv. koh 'thus, so'; KJV 'thus', ESV 'thus', NASB 'thus'"
+      },
+      {
+        "position": 11,
+        "surface": "אָמַ֤ר",
+        "phrase": "says",
+        "literal": "he-said",
+        "source": "H559 Qal perf. 3ms of אָמַר 'to say'; KJV 'saith', ESV 'says', NASB 'says'"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "God of",
+        "literal": "God-of",
+        "source": "H430 n.mp constr. ʾelohim 'God, gods'; KJV 'God of', ESV 'God of', NASB 'God of'"
+      },
+      {
+        "position": 14,
+        "surface": "הָֽ/עִבְרִ֔ים",
+        "phrase": "the Hebrews",
+        "literal": "the-Hebrews",
+        "source": "H5680 art. + gentilic n.mp ʿIvrim 'Hebrews'; KJV 'the Hebrews', ESV 'the Hebrews', NASB 'the Hebrews'"
+      },
+      {
+        "position": 15,
+        "surface": "שַׁלַּ֥ח",
+        "phrase": "Send away",
+        "literal": "send-away",
+        "source": "H7971 Piel imv. 2ms of שָׁלַח 'to send'; KJV 'let … go', ESV 'let … go', NASB 'let … go'"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 17,
+        "surface": "עַמִּ֖/י",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 n.ms constr. ʿam 'people' + 1cs suff.; KJV 'my people', ESV 'my people', NASB 'my people'"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/יַֽעַבְדֻֽ/נִי",
+        "phrase": "that they may serve me",
+        "literal": "and-they-will-serve-me",
+        "source": "H5647 waw + Qal impf. 3mp + 1cs suff. of עָבַד 'to serve'; KJV 'that they may serve me', ESV 'that they may serve me', NASB 'that they may serve me'"
+      }
+    ]
+  }
+]

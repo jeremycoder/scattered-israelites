@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֣א",
+        "phrase": "Then called",
+        "literal": "and-he-called",
+        "source": "H7121 wayyiqtol 3ms Qal of קָרָא 'to call'; KJV 'called', ESV 'called', NASB 'called'"
+      },
+      {
+        "position": 2,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "for",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וּֽ/לְ/אַהֲרֹ֑ן",
+        "phrase": "and for Aaron",
+        "literal": "and-for-Aaron",
+        "source": "H175 conj. + prep. l- + proper name; KJV 'and for Aaron', ESV 'and Aaron', NASB 'and Aaron'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 7,
+        "surface": "לְכ֛וּ",
+        "phrase": "Go",
+        "literal": "go",
+        "source": "H3212 Qal imv. 2mp of יָלַךְ 'to go, walk'; KJV 'go ye', ESV 'go', NASB 'go'"
+      },
+      {
+        "position": 8,
+        "surface": "זִבְח֥וּ",
+        "phrase": "sacrifice",
+        "literal": "sacrifice",
+        "source": "H2076 Qal imv. 2mp of זָבַח 'to sacrifice'; KJV 'sacrifice', ESV 'sacrifice', NASB 'sacrifice'"
+      },
+      {
+        "position": 9,
+        "surface": "לֵֽ/אלֹהֵי/כֶ֖ם",
+        "phrase": "to your God",
+        "literal": "to-God-your",
+        "source": "H430 prep. l- + n.mp construct ʾelohim 'God' + 2mp suff.; KJV 'to your God', ESV 'to your God', NASB 'to your God'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "H776 prep. b- + art. + n.fs ʾerets 'land, earth'; KJV 'in the land', ESV 'within the land', NASB 'within the land'"
+      }
+    ]
+  }
+]

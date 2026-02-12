@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "And not",
+        "literal": "and-not",
+        "source": "H3808 conj. + neg. particle לֹא 'not'; KJV 'but … shall not', ESV 'will not', NASB 'will not'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׁמַ֤ע",
+        "phrase": "will listen",
+        "literal": "he-will-listen",
+        "source": "H8085 Qal impf. 3ms of שָׁמַע 'to hear, listen'; KJV 'shall not hearken', ESV 'will not listen', NASB 'will not listen'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲלֵ/כֶם֙",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "H413 prep. + 2mp suff. 'to you'; KJV 'unto you', ESV 'to you', NASB 'to you'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/נָתַתִּ֥י",
+        "phrase": "then I will lay",
+        "literal": "and-I-will-give",
+        "source": "H5414 conj. + Qal perf. 1cs of נָתַן 'to give, set'; KJV 'and I will lay', ESV 'then I will lay', NASB 'and I will lay'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 7,
+        "surface": "יָדִ֖/י",
+        "phrase": "my hand",
+        "literal": "hand-my",
+        "source": "H3027 n.fs constr. + 1cs suff. יָד 'hand'; KJV 'my hand', ESV 'my hand', NASB 'my hand'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/מִצְרָ֑יִם",
+        "phrase": "on Egypt",
+        "literal": "in-Egypt",
+        "source": "H4714 prep. b- + proper name; KJV 'upon Egypt', ESV 'on Egypt', NASB 'on Egypt'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הוֹצֵאתִ֨י",
+        "phrase": "and bring out",
+        "literal": "and-I-will-bring-out",
+        "source": "H3318 conj. + Hiphil perf. 1cs of יָצָא 'to go out'; KJV 'and bring forth', ESV 'and bring … out', NASB 'and bring … out'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 11,
+        "surface": "צִבְאֹתַ֜/י",
+        "phrase": "my hosts",
+        "literal": "armies-my",
+        "source": "H6635 n.fp constr. + 1cs suff. צָבָא 'host, army'; KJV 'mine armies', ESV 'my hosts', NASB 'my hosts'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 13,
+        "surface": "עַמִּ֤/י",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 n.ms constr. + 1cs suff. עַם 'people'; KJV 'my people', ESV 'my people', NASB 'my people'"
+      },
+      {
+        "position": 14,
+        "surface": "בְנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 n.mp constr. בֵּן 'son'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 15,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name; all trans. agree"
+      },
+      {
+        "position": 16,
+        "surface": "מֵ/אֶ֣רֶץ",
+        "phrase": "from the land of",
+        "literal": "from-land-of",
+        "source": "H776 prep. min + n.fs constr. אֶרֶץ 'land'; KJV 'out of the land of', ESV 'out of the land of', NASB 'from the land of'"
+      },
+      {
+        "position": 17,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name; all trans. agree"
+      },
+      {
+        "position": 18,
+        "surface": "בִּ/שְׁפָטִ֖ים",
+        "phrase": "by great judgments",
+        "literal": "by-judgments",
+        "source": "H8201 prep. b- + n.mp שְׁפָטִים 'judgments'; KJV 'by great judgments', ESV 'by great acts of judgment', NASB 'by great judgments'"
+      },
+      {
+        "position": 19,
+        "surface": "גְּדֹלִֽים",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419 adj.mp גָּדוֹל 'great'; KJV 'great', ESV 'great', NASB 'great'"
+      }
+    ]
+  }
+]

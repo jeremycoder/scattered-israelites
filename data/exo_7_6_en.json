@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And did",
+        "literal": "and-he-did",
+        "source": "H6213 wayyiqtol 3ms Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַהֲרֹ֑ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. + proper name; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "כַּ/אֲשֶׁ֨ר",
+        "phrase": "just as",
+        "literal": "as-which",
+        "source": "H834 prep. k- + rel. pron. אֲשֶׁר 'as, just as'; KJV 'as', ESV 'just as', NASB 'just as'"
+      },
+      {
+        "position": 5,
+        "surface": "צִוָּ֧ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680 Piel perf. 3ms of צָוָה 'to command'; KJV 'commanded', ESV 'commanded', NASB 'commanded'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853 direct object marker + 3mp suff.; KJV 'them', ESV 'them', NASB 'them'"
+      },
+      {
+        "position": 8,
+        "surface": "כֵּ֥ן",
+        "phrase": "so",
+        "literal": "so",
+        "source": "H3651 adv. כֵּן 'so, thus'; KJV 'so', ESV 'so', NASB 'so'"
+      },
+      {
+        "position": 9,
+        "surface": "עָשֽׂוּ",
+        "phrase": "they did",
+        "literal": "they-did",
+        "source": "H6213 Qal perf. 3cp of עָשָׂה 'to do, make'; KJV 'did they', ESV 'they did', NASB 'they did'"
+      }
+    ]
+  }
+]

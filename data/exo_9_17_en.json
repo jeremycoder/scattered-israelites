@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עוֹדְ/ךָ֖",
+        "phrase": "You are still",
+        "literal": "still-you",
+        "source": "H5750 adv. ʿod 'still, yet' + 2ms suff.; KJV 'as yet', ESV 'you are still', NASB 'you still'"
+      },
+      {
+        "position": 2,
+        "surface": "מִסְתּוֹלֵ֣ל",
+        "phrase": "exalting yourself",
+        "literal": "lifting-up-yourself",
+        "source": "H5549 Hithpolel ptc. ms of סָלַל 'to lift up, exalt'; KJV 'exaltest thou thyself', ESV 'exalting yourself', NASB 'exalting yourself'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/עַמִּ֑/י",
+        "phrase": "against my people",
+        "literal": "against-people-my",
+        "source": "H5971 prep. b- + n.ms constr. ʿam 'people' + 1cs suff.; KJV 'against my people', ESV 'against my people', NASB 'against my people'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בִלְתִּ֖י",
+        "phrase": "by not",
+        "literal": "to-not",
+        "source": "H1115 prep. l- + neg. conj. bilti 'not'; KJV 'that thou wilt not', ESV 'and will not', NASB 'not'"
+      },
+      {
+        "position": 5,
+        "surface": "שַׁלְּחָֽ/ם",
+        "phrase": "letting them go",
+        "literal": "sending-them-away",
+        "source": "H7971 Piel inf. constr. + 3mp suff. of שָׁלַח 'to send'; KJV 'let them go', ESV 'let them go', NASB 'letting them go'"
+      }
+    ]
+  }
+]

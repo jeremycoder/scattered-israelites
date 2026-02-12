@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אוּלָ֗ם",
+        "phrase": "But indeed",
+        "literal": "and-but",
+        "source": "H199 waw + adv. ʾulam 'but, however'; KJV 'and in very deed', ESV 'but', NASB 'but, indeed'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/עֲב֥וּר",
+        "phrase": "for this reason",
+        "literal": "for-sake-of",
+        "source": "H5668 prep. b- + n.ms ʿavur 'sake, purpose'; KJV 'for this cause', ESV 'for this purpose', NASB 'for this reason'"
+      },
+      {
+        "position": 3,
+        "surface": "זֹאת֙",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063 dem. pron. fs zoʾt 'this'; KJV 'this', ESV 'this', NASB 'this'"
+      },
+      {
+        "position": 4,
+        "surface": "הֶעֱמַדְתִּ֔י/ךָ",
+        "phrase": "I have raised you up",
+        "literal": "I-caused-you-to-stand",
+        "source": "H5975 Hiphil perf. 1cs + 2ms suff. of עָמַד 'to stand'; KJV 'have I raised thee up', ESV 'I have raised you up', NASB 'I have allowed you to remain'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/עֲב֖וּר",
+        "phrase": "in order to",
+        "literal": "for-sake-of",
+        "source": "H5668 prep. b- + n.ms ʿavur 'sake, purpose'; KJV 'for to', ESV 'to', NASB 'in order to'"
+      },
+      {
+        "position": 6,
+        "surface": "הַרְאֹתְ/ךָ֣",
+        "phrase": "show you",
+        "literal": "cause-you-to-see",
+        "source": "H7200 Hiphil inf. constr. + 2ms suff. of רָאָה 'to see'; KJV 'shew in thee', ESV 'show you', NASB 'demonstrate'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּחִ֑/י",
+        "phrase": "my power",
+        "literal": "power-my",
+        "source": "H3581 n.ms constr. koach 'power, strength' + 1cs suff.; KJV 'my power', ESV 'my power', NASB 'my power'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/לְמַ֛עַן",
+        "phrase": "and in order that",
+        "literal": "and-for-sake-of",
+        "source": "H4616 waw + prep. lemaʿan 'in order that, for the sake of'; KJV 'and that', ESV 'so that', NASB 'and in order that'"
+      },
+      {
+        "position": 10,
+        "surface": "סַפֵּ֥ר",
+        "phrase": "may be proclaimed",
+        "literal": "declaring",
+        "source": "H5608 Piel inf. constr. of סָפַר 'to recount, declare'; KJV 'my name may be declared', ESV 'my name may be proclaimed', NASB 'my name may be proclaimed'"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁמִ֖/י",
+        "phrase": "my name",
+        "literal": "name-my",
+        "source": "H8034 n.ms constr. shem 'name' + 1cs suff.; KJV 'my name', ESV 'my name', NASB 'my name'"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/כָל",
+        "phrase": "in all",
+        "literal": "in-all-of",
+        "source": "H3605 prep. b- + n.ms constr. kol 'all'; KJV 'throughout all', ESV 'in all', NASB 'through all'"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776 art. + n.fs ʾerets 'land, earth'; KJV 'the earth', ESV 'the earth', NASB 'the earth'"
+      }
+    ]
+  }
+]

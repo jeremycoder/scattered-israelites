@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתָּ֖ה",
+        "phrase": "But as for you",
+        "literal": "and-you",
+        "source": "H859 waw + indep. pron. 2ms ʾattah 'you'; KJV 'but as for thee', ESV 'but as for you', NASB 'but as for you'"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/עֲבָדֶ֑י/ךָ",
+        "phrase": "and your servants",
+        "literal": "and-servants-your",
+        "source": "H5650 waw + n.mp constr. ʿeved 'servant' + 2ms suff.; KJV 'and thy servants', ESV 'and your servants', NASB 'and your servants'"
+      },
+      {
+        "position": 3,
+        "surface": "יָדַ֕עְתִּי",
+        "phrase": "I know",
+        "literal": "I-know",
+        "source": "H3045 Qal perf. 1cs of יָדַע 'to know'; KJV 'I know', ESV 'I know', NASB 'I know'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֚י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 conj. ki 'that, for'; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 5,
+        "surface": "טֶ֣רֶם",
+        "phrase": "not yet",
+        "literal": "not-yet",
+        "source": "H2962 adv. terem 'not yet, before'; KJV 'not yet', ESV 'do not yet', NASB 'do not yet'"
+      },
+      {
+        "position": 6,
+        "surface": "תִּֽירְא֔וּ/ן",
+        "phrase": "do you fear",
+        "literal": "you-will-fear",
+        "source": "H3372 Qal impf. 2mp + paragogic nun of יָרֵא 'to fear'; KJV 'ye will fear', ESV 'you fear', NASB 'you fear'"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/פְּנֵ֖י",
+        "phrase": "before",
+        "literal": "from-face-of",
+        "source": "H6440 prep. min + n.mp constr. panim 'face'; KJV 'the LORD', ESV 'the LORD', NASB 'YHWH'"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהִֽים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 n.mp ʾelohim 'God, gods'; KJV 'God', ESV 'God', NASB 'God'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/דָּגָ֧ה",
+        "phrase": "And the fish",
+        "literal": "and-the-fish",
+        "source": "H1710 conj. + art. + n.fs דָּגָה 'fish'; KJV 'and the fish', ESV 'and the fish', NASB 'the fish'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "that is",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'that is', ESV 'in', NASB 'that are in'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יְאֹ֛ר",
+        "phrase": "in the Nile",
+        "literal": "in-the-River",
+        "source": "H2975 prep. b- + art. + n.ms יְאֹר 'Nile, river'; KJV 'in the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 4,
+        "surface": "תָּמ֖וּת",
+        "phrase": "shall die",
+        "literal": "it-will-die",
+        "source": "H4191 Qal impf. 3fs of מוּת 'to die'; KJV 'shall die', ESV 'shall die', NASB 'will die'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בָאַ֣שׁ",
+        "phrase": "and will stink",
+        "literal": "and-it-will-stink",
+        "source": "H887 conj. + Qal perf. 3ms of בָּאַשׁ 'to stink'; KJV 'and the river shall stink', ESV 'and the Nile will stink', NASB 'and the Nile will become foul'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/יְאֹ֑ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/נִלְא֣וּ",
+        "phrase": "and will be weary",
+        "literal": "and-they-will-be-weary",
+        "source": "H3811 conj. + Niphal perf. 3cp of לָאָה 'to be weary, unable'; KJV 'shall lothe', ESV 'will grow weary of', NASB 'will find it difficult'"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 gentilic noun מִצְרִי 'Egyptian'; KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/שְׁתּ֥וֹת",
+        "phrase": "to drink",
+        "literal": "to-drink",
+        "source": "H8354 prep. l- + Qal inf. constr. of שָׁתָה 'to drink'; KJV 'to drink', ESV 'drinking', NASB 'to drink'"
+      },
+      {
+        "position": 10,
+        "surface": "מַ֖יִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "H4325 n.mp מַיִם 'water'; KJV 'water', ESV 'water', NASB 'water'"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 prep. מִן 'from'; KJV 'of', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/יְאֹֽר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      }
+    ]
+  }
+]

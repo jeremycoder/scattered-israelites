@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּֽעֲשׂוּ",
+        "phrase": "And did",
+        "literal": "and-they-did",
+        "source": "H6213 wayyiqtol 3mp Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "כֵן֩",
+        "phrase": "so",
+        "literal": "so",
+        "source": "H3651 adv. כֵּן 'so, thus'; KJV 'so', ESV 'just', NASB 'just'"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֨ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַהֲרֹ֜ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. + proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁ֣ר",
+        "phrase": "just as",
+        "literal": "as-which",
+        "source": "H834 prep. k- + rel. pron. אֲשֶׁר 'as, just as'; KJV 'as', ESV 'as', NASB 'as'"
+      },
+      {
+        "position": 6,
+        "surface": "צִוָּ֣ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680 Piel perf. 3ms of צָוָה 'to command'; KJV 'commanded', ESV 'commanded', NASB 'commanded'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֗ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּ֤רֶם",
+        "phrase": "and he lifted up",
+        "literal": "and-he-raised",
+        "source": "H7311 wayyiqtol 3ms Hiphil of רוּם 'to be high, lift up'; KJV 'and he lifted up', ESV 'he lifted up', NASB 'he lifted up'"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/מַּטֶּה֙",
+        "phrase": "the staff",
+        "literal": "with-the-staff",
+        "source": "H4294 prep. b- + art. + n.ms מַטֶּה 'staff, rod'; KJV 'the rod', ESV 'the staff', NASB 'the staff'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יַּ֤ךְ",
+        "phrase": "and struck",
+        "literal": "and-he-struck",
+        "source": "H5221 wayyiqtol 3ms Hiphil of נָכָה 'to strike'; KJV 'and smote', ESV 'and struck', NASB 'and struck'"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מַּ֨יִם֙",
+        "phrase": "the water",
+        "literal": "the-water",
+        "source": "H4325 art. + n.mp מַיִם 'water'; KJV 'the waters', ESV 'the water', NASB 'the water'"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that was",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'that were', ESV 'that was', NASB 'that was'"
+      },
+      {
+        "position": 14,
+        "surface": "בַּ/יְאֹ֔ר",
+        "phrase": "in the Nile",
+        "literal": "in-the-River",
+        "source": "H2975 prep. b- + art. + n.ms יְאֹר 'Nile, river'; KJV 'in the river', ESV 'in the Nile', NASB 'in the Nile'"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/עֵינֵ֣י",
+        "phrase": "in the sight of",
+        "literal": "to-eyes-of",
+        "source": "H5869 prep. l- + n.fd constr. עַיִן 'eye'; KJV 'in the sight of', ESV 'in the sight of', NASB 'in the sight of'"
+      },
+      {
+        "position": 16,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/לְ/עֵינֵ֖י",
+        "phrase": "and in the sight of",
+        "literal": "and-to-eyes-of",
+        "source": "H5869 conj. + prep. l- + n.fd constr. עַיִן 'eye'; KJV 'and in the sight of', ESV 'and in the sight of', NASB 'and in the sight of'"
+      },
+      {
+        "position": 18,
+        "surface": "עֲבָדָ֑י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 n.mp constr. + 3ms suff. עֶבֶד 'servant'; KJV 'his servants', ESV 'his servants', NASB 'his servants'"
+      },
+      {
+        "position": 19,
+        "surface": "וַ/יֵּהָֽפְכ֛וּ",
+        "phrase": "and were turned",
+        "literal": "and-they-were-turned",
+        "source": "H2015 wayyiqtol 3mp Niphal of הָפַךְ 'to turn, overturn'; KJV 'and all the waters … were turned', ESV 'and all the water … turned', NASB 'and all the water … was turned'"
+      },
+      {
+        "position": 20,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 n.ms constr. כֹּל 'all, every'; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/מַּ֥יִם",
+        "phrase": "the water",
+        "literal": "the-water",
+        "source": "H4325 art. + n.mp מַיִם 'water'; KJV 'the waters', ESV 'the water', NASB 'the water'"
+      },
+      {
+        "position": 22,
+        "surface": "אֲשֶׁר",
+        "phrase": "that was",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'that were', ESV 'that was', NASB 'that was'"
+      },
+      {
+        "position": 23,
+        "surface": "בַּ/יְאֹ֖ר",
+        "phrase": "in the Nile",
+        "literal": "in-the-River",
+        "source": "H2975 prep. b- + art. + n.ms יְאֹר 'Nile, river'; KJV 'in the river', ESV 'in the Nile', NASB 'in the Nile'"
+      },
+      {
+        "position": 24,
+        "surface": "לְ/דָֽם",
+        "phrase": "to blood",
+        "literal": "to-blood",
+        "source": "H1818 prep. l- + n.ms דָּם 'blood'; KJV 'to blood', ESV 'into blood', NASB 'to blood'"
+      }
+    ]
+  }
+]

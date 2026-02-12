@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֣פֶן",
+        "phrase": "And turned",
+        "literal": "and-he-turned",
+        "source": "H6437 wayyiqtol 3ms Qal of פָּנָה 'to turn'; KJV 'turned', ESV 'turned', NASB 'turned'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּבֹ֖א",
+        "phrase": "and went",
+        "literal": "and-he-came",
+        "source": "H935 wayyiqtol 3ms Qal of בּוֹא 'to come, go'; KJV 'and went', ESV 'and went', NASB 'and went'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; KJV 'into', ESV 'into', NASB 'into'"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּית֑/וֹ",
+        "phrase": "his house",
+        "literal": "house-his",
+        "source": "H1004 n.ms constr. + 3ms suff. בַּיִת 'house'; KJV 'his house', ESV 'his house', NASB 'his house'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹא",
+        "phrase": "and did not",
+        "literal": "and-not",
+        "source": "H3808 conj. + neg. particle לֹא 'not'; KJV 'neither did he', ESV 'he did not', NASB 'he did not'"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֥ת",
+        "phrase": "set",
+        "literal": "he-set",
+        "source": "H7896 Qal perf. 3ms of שִׁית 'to set, put'; KJV 'set', ESV 'take even', NASB 'take even'"
+      },
+      {
+        "position": 8,
+        "surface": "לִבּ֖/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "H3820 n.ms constr. + 3ms suff. לֵב 'heart'; KJV 'his heart', ESV 'this to heart', NASB 'this to heart'"
+      },
+      {
+        "position": 9,
+        "surface": "גַּם",
+        "phrase": "even",
+        "literal": "also",
+        "source": "H1571 adv. גַּם 'also, even'; KJV 'neither', ESV 'even', NASB 'even'"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/זֹֽאת",
+        "phrase": "to this",
+        "literal": "to-this",
+        "source": "H2063 prep. l- + dem. pron. fs זֹאת 'this'; KJV 'to this', ESV 'to this', NASB 'to this'"
+      }
+    ]
+  }
+]

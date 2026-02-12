@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּי֩",
+        "phrase": "When",
+        "literal": "when",
+        "source": "H3588 conj. כִּי 'when, if, because'; KJV 'when', ESV 'when', NASB 'when'"
+      },
+      {
+        "position": 2,
+        "surface": "יְדַבֵּ֨ר",
+        "phrase": "speaks",
+        "literal": "he-speaks",
+        "source": "H1696 Piel impf. 3ms of דָּבַר 'to speak'; KJV 'shall speak', ESV 'says', NASB 'speaks'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲלֵ/כֶ֤ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "H413 prep. + 2mp suff. 'to you'; KJV 'unto you', ESV 'to you', NASB 'to you'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; KJV 'saying', ESV (omitted), NASB 'saying'"
+      },
+      {
+        "position": 6,
+        "surface": "תְּנ֥וּ",
+        "phrase": "Show",
+        "literal": "give",
+        "source": "H5414 Qal imv. 2mp of נָתַן 'to give'; KJV 'shew', ESV 'prove', NASB 'work'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "for yourselves",
+        "literal": "for-you(pl)",
+        "source": "prep. l- + 2mp suff. 'for yourselves'; KJV 'for you', ESV 'yourselves', NASB (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹפֵ֑ת",
+        "phrase": "a miracle",
+        "literal": "a-wonder",
+        "source": "H4159 n.ms מוֹפֵת 'wonder, sign, portent'; KJV 'a miracle', ESV 'a miracle', NASB 'a miracle'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אָמַרְתָּ֣",
+        "phrase": "then you shall say",
+        "literal": "and-you-will-say",
+        "source": "H559 conj. + Qal perf. 2ms of אָמַר 'to say'; KJV 'thou shalt say', ESV 'you shall say', NASB 'you shall say'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "אַהֲרֹ֗ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 proper name; all trans. agree"
+      },
+      {
+        "position": 12,
+        "surface": "קַ֧ח",
+        "phrase": "Take",
+        "literal": "take",
+        "source": "H3947 Qal imv. 2ms of לָקַח 'to take'; KJV 'take', ESV 'take', NASB 'take'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 14,
+        "surface": "מַטְּ/ךָ֛",
+        "phrase": "your staff",
+        "literal": "staff-your",
+        "source": "H4294 n.ms constr. + 2ms suff. מַטֶּה 'staff, rod'; KJV 'thy rod', ESV 'your staff', NASB 'your staff'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/הַשְׁלֵ֥ךְ",
+        "phrase": "and cast it",
+        "literal": "and-throw",
+        "source": "H7993 conj. + Hiphil imv. 2ms of שָׁלַךְ 'to throw, cast'; KJV 'and cast it', ESV 'and cast it', NASB 'and throw it'"
+      },
+      {
+        "position": 16,
+        "surface": "לִ/פְנֵֽי",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 prep. l- + n.mp constr. פָּנִים 'face'; KJV 'before', ESV 'before', NASB 'before'"
+      },
+      {
+        "position": 17,
+        "surface": "פַרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 18,
+        "surface": "יְהִ֥י",
+        "phrase": "and it will become",
+        "literal": "it-will-be",
+        "source": "H1961 Qal jussive 3ms of הָיָה 'to be'; KJV 'it shall become', ESV 'let it become', NASB 'it will become'"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/תַנִּֽין",
+        "phrase": "a serpent",
+        "literal": "to-serpent",
+        "source": "H8577 prep. l- + n.ms תַּנִּין 'serpent, dragon'; KJV 'a serpent', ESV 'a serpent', NASB 'a serpent'"
+      }
+    ]
+  }
+]

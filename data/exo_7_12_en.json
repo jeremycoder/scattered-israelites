@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁלִ֨יכוּ֙",
+        "phrase": "For they cast down",
+        "literal": "and-they-threw",
+        "source": "H7993 wayyiqtol 3mp Hiphil of שָׁלַךְ 'to throw, cast'; KJV 'they cast down', ESV 'they each cast down', NASB 'each one threw down'"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֣ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376 n.ms אִישׁ 'man, each'; KJV 'every man', ESV 'each', NASB 'each one'"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֔/הוּ",
+        "phrase": "his staff",
+        "literal": "staff-his",
+        "source": "H4294 n.ms constr. + 3ms suff. מַטֶּה 'staff, rod'; KJV 'his rod', ESV 'his staff', NASB 'his staff'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּהְי֖וּ",
+        "phrase": "and they became",
+        "literal": "and-they-became",
+        "source": "H1961 wayyiqtol 3mp Qal of הָיָה 'to be, become'; KJV 'and they became', ESV 'and they became', NASB 'and they became'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/תַנִּינִ֑ם",
+        "phrase": "serpents",
+        "literal": "to-serpents",
+        "source": "H8577 prep. l- + n.mp תַּנִּין 'serpent, dragon'; KJV 'serpents', ESV 'serpents', NASB 'serpents'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּבְלַ֥ע",
+        "phrase": "but swallowed up",
+        "literal": "and-swallowed",
+        "source": "H1104 wayyiqtol 3ms Qal of בָּלַע 'to swallow'; KJV 'swallowed up', ESV 'swallowed up', NASB 'swallowed up'"
+      },
+      {
+        "position": 7,
+        "surface": "מַטֵּֽה",
+        "phrase": "the staff of",
+        "literal": "staff-of",
+        "source": "H4294 n.ms constr. מַטֶּה 'staff, rod'; KJV 'rod', ESV 'staff', NASB 'staff'"
+      },
+      {
+        "position": 8,
+        "surface": "אַהֲרֹ֖ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 proper name; all trans. agree"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 10,
+        "surface": "מַטֹּתָֽ/ם",
+        "phrase": "their staffs",
+        "literal": "staffs-their",
+        "source": "H4294 n.mp constr. + 3mp suff. מַטֶּה 'staff, rod'; KJV 'their rods', ESV 'their staffs', NASB 'their staffs'"
+      }
+    ]
+  }
+]

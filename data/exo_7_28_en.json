@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁרַ֣ץ",
+        "phrase": "And shall swarm",
+        "literal": "and-will-swarm",
+        "source": "H8317 conj. + Qal perf. 3ms of שָׁרַץ 'to swarm, teem'; KJV 'and the river shall bring forth', ESV 'the Nile shall swarm', NASB 'the Nile will swarm'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יְאֹר֮",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 3,
+        "surface": "צְפַרְדְּעִים֒",
+        "phrase": "with frogs",
+        "literal": "frogs",
+        "source": "H6854 n.fp צְפַרְדֵּעַ 'frog'; KJV 'frogs abundantly', ESV 'with frogs', NASB 'with frogs'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/עָלוּ֙",
+        "phrase": "and they shall come up",
+        "literal": "and-they-will-go-up",
+        "source": "H5927 conj. + Qal perf. 3cp of עָלָה 'to go up'; KJV 'which shall go up and come', ESV 'which shall come up', NASB 'which will come up'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בָ֣אוּ",
+        "phrase": "and enter",
+        "literal": "and-they-will-come",
+        "source": "H935 conj. + Qal perf. 3cp of בּוֹא 'to come, go'; KJV 'and come into', ESV 'and come into', NASB 'and come into'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/בֵיתֶ֔/ךָ",
+        "phrase": "your house",
+        "literal": "in-house-your",
+        "source": "H1004 prep. b- + n.ms constr. + 2ms suff. בַּיִת 'house'; KJV 'into thine house', ESV 'your house', NASB 'your house'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בַ/חֲדַ֥ר",
+        "phrase": "and into the room of",
+        "literal": "and-in-room-of",
+        "source": "H2315 conj. + prep. b- + n.ms constr. חֶדֶר 'room, chamber'; KJV 'and into thy bedchamber', ESV 'and into your bedroom', NASB 'and into your bedroom'"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׁכָּבְ/ךָ֖",
+        "phrase": "your bed",
+        "literal": "lying-down-your",
+        "source": "H4904 n.ms constr. + 2ms suff. מִשְׁכָּב 'bed, couch'; KJV 'thy bedchamber', ESV 'your bedroom', NASB 'your bedroom'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/עַל",
+        "phrase": "and on",
+        "literal": "and-upon",
+        "source": "H5921 conj. + prep. עַל 'and upon'; KJV 'and upon', ESV 'and on', NASB 'and on'"
+      },
+      {
+        "position": 10,
+        "surface": "מִטָּתֶ֑/ךָ",
+        "phrase": "your bed",
+        "literal": "bed-your",
+        "source": "H4296 n.fs constr. + 2ms suff. מִטָּה 'bed, couch'; KJV 'thy bed', ESV 'your bed', NASB 'your bed'"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/בֵ֤ית",
+        "phrase": "and into the house of",
+        "literal": "and-in-house-of",
+        "source": "H1004 conj. + prep. b- + n.ms constr. בַּיִת 'house'; KJV 'and into the house of', ESV 'and into the houses of', NASB 'and into the houses of'"
+      },
+      {
+        "position": 12,
+        "surface": "עֲבָדֶ֨י/ךָ֙",
+        "phrase": "your servants",
+        "literal": "servants-your",
+        "source": "H5650 n.mp constr. + 2ms suff. עֶבֶד 'servant'; KJV 'thy servants', ESV 'your servants', NASB 'your servants'"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בְ/עַמֶּ֔/ךָ",
+        "phrase": "and among your people",
+        "literal": "and-in-people-your",
+        "source": "H5971 conj. + prep. b- + n.ms constr. + 2ms suff. עַם 'people'; KJV 'and upon thy people', ESV 'and among your people', NASB 'and on your people'"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/בְ/תַנּוּרֶ֖י/ךָ",
+        "phrase": "and into your ovens",
+        "literal": "and-in-ovens-your",
+        "source": "H8574 conj. + prep. b- + n.mp constr. + 2ms suff. תַּנּוּר 'oven'; KJV 'and into thine ovens', ESV 'and into your ovens', NASB 'and into your ovens'"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/בְ/מִשְׁאֲרוֹתֶֽי/ךָ",
+        "phrase": "and into your kneading bowls",
+        "literal": "and-in-kneading-troughs-your",
+        "source": "H4863 conj. + prep. b- + n.fp constr. + 2ms suff. מִשְׁאֶרֶת 'kneading trough'; KJV 'and into thy kneadingtroughs', ESV 'and your kneading bowls', NASB 'and into your kneading bowls'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מָחָ֑ר",
+        "phrase": "Tomorrow",
+        "literal": "for-tomorrow",
+        "source": "H4279 prep. l- + n.ms machar 'tomorrow'; KJV 'to morrow', ESV 'tomorrow', NASB 'tomorrow'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ/דְבָ֣רְ/ךָ֔",
+        "phrase": "According to your word",
+        "literal": "according-to-word-your",
+        "source": "H1697 prep. k- + n.ms construct davar 'word' + 2ms suff.; KJV 'according to thy word', ESV 'as you say', NASB 'may it be according to your word'"
+      },
+      {
+        "position": 5,
+        "surface": "לְמַ֣עַן",
+        "phrase": "so that",
+        "literal": "in-order-that",
+        "source": "H4616 prep. lemaʿan 'in order that, for the sake of'; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 6,
+        "surface": "תֵּדַ֔ע",
+        "phrase": "you may know",
+        "literal": "you-will-know",
+        "source": "H3045 Qal impf. 2ms of יָדַע 'to know'; KJV 'thou mayest know', ESV 'you may know', NASB 'you may know'"
+      },
+      {
+        "position": 7,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 conj. ki 'that, because, for'; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 8,
+        "surface": "אֵ֖ין",
+        "phrase": "there is none",
+        "literal": "there-is-not",
+        "source": "H369 particle of negation ʾeyn 'there is not'; KJV 'there is none', ESV 'there is no one', NASB 'there is no one'"
+      },
+      {
+        "position": 9,
+        "surface": "כַּ/יהוָ֥ה",
+        "phrase": "like YHWH",
+        "literal": "like-YHWH",
+        "source": "H3068 prep. k- + divine name; KJV 'like unto the LORD', ESV 'like the LORD', NASB 'like the LORD'"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהֵֽי/נוּ",
+        "phrase": "our God",
+        "literal": "God-of-us",
+        "source": "H430 n.mp construct ʾelohim 'God' + 1cp suff.; KJV 'our God', ESV 'our God', NASB 'our God'"
+      }
+    ]
+  }
+]

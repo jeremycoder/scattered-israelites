@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/יָּרֵא֙",
+        "phrase": "He who feared",
+        "literal": "the-one-fearing",
+        "source": "H3372 art. + Qal ptc. ms of יָרֵא 'to fear'; KJV 'he that feared', ESV 'whoever feared', NASB 'the one among the servants of Pharaoh who feared'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 3,
+        "surface": "דְּבַ֣ר",
+        "phrase": "the word of",
+        "literal": "word-of",
+        "source": "H1697 n.ms constr. davar 'word'; KJV 'the word of', ESV 'the word of', NASB 'the word of'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "מֵֽ/עַבְדֵ֖י",
+        "phrase": "among the servants of",
+        "literal": "from-servants-of",
+        "source": "H5650 prep. min + n.mp constr. ʿeved 'servant'; KJV 'among the servants of', ESV 'among the servants of', NASB 'among the servants of'"
+      },
+      {
+        "position": 6,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "הֵנִ֛יס",
+        "phrase": "made flee",
+        "literal": "caused-to-flee",
+        "source": "H5127 Hiphil perf. 3ms of נוּס 'to flee'; KJV 'made … flee', ESV 'hurried', NASB 'brought'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "עֲבָדָ֥י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 n.mp constr. ʿeved 'servant' + 3ms suff.; KJV 'his servants', ESV 'his slaves', NASB 'his servants'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-DOM",
+        "source": "H853 waw + direct object marker; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 11,
+        "surface": "מִקְנֵ֖/הוּ",
+        "phrase": "his livestock",
+        "literal": "livestock-his",
+        "source": "H4735 n.ms constr. miqneh 'livestock' + 3ms suff.; KJV 'his cattle', ESV 'his livestock', NASB 'his livestock'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; KJV 'into', ESV 'into', NASB 'to'"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/בָּתִּֽים",
+        "phrase": "the houses",
+        "literal": "the-houses",
+        "source": "H1004 art. + n.mp bayit 'house'; KJV 'the houses', ESV 'the houses', NASB 'the houses'"
+      }
+    ]
+  }
+]

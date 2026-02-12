@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אָמַרְתָּ֣",
+        "phrase": "And you shall say",
+        "literal": "and-you-will-say",
+        "source": "H559 conj. + Qal perf. 2ms of אָמַר 'to say'; KJV 'and thou shalt say', ESV 'and you shall say', NASB 'and you shall say'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֗י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 prep. + 3ms suff. 'to him'; KJV 'unto him', ESV 'to him', NASB 'to him'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֞ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 n.mp constr. אֱלֹהִים 'God'; KJV 'the God of', ESV 'the God of', NASB 'the God of'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עִבְרִים֙",
+        "phrase": "the Hebrews",
+        "literal": "the-Hebrews",
+        "source": "H5680 art. + gentilic n.mp עִבְרִי 'Hebrew'; KJV 'the Hebrews', ESV 'the Hebrews', NASB 'the Hebrews'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלָחַ֤/נִי",
+        "phrase": "has sent me",
+        "literal": "he-sent-me",
+        "source": "H7971 Qal perf. 3ms + 1cs suff. of שָׁלַח 'to send'; KJV 'hath sent me', ESV 'sent me', NASB 'sent me'"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלֶ֨י/ךָ֙",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "H413 prep. + 2ms suff. 'to you'; KJV 'unto thee', ESV 'to you', NASB 'to you'"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; KJV 'saying', ESV 'saying', NASB 'saying'"
+      },
+      {
+        "position": 9,
+        "surface": "שַׁלַּח֙",
+        "phrase": "Let go",
+        "literal": "send",
+        "source": "H7971 Piel imv. 2ms of שָׁלַח 'to send, let go'; KJV 'let … go', ESV 'let … go', NASB 'let … go'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 11,
+        "surface": "עַמִּ֔/י",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 n.ms constr. + 1cs suff. עַם 'people'; KJV 'my people', ESV 'my people', NASB 'my people'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/יַֽעַבְדֻ֖/נִי",
+        "phrase": "that they may serve me",
+        "literal": "and-they-will-serve-me",
+        "source": "H5647 conj. + Qal impf. 3mp + 1cs suff. of עָבַד 'to serve'; KJV 'that they may serve me', ESV 'that they may serve me', NASB 'that they may serve me'"
+      },
+      {
+        "position": 13,
+        "surface": "בַּ/מִּדְבָּ֑ר",
+        "phrase": "in the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057 prep. b- + art. + n.ms מִדְבָּר 'wilderness'; KJV 'in the wilderness', ESV 'in the wilderness', NASB 'in the wilderness'"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 conj. + interj. הִנֵּה 'behold'; KJV 'and, behold', ESV 'but', NASB 'but behold'"
+      },
+      {
+        "position": 15,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle לֹא 'not'; KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 16,
+        "surface": "שָׁמַ֖עְתָּ",
+        "phrase": "you have listened",
+        "literal": "you-listened",
+        "source": "H8085 Qal perf. 2ms of שָׁמַע 'to hear, listen'; KJV 'thou wouldest not hear', ESV 'you have not listened', NASB 'you have not listened'"
+      },
+      {
+        "position": 17,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 prep. עַד 'until, as far as'; KJV 'hitherto', ESV 'so far', NASB 'so far'"
+      },
+      {
+        "position": 18,
+        "surface": "כֹּֽה",
+        "phrase": "now",
+        "literal": "thus",
+        "source": "H3541 adv. כֹּה 'thus, here'; KJV 'hitherto', ESV 'so far', NASB 'so far'"
+      }
+    ]
+  }
+]

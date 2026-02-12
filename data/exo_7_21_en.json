@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/דָּגָ֨ה",
+        "phrase": "And the fish",
+        "literal": "and-the-fish",
+        "source": "H1710 conj. + art. + n.fs דָּגָה 'fish'; KJV 'and the fish', ESV 'and the fish', NASB 'the fish'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "that was",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'that was', ESV 'in', NASB 'that were in'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יְאֹ֥ר",
+        "phrase": "in the Nile",
+        "literal": "in-the-River",
+        "source": "H2975 prep. b- + art. + n.ms יְאֹר 'Nile, river'; KJV 'in the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ֨תָה֙",
+        "phrase": "died",
+        "literal": "she-died",
+        "source": "H4191 Qal perf. 3fs of מוּת 'to die'; KJV 'died', ESV 'died', NASB 'died'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּבְאַ֣שׁ",
+        "phrase": "and stank",
+        "literal": "and-it-stank",
+        "source": "H887 wayyiqtol 3ms Qal of בָּאַשׁ 'to stink'; KJV 'and the river stank', ESV 'and the Nile stank', NASB 'and the Nile became foul'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/יְאֹ֔ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 conj. + neg. particle לֹא 'not'; KJV 'could not', ESV 'could not', NASB 'could not'"
+      },
+      {
+        "position": 8,
+        "surface": "יָכְל֣וּ",
+        "phrase": "could",
+        "literal": "they-were-able",
+        "source": "H3201 Qal perf. 3cp of יָכֹל 'to be able'; KJV 'could not', ESV 'could not', NASB 'could not'"
+      },
+      {
+        "position": 9,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 gentilic noun מִצְרִי 'Egyptian'; KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/שְׁתּ֥וֹת",
+        "phrase": "to drink",
+        "literal": "to-drink",
+        "source": "H8354 prep. l- + Qal inf. constr. of שָׁתָה 'to drink'; KJV 'drink of', ESV 'drink', NASB 'drink'"
+      },
+      {
+        "position": 11,
+        "surface": "מַ֖יִם",
+        "phrase": "water",
+        "literal": "water",
+        "source": "H4325 n.mp מַיִם 'water'; KJV 'water', ESV 'water', NASB 'water'"
+      },
+      {
+        "position": 12,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 prep. מִן 'from'; KJV 'of', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/יְאֹ֑ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and was",
+        "literal": "and-it-was",
+        "source": "H1961 wayyiqtol 3ms Qal of הָיָה 'to be'; KJV 'and there was', ESV 'there was', NASB 'and there was'"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/דָּ֖ם",
+        "phrase": "the blood",
+        "literal": "the-blood",
+        "source": "H1818 art. + n.ms דָּם 'blood'; KJV 'blood', ESV 'blood', NASB 'blood'"
+      },
+      {
+        "position": 16,
+        "surface": "בְּ/כָל",
+        "phrase": "throughout all",
+        "literal": "in-all-of",
+        "source": "H3605 prep. b- + n.ms constr. כֹּל 'all'; KJV 'throughout all', ESV 'throughout all', NASB 'through all'"
+      },
+      {
+        "position": 17,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs constr. אֶרֶץ 'land'; KJV 'the land of', ESV 'the land of', NASB 'the land of'"
+      },
+      {
+        "position": 18,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name; all trans. agree"
+      }
+    ]
+  }
+]

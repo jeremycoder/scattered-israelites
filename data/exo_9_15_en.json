@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 conj. ki 'for, because'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 2,
+        "surface": "עַתָּה֙",
+        "phrase": "by now",
+        "literal": "now",
+        "source": "H6258 adv. ʿattah 'now'; KJV 'now', ESV 'by now', NASB 'by now'"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁלַ֣חְתִּי",
+        "phrase": "I could have stretched out",
+        "literal": "I-sent",
+        "source": "H7971 Qal perf. 1cs of שָׁלַח 'to send, stretch out'; KJV 'I will stretch out', ESV 'I could have put forth', NASB 'I could have stretched out'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 5,
+        "surface": "יָדִ֔/י",
+        "phrase": "my hand",
+        "literal": "hand-my",
+        "source": "H3027 n.fs constr. yad 'hand' + 1cs suff.; KJV 'my hand', ESV 'my hand', NASB 'my hand'"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אַ֥ךְ",
+        "phrase": "and struck",
+        "literal": "and-I-struck",
+        "source": "H5221 waw + Hiphil wayyiqtol 1cs of נָכָה 'to strike'; KJV 'and smitten', ESV 'and struck', NASB 'and struck'"
+      },
+      {
+        "position": 7,
+        "surface": "אוֹתְ/ךָ֛",
+        "phrase": "you",
+        "literal": "DOM-you",
+        "source": "H853 direct object marker + 2ms suff.; KJV 'thee', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and",
+        "literal": "and-DOM",
+        "source": "H853 waw + direct object marker; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 9,
+        "surface": "עַמְּ/ךָ֖",
+        "phrase": "your people",
+        "literal": "people-your",
+        "source": "H5971 n.ms constr. ʿam 'people' + 2ms suff.; KJV 'thy people', ESV 'your people', NASB 'your people'"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/דָּ֑בֶר",
+        "phrase": "with pestilence",
+        "literal": "with-the-pestilence",
+        "source": "H1698 prep. b- + art. + n.ms dever 'pestilence'; KJV 'with pestilence', ESV 'with pestilence', NASB 'with pestilence'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תִּכָּחֵ֖ד",
+        "phrase": "and you would have been cut off",
+        "literal": "and-you-would-be-destroyed",
+        "source": "H3582 waw + Niphal wayyiqtol 2ms of כָּחַד 'to be hidden, destroyed'; KJV 'and thou shalt be cut off', ESV 'and you would have been cut off', NASB 'and you would have been cut off'"
+      },
+      {
+        "position": 12,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 prep. min 'from'; KJV 'from', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776 art. + n.fs ʾerets 'land, earth'; KJV 'the earth', ESV 'the earth', NASB 'the earth'"
+      }
+    ]
+  }
+]

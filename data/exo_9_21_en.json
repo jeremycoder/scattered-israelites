@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲשֶׁ֥ר",
+        "phrase": "But he who",
+        "literal": "and-who",
+        "source": "H834 waw + rel. pron. ʾasher 'who, which'; KJV 'and he that', ESV 'but whoever', NASB 'but he who'"
+      },
+      {
+        "position": 2,
+        "surface": "לֹא",
+        "phrase": "did not",
+        "literal": "not",
+        "source": "H3808 neg. part. loʾ 'not'; KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂ֛ם",
+        "phrase": "set",
+        "literal": "he-set",
+        "source": "H7760 Qal perf. 3ms of שִׂים 'to set, put'; KJV 'regarded', ESV 'pay attention', NASB 'paid regard'"
+      },
+      {
+        "position": 4,
+        "surface": "לִבּ֖/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "H3820 n.ms constr. lev 'heart' + 3ms suff.; KJV 'his heart', ESV 'his heart', NASB 'his heart'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 6,
+        "surface": "דְּבַ֣ר",
+        "phrase": "the word of",
+        "literal": "word-of",
+        "source": "H1697 n.ms constr. davar 'word'; KJV 'the word of', ESV 'the word of', NASB 'the word of'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יַּעֲזֹ֛ב",
+        "phrase": "left",
+        "literal": "and-he-left",
+        "source": "H5800 wayyiqtol 3ms Qal of עָזַב 'to leave, forsake'; KJV 'left', ESV 'left', NASB 'left'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 10,
+        "surface": "עֲבָדָ֥י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 n.mp constr. ʿeved 'servant' + 3ms suff.; KJV 'his servants', ESV 'his slaves', NASB 'his servants'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-DOM",
+        "source": "H853 waw + direct object marker; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 12,
+        "surface": "מִקְנֵ֖/הוּ",
+        "phrase": "his livestock",
+        "literal": "livestock-his",
+        "source": "H4735 n.ms constr. miqneh 'livestock' + 3ms suff.; KJV 'his cattle', ESV 'his livestock', NASB 'his livestock'"
+      },
+      {
+        "position": 13,
+        "surface": "בַּ/שָּׂדֶֽה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704 prep. b- + art. + n.ms sadeh 'field'; KJV 'in the field', ESV 'in the field', NASB 'in the field'"
+      }
+    ]
+  }
+]

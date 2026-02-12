@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֵ֣ךְ",
+        "phrase": "Go",
+        "literal": "go",
+        "source": "H3212 Qal imv. 2ms of הָלַךְ 'to go, walk'; KJV 'get thee', ESV 'go', NASB 'go'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "פַּרְעֹ֞ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/בֹּ֗קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 prep. b- + art. + n.ms בֹּקֶר 'morning'; KJV 'in the morning', ESV 'in the morning', NASB 'in the morning'"
+      },
+      {
+        "position": 5,
+        "surface": "הִנֵּה֙",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 interj. הִנֵּה 'behold, look'; KJV 'lo', ESV 'behold', NASB 'behold'"
+      },
+      {
+        "position": 6,
+        "surface": "יֹצֵ֣א",
+        "phrase": "he is going out",
+        "literal": "going-out",
+        "source": "H3318 Qal ptc. ms of יָצָא 'to go out'; KJV 'he goeth out', ESV 'he is going out', NASB 'he is going out'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מַּ֔יְמָ/ה",
+        "phrase": "to the water",
+        "literal": "the-water-ward",
+        "source": "H4325 art. + n.mp מַיִם 'water' + dir. he; KJV 'unto the water', ESV 'to the water', NASB 'to the water'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נִצַּבְתָּ֥",
+        "phrase": "and you shall stand",
+        "literal": "and-you-will-station-yourself",
+        "source": "H5324 conj. + Niphal perf. 2ms of נָצַב 'to stand, take one's stand'; KJV 'and thou shalt stand', ESV 'and wait', NASB 'and station yourself'"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/קְרָאת֖/וֹ",
+        "phrase": "to meet him",
+        "literal": "to-meet-him",
+        "source": "H7125 prep. l- + Qal inf. constr. + 3ms suff. of קָרָא 'to meet'; KJV 'to meet him', ESV 'to meet him', NASB 'to meet him'"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 prep. עַל 'upon, on, by'; KJV 'by', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 11,
+        "surface": "שְׂפַ֣ת",
+        "phrase": "the bank of",
+        "literal": "lip-of",
+        "source": "H8193 n.fs constr. שָׂפָה 'lip, bank, edge'; KJV 'the brink of', ESV 'the bank of', NASB 'the bank of'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/יְאֹ֑ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הַ/מַּטֶּ֛ה",
+        "phrase": "and the staff",
+        "literal": "and-the-staff",
+        "source": "H4294 conj. + art. + n.ms מַטֶּה 'staff, rod'; KJV 'and the rod', ESV 'and the staff', NASB 'and the staff'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'which', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 15,
+        "surface": "נֶהְפַּ֥ךְ",
+        "phrase": "was turned",
+        "literal": "was-turned",
+        "source": "H2015 Niphal perf. 3ms of הָפַךְ 'to turn, overturn'; KJV 'was turned to', ESV 'was turned into', NASB 'was turned into'"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/נָחָ֖שׁ",
+        "phrase": "into a serpent",
+        "literal": "to-serpent",
+        "source": "H5175 prep. l- + n.ms נָחָשׁ 'serpent, snake'; KJV 'to a serpent', ESV 'a serpent', NASB 'a serpent'"
+      },
+      {
+        "position": 17,
+        "surface": "תִּקַּ֥ח",
+        "phrase": "you shall take",
+        "literal": "you-will-take",
+        "source": "H3947 Qal impf. 2ms of לָקַח 'to take'; KJV 'shalt thou take', ESV 'you shall take', NASB 'you shall take'"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/יָדֶֽ/ךָ",
+        "phrase": "in your hand",
+        "literal": "in-hand-your",
+        "source": "H3027 prep. b- + n.fs constr. + 2ms suff. יָד 'hand'; KJV 'in thine hand', ESV 'in your hand', NASB 'in your hand'"
+      }
+    ]
+  }
+]

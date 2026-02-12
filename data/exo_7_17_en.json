@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כֹּ֚ה",
+        "phrase": "Thus",
+        "literal": "thus",
+        "source": "H3541 adv. כֹּה 'thus'; KJV 'thus', ESV 'thus', NASB 'thus'"
+      },
+      {
+        "position": 2,
+        "surface": "אָמַ֣ר",
+        "phrase": "says",
+        "literal": "he-said",
+        "source": "H559 Qal perf. 3ms of אָמַר 'to say'; KJV 'saith', ESV 'says', NASB 'says'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/זֹ֣את",
+        "phrase": "By this",
+        "literal": "in-this",
+        "source": "H2063 prep. b- + dem. pron. fs זֹאת 'this'; KJV 'in this', ESV 'by this', NASB 'by this'"
+      },
+      {
+        "position": 5,
+        "surface": "תֵּדַ֔ע",
+        "phrase": "you shall know",
+        "literal": "you-will-know",
+        "source": "H3045 Qal impf. 2ms of יָדַע 'to know'; KJV 'thou shalt know', ESV 'you shall know', NASB 'you shall know'"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֖י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 conj. כִּי 'that, because'; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנִ֣י",
+        "phrase": "I am",
+        "literal": "I",
+        "source": "H589 pers. pron. 1cs אֲנִי 'I'; KJV 'I am', ESV 'I am', NASB 'I am'"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 9,
+        "surface": "הִנֵּ֨ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 interj. הִנֵּה 'behold, look'; KJV 'behold', ESV 'behold', NASB 'behold'"
+      },
+      {
+        "position": 10,
+        "surface": "אָנֹכִ֜י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 pers. pron. 1cs אָנֹכִי 'I'; KJV 'I', ESV 'I', NASB 'I'"
+      },
+      {
+        "position": 11,
+        "surface": "מַכֶּ֣ה",
+        "phrase": "will strike",
+        "literal": "striking",
+        "source": "H5221 Hiphil ptc. ms of נָכָה 'to strike, smite'; KJV 'will smite', ESV 'will strike', NASB 'will strike'"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/מַּטֶּ֣ה",
+        "phrase": "with the staff",
+        "literal": "with-the-staff",
+        "source": "H4294 prep. b- + art. + n.ms מַטֶּה 'staff, rod'; KJV 'with the rod', ESV 'with the staff', NASB 'with the staff'"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁר",
+        "phrase": "that is",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'that is', ESV 'that is', NASB 'that is'"
+      },
+      {
+        "position": 14,
+        "surface": "בְּ/יָדִ֗/י",
+        "phrase": "in my hand",
+        "literal": "in-hand-my",
+        "source": "H3027 prep. b- + n.fs constr. + 1cs suff. יָד 'hand'; KJV 'in mine hand', ESV 'in my hand', NASB 'in my hand'"
+      },
+      {
+        "position": 15,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 prep. עַל 'upon, on'; KJV 'upon', ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/מַּ֛יִם",
+        "phrase": "the water",
+        "literal": "the-water",
+        "source": "H4325 art. + n.mp מַיִם 'water'; KJV 'the waters', ESV 'the water', NASB 'the water'"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that is",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'which are', ESV 'that is', NASB 'that is'"
+      },
+      {
+        "position": 18,
+        "surface": "בַּ/יְאֹ֖ר",
+        "phrase": "in the Nile",
+        "literal": "in-the-River",
+        "source": "H2975 prep. b- + art. + n.ms יְאֹר 'Nile, river'; KJV 'in the river', ESV 'in the Nile', NASB 'in the Nile'"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/נֶהֶפְכ֥וּ",
+        "phrase": "and they shall be turned",
+        "literal": "and-they-will-be-turned",
+        "source": "H2015 conj. + Niphal perf. 3cp of הָפַךְ 'to turn, overturn'; KJV 'and they shall be turned', ESV 'and it shall turn', NASB 'and it will be turned'"
+      },
+      {
+        "position": 20,
+        "surface": "לְ/דָֽם",
+        "phrase": "to blood",
+        "literal": "to-blood",
+        "source": "H1818 prep. l- + n.ms דָּם 'blood'; KJV 'to blood', ESV 'into blood', NASB 'to blood'"
+      }
+    ]
+  }
+]

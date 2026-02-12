@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֚ק",
+        "phrase": "Only",
+        "literal": "only",
+        "source": "H7535 restricting part. raq 'only, surely'; KJV 'only', ESV 'only', NASB 'only'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/אֶ֣רֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land-of",
+        "source": "H776 prep. b- + n.fs constr. ʾerets 'land'; KJV 'in the land of', ESV 'in the land of', NASB 'in the land of'"
+      },
+      {
+        "position": 3,
+        "surface": "גֹּ֔שֶׁן",
+        "phrase": "Goshen",
+        "literal": "Goshen",
+        "source": "H1657 proper name Goshen; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "where",
+        "literal": "where",
+        "source": "H834 rel. pron. ʾasher 'who, which, where'; KJV 'where', ESV 'where', NASB 'where'"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 adv. sham 'there'; KJV 'were', ESV 'were', NASB 'were'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 n.mp constr. ben 'son'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name Yisraʾel 'Israel'; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "there was no",
+        "literal": "not",
+        "source": "H3808 neg. part. loʾ 'not'; KJV 'was there no', ESV 'was there no', NASB 'there was no'"
+      },
+      {
+        "position": 9,
+        "surface": "הָיָ֖ה",
+        "phrase": "was",
+        "literal": "it-was",
+        "source": "H1961 Qal perf. 3ms of הָיָה 'to be'; KJV 'was', ESV 'was', NASB 'was'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּרָֽד",
+        "phrase": "hail",
+        "literal": "hail",
+        "source": "H1259 n.ms barad 'hail'; KJV 'hail', ESV 'hail', NASB 'hail'"
+      }
+    ]
+  }
+]

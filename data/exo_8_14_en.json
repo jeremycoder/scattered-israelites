@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲשׂוּ",
+        "phrase": "And did",
+        "literal": "and-they-did",
+        "source": "H6213 wayyiqtol 3mp Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "כֵ֨ן",
+        "phrase": "likewise",
+        "literal": "so",
+        "source": "H3651 adv. ken 'so, thus'; KJV 'so', ESV 'the same', NASB 'the same'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/חַרְטֻמִּ֧ים",
+        "phrase": "the magicians",
+        "literal": "the-magicians",
+        "source": "H2748 art. + n.mp chartom 'magician'; KJV 'the magicians', ESV 'the magicians', NASB 'the magicians'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/לָטֵי/הֶ֛ם",
+        "phrase": "with their secret arts",
+        "literal": "with-secret-arts-their",
+        "source": "H3909 prep. b- + n.mp lat 'secret art' + 3mp suff.; KJV 'with their enchantments', ESV 'by their secret arts', NASB 'with their secret arts'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/הוֹצִ֥יא",
+        "phrase": "to bring forth",
+        "literal": "to-bring-out",
+        "source": "H3318 prep. l- + Hiphil inf. construct of יָצָא 'to go out'; KJV 'to bring forth', ESV 'to produce', NASB 'to bring forth'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כִּנִּ֖ים",
+        "phrase": "the gnats",
+        "literal": "the-gnats",
+        "source": "H3654 art. + n.mp kinnim 'gnat, louse'; KJV 'lice', ESV 'gnats', NASB 'gnats'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "but they could not",
+        "literal": "and-not",
+        "source": "H3808 conj. + neg. particle loʾ 'not'; KJV 'but they could not', ESV 'but they could not', NASB 'but they could not'"
+      },
+      {
+        "position": 9,
+        "surface": "יָכֹ֑לוּ",
+        "phrase": "they were able",
+        "literal": "they-were-able",
+        "source": "H3201 Qal perf. 3cp of יָכֹל 'to be able'; KJV 'could', ESV 'could', NASB 'could'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/תְּהִי֙",
+        "phrase": "so there were",
+        "literal": "and-it-became",
+        "source": "H1961 wayyiqtol 3fs Qal of הָיָה 'to be, become'; KJV 'there was', ESV 'so there were', NASB 'there were'"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/כִּנָּ֔ם",
+        "phrase": "gnats",
+        "literal": "the-gnats",
+        "source": "H3654 art. + n.ms kinnam 'gnat, louse' (collective); KJV 'lice', ESV 'gnats', NASB 'gnats'"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אָדָ֖ם",
+        "phrase": "on man",
+        "literal": "on-the-man",
+        "source": "H120 prep. b- + art. + n.ms ʾadam 'man, mankind'; KJV 'upon man', ESV 'on man', NASB 'on man'"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בַ/בְּהֵמָֽה",
+        "phrase": "and on beast",
+        "literal": "and-on-the-beast",
+        "source": "H929 conj. + prep. b- + art. + n.fs behemah 'beast, animal'; KJV 'and upon beast', ESV 'and on beast', NASB 'and on beast'"
+      }
+    ]
+  }
+]

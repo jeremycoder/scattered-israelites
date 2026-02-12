@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּמָּלֵ֖א",
+        "phrase": "And were fulfilled",
+        "literal": "and-were-filled",
+        "source": "H4390 wayyiqtol 3ms Niphal of מָלֵא 'to fill, be full'; KJV 'were fulfilled', ESV 'passed', NASB 'passed'"
+      },
+      {
+        "position": 2,
+        "surface": "שִׁבְעַ֣ת",
+        "phrase": "seven",
+        "literal": "seven-of",
+        "source": "H7651 num.ms constr. שֶׁבַע 'seven'; KJV 'seven', ESV 'seven', NASB 'seven'"
+      },
+      {
+        "position": 3,
+        "surface": "יָמִ֑ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 n.mp יוֹם 'day'; KJV 'days', ESV 'full days', NASB 'days'"
+      },
+      {
+        "position": 4,
+        "surface": "אַחֲרֵ֥י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 prep. אַחֲרֵי 'after, behind'; KJV 'after that', ESV 'after', NASB 'after'"
+      },
+      {
+        "position": 5,
+        "surface": "הַכּוֹת",
+        "phrase": "had struck",
+        "literal": "striking-of",
+        "source": "H5221 Hiphil inf. constr. of נָכָה 'to strike'; KJV 'had smitten', ESV 'had struck', NASB 'struck'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יְאֹֽר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      }
+    ]
+  }
+]

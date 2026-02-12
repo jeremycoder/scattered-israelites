@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "דֶּ֚רֶךְ",
+        "phrase": "A journey of",
+        "literal": "way-of",
+        "source": "H1870 n.fs construct derek 'way, road, journey'; KJV 'journey', ESV 'a journey', NASB 'a journey'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹ֣שֶׁת",
+        "phrase": "three",
+        "literal": "three-of",
+        "source": "H7969 num.ms construct sheloshet 'three'; KJV 'three', ESV 'three', NASB 'three'"
+      },
+      {
+        "position": 3,
+        "surface": "יָמִ֔ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 n.mp yom 'day'; KJV 'days'', ESV 'days'', NASB 'days''"
+      },
+      {
+        "position": 4,
+        "surface": "נֵלֵ֖ךְ",
+        "phrase": "we will go",
+        "literal": "we-will-go",
+        "source": "H3212 Qal impf. 1cp of יָלַךְ 'to go, walk'; KJV 'we will go', ESV 'we must go', NASB 'we will go'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/מִּדְבָּ֑ר",
+        "phrase": "into the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057 prep. b- + art. + n.ms midbar 'wilderness, desert'; KJV 'into the wilderness', ESV 'into the wilderness', NASB 'into the wilderness'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/זָבַ֨חְנוּ֙",
+        "phrase": "and sacrifice",
+        "literal": "and-we-will-sacrifice",
+        "source": "H2076 conj. + Qal perf. 1cp of זָבַח 'to sacrifice'; KJV 'and sacrifice', ESV 'and sacrifice', NASB 'and sacrifice'"
+      },
+      {
+        "position": 7,
+        "surface": "לַֽ/יהוָ֣ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 prep. l- + divine name; KJV 'unto the LORD', ESV 'to the LORD', NASB 'to the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהֵ֔י/נוּ",
+        "phrase": "our God",
+        "literal": "God-of-us",
+        "source": "H430 n.mp construct ʾelohim 'God' + 1cp suff.; KJV 'our God', ESV 'our God', NASB 'our God'"
+      },
+      {
+        "position": 9,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834 prep. k- + rel. pron. ʾasher 'just as'; KJV 'as', ESV 'as', NASB 'as'"
+      },
+      {
+        "position": 10,
+        "surface": "יֹאמַ֥ר",
+        "phrase": "he tells",
+        "literal": "he-will-say",
+        "source": "H559 Qal impf. 3ms of אָמַר 'to say'; KJV 'he shall command', ESV 'he tells', NASB 'He commands'"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלֵֽי/נוּ",
+        "phrase": "us",
+        "literal": "to-us",
+        "source": "H413 prep. ʾel 'to' + 1cp suff.; KJV 'us', ESV 'us', NASB 'us'"
+      }
+    ]
+  }
+]

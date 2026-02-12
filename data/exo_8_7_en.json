@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/סָר֣וּ",
+        "phrase": "And shall depart",
+        "literal": "and-they-will-depart",
+        "source": "H5493 conj. + Qal perf. 3cp of סוּר 'to turn aside, depart'; KJV 'shall depart', ESV 'shall go away', NASB 'will depart'"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/צְפַרְדְּעִ֗ים",
+        "phrase": "the frogs",
+        "literal": "the-frogs",
+        "source": "H6854 art. + n.fp tsephardeyaʿ 'frog'; KJV 'the frogs', ESV 'the frogs', NASB 'the frogs'"
+      },
+      {
+        "position": 3,
+        "surface": "מִמְּ/ךָ֙",
+        "phrase": "from you",
+        "literal": "from-you",
+        "source": "H4480 prep. min 'from' + 2ms suff.; KJV 'from thee', ESV 'from you', NASB 'from you'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִ/בָּ֣תֶּ֔י/ךָ",
+        "phrase": "and from your houses",
+        "literal": "and-from-houses-your",
+        "source": "H1004 conj. + prep. min + n.mp construct bayit 'house' + 2ms suff.; KJV 'from thy houses', ESV 'from your houses', NASB 'from your houses'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מֵ/עֲבָדֶ֖י/ךָ",
+        "phrase": "and from your servants",
+        "literal": "and-from-servants-your",
+        "source": "H5650 conj. + prep. min + n.mp construct ʿeved 'servant' + 2ms suff.; KJV 'from thy servants', ESV 'from your servants', NASB 'from your servants'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מֵ/עַמֶּ֑/ךָ",
+        "phrase": "and from your people",
+        "literal": "and-from-people-your",
+        "source": "H5971 conj. + prep. min + n.ms construct ʿam 'people' + 2ms suff.; KJV 'from thy people', ESV 'from your people', NASB 'from your people'"
+      },
+      {
+        "position": 7,
+        "surface": "רַ֥ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535 adv. raq 'only, surely'; KJV 'only', ESV 'only', NASB 'only'"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/יְאֹ֖ר",
+        "phrase": "in the Nile",
+        "literal": "in-the-Nile",
+        "source": "H2975 prep. b- + art. + n.ms yeʾor 'Nile'; KJV 'in the river', ESV 'in the Nile', NASB 'in the Nile'"
+      },
+      {
+        "position": 9,
+        "surface": "תִּשָּׁאַֽרְנָה",
+        "phrase": "they shall remain",
+        "literal": "they-will-remain",
+        "source": "H7604 Niphal impf. 3fp of שָׁאַר 'to remain, be left over'; KJV 'shall they remain', ESV 'be left', NASB 'they will be left'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֥א",
+        "phrase": "And went out",
+        "literal": "and-he-went-out",
+        "source": "H3318 wayyiqtol 3ms Qal of יָצָא 'to go out'; KJV 'went out', ESV 'went out', NASB 'went out'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/עִ֣ם",
+        "phrase": "from the presence of",
+        "literal": "from-with",
+        "source": "H5973 prep. min + prep. ʿim 'from with, from the presence of'; KJV 'from', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֶּעְתַּ֖ר",
+        "phrase": "and pleaded",
+        "literal": "and-he-entreated",
+        "source": "H6279 wayyiqtol 3ms Qal of עָתַר 'to pray, entreat'; KJV 'intreated', ESV 'prayed', NASB 'made supplication'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      }
+    ]
+  }
+]

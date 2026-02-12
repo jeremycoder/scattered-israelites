@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "And did",
+        "literal": "and-he-did",
+        "source": "H6213 wayyiqtol 3ms Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ/דְבַ֣ר",
+        "phrase": "according to the word of",
+        "literal": "according-to-word-of",
+        "source": "H1697 prep. k- + n.ms construct davar 'word'; KJV 'according to the word of', ESV 'as Moses had asked', NASB 'according to the word of'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּ֨סַר֙",
+        "phrase": "and he removed",
+        "literal": "and-he-removed",
+        "source": "H5493 wayyiqtol 3ms Qal of סוּר 'to turn aside, remove'; KJV 'removed', ESV 'removed', NASB 'removed'"
+      },
+      {
+        "position": 6,
+        "surface": "הֶ/עָרֹ֔ב",
+        "phrase": "the swarms of flies",
+        "literal": "the-swarm",
+        "source": "H6157 art. + n.ms ʿarov 'swarm (of flies)'; KJV 'the swarms of flies', ESV 'the swarms of flies', NASB 'the swarms of insects'"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/פַּרְעֹ֖ה",
+        "phrase": "from Pharaoh",
+        "literal": "from-Pharaoh",
+        "source": "H6547 prep. min + proper name; KJV 'from Pharaoh', ESV 'from Pharaoh', NASB 'from Pharaoh'"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/עֲבָדָ֣י/ו",
+        "phrase": "from his servants",
+        "literal": "from-servants-his",
+        "source": "H5650 prep. min + n.mp construct ʿeved 'servant' + 3ms suff.; KJV 'from his servants', ESV 'from his servants', NASB 'from his servants'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מֵ/עַמּ֑/וֹ",
+        "phrase": "and from his people",
+        "literal": "and-from-people-his",
+        "source": "H5971 conj. + prep. min + n.ms construct ʿam 'people' + 3ms suff.; KJV 'and from his people', ESV 'and from his people', NASB 'and from his people'"
+      },
+      {
+        "position": 10,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle loʾ 'not'; KJV 'there remained not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 11,
+        "surface": "נִשְׁאַ֖ר",
+        "phrase": "one remained",
+        "literal": "it-remained",
+        "source": "H7604 Niphal perf. 3ms of שָׁאַר 'to remain, be left'; KJV 'remained', ESV 'remained', NASB 'remained'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 num.ms ʾechad 'one'; KJV 'one', ESV 'one', NASB 'one'"
+      }
+    ]
+  }
+]

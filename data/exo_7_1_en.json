@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "Then said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "רְאֵ֛ה",
+        "phrase": "See",
+        "literal": "see",
+        "source": "H7200 Qal imv. 2ms of רָאָה 'to see'; KJV 'see', ESV 'see', NASB 'see'"
+      },
+      {
+        "position": 6,
+        "surface": "נְתַתִּ֥י/ךָ",
+        "phrase": "I have made you",
+        "literal": "I-have-given-you",
+        "source": "H5414 Qal perf. 1cs + 2ms suff. of נָתַן 'to give, set'; KJV 'I have made thee', ESV 'I have made you', NASB 'I make you'"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "as God",
+        "literal": "god",
+        "source": "H430 n.mp אֱלֹהִים 'God, gods'; KJV 'a god', ESV 'like God', NASB 'as God'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/פַרְעֹ֑ה",
+        "phrase": "to Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "H6547 prep. l- + proper name; KJV 'to Pharaoh', ESV 'to Pharaoh', NASB 'to Pharaoh'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אַהֲרֹ֥ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. + proper name; all trans. agree"
+      },
+      {
+        "position": 10,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251 n.ms constr. + 2ms suff. אָח 'brother'; KJV 'thy brother', ESV 'your brother', NASB 'your brother'"
+      },
+      {
+        "position": 11,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "shall be",
+        "literal": "he-will-be",
+        "source": "H1961 Qal impf. 3ms of הָיָה 'to be'; KJV 'shall be', ESV 'shall be', NASB 'shall be'"
+      },
+      {
+        "position": 12,
+        "surface": "נְבִיאֶֽ/ךָ",
+        "phrase": "your prophet",
+        "literal": "prophet-your",
+        "source": "H5030 n.ms constr. + 2ms suff. נָבִיא 'prophet'; KJV 'thy prophet', ESV 'your prophet', NASB 'your prophet'"
+      }
+    ]
+  }
+]

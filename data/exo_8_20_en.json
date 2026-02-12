@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "And did",
+        "literal": "and-he-did",
+        "source": "H6213 wayyiqtol 3ms Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֔ן",
+        "phrase": "so",
+        "literal": "so",
+        "source": "H3651 adv. ken 'so, thus'; KJV 'so', ESV 'so', NASB 'so'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּבֹא֙",
+        "phrase": "and there came",
+        "literal": "and-it-came",
+        "source": "H935 wayyiqtol 3ms Qal of בּוֹא 'to come, enter'; KJV 'there came', ESV 'there came', NASB 'there came'"
+      },
+      {
+        "position": 5,
+        "surface": "עָרֹ֣ב",
+        "phrase": "a swarm of flies",
+        "literal": "swarm",
+        "source": "H6157 n.ms ʿarov 'swarm (of flies)'; KJV 'a grievous swarm of flies', ESV 'swarms of flies', NASB 'swarms of insects'"
+      },
+      {
+        "position": 6,
+        "surface": "כָּבֵ֔ד",
+        "phrase": "severe",
+        "literal": "heavy",
+        "source": "H3515 adj.ms kaved 'heavy, severe'; KJV 'grievous', ESV 'thick', NASB 'in great'"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֥יתָ/ה",
+        "phrase": "into the house of",
+        "literal": "house-ward-of",
+        "source": "H1004 n.ms construct bayit 'house' + dir. he; KJV 'into the house of', ESV 'into the house of', NASB 'into the house of'"
+      },
+      {
+        "position": 8,
+        "surface": "פַרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בֵ֣ית",
+        "phrase": "and into the houses of",
+        "literal": "and-house-of",
+        "source": "H1004 conj. + n.ms construct bayit 'house'; KJV 'into his servants' houses', ESV 'into his servants' houses', NASB 'the houses of'"
+      },
+      {
+        "position": 10,
+        "surface": "עֲבָדָ֑י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 n.mp construct ʿeved 'servant' + 3ms suff.; KJV 'his servants'', ESV 'his servants'', NASB 'his servants'"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/כָל",
+        "phrase": "and in all",
+        "literal": "and-in-all-of",
+        "source": "H3605 conj. + prep. b- + n.ms construct kol 'all'; KJV 'and in all', ESV 'and throughout all', NASB 'and in all'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶ֧רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs construct ʾerets 'land, earth'; KJV 'the land', ESV 'the land', NASB 'the land'"
+      },
+      {
+        "position": 13,
+        "surface": "מִצְרַ֛יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name Mitsrayim 'Egypt'; all trans. agree"
+      },
+      {
+        "position": 14,
+        "surface": "תִּשָּׁחֵ֥ת",
+        "phrase": "was ruined",
+        "literal": "it-was-ruined",
+        "source": "H7843 Niphal impf. 3fs of שָׁחַת 'to ruin, destroy'; KJV 'was corrupted', ESV 'was ruined', NASB 'was destroyed'"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 art. + n.fs ʾerets 'land, earth'; KJV 'the land', ESV 'the land', NASB 'the land'"
+      },
+      {
+        "position": 16,
+        "surface": "מִ/פְּנֵ֥י",
+        "phrase": "because of",
+        "literal": "from-face-of",
+        "source": "H6440 prep. min + n.mp construct panim 'face'; KJV 'by reason of', ESV 'by reason of', NASB 'because of'"
+      },
+      {
+        "position": 17,
+        "surface": "הֶ/עָרֹֽב",
+        "phrase": "the swarms of flies",
+        "literal": "the-swarm",
+        "source": "H6157 art. + n.ms ʿarov 'swarm (of flies)'; KJV 'the swarm of flies', ESV 'the swarms of flies', NASB 'the swarms of insects'"
+      }
+    ]
+  }
+]

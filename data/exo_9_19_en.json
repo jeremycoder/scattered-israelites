@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "Now therefore",
+        "literal": "and-now",
+        "source": "H6258 waw + adv. ʿattah 'now'; KJV 'send therefore now', ESV 'now therefore', NASB 'now therefore'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלַ֤ח",
+        "phrase": "send",
+        "literal": "send",
+        "source": "H7971 Qal imv. 2ms of שָׁלַח 'to send'; KJV 'send', ESV 'send', NASB 'send'"
+      },
+      {
+        "position": 3,
+        "surface": "הָעֵז֙",
+        "phrase": "bring to safety",
+        "literal": "take-refuge",
+        "source": "H5756 Hiphil imv. 2ms of עוּז 'to bring into safety, take refuge'; KJV 'and gather', ESV 'get … to a place of shelter', NASB 'bring … to safety'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 5,
+        "surface": "מִקְנְ/ךָ֔",
+        "phrase": "your livestock",
+        "literal": "livestock-your",
+        "source": "H4735 n.ms constr. miqneh 'livestock' + 2ms suff.; KJV 'thy cattle', ESV 'your livestock', NASB 'your livestock'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֛ת",
+        "phrase": "and",
+        "literal": "and-DOM",
+        "source": "H853 waw + direct object marker; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 n.ms constr. kol 'all, every'; KJV 'all', ESV 'everything', NASB 'all'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 rel. pron. ʾasher 'who, which, that'; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/ךָ֖",
+        "phrase": "you have",
+        "literal": "to-you",
+        "source": "prep. l- + 2ms suff. 'belonging to you'; KJV 'thou hast', ESV 'you have', NASB 'belongs to you'"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/שָּׂדֶ֑ה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704 prep. b- + art. + n.ms sadeh 'field'; KJV 'in the field', ESV 'in the field', NASB 'in the field'"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-of",
+        "source": "H3605 n.ms constr. kol 'all, every'; KJV 'every', ESV 'every', NASB 'every'"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אָדָ֨ם",
+        "phrase": "man",
+        "literal": "the-man",
+        "source": "H120 art. + n.ms ʾadam 'man, mankind'; KJV 'man', ESV 'man', NASB 'man'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הַ/בְּהֵמָ֜ה",
+        "phrase": "and beast",
+        "literal": "and-the-animal",
+        "source": "H929 waw + art. + n.fs behemah 'beast, animal'; KJV 'and beast', ESV 'and beast', NASB 'and beast'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶֽׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 rel. pron. ʾasher 'who, which, that'; KJV 'which', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 15,
+        "surface": "יִמָּצֵ֣א",
+        "phrase": "is found",
+        "literal": "is-found",
+        "source": "H4672 Niphal impf. 3ms of מָצָא 'to find'; KJV 'shall be found', ESV 'is found', NASB 'is found'"
+      },
+      {
+        "position": 16,
+        "surface": "בַ/שָּׂדֶ֗ה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704 prep. b- + art. + n.ms sadeh 'field'; KJV 'in the field', ESV 'in the field', NASB 'in the field'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and is not",
+        "literal": "and-not",
+        "source": "H3808 waw + neg. part. loʾ 'not'; KJV 'and shall not', ESV 'and is not', NASB 'and is not'"
+      },
+      {
+        "position": 18,
+        "surface": "יֵֽאָסֵף֙",
+        "phrase": "brought",
+        "literal": "is-gathered",
+        "source": "H622 Niphal impf. 3ms of אָסַף 'to gather'; KJV 'be brought', ESV 'brought', NASB 'brought'"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/בַּ֔יְתָ/ה",
+        "phrase": "home",
+        "literal": "the-house-ward",
+        "source": "H1004 art. + n.ms bayit 'house' + dir. he; KJV 'home', ESV 'home', NASB 'home'"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/יָרַ֧ד",
+        "phrase": "the hail will come down",
+        "literal": "and-it-will-come-down",
+        "source": "H3381 waw + Qal perf. 3ms of יָרַד 'to go down'; KJV 'and the hail shall come down', ESV 'the hail shall fall', NASB 'the hail will come down'"
+      },
+      {
+        "position": 21,
+        "surface": "עֲלֵ/הֶ֛ם",
+        "phrase": "on them",
+        "literal": "upon-them",
+        "source": "H5921 prep. ʿal + 3mp suff. 'upon them'; KJV 'upon them', ESV 'on them', NASB 'on them'"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/בָּרָ֖ד",
+        "phrase": "the hail",
+        "literal": "the-hail",
+        "source": "H1259 art. + n.ms barad 'hail'; KJV 'the hail', ESV 'the hail', NASB 'the hail'"
+      },
+      {
+        "position": 23,
+        "surface": "וָ/מֵֽתוּ",
+        "phrase": "and they shall die",
+        "literal": "and-they-will-die",
+        "source": "H4191 waw + Qal perf. 3cp of מוּת 'to die'; KJV 'and they shall die', ESV 'and they shall die', NASB 'and they will die'"
+      }
+    ]
+  }
+]

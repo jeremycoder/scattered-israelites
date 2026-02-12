@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֗ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֤א",
+        "phrase": "It is not",
+        "literal": "not",
+        "source": "H3808 neg. particle loʾ 'not'; KJV 'it is not', ESV 'it would not be', NASB 'it is not'"
+      },
+      {
+        "position": 4,
+        "surface": "נָכוֹן֙",
+        "phrase": "right",
+        "literal": "right",
+        "source": "H3559 Niphal part. ms of כּוּן 'to be firm, be right'; KJV 'meet', ESV 'right', NASB 'right'"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/עֲשׂ֣וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213 prep. l- + Qal inf. construct of עָשָׂה 'to do'; KJV 'so to do', ESV 'to do so', NASB 'to do so'"
+      },
+      {
+        "position": 6,
+        "surface": "כֵּ֔ן",
+        "phrase": "so",
+        "literal": "so",
+        "source": "H3651 adv. ken 'so, thus'; KJV 'so', ESV 'so', NASB 'so'"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 conj. ki 'for, because'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 8,
+        "surface": "תּוֹעֲבַ֣ת",
+        "phrase": "the abomination of",
+        "literal": "abomination-of",
+        "source": "H8441 n.fs construct toʿevah 'abomination'; KJV 'the abomination of', ESV 'what is an abomination to', NASB 'a detestable thing to'"
+      },
+      {
+        "position": 9,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 proper gentilic name Mitsri 'Egyptian'; KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'"
+      },
+      {
+        "position": 10,
+        "surface": "נִזְבַּ֖ח",
+        "phrase": "we would sacrifice",
+        "literal": "we-will-sacrifice",
+        "source": "H2076 Qal impf. 1cp of זָבַח 'to sacrifice'; KJV 'shall we sacrifice', ESV 'we shall sacrifice', NASB 'we sacrifice'"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/יהוָ֣ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 prep. l- + divine name; KJV 'unto the LORD', ESV 'to the LORD', NASB 'to the LORD'"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהֵ֑י/נוּ",
+        "phrase": "our God",
+        "literal": "God-of-us",
+        "source": "H430 n.mp construct ʾelohim 'God' + 1cp suff.; KJV 'our God', ESV 'our God', NASB 'our God'"
+      },
+      {
+        "position": 13,
+        "surface": "הֵ֣ן",
+        "phrase": "If",
+        "literal": "behold",
+        "source": "H2005 interj. hen 'behold, if'; KJV 'lo', ESV 'if', NASB 'if'"
+      },
+      {
+        "position": 14,
+        "surface": "נִזְבַּ֞ח",
+        "phrase": "we sacrifice",
+        "literal": "we-sacrifice",
+        "source": "H2076 Qal impf. 1cp of זָבַח 'to sacrifice'; KJV 'shall we sacrifice', ESV 'we sacrifice', NASB 'we sacrifice'"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 16,
+        "surface": "תּוֹעֲבַ֥ת",
+        "phrase": "the abomination of",
+        "literal": "abomination-of",
+        "source": "H8441 n.fs construct toʿevah 'abomination'; KJV 'the abomination of', ESV 'what is an abomination to', NASB 'a detestable thing to'"
+      },
+      {
+        "position": 17,
+        "surface": "מִצְרַ֛יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 proper gentilic name Mitsri 'Egyptian'; KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/עֵינֵי/הֶ֖ם",
+        "phrase": "before their eyes",
+        "literal": "to-eyes-their",
+        "source": "H5869 prep. l- + n.fd construct ʿayin 'eye' + 3mp suff.; KJV 'before their eyes', ESV 'in their sight', NASB 'before their eyes'"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "will they not",
+        "literal": "and-not",
+        "source": "H3808 conj. + neg. particle loʾ 'not'; KJV 'and will they not', ESV 'will they not', NASB 'will they not'"
+      },
+      {
+        "position": 20,
+        "surface": "יִסְקְלֻֽ/נוּ",
+        "phrase": "stone us",
+        "literal": "they-will-stone-us",
+        "source": "H5619 Qal impf. 3mp of סָקַל 'to stone' + 1cp suff.; KJV 'stone us', ESV 'stone us', NASB 'stone us'"
+      }
+    ]
+  }
+]

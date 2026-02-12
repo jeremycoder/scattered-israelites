@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥שֶׂם",
+        "phrase": "And set",
+        "literal": "and-he-set",
+        "source": "H7760 wayyiqtol 3ms Qal of שִׂים 'to set, put'; KJV 'appointed', ESV 'set', NASB 'set'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "מוֹעֵ֣ד",
+        "phrase": "an appointed time",
+        "literal": "appointed-time",
+        "source": "H4150 n.ms moʿed 'appointed time, meeting'; KJV 'a set time', ESV 'a time', NASB 'a definite time'"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; KJV 'saying', ESV 'saying', NASB 'saying'"
+      },
+      {
+        "position": 5,
+        "surface": "מָחָ֗ר",
+        "phrase": "Tomorrow",
+        "literal": "tomorrow",
+        "source": "H4279 n.ms machar 'tomorrow'; KJV 'to morrow', ESV 'tomorrow', NASB 'tomorrow'"
+      },
+      {
+        "position": 6,
+        "surface": "יַעֲשֶׂ֧ה",
+        "phrase": "will do",
+        "literal": "he-will-do",
+        "source": "H6213 Qal impf. 3ms of עָשָׂה 'to do, make'; KJV 'shall do', ESV 'will do', NASB 'will do'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/דָּבָ֥ר",
+        "phrase": "the thing",
+        "literal": "the-thing",
+        "source": "H1697 art. + n.ms davar 'word, thing'; KJV 'this thing', ESV 'this thing', NASB 'this thing'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 art. + dem. pron. ms zeh 'this'; KJV 'this', ESV 'this', NASB 'this'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "H776 prep. b- + art. + n.fs ʾerets 'land, earth'; KJV 'in the land', ESV 'in the land', NASB 'in the land'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֣י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 conj. ki 'for, because'; KJV 'else', ESV 'or else', NASB 'for'"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 conj. ʾim 'if'; (ki ʾim = 'for if' / 'else if'); KJV 'if', ESV 'if', NASB 'if'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵינְ/ךָ֮",
+        "phrase": "you do not",
+        "literal": "there-is-not-you",
+        "source": "H369 neg. particle ʾeyn 'there is not' + 2ms suff.; KJV 'thou wilt not', ESV 'you will not', NASB 'you do not'"
+      },
+      {
+        "position": 4,
+        "surface": "מְשַׁלֵּ֣חַ",
+        "phrase": "let go",
+        "literal": "sending-away",
+        "source": "H7971 Piel act. part. ms of שָׁלַח 'to send away'; KJV 'let go', ESV 'let go', NASB 'let go'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 6,
+        "surface": "עַמִּ/י֒",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 n.ms construct ʿam 'people' + 1cs suff.; KJV 'my people', ESV 'my people', NASB 'My people'"
+      },
+      {
+        "position": 7,
+        "surface": "הִנְ/נִי֩",
+        "phrase": "behold I am",
+        "literal": "behold-me",
+        "source": "H2005 interj. hen 'behold' + 1cs suff.; KJV 'behold, I will', ESV 'behold, I will', NASB 'behold, I will'"
+      },
+      {
+        "position": 8,
+        "surface": "מַשְׁלִ֨יחַ",
+        "phrase": "about to send",
+        "literal": "sending",
+        "source": "H7971 Hiphil act. part. ms of שָׁלַח 'to send'; KJV 'send', ESV 'send', NASB 'send'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/ךָ֜",
+        "phrase": "upon you",
+        "literal": "against-you",
+        "source": "prep. b- + 2ms suff. 'against you, upon you'; KJV 'upon thee', ESV 'on you', NASB 'on you'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בַ/עֲבָדֶ֧י/ךָ",
+        "phrase": "and on your servants",
+        "literal": "and-on-servants-your",
+        "source": "H5650 conj. + prep. b- + n.mp construct ʿeved 'servant' + 2ms suff.; KJV 'upon thy servants', ESV 'on your servants', NASB 'on your servants'"
+      },
+      {
+        "position": 11,
+        "surface": "וּֽ/בְ/עַמְּ/ךָ֛",
+        "phrase": "and on your people",
+        "literal": "and-on-people-your",
+        "source": "H5971 conj. + prep. b- + n.ms construct ʿam 'people' + 2ms suff.; KJV 'upon thy people', ESV 'on your people', NASB 'on your people'"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בְ/בָתֶּ֖י/ךָ",
+        "phrase": "and into your houses",
+        "literal": "and-in-houses-your",
+        "source": "H1004 conj. + prep. b- + n.mp construct bayit 'house' + 2ms suff.; KJV 'into thy houses', ESV 'into your houses', NASB 'into your houses'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 14,
+        "surface": "הֶ/עָרֹ֑ב",
+        "phrase": "the swarms of flies",
+        "literal": "the-swarm",
+        "source": "H6157 art. + n.ms ʿarov 'swarm (of flies)'; KJV 'swarms of flies', ESV 'swarms of flies', NASB 'swarms of insects'"
+      },
+      {
+        "position": 15,
+        "surface": "וּ/מָ֨לְא֜וּ",
+        "phrase": "and shall be full",
+        "literal": "and-they-will-be-full",
+        "source": "H4390 conj. + Qal perf. 3cp of מָלֵא 'to be full, fill'; KJV 'shall be full', ESV 'shall be filled', NASB 'will be full'"
+      },
+      {
+        "position": 16,
+        "surface": "בָּתֵּ֤י",
+        "phrase": "the houses of",
+        "literal": "houses-of",
+        "source": "H1004 n.mp construct bayit 'house'; KJV 'the houses', ESV 'the houses', NASB 'the houses'"
+      },
+      {
+        "position": 17,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 proper gentilic name Mitsri 'Egyptian'; KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'"
+      },
+      {
+        "position": 18,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 19,
+        "surface": "הֶ֣/עָרֹ֔ב",
+        "phrase": "the swarms of flies",
+        "literal": "the-swarm",
+        "source": "H6157 art. + n.ms ʿarov 'swarm (of flies)'; KJV 'swarms of flies', ESV 'swarms of flies', NASB 'swarms of insects'"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/גַ֥ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571 conj. + adv. gam 'also, even'; KJV 'and also', ESV 'and also', NASB 'and also'"
+      },
+      {
+        "position": 21,
+        "surface": "הָ/אֲדָמָ֖ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "H127 art. + n.fs ʾadamah 'ground, soil'; KJV 'the ground', ESV 'the ground', NASB 'the ground'"
+      },
+      {
+        "position": 22,
+        "surface": "אֲשֶׁר",
+        "phrase": "on which",
+        "literal": "which",
+        "source": "H834 rel. pron. ʾasher 'who, which, that'; KJV 'whereon', ESV 'on which', NASB 'on which'"
+      },
+      {
+        "position": 23,
+        "surface": "הֵ֥ם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 pron. 3mp hem 'they'; KJV 'they', ESV 'they', NASB 'they'"
+      },
+      {
+        "position": 24,
+        "surface": "עָלֶֽי/הָ",
+        "phrase": "are on it",
+        "literal": "upon-it",
+        "source": "H5921 prep. ʿal 'upon' + 3fs suff.; KJV 'are', ESV 'stand', NASB 'live'"
+      }
+    ]
+  }
+]

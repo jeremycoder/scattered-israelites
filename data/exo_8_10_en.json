@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּצְבְּר֥וּ",
+        "phrase": "And they piled",
+        "literal": "and-they-piled",
+        "source": "H6651 wayyiqtol 3mp Qal of צָבַר 'to pile up, heap up'; KJV 'gathered them together', ESV 'gathered them', NASB 'piled them'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853 direct object marker + 3mp suff.; KJV 'them', ESV 'them', NASB 'them'"
+      },
+      {
+        "position": 3,
+        "surface": "חֳמָרִ֣ם",
+        "phrase": "heaps",
+        "literal": "heaps",
+        "source": "H2563 n.mp chomer 'heap'; KJV 'upon heaps', ESV 'in heaps', NASB 'in heaps'"
+      },
+      {
+        "position": 4,
+        "surface": "חֳמָרִ֑ם",
+        "phrase": "upon heaps",
+        "literal": "heaps",
+        "source": "H2563 n.mp chomer 'heap' (repeated for emphasis); KJV 'upon heaps', ESV 'in heaps', NASB 'in heaps'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תִּבְאַ֖שׁ",
+        "phrase": "and stank",
+        "literal": "and-it-stank",
+        "source": "H887 wayyiqtol 3fs Qal of בָּאַשׁ 'to stink'; KJV 'stank', ESV 'stank', NASB 'stank'"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 art. + n.fs ʾerets 'land, earth'; KJV 'the land', ESV 'the land', NASB 'the land'"
+      }
+    ]
+  }
+]

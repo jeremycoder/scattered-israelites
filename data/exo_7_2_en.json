@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַתָּ֣ה",
+        "phrase": "You",
+        "literal": "you",
+        "source": "H859 pers. pron. 2ms אַתָּה 'you'; KJV 'thou', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 2,
+        "surface": "תְדַבֵּ֔ר",
+        "phrase": "shall speak",
+        "literal": "you-will-speak",
+        "source": "H1696 Piel impf. 2ms of דָּבַר 'to speak'; KJV 'shalt speak', ESV 'shall speak', NASB 'shall speak'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 n.ms constr. כֹּל 'all, every'; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 rel. pron. אֲשֶׁר 'who, which, that'; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲצַוֶּ֑/ךָּ",
+        "phrase": "I command you",
+        "literal": "I-command-you",
+        "source": "H6680 Piel impf. 1cs + 2ms suff. of צָוָה 'to command'; KJV 'I command thee', ESV 'I command you', NASB 'I command you'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַהֲרֹ֤ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. + proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "אָחִ֨י/ךָ֙",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251 n.ms constr. + 2ms suff. אָח 'brother'; KJV 'thy brother', ESV 'your brother', NASB 'your brother'"
+      },
+      {
+        "position": 9,
+        "surface": "יְדַבֵּ֣ר",
+        "phrase": "shall speak",
+        "literal": "he-will-speak",
+        "source": "H1696 Piel impf. 3ms of דָּבַר 'to speak'; KJV 'shall speak', ESV 'shall tell', NASB 'shall speak'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/שִׁלַּ֥ח",
+        "phrase": "that he let go",
+        "literal": "and-he-will-send",
+        "source": "H7971 conj. + Piel perf. 3ms of שָׁלַח 'to send, let go'; KJV 'shall let … go', ESV 'shall let … go', NASB 'will let … go'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 14,
+        "surface": "בְּנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 n.mp constr. בֵּן 'son'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 15,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name; all trans. agree"
+      },
+      {
+        "position": 16,
+        "surface": "מֵ/אַרְצֽ/וֹ",
+        "phrase": "out of his land",
+        "literal": "from-land-his",
+        "source": "H776 prep. min + n.fs constr. אֶרֶץ 'land' + 3ms suff.; KJV 'out of his land', ESV 'out of his land', NASB 'from his land'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּחְפְּר֧וּ",
+        "phrase": "And dug",
+        "literal": "and-they-dug",
+        "source": "H2658 wayyiqtol 3mp Qal of חָפַר 'to dig'; KJV 'digged', ESV 'dug', NASB 'dug'"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 n.ms constr. כֹּל 'all, every'; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְרַ֛יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 gentilic noun מִצְרִי 'Egyptian'; KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'"
+      },
+      {
+        "position": 4,
+        "surface": "סְבִיבֹ֥ת",
+        "phrase": "round about",
+        "literal": "surroundings-of",
+        "source": "H5439 n.fp constr. סְבִיבָה 'surrounding'; KJV 'round about', ESV 'along', NASB 'around'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/יְאֹ֖ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 6,
+        "surface": "מַ֣יִם",
+        "phrase": "for water",
+        "literal": "water",
+        "source": "H4325 n.mp מַיִם 'water'; KJV 'for water', ESV 'for water', NASB 'for water'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/שְׁתּ֑וֹת",
+        "phrase": "to drink",
+        "literal": "to-drink",
+        "source": "H8354 prep. l- + Qal inf. constr. of שָׁתָה 'to drink'; KJV 'to drink', ESV 'to drink', NASB 'to drink'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 conj. כִּי 'for, because'; KJV 'for', ESV 'for', NASB 'because'"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle לֹא 'not'; KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 10,
+        "surface": "יָֽכְלוּ֙",
+        "phrase": "could they",
+        "literal": "they-were-able",
+        "source": "H3201 Qal perf. 3cp of יָכֹל 'to be able'; KJV 'they could not', ESV 'they could not', NASB 'they could not'"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/שְׁתֹּ֔ת",
+        "phrase": "to drink",
+        "literal": "to-drink",
+        "source": "H8354 prep. l- + Qal inf. constr. of שָׁתָה 'to drink'; KJV 'drink', ESV 'drink', NASB 'drink'"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/מֵּימֵ֖י",
+        "phrase": "of the water of",
+        "literal": "from-waters-of",
+        "source": "H4325 prep. min + n.mp constr. מַיִם 'water'; KJV 'of the water of', ESV 'the water of', NASB 'the water of'"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/יְאֹֽר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 art. + n.ms יְאֹר 'Nile, river'; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 7,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "Then said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "כָּבֵ֖ד",
+        "phrase": "is hard",
+        "literal": "heavy",
+        "source": "H3515 adj.ms כָּבֵד 'heavy, hard'; KJV 'is hardened', ESV 'is hardened', NASB 'is stubborn'"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ֣ב",
+        "phrase": "the heart of",
+        "literal": "heart-of",
+        "source": "H3820 n.ms constr. לֵב 'heart'; KJV 'heart', ESV 'heart', NASB 'heart'"
+      },
+      {
+        "position": 7,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "מֵאֵ֖ן",
+        "phrase": "he refuses",
+        "literal": "he-refuses",
+        "source": "H3985 Piel perf. 3ms of מָאֵן 'to refuse'; KJV 'he refuseth', ESV 'he refuses', NASB 'he has refused'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/שַׁלַּ֥ח",
+        "phrase": "to let go",
+        "literal": "to-send",
+        "source": "H7971 prep. l- + Piel inf. constr. of שָׁלַח 'to send, let go'; KJV 'to let … go', ESV 'to let … go', NASB 'to let … go'"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עָֽם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 art. + n.ms עַם 'people'; KJV 'the people', ESV 'the people', NASB 'the people'"
+      }
+    ]
+  }
+]

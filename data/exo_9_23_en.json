@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 9,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֨ט",
+        "phrase": "And stretched out",
+        "literal": "and-he-stretched-out",
+        "source": "H5186 wayyiqtol 3ms Qal of נָטָה 'to stretch out'; KJV 'stretched forth', ESV 'stretched out', NASB 'stretched out'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "מַטֵּ/הוּ֮",
+        "phrase": "his staff",
+        "literal": "staff-his",
+        "source": "H4294 n.ms constr. matteh 'staff, rod' + 3ms suff.; KJV 'his rod', ESV 'his staff', NASB 'his staff'"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "toward",
+        "literal": "toward",
+        "source": "H5921 prep. ʿal 'over, upon'; KJV 'toward', ESV 'toward', NASB 'toward'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שָּׁמַיִם֒",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "H8064 art. + n.mp shamayim 'heavens, sky'; KJV 'heaven', ESV 'the sky', NASB 'the sky'"
+      },
+      {
+        "position": 7,
+        "surface": "וַֽ/יהוָ֗ה",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 waw + divine name, Tetragrammaton; KJV 'and the LORD', ESV 'and the LORD', NASB 'and the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "נָתַ֤ן",
+        "phrase": "sent",
+        "literal": "gave",
+        "source": "H5414 Qal perf. 3ms of נָתַן 'to give'; KJV 'sent', ESV 'sent', NASB 'sent'"
+      },
+      {
+        "position": 9,
+        "surface": "קֹלֹת֙",
+        "phrase": "thunder",
+        "literal": "voices",
+        "source": "H6963 n.mp qolot 'voices, thunders'; KJV 'thunder', ESV 'thunder', NASB 'thunder'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בָרָ֔ד",
+        "phrase": "and hail",
+        "literal": "and-hail",
+        "source": "H1259 waw + n.ms barad 'hail'; KJV 'and hail', ESV 'and hail', NASB 'and hail'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תִּ֥הֲלַךְ",
+        "phrase": "and fire ran",
+        "literal": "and-it-went",
+        "source": "H1980 wayyiqtol 3fs Qal of הָלַךְ 'to go, walk'; KJV 'and the fire ran along', ESV 'and fire ran down', NASB 'and fire ran down'"
+      },
+      {
+        "position": 12,
+        "surface": "אֵ֖שׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784 n.fs ʾesh 'fire'; KJV 'fire', ESV 'fire', NASB 'fire'"
+      },
+      {
+        "position": 13,
+        "surface": "אָ֑רְצָ/ה",
+        "phrase": "to the ground",
+        "literal": "earth-ward",
+        "source": "H776 n.fs ʾerets 'land, earth' + dir. he; KJV 'upon the ground', ESV 'to the earth', NASB 'to the earth'"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יַּמְטֵ֧ר",
+        "phrase": "And rained",
+        "literal": "and-he-caused-to-rain",
+        "source": "H4305 wayyiqtol 3ms Hiphil of מָטַר 'to rain'; KJV 'rained', ESV 'rained', NASB 'rained'"
+      },
+      {
+        "position": 15,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 16,
+        "surface": "בָּרָ֖ד",
+        "phrase": "hail",
+        "literal": "hail",
+        "source": "H1259 n.ms barad 'hail'; KJV 'hail', ESV 'hail', NASB 'hail'"
+      },
+      {
+        "position": 17,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 prep. ʿal 'over, upon'; KJV 'upon', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 18,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs constr. ʾerets 'land, earth'; KJV 'the land of', ESV 'the land of', NASB 'the land of'"
+      },
+      {
+        "position": 19,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name Mitsrayim 'Egypt'; all trans. agree"
+      }
+    ]
+  }
+]

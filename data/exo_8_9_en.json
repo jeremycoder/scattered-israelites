@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 8,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And did",
+        "literal": "and-he-did",
+        "source": "H6213 wayyiqtol 3ms Qal of עָשָׂה 'to do, make'; KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ/דְבַ֣ר",
+        "phrase": "according to the word of",
+        "literal": "according-to-word-of",
+        "source": "H1697 prep. k- + n.ms construct davar 'word'; KJV 'according to the word of', ESV 'as Moses asked', NASB 'according to the word of'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּמֻ֨תוּ֙",
+        "phrase": "and died",
+        "literal": "and-they-died",
+        "source": "H4191 wayyiqtol 3mp Qal of מוּת 'to die'; KJV 'died', ESV 'died', NASB 'died'"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/צְפַרְדְּעִ֔ים",
+        "phrase": "the frogs",
+        "literal": "the-frogs",
+        "source": "H6854 art. + n.fp tsephardeyaʿ 'frog'; KJV 'the frogs', ESV 'the frogs', NASB 'the frogs'"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "H4480 prep. min 'from, out of'; KJV 'out of', ESV 'in', NASB 'out of'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/בָּתִּ֥ים",
+        "phrase": "the houses",
+        "literal": "the-houses",
+        "source": "H1004 art. + n.mp bayit 'house'; KJV 'the houses', ESV 'the houses', NASB 'the houses'"
+      },
+      {
+        "position": 9,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "H4480 prep. min 'from, out of'; KJV 'out of', ESV 'the', NASB 'out of'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/חֲצֵרֹ֖ת",
+        "phrase": "the courtyards",
+        "literal": "the-courtyards",
+        "source": "H2691 art. + n.fp chatser 'court, courtyard'; KJV 'the villages', ESV 'the courtyards', NASB 'the courtyards'"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/מִן",
+        "phrase": "and out of",
+        "literal": "and-from",
+        "source": "H4480 conj. + prep. min 'and from, and out of'; KJV 'and out of', ESV 'and out of', NASB 'and out of'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/שָּׂדֹֽת",
+        "phrase": "the fields",
+        "literal": "the-fields",
+        "source": "H7704 art. + n.mp sadeh 'field'; KJV 'the fields', ESV 'the fields', NASB 'the fields'"
+      }
+    ]
+  }
+]
