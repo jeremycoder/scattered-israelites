@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָ֥שׂוּ",
+        "phrase": "And they shall make",
+        "literal": "and-they-shall-make",
+        "source": "H6213 (asah: to do/make); KJV: 'let them make', ESV: 'let them make', NASB: 'let them construct'"
+      },
+      {
+        "position": 2,
+        "surface": "לִ֖/י",
+        "phrase": "for Me",
+        "literal": "to-me",
+        "source": "(pronominal suffix); KJV: 'me', ESV: 'for me', NASB: 'for Me'"
+      },
+      {
+        "position": 3,
+        "surface": "מִקְדָּ֑שׁ",
+        "phrase": "a sanctuary",
+        "literal": "sanctuary",
+        "source": "H4720 (miqdash: sacred place); KJV: 'sanctuary', ESV: 'sanctuary', NASB: 'sanctuary'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/שָׁכַנְתִּ֖י",
+        "phrase": "and I will dwell",
+        "literal": "and-I-will-dwell",
+        "source": "H7931 (shakan: to dwell/abide); KJV: 'that I may dwell', ESV: 'that I may dwell', NASB: 'that I may dwell'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/תוֹכָֽ/ם",
+        "phrase": "in their midst",
+        "literal": "in-midst-of-them",
+        "source": "H8432 (tavek: midst); KJV: 'among them', ESV: 'among them', NASB: 'among them'"
+      }
+    ]
+  }
+]

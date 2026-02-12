@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 24,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַל",
+        "phrase": "went up",
+        "literal": "and-he-went-up",
+        "source": "H5927; KJV/NET 'went up', ESV/NASB 'went up'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַהֲרֹ֑ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175; KJV/ESV/NASB 'and Aaron'"
+      },
+      {
+        "position": 4,
+        "surface": "נָדָב֙",
+        "phrase": "Nadab",
+        "literal": "Nadab",
+        "source": "H5070; KJV/ESV/NASB 'Nadab'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲבִיה֔וּא",
+        "phrase": "and Abihu",
+        "literal": "and-Abihu",
+        "source": "H30; KJV/ESV/NASB 'and Abihu'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁבְעִ֖ים",
+        "phrase": "and seventy",
+        "literal": "and-seventy",
+        "source": "H7657; KJV/ESV/NASB 'and seventy'"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/זִּקְנֵ֥י",
+        "phrase": "of the elders",
+        "literal": "from-elders-of",
+        "source": "H2205; KJV/ESV/NASB 'of the elders'"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB 'Israel'"
+      }
+    ]
+  }
+]

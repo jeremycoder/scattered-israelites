@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 33,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: 'And he said'; ESV: 'Moses said'; NASB: 'Then Moses said')"
+      },
+      {
+        "position": 2,
+        "surface": "הַרְאֵ֥/נִי",
+        "phrase": "show me",
+        "literal": "cause-to-see-me",
+        "source": "H7200 (KJV: 'shew me'; ESV: 'show me'; NASB: 'show me')"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֖א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (KJV: 'I beseech thee'; ESV: 'Please'; NASB: 'I pray You')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: not translated explicitly; marks 'thy glory')"
+      },
+      {
+        "position": 5,
+        "surface": "כְּבֹדֶֽ/ךָ",
+        "phrase": "Your glory",
+        "literal": "glory-your",
+        "source": "H3519 (KJV: 'thy glory'; ESV: 'your glory'; NASB: 'Your glory')"
+      }
+    ]
+  }
+]

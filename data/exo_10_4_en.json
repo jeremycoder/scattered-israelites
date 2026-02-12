@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588: KJV 'Else, if', ESV 'For if', NASB 'For if'"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518: KJV 'if', ESV 'you refuse', NASB 'you refuse'"
+      },
+      {
+        "position": 3,
+        "surface": "מָאֵ֥ן",
+        "phrase": "you refuse",
+        "literal": "refusing-you",
+        "source": "H3986: KJV 'refuse', ESV 'you refuse', NASB 'you refuse'"
+      },
+      {
+        "position": 4,
+        "surface": "אַתָּ֖ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859: KJV 'thou', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/שַׁלֵּ֣חַ",
+        "phrase": "to let go",
+        "literal": "to-send",
+        "source": "H7971: KJV 'let...go', ESV 'let...go', NASB 'let...go'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "עַמִּ֑/י",
+        "phrase": "My people",
+        "literal": "people-my",
+        "source": "H5971: KJV 'my people', ESV 'My people', NASB 'My people'"
+      },
+      {
+        "position": 8,
+        "surface": "הִנְ/נִ֨י",
+        "phrase": "behold I",
+        "literal": "behold-I",
+        "source": "H2005: KJV 'behold', ESV 'behold', NASB 'behold'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵבִ֥יא",
+        "phrase": "am bringing",
+        "literal": "bringing",
+        "source": "H935: KJV 'will I bring', ESV 'I will bring', NASB 'I will bring'"
+      },
+      {
+        "position": 10,
+        "surface": "מָחָ֛ר",
+        "phrase": "tomorrow",
+        "literal": "tomorrow",
+        "source": "H4279: KJV 'to morrow', ESV 'tomorrow', NASB 'tomorrow'"
+      },
+      {
+        "position": 11,
+        "surface": "אַרְבֶּ֖ה",
+        "phrase": "locusts",
+        "literal": "locust",
+        "source": "H697: KJV 'locusts', ESV 'locusts', NASB 'locusts'"
+      },
+      {
+        "position": 12,
+        "surface": "בִּ/גְבֻלֶֽ/ךָ",
+        "phrase": "into your borders",
+        "literal": "in-border-your",
+        "source": "H1366: KJV 'thy coast', ESV 'your territory', NASB 'your territory'"
+      }
+    ]
+  }
+]

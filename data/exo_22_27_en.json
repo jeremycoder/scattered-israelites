@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430; KJV/ESV/NASB: God"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 3,
+        "surface": "תְקַלֵּ֑ל",
+        "phrase": "you shall curse",
+        "literal": "you-shall-curse",
+        "source": "H7043; KJV: revile; ESV/NASB: curse"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נָשִׂ֥יא",
+        "phrase": "or ruler",
+        "literal": "and-ruler",
+        "source": "H5387; KJV: prince; ESV: ruler; NASB: leader"
+      },
+      {
+        "position": 5,
+        "surface": "בְ/עַמְּ/ךָ֖",
+        "phrase": "in your people",
+        "literal": "in-people-your",
+        "source": "H5971; KJV/ESV/NASB: thy/your people"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 7,
+        "surface": "תָאֹֽר",
+        "phrase": "you shall curse",
+        "literal": "you-shall-curse",
+        "source": "H779; KJV: curse; ESV/NASB: curse"
+      }
+    ]
+  }
+]

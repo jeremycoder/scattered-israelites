@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּכָּ֛ר",
+        "phrase": "talent",
+        "literal": "talent",
+        "source": "H3603; KJV: talent, ESV: talent, NASB: talent"
+      },
+      {
+        "position": 2,
+        "surface": "זָהָ֥ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV: gold, ESV: gold, NASB: gold"
+      },
+      {
+        "position": 3,
+        "surface": "טָה֖וֹר",
+        "phrase": "pure",
+        "literal": "pure",
+        "source": "H2889; KJV: pure, ESV: pure, NASB: pure"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲשֶׂ֣ה",
+        "phrase": "he-shall-make",
+        "literal": "he-shall-make",
+        "source": "H6213; KJV: shall make, ESV: shall be made, NASB: shall be made"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֑/הּ",
+        "phrase": "it",
+        "literal": "obj-marker/it",
+        "source": "H853; KJV: it, ESV: it, NASB: it"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֥ת",
+        "phrase": "[object marker]",
+        "literal": "obj-marker",
+        "source": "H854; KJV: [implied], ESV: [implied], NASB: [implied]"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: all, ESV: all, NASB: all"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כֵּלִ֖ים",
+        "phrase": "the-utensils",
+        "literal": "the/utensils",
+        "source": "H3627; KJV: vessels, ESV: utensils, NASB: utensils"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֵֽלֶּה",
+        "phrase": "these",
+        "literal": "the/these",
+        "source": "H428; KJV: these, ESV: these, NASB: these"
+      }
+    ]
+  }
+]

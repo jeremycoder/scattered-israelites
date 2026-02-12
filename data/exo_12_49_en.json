@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 49,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תּוֹרָ֣ה",
+        "phrase": "law",
+        "literal": "law",
+        "source": "H8451; KJV: law, ESV: law, NASB: law"
+      },
+      {
+        "position": 2,
+        "surface": "אַחַ֔ת",
+        "phrase": "one",
+        "literal": "one-F",
+        "source": "H259; KJV: One, ESV: one, NASB: same"
+      },
+      {
+        "position": 3,
+        "surface": "יִהְיֶ֖ה",
+        "phrase": "shall-be",
+        "literal": "he-will-be",
+        "source": "H1961; KJV: shall be, ESV: shall be, NASB: shall apply"
+      },
+      {
+        "position": 4,
+        "surface": "לָֽ/אֶזְרָ֑ח",
+        "phrase": "for-the-native",
+        "literal": "to-the-native",
+        "source": "H249; KJV: homeborn, ESV: native, NASB: native"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לַ/גֵּ֖ר",
+        "phrase": "and-for-the-stranger",
+        "literal": "and-to-the-stranger",
+        "source": "H1616; KJV: stranger, ESV: stranger, NASB: stranger"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גָּ֥ר",
+        "phrase": "the-sojourning",
+        "literal": "the-sojourning",
+        "source": "H1481; KJV: sojourneth, ESV: sojourns, NASB: sojourns"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/תוֹכְ/כֶֽם",
+        "phrase": "in-your-midst",
+        "literal": "in-midst-your",
+        "source": "H8432; KJV: among you, ESV: among you, NASB: among you"
+      }
+    ]
+  }
+]

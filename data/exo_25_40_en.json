@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/רְאֵ֖ה",
+        "phrase": "And see",
+        "literal": "and-see",
+        "source": "H7200; KJV: look, ESV: see, NASB: See"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/עֲשֵׂ֑ה",
+        "phrase": "that you make",
+        "literal": "and-make",
+        "source": "H6213; KJV: make, ESV: make, NASB: make"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/תַ֨בְנִיתָ֔/ם",
+        "phrase": "after their pattern",
+        "literal": "in-pattern-of-them",
+        "source": "H8403; KJV: their pattern, ESV: the pattern for them, NASB: the pattern for them"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: which, ESV: that, NASB: which"
+      },
+      {
+        "position": 5,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859; KJV: thou, ESV: you, NASB: you"
+      },
+      {
+        "position": 6,
+        "surface": "מָרְאֶ֖ה",
+        "phrase": "was shown",
+        "literal": "seeing",
+        "source": "H7200; KJV: was shewed, ESV: I showed, NASB: was shown"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/הָֽר",
+        "phrase": "on the mountain",
+        "literal": "in-the-mountain",
+        "source": "H2022; KJV: in the mount, ESV: on the mountain, NASB: on the mountain"
+      }
+    ]
+  }
+]

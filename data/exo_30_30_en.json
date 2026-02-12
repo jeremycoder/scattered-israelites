@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and Aaron",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV/NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֥ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV/ESV/NASB: 'Aaron')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and his sons",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV/NASB: 'and')"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֖י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV/ESV/NASB: 'his sons')"
+      },
+      {
+        "position": 5,
+        "surface": "תִּמְשָׁ֑ח",
+        "phrase": "you shall anoint",
+        "literal": "you-shall-anoint",
+        "source": "H4886 (KJV: 'anoint'; ESV/NASB: 'anoint')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/קִדַּשְׁתָּ֥",
+        "phrase": "and you shall consecrate",
+        "literal": "and-you-shall-consecrate",
+        "source": "H6942 (KJV: 'consecrate'; ESV/NASB: 'consecrate')"
+      },
+      {
+        "position": 7,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "OBJ-them",
+        "source": "H853 (KJV/ESV/NASB: 'them')"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/כַהֵ֥ן",
+        "phrase": "to serve as priests",
+        "literal": "to-priest",
+        "source": "H3547 (KJV: 'minister in the priest's office'; ESV/NASB: 'minister as priests')"
+      },
+      {
+        "position": 9,
+        "surface": "לִֽ/י",
+        "phrase": "to Me",
+        "literal": "to-me",
+        "source": "'' (KJV/ESV/NASB: 'to me' / 'for me')"
+      }
+    ]
+  }
+]

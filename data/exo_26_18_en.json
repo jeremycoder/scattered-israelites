@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשִׂ֥יתָ",
+        "phrase": "And you shall make",
+        "literal": "and-you-shall-make",
+        "source": "H6213 (KJV: make; ESV: make; NASB: make)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קְּרָשִׁ֖ים",
+        "phrase": "the frames",
+        "literal": "the-frames",
+        "source": "H7175 (KJV: boards; ESV: frames; NASB: boards)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מִּשְׁכָּ֑ן",
+        "phrase": "for the tabernacle",
+        "literal": "for-the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶשְׂרִ֣ים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "H6242 (KJV: twenty; ESV: twenty; NASB: twenty)"
+      },
+      {
+        "position": 6,
+        "surface": "קֶ֔רֶשׁ",
+        "phrase": "frames",
+        "literal": "frame",
+        "source": "H7175 (KJV: boards; ESV: boards; NASB: boards)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְאַ֖ת",
+        "phrase": "for the side",
+        "literal": "to-side-of",
+        "source": "H6285 (KJV: side; ESV: side; NASB: side)"
+      },
+      {
+        "position": 8,
+        "surface": "נֶגְבָּ/ה",
+        "phrase": "of the south",
+        "literal": "south-ward",
+        "source": "H5045 (KJV: south; ESV: south; NASB: south)"
+      },
+      {
+        "position": 9,
+        "surface": "תֵימָֽנָ/ה",
+        "phrase": "southward",
+        "literal": "south-ward",
+        "source": "H8486 (KJV: southward; ESV: southward; NASB: southward)"
+      }
+    ]
+  }
+]

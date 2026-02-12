@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 34,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "gods",
+        "literal": "gods-of",
+        "source": "H430; KJV: molten gods, ESV: molten gods, NASB: molten gods"
+      },
+      {
+        "position": 2,
+        "surface": "מַסֵּכָ֖ה",
+        "phrase": "molten [image]",
+        "literal": "molten",
+        "source": "H4541; KJV: molten, ESV: molten, NASB: cast metal"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: no, ESV: no, NASB: shall not"
+      },
+      {
+        "position": 4,
+        "surface": "תַעֲשֶׂה",
+        "phrase": "you shall make",
+        "literal": "you-make",
+        "source": "H6213; KJV: make, ESV: make, NASB: make"
+      },
+      {
+        "position": 5,
+        "surface": "לָּֽ/ךְ",
+        "phrase": "for yourself",
+        "literal": "to-you",
+        "source": "; KJV: thee, ESV: yourselves, NASB: for yourselves"
+      }
+    ]
+  }
+]

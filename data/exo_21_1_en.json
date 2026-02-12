@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה֙",
+        "phrase": "Now these",
+        "literal": "and-these",
+        "source": "H428; KJV: 'Now these', ESV: 'Now these', NASB: 'Now these'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מִּשְׁפָּטִ֔ים",
+        "phrase": "are the judgments",
+        "literal": "the-judgments",
+        "source": "H4941; KJV: 'judgments', ESV: 'rules', NASB: 'ordinances'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'that', NASB: 'that'"
+      },
+      {
+        "position": 4,
+        "surface": "תָּשִׂ֖ים",
+        "phrase": "you shall set",
+        "literal": "you(shall)_set",
+        "source": "H7760; KJV: 'shalt set', ESV: 'shall set', NASB: 'shall set'"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵי/הֶֽם",
+        "phrase": "before them",
+        "literal": "to/before/them",
+        "source": "H6440; KJV: 'before them', ESV: 'before them', NASB: 'before them'"
+      }
+    ]
+  }
+]

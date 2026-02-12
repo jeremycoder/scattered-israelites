@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֹאת֙",
+        "phrase": "and this",
+        "literal": "and-this",
+        "source": "H2063; KJV: 'this is the offering', ESV: 'this is the contribution', NASB: 'This is the contribution'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תְּרוּמָ֔ה",
+        "phrase": "the offering",
+        "literal": "the-contribution",
+        "source": "H8641; KJV: 'offering', ESV: 'contribution', NASB: 'contribution'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV/ESV/NASB: 'which ye shall take/receive/raise'"
+      },
+      {
+        "position": 4,
+        "surface": "תִּקְח֖וּ",
+        "phrase": "you shall take",
+        "literal": "you(pl)-shall-take",
+        "source": "H3947; KJV: 'ye shall take', ESV: 'you shall receive', NASB: 'you are to raise'"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/אִתָּ֑/ם",
+        "phrase": "from them",
+        "literal": "from-with-them",
+        "source": "H854; KJV/ESV/NASB: 'of/from them'"
+      },
+      {
+        "position": 6,
+        "surface": "זָהָ֥ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV/ESV/NASB: 'gold'"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/כֶ֖סֶף",
+        "phrase": "and silver",
+        "literal": "and-silver",
+        "source": "H3701; KJV/ESV/NASB: 'and silver'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/נְחֹֽשֶׁת",
+        "phrase": "and bronze",
+        "literal": "and-bronze",
+        "source": "H5178; KJV: 'and brass', ESV/NASB: 'and bronze'"
+      }
+    ]
+  }
+]

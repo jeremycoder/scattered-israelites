@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַם",
+        "phrase": "And also",
+        "literal": "and-also",
+        "source": "H1571: KJV 'also'; ESV 'also'; NASB 'also'"
+      },
+      {
+        "position": 2,
+        "surface": "עֵ֥רֶב",
+        "phrase": "mixed multitude",
+        "literal": "mixture",
+        "source": "H6154: KJV 'multitude'; ESV 'multitude'; NASB 'multitude'"
+      },
+      {
+        "position": 3,
+        "surface": "רַ֖ב",
+        "phrase": "great",
+        "literal": "great-many",
+        "source": "H7227: KJV implied in 'mixed multitude'; ESV implied; NASB implied"
+      },
+      {
+        "position": 4,
+        "surface": "עָלָ֣ה",
+        "phrase": "went up",
+        "literal": "went-up",
+        "source": "H5927: KJV 'went up'; ESV 'went up'; NASB 'went up'"
+      },
+      {
+        "position": 5,
+        "surface": "אִתָּ֑/ם",
+        "phrase": "with them",
+        "literal": "with-them",
+        "source": "H854: KJV 'with them'; ESV 'with them'; NASB 'with them'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/צֹ֣אן",
+        "phrase": "flocks",
+        "literal": "and-flock",
+        "source": "H6629: KJV 'flocks'; ESV 'flocks'; NASB 'flocks'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בָקָ֔ר",
+        "phrase": "herds",
+        "literal": "and-cattle",
+        "source": "H1241: KJV 'herds'; ESV 'herds'; NASB 'herds'"
+      },
+      {
+        "position": 8,
+        "surface": "מִקְנֶ֖ה",
+        "phrase": "livestock",
+        "literal": "livestock",
+        "source": "H4735: KJV 'cattle'; ESV 'livestock'; NASB 'livestock'"
+      },
+      {
+        "position": 9,
+        "surface": "כָּבֵ֥ד",
+        "phrase": "very much",
+        "literal": "heavy",
+        "source": "H3515: KJV 'much'; ESV 'much'; NASB 'large'"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֹֽד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "H3966: KJV 'very'; ESV 'very'; NASB 'very'"
+      }
+    ]
+  }
+]

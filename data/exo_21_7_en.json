@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588 (KJV: And if; ESV: When; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "יִמְכֹּ֥ר",
+        "phrase": "sells",
+        "literal": "he-sells",
+        "source": "H4376 (KJV: sell; ESV: sells; NASB: sells)"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֛ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: a man; ESV: a man; NASB: a man)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "בִּתּ֖/וֹ",
+        "phrase": "his daughter",
+        "literal": "daughter-his",
+        "source": "H1323 (KJV: his daughter; ESV: his daughter; NASB: his daughter)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אָמָ֑ה",
+        "phrase": "as a maidservant",
+        "literal": "to-maidservant",
+        "source": "H519 (KJV: to be a maidservant; ESV: as a slave; NASB: as a female slave)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 8,
+        "surface": "תֵצֵ֖א",
+        "phrase": "she shall go out",
+        "literal": "she-goes-out",
+        "source": "H3318 (KJV: go out; ESV: go out; NASB: go free)"
+      },
+      {
+        "position": 9,
+        "surface": "כְּ/צֵ֥את",
+        "phrase": "as the going out",
+        "literal": "as-going-out",
+        "source": "H3318 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עֲבָדִֽים",
+        "phrase": "of the male slaves",
+        "literal": "the-slaves",
+        "source": "H5650 (KJV: menservants; ESV: male slaves; NASB: male slaves)"
+      }
+    ]
+  }
+]

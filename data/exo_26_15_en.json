@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשִׂ֥יתָ",
+        "phrase": "And you shall make",
+        "literal": "and-you-shall-make",
+        "source": "H6213 (KJV: 'make'; ESV: 'make'; NASB: 'construct')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]-",
+        "source": "H853 (KJV: '(thou shalt make) the'; ESV: '(you shall make) the'; NASB: '(you shall construct) the')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קְּרָשִׁ֖ים",
+        "phrase": "the boards",
+        "literal": "the-boards",
+        "source": "H7175 (KJV: 'boards'; ESV: 'frames'; NASB: 'boards')"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מִּשְׁכָּ֑ן",
+        "phrase": "for the tabernacle",
+        "literal": "for-the-tabernacle",
+        "source": "H4908 (KJV: 'of the tabernacle'; ESV: 'for the tabernacle'; NASB: 'for the tabernacle')"
+      },
+      {
+        "position": 5,
+        "surface": "עֲצֵ֥י",
+        "phrase": "trees of",
+        "literal": "trees-of",
+        "source": "H6086 (KJV: 'wood'; ESV: 'wood'; NASB: 'trees')"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁטִּ֖ים",
+        "phrase": "acacia",
+        "literal": "acacias",
+        "source": "H7848 (KJV: 'shittim'; ESV: 'acacia'; NASB: 'acacia')"
+      },
+      {
+        "position": 7,
+        "surface": "עֹמְדִֽים",
+        "phrase": "standing",
+        "literal": "standing",
+        "source": "H5975 (KJV: 'standing up'; ESV: 'standing upright'; NASB: 'upright)"
+      }
+    ]
+  }
+]

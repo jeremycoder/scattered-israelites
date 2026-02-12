@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "נֵרֹתֶ֖י/הָ",
+        "phrase": "its lamps",
+        "literal": "lamps-of-it",
+        "source": "H5216 (KJV: lamps; ESV: lamps; NASB: lamps)"
+      },
+      {
+        "position": 4,
+        "surface": "שִׁבְעָ֑ה",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "H7651 (KJV: seven; ESV: seven; NASB: seven)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מַלְקָחֶ֥י/הָ",
+        "phrase": "and its tongs",
+        "literal": "and tongs-of-it",
+        "source": "H4457 (KJV: snuffers; ESV: tongs; NASB: tongs)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מַחְתֹּתֶ֖י/הָ",
+        "phrase": "and its trays",
+        "literal": "and trays-of-it",
+        "source": "H4289 (KJV: snuffdishes; ESV: trays; NASB: trays)"
+      },
+      {
+        "position": 7,
+        "surface": "זָהָ֥ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 8,
+        "surface": "טָהֽוֹר",
+        "phrase": "pure",
+        "literal": "pure",
+        "source": "H2889 (KJV: pure; ESV: pure; NASB: pure)"
+      }
+    ]
+  }
+]

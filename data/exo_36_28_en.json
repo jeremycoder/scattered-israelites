@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁנֵ֤י",
+        "phrase": "and two",
+        "literal": "and-two",
+        "source": "H8147: KJV 'two', ESV 'two', NASB 'two'"
+      },
+      {
+        "position": 2,
+        "surface": "קְרָשִׁים֙",
+        "phrase": "boards",
+        "literal": "boards",
+        "source": "H7175: KJV 'boards', ESV 'frames', NASB 'frames'"
+      },
+      {
+        "position": 3,
+        "surface": "עָשָׂ֔ה",
+        "phrase": "he made",
+        "literal": "he-made",
+        "source": "H6213: KJV 'made', ESV 'made', NASB 'made'"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/מְקֻצְעֹ֖ת",
+        "phrase": "for the corners",
+        "literal": "to-corners-of",
+        "source": "H4742: KJV 'for the corners', ESV 'for the corners', NASB 'for the corners'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּשְׁכָּ֑ן",
+        "phrase": "of the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908: KJV 'tabernacle', ESV 'tabernacle', NASB 'tabernacle'"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/יַּרְכָתָֽיִם",
+        "phrase": "at the rear",
+        "literal": "in-the-rear-parts",
+        "source": "H3411: KJV 'hinder part', ESV 'back corners', NASB 'rear corners'"
+      }
+    ]
+  }
+]

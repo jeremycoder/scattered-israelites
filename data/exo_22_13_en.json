@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588: KJV 'If', ESV 'If', NASB 'If'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׁאַ֥ל",
+        "phrase": "he borrows",
+        "literal": "he-asks",
+        "source": "H7592: KJV 'borrow', ESV 'borrows', NASB 'borrows'"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֛ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376: KJV 'man', ESV 'person', NASB 'man'"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/עִ֥ם",
+        "phrase": "from with",
+        "literal": "from-with",
+        "source": "H5973: KJV 'from', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 5,
+        "surface": "רֵעֵ֖/הוּ",
+        "phrase": "his neighbor",
+        "literal": "neighbor-his",
+        "source": "H7453: KJV 'neighbour', ESV 'neighbor', NASB 'neighbor'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נִשְׁבַּ֣ר",
+        "phrase": "and it is broken",
+        "literal": "and-is-broken",
+        "source": "H7665: KJV 'be hurt', ESV 'is injured', NASB 'is injured'"
+      },
+      {
+        "position": 7,
+        "surface": "אוֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176: KJV 'or', ESV 'or', NASB 'or'"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ֑ת",
+        "phrase": "dies",
+        "literal": "dies",
+        "source": "H4191: KJV 'die', ESV 'dies', NASB 'dies'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּעָלָ֥י/ו",
+        "phrase": "its owner",
+        "literal": "owners-his",
+        "source": "H1167: KJV 'owner', ESV 'owner', NASB 'owner'"
+      },
+      {
+        "position": 10,
+        "surface": "אֵין",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H369: KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 11,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973: KJV 'with', ESV 'with', NASB 'with'"
+      },
+      {
+        "position": 12,
+        "surface": "שַׁלֵּ֥ם",
+        "phrase": "making restitution",
+        "literal": "making-restitution",
+        "source": "H7999: KJV 'surely', ESV 'must', NASB 'making restitution'"
+      },
+      {
+        "position": 13,
+        "surface": "יְשַׁלֵּֽם",
+        "phrase": "he shall make restitution",
+        "literal": "he-shall-make-restitution",
+        "source": "H7999: KJV 'make good', ESV 'make restitution', NASB 'he shall make restitution'"
+      }
+    ]
+  }
+]

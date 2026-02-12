@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קְּרָשִׁ֖ים",
+        "phrase": "boards",
+        "literal": "the-boards",
+        "source": "H7175 (KJV: boards; ESV: frames; NASB: boards)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מִּשְׁכָּ֑ן",
+        "phrase": "for the tabernacle",
+        "literal": "for-the-tabernacle",
+        "source": "H4908 (KJV: for the tabernacle; ESV: for the tabernacle; NASB: for the tabernacle)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲצֵ֥י",
+        "phrase": "of acacia",
+        "literal": "trees-of",
+        "source": "H6086 (KJV: [wood]; ESV: [acacia wood]; NASB: [acacia wood])"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁטִּ֖ים",
+        "phrase": "wood",
+        "literal": "shittim",
+        "source": "H7848 (KJV: shittim; ESV: acacia; NASB: acacia)"
+      },
+      {
+        "position": 7,
+        "surface": "עֹמְדִֽים",
+        "phrase": "standing upright",
+        "literal": "standing",
+        "source": "H5975 (KJV: standing up; ESV: standing upright; NASB: standing upright)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שַׂמְתָּ֥",
+        "phrase": "And you shall set",
+        "literal": "and-you-shall-put",
+        "source": "H7760; KJV: set, ESV: set up, NASB: set up"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶ/חָצֵ֖ר",
+        "phrase": "the court",
+        "literal": "the-court",
+        "source": "H2691; KJV: the court, ESV: the court, NASB: the courtyard"
+      },
+      {
+        "position": 4,
+        "surface": "סָבִ֑יב",
+        "phrase": "around",
+        "literal": "around",
+        "source": "H5439; KJV: round about, ESV: all around, NASB: around it"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/נָ֣תַתָּ֔",
+        "phrase": "and you shall put",
+        "literal": "and-you-shall-give/put",
+        "source": "H5414; KJV: offered (contextual), ESV: hang up, NASB: hang"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "מָסַ֖ךְ",
+        "phrase": "the screen",
+        "literal": "screen",
+        "source": "H4539; KJV: hanging, ESV: screen, NASB: screen"
+      },
+      {
+        "position": 8,
+        "surface": "שַׁ֥עַר",
+        "phrase": "of the gate",
+        "literal": "gate",
+        "source": "H8179; KJV: gate, ESV: gate, NASB: gate"
+      },
+      {
+        "position": 9,
+        "surface": "הֶ/חָצֵֽר",
+        "phrase": "of the court",
+        "literal": "the-court",
+        "source": "H2691; KJV: of the court, ESV: of the court, NASB: of the courtyard"
+      }
+    ]
+  }
+]

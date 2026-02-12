@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹבֵ֥עַ",
+        "phrase": "sacrifices",
+        "literal": "sacrificing",
+        "source": "H2076; KJV: sacrificeth, ESV: sacrifices, NASB: sacrifices"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/אֱלֹהִ֖ים",
+        "phrase": "to gods",
+        "literal": "to-gods",
+        "source": "H430; KJV: unto the gods, ESV: to any god, NASB: to any god"
+      },
+      {
+        "position": 3,
+        "surface": "יָֽחֳרָ֑ם",
+        "phrase": "shall be destroyed",
+        "literal": "he-shall-be-devoted",
+        "source": "H2763; KJV: shall be utterly destroyed, ESV: shall be devoted to destruction, NASB: shall be utterly destroyed"
+      },
+      {
+        "position": 4,
+        "surface": "בִּלְתִּ֥י",
+        "phrase": "except",
+        "literal": "except",
+        "source": "H1115; KJV: save, ESV: except, NASB: except"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָ֖ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV: unto the LORD, ESV: to the LORD, NASB: to the LORD"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/בַדּֽ/וֹ",
+        "phrase": "alone",
+        "literal": "to-alone-his",
+        "source": "H905; KJV: only, ESV: alone, NASB: alone"
+      }
+    ]
+  }
+]

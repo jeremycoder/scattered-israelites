@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שֵׁ֤שֶׁת",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337; KJV/ESV/NASB: 'Six'"
+      },
+      {
+        "position": 2,
+        "surface": "יָמִים֙",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117; KJV/ESV/NASB: 'days'"
+      },
+      {
+        "position": 3,
+        "surface": "תַּֽעֲבֹ֔ד",
+        "phrase": "you-shall-labor",
+        "literal": "you-shall-work",
+        "source": "H5647; KJV: 'shalt labour', ESV/NASB: 'shall labor'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/עָשִׂ֖יתָ",
+        "phrase": "and-you-shall-do",
+        "literal": "and-you-shall-do",
+        "source": "H6213; KJV/ESV/NASB: 'do'"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV/ESV/NASB: 'all'"
+      },
+      {
+        "position": 6,
+        "surface": "מְלַאכְתֶּֽ/ךָ",
+        "phrase": "your-work",
+        "literal": "work-your",
+        "source": "H4399; KJV/ESV/NASB: 'thy work'"
+      }
+    ]
+  }
+]

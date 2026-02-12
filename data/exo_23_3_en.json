@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דָ֕ל",
+        "phrase": "a poor man",
+        "literal": "and-poor",
+        "source": "H1800; KJV: poor man, ESV: poor man, NASB: poor man"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "nor",
+        "literal": "not",
+        "source": "H3808; KJV: neither, ESV: nor, NASB: nor"
+      },
+      {
+        "position": 3,
+        "surface": "תֶהְדַּ֖ר",
+        "phrase": "shall you be partial",
+        "literal": "you-shall-glorify",
+        "source": "H1921; KJV: countenance/shalt thou countenance, ESV: be partial, NASB: be partial"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/רִיבֽ/וֹ",
+        "phrase": "in his case",
+        "literal": "in-lawsuit-his",
+        "source": "H7379; KJV: in his cause, ESV: in his dispute, NASB: in his dispute"
+      }
+    ]
+  }
+]

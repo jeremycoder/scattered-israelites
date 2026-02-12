@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "obj",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מְּנֹרָ֨ה",
+        "phrase": "the lampstand",
+        "literal": "the-lampstand",
+        "source": "H4501 (KJV: candlestick; ESV: lampstand; NASB: lampstand)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/טְּהֹרָ֜ה",
+        "phrase": "the pure",
+        "literal": "the-pure",
+        "source": "H2889 (KJV: pure; ESV: pure; NASB: pure)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "obj",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "נֵרֹתֶ֗י/הָ",
+        "phrase": "its lamps",
+        "literal": "lamps-of-it",
+        "source": "H5216 (KJV: lamps thereof; ESV: lamps; NASB: lamps)"
+      },
+      {
+        "position": 6,
+        "surface": "נֵרֹ֛ת",
+        "phrase": "the lamps",
+        "literal": "lamps",
+        "source": "H5216 (KJV: lamps to be set in order; ESV: lamps set; NASB: arrangement of lamps)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מַּֽעֲרָכָ֖ה",
+        "phrase": "of the arrangement",
+        "literal": "the-arrangement",
+        "source": "H4634 (KJV: lamps to be set in order; ESV: lamps set; NASB: arrangement)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 10,
+        "surface": "כֵּלֶ֑י/הָ",
+        "phrase": "its utensils",
+        "literal": "utensils-of-it",
+        "source": "H3627 (KJV: vessels thereof; ESV: utensils; NASB: utensils)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 12,
+        "surface": "שֶׁ֥מֶן",
+        "phrase": "the oil",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מָּאֽוֹר",
+        "phrase": "for the light",
+        "literal": "the-light",
+        "source": "H3974 (KJV: for light; ESV: for the light; NASB: for the light)"
+      }
+    ]
+  }
+]

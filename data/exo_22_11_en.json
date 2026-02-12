@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "and-if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'if'; ESV: 'if'; NASB: 'if')"
+      },
+      {
+        "position": 2,
+        "surface": "גָּנֹ֥ב",
+        "phrase": "it-is-stolen",
+        "literal": "stolen-is",
+        "source": "H1589 (KJV: 'stolen'; ESV: 'stolen'; NASB: 'stolen')"
+      },
+      {
+        "position": 3,
+        "surface": "יִגָּנֵ֖ב",
+        "phrase": "it-be-stolen",
+        "literal": "it-is-stolen",
+        "source": "H1589 (KJV: 'stolen'; ESV: 'stolen'; NASB: 'stolen')"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/עִמּ֑/וֹ",
+        "phrase": "from-with-him",
+        "literal": "from-with-him",
+        "source": "H5973 (KJV: 'from him'; ESV: 'from him'; NASB: 'from him')"
+      },
+      {
+        "position": 5,
+        "surface": "יְשַׁלֵּ֖ם",
+        "phrase": "he-shall-make-restitution",
+        "literal": "he-shall-make-good",
+        "source": "H7999 (KJV: 'shall pay'; ESV: 'shall make restitution'; NASB: 'shall make restitution')"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/בְעָלָֽי/ו",
+        "phrase": "to-its-owner",
+        "literal": "to-owner-his",
+        "source": "H1167 (KJV: 'the owner thereof'; ESV: 'its owner'; NASB: 'its owner')"
+      }
+    ]
+  }
+]

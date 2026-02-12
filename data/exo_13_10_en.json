@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 13,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁמַרְתָּ֛",
+        "phrase": "and you shall keep",
+        "literal": "and-you-shall-keep",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: keep)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/חֻקָּ֥ה",
+        "phrase": "the statute",
+        "literal": "the-statute",
+        "source": "H2708 (KJV: ordinance; ESV: statute; NASB: ordinance)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זֹּ֖את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מוֹעֲדָ֑/הּ",
+        "phrase": "at its appointed time",
+        "literal": "to-appointed-time-its",
+        "source": "H4150 (KJV: time appointed; ESV: appointed time; NASB: appointed time)"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/יָּמִ֖ים",
+        "phrase": "from days",
+        "literal": "from-days",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 7,
+        "surface": "יָמִֽימָ/ה",
+        "phrase": "to day",
+        "literal": "day-to-day",
+        "source": "H3117 (KJV: year to year; ESV: year to year; NASB: year by year)"
+      }
+    ]
+  }
+]

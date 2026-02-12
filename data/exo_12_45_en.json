@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תּוֹשָׁ֥ב",
+        "phrase": "temporary resident",
+        "literal": "sojourner",
+        "source": "H8453 (KJV: sojourner; ESV: temporary resident; NASB: alien)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/שָׂכִ֖יר",
+        "phrase": "or hired servant",
+        "literal": "and-hired-man",
+        "source": "H7916 (KJV: hired servant; ESV: hired hand; NASB: hired servant)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹא",
+        "phrase": "shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: shall not; NASB: shall not)"
+      },
+      {
+        "position": 4,
+        "surface": "יֹ֥אכַל",
+        "phrase": "eat",
+        "literal": "he-will-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 5,
+        "surface": "בּֽ/וֹ",
+        "phrase": "it",
+        "literal": "in-it",
+        "source": ""
+      }
+    ]
+  }
+]

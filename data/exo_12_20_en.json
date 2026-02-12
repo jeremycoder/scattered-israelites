@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "anything",
+        "literal": "all",
+        "source": "H3605 (KJV: nothing; ESV: nothing; NASB: anything)"
+      },
+      {
+        "position": 2,
+        "surface": "מַחְמֶ֖צֶת",
+        "phrase": "leavened",
+        "literal": "leavened-thing",
+        "source": "H2557 (KJV: leavened; ESV: leavened; NASB: leavened)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: nothing [with context]; ESV: nothing [with context]; NASB: nothing [with context])"
+      },
+      {
+        "position": 4,
+        "surface": "תֹאכֵ֑לוּ",
+        "phrase": "shall you eat",
+        "literal": "you(pl)-shall-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/כֹל֙",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: in all; ESV: in all; NASB: in all)"
+      },
+      {
+        "position": 6,
+        "surface": "מוֹשְׁבֹ֣תֵי/כֶ֔ם",
+        "phrase": "your dwellings",
+        "literal": "sittings-of-you(pl)",
+        "source": "H4186 (KJV: habitations; ESV: dwelling places; NASB: dwellings)"
+      },
+      {
+        "position": 7,
+        "surface": "תֹּאכְל֖וּ",
+        "phrase": "shall you eat",
+        "literal": "you(pl)-shall-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 8,
+        "surface": "מַצּֽוֹת",
+        "phrase": "unleavened bread",
+        "literal": "unleavened-cakes",
+        "source": "H4682 (KJV: unleavened bread; ESV: unleavened bread; NASB: unleavened bread)"
+      }
+    ]
+  }
+]

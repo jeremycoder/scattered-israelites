@@ -1,0 +1,25 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֖א",
+        "phrase": "shall not",
+        "literal": "not",
+        "source": "H3808; KJV: 'not', ESV: 'not', NASB: 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תִּגְנֹֽב",
+        "phrase": "steal",
+        "literal": "you(m.s.)-shall-steal",
+        "source": "H1589; KJV: 'steal', ESV: 'steal', NASB: 'steal'"
+      }
+    ]
+  }
+]

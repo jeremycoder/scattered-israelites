@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְמַהֵ֣ר",
+        "phrase": "and hurried",
+        "literal": "and-he-hastened",
+        "source": "H4116; KJV: in haste, ESV: hastily, NASB: hurriedly"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547; KJV: Pharaoh, ESV: Pharaoh, NASB: Pharaoh"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/קְרֹ֖א",
+        "phrase": "to call",
+        "literal": "to-call",
+        "source": "H7121; KJV: called, ESV: called, NASB: called"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/מֹשֶׁ֣ה",
+        "phrase": "for Moses",
+        "literal": "to-Moses",
+        "source": "H4872; KJV: Moses, ESV: Moses, NASB: Moses"
+      },
+      {
+        "position": 5,
+        "surface": "וּֽ/לְ/אַהֲרֹ֑ן",
+        "phrase": "and to Aaron",
+        "literal": "and-to-Aaron",
+        "source": "H175; KJV: Aaron, ESV: Aaron, NASB: Aaron"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: said, ESV: said, NASB: said"
+      },
+      {
+        "position": 7,
+        "surface": "חָטָ֛אתִי",
+        "phrase": "I have sinned",
+        "literal": "I-have-sinned",
+        "source": "H2398; KJV: I have sinned, ESV: I have sinned, NASB: I have sinned"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/יהוָ֥ה",
+        "phrase": "against YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV: LORD, ESV: Lord, NASB: Lord"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹֽהֵי/כֶ֖ם",
+        "phrase": "your God",
+        "literal": "gods-your",
+        "source": "H430; KJV: your God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לָ/כֶֽם",
+        "phrase": "and against you",
+        "literal": "and-to-you",
+        "source": "; KJV: against you, ESV: against you, NASB: against you"
+      }
+    ]
+  }
+]

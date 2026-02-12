@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַמָּ֨ה",
+        "phrase": "a cubit",
+        "literal": "cubit",
+        "source": "H520 (KJV: cubit; ESV: cubit; NASB: cubit)"
+      },
+      {
+        "position": 2,
+        "surface": "אָרְכּ֜/וֹ",
+        "phrase": "its length",
+        "literal": "length-of-it",
+        "source": "H753 (KJV: length thereof; ESV: its length; NASB: its length)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַמָּ֤ה",
+        "phrase": "and a cubit",
+        "literal": "and-cubit",
+        "source": "H520 (KJV: and a cubit; ESV: and its width a cubit; NASB: and its width a cubit)"
+      },
+      {
+        "position": 4,
+        "surface": "רָחְבּ/וֹ֙",
+        "phrase": "its width",
+        "literal": "width-of-it",
+        "source": "H7341 (KJV: breadth thereof; ESV: its width; NASB: its width)"
+      },
+      {
+        "position": 5,
+        "surface": "רָב֣וּעַ",
+        "phrase": "square",
+        "literal": "square",
+        "source": "H7251 (KJV: foursquare; ESV: square; NASB: square)"
+      },
+      {
+        "position": 6,
+        "surface": "יִהְיֶ֔ה",
+        "phrase": "it shall be",
+        "literal": "it-shall-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: shall be)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַמָּתַ֖יִם",
+        "phrase": "and two cubits",
+        "literal": "and-two-cubits",
+        "source": "H520 (KJV: two cubits; ESV: two cubits; NASB: two cubits)"
+      },
+      {
+        "position": 8,
+        "surface": "קֹמָת֑/וֹ",
+        "phrase": "its height",
+        "literal": "height-of-it",
+        "source": "H6967 (KJV: height thereof; ESV: its height; NASB: its height)"
+      },
+      {
+        "position": 9,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "H4480 (KJV: of the same; ESV: of one piece with it; NASB: of one piece with it)"
+      },
+      {
+        "position": 10,
+        "surface": "קַרְנֹתָֽי/ו",
+        "phrase": "its horns",
+        "literal": "horns-of-it",
+        "source": "H7161 (KJV: horns; ESV: its horns; NASB: its horns)"
+      }
+    ]
+  }
+]

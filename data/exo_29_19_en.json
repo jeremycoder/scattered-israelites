@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָ֣קַחְתָּ֔",
+        "phrase": "And you shall take",
+        "literal": "and-you-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אַ֣יִל",
+        "phrase": "ram",
+        "literal": "the-ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שֵּׁנִ֑י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: other; ESV: other; NASB: other)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/סָמַ֨ךְ",
+        "phrase": "and shall lay",
+        "literal": "and-lay",
+        "source": "H5564 (KJV: put; ESV: lay; NASB: lay)"
+      },
+      {
+        "position": 6,
+        "surface": "אַהֲרֹ֧ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בָנָ֛י/ו",
+        "phrase": "and his sons",
+        "literal": "and-sons-his",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "יְדֵי/הֶ֖ם",
+        "phrase": "their hands",
+        "literal": "hands-their",
+        "source": "H3027 (KJV: hands; ESV: hands; NASB: hands)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 11,
+        "surface": "רֹ֥אשׁ",
+        "phrase": "head",
+        "literal": "head",
+        "source": "H7218 (KJV: head; ESV: head; NASB: head)"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אָֽיִל",
+        "phrase": "of the ram",
+        "literal": "of-the-ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: if; ESV: but if; NASB: but if)"
+      },
+      {
+        "position": 2,
+        "surface": "טָרֹ֥ף",
+        "phrase": "torn",
+        "literal": "torn",
+        "source": "H2963 (KJV: torn in pieces; ESV: torn by beasts; NASB: torn by beasts)"
+      },
+      {
+        "position": 3,
+        "surface": "יִטָּרֵ֖ף",
+        "phrase": "it is torn",
+        "literal": "it-is-torn",
+        "source": "H2963 (KJV: torn in pieces; ESV: torn by beasts; NASB: torn by beasts)"
+      },
+      {
+        "position": 4,
+        "surface": "יְבִאֵ֣/הוּ",
+        "phrase": "he brings it",
+        "literal": "he-brings/it",
+        "source": "H935 (KJV: bring it; ESV: bring it; NASB: bring it)"
+      },
+      {
+        "position": 5,
+        "surface": "עֵ֑ד",
+        "phrase": "as evidence",
+        "literal": "evidence",
+        "source": "H5707 (KJV: witness; ESV: evidence; NASB: evidence)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/טְּרֵפָ֖ה",
+        "phrase": "the torn animal",
+        "literal": "the/torn-thing",
+        "source": "H2966 (KJV: torn; ESV: torn by beasts; NASB: carcass)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 8,
+        "surface": "יְשַׁלֵּֽם",
+        "phrase": "he shall make restitution",
+        "literal": "he-shall-make-restitution",
+        "source": "H7999 (KJV: make good; ESV: make restitution; NASB: make restitution)"
+      }
+    ]
+  }
+]

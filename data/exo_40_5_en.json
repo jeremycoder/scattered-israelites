@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתָּ֞ה",
+        "phrase": "and you shall put",
+        "literal": "and-you-shall-put",
+        "source": "H5414 (KJV: set; ESV: place; NASB: set)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "מִזְבַּ֤ח",
+        "phrase": "the altar",
+        "literal": "altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זָּהָב֙",
+        "phrase": "of gold",
+        "literal": "the-gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/קְטֹ֔רֶת",
+        "phrase": "for incense",
+        "literal": "for-incense",
+        "source": "H7004 (KJV: incense; ESV: incense; NASB: incense)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: in front of; NASB: before)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲר֣וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עֵדֻ֑ת",
+        "phrase": "of the testimony",
+        "literal": "the-testimony",
+        "source": "H5715 (KJV: testimony; ESV: the testimony; NASB: the testimony)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שַׂמְתָּ֛",
+        "phrase": "and you shall put",
+        "literal": "and-you-shall-put",
+        "source": "H7760 (KJV: put; ESV: put; NASB: set)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "מָסַ֥ךְ",
+        "phrase": "the screen",
+        "literal": "screen",
+        "source": "H4539 (KJV: hanging; ESV: curtain; NASB: screen)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/פֶּ֖תַח",
+        "phrase": "of the entrance",
+        "literal": "the-door",
+        "source": "H6607 (KJV: door; ESV: entrance; NASB: doorway)"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/מִּשְׁכָּֽן",
+        "phrase": "to the tabernacle",
+        "literal": "to-the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      }
+    ]
+  }
+]

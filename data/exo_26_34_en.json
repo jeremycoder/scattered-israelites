@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתָּ֙",
+        "phrase": "And you shall put",
+        "literal": "and-you-shall-give/put",
+        "source": "H5414 (KJV: 'And thou shalt put'; ESV: 'You shall put'; NASB: 'You shall place')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: '-'; ESV: '-'; NASB: '-'; marks direct object)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כַּפֹּ֔רֶת",
+        "phrase": "the mercy seat",
+        "literal": "the-covering",
+        "source": "H3727 (KJV: 'mercyseat'; ESV: 'mercy seat'; NASB: 'mercy seat')"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 5,
+        "surface": "אֲר֣וֹן",
+        "phrase": "ark",
+        "literal": "ark",
+        "source": "H727 (KJV: 'ark'; ESV: 'ark'; NASB: 'ark')"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עֵדֻ֑ת",
+        "phrase": "of the testimony",
+        "literal": "the-testimony",
+        "source": "H5715 (KJV: 'testimony'; ESV: 'testimony'; NASB: 'testimony')"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/קֹ֖דֶשׁ",
+        "phrase": "in the holy [place]",
+        "literal": "in-holy",
+        "source": "H6944 (KJV: 'in the holy'; ESV: 'in the Holy Place'; NASB: 'in the holy place')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קֳּדָשִֽׁים",
+        "phrase": "of holies",
+        "literal": "the-holies",
+        "source": "H6944 (KJV: 'Holy'; ESV: 'Most Holy Place'; NASB: 'Most Holy Place')"
+      }
+    ]
+  }
+]

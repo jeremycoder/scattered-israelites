@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יַּעֲשׂ֛וּ",
+        "phrase": "And they made",
+        "literal": "and-they-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כָּתְנֹ֥ת",
+        "phrase": "tunics",
+        "literal": "the-tunics",
+        "source": "H3801 (KJV: coats; ESV: tunics; NASB: tunics)"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֖שׁ",
+        "phrase": "fine linen",
+        "literal": "linen",
+        "source": "H8336 (KJV: fine linen; ESV: fine linen; NASB: fine linen)"
+      },
+      {
+        "position": 5,
+        "surface": "מַעֲשֵׂ֣ה",
+        "phrase": "work",
+        "literal": "work-of",
+        "source": "H4639 (KJV: work; ESV: work; NASB: work)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹרֵ֑ג",
+        "phrase": "of a weaver",
+        "literal": "weaver",
+        "source": "H707 (KJV: weaver; ESV: weaver; NASB: weaver)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/אַהֲרֹ֖ן",
+        "phrase": "for Aaron",
+        "literal": "to/for-Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/בָנָֽי/ו",
+        "phrase": "and for his sons",
+        "literal": "and-to/for-sons-his",
+        "source": "H1121 (KJV: his sons; ESV: his sons; NASB: his sons)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and his",
+        "literal": "and-obj",
+        "source": "H853 (KJV: his/and; ESV: his/and; NASB: his/and)"
+      },
+      {
+        "position": 2,
+        "surface": "בָּנָ֖י/ו",
+        "phrase": "sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 3,
+        "surface": "תַּקְרִ֑יב",
+        "phrase": "you shall bring near",
+        "literal": "you-bring_near",
+        "source": "H7126 (KJV: bring; ESV: bring; NASB: bring)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִלְבַּשְׁתָּ֥",
+        "phrase": "and you shall clothe",
+        "literal": "and-you_clothe",
+        "source": "H3847 (KJV: put on; ESV: put; NASB: clothe)"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "obj-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 6,
+        "surface": "כֻּתֳּנֹֽת",
+        "phrase": "tunics",
+        "literal": "tunics",
+        "source": "H3801 (KJV: coats; ESV: coats; NASB: tunics)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 15,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נָטִ֨יתָ֙",
+        "phrase": "You stretched out",
+        "literal": "you-stretched-out",
+        "source": "H5186 (KJV: stretchedst out; ESV: stretched out; NASB: stretched out)"
+      },
+      {
+        "position": 2,
+        "surface": "יְמִ֣ינְ/ךָ֔",
+        "phrase": "your right hand",
+        "literal": "right-hand/your",
+        "source": "H3225 (KJV: thy right hand; ESV: your right hand; NASB: Your right hand)"
+      },
+      {
+        "position": 3,
+        "surface": "תִּבְלָעֵ֖/מוֹ",
+        "phrase": "swallowed them",
+        "literal": "it-swallows/them",
+        "source": "H1104 (KJV: swallowed; ESV: swallowed; NASB: swallowed)"
+      },
+      {
+        "position": 4,
+        "surface": "אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "earth",
+        "source": "H776 (KJV: the earth; ESV: the earth; NASB: the earth)"
+      }
+    ]
+  }
+]

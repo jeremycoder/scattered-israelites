@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: implied in 'the one lamb'; ESV: implied in 'one lamb'; NASB: implied in 'the one lamb')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֶּ֥בֶשׂ",
+        "phrase": "the lamb",
+        "literal": "the-lamb",
+        "source": "H3532 (KJV: 'lamb'; ESV: 'lamb'; NASB: 'lamb')"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֶחָ֖ד",
+        "phrase": "the one",
+        "literal": "the-one",
+        "source": "H259 (KJV: 'one'; ESV: 'one'; NASB: 'one')"
+      },
+      {
+        "position": 4,
+        "surface": "תַּעֲשֶׂ֣ה",
+        "phrase": "you shall offer",
+        "literal": "you-shall-make/offer",
+        "source": "H6213 (KJV: 'offer'; ESV: 'offer'; NASB: 'offer')"
+      },
+      {
+        "position": 5,
+        "surface": "בַ/בֹּ֑קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: 'morning'; ESV: 'morning'; NASB: 'morning')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: implied in 'the other lamb'; ESV: implied in 'the other lamb'; NASB: implied in 'the other lamb')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כֶּ֣בֶשׂ",
+        "phrase": "the lamb",
+        "literal": "the-lamb",
+        "source": "H3532 (KJV: 'lamb'; ESV: 'lamb'; NASB: 'lamb')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שֵּׁנִ֔י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: 'other'; ESV: 'other'; NASB: 'other')"
+      },
+      {
+        "position": 9,
+        "surface": "תַּעֲשֶׂ֖ה",
+        "phrase": "you shall offer",
+        "literal": "you-shall-make/offer",
+        "source": "H6213 (KJV: 'offer'; ESV: 'offer'; NASB: 'offer')"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996 (KJV: implied in 'at even'; ESV: implied in 'at twilight'; NASB: implied in 'at twilight')"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עַרְבָּֽיִם",
+        "phrase": "the evenings",
+        "literal": "the-evenings",
+        "source": "H6153 (KJV: 'even'; ESV: 'twilight'; NASB: 'twilight')"
+      }
+    ]
+  }
+]

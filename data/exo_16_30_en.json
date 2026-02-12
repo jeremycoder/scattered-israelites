@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁבְּת֥וּ",
+        "phrase": "and they rested",
+        "literal": "and-they-rested",
+        "source": "H7673; KJV/ESV/NASB: 'rested' (in 'So the people rested')"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971; KJV/ESV/NASB: 'the people' (in 'So the people rested')"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יּ֥וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117; KJV/ESV/NASB: 'on the ... day' (in 'on the seventh day')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁבִעִֽי",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637; KJV/ESV/NASB: 'seventh' (in 'on the seventh day')"
+      }
+    ]
+  }
+]

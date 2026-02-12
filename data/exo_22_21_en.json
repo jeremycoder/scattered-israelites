@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605 (KJV: any; ESV: any; NASB: any)"
+      },
+      {
+        "position": 2,
+        "surface": "אַלְמָנָ֥ה",
+        "phrase": "widow",
+        "literal": "widow",
+        "source": "H490 (KJV: widow; ESV: widow; NASB: widow)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יָת֖וֹם",
+        "phrase": "or orphan",
+        "literal": "and-orphan",
+        "source": "H3490 (KJV: fatherless; ESV: fatherless; NASB: fatherless)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "תְעַנּֽוּ/ן",
+        "phrase": "you shall oppress",
+        "literal": "you(pl)-shall-afflict",
+        "source": "H6031 (KJV: afflict; ESV: wrong; NASB: mistreat)"
+      }
+    ]
+  }
+]

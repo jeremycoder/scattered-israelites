@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּלְקְט֤וּ",
+        "phrase": "and they gathered",
+        "literal": "and-they-gathered",
+        "source": "H3950 (KJV: gathered; ESV: gathered; NASB: gathered)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹת/וֹ֙",
+        "phrase": "it",
+        "literal": "[direct object marker]-it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/בֹּ֣קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: every morning; ESV: morning; NASB: morning)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/בֹּ֔קֶר",
+        "phrase": "morning by morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: every morning; ESV: morning by morning; NASB: morning by morning)"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֖ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376 (KJV: every man; ESV: each; NASB: every man)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּ/פִ֣י",
+        "phrase": "according to",
+        "literal": "as-mouth-of",
+        "source": "H6310 (KJV: according to; ESV: as much as; NASB: as much as)"
+      },
+      {
+        "position": 7,
+        "surface": "אָכְל֑/וֹ",
+        "phrase": "his eating",
+        "literal": "eating-his",
+        "source": "H400 (KJV: his eating; ESV: he could eat; NASB: he would eat)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חַ֥ם",
+        "phrase": "and grew hot",
+        "literal": "and-it-became-hot",
+        "source": "H2552 (KJV: waxed hot; ESV: grew hot; NASB: became hot)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שֶּׁ֖מֶשׁ",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "H8121 (KJV: the sun; ESV: the sun; NASB: the sun)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/נָמָֽס",
+        "phrase": "and it melted",
+        "literal": "and-it-melted",
+        "source": "H4549 (KJV: it melted; ESV: it melted; NASB: it would melt)"
+      }
+    ]
+  }
+]

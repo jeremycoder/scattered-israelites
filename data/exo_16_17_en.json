@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲשׂוּ",
+        "phrase": "did so",
+        "literal": "and-they-did",
+        "source": "H6213; KJV: 'did so', ESV: 'did so', NASB: 'did so'"
+      },
+      {
+        "position": 2,
+        "surface": "כֵ֖ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651; KJV: 'so', ESV: 'so', NASB: 'so'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "children of",
+        "literal": "sons-of",
+        "source": "H1121; KJV: 'children', ESV: 'sons', NASB: 'sons'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: 'of Israel', ESV: 'of Israel', NASB: 'of Israel'"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽ/יִּלְקְט֔וּ",
+        "phrase": "and they gathered",
+        "literal": "and-they-gathered",
+        "source": "H3950; KJV: 'gathered', ESV: 'gathered', NASB: 'gathered'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מַּרְבֶּ֖ה",
+        "phrase": "the one gathering much",
+        "literal": "the-multiplying",
+        "source": "H7235; KJV: 'some more', ESV: 'some more', NASB: 'much'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/מַּמְעִֽיט",
+        "phrase": "and the one gathering little",
+        "literal": "and-the-diminishing",
+        "source": "H4591; KJV: 'some less', ESV: 'some less', NASB: 'little"
+      }
+    ]
+  }
+]

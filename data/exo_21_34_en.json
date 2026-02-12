@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ֤עַל",
+        "phrase": "the owner",
+        "literal": "owner-of",
+        "source": "H1167; KJV/ESV/NASB: 'the owner' (of the pit)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בּוֹר֙",
+        "phrase": "of the pit",
+        "literal": "the-pit",
+        "source": "H953; KJV/ESV/NASB: 'the pit'"
+      },
+      {
+        "position": 3,
+        "surface": "יְשַׁלֵּ֔ם",
+        "phrase": "shall make restitution",
+        "literal": "he-shall-make-good",
+        "source": "H7999; KJV: 'shall make it good', ESV/NASB: 'shall make restitution'"
+      },
+      {
+        "position": 4,
+        "surface": "כֶּ֖סֶף",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701; KJV/ESV/NASB: 'money'/'silver'"
+      },
+      {
+        "position": 5,
+        "surface": "יָשִׁ֣יב",
+        "phrase": "he shall return",
+        "literal": "he-shall-return",
+        "source": "H7725; KJV/ESV/NASB: 'give'/'return'"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/בְעָלָ֑י/ו",
+        "phrase": "to its owner",
+        "literal": "to-owners-his",
+        "source": "H1167; KJV/ESV/NASB: 'unto the owner'/'to its owner'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/מֵּ֖ת",
+        "phrase": "and the dead",
+        "literal": "and-the-dead",
+        "source": "H4191; KJV/ESV/NASB: 'the dead'/'the dead [animal]'"
+      },
+      {
+        "position": 8,
+        "surface": "יִֽהְיֶה",
+        "phrase": "shall be",
+        "literal": "he-shall-be",
+        "source": "H1961; KJV/ESV/NASB: 'shall be'/'shall be'"
+      },
+      {
+        "position": 9,
+        "surface": "לּֽ/וֹ",
+        "phrase": "his",
+        "literal": "to-him",
+        "source": "-; KJV/ESV/NASB: 'his'/'his'"
+      }
+    ]
+  }
+]

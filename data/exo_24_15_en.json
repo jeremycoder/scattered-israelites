@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 24,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַל",
+        "phrase": "and went up",
+        "literal": "and-he-went-up",
+        "source": "H5927 (KJV: went up; ESV: went up; NASB: went up)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: on; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/הָ֑ר",
+        "phrase": "the mountain",
+        "literal": "the-mountain",
+        "source": "H2022 (KJV: the mount; ESV: the mountain; NASB: the mountain)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְכַ֥ס",
+        "phrase": "and covered",
+        "literal": "and-it-covered",
+        "source": "H3680 (KJV: covered; ESV: covered; NASB: covered)"
+      },
+      {
+        "position": 6,
+        "surface": "הֶ/עָנָ֖ן",
+        "phrase": "the cloud",
+        "literal": "the-cloud",
+        "source": "H6051 (KJV: a cloud; ESV: the cloud; NASB: the cloud)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/הָֽר",
+        "phrase": "the mountain",
+        "literal": "the-mountain",
+        "source": "H2022 (KJV: the mount; ESV: the mountain; NASB: the mountain)"
+      }
+    ]
+  }
+]

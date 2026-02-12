@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שָׁלֹ֣שׁ",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969; KJV/ESV/NASB: 'Three'"
+      },
+      {
+        "position": 2,
+        "surface": "רְגָלִ֔ים",
+        "phrase": "times",
+        "literal": "feet-PL",
+        "source": "H7272; KJV: 'times', ESV: 'times', NASB: 'times' (lit. 'feet')"
+      },
+      {
+        "position": 3,
+        "surface": "תָּחֹ֥ג",
+        "phrase": "you shall celebrate",
+        "literal": "you(M.S)-shall-celebrate",
+        "source": "H2287; KJV: 'keep a feast', ESV: 'celebrate a feast', NASB: 'celebrate the Feast'"
+      },
+      {
+        "position": 4,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to/me",
+        "source": "; KJV/ESV/NASB: 'to me'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/שָּׁנָֽה",
+        "phrase": "in the year",
+        "literal": "in-the/year",
+        "source": "H8141; KJV/ESV/NASB: 'in the year'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁחַטְתָּ֥",
+        "phrase": "you shall kill",
+        "literal": "and-you-will-slaughter",
+        "source": "H7819 (KJV: kill; ESV: kill; NASB: kill)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/פָּ֖ר",
+        "phrase": "bull",
+        "literal": "the-bull",
+        "source": "H6499 (KJV: bullock; ESV: bull; NASB: bull)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "פֶּ֖תַח",
+        "phrase": "entrance",
+        "literal": "entrance",
+        "source": "H6607 (KJV: door; ESV: entrance; NASB: doorway)"
+      },
+      {
+        "position": 7,
+        "surface": "אֹ֥הֶל",
+        "phrase": "of the tent",
+        "literal": "tent",
+        "source": "H168 (KJV: tabernacle; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹעֵֽד",
+        "phrase": "of meeting",
+        "literal": "meeting",
+        "source": "H4150 (KJV: congregation; ESV: meeting; NASB: meeting)"
+      }
+    ]
+  }
+]

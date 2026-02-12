@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֛שֶׂם",
+        "phrase": "And he put",
+        "literal": "and-he-put",
+        "source": "H7760 (KJV: 'put'; ESV: 'set up'; NASB: 'set up')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: '(implied)'; ESV: '(implied)'; NASB: '(implied)')"
+      },
+      {
+        "position": 3,
+        "surface": "מָסַ֥ךְ",
+        "phrase": "screen",
+        "literal": "screen",
+        "source": "H4539 (KJV: 'screen'; ESV: 'veil'; NASB: 'screen')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פֶּ֖תַח",
+        "phrase": "of the entrance",
+        "literal": "the-opening",
+        "source": "H6607 (KJV: 'door'; ESV: 'entrance'; NASB: 'doorway')"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/מִּשְׁכָּֽן",
+        "phrase": "of the tabernacle",
+        "literal": "to-the-tabernacle",
+        "source": "H4908 (KJV: 'tabernacle'; ESV: 'tabernacle'; NASB: 'tabernacle')"
+      }
+    ]
+  }
+]

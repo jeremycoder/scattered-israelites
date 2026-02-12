@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַשׂ",
+        "phrase": "And he did",
+        "literal": "and-he-did",
+        "source": "H6213; KJV: 'Thus did', ESV: 'This Moses did', NASB: 'Thus Moses did'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: 'Moses', ESV: 'Moses', NASB: 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "כְּ֠/כֹל",
+        "phrase": "according to all",
+        "literal": "as-all",
+        "source": "H3605; KJV: 'according to all', ESV: 'according to all', NASB: 'according to all'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834; KJV: 'that', ESV: 'that', NASB: 'that'"
+      },
+      {
+        "position": 5,
+        "surface": "צִוָּ֧ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680; KJV: 'commanded', ESV: 'commanded', NASB: 'commanded'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "כֵּ֥ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651; KJV: 'so', ESV: 'so', NASB: 'so'"
+      },
+      {
+        "position": 9,
+        "surface": "עָשָֽׂה",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "H6213; KJV: 'did he', ESV: 'he did', NASB: 'he did'"
+      }
+    ]
+  }
+]

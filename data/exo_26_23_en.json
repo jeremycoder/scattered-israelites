@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁנֵ֤י",
+        "phrase": "and two",
+        "literal": "and-two",
+        "source": "H8147 (KJV: 'two'; ESV: 'two'; NASB: 'two')"
+      },
+      {
+        "position": 2,
+        "surface": "קְרָשִׁים֙",
+        "phrase": "boards",
+        "literal": "boards",
+        "source": "H7175 (KJV: 'boards'; ESV: 'frames'; NASB: 'boards')"
+      },
+      {
+        "position": 3,
+        "surface": "תַּעֲשֶׂ֔ה",
+        "phrase": "you shall make",
+        "literal": "you-shall-make",
+        "source": "H6213 (KJV: 'make'; ESV: 'make'; NASB: 'make')"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/מְקֻצְעֹ֖ת",
+        "phrase": "for the corners",
+        "literal": "to-corners",
+        "source": "H4742 (KJV: 'corners'; ESV: 'corners'; NASB: 'corners')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּשְׁכָּ֑ן",
+        "phrase": "of the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908 (KJV: 'tabernacle'; ESV: 'tabernacle'; NASB: 'tabernacle')"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/יַּרְכָתָֽיִם",
+        "phrase": "at the rear",
+        "literal": "in-the-rear",
+        "source": "H3411 (KJV: 'sides'; ESV: 'rear'; NASB: 'rear')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 15,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'The LORD'"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֣ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376; KJV/ESV: 'a man', NASB: 'a warrior'"
+      },
+      {
+        "position": 3,
+        "surface": "מִלְחָמָ֑ה",
+        "phrase": "of war",
+        "literal": "war",
+        "source": "H4421; KJV/ESV/NASB: 'of war'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמֽ/וֹ",
+        "phrase": "is his name",
+        "literal": "name-his",
+        "source": "H8034; KJV/ESV/NASB: 'is his name'"
+      }
+    ]
+  }
+]

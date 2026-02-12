@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518; KJV: If, ESV: If, NASB: If"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/מַּחְתֶּ֛רֶת",
+        "phrase": "breaking in",
+        "literal": "in-the-digging-in",
+        "source": "H4290; KJV: (implied in context), ESV: breaking in, NASB: while breaking in"
+      },
+      {
+        "position": 3,
+        "surface": "יִמָּצֵ֥א",
+        "phrase": "he is found",
+        "literal": "he-is-found",
+        "source": "H4672; KJV: be found, ESV: is found, NASB: is caught"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/גַּנָּ֖ב",
+        "phrase": "the thief",
+        "literal": "the-thief",
+        "source": "H1590; KJV: the thief, ESV: the thief, NASB: the thief"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הֻכָּ֣ה",
+        "phrase": "and is struck",
+        "literal": "and-is-struck",
+        "source": "H5221; KJV: smitten, ESV: struck, NASB: struck"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/מֵ֑ת",
+        "phrase": "and dies",
+        "literal": "and-dies",
+        "source": "H4191; KJV: dieth, ESV: dies, NASB: dies"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֥ין",
+        "phrase": "there is",
+        "literal": "not",
+        "source": "H369; KJV: no, ESV: no, NASB: no"
+      },
+      {
+        "position": 8,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "''; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "דָּמִֽים",
+        "phrase": "bloodguilt",
+        "literal": "bloods",
+        "source": "H1818; KJV: blood, ESV: bloodguilt, NASB: bloodguilt"
+      }
+    ]
+  }
+]

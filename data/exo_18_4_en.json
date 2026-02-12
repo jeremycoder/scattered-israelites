@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 18,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "and the name",
+        "literal": "and-name",
+        "source": "H8034; KJV: 'the name', ESV/NASB: 'the name'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אֶחָ֖ד",
+        "phrase": "of the one",
+        "literal": "the-one",
+        "source": "H259; KJV/ESV/NASB: 'the other'"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִיעֶ֑זֶר",
+        "phrase": "Eliezer",
+        "literal": "Eliezer",
+        "source": "H461; KJV/ESV/NASB: 'Eliezer'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV/ESV/NASB: 'for'"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "God",
+        "literal": "God-of",
+        "source": "H430; KJV/ESV/NASB: 'the God'"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ/י֙",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "H1; KJV/ESV/NASB: 'my father'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/עֶזְרִ֔/י",
+        "phrase": "was my help",
+        "literal": "in-help-my",
+        "source": "H5828; KJV: 'mine help', ESV/NASB: 'my help'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּצִּלֵ֖/נִי",
+        "phrase": "and delivered me",
+        "literal": "and-he-delivered-me",
+        "source": "H5337; KJV/ESV/NASB: 'delivered me'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/חֶ֥רֶב",
+        "phrase": "from the sword",
+        "literal": "from-sword",
+        "source": "H2719; KJV/ESV/NASB: 'from the sword'"
+      },
+      {
+        "position": 10,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "of Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547; KJV/ESV/NASB: 'of Pharaoh'"
+      }
+    ]
+  }
+]

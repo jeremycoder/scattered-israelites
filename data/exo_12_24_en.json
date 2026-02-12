@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמַרְתֶּ֖ם",
+        "phrase": "And you shall observe",
+        "literal": "and-you(pl)-shall-keep",
+        "source": "H8104 (KJV: observe; ESV: observe; NASB: observe)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "the thing",
+        "literal": "the-word/thing",
+        "source": "H1697 (KJV: thing; ESV: rite; NASB: event)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/חָק",
+        "phrase": "as a statute",
+        "literal": "to-statute",
+        "source": "H2706 (KJV: ordinance; ESV: statute; NASB: ordinance)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/ךָ֥",
+        "phrase": "for you",
+        "literal": "to-you(sg)",
+        "source": " (KJV: to thee; ESV: for you; NASB: for you)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/לְ/בָנֶ֖י/ךָ",
+        "phrase": "and for your sons",
+        "literal": "and-to-sons-your",
+        "source": "H1121 (KJV: to thy sons; ESV: for your sons; NASB: and your children)"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: for; ESV: for; NASB: [implied in forever])"
+      },
+      {
+        "position": 9,
+        "surface": "עוֹלָֽם",
+        "phrase": "forever",
+        "literal": "eternity/forever",
+        "source": "H5769 (KJV: ever; ESV: forever; NASB: forever)"
+      }
+    ]
+  }
+]

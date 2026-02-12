@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מְכַשֵּׁפָ֖ה",
+        "phrase": "sorceress",
+        "literal": "bewitching-female",
+        "source": "H3784; KJV 'witch' (Ex 22:18), ESV 'sorceress', NASB 'one who practices witchcraft'"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV 'Thou shalt not', ESV 'You shall not', NASB 'you shall not'"
+      },
+      {
+        "position": 3,
+        "surface": "תְחַיֶּֽה",
+        "phrase": "you shall let live",
+        "literal": "you-cause-to-live",
+        "source": "H2421; KJV 'suffer to live', ESV 'permit to live', NASB 'let live'"
+      }
+    ]
+  }
+]

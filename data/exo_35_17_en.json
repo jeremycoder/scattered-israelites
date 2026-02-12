@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "קַלְעֵ֣י",
+        "phrase": "the hangings",
+        "literal": "hangings-of",
+        "source": "H7050 (KJV: hangings; ESV: hangings; NASB: hangings)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶ/חָצֵ֔ר",
+        "phrase": "of the court",
+        "literal": "the/court",
+        "source": "H2691 (KJV: court; ESV: court; NASB: court)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "עַמֻּדָ֖י/ו",
+        "phrase": "its pillars",
+        "literal": "pillars-of-it",
+        "source": "H5982 (KJV: his pillars; ESV: its pillars; NASB: its pillars)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲדָנֶ֑י/הָ",
+        "phrase": "its sockets",
+        "literal": "sockets-of-it",
+        "source": "H134 (KJV: their sockets; ESV: its bases; NASB: its sockets)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֵ֕ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "מָסַ֖ךְ",
+        "phrase": "the screen",
+        "literal": "screen",
+        "source": "H4539 (KJV: hanging; ESV: screen; NASB: screen)"
+      },
+      {
+        "position": 10,
+        "surface": "שַׁ֥עַר",
+        "phrase": "of the gate",
+        "literal": "gate",
+        "source": "H8179 (KJV: door; ESV: gate; NASB: gate)"
+      },
+      {
+        "position": 11,
+        "surface": "הֶ/חָצֵֽר",
+        "phrase": "of the court",
+        "literal": "the/court",
+        "source": "H2691 (KJV: court; ESV: court; NASB: court)"
+      }
+    ]
+  }
+]

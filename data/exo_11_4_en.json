@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 11,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "כֹּ֖ה",
+        "phrase": "Thus",
+        "literal": "thus",
+        "source": "H3541 (KJV: Thus; ESV: Thus; NASB: Thus)"
+      },
+      {
+        "position": 4,
+        "surface": "אָמַ֣ר",
+        "phrase": "says",
+        "literal": "says",
+        "source": "H559 (KJV: saith; ESV: says; NASB: says)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/חֲצֹ֣ת",
+        "phrase": "about midnight",
+        "literal": "as-half-of",
+        "source": "H2676 (KJV: About midnight; ESV: About midnight; NASB: About midnight)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/לַּ֔יְלָה",
+        "phrase": "the night",
+        "literal": "the-night",
+        "source": "H3915 (KJV: midnight; ESV: midnight; NASB: midnight)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 9,
+        "surface": "יוֹצֵ֖א",
+        "phrase": "will go out",
+        "literal": "going-out",
+        "source": "H3318 (KJV: go out; ESV: go out; NASB: going out)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/ת֥וֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst-of",
+        "source": "H8432 (KJV: into the midst; ESV: in the midst; NASB: into the midst)"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      }
+    ]
+  }
+]

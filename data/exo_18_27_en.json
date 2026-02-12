@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 18,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְשַׁלַּ֥ח",
+        "phrase": "sent away",
+        "literal": "and-he-sent-away",
+        "source": "H7971; KJV: let his father in law depart, ESV: sent his father-in-law on his way, NASB: sent his father-in-law away"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: Moses, ESV: Moses, NASB: Moses"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "חֹתְנ֑/וֹ",
+        "phrase": "his father-in-law",
+        "literal": "his-father-in-law-his",
+        "source": "H2859; KJV: his father in law, ESV: his father-in-law, NASB: his father-in-law"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212; KJV: and he went, ESV: and he went, NASB: and he went"
+      },
+      {
+        "position": 6,
+        "surface": "ל֖/וֹ",
+        "phrase": "his way",
+        "literal": "to-him",
+        "source": "; KJV: his way, ESV: on his way, NASB: his way"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: into, ESV: to, NASB: to"
+      },
+      {
+        "position": 8,
+        "surface": "אַרְצֽ/וֹ",
+        "phrase": "his own land",
+        "literal": "land-his",
+        "source": "H776; KJV: his own land, ESV: his own land, NASB: his own land"
+      }
+    ]
+  }
+]

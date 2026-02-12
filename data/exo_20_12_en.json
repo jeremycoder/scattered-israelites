@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּבֵּ֥ד",
+        "phrase": "Honor",
+        "literal": "honor!-impv",
+        "source": "H3513; KJV: Honour, ESV: Honor, NASB: Honor"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[dom]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "H1; KJV: thy father, ESV: your father, NASB: your father"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[dom]",
+        "source": "H853; KJV: and thy, ESV: and your, NASB: and your"
+      },
+      {
+        "position": 5,
+        "surface": "אִמֶּ֑/ךָ",
+        "phrase": "your mother",
+        "literal": "mother-your",
+        "source": "H517; KJV: thy mother, ESV: your mother, NASB: your mother"
+      },
+      {
+        "position": 6,
+        "surface": "לְמַ֨עַן֙",
+        "phrase": "that",
+        "literal": "in-order-that",
+        "source": "H4616; KJV: that, ESV: that, NASB: that"
+      },
+      {
+        "position": 7,
+        "surface": "יַאֲרִכ֣וּ/ן",
+        "phrase": "may be long",
+        "literal": "they-may-make-long",
+        "source": "H748; KJV: may be long, ESV: may be long, NASB: may be prolonged"
+      },
+      {
+        "position": 8,
+        "surface": "יָמֶ֔י/ךָ",
+        "phrase": "your days",
+        "literal": "days-your",
+        "source": "H3117; KJV: thy days, ESV: your days, NASB: your days"
+      },
+      {
+        "position": 9,
+        "surface": "עַ֚ל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921; KJV: upon, ESV: on, NASB: on"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אֲדָמָ֔ה",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H127; KJV: the land, ESV: the land, NASB: the land"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: which, ESV: which, NASB: which"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430; KJV: thy God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 14,
+        "surface": "נֹתֵ֥ן",
+        "phrase": "is giving",
+        "literal": "giving-ptcp",
+        "source": "H5414; KJV: giveth, ESV: is giving, NASB: gives"
+      },
+      {
+        "position": 15,
+        "surface": "לָֽ/ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "; KJV: thee, ESV: you, NASB: you"
+      }
+    ]
+  }
+]

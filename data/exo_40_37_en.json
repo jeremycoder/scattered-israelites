@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "but if",
+        "literal": "and-if",
+        "source": "H518 (KJV: But if; ESV: But if; NASB: but if)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 3,
+        "surface": "יֵעָלֶ֖ה",
+        "phrase": "it was taken up",
+        "literal": "it-goes-up",
+        "source": "H5927 (KJV: were not taken up; ESV: was not taken up; NASB: was not taken up)"
+      },
+      {
+        "position": 4,
+        "surface": "הֶ/עָנָ֑ן",
+        "phrase": "the cloud",
+        "literal": "the-cloud",
+        "source": "H6051 (KJV: the cloud; ESV: the cloud; NASB: the cloud)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "then not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: then...not; ESV: then...not; NASB: then...not)"
+      },
+      {
+        "position": 6,
+        "surface": "יִסְע֔וּ",
+        "phrase": "they journeyed",
+        "literal": "they-journey",
+        "source": "H5265 (KJV: they journeyed not; ESV: they did not set out; NASB: they did not set out)"
+      },
+      {
+        "position": 7,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: till; ESV: till; NASB: until)"
+      },
+      {
+        "position": 8,
+        "surface": "י֖וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: the day; ESV: the day; NASB: the day)"
+      },
+      {
+        "position": 9,
+        "surface": "הֵעָלֹתֽ/וֹ",
+        "phrase": "that it was taken up",
+        "literal": "lifting-of-it",
+        "source": "H5927 (KJV: that it was taken up; ESV: that it was taken up; NASB: when it was taken up)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מְקַלֵּ֥ל",
+        "phrase": "and-curses",
+        "literal": "and-cursing",
+        "source": "H7043 (KJV: curseth; ESV: curses; NASB: curses)"
+      },
+      {
+        "position": 2,
+        "surface": "אָבִ֛י/ו",
+        "phrase": "his-father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אִמּ֖/וֹ",
+        "phrase": "or-his-mother",
+        "literal": "and-mother-his",
+        "source": "H517 (KJV: or his mother; ESV: or his mother; NASB: or his mother)"
+      },
+      {
+        "position": 4,
+        "surface": "מ֥וֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4191 (KJV: shall surely be put to; ESV: shall be put to; NASB: shall surely be put to)"
+      },
+      {
+        "position": 5,
+        "surface": "יוּמָֽת",
+        "phrase": "he-shall-be-put-to-death",
+        "literal": "he-will-be-caused-to-die",
+        "source": "H4191 (KJV: death; ESV: death; NASB: death)"
+      }
+    ]
+  }
+]

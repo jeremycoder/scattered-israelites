@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֹ֥שֶׂה",
+        "phrase": "and showing",
+        "literal": "and-doing",
+        "source": "H6213 (KJV: 'shewing'; ESV: 'showing'; NASB: 'showing')"
+      },
+      {
+        "position": 2,
+        "surface": "חֶ֖סֶד",
+        "phrase": "mercy",
+        "literal": "loyalty-lovingkindness",
+        "source": "H2617 (KJV: 'mercy'; ESV: 'steadfast love'; NASB: 'lovingkindness')"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/אֲלָפִ֑ים",
+        "phrase": "to thousands",
+        "literal": "to-thousands",
+        "source": "H505 (KJV: 'thousands'; ESV: 'thousands'; NASB: 'thousands')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אֹהֲבַ֖/י",
+        "phrase": "of those who love me",
+        "literal": "to-loving/me",
+        "source": "H157 (KJV: 'love me'; ESV: 'love me'; NASB: 'love Me')"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/שֹׁמְרֵ֥י",
+        "phrase": "and to the keepers of",
+        "literal": "and-to-keeping",
+        "source": "H8104 (KJV: 'keep'; ESV: 'keep'; NASB: 'keep')"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְוֺתָֽ/י",
+        "phrase": "My commandments",
+        "literal": "commandments/my",
+        "source": "H4687 (KJV: 'commandments'; ESV: 'commandments'; NASB: 'commandments')"
+      }
+    ]
+  }
+]

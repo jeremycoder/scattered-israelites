@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יהוָ֞ה",
+        "phrase": "And-YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 2,
+        "surface": "נָתַ֨ן",
+        "phrase": "gave",
+        "literal": "gave",
+        "source": "H5414; KJV: 'gave', ESV: 'had given', NASB: 'had given'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "חֵ֥ן",
+        "phrase": "favor",
+        "literal": "favor",
+        "source": "H2580; KJV: 'favour', ESV: 'favor', NASB: 'favor'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עָ֛ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971; KJV/ESV/NASB: 'the people'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֵינֵ֥י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "H5869; KJV/ESV/NASB: 'in the sight/eyes of'"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "Egyptians",
+        "literal": "Egyptians",
+        "source": "H4714; KJV/ESV/NASB: 'the Egyptians'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּשְׁאִל֑וּ/ם",
+        "phrase": "and they asked them",
+        "literal": "and-they-asked-them",
+        "source": "H7592; KJV: 'lent unto them', ESV: 'let them have what they asked', NASB: 'let them have their request'"
+      },
+      {
+        "position": 9,
+        "surface": "וַֽ/יְנַצְּל֖וּ",
+        "phrase": "and they plundered",
+        "literal": "and-they-plundered",
+        "source": "H5337; KJV: 'spoiled', ESV: 'plundered', NASB: 'plundered'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714; KJV/ESV/NASB: 'the Egyptians/Egypt'"
+      }
+    ]
+  }
+]

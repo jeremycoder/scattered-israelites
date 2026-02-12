@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בַּדִּ֖ים",
+        "phrase": "poles",
+        "literal": "the-bars/poles",
+        "source": "H905 (KJV: staves; ESV: poles; NASB: poles)"
+      },
+      {
+        "position": 4,
+        "surface": "עֲצֵ֣י",
+        "phrase": "of acacia",
+        "literal": "trees-of",
+        "source": "H6086 (KJV: [implied]; ESV: acacia; NASB: acacia)"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁטִּ֑ים",
+        "phrase": "wood",
+        "literal": "shittim",
+        "source": "H7848 (KJV: shittim; ESV: acacia; NASB: acacia)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְצַ֥ף",
+        "phrase": "and overlaid",
+        "literal": "and-he-overlaid",
+        "source": "H6823 (KJV: overlaid; ESV: overlaid; NASB: overlaid)"
+      },
+      {
+        "position": 7,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "direct-object-marker-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 8,
+        "surface": "זָהָֽב",
+        "phrase": "with gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      }
+    ]
+  }
+]

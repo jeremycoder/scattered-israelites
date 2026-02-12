@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "מְנֹרַ֧ת",
+        "phrase": "lampstand",
+        "literal": "lampstand-of",
+        "source": "H4501 (KJV: candlestick; ESV: lampstand; NASB: lampstand)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מָּא֛וֹר",
+        "phrase": "of the light",
+        "literal": "the-light",
+        "source": "H3974 (KJV: the light; ESV: for the light; NASB: for the light)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and its",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "כֵּלֶ֖י/הָ",
+        "phrase": "utensils",
+        "literal": "utensils-of.it",
+        "source": "H3627 (KJV: vessels; ESV: its utensils; NASB: its utensils)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and its",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "נֵרֹתֶ֑י/הָ",
+        "phrase": "lamps",
+        "literal": "lamps-of.it",
+        "source": "H5216 (KJV: lamps; ESV: its lamps; NASB: its lamps)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "שֶׁ֥מֶן",
+        "phrase": "oil",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מָּאֽוֹר",
+        "phrase": "for the light",
+        "literal": "the-light",
+        "source": "H3974 (KJV: for light; ESV: for the light; NASB: for the light)"
+      }
+    ]
+  }
+]

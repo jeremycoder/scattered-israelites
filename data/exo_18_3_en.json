@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 18,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and her",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: her; ESV: her; NASB: her)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁנֵ֣י",
+        "phrase": "two",
+        "literal": "two-MP",
+        "source": "H8147 (KJV: two; ESV: two; NASB: two)"
+      },
+      {
+        "position": 3,
+        "surface": "בָנֶ֑י/הָ",
+        "phrase": "sons",
+        "literal": "sons-of.her",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "of whom",
+        "literal": "which",
+        "source": "H834 (KJV: of which; ESV: of whom; NASB: of whom)"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁ֤ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 6,
+        "surface": "הָֽ/אֶחָד֙",
+        "phrase": "of the one",
+        "literal": "the-one",
+        "source": "H259 (KJV: the one; ESV: the one; NASB: the one)"
+      },
+      {
+        "position": 7,
+        "surface": "גֵּֽרְשֹׁ֔ם",
+        "phrase": "Gershom",
+        "literal": "Gershom",
+        "source": "H1647 (KJV: Gershom; ESV: Gershom; NASB: Gershom)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 9,
+        "surface": "אָמַ֔ר",
+        "phrase": "he said",
+        "literal": "he-said",
+        "source": "H559 (KJV: he said; ESV: he said; NASB: he said)"
+      },
+      {
+        "position": 10,
+        "surface": "גֵּ֣ר",
+        "phrase": "a sojourner",
+        "literal": "sojourner",
+        "source": "H1616 (KJV: alien; ESV: sojourner; NASB: sojourner)"
+      },
+      {
+        "position": 11,
+        "surface": "הָיִ֔יתִי",
+        "phrase": "I have been",
+        "literal": "I-have-been",
+        "source": "H1961 (KJV: I have been; ESV: I have been; NASB: I have been)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/אֶ֖רֶץ",
+        "phrase": "in a land",
+        "literal": "in-land",
+        "source": "H776 (KJV: in a ... land; ESV: in a ... land; NASB: in a ... land)"
+      },
+      {
+        "position": 13,
+        "surface": "נָכְרִיָּֽה",
+        "phrase": "foreign",
+        "literal": "foreign-F",
+        "source": "H5237 (KJV: strange; ESV: foreign; NASB: foreign)"
+      }
+    ]
+  }
+]

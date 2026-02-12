@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: direct obj.; ESV/NASB: omitted or 'the')"
+      },
+      {
+        "position": 2,
+        "surface": "בִּגְדֵ֥י",
+        "phrase": "the garments",
+        "literal": "garments-of",
+        "source": "H899 (KJV: 'cloths of service'; ESV: 'finely worked garments'; NASB: 'woven garments')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שְּׂרָ֖ד",
+        "phrase": "of service",
+        "literal": "the-service",
+        "source": "H8278 (KJV: 'service'; ESV: 'ministering'; NASB: 'service')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/שָׁרֵ֣ת",
+        "phrase": "to minister",
+        "literal": "to-serve",
+        "source": "H8334 (KJV: 'do service'; ESV: 'ministering'; NASB: 'minister')"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/קֹּ֑דֶשׁ",
+        "phrase": "in the holy place",
+        "literal": "in-the-holy",
+        "source": "H6944 (KJV: 'holy place'; ESV: 'Holy Place'; NASB: 'holy place')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: direct obj.; ESV/NASB: omitted or 'the')"
+      },
+      {
+        "position": 7,
+        "surface": "בִּגְדֵ֤י",
+        "phrase": "the garments",
+        "literal": "garments-of",
+        "source": "H899 (KJV: 'holy garments'; ESV: 'holy garments'; NASB: 'holy garments')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קֹּ֨דֶשׁ֙",
+        "phrase": "the holy",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: 'holy'; ESV: 'holy'; NASB: 'holy')"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/אַהֲרֹ֣ן",
+        "phrase": "for Aaron",
+        "literal": "to/for-Aaron",
+        "source": "H175 (KJV/ESV/NASB: 'Aaron')"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV/ESV/NASB: 'priest')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: 'and the'; ESV/NASB: 'and the')"
+      },
+      {
+        "position": 12,
+        "surface": "בִּגְדֵ֥י",
+        "phrase": "the garments",
+        "literal": "garments-of",
+        "source": "H899 (KJV: 'garments'; ESV: 'garments'; NASB: 'garments')"
+      },
+      {
+        "position": 13,
+        "surface": "בָנָ֖י/ו",
+        "phrase": "of his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV/ESV/NASB: 'his sons')"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/כַהֵֽן",
+        "phrase": "to serve as priests",
+        "literal": "to-priest",
+        "source": "H3547 (KJV: 'minister in the priest's office'; ESV: 'for their service'; NASB: 'for ministering')"
+      }
+    ]
+  }
+]

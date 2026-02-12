@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/חָרָ֣ה",
+        "phrase": "and burns",
+        "literal": "and-burns",
+        "source": "H2734; KJV: 'be kindled', ESV: 'is kindled', NASB: 'is kindled'"
+      },
+      {
+        "position": 2,
+        "surface": "אַפִּ֔/י",
+        "phrase": "my anger",
+        "literal": "nose-my",
+        "source": "H639; KJV: 'mine anger', ESV: 'my anger', NASB: 'My anger'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הָרַגְתִּ֥י",
+        "phrase": "and I will kill",
+        "literal": "and-I-will-kill",
+        "source": "H2026; KJV: 'I will kill', ESV: 'I will kill', NASB: 'I will kill'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "[direct object marker]-you(pl.)",
+        "source": "H853; KJV: 'you', ESV: 'you', NASB: 'you'"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּ/חָ֑רֶב",
+        "phrase": "with the sword",
+        "literal": "in-sword",
+        "source": "H2719; KJV: 'with the sword', ESV: 'with the sword', NASB: 'by the sword'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הָי֤וּ",
+        "phrase": "and shall be",
+        "literal": "and-they-will-be",
+        "source": "H1961; KJV: 'shall be', ESV: 'will become', NASB: 'will become'"
+      },
+      {
+        "position": 7,
+        "surface": "נְשֵׁי/כֶם֙",
+        "phrase": "your wives",
+        "literal": "women-your(pl.)",
+        "source": "H802; KJV: 'your wives', ESV: 'your wives', NASB: 'your wives'"
+      },
+      {
+        "position": 8,
+        "surface": "אַלְמָנ֔וֹת",
+        "phrase": "widows",
+        "literal": "widows",
+        "source": "H490; KJV: 'widows', ESV: 'widows', NASB: 'widows'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְנֵי/כֶ֖ם",
+        "phrase": "and your children",
+        "literal": "and-sons-your(pl.)",
+        "source": "H1121; KJV: 'your children', ESV: 'your children', NASB: 'your children'"
+      },
+      {
+        "position": 10,
+        "surface": "יְתֹמִֽים",
+        "phrase": "orphans",
+        "literal": "orphans",
+        "source": "H3490; KJV: 'fatherless', ESV: 'fatherless', NASB: 'orphans'"
+      }
+    ]
+  }
+]

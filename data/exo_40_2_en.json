@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/יוֹם",
+        "phrase": "on the day",
+        "literal": "in-day",
+        "source": "H3117; KJV: day, ESV: day, NASB: day"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חֹ֥דֶשׁ",
+        "phrase": "of the month",
+        "literal": "the-month",
+        "source": "H2320; KJV: month, ESV: month, NASB: month"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/רִאשׁ֖וֹן",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223; KJV: first, ESV: first, NASB: first"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אֶחָ֣ד",
+        "phrase": "on the one",
+        "literal": "in-one",
+        "source": "H259; KJV: first, ESV: first, NASB: first"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/חֹ֑דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "H2320; KJV: month, ESV: month, NASB: month"
+      },
+      {
+        "position": 6,
+        "surface": "תָּקִ֕ים",
+        "phrase": "you shall set up",
+        "literal": "you(m.s.)-cause-to-stand",
+        "source": "H6965; KJV: set up, ESV: set up, NASB: set up"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׁכַּ֖ן",
+        "phrase": "tabernacle",
+        "literal": "dwelling-place",
+        "source": "H4908; KJV: tabernacle, ESV: tabernacle, NASB: tabernacle"
+      },
+      {
+        "position": 9,
+        "surface": "אֹ֥הֶל",
+        "phrase": "tent",
+        "literal": "tent",
+        "source": "H168; KJV: tent, ESV: tent, NASB: tent"
+      },
+      {
+        "position": 10,
+        "surface": "מוֹעֵֽד",
+        "phrase": "of meeting",
+        "literal": "of-appointment",
+        "source": "H4150; KJV: congregation, ESV: meeting, NASB: meeting"
+      }
+    ]
+  }
+]

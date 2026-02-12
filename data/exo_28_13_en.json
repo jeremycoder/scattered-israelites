@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשִׂ֥יתָ",
+        "phrase": "And you shall make",
+        "literal": "and-you-shall-make",
+        "source": "H6213; KJV: 'And thou shalt make', ESV: 'You shall make', NASB: 'You shall make'"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁבְּצֹ֖ת",
+        "phrase": "settings",
+        "literal": "settings",
+        "source": "H4865; KJV: 'ouches', ESV: 'settings', NASB: 'filigree-settings'"
+      },
+      {
+        "position": 3,
+        "surface": "זָהָֽב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV: 'of gold', ESV: 'of gold', NASB: 'of gold'"
+      }
+    ]
+  }
+]

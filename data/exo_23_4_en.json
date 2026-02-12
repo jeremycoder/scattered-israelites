@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֣י",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H3588 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "תִפְגַּ֞ע",
+        "phrase": "you meet",
+        "literal": "you-meet",
+        "source": "H6293 (KJV: meet; ESV: meet; NASB: meet)"
+      },
+      {
+        "position": 3,
+        "surface": "שׁ֧וֹר",
+        "phrase": "ox",
+        "literal": "ox",
+        "source": "H7794 (KJV: ox; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹֽיִבְ/ךָ֛",
+        "phrase": "of your enemy",
+        "literal": "enemy-of-you",
+        "source": "H341 (KJV: enemy's; ESV: enemy's; NASB: enemy's)"
+      },
+      {
+        "position": 5,
+        "surface": "א֥וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 6,
+        "surface": "חֲמֹר֖/וֹ",
+        "phrase": "his donkey",
+        "literal": "donkey-his",
+        "source": "H2543 (KJV: ass; ESV: donkey; NASB: donkey)"
+      },
+      {
+        "position": 7,
+        "surface": "תֹּעֶ֑ה",
+        "phrase": "going astray",
+        "literal": "going-astray",
+        "source": "H8582 (KJV: astray; ESV: straying; NASB: wandering)"
+      },
+      {
+        "position": 8,
+        "surface": "הָשֵׁ֥ב",
+        "phrase": "surely return",
+        "literal": "return!-return",
+        "source": "H7725 (KJV: bring; ESV: bring; NASB: return)"
+      },
+      {
+        "position": 9,
+        "surface": "תְּשִׁיבֶ֖/נּוּ",
+        "phrase": "it to him",
+        "literal": "you-return-it",
+        "source": "H7725 (KJV: bring; ESV: bring; NASB: return)"
+      },
+      {
+        "position": 10,
+        "surface": "לֽ/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: again to him; ESV: to him; NASB: to him)"
+      }
+    ]
+  }
+]

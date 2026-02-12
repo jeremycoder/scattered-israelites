@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֶ֖רֶת",
+        "phrase": "another",
+        "literal": "another-fs",
+        "source": "H312 (KJV: another; ESV: another; NASB: another)"
+      },
+      {
+        "position": 3,
+        "surface": "יִֽקַּֽח",
+        "phrase": "he takes",
+        "literal": "he-will-take",
+        "source": "H3947 (KJV: take; ESV: takes; NASB: takes)"
+      },
+      {
+        "position": 4,
+        "surface": "ל֑/וֹ",
+        "phrase": "for himself",
+        "literal": "to/for-him",
+        "source": ""
+      },
+      {
+        "position": 5,
+        "surface": "שְׁאֵרָ֛/הּ",
+        "phrase": "her food",
+        "literal": "flesh/remainder-of-her",
+        "source": "H7607 (KJV: food; ESV: food; NASB: food)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּסוּתָ֥/הּ",
+        "phrase": "her clothing",
+        "literal": "covering-of-her",
+        "source": "H3682 (KJV: raiment; ESV: clothing; NASB: clothing)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עֹנָתָ֖/הּ",
+        "phrase": "and her marital rights",
+        "literal": "and-cohabitation-of-her",
+        "source": "H5772 (KJV: duty of marriage; ESV: conjugal rights; NASB: right of cohabitation)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "יִגְרָֽע",
+        "phrase": "he shall diminish",
+        "literal": "he-will-diminish",
+        "source": "H1639 (KJV: diminish; ESV: reduce; NASB: reduce)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֹרֹ֨ת",
+        "phrase": "and rams' skins",
+        "literal": "and-skins",
+        "source": "H5785: KJV 'rams' skins dyed red'; ESV 'rams' skins dyed red'; NASB 'rams' skins dyed red'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵילִ֧ם",
+        "phrase": "rams'",
+        "literal": "rams",
+        "source": "H352: KJV 'rams'; ESV 'rams'; NASB 'rams'"
+      },
+      {
+        "position": 3,
+        "surface": "מְאָדָּמִ֛ים",
+        "phrase": "dyed red",
+        "literal": "made-red",
+        "source": "H119: KJV 'dyed red'; ESV 'dyed red'; NASB 'dyed red'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/עֹרֹ֥ת",
+        "phrase": "and badgers' skins",
+        "literal": "and-skins",
+        "source": "H5785: KJV 'badgers' skins'; ESV 'goatskins'; NASB 'porpoise skins'"
+      },
+      {
+        "position": 5,
+        "surface": "תְּחָשִׁ֖ים",
+        "phrase": "badgers'",
+        "literal": "badgers",
+        "source": "H8476: KJV 'badgers'; ESV 'goatskin'; NASB 'porpoise'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/עֲצֵ֥י",
+        "phrase": "and shittim",
+        "literal": "and-trees-of",
+        "source": "H6086: KJV 'shittim wood'; ESV 'acacia wood'; NASB 'acacia wood'"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁטִּֽים",
+        "phrase": "wood",
+        "literal": "shittim",
+        "source": "H7848: KJV 'shittim'; ESV 'acacia'; NASB 'acacia'"
+      }
+    ]
+  }
+]

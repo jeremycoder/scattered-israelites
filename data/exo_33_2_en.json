@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 33,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁלַחְתִּ֥י",
+        "phrase": "and I will send",
+        "literal": "and-I-will-send",
+        "source": "H7971 (KJV: send; ESV: send; NASB: send)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/פָנֶ֖י/ךָ",
+        "phrase": "before you",
+        "literal": "to-before-you",
+        "source": "H6440 (KJV: before thee; ESV: before you; NASB: before you)"
+      },
+      {
+        "position": 3,
+        "surface": "מַלְאָ֑ךְ",
+        "phrase": "an angel",
+        "literal": "messenger",
+        "source": "H4397 (KJV: angel; ESV: angel; NASB: angel)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/גֵֽרַשְׁתִּ֗י",
+        "phrase": "and I will drive out",
+        "literal": "and-I-will-drive-out",
+        "source": "H1644 (KJV: drive out; ESV: drive out; NASB: drive out)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-DOM-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/כְּנַעֲנִי֙",
+        "phrase": "the Canaanite",
+        "literal": "the-Canaanite",
+        "source": "H3669 (KJV: Canaanite; ESV: Canaanite; NASB: Canaanite)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אֱמֹרִ֔י",
+        "phrase": "the Amorite",
+        "literal": "the-Amorite",
+        "source": "H567 (KJV: Amorite; ESV: Amorite; NASB: Amorite)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הַֽ/חִתִּי֙",
+        "phrase": "and the Hittite",
+        "literal": "and-the-Hittite",
+        "source": "H2850 (KJV: Hittite; ESV: Hittite; NASB: Hittite)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/פְּרִזִּ֔י",
+        "phrase": "and the Perizzite",
+        "literal": "and-the-Perizzite",
+        "source": "H6522 (KJV: Perizzite; ESV: Perizzite; NASB: Perizzite)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/חִוִּ֖י",
+        "phrase": "the Hivite",
+        "literal": "the-Hivite",
+        "source": "H2340 (KJV: Hivite; ESV: Hivite; NASB: Hivite)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הַ/יְבוּסִֽי",
+        "phrase": "and the Jebusite",
+        "literal": "and-the-Jebusite",
+        "source": "H2983 (KJV: Jebusite; ESV: Jebusite; NASB: Jebusite)"
+      }
+    ]
+  }
+]

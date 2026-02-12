@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 13,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/יּ֖וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117; KJV: 'This day', ESV/NASB: 'On this day'"
+      },
+      {
+        "position": 2,
+        "surface": "אַתֶּ֣ם",
+        "phrase": "you",
+        "literal": "you-all",
+        "source": "H859; KJV/ESV/NASB: 'ye/you' (plural pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "יֹצְאִ֑ים",
+        "phrase": "are going out",
+        "literal": "going-out",
+        "source": "H3318; KJV: 'came ye out', ESV: 'you are going out', NASB: 'you are about to go forth'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/חֹ֖דֶשׁ",
+        "phrase": "in the month",
+        "literal": "in-month",
+        "source": "H2320; KJV/ESV/NASB: 'in the month'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אָבִֽיב",
+        "phrase": "of Abib",
+        "literal": "the-Abib",
+        "source": "H24; KJV: 'Abib', ESV/NASB: 'Abib'"
+      }
+    ]
+  }
+]

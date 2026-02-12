@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 33,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And he said; ESV: And he said; NASB: Then he said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֑י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to Him)"
+      },
+      {
+        "position": 3,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֤ין",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H369 (KJV: thy presence go not; ESV: your presence will not go; NASB: Your presence does not go)"
+      },
+      {
+        "position": 5,
+        "surface": "פָּנֶ֨י/ךָ֙",
+        "phrase": "your presence/face",
+        "literal": "faces-your",
+        "source": "H6440 (KJV: thy presence; ESV: your presence; NASB: Your presence)"
+      },
+      {
+        "position": 6,
+        "surface": "הֹלְכִ֔ים",
+        "phrase": "going",
+        "literal": "going",
+        "source": "H1980 (KJV: go; ESV: go; NASB: go)"
+      },
+      {
+        "position": 7,
+        "surface": "אַֽל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408 (KJV: carry us not; ESV: do not; NASB: do not)"
+      },
+      {
+        "position": 8,
+        "surface": "תַּעֲלֵ֖/נוּ",
+        "phrase": "take us up",
+        "literal": "cause-to-go-up-us",
+        "source": "H5927 (KJV: carry us; ESV: bring us; NASB: lead us)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/זֶּֽה",
+        "phrase": "from here",
+        "literal": "from-this",
+        "source": "H2088 (KJV: hence; ESV: from here; NASB: from here)"
+      }
+    ]
+  }
+]

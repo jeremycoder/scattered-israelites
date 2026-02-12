@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָ/עֹ֕מֶר",
+        "phrase": "Now an omer",
+        "literal": "and-the-omer",
+        "source": "H6016; KJV: 'an omer', ESV: 'An omer', NASB: 'an omer'"
+      },
+      {
+        "position": 2,
+        "surface": "עֲשִׂרִ֥ית",
+        "phrase": "is the tenth part",
+        "literal": "tenth-part",
+        "source": "H6224; KJV: 'the tenth part', ESV: 'the tenth part', NASB: 'a tenth'"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֵיפָ֖ה",
+        "phrase": "of an ephah",
+        "literal": "the-ephah",
+        "source": "H374; KJV: 'of an ephah', ESV: 'of an ephah', NASB: 'of an ephah'"
+      },
+      {
+        "position": 4,
+        "surface": "הֽוּא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931; KJV: implied in 'is', ESV: implied in 'is', NASB: implied in 'is'"
+      }
+    ]
+  }
+]

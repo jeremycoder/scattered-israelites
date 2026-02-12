@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "And you shall take",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אַ֥יִל",
+        "phrase": "the ram",
+        "literal": "the-ram",
+        "source": "H352 (KJV: 'ram'; ESV: 'ram'; NASB: 'ram')"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֶחָ֖ד",
+        "phrase": "the one",
+        "literal": "the-one",
+        "source": "H259 (KJV: 'one'; ESV: 'one'; NASB: 'one')"
+      },
+      {
+        "position": 4,
+        "surface": "תִּקָּ֑ח",
+        "phrase": "you shall take",
+        "literal": "you-take",
+        "source": "H3947 (KJV: 'take'; ESV: 'take'; NASB: 'take')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/סָ֨מְכ֜וּ",
+        "phrase": "and they shall lean",
+        "literal": "and-they-shall-lean",
+        "source": "H5564 (KJV: 'put'; ESV: 'lay'; NASB: 'lay')"
+      },
+      {
+        "position": 6,
+        "surface": "אַהֲרֹ֧ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: 'Aaron'; ESV: 'Aaron'; NASB: 'Aaron')"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בָנָ֛י/ו",
+        "phrase": "and his sons",
+        "literal": "and-sons-his",
+        "source": "H1121 (KJV: 'sons'; ESV: 'sons'; NASB: 'sons')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "obj",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 9,
+        "surface": "יְדֵי/הֶ֖ם",
+        "phrase": "their hands",
+        "literal": "hands-their",
+        "source": "H3027 (KJV: 'hands'; ESV: 'hands'; NASB: 'hands')"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 11,
+        "surface": "רֹ֥אשׁ",
+        "phrase": "head",
+        "literal": "head",
+        "source": "H7218 (KJV: 'head'; ESV: 'head'; NASB: 'head')"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אָֽיִל",
+        "phrase": "of the ram",
+        "literal": "the-ram",
+        "source": "H352 (KJV: 'ram'; ESV: 'ram'; NASB: 'ram')"
+      }
+    ]
+  }
+]

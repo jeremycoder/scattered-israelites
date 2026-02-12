@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213; KJV: made, ESV: made, NASB: made"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֵפֹ֑ד",
+        "phrase": "ephod",
+        "literal": "the-ephod",
+        "source": "H646; KJV: ephod, ESV: ephod, NASB: ephod"
+      },
+      {
+        "position": 4,
+        "surface": "זָהָ֗ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV: gold, ESV: gold, NASB: gold"
+      },
+      {
+        "position": 5,
+        "surface": "תְּכֵ֧לֶת",
+        "phrase": "blue",
+        "literal": "violet",
+        "source": "H8504; KJV: blue, ESV: blue, NASB: blue"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אַרְגָּמָ֛ן",
+        "phrase": "and purple",
+        "literal": "and-purple",
+        "source": "H713; KJV: purple, ESV: purple, NASB: purple"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/תוֹלַ֥עַת",
+        "phrase": "and scarlet",
+        "literal": "and-worm-of",
+        "source": "H8438; KJV: scarlet, ESV: scarlet, NASB: scarlet"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁנִ֖י",
+        "phrase": "",
+        "literal": "scarlet",
+        "source": "H8144; KJV: (with worm), ESV: (with worm), NASB: (with worm)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שֵׁ֥שׁ",
+        "phrase": "and fine linen",
+        "literal": "and-linen",
+        "source": "H8336; KJV: fine linen, ESV: fine linen, NASB: fine linen"
+      },
+      {
+        "position": 10,
+        "surface": "מָשְׁזָֽר",
+        "phrase": "",
+        "literal": "twisted",
+        "source": "H7806; KJV: cunning work, ESV: twisted, NASB: twisted"
+      }
+    ]
+  }
+]

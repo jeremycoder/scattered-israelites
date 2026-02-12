@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֤ן",
+        "phrase": "he put",
+        "literal": "and-he-gave/placed",
+        "source": "H5414 (KJV: set; ESV: put; NASB: set)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שֻּׁלְחָן֙",
+        "phrase": "table",
+        "literal": "the-table",
+        "source": "H7979 (KJV: table; ESV: table; NASB: table)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אֹ֣הֶל",
+        "phrase": "in the tent",
+        "literal": "in-tent",
+        "source": "H168 (KJV: tent; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹעֵ֔ד",
+        "phrase": "of meeting",
+        "literal": "of-meeting",
+        "source": "H4150 (KJV: congregation; ESV: meeting; NASB: meeting)"
+      },
+      {
+        "position": 6,
+        "surface": "עַ֛ל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 7,
+        "surface": "יֶ֥רֶךְ",
+        "phrase": "side",
+        "literal": "side/flank",
+        "source": "H3409 (KJV: side; ESV: side; NASB: side)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מִּשְׁכָּ֖ן",
+        "phrase": "of the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 9,
+        "surface": "צָפֹ֑נָ/ה",
+        "phrase": "northward",
+        "literal": "northward",
+        "source": "H6828 (KJV: north; ESV: north; NASB: north)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/ח֖וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "H2351 (KJV: without; ESV: outside; NASB: outside)"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/פָּרֹֽכֶת",
+        "phrase": "the veil",
+        "literal": "to-the-veil",
+        "source": "H6532 (KJV: vail; ESV: veil; NASB: veil)"
+      }
+    ]
+  }
+]

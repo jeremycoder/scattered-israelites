@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 13,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they set out",
+        "literal": "and-they-set-out",
+        "source": "H5265; KJV: took their journey, ESV: moved on, NASB: set out"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/סֻּכֹּ֑ת",
+        "phrase": "from Succoth",
+        "literal": "from-Succoth",
+        "source": "H5523; KJV: from Succoth, ESV: from Succoth, NASB: from Succoth"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יַּחֲנ֣וּ",
+        "phrase": "and encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: encamped, ESV: encamped, NASB: camped"
+      },
+      {
+        "position": 4,
+        "surface": "בְ/אֵתָ֔ם",
+        "phrase": "in Etham",
+        "literal": "in-Etham",
+        "source": "H864; KJV: in Etham, ESV: at Etham, NASB: in Etham"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/קְצֵ֖ה",
+        "phrase": "on the edge",
+        "literal": "in-end-of",
+        "source": "H7097; KJV: in the edge, ESV: on the edge, NASB: on the edge"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מִּדְבָּֽר",
+        "phrase": "of the wilderness",
+        "literal": "the-wilderness",
+        "source": "H4057; KJV: of the wilderness, ESV: of the wilderness, NASB: of the wilderness"
+      }
+    ]
+  }
+]

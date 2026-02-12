@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נְּשִׂאִ֣ם",
+        "phrase": "And the leaders",
+        "literal": "and-the-princes",
+        "source": "H5387 (KJV: rulers; ESV: leaders; NASB: leaders)"
+      },
+      {
+        "position": 2,
+        "surface": "הֵבִ֔יאוּ",
+        "phrase": "brought",
+        "literal": "they-brought",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֚ת",
+        "phrase": "(direct object marker)",
+        "literal": "[-acc]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְנֵ֣י",
+        "phrase": "stones",
+        "literal": "stones",
+        "source": "H68 (KJV: stones; ESV: stones; NASB: stones)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שֹּׁ֔הַם",
+        "phrase": "of the onyx",
+        "literal": "the-onyx",
+        "source": "H7718 (KJV: onyx; ESV: onyx; NASB: onyx)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-[-acc]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "אַבְנֵ֣י",
+        "phrase": "stones",
+        "literal": "stones",
+        "source": "H68 (KJV: stones; ESV: stones; NASB: stones)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מִּלֻּאִ֑ים",
+        "phrase": "for setting",
+        "literal": "the-fillings",
+        "source": "H4394 (KJV: stones to be set; ESV: stones to be set; NASB: stones for settings)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/אֵפ֖וֹד",
+        "phrase": "for the ephod",
+        "literal": "to-the-ephod",
+        "source": "H646 (KJV: for the ephod; ESV: for the ephod; NASB: for the ephod)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לַ/חֹֽשֶׁן",
+        "phrase": "and for the breastpiece",
+        "literal": "and-to-the-breastpiece",
+        "source": "H2833 (KJV: for the breastplate; ESV: for the breastpiece; NASB: for the breastpiece)"
+      }
+    ]
+  }
+]

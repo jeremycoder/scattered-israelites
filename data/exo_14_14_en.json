@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD' (divine name rendered as YHWH)"
+      },
+      {
+        "position": 2,
+        "surface": "יִלָּחֵ֣ם",
+        "phrase": "will-fight",
+        "literal": "he-will-fight",
+        "source": "H3898; KJV: 'shall fight', ESV: 'will fight', NASB: 'will fight'"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "for-you",
+        "literal": "to-you(pl)",
+        "source": "-; KJV/ESV/NASB: 'for you'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַתֶּ֖ם",
+        "phrase": "and-you",
+        "literal": "and-you(pl)",
+        "source": "H859; KJV/ESV/NASB: 'and ye/you'"
+      },
+      {
+        "position": 5,
+        "surface": "תַּחֲרִישֽׁוּ/ן",
+        "phrase": "shall-be-silent",
+        "literal": "you(pl)-shall-be-silent",
+        "source": "H2790; KJV: 'hold your peace', ESV: 'be still', NASB: 'keep silent'"
+      }
+    ]
+  }
+]

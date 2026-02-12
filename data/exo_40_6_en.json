@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָ֣תַתָּ֔ה",
+        "phrase": "And you shall set",
+        "literal": "and-you-shall-give/put",
+        "source": "H5414 (KJV: 'set'; ESV: 'put'; NASB: 'set')"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: et; ESV: et; NASB: et) [untranslated]"
+      },
+      {
+        "position": 3,
+        "surface": "מִזְבַּ֣ח",
+        "phrase": "the altar",
+        "literal": "altar",
+        "source": "H4196 (KJV: 'altar'; ESV: 'altar'; NASB: 'altar')"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֹלָ֑ה",
+        "phrase": "of burnt offering",
+        "literal": "the-ascension/burnt-offering",
+        "source": "H5930 (KJV: 'burnt offering'; ESV: 'burnt offering'; NASB: 'burnt offering')"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֕י",
+        "phrase": "before",
+        "literal": "to/before-face-of",
+        "source": "H6440 (KJV: 'before'; ESV: 'before'; NASB: 'before')"
+      },
+      {
+        "position": 6,
+        "surface": "פֶּ֖תַח",
+        "phrase": "the entrance",
+        "literal": "opening/entrance",
+        "source": "H6607 (KJV: 'door'; ESV: 'entrance'; NASB: 'doorway')"
+      },
+      {
+        "position": 7,
+        "surface": "מִשְׁכַּ֥ן",
+        "phrase": "of the tabernacle",
+        "literal": "dwelling/tabernacle",
+        "source": "H4908 (KJV: 'tabernacle'; ESV: 'tabernacle'; NASB: 'tabernacle')"
+      },
+      {
+        "position": 8,
+        "surface": "אֹֽהֶל",
+        "phrase": "tent",
+        "literal": "tent",
+        "source": "H168 (KJV: 'tent'; ESV: 'tent'; NASB: 'tent')"
+      },
+      {
+        "position": 9,
+        "surface": "מוֹעֵֽד",
+        "phrase": "of meeting",
+        "literal": "appointment/meeting",
+        "source": "H4150 (KJV: 'congregation'; ESV: 'meeting'; NASB: 'meeting')"
+      }
+    ]
+  }
+]

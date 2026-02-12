@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (implied, no separate word)"
+      },
+      {
+        "position": 2,
+        "surface": "יִתְדֹ֧ת",
+        "phrase": "pegs",
+        "literal": "pegs-of",
+        "source": "H3489; KJV: pegs; ESV: pegs; NASB: pegs"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּשְׁכָּ֛ן",
+        "phrase": "of the tabernacle",
+        "literal": "the/tabernacle",
+        "source": "H4908; KJV: tabernacle; ESV: tabernacle; NASB: tabernacle"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (implied, no separate word)"
+      },
+      {
+        "position": 5,
+        "surface": "יִתְדֹ֥ת",
+        "phrase": "pegs",
+        "literal": "pegs-of",
+        "source": "H3489; KJV: pegs; ESV: pegs; NASB: pegs"
+      },
+      {
+        "position": 6,
+        "surface": "הֶ/חָצֵ֖ר",
+        "phrase": "of the court",
+        "literal": "the/court",
+        "source": "H2691; KJV: court; ESV: court; NASB: court"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (implied, no separate word)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵיתְרֵי/הֶֽם",
+        "phrase": "their cords",
+        "literal": "cords-of/them",
+        "source": "H4340; KJV: cords; ESV: cords; NASB: cords"
+      }
+    ]
+  }
+]

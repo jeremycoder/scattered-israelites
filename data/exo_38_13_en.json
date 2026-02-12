@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 38,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לִ/פְאַ֛ת",
+        "phrase": "And for the side",
+        "literal": "and-to-side-of",
+        "source": "H6285; KJV: 'And for the east side', ESV: 'For the east side', NASB: 'For the east side'"
+      },
+      {
+        "position": 2,
+        "surface": "קֵ֥דְמָ/ה",
+        "phrase": "eastward",
+        "literal": "eastward",
+        "source": "H6924; KJV: 'eastward', ESV: 'eastward', NASB: 'eastward'"
+      },
+      {
+        "position": 3,
+        "surface": "מִזְרָ֖חָ/ה",
+        "phrase": "toward the sunrise",
+        "literal": "east-of",
+        "source": "H4217; KJV: 'eastward', ESV: 'toward the sunrise', NASB: 'eastward'"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמִשִּׁ֥ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572; KJV: 'fifty', ESV: 'fifty', NASB: 'fifty'"
+      },
+      {
+        "position": 5,
+        "surface": "אַמָּֽה",
+        "phrase": "cubits",
+        "literal": "cubit",
+        "source": "H520; KJV: 'cubits', ESV: 'cubits', NASB: 'cubits'"
+      }
+    ]
+  }
+]

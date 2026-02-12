@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁלַחְתִּ֥י",
+        "phrase": "and-I-will-send",
+        "literal": "and-I-will-send",
+        "source": "H7971 (KJV: send; ESV: send; NASB: send)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/צִּרְעָ֖ה",
+        "phrase": "the-hornet",
+        "literal": "the-hornet",
+        "source": "H6880 (KJV: hornets; ESV: hornet; NASB: hornets)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/פָנֶ֑י/ךָ",
+        "phrase": "before-you",
+        "literal": "to-face-your",
+        "source": "H6440 (KJV: before thee; ESV: ahead of you; NASB: ahead of you)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/גֵרְשָׁ֗ה",
+        "phrase": "and-she-will-drive-out",
+        "literal": "and-she-will-drive-out",
+        "source": "H1644 (KJV: shall drive out; ESV: will drive out; NASB: will drive out)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/חִוִּ֧י",
+        "phrase": "the-Hivite",
+        "literal": "the-Hivite",
+        "source": "H2340 (KJV: Hivite; ESV: Hivites; NASB: Hivites)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 9,
+        "surface": "הַֽ/כְּנַעֲנִ֛י",
+        "phrase": "the-Canaanite",
+        "literal": "the-Canaanite",
+        "source": "H3669 (KJV: Canaanite; ESV: Canaanites; NASB: Canaanites)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/חִתִּ֖י",
+        "phrase": "the-Hittite",
+        "literal": "the-Hittite",
+        "source": "H2850 (KJV: Hittite; ESV: Hittites; NASB: Hittites)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/לְּ/פָנֶֽי/ךָ",
+        "phrase": "from-before-you",
+        "literal": "from-to-face-your",
+        "source": "H6440 (KJV: from before thee; ESV: from before you; NASB: before you)"
+      }
+    ]
+  }
+]

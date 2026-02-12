@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/עֲבַדְתֶּ֗ם",
+        "phrase": "and-you-shall-serve",
+        "literal": "and-you(pl)-shall-serve",
+        "source": "H5647 (KJV: serve; ESV: serve; NASB: serve)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹֽהֵי/כֶ֔ם",
+        "phrase": "God-your(pl)",
+        "literal": "God-your(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵרַ֥ךְ",
+        "phrase": "and-he-will-bless",
+        "literal": "and-he-shall-bless",
+        "source": "H1288 (KJV: he shall bless; ESV: he will bless; NASB: He will bless)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "לַחְמְ/ךָ֖",
+        "phrase": "your(sg)-bread",
+        "literal": "your(sg)-bread",
+        "source": "H3899 (KJV: thy bread; ESV: your bread; NASB: your bread)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[accusative-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵימֶ֑י/ךָ",
+        "phrase": "your(sg)-waters",
+        "literal": "your(sg)-waters",
+        "source": "H4325 (KJV: thy water; ESV: your water; NASB: your water)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/הֲסִרֹתִ֥י",
+        "phrase": "and-I-will-remove",
+        "literal": "and-I-shall-remove",
+        "source": "H5493 (KJV: I will take...away; ESV: I will take...away; NASB: I will remove)"
+      },
+      {
+        "position": 11,
+        "surface": "מַחֲלָ֖ה",
+        "phrase": "sickness",
+        "literal": "sickness",
+        "source": "H4245 (KJV: sickness; ESV: sickness; NASB: sickness)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/קִּרְבֶּֽ/ךָ",
+        "phrase": "from-midst-your(sg)",
+        "literal": "from-midst-your(sg)",
+        "source": "H7130 (KJV: from the midst of thee; ESV: from among you; NASB: from your midst)"
+      }
+    ]
+  }
+]

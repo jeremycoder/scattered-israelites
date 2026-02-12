@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשִׂ֛יתָ",
+        "phrase": "And you shall make",
+        "literal": "and-you-shall-make",
+        "source": "H6213 (KJV: make; ESV: make; NASB: make)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "מְעִ֥יל",
+        "phrase": "the robe",
+        "literal": "robe",
+        "source": "H4598 (KJV: robe; ESV: robe; NASB: robe)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵפ֖וֹד",
+        "phrase": "of the ephod",
+        "literal": "the-ephod",
+        "source": "H646 (KJV: ephod; ESV: ephod; NASB: ephod)"
+      },
+      {
+        "position": 5,
+        "surface": "כְּלִ֥יל",
+        "phrase": "all of",
+        "literal": "complete",
+        "source": "H3632 (KJV: all; ESV: entirely; NASB: entirely)"
+      },
+      {
+        "position": 6,
+        "surface": "תְּכֵֽלֶת",
+        "phrase": "blue",
+        "literal": "blue-violet",
+        "source": "H8504 (KJV: blue; ESV: blue; NASB: violet)"
+      }
+    ]
+  }
+]

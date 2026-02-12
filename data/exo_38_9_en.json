@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 38,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶ/חָצֵ֑ר",
+        "phrase": "the court",
+        "literal": "the-court",
+        "source": "H2691 (KJV: court; ESV: courtyard; NASB: courtyard)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/פְאַ֣ת",
+        "phrase": "toward the side",
+        "literal": "to-side-of",
+        "source": "H6285 (KJV: side; ESV: side; NASB: side)"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֣גֶב",
+        "phrase": "southward",
+        "literal": "south",
+        "source": "H5045 (KJV: south; ESV: south; NASB: south)"
+      },
+      {
+        "position": 6,
+        "surface": "תֵּימָ֗נָ/ה",
+        "phrase": "southward",
+        "literal": "southward",
+        "source": "H8486 (KJV: south; ESV: south; NASB: south)"
+      },
+      {
+        "position": 7,
+        "surface": "קַלְעֵ֤י",
+        "phrase": "hangings of",
+        "literal": "hangings-of",
+        "source": "H7050 (KJV: hangings; ESV: hangings; NASB: hangings)"
+      },
+      {
+        "position": 8,
+        "surface": "הֶֽ/חָצֵר֙",
+        "phrase": "the court",
+        "literal": "the-court",
+        "source": "H2691 (KJV: court; ESV: courtyard; NASB: courtyard)"
+      },
+      {
+        "position": 9,
+        "surface": "שֵׁ֣שׁ",
+        "phrase": "fine linen",
+        "literal": "linen",
+        "source": "H8336 (KJV: fine twined linen; ESV: fine twined linen; NASB: fine twisted linen)"
+      },
+      {
+        "position": 10,
+        "surface": "מָשְׁזָ֔ר",
+        "phrase": "twisted",
+        "literal": "twisted",
+        "source": "H7806 (KJV: twined; ESV: twisted; NASB: twisted)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵאָ֖ה",
+        "phrase": "a hundred",
+        "literal": "a-hundred",
+        "source": "H3967 (KJV: hundred; ESV: 150; NASB: 150)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אַמָּֽה",
+        "phrase": "cubits",
+        "literal": "in-cubit",
+        "source": "H520 (KJV: cubits; ESV: cubits; NASB: cubits)"
+      }
+    ]
+  }
+]

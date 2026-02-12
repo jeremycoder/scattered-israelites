@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: 'not'/'not'/'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲנֶ֥ה",
+        "phrase": "bear witness",
+        "literal": "you-will-answer",
+        "source": "H6030; KJV/ESV/NASB: 'bear'/'bear'/'bear'"
+      },
+      {
+        "position": 3,
+        "surface": "בְ/רֵעֲ/ךָ֖",
+        "phrase": "against your neighbor",
+        "literal": "in-neighbor-your",
+        "source": "H7453; KJV/ESV/NASB: 'against thy neighbour'/'against your neighbor'/'against your neighbor'"
+      },
+      {
+        "position": 4,
+        "surface": "עֵ֥ד",
+        "phrase": "witness",
+        "literal": "witness",
+        "source": "H5707; KJV/ESV/NASB: 'witness'/'witness'/'witness'"
+      },
+      {
+        "position": 5,
+        "surface": "שָֽׁקֶר",
+        "phrase": "false",
+        "literal": "lie",
+        "source": "H8267; KJV/ESV/NASB: 'false'/'false'/'false'"
+      }
+    ]
+  }
+]

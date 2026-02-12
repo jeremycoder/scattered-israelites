@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛ת",
+        "phrase": "and the",
+        "literal": "and-ACC",
+        "source": "H853 (KJV: thou shalt take; ESV: You shall take; NASB: You shall take)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֥יל",
+        "phrase": "ram",
+        "literal": "ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּלֻּאִ֖ים",
+        "phrase": "of the ordination",
+        "literal": "the-fillings",
+        "source": "H4394 (KJV: consecration; ESV: ordination; NASB: ordination)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּקָּ֑ח",
+        "phrase": "you shall take",
+        "literal": "you-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בִשַּׁלְתָּ֥",
+        "phrase": "and you shall boil",
+        "literal": "and-boil-you",
+        "source": "H1310 (KJV: seethe; ESV: boil; NASB: boil)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "ACC",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּשָׂר֖/וֹ",
+        "phrase": "its flesh",
+        "literal": "flesh-his",
+        "source": "H1320 (KJV: his flesh; ESV: its flesh; NASB: its flesh)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/מָקֹ֥ם",
+        "phrase": "in place",
+        "literal": "in-place",
+        "source": "H4725 (KJV: in the holy place; ESV: in a holy place; NASB: in a holy place)"
+      },
+      {
+        "position": 9,
+        "surface": "קָדֹֽשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6918 (KJV: holy place; ESV: holy place; NASB: holy place)"
+      }
+    ]
+  }
+]

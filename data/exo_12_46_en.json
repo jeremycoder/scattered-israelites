@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/בַ֤יִת",
+        "phrase": "in the house",
+        "literal": "in-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶחָד֙",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 3,
+        "surface": "יֵאָכֵ֔ל",
+        "phrase": "it shall be eaten",
+        "literal": "it-will-be-eaten",
+        "source": "H398 (KJV: eaten; ESV: eaten; NASB: eaten)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "תוֹצִ֧יא",
+        "phrase": "you shall bring out",
+        "literal": "you-shall-bring-out",
+        "source": "H3318 (KJV: carry forth; ESV: take; NASB: bring)"
+      },
+      {
+        "position": 6,
+        "surface": "מִן",
+        "phrase": "any of",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: any of; NASB: any of)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/בַּ֛יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 8,
+        "surface": "מִן",
+        "phrase": "any of",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: of)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/בָּשָׂ֖ר",
+        "phrase": "the flesh",
+        "literal": "the-flesh",
+        "source": "H1320 (KJV: flesh; ESV: meat; NASB: flesh)"
+      },
+      {
+        "position": 10,
+        "surface": "ח֑וּצָ/ה",
+        "phrase": "outside",
+        "literal": "outside",
+        "source": "H2351 (KJV: abroad; ESV: outside; NASB: outside)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/עֶ֖צֶם",
+        "phrase": "and bone",
+        "literal": "and-bone",
+        "source": "H6106 (KJV: bone; ESV: bone; NASB: bone)"
+      },
+      {
+        "position": 12,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 13,
+        "surface": "תִשְׁבְּרוּ",
+        "phrase": "you shall break",
+        "literal": "you-shall-break",
+        "source": "H7665 (KJV: break; ESV: break; NASB: break)"
+      },
+      {
+        "position": 14,
+        "surface": "בֽ/וֹ",
+        "phrase": "of it",
+        "literal": "in-it",
+        "source": "(KJV: thereof; ESV: of it; NASB: of it)"
+      }
+    ]
+  }
+]

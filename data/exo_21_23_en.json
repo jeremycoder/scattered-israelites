@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "But if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: But if; NASB: But if)"
+      },
+      {
+        "position": 2,
+        "surface": "אָס֖וֹן",
+        "phrase": "harm",
+        "literal": "harm",
+        "source": "H611 (KJV: mischief; ESV: harm; NASB: further injury)"
+      },
+      {
+        "position": 3,
+        "surface": "יִהְיֶ֑ה",
+        "phrase": "follows",
+        "literal": "it-is",
+        "source": "H1961 (KJV: follow; ESV: follows; NASB: there is)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נָתַתָּ֥ה",
+        "phrase": "then you shall give",
+        "literal": "and-you-shall-give",
+        "source": "H5414 (KJV: thou shalt give; ESV: you shall give; NASB: you shall appoint)"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֖פֶשׁ",
+        "phrase": "life",
+        "literal": "life",
+        "source": "H5315 (KJV: life; ESV: life; NASB: life)"
+      },
+      {
+        "position": 6,
+        "surface": "תַּ֥חַת",
+        "phrase": "for",
+        "literal": "in-place-of",
+        "source": "H8478 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 7,
+        "surface": "נָֽפֶשׁ",
+        "phrase": "life",
+        "literal": "life",
+        "source": "H5315 (KJV: life; ESV: life; NASB: life)"
+      }
+    ]
+  }
+]

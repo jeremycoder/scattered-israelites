@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/מְּנֹרָ֖ה",
+        "phrase": "and-on the lampstand",
+        "literal": "and-in-the-lampstand",
+        "source": "H4501 (KJV: candlestick; ESV: lampstand; NASB: lampstand)"
+      },
+      {
+        "position": 2,
+        "surface": "אַרְבָּעָ֣ה",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702 (KJV: four; ESV: four; NASB: four)"
+      },
+      {
+        "position": 3,
+        "surface": "גְבִעִ֑ים",
+        "phrase": "cups",
+        "literal": "cups",
+        "source": "H1375 (KJV: bowls; ESV: cups; NASB: cups)"
+      },
+      {
+        "position": 4,
+        "surface": "מְשֻׁקָּדִ֔ים",
+        "phrase": "shaped-like-almond-blossoms",
+        "literal": "almond-shaped",
+        "source": "H8246 (KJV: made like unto almonds; ESV: made like almond blossoms; NASB: shaped like almond blossoms)"
+      },
+      {
+        "position": 5,
+        "surface": "כַּפְתֹּרֶ֖י/הָ",
+        "phrase": "its-buds",
+        "literal": "its-knops",
+        "source": "H3730 (KJV: knops; ESV: calyxes; NASB: bulbs)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/פְרָחֶֽי/הָ",
+        "phrase": "and-its-flowers",
+        "literal": "and-its-flowers",
+        "source": "H6525 (KJV: flowers; ESV: flowers; NASB: flowers)"
+      }
+    ]
+  }
+]

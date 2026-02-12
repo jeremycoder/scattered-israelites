@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָ֣קַחְתָּ֔",
+        "phrase": "And you shall take",
+        "literal": "and-you-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁתֵּ֖י",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV: two; ESV: two; NASB: two)"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְנֵי",
+        "phrase": "stones",
+        "literal": "stones",
+        "source": "H68 (KJV: stones; ESV: stones; NASB: stones)"
+      },
+      {
+        "position": 5,
+        "surface": "שֹׁ֑הַם",
+        "phrase": "onyx",
+        "literal": "onyx",
+        "source": "H7718 (KJV: onyx; ESV: onyx; NASB: onyx)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/פִתַּחְתָּ֣",
+        "phrase": "and you shall engrave",
+        "literal": "and-you-open",
+        "source": "H6605 (KJV: grave; ESV: engrave; NASB: engrave)"
+      },
+      {
+        "position": 7,
+        "surface": "עֲלֵי/הֶ֔ם",
+        "phrase": "on them",
+        "literal": "on-them",
+        "source": "H5921 (KJV: on them; ESV: on them; NASB: on them)"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמ֖וֹת",
+        "phrase": "names",
+        "literal": "names",
+        "source": "H8034 (KJV: names; ESV: names; NASB: names)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      }
+    ]
+  }
+]

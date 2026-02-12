@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/טּ֖וּר",
+        "phrase": "and the row",
+        "literal": "and-the-row",
+        "source": "H2905; KJV: row, ESV: row, NASB: row[1][2][3]"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁלִישִׁ֑י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992; KJV: third, ESV: third, NASB: third[1][2][3]"
+      },
+      {
+        "position": 3,
+        "surface": "לֶ֥שֶׁם",
+        "phrase": "a jacinth",
+        "literal": "jacinth",
+        "source": "H3958; KJV: ligure, ESV: jacinth, NASB: jacinth[1][2][3]"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁב֖וֹ",
+        "phrase": "an agate",
+        "literal": "agate",
+        "source": "H7618; KJV: agate, ESV: agate, NASB: agate[1][2][3]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אַחְלָֽמָה",
+        "phrase": "and an amethyst",
+        "literal": "and-amethyst",
+        "source": "H306; KJV: amethyst, ESV: amethyst, NASB: amethyst[1][2][3]"
+      }
+    ]
+  }
+]

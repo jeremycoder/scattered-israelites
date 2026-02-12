@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 17,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֖א",
+        "phrase": "Then came",
+        "literal": "and-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 2,
+        "surface": "עֲמָלֵ֑ק",
+        "phrase": "Amalek",
+        "literal": "Amalek",
+        "source": "H6002 (KJV: Amalek; ESV: Amalek; NASB: Amalek)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּלָּ֥חֶם",
+        "phrase": "and fought",
+        "literal": "and-fought",
+        "source": "H3898 (KJV: fought; ESV: fought; NASB: fought)"
+      },
+      {
+        "position": 4,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV: with; ESV: against; NASB: against)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 6,
+        "surface": "בִּ/רְפִידִֽם",
+        "phrase": "at Rephidim",
+        "literal": "in-Rephidim",
+        "source": "H7508 (KJV: in Rephidim; ESV: at Rephidim; NASB: at Rephidim)"
+      }
+    ]
+  }
+]

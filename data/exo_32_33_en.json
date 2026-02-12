@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 32,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And He said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: 'And the LORD said', ESV: 'But the LORD said', NASB: 'But the LORD said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: 'unto', ESV: 'to', NASB: 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: 'Moses', ESV: 'Moses', NASB: 'Moses'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ֚י",
+        "phrase": "whoever",
+        "literal": "who",
+        "source": "H4310; KJV: 'Whosoever', ESV: 'Whoever', NASB: 'Whoever'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834; KJV: 'hath', ESV: 'has', NASB: 'has'"
+      },
+      {
+        "position": 7,
+        "surface": "חָֽטָא",
+        "phrase": "has sinned",
+        "literal": "has-sinned",
+        "source": "H2398; KJV: 'sinned', ESV: 'sinned', NASB: 'sinned'"
+      },
+      {
+        "position": 8,
+        "surface": "לִ֔/י",
+        "phrase": "against Me",
+        "literal": "to-me",
+        "source": "H413 (prep.); KJV: 'against me', ESV: 'against me', NASB: 'against Me'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶמְחֶ֖/נּוּ",
+        "phrase": "I will blot him out",
+        "literal": "I-will-blot-out-him",
+        "source": "H4229; KJV: 'I will blot out of', ESV: 'I will blot out', NASB: 'I will blot him out'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/סִּפְרִֽ/י",
+        "phrase": "from My book",
+        "literal": "from-book-my",
+        "source": "H5612; KJV: 'my book', ESV: 'my book', NASB: 'My book'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשִׂ֤יתָ",
+        "phrase": "and you shall make",
+        "literal": "and-you-shall-make",
+        "source": "H6213; KJV: 'make', ESV: 'make', NASB: 'make'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ/הּ֙",
+        "phrase": "it",
+        "literal": "obj.marker-her/it",
+        "source": "H853; KJV: 'it', ESV: 'it', NASB: 'it'"
+      },
+      {
+        "position": 3,
+        "surface": "קְטֹ֔רֶת",
+        "phrase": "incense",
+        "literal": "incense",
+        "source": "H7004; KJV: 'incense', ESV: 'incense', NASB: 'incense'"
+      },
+      {
+        "position": 4,
+        "surface": "רֹ֖קַח",
+        "phrase": "compound",
+        "literal": "mixture-perfume",
+        "source": "H7545; KJV: 'spice', ESV: 'blend', NASB: 'perfume'"
+      },
+      {
+        "position": 5,
+        "surface": "מַעֲשֵׂ֣ה",
+        "phrase": "work",
+        "literal": "work-of",
+        "source": "H4639; KJV: 'art', ESV: 'work', NASB: 'work'"
+      },
+      {
+        "position": 6,
+        "surface": "רוֹקֵ֑חַ",
+        "phrase": "perfumer",
+        "literal": "mixer-perfumer",
+        "source": "H7543; KJV: 'perfumer', ESV: 'perfumer', NASB: 'perfumer'"
+      },
+      {
+        "position": 7,
+        "surface": "מְמֻלָּ֖ח",
+        "phrase": "salted",
+        "literal": "salted-made-salty",
+        "source": "H4414; KJV: 'tempered', ESV: 'salted', NASB: 'seasoned'"
+      },
+      {
+        "position": 8,
+        "surface": "טָה֥וֹר",
+        "phrase": "pure",
+        "literal": "pure",
+        "source": "H2889; KJV: 'pure', ESV: 'pure', NASB: 'pure'"
+      },
+      {
+        "position": 9,
+        "surface": "קֹֽדֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944; KJV: 'holy', ESV: 'holy', NASB: 'holy'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֖א",
+        "phrase": "you shall not",
+        "literal": "not",
+        "source": "H3808; KJV: shalt not, ESV: shall not, NASB: shall not"
+      },
+      {
+        "position": 2,
+        "surface": "תִּנְאָֽף",
+        "phrase": "commit adultery",
+        "literal": "you(m.s.)-commit-adultery",
+        "source": "H5003; KJV: commit adultery, ESV: commit adultery, NASB: commit adultery"
+      }
+    ]
+  }
+]

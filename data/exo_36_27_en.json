@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּֽ/לְ/יַרְכְּתֵ֥י",
+        "phrase": "for the rear of",
+        "literal": "and-to-rear-of",
+        "source": "H3411; KJV: 'for the sides', ESV: 'for the rear', NASB: 'for the rear'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מִּשְׁכָּ֖ן",
+        "phrase": "the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908; KJV: 'tabernacle', ESV: 'tabernacle', NASB: 'tabernacle'"
+      },
+      {
+        "position": 3,
+        "surface": "יָ֑מָּ/ה",
+        "phrase": "westward",
+        "literal": "to-sea-ward",
+        "source": "H3220; KJV: 'westward', ESV: 'westward', NASB: 'westward'"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֖ה",
+        "phrase": "he made",
+        "literal": "he-made",
+        "source": "H6213; KJV: 'he made', ESV: 'he made', NASB: 'he made'"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁשָּׁ֥ה",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337; KJV: 'six', ESV: 'six', NASB: 'six'"
+      },
+      {
+        "position": 6,
+        "surface": "קְרָשִֽׁים",
+        "phrase": "frames",
+        "literal": "frames",
+        "source": "H7175; KJV: 'boards', ESV: 'frames', NASB: 'boards'"
+      }
+    ]
+  }
+]

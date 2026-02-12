@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 19,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥רֶד",
+        "phrase": "went down",
+        "literal": "and-he-descended",
+        "source": "H3381 (KJV: went down; ESV: went down; NASB: went down)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֑ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "spoke",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: spake; ESV: told; NASB: told)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲלֵ/הֶֽם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: to them; NASB: to them)"
+      }
+    ]
+  }
+]

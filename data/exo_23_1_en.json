@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "you shall not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: 'not'/'shall not'/'You shall not'"
+      },
+      {
+        "position": 2,
+        "surface": "תִשָּׂ֖א",
+        "phrase": "bear",
+        "literal": "you(m.s.)-bear",
+        "source": "H5375; KJV: 'raise'; ESV/NASB: 'spread'/'take up'"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁ֣מַע",
+        "phrase": "a report",
+        "literal": "report",
+        "source": "H8088; KJV/ESV/NASB: 'report'/'false report'/'false report'"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑וְא",
+        "phrase": "false",
+        "literal": "falsehood",
+        "source": "H7723; KJV/ESV/NASB: 'vain'/'false'/'false'"
+      },
+      {
+        "position": 5,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: 'neither'/'Do not'/'do not'"
+      },
+      {
+        "position": 6,
+        "surface": "תָּ֤שֶׁת",
+        "phrase": "put",
+        "literal": "you(m.s.)-put",
+        "source": "H7896; KJV/ESV/NASB: 'put'/'join hands'/'put your hand'"
+      },
+      {
+        "position": 7,
+        "surface": "יָֽדְ/ךָ֙",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "H3027; KJV/ESV/NASB: 'thy hand'/'hands'/'your hand'"
+      },
+      {
+        "position": 8,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV/ESV/NASB: 'with'/'with'/'with'"
+      },
+      {
+        "position": 9,
+        "surface": "רָשָׁ֔ע",
+        "phrase": "the wicked",
+        "literal": "wicked",
+        "source": "H7563; KJV/ESV/NASB: 'wicked'/'wicked'/'wicked'"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/הְיֹ֖ת",
+        "phrase": "to be",
+        "literal": "to-be",
+        "source": "H1961; KJV/ESV/NASB: 'to be'/'to be'/'to be'"
+      },
+      {
+        "position": 11,
+        "surface": "עֵ֥ד",
+        "phrase": "a witness",
+        "literal": "witness",
+        "source": "H5707; KJV/ESV/NASB: 'witness'/'witness'/'witness'"
+      },
+      {
+        "position": 12,
+        "surface": "חָמָֽס",
+        "phrase": "malicious",
+        "literal": "violence",
+        "source": "H2555; KJV: 'unrighteous'; ESV/NASB: 'malicious'/'malicious'"
+      }
+    ]
+  }
+]

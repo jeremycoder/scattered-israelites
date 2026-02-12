@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣ת",
+        "phrase": "the",
+        "literal": "obj-marker",
+        "source": "H853; KJV/ESV/NASB: (direct object marker)"
+      },
+      {
+        "position": 2,
+        "surface": "מִזְבַּ֣ח",
+        "phrase": "altar",
+        "literal": "altar",
+        "source": "H4196; KJV/ESV/NASB: altar"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עֹלָ֗ה",
+        "phrase": "of burnt offering",
+        "literal": "the-ascension/offering",
+        "source": "H5930; KJV/ESV/NASB: of burnt offering"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj-marker",
+        "source": "H853; KJV/ESV/NASB: and (direct object marker)"
+      },
+      {
+        "position": 5,
+        "surface": "מִכְבַּ֤ר",
+        "phrase": "grating",
+        "literal": "grating",
+        "source": "H4345; KJV: grate, ESV/NASB: grating"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נְּחֹ֨שֶׁת֙",
+        "phrase": "of bronze",
+        "literal": "the-bronze",
+        "source": "H5178; KJV: brasen, ESV/NASB: bronze"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834; KJV/ESV/NASB: (relative particle, with לוֹ: which...it)"
+      },
+      {
+        "position": 8,
+        "surface": "ל֔/וֹ",
+        "phrase": "for it",
+        "literal": "to/for-it",
+        "source": "-; KJV/ESV/NASB: (with אשר: which...it/for it)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "obj-marker",
+        "source": "H853; KJV/ESV/NASB: (direct object marker)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּדָּ֖י/ו",
+        "phrase": "poles",
+        "literal": "bars-its",
+        "source": "H905; KJV: staves, ESV/NASB: poles"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj-marker",
+        "source": "H853; KJV/ESV/NASB: and (direct object marker)"
+      },
+      {
+        "position": 12,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV/ESV/NASB: all"
+      },
+      {
+        "position": 13,
+        "surface": "כֵּלָ֑י/ו",
+        "phrase": "its utensils",
+        "literal": "vessels/utensils-its",
+        "source": "H3627; KJV: vessels, ESV/NASB: utensils"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "obj-marker",
+        "source": "H853; KJV/ESV/NASB: (direct object marker)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/כִּיֹּ֖ר",
+        "phrase": "basin",
+        "literal": "the-basin",
+        "source": "H3595; KJV: laver, ESV/NASB: basin"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj-marker",
+        "source": "H853; KJV/ESV/NASB: and (direct object marker)"
+      },
+      {
+        "position": 17,
+        "surface": "כַנּֽ/וֹ",
+        "phrase": "its stand",
+        "literal": "base/stand-its",
+        "source": "H3653; KJV: foot, ESV/NASB: stand"
+      }
+    ]
+  }
+]

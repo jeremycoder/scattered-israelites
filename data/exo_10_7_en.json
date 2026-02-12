@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְרוּ֩",
+        "phrase": "and they said",
+        "literal": "and-they-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "עַבְדֵ֨י",
+        "phrase": "servants of",
+        "literal": "servants-of",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      },
+      {
+        "position": 3,
+        "surface": "פַרְעֹ֜ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (KJV: Pharaoh's; ESV: Pharaoh’s; NASB: Pharaoh’s)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלָ֗י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: How long; ESV: How long; NASB: How long)"
+      },
+      {
+        "position": 6,
+        "surface": "מָתַי֙",
+        "phrase": "when",
+        "literal": "when",
+        "source": "H4970 (KJV: shall; ESV: shall; NASB: will)"
+      },
+      {
+        "position": 7,
+        "surface": "יִהְיֶ֨ה",
+        "phrase": "will be",
+        "literal": "he-will-be",
+        "source": "H1961 (KJV: be; ESV: be; NASB: be)"
+      },
+      {
+        "position": 8,
+        "surface": "זֶ֥ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: this man; ESV: this man; NASB: this man)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ֨/נוּ֙",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": " (KJV: unto us; ESV: to us; NASB: to us)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מוֹקֵ֔שׁ",
+        "phrase": "a snare",
+        "literal": "for-snare",
+        "source": "H4170 (KJV: a snare; ESV: a snare; NASB: a snare)"
+      },
+      {
+        "position": 11,
+        "surface": "שַׁלַּח֙",
+        "phrase": "let go",
+        "literal": "send",
+        "source": "H7971 (KJV: let the men go; ESV: Let the men go; NASB: Let the men go)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 13,
+        "surface": "הָ֣/אֲנָשִׁ֔ים",
+        "phrase": "men",
+        "literal": "the-men",
+        "source": "H376 (KJV: the men; ESV: the men; NASB: the men)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/יַֽעַבְד֖וּ",
+        "phrase": "that they may serve",
+        "literal": "and-they-may-serve",
+        "source": "H5647 (KJV: that they may serve; ESV: that they may serve; NASB: that they may serve)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 16,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 17,
+        "surface": "אֱלֹהֵי/הֶ֑ם",
+        "phrase": "their God",
+        "literal": "God-of-them",
+        "source": "H430 (KJV: their God; ESV: their God; NASB: their God)"
+      },
+      {
+        "position": 18,
+        "surface": "הֲ/טֶ֣רֶם",
+        "phrase": "do you not yet",
+        "literal": "not-yet",
+        "source": "H2962 (KJV: knowest thou not yet; ESV: Do you not yet; NASB: Do you not)"
+      },
+      {
+        "position": 19,
+        "surface": "תֵּדַ֔ע",
+        "phrase": "know",
+        "literal": "you-know",
+        "source": "H3045 (KJV: knowest thou; ESV: realize; NASB: realize)"
+      },
+      {
+        "position": 20,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 21,
+        "surface": "אָבְדָ֖ה",
+        "phrase": "is destroyed",
+        "literal": "she-is-destroyed",
+        "source": "H6 (KJV: is destroyed; ESV: is ruined; NASB: is destroyed)"
+      },
+      {
+        "position": 22,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      }
+    ]
+  }
+]

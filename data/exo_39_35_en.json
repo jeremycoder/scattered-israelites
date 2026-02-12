@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: direct obj.; ESV: direct obj.; NASB: direct obj.)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲרֹ֥ן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עֵדֻ֖ת",
+        "phrase": "of the testimony",
+        "literal": "the-testimony",
+        "source": "H5715 (KJV: testimony; ESV: testimony; NASB: testimony)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּדָּ֑י/ו",
+        "phrase": "its staves",
+        "literal": "staff-its",
+        "source": "H905 (KJV: staves; ESV: poles; NASB: poles)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כַּפֹּֽרֶת",
+        "phrase": "the mercy seat",
+        "literal": "the-cover",
+        "source": "H3727 (KJV: mercy seat; ESV: mercy seat; NASB: mercy seat)"
+      }
+    ]
+  }
+]

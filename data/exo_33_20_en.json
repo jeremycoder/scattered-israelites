@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 33,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And he said; ESV: But he said; NASB: But He said)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: cannot; NASB: cannot)"
+      },
+      {
+        "position": 3,
+        "surface": "תוּכַ֖ל",
+        "phrase": "you can",
+        "literal": "you-are-able",
+        "source": "H3201 (KJV: Thou canst; ESV: you cannot; NASB: You cannot)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/רְאֹ֣ת",
+        "phrase": "see",
+        "literal": "to-see",
+        "source": "H7200 (KJV: see; ESV: see; NASB: see)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "פָּנָ֑/י",
+        "phrase": "my face",
+        "literal": "face-my",
+        "source": "H6440 (KJV: my face; ESV: my face; NASB: My face)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: shall not; NASB: no)"
+      },
+      {
+        "position": 9,
+        "surface": "יִרְאַ֥/נִי",
+        "phrase": "see me",
+        "literal": "see-me",
+        "source": "H7200 (KJV: see me; ESV: see me; NASB: see Me)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָדָ֖ם",
+        "phrase": "man",
+        "literal": "the-man",
+        "source": "H120 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 11,
+        "surface": "וָ/חָֽי",
+        "phrase": "and live",
+        "literal": "and-live",
+        "source": "H2425 (KJV: and live; ESV: and live; NASB: and live)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'no', ESV 'no', NASB 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תְבַעֲר֣וּ",
+        "phrase": "kindle",
+        "literal": "you(pl)-shall-burn/kindle",
+        "source": "H1197: KJV 'kindle', ESV 'kindle', NASB 'kindle'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֔שׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784: KJV 'fire', ESV 'fire', NASB 'fire'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/כֹ֖ל",
+        "phrase": "in all",
+        "literal": "in/all",
+        "source": "H3605: KJV 'throughout', ESV 'in all', NASB 'in all'"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשְׁבֹֽתֵי/כֶ֑ם",
+        "phrase": "your dwellings",
+        "literal": "seatings/your(pl)",
+        "source": "H4186: KJV 'habitations', ESV 'dwelling places', NASB 'dwellings'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/י֖וֹם",
+        "phrase": "on day",
+        "literal": "in/day",
+        "source": "H3117: KJV 'day', ESV 'day', NASB 'day'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שַּׁבָּֽת",
+        "phrase": "the Sabbath",
+        "literal": "the-Sabbath",
+        "source": "H7676: KJV 'sabbath', ESV 'Sabbath', NASB 'sabbath'"
+      }
+    ]
+  }
+]

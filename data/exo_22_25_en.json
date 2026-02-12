@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "חָבֹ֥ל",
+        "phrase": "you pledge",
+        "literal": "pledge-you_(inf)",
+        "source": "H2254 (KJV: lend; ESV: take; NASB: take); Mechon-Mamre: take"
+      },
+      {
+        "position": 3,
+        "surface": "תַּחְבֹּ֖ל",
+        "phrase": "you pledge",
+        "literal": "you-pledge",
+        "source": "H2254 (KJV: lend; ESV: take; NASB: take); Mechon-Mamre: take"
+      },
+      {
+        "position": 4,
+        "surface": "שַׂלְמַ֣ת",
+        "phrase": "garment of",
+        "literal": "garment-of",
+        "source": "H8008 (KJV: raiment; ESV: cloak; NASB: garment); Mechon-Mamre: garment"
+      },
+      {
+        "position": 5,
+        "surface": "רֵעֶ֑/ךָ",
+        "phrase": "your neighbor",
+        "literal": "neighbor-your",
+        "source": "H7453 (KJV: neighbour's; ESV: neighbor's; NASB: neighbor's); Mechon-Mamre: neighbour's"
+      },
+      {
+        "position": 6,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: by; ESV: by; NASB: by)"
+      },
+      {
+        "position": 7,
+        "surface": "בֹּ֥א",
+        "phrase": "coming of",
+        "literal": "coming-of",
+        "source": "H935 (KJV: goeth down; ESV: goes down; NASB: goes down); Mechon-Mamre: goeth down"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שֶּׁ֖מֶשׁ",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "H8121 (KJV: the sun; ESV: the sun; NASB: the sun); Mechon-Mamre: the sun"
+      },
+      {
+        "position": 9,
+        "surface": "תְּשִׁיבֶ֥/נּוּ",
+        "phrase": "you shall return it",
+        "literal": "you-shall-return-it",
+        "source": "H7725 (KJV: restore; ESV: return; NASB: return); Mechon-Mamre: restore"
+      },
+      {
+        "position": 10,
+        "surface": "לֽ/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: unto him; ESV: to him; NASB: to him); Mechon-Mamre: unto him"
+      }
+    ]
+  }
+]

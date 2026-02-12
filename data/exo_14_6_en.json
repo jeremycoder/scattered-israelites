@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֶּאְסֹ֖ר",
+        "phrase": "and he made ready",
+        "literal": "and-he-bound",
+        "source": "H631; KJV: made ready, ESV: made ready, NASB: made ready"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "רִכְבּ֑/וֹ",
+        "phrase": "his chariot",
+        "literal": "chariot-his",
+        "source": "H7393; KJV: his chariot, ESV: his chariot, NASB: his chariot"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "עַמּ֖/וֹ",
+        "phrase": "his people",
+        "literal": "people-his",
+        "source": "H5971; KJV: his people, ESV: his army, NASB: his people"
+      },
+      {
+        "position": 6,
+        "surface": "לָקַ֥ח",
+        "phrase": "he took",
+        "literal": "he-took",
+        "source": "H3947; KJV: took, ESV: took, NASB: took"
+      },
+      {
+        "position": 7,
+        "surface": "עִמּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973; KJV: with him, ESV: with him, NASB: with him"
+      }
+    ]
+  }
+]

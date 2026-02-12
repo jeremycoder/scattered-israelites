@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּעָלָ֥י/ו",
+        "phrase": "its owner",
+        "literal": "owner-his",
+        "source": "H1167 (KJV: the owner thereof; ESV: its owner; NASB: its owner)"
+      },
+      {
+        "position": 3,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "is with it",
+        "literal": "with-it",
+        "source": "H5973 (KJV: being not with it; ESV: is not present; NASB: is not with it)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "יְשַׁלֵּ֑ם",
+        "phrase": "he shall make restitution",
+        "literal": "he-shall-make-good",
+        "source": "H7999 (KJV: he shall surely make it good; ESV: he must make full restitution; NASB: he shall make restitution)"
+      },
+      {
+        "position": 6,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: And if; ESV: If; NASB: If)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׂכִ֣יר",
+        "phrase": "hired",
+        "literal": "hired-thing",
+        "source": "H7916 (KJV: (implied in context); ESV: hired; NASB: hired)"
+      },
+      {
+        "position": 8,
+        "surface": "ה֔וּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "H1931 (KJV: (implied); ESV: it; NASB: it)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ֖א",
+        "phrase": "comes",
+        "literal": "comes",
+        "source": "H935 (KJV: (implied in context); ESV: (implied); NASB: comes)"
+      },
+      {
+        "position": 10,
+        "surface": "בִּ/שְׂכָרֽ/וֹ",
+        "phrase": "for its hire",
+        "literal": "in-hire-his",
+        "source": "H7939 (KJV: (implied); ESV: for its hire; NASB: for its hire)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/קִדָּ֕ה",
+        "phrase": "and cassia",
+        "literal": "and-cassia",
+        "source": "H6916: KJV 'cassia'; ESV 'cassia'; NASB 'cassia'"
+      },
+      {
+        "position": 2,
+        "surface": "חֲמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568: KJV 'five'; ESV 'five'; NASB 'five'"
+      },
+      {
+        "position": 3,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967: KJV 'hundred'; ESV 'hundred'; NASB 'hundred'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/שֶׁ֣קֶל",
+        "phrase": "shekels",
+        "literal": "in-shekel-of",
+        "source": "H8255: KJV 'shekel'; ESV 'shekel'; NASB 'shekel'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/קֹּ֑דֶשׁ",
+        "phrase": "the sanctuary",
+        "literal": "the-holy",
+        "source": "H6944: KJV 'sanctuary'; ESV 'sanctuary'; NASB 'sanctuary'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שֶׁ֥מֶן",
+        "phrase": "and oil",
+        "literal": "and-oil",
+        "source": "H8081: KJV 'oil'; ESV 'oil'; NASB 'oil'"
+      },
+      {
+        "position": 7,
+        "surface": "זַ֖יִת",
+        "phrase": "olive",
+        "literal": "olive",
+        "source": "H2132: KJV 'olive'; ESV 'olive'; NASB 'olive'"
+      },
+      {
+        "position": 8,
+        "surface": "הִֽין",
+        "phrase": "a hin",
+        "literal": "hin",
+        "source": "H1969: KJV 'hin'; ESV 'hin'; NASB 'hin'"
+      }
+    ]
+  }
+]

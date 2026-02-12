@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and its",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'And the five pillars of it'; ESV: 'and its five pillars'; NASB: 'and its five pillars')"
+      },
+      {
+        "position": 2,
+        "surface": "עַמּוּדָ֤י/ו",
+        "phrase": "pillars",
+        "literal": "pillars-his",
+        "source": "H5982 (KJV: 'pillars'; ESV: 'pillars'; NASB: 'pillars')"
+      },
+      {
+        "position": 3,
+        "surface": "חֲמִשָּׁה֙",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV: 'five'; ESV: 'five'; NASB: 'five')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and their",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'with their hooks'; ESV: 'with their hooks'; NASB: 'with their hooks')"
+      },
+      {
+        "position": 5,
+        "surface": "וָ֣וֵי/הֶ֔ם",
+        "phrase": "hooks",
+        "literal": "hooks-their",
+        "source": "H2053 (KJV: 'hooks'; ESV: 'hooks'; NASB: 'hooks')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/צִפָּ֧ה",
+        "phrase": "he overlaid",
+        "literal": "and-overlaid",
+        "source": "H6823 (KJV: 'he overlaid'; ESV: 'He overlaid'; NASB: 'he overlaid')"
+      },
+      {
+        "position": 7,
+        "surface": "רָאשֵׁי/הֶ֛ם",
+        "phrase": "tops",
+        "literal": "heads-their",
+        "source": "H7218 (KJV: 'chapiters'; ESV: 'capitals'; NASB: 'tops')"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/חֲשֻׁקֵי/הֶ֖ם",
+        "phrase": "and their bands",
+        "literal": "and-bands-their",
+        "source": "H2838 (KJV: 'fillets'; ESV: 'fillets'; NASB: 'bands')"
+      },
+      {
+        "position": 9,
+        "surface": "זָהָ֑ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: 'gold'; ESV: 'gold'; NASB: 'gold')"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אַדְנֵי/הֶ֥ם",
+        "phrase": "and their bases",
+        "literal": "and-bases-their",
+        "source": "H134 (KJV: 'sockets'; ESV: 'bases'; NASB: 'sockets')"
+      },
+      {
+        "position": 11,
+        "surface": "חֲמִשָּׁ֖ה",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV: 'five'; ESV: 'five'; NASB: 'five')"
+      },
+      {
+        "position": 12,
+        "surface": "נְחֹֽשֶׁת",
+        "phrase": "bronze",
+        "literal": "bronze",
+        "source": "H5178 (KJV: 'brass'; ESV: 'bronze'; NASB: 'bronze')"
+      }
+    ]
+  }
+]

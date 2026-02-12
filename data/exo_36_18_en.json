@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֛עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "קַרְסֵ֥י",
+        "phrase": "clasps",
+        "literal": "clasps-of",
+        "source": "H7165 (KJV: clasps; ESV: clasps; NASB: clasps)"
+      },
+      {
+        "position": 3,
+        "surface": "נְחֹ֖שֶׁת",
+        "phrase": "bronze",
+        "literal": "bronze",
+        "source": "H5178 (KJV: brass; ESV: bronze; NASB: bronze)"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמִשִּׁ֑ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572 (KJV: fifty; ESV: fifty; NASB: fifty)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/חַבֵּ֥ר",
+        "phrase": "to join",
+        "literal": "to-join",
+        "source": "H2266 (KJV: couple; ESV: join; NASB: couple)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֹ֖הֶל",
+        "phrase": "the tent",
+        "literal": "the-tent",
+        "source": "H168 (KJV: tent; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 8,
+        "surface": "לִֽ/הְיֹ֥ת",
+        "phrase": "that it might be",
+        "literal": "to-be",
+        "source": "H1961 (KJV: that it might be; ESV: that it might be; NASB: so that it might become)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      }
+    ]
+  }
+]

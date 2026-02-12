@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/טּ֖וּר",
+        "phrase": "and-the-row",
+        "literal": "and-the-row",
+        "source": "H2905 (KJV: row; ESV: row; NASB: row)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שֵּׁנִ֑י",
+        "phrase": "the-second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: second; ESV: second; NASB: second)"
+      },
+      {
+        "position": 3,
+        "surface": "נֹ֥פֶךְ",
+        "phrase": "emerald",
+        "literal": "emerald",
+        "source": "H5306 (KJV: emerald; ESV: turquoise; NASB: emerald)"
+      },
+      {
+        "position": 4,
+        "surface": "סַפִּ֖יר",
+        "phrase": "sapphire",
+        "literal": "sapphire",
+        "source": "H5601 (KJV: sapphire; ESV: lapis lazuli; NASB: sapphire)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יָהֲלֹֽם",
+        "phrase": "and-diamond",
+        "literal": "and-diamond",
+        "source": "H3095 (KJV: diamond; ESV: emerald; NASB: diamond)"
+      }
+    ]
+  }
+]

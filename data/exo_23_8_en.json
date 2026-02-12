@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֹׁ֖חַד",
+        "phrase": "and-a-bribe",
+        "literal": "and-bribe",
+        "source": "H7810: KJV 'gift'; ESV/NASB 'bribe'"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV/ESV/NASB 'not'"
+      },
+      {
+        "position": 3,
+        "surface": "תִקָּ֑ח",
+        "phrase": "you-shall-take",
+        "literal": "you-take",
+        "source": "H3947: KJV 'take'; ESV/NASB 'take'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588: KJV/ESV/NASB 'for'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שֹּׁ֨חַד֙",
+        "phrase": "the-bribe",
+        "literal": "the-bribe",
+        "source": "H7810: KJV 'gift'; ESV/NASB 'bribe'"
+      },
+      {
+        "position": 6,
+        "surface": "יְעַוֵּ֣ר",
+        "phrase": "blinds",
+        "literal": "makes-blind",
+        "source": "H5786: KJV 'blindeth'; ESV 'blinds'; NASB 'blinds'"
+      },
+      {
+        "position": 7,
+        "surface": "פִּקְחִ֔ים",
+        "phrase": "the-clear-sighted",
+        "literal": "clear-sighted-ones",
+        "source": "H6493: KJV 'wise'; ESV 'clear-sighted'; NASB 'clear-sighted'"
+      },
+      {
+        "position": 8,
+        "surface": "וִֽ/יסַלֵּ֖ף",
+        "phrase": "and-subverts",
+        "literal": "and-perverts",
+        "source": "H5557: KJV 'perverteth'; ESV/NASB 'subverts/twists'"
+      },
+      {
+        "position": 9,
+        "surface": "דִּבְרֵ֥י",
+        "phrase": "words-of",
+        "literal": "words-of",
+        "source": "H1697: KJV/ESV/NASB 'words'"
+      },
+      {
+        "position": 10,
+        "surface": "צַדִּיקִֽים",
+        "phrase": "the-righteous",
+        "literal": "righteous-ones",
+        "source": "H6662: KJV/ESV/NASB 'just/righteous'"
+      }
+    ]
+  }
+]

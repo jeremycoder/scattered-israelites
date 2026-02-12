@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 17,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֥בֶן",
+        "phrase": "and built",
+        "literal": "and-he-built",
+        "source": "H1129 (KJV: built; ESV: built; NASB: built)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "מִזְבֵּ֑חַ",
+        "phrase": "an altar",
+        "literal": "altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and called",
+        "literal": "and-he-called",
+        "source": "H7121 (KJV: called; ESV: called; NASB: named)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "its name",
+        "literal": "name-his",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3071 (KJV: JEHOVAH; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "נִסִּֽ/י",
+        "phrase": "my banner",
+        "literal": "my-banner",
+        "source": "H3071 (KJV: NISSI; ESV: my Banner; NASB: My Banner)"
+      }
+    ]
+  }
+]

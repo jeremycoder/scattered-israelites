@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קְּרָשִׁ֖ים",
+        "phrase": "the boards",
+        "literal": "the-boards",
+        "source": "H7175 (KJV: boards; ESV: frames; NASB: boards)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מִּשְׁכָּ֑ן",
+        "phrase": "for the tabernacle",
+        "literal": "to-the-tabernacle",
+        "source": "H4908 (KJV: for the tabernacle; ESV: for the tabernacle; NASB: for the tabernacle)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶשְׂרִ֣ים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "H6242 (KJV: twenty; ESV: twenty; NASB: twenty)"
+      },
+      {
+        "position": 6,
+        "surface": "קְרָשִׁ֔ים",
+        "phrase": "boards",
+        "literal": "boards",
+        "source": "H7175 (KJV: boards; ESV: frames; NASB: boards)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְאַ֖ת",
+        "phrase": "for the side",
+        "literal": "to-side-of",
+        "source": "H6285 (KJV: for the south side; ESV: for the south side; NASB: for the south side)"
+      },
+      {
+        "position": 8,
+        "surface": "נֶ֥גֶב",
+        "phrase": "south",
+        "literal": "south",
+        "source": "H5045 (KJV: south; ESV: south; NASB: south)"
+      },
+      {
+        "position": 9,
+        "surface": "תֵּימָֽנָ/ה",
+        "phrase": "southward",
+        "literal": "southward",
+        "source": "H8486 (KJV: southward; ESV: southward; NASB: southward)"
+      }
+    ]
+  }
+]

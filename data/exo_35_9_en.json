@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַ֨בְנֵי",
+        "phrase": "and onyx stones",
+        "literal": "and-stones",
+        "source": "H68; KJV/ESV/NASB: 'and stones' or 'onyx stones' (with שֹׁהַם) [1][9][10]"
+      },
+      {
+        "position": 2,
+        "surface": "שֹׁ֔הַם",
+        "phrase": "onyx",
+        "literal": "onyx",
+        "source": "H7718; KJV/ESV/NASB: 'onyx' or 'shoham' [1][2][9][10]"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַבְנֵ֖י",
+        "phrase": "and stones",
+        "literal": "and-stones",
+        "source": "H68; KJV/ESV/NASB: 'and stones' [1][9][10]"
+      },
+      {
+        "position": 4,
+        "surface": "מִלֻּאִ֑ים",
+        "phrase": "for setting",
+        "literal": "fillings",
+        "source": "H4394; KJV: 'to be set', ESV/NASB: 'setting' or 'filled' [1][2][9][10]"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/אֵפ֖וֹד",
+        "phrase": "for the ephod",
+        "literal": "to-the-ephod",
+        "source": "H646; KJV/ESV/NASB: 'for the ephod' [1][2][9][10]"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לַ/חֹֽשֶׁן",
+        "phrase": "and for the breastpiece",
+        "literal": "and-to-the-breastpiece",
+        "source": "H2833; KJV: 'for the breastplate', ESV/NASB: 'for the breastpiece' [1][2][9][10]"
+      }
+    ]
+  }
+]

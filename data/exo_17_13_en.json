@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 17,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּחֲלֹ֧שׁ",
+        "phrase": "overwhelmed",
+        "literal": "and-he-overthrew",
+        "source": "H2522; KJV: discomfited, ESV: overwhelmed, NASB: overwhelmed"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֛עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091; KJV: Joshua, ESV: Joshua, NASB: Joshua"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "עֲמָלֵ֥ק",
+        "phrase": "Amalek",
+        "literal": "Amalek",
+        "source": "H6002; KJV: Amalek, ESV: Amalek, NASB: Amalek"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[accusative]",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "עַמּ֖/וֹ",
+        "phrase": "his people",
+        "literal": "people-his",
+        "source": "H5971; KJV: his people, ESV: his people, NASB: his people"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/פִי",
+        "phrase": "with the edge",
+        "literal": "to-mouth-of",
+        "source": "H6310; KJV: with the edge, ESV: with the edge, NASB: with the edge"
+      },
+      {
+        "position": 8,
+        "surface": "חָֽרֶב",
+        "phrase": "of the sword",
+        "literal": "sword",
+        "source": "H2719; KJV: of the sword, ESV: of the sword, NASB: of the sword"
+      }
+    ]
+  }
+]

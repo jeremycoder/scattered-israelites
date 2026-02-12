@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּֽצְא֛וּ",
+        "phrase": "and they went out",
+        "literal": "and-they-went-out",
+        "source": "H3318; KJV: 'And', ESV: 'went out', NASB: 'departed'"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: 'all', ESV: 'whole', NASB: 'all'"
+      },
+      {
+        "position": 3,
+        "surface": "עֲדַ֥ת",
+        "phrase": "congregation",
+        "literal": "congregation",
+        "source": "H5712; KJV: 'congregation', ESV: 'community', NASB: 'congregation'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵֽי",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121; KJV: 'of the children', ESV: 'of the Israelites', NASB: 'of the sons'"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: 'of Israel', ESV: 'of the Israelites', NASB: 'of Israel'"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/לִּ/פְנֵ֥י",
+        "phrase": "from before",
+        "literal": "from-before",
+        "source": "H6440; KJV: 'from the presence', ESV: 'from the presence', NASB: 'from the presence'"
+      },
+      {
+        "position": 7,
+        "surface": "מֹשֶֽׁה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: 'of Moses', ESV: 'of Moses', NASB: 'of Moses'"
+      }
+    ]
+  }
+]

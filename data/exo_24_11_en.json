@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 24,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶל",
+        "phrase": "and against",
+        "literal": "and-to",
+        "source": "H413 (KJV: upon; ESV: on; NASB: against)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲצִילֵי֙",
+        "phrase": "the nobles",
+        "literal": "nobles-of",
+        "source": "H678 (KJV: nobles; ESV: chief men; NASB: nobles)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the children",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁלַ֖ח",
+        "phrase": "did he stretch out",
+        "literal": "he-sent",
+        "source": "H7971 (KJV: laid; ESV: lay; NASB: stretch out)"
+      },
+      {
+        "position": 7,
+        "surface": "יָד֑/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "H3027 (KJV: hand; ESV: hand; NASB: hand)"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יֶּחֱזוּ֙",
+        "phrase": "and they saw",
+        "literal": "and-they-saw",
+        "source": "H2372 (KJV: saw; ESV: beheld; NASB: saw)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "הָ֣/אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יֹּאכְל֖וּ",
+        "phrase": "and they ate",
+        "literal": "and-they-ate",
+        "source": "H398 (KJV: did eat; ESV: ate; NASB: they ate)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יִּשְׁתּֽוּ",
+        "phrase": "and they drank",
+        "literal": "and-they-drank",
+        "source": "H8354 (KJV: drink; ESV: drank; NASB: drank)"
+      }
+    ]
+  }
+]

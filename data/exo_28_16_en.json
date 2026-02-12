@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רָב֥וּעַ",
+        "phrase": "square",
+        "literal": "square",
+        "source": "H7251: KJV 'foursquare'; ESV 'square'; NASB 'square'"
+      },
+      {
+        "position": 2,
+        "surface": "יִֽהְיֶ֖ה",
+        "phrase": "it shall be",
+        "literal": "it-will-be",
+        "source": "H1961: KJV 'It shall be'; ESV 'It shall be'; NASB 'It shall be'"
+      },
+      {
+        "position": 3,
+        "surface": "כָּפ֑וּל",
+        "phrase": "folded double",
+        "literal": "doubled",
+        "source": "H3717: KJV 'double'; ESV 'folded double'; NASB 'doubled'"
+      },
+      {
+        "position": 4,
+        "surface": "זֶ֥רֶת",
+        "phrase": "a span",
+        "literal": "span",
+        "source": "H2239: KJV 'a span'; ESV 'a span'; NASB 'a span'"
+      },
+      {
+        "position": 5,
+        "surface": "אָרְכּ֖/וֹ",
+        "phrase": "its length",
+        "literal": "length-of-it",
+        "source": "H753: KJV 'the length thereof'; ESV 'long'; NASB 'long'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/זֶ֥רֶת",
+        "phrase": "and a span",
+        "literal": "and-span",
+        "source": "H2239: KJV 'and a span'; ESV 'and a span'; NASB 'and a span'"
+      },
+      {
+        "position": 7,
+        "surface": "רָחְבּֽ/וֹ",
+        "phrase": "its width",
+        "literal": "width-of-it",
+        "source": "H7341: KJV 'the breadth thereof'; ESV 'wide'; NASB 'wide"
+      }
+    ]
+  }
+]

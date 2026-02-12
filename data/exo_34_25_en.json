@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 34,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'Thou shalt not', ESV 'You shall not', NASB 'You shall not'"
+      },
+      {
+        "position": 2,
+        "surface": "תִשְׁחַ֥ט",
+        "phrase": "you shall offer",
+        "literal": "you-shall-slaughter",
+        "source": "H7819: KJV 'offer', ESV 'offer', NASB 'offer'"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "with",
+        "literal": "on",
+        "source": "H5921: KJV 'with', ESV 'with', NASB 'with'"
+      },
+      {
+        "position": 4,
+        "surface": "חָמֵ֖ץ",
+        "phrase": "leaven",
+        "literal": "leaven",
+        "source": "H2557: KJV 'leaven', ESV 'anything leavened', NASB 'leavened bread'"
+      },
+      {
+        "position": 5,
+        "surface": "דַּם",
+        "phrase": "blood",
+        "literal": "blood",
+        "source": "H1818: KJV 'blood', ESV 'blood', NASB 'blood'"
+      },
+      {
+        "position": 6,
+        "surface": "זִבְחִ֑/י",
+        "phrase": "of my sacrifice",
+        "literal": "sacrifice-of-me",
+        "source": "H2077: KJV 'my sacrifice', ESV 'my sacrifice', NASB 'My sacrifice'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹא",
+        "phrase": "neither",
+        "literal": "and-not",
+        "source": "H3808: KJV 'neither', ESV 'or', NASB 'nor'"
+      },
+      {
+        "position": 8,
+        "surface": "יָלִ֣ין",
+        "phrase": "shall remain",
+        "literal": "shall-lodge",
+        "source": "H3885: KJV 'be left', ESV 'remain', NASB 'be left over'"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/בֹּ֔קֶר",
+        "phrase": "until morning",
+        "literal": "to-the-morning",
+        "source": "H1242: KJV 'unto the morning', ESV 'until the morning', NASB 'until morning'"
+      },
+      {
+        "position": 10,
+        "surface": "זֶ֖בַח",
+        "phrase": "sacrifice",
+        "literal": "sacrifice",
+        "source": "H2077: KJV 'sacrifice', ESV 'sacrifice', NASB 'sacrifice'"
+      },
+      {
+        "position": 11,
+        "surface": "חַ֥ג",
+        "phrase": "feast",
+        "literal": "feast",
+        "source": "H2282: KJV 'feast', ESV 'Feast', NASB 'Feast'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/פָּֽסַח",
+        "phrase": "of the Passover",
+        "literal": "the-Passover",
+        "source": "H6453: KJV 'passover', ESV 'Passover', NASB 'Passover'"
+      }
+    ]
+  }
+]

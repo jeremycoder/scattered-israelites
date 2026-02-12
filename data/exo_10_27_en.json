@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחַזֵּ֥ק",
+        "phrase": "and hardened",
+        "literal": "and-he-made-strong",
+        "source": "H2388: KJV/ESV/NASB 'hardened' (Pharaoh's heart)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853: KJV/ESV/NASB (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ֣ב",
+        "phrase": "heart",
+        "literal": "heart",
+        "source": "H3820: KJV/ESV/NASB 'heart'"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "H6547: KJV/ESV/NASB 'Pharaoh's'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808: KJV/ESV/NASB 'and he was not'/'and he would not'"
+      },
+      {
+        "position": 7,
+        "surface": "אָבָ֖ה",
+        "phrase": "was willing",
+        "literal": "he-was-willing",
+        "source": "H14: KJV/ESV/NASB 'he would not'/'he was not willing'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/שַׁלְּחָֽ/ם",
+        "phrase": "to let them go",
+        "literal": "to-send-them",
+        "source": "H7971: KJV/ESV/NASB 'let them go'"
+      }
+    ]
+  }
+]

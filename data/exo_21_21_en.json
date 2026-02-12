@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַ֥ךְ",
+        "phrase": "notwithstanding",
+        "literal": "only-if",
+        "source": "H389 (KJV: notwithstanding; ESV: however; NASB: nevertheless)"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 3,
+        "surface": "י֛וֹם",
+        "phrase": "a day",
+        "literal": "day",
+        "source": "H3117 (KJV: a day; ESV: a day; NASB: a day)"
+      },
+      {
+        "position": 4,
+        "surface": "א֥וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹמַ֖יִם",
+        "phrase": "two days",
+        "literal": "days-two",
+        "source": "H3117 (KJV: two days; ESV: two days; NASB: two days)"
+      },
+      {
+        "position": 6,
+        "surface": "יַעֲמֹ֑ד",
+        "phrase": "he stands",
+        "literal": "he-stands",
+        "source": "H5975 (KJV: continue; ESV: survives; NASB: gets up)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: no; NASB: not)"
+      },
+      {
+        "position": 8,
+        "surface": "יֻקַּ֔ם",
+        "phrase": "he shall be avenged",
+        "literal": "he-is-avenged",
+        "source": "H5358 (KJV: be punished; ESV: vengeance; NASB: be avenged)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: because)"
+      },
+      {
+        "position": 10,
+        "surface": "כַסְפּ֖/וֹ",
+        "phrase": "his money",
+        "literal": "silver-his",
+        "source": "H3701 (KJV: his money; ESV: his property; NASB: his property)"
+      },
+      {
+        "position": 11,
+        "surface": "הֽוּא",
+        "phrase": "he is",
+        "literal": "he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: he)"
+      }
+    ]
+  }
+]

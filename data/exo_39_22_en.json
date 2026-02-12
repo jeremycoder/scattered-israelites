@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 39,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֛עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: 'he made'; ESV: 'He also made'; NASB: 'he made')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "מְעִ֥יל",
+        "phrase": "robe",
+        "literal": "robe",
+        "source": "H4598 (KJV: 'robe'; ESV: 'robe'; NASB: 'robe')"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵפֹ֖ד",
+        "phrase": "of the ephod",
+        "literal": "the-of_the-ephod",
+        "source": "H646 (KJV: 'ephod'; ESV: 'ephod'; NASB: 'ephod')"
+      },
+      {
+        "position": 5,
+        "surface": "מַעֲשֵׂ֣ה",
+        "phrase": "work",
+        "literal": "work-of",
+        "source": "H4639 (KJV: 'woven work'; ESV: 'woven'; NASB: 'woven work')"
+      },
+      {
+        "position": 6,
+        "surface": "אֹרֵ֑ג",
+        "phrase": "woven",
+        "literal": "weaver",
+        "source": "H707 (KJV: 'woven'; ESV: 'woven'; NASB: 'woven')"
+      },
+      {
+        "position": 7,
+        "surface": "כְּלִ֖יל",
+        "phrase": "all",
+        "literal": "complete",
+        "source": "H3632 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 8,
+        "surface": "תְּכֵֽלֶת",
+        "phrase": "of blue",
+        "literal": "blue",
+        "source": "H8504 (KJV: 'blue'; ESV: 'blue'; NASB: 'blue')"
+      }
+    ]
+  }
+]

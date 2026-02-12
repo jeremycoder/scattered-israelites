@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁתֵּ֧י",
+        "phrase": "two",
+        "literal": "two-of",
+        "source": "H8147; KJV/ESV/NASB: 'two'"
+      },
+      {
+        "position": 2,
+        "surface": "כְתֵפֹ֣ת",
+        "phrase": "shoulder pieces",
+        "literal": "shoulders-of",
+        "source": "H3802; KJV: 'shoulder pieces', ESV: 'shoulder pieces', NASB: 'shoulder pieces'"
+      },
+      {
+        "position": 3,
+        "surface": "חֹֽבְרֹ֗ת",
+        "phrase": "joined",
+        "literal": "joining",
+        "source": "H2266; KJV/ESV/NASB: 'joined'"
+      },
+      {
+        "position": 4,
+        "surface": "יִֽהְיֶה",
+        "phrase": "it shall be",
+        "literal": "it-shall-be",
+        "source": "H1961; KJV/ESV/NASB: 'shall be'"
+      },
+      {
+        "position": 5,
+        "surface": "לּ֛/וֹ",
+        "phrase": "for it",
+        "literal": "to-it",
+        "source": "; KJV/ESV/NASB: 'thereof'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "at",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB: 'at'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁנֵ֥י",
+        "phrase": "the two",
+        "literal": "two-of",
+        "source": "H8147; KJV/ESV/NASB: 'the two'"
+      },
+      {
+        "position": 8,
+        "surface": "קְצוֹתָ֖י/ו",
+        "phrase": "ends thereof",
+        "literal": "ends-of-it",
+        "source": "H7098; KJV/ESV/NASB: 'ends thereof'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/חֻבָּֽר",
+        "phrase": "and it shall be joined",
+        "literal": "and-it-shall-be-joined",
+        "source": "H2266; KJV/ESV/NASB: 'joined together'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁחַטְתָּ֖",
+        "phrase": "and you shall slaughter",
+        "literal": "and-you-shall-slaughter",
+        "source": "H7819 (KJV: slay; ESV: kill; NASB: slaughter)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֑יִל",
+        "phrase": "the ram",
+        "literal": "the-ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לָֽקַחְתָּ֙",
+        "phrase": "and you shall take",
+        "literal": "and-you-shall-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "דָּמ֔/וֹ",
+        "phrase": "its blood",
+        "literal": "blood-his/of-it",
+        "source": "H1818 (KJV: his blood; ESV: its blood; NASB: its blood)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/זָרַקְתָּ֥",
+        "phrase": "and you shall sprinkle",
+        "literal": "and-you-shall-throw/sprinkle",
+        "source": "H2236 (KJV: sprinkle; ESV: throw; NASB: sprinkle)"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV/ESV/NASB: upon/on)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּזְבֵּ֖חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV/ESV/NASB: the altar)"
+      },
+      {
+        "position": 10,
+        "surface": "סָבִֽיב",
+        "phrase": "all around",
+        "literal": "around",
+        "source": "H5439 (KJV: round about; ESV: sides; NASB: around)"
+      }
+    ]
+  }
+]

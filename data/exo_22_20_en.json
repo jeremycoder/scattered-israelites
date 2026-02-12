@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גֵ֥ר",
+        "phrase": "and-a-stranger",
+        "literal": "and-stranger",
+        "source": "H1616 (KJV: stranger; ESV: stranger; NASB: stranger)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: wrong; NASB: wrong)"
+      },
+      {
+        "position": 3,
+        "surface": "תוֹנֶ֖ה",
+        "phrase": "you-shall-wrong",
+        "literal": "you-shall-oppress/wrong",
+        "source": "H3238 (KJV: wrong; ESV: mistreat; NASB: oppress)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 5,
+        "surface": "תִלְחָצֶ֑/נּוּ",
+        "phrase": "you-shall-oppress-him",
+        "literal": "you-shall-oppress-him",
+        "source": "H3905 (KJV: oppress; ESV: oppress; NASB: oppress)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 7,
+        "surface": "גֵרִ֥ים",
+        "phrase": "strangers",
+        "literal": "strangers",
+        "source": "H1616 (KJV: strangers; ESV: strangers; NASB: sojourners)"
+      },
+      {
+        "position": 8,
+        "surface": "הֱיִיתֶ֖ם",
+        "phrase": "you-were",
+        "literal": "you-have-been",
+        "source": "H1961 (KJV: ye were; ESV: you were; NASB: you were)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in-land",
+        "literal": "in-land-of",
+        "source": "H776 (KJV: in the land; ESV: in the land; NASB: in the land)"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: of Egypt; ESV: of Egypt; NASB: of Egypt)"
+      }
+    ]
+  }
+]

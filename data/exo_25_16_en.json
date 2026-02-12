@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתָּ֖",
+        "phrase": "And you shall put",
+        "literal": "and-you-put",
+        "source": "H5414 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: into; NASB: into)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָרֹ֑ן",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֚ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עֵדֻ֔ת",
+        "phrase": "the testimony",
+        "literal": "the-testimony",
+        "source": "H5715 (KJV: testimony; ESV: testimony; NASB: testimony)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתֵּ֖ן",
+        "phrase": "I shall give",
+        "literal": "I-give",
+        "source": "H5414 (KJV: give; ESV: give; NASB: give)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלֶֽי/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "H413 (KJV: thee; ESV: you; NASB: you)"
+      }
+    ]
+  }
+]

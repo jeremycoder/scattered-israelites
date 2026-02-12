@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And Moses said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אִכְלֻ֣/הוּ",
+        "phrase": "eat it",
+        "literal": "eat-him/it",
+        "source": "H398 (KJV: Eat that; ESV: Eat it; NASB: Eat it)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יּ֔וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: to day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 6,
+        "surface": "שַׁבָּ֥ת",
+        "phrase": "a sabbath",
+        "literal": "sabbath",
+        "source": "H7676 (KJV: sabbath; ESV: Sabbath; NASB: sabbath)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יּ֖וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: to day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: Lord)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֕וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: to day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 10,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 11,
+        "surface": "תִמְצָאֻ֖/הוּ",
+        "phrase": "you will find it",
+        "literal": "you-will-find-it",
+        "source": "H4672 (KJV: find; ESV: find; NASB: find)"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/שָּׂדֶֽה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704 (KJV: field; ESV: field; NASB: field)"
+      }
+    ]
+  }
+]

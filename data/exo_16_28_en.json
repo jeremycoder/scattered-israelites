@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And the LORD said; ESV: the LORD said; NASB: the LORD said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "How long",
+        "literal": "until-when",
+        "source": "H5704 (KJV: How long; ESV: How long; NASB: How long)"
+      },
+      {
+        "position": 6,
+        "surface": "אָ֨נָה֙",
+        "phrase": "until when",
+        "literal": "whither",
+        "source": "H575 (KJV: how long; ESV: how long; NASB: how long)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵֽאַנְתֶּ֔ם",
+        "phrase": "do you refuse",
+        "literal": "you-refuse",
+        "source": "H3985 (KJV: refuse ye; ESV: you refuse; NASB: you refuse)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/שְׁמֹ֥ר",
+        "phrase": "to keep",
+        "literal": "to-keep",
+        "source": "H8104 (KJV: to keep; ESV: to keep; NASB: to keep)"
+      },
+      {
+        "position": 9,
+        "surface": "מִצְוֺתַ֖/י",
+        "phrase": "My commandments",
+        "literal": "commandments-my",
+        "source": "H4687 (KJV: my commandments; ESV: My commandments; NASB: My commands)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/תוֹרֹתָֽ/י",
+        "phrase": "and My laws",
+        "literal": "and-laws-my",
+        "source": "H8451 (KJV: my laws; ESV: My instructions; NASB: My instructions)"
+      }
+    ]
+  }
+]

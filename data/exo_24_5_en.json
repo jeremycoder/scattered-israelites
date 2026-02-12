@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 24,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֗ח",
+        "phrase": "and he sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "נַעֲרֵי֙",
+        "phrase": "young men",
+        "literal": "young-men-of",
+        "source": "H5288 (KJV: young men; ESV: young men; NASB: young men)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: [of the people]; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּֽעֲל֖וּ",
+        "phrase": "and they offered up",
+        "literal": "and-they-ascended/caused-to-ascend",
+        "source": "H5927 (KJV: offered; ESV: offered; NASB: offered)"
+      },
+      {
+        "position": 7,
+        "surface": "עֹלֹ֑ת",
+        "phrase": "burnt offerings",
+        "literal": "burnt-offerings",
+        "source": "H5930 (KJV: burnt offerings; ESV: burnt offerings; NASB: burnt offerings)"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יִּזְבְּח֞וּ",
+        "phrase": "and they sacrificed",
+        "literal": "and-they-sacrificed",
+        "source": "H2076 (KJV: sacrificed; ESV: sacrificed; NASB: sacrificed)"
+      },
+      {
+        "position": 9,
+        "surface": "זְבָחִ֧ים",
+        "phrase": "sacrifices",
+        "literal": "sacrifices",
+        "source": "H2077 (KJV: [peace offerings]; ESV: peace offerings; NASB: peace offerings)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁלָמִ֛ים",
+        "phrase": "peace offerings",
+        "literal": "peace-offerings",
+        "source": "H8002 (KJV: peace offerings; ESV: peace offerings; NASB: peace offerings)"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/יהוָ֖ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 12,
+        "surface": "פָּרִֽים",
+        "phrase": "bulls",
+        "literal": "bulls",
+        "source": "H6499 (KJV: oxen; ESV: oxen; NASB: young bulls)"
+      }
+    ]
+  }
+]

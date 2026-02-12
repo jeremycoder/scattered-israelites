@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 15,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תְּהֹמֹ֖ת",
+        "phrase": "The depths",
+        "literal": "depths-PL",
+        "source": "H8415; KJV: 'The depths', ESV: 'The floods', NASB: 'The deeps'"
+      },
+      {
+        "position": 2,
+        "surface": "יְכַסְיֻ֑/מוּ",
+        "phrase": "have covered them",
+        "literal": "cover-PIEL-IMPERF-3MP/them-ACC",
+        "source": "H3680; KJV: 'have covered them', ESV: 'covered them', NASB: 'cover them'"
+      },
+      {
+        "position": 3,
+        "surface": "יָרְד֥וּ",
+        "phrase": "they went down",
+        "literal": "go.down-QAL-PERF-3CP",
+        "source": "H3381; KJV: 'they sank', ESV: 'they went down', NASB: 'They went down'"
+      },
+      {
+        "position": 4,
+        "surface": "בִ/מְצוֹלֹ֖ת",
+        "phrase": "into the depths",
+        "literal": "in-depths-PL",
+        "source": "H4688; KJV: 'into the bottom', ESV: 'into the depths', NASB: 'into the depths'"
+      },
+      {
+        "position": 5,
+        "surface": "כְּמוֹ",
+        "phrase": "like",
+        "literal": "like",
+        "source": "H3644; KJV: 'as', ESV: 'like', NASB: 'like'"
+      },
+      {
+        "position": 6,
+        "surface": "אָֽבֶן",
+        "phrase": "a stone",
+        "literal": "stone-F",
+        "source": "H68; KJV: 'a stone', ESV: 'a stone', NASB: 'a stone'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רֵאשִׁ֗ית",
+        "phrase": "first",
+        "literal": "beginning-of",
+        "source": "H7225; KJV: first; ESV: first; NASB: choice"
+      },
+      {
+        "position": 2,
+        "surface": "בִּכּוּרֵי֙",
+        "phrase": "of the firstfruits",
+        "literal": "in-firstborns-of",
+        "source": "H1061; KJV: firstfruits; ESV: firstfruits; NASB: first fruits"
+      },
+      {
+        "position": 3,
+        "surface": "אַדְמָ֣תְ/ךָ֔",
+        "phrase": "of your land",
+        "literal": "ground-of-you",
+        "source": "H127; KJV: thy land; ESV: your soil; NASB: your ground"
+      },
+      {
+        "position": 4,
+        "surface": "תָּבִ֕יא",
+        "phrase": "you shall bring",
+        "literal": "you-bring",
+        "source": "H935; KJV: bring; ESV: bring; NASB: bring"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֖ית",
+        "phrase": "the house",
+        "literal": "house",
+        "source": "H1004; KJV: house; ESV: house; NASB: house"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֣ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD; ESV: LORD; NASB: LORD"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֶ֑י/ךָ",
+        "phrase": "your God",
+        "literal": "gods-of-you",
+        "source": "H430; KJV: thy God; ESV: your God; NASB: your God"
+      },
+      {
+        "position": 8,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not; ESV: not; NASB: not"
+      },
+      {
+        "position": 9,
+        "surface": "תְבַשֵּׁ֥ל",
+        "phrase": "you shall boil",
+        "literal": "you-boil",
+        "source": "H1310; KJV: seethe; ESV: boil; NASB: boil"
+      },
+      {
+        "position": 10,
+        "surface": "גְּדִ֖י",
+        "phrase": "a kid",
+        "literal": "kid",
+        "source": "H1423; KJV: kid; ESV: young goat; NASB: young goat"
+      },
+      {
+        "position": 11,
+        "surface": "בַּ/חֲלֵ֥ב",
+        "phrase": "in the milk",
+        "literal": "in/milk",
+        "source": "H2461; KJV: his mother's milk; ESV: its mother's milk; NASB: its mother's milk"
+      },
+      {
+        "position": 12,
+        "surface": "אִמּֽ/וֹ",
+        "phrase": "of its mother",
+        "literal": "mother-of-it",
+        "source": "H517; KJV: his mother; ESV: its mother; NASB: its mother"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: no, ESV: no, NASB: no"
+      },
+      {
+        "position": 2,
+        "surface": "תִכְרֹ֥ת",
+        "phrase": "you-shall-make",
+        "literal": "you-shall-cut",
+        "source": "H3772; KJV: make, ESV: make, NASB: make"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/הֶ֛ם",
+        "phrase": "with-them",
+        "literal": "to/them",
+        "source": "; KJV: with them, ESV: with them, NASB: with them"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לֵ/אלֹֽהֵי/הֶ֖ם",
+        "phrase": "or-with-their-gods",
+        "literal": "and-to-gods-of-them",
+        "source": "H430; KJV: with their gods, ESV: with their gods, NASB: with their gods"
+      },
+      {
+        "position": 5,
+        "surface": "בְּרִֽית",
+        "phrase": "covenant",
+        "literal": "covenant",
+        "source": "H1285; KJV: covenant, ESV: covenant, NASB: covenant"
+      }
+    ]
+  }
+]

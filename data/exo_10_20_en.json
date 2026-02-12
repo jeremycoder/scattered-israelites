@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחַזֵּ֥ק",
+        "phrase": "and hardened",
+        "literal": "and-he-made-strong",
+        "source": "H2388; KJV: hardened, ESV: hardened, NASB: hardened"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD, ESV: LORD, NASB: LORD"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ֣ב",
+        "phrase": "heart",
+        "literal": "heart",
+        "source": "H3820; KJV: heart, ESV: heart, NASB: heart"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh's",
+        "literal": "Pharaoh",
+        "source": "H6547; KJV: Pharaoh's, ESV: Pharaoh's, NASB: Pharaoh's"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV: so that ... not, ESV: and ... not, NASB: and ... not"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁלַּ֖ח",
+        "phrase": "he let go",
+        "literal": "he-sent-away",
+        "source": "H7971; KJV: let ... go, ESV: let ... go, NASB: let ... go"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֥י",
+        "phrase": "children",
+        "literal": "sons-of",
+        "source": "H1121; KJV: children, ESV: people/sons, NASB: sons"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: Israel, ESV: Israel, NASB: Israel"
+      }
+    ]
+  }
+]

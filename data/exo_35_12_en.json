@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: untranslated marker for 'the ark')"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָרֹ֥ן",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "H727 (KJV: 'the ark'; ESV: 'the ark'; NASB: 'the ark')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: 'and' with marker for 'the staves')"
+      },
+      {
+        "position": 4,
+        "surface": "בַּדָּ֖י/ו",
+        "phrase": "its poles",
+        "literal": "its-poles",
+        "source": "H905 (KJV: 'the staves thereof'; ESV: 'its poles'; NASB: 'its poles')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: untranslated marker for 'the mercy seat')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/כַּפֹּ֑רֶת",
+        "phrase": "the mercy seat",
+        "literal": "the-mercy-seat",
+        "source": "H3727 (KJV: 'the mercy seat'; ESV: 'the mercy seat'; NASB: 'the mercy seat')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: 'and' with marker for 'the veil')"
+      },
+      {
+        "position": 8,
+        "surface": "פָּרֹ֥כֶת",
+        "phrase": "the veil",
+        "literal": "the-veil",
+        "source": "H6532 (KJV: 'the vail'; ESV: 'the veil'; NASB: 'the veil')"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מָּסָֽךְ",
+        "phrase": "of the screen",
+        "literal": "the-screen",
+        "source": "H4539 (KJV: 'of the covering'; ESV: 'of the screen'; NASB: 'of the screen')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "and-if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: But if; NASB: But if)"
+      },
+      {
+        "position": 2,
+        "surface": "אָמֹ֤ר",
+        "phrase": "say",
+        "literal": "say-INF",
+        "source": "H559 (KJV: shall plainly; ESV: plainly says; NASB: plainly says)"
+      },
+      {
+        "position": 3,
+        "surface": "יֹאמַר֙",
+        "phrase": "he-says",
+        "literal": "he-will-say",
+        "source": "H559 (KJV: say; ESV: says; NASB: says)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֶ֔בֶד",
+        "phrase": "the-servant",
+        "literal": "the-servant",
+        "source": "H5650 (KJV: servant; ESV: slave; NASB: slave)"
+      },
+      {
+        "position": 5,
+        "surface": "אָהַ֨בְתִּי֙",
+        "phrase": "I-have-loved",
+        "literal": "I-love-PF",
+        "source": "H157 (KJV: I love; ESV: I love; NASB: I love)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct-object-marker]",
+        "literal": "[DOM]",
+        "source": "H853 (KJV: (obj.); ESV: (obj.); NASB: (obj.))"
+      },
+      {
+        "position": 7,
+        "surface": "אֲדֹנִ֔/י",
+        "phrase": "my-master",
+        "literal": "my-master",
+        "source": "H113 (KJV: my master; ESV: my master; NASB: my master)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct-object-marker]",
+        "literal": "[DOM]",
+        "source": "H853 (KJV: (obj.); ESV: (obj.); NASB: (obj.))"
+      },
+      {
+        "position": 9,
+        "surface": "אִשְׁתִּ֖/י",
+        "phrase": "my-wife",
+        "literal": "my-wife",
+        "source": "H802 (KJV: my wife; ESV: my wife; NASB: my wife)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct-object-marker]",
+        "literal": "and-[DOM]",
+        "source": "H853 (KJV: and (obj.); ESV: and (obj.); NASB: and (obj.))"
+      },
+      {
+        "position": 11,
+        "surface": "בָּנָ֑/י",
+        "phrase": "my-children",
+        "literal": "my-sons",
+        "source": "H1121 (KJV: my children; ESV: my children; NASB: my children)"
+      },
+      {
+        "position": 12,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: I will not; ESV: I will not; NASB: I will not)"
+      },
+      {
+        "position": 13,
+        "surface": "אֵצֵ֖א",
+        "phrase": "I-will-go-out",
+        "literal": "I-will-go-out",
+        "source": "H3318 (KJV: go out; ESV: go out; NASB: go out)"
+      },
+      {
+        "position": 14,
+        "surface": "חָפְשִֽׁי",
+        "phrase": "free",
+        "literal": "free",
+        "source": "H2670 (KJV: free; ESV: free; NASB: a free man)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 27,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/רֹ֣חַב",
+        "phrase": "And the width",
+        "literal": "and-width",
+        "source": "H7341 (KJV: breadth; ESV: breadth; NASB: width)"
+      },
+      {
+        "position": 2,
+        "surface": "הֶֽ/חָצֵ֗ר",
+        "phrase": "of the court",
+        "literal": "the-court",
+        "source": "H2691 (KJV: court; ESV: court; NASB: court)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְאַ֛ת",
+        "phrase": "on the side",
+        "literal": "to-side",
+        "source": "H6285 (KJV: side; ESV: front; NASB: side)"
+      },
+      {
+        "position": 4,
+        "surface": "קֵ֥דְמָ/ה",
+        "phrase": "toward the east",
+        "literal": "eastward",
+        "source": "H6924 (KJV: eastward; ESV: east; NASB: east)"
+      },
+      {
+        "position": 5,
+        "surface": "מִזְרָ֖חָ/ה",
+        "phrase": "toward the sunrise",
+        "literal": "east-its",
+        "source": "H4217 (KJV: eastward; ESV: east; NASB: east)"
+      },
+      {
+        "position": 6,
+        "surface": "חֲמִשִּׁ֥ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572 (KJV: fifty; ESV: fifty; NASB: fifty)"
+      },
+      {
+        "position": 7,
+        "surface": "אַמָּֽה",
+        "phrase": "cubits",
+        "literal": "cubits",
+        "source": "H520 (KJV: cubits; ESV: cubits; NASB: cubits)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵי",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֥ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 3,
+        "surface": "עָשׂ֖וּ",
+        "phrase": "had done",
+        "literal": "they-did",
+        "source": "H6213 (KJV: did; ESV: had done; NASB: had done)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ/דְבַ֣ר",
+        "phrase": "according to the word",
+        "literal": "as-word-of",
+        "source": "H1697 (KJV: according to the word; ESV: as Moses told; NASB: according to the word)"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "of Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יִּשְׁאֲלוּ֙",
+        "phrase": "and they asked",
+        "literal": "and-they-asked",
+        "source": "H7592 (KJV: borrowed; ESV: asked; NASB: requested)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/מִּצְרַ֔יִם",
+        "phrase": "from the Egyptians",
+        "literal": "from-Egyptians",
+        "source": "H4714 (KJV: Egyptians; ESV: Egyptians; NASB: Egyptians)"
+      },
+      {
+        "position": 8,
+        "surface": "כְּלֵי",
+        "phrase": "articles",
+        "literal": "vessels-of",
+        "source": "H3627 (KJV: jewels; ESV: jewelry; NASB: articles)"
+      },
+      {
+        "position": 9,
+        "surface": "כֶ֛סֶף",
+        "phrase": "of silver",
+        "literal": "silver",
+        "source": "H3701 (KJV: silver; ESV: silver; NASB: silver)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/כְלֵ֥י",
+        "phrase": "and articles",
+        "literal": "and-vessels-of",
+        "source": "H3627 (KJV: jewels; ESV: jewelry; NASB: articles)"
+      },
+      {
+        "position": 11,
+        "surface": "זָהָ֖ב",
+        "phrase": "of gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/שְׂמָלֹֽת",
+        "phrase": "and clothing",
+        "literal": "and-garments",
+        "source": "H8071 (KJV: raiment; ESV: clothing; NASB: clothing)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: And if; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/בְנ֖/וֹ",
+        "phrase": "to his son",
+        "literal": "to-son-his",
+        "source": "H1121 (KJV: his son; ESV: his son; NASB: his son)"
+      },
+      {
+        "position": 3,
+        "surface": "יִֽיעָדֶ֑/נָּה",
+        "phrase": "he designates her",
+        "literal": "he-designates-her",
+        "source": "H3259 (KJV: have betrothed her; ESV: designates her; NASB: designates her)"
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/מִשְׁפַּ֥ט",
+        "phrase": "according to the judgment",
+        "literal": "as-judgment",
+        "source": "H4941 (KJV: after the manner; ESV: according to the custom; NASB: according to the custom)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בָּנ֖וֹת",
+        "phrase": "of the daughters",
+        "literal": "the-daughters",
+        "source": "H1323 (KJV: of daughters; ESV: of daughters; NASB: of daughters)"
+      },
+      {
+        "position": 6,
+        "surface": "יַעֲשֶׂה",
+        "phrase": "he shall do",
+        "literal": "he-shall-do",
+        "source": "H6213 (KJV: he shall deal; ESV: he shall deal; NASB: he shall do)"
+      },
+      {
+        "position": 7,
+        "surface": "לָּֽ/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": " (KJV: with her; ESV: with her; NASB: to her)"
+      }
+    ]
+  }
+]

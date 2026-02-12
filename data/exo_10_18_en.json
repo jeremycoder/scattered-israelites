@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֖א",
+        "phrase": "and he went out",
+        "literal": "and-he-went-out",
+        "source": "H3318; KJV: went out, ESV: went out, NASB: left"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/עִ֣ם",
+        "phrase": "from with",
+        "literal": "from-with",
+        "source": "H5973; KJV: from, ESV: from, NASB: from"
+      },
+      {
+        "position": 3,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547; KJV: Pharaoh, ESV: Pharaoh, NASB: Pharaoh"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֶּעְתַּ֖ר",
+        "phrase": "and he pleaded",
+        "literal": "and-he-pleaded",
+        "source": "H6279; KJV: intreated, ESV: pleaded, NASB: pleaded"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: (implied), ESV: with, NASB: with"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      }
+    ]
+  }
+]

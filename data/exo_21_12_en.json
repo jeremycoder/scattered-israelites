@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מַכֵּ֥ה",
+        "phrase": "He who strikes",
+        "literal": "striking",
+        "source": "H5221; KJV: 'smiteth', ESV: 'strikes', NASB: 'strikes'"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֛ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376; KJV: 'a man', ESV: 'a man', NASB: 'a man'"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/מֵ֖ת",
+        "phrase": "so that he dies",
+        "literal": "and-dies",
+        "source": "H4191; KJV: 'so that he die', ESV: 'so that he dies', NASB: 'so that he dies'"
+      },
+      {
+        "position": 4,
+        "surface": "מ֥וֹת",
+        "phrase": "death",
+        "literal": "dying",
+        "source": "H4191; KJV: 'death' (infinitive absolute), ESV: 'surely', NASB: 'surely'"
+      },
+      {
+        "position": 5,
+        "surface": "יוּמָֽת",
+        "phrase": "he shall be put to death",
+        "literal": "he-will-be-put-to-death",
+        "source": "H4191; KJV: 'put to death', ESV: 'be put to death', NASB: 'be put to death'"
+      }
+    ]
+  }
+]

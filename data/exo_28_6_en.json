@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 28,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשׂ֖וּ",
+        "phrase": "And they shall make",
+        "literal": "and-they-shall-make",
+        "source": "H6213 (KJV: shall make; ESV: shall make; NASB: shall make)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֵפֹ֑ד",
+        "phrase": "the ephod",
+        "literal": "the-ephod",
+        "source": "H646 (KJV: the ephod; ESV: the ephod; NASB: the ephod)"
+      },
+      {
+        "position": 4,
+        "surface": "זָ֠הָב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 5,
+        "surface": "תְּכֵ֨לֶת",
+        "phrase": "blue",
+        "literal": "violet",
+        "source": "H8504 (KJV: blue; ESV: blue; NASB: blue)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אַרְגָּמָ֜ן",
+        "phrase": "and purple",
+        "literal": "and-purple",
+        "source": "H713 (KJV: purple; ESV: purple; NASB: purple)"
+      },
+      {
+        "position": 7,
+        "surface": "תּוֹלַ֧עַת",
+        "phrase": "scarlet",
+        "literal": "worm-of",
+        "source": "H8438 (KJV: scarlet; ESV: scarlet; NASB: scarlet)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁנִ֛י",
+        "phrase": "[material]",
+        "literal": "scarlet",
+        "source": "H8144 (KJV: scarlet; ESV: scarlet; NASB: scarlet)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שֵׁ֥שׁ",
+        "phrase": "and fine linen",
+        "literal": "and-linen",
+        "source": "H8336 (KJV: fine linen; ESV: fine twined linen; NASB: fine twisted linen)"
+      },
+      {
+        "position": 10,
+        "surface": "מָשְׁזָ֖ר",
+        "phrase": "twined",
+        "literal": "twisted",
+        "source": "H7806 (KJV: twined; ESV: twined; NASB: twisted)"
+      },
+      {
+        "position": 11,
+        "surface": "מַעֲשֵׂ֥ה",
+        "phrase": "work of",
+        "literal": "work-of",
+        "source": "H4639 (KJV: work; ESV: worked; NASB: work)"
+      },
+      {
+        "position": 12,
+        "surface": "חֹשֵֽׁב",
+        "phrase": "a skilled craftsman",
+        "literal": "designer",
+        "source": "H2803 (KJV: cunning work; ESV: skillfully worked; NASB: skillful workman)"
+      }
+    ]
+  }
+]

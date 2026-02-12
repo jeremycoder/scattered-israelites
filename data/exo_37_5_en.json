@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֵ֤א",
+        "phrase": "And he put",
+        "literal": "and-he-brought",
+        "source": "H935 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בַּדִּים֙",
+        "phrase": "poles",
+        "literal": "the-bars",
+        "source": "H905 (KJV: staves; ESV: poles; NASB: poles)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/טַּבָּעֹ֔ת",
+        "phrase": "into the rings",
+        "literal": "in-the-rings",
+        "source": "H2885 (KJV: rings; ESV: rings; NASB: rings)"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: by; ESV: on; NASB: on)"
+      },
+      {
+        "position": 6,
+        "surface": "צַלְעֹ֣ת",
+        "phrase": "sides",
+        "literal": "sides",
+        "source": "H6763 (KJV: sides; ESV: sides; NASB: sides)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אָרֹ֑ן",
+        "phrase": "of the ark",
+        "literal": "the-ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/שֵׂ֖את",
+        "phrase": "to carry",
+        "literal": "to-lift",
+        "source": "H5375 (KJV: to bear; ESV: to carry; NASB: to carry)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָרֹֽן",
+        "phrase": "ark",
+        "literal": "the-ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      }
+    ]
+  }
+]

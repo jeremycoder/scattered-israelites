@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: On the seventh day; NASB: It came about)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117 (KJV: on the seventh day; ESV: on the seventh day; NASB: on the seventh day)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שְּׁבִיעִ֔י",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637 (KJV: seventh; ESV: seventh; NASB: seventh)"
+      },
+      {
+        "position": 4,
+        "surface": "יָצְא֥וּ",
+        "phrase": "went out",
+        "literal": "they-went-out",
+        "source": "H3318 (KJV: went out; ESV: went out; NASB: went out)"
+      },
+      {
+        "position": 5,
+        "surface": "מִן",
+        "phrase": "some of",
+        "literal": "from",
+        "source": "H4480 (KJV: some of; ESV: some of; NASB: some of)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/לְקֹ֑ט",
+        "phrase": "to gather",
+        "literal": "to-gather",
+        "source": "H3950 (KJV: to gather; ESV: to gather; NASB: to gather)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "but",
+        "literal": "and-not",
+        "source": "H3808 (KJV: but; ESV: but; NASB: but)"
+      },
+      {
+        "position": 9,
+        "surface": "מָצָֽאוּ",
+        "phrase": "they found",
+        "literal": "they-found",
+        "source": "H4672 (KJV: found none; ESV: found none; NASB: found none)"
+      }
+    ]
+  }
+]

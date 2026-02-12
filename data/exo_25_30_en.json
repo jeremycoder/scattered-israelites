@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתָּ֧",
+        "phrase": "and you shall set",
+        "literal": "and-you-shall-give/put",
+        "source": "H5414: KJV 'set', ESV 'set', NASB 'set'"
+      },
+      {
+        "position": 2,
+        "surface": "עַֽל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921: KJV 'upon', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שֻּׁלְחָ֛ן",
+        "phrase": "the table",
+        "literal": "the-table",
+        "source": "H7979: KJV 'table', ESV 'table', NASB 'table'"
+      },
+      {
+        "position": 4,
+        "surface": "לֶ֥חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899: KJV 'bread', ESV 'bread', NASB 'bread'"
+      },
+      {
+        "position": 5,
+        "surface": "פָּנִ֖ים",
+        "phrase": "of the presence",
+        "literal": "faces/presence",
+        "source": "H6440: KJV 'shewbread', ESV 'Presence', NASB 'Presence'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/פָנַ֥/י",
+        "phrase": "before me",
+        "literal": "to-before/me",
+        "source": "H6440: KJV 'before me', ESV 'before me', NASB 'before Me'"
+      },
+      {
+        "position": 7,
+        "surface": "תָּמִֽיד",
+        "phrase": "continually",
+        "literal": "continually",
+        "source": "H8548: KJV 'alway', ESV 'always', NASB 'at all times"
+      }
+    ]
+  }
+]

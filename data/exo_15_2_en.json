@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 15,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עָזִּ֤/י",
+        "phrase": "my strength",
+        "literal": "strength-my",
+        "source": "H5797; KJV/ESV/NASB: 'strength'"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/זִמְרָת֙",
+        "phrase": "and my song",
+        "literal": "and-song-my",
+        "source": "H2176; KJV/ESV/NASB: 'song'"
+      },
+      {
+        "position": 3,
+        "surface": "יָ֔הּ",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3050; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and he has become",
+        "literal": "and-he-became",
+        "source": "H1961; KJV/ESV/NASB: 'is become/he has become'"
+      },
+      {
+        "position": 5,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "-; KJV/ESV/NASB: 'my'"
+      },
+      {
+        "position": 6,
+        "surface": "לִֽ/ישׁוּעָ֑ה",
+        "phrase": "salvation",
+        "literal": "salvation",
+        "source": "H3444; KJV/ESV/NASB: 'salvation'"
+      },
+      {
+        "position": 7,
+        "surface": "זֶ֤ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088; KJV/ESV/NASB: 'this'"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלִ/י֙",
+        "phrase": "my God",
+        "literal": "God-my",
+        "source": "H410; KJV/ESV/NASB: 'my God'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אַנְוֵ֔/הוּ",
+        "phrase": "and I will glorify him",
+        "literal": "and-I-will-glorify-him",
+        "source": "H5115; KJV: 'prepare him an habitation', ESV/NASB: 'glorify/praise him'"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "God",
+        "literal": "God-of",
+        "source": "H430; KJV/ESV/NASB: 'God'"
+      },
+      {
+        "position": 11,
+        "surface": "אָבִ֖/י",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "H1; KJV/ESV/NASB: 'father’s'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/אֲרֹמְמֶֽ/נְהוּ",
+        "phrase": "and I will exalt him",
+        "literal": "and-I-will-exalt-him",
+        "source": "H7311; KJV/ESV/NASB: 'exalt him'"
+      }
+    ]
+  }
+]

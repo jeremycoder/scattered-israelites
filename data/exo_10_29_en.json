@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And Moses said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: 'And Moses said'; ESV: 'Moses said'; NASB: 'Moses said')"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: 'Moses'; ESV: 'Moses'; NASB: 'Moses')"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֣ן",
+        "phrase": "Well",
+        "literal": "thus",
+        "source": "H3651 (KJV: 'Thou hast spoken well'; ESV: 'As you say'; NASB: 'You are right')"
+      },
+      {
+        "position": 4,
+        "surface": "דִּבַּ֑רְתָּ",
+        "phrase": "you have spoken",
+        "literal": "you-have-spoken",
+        "source": "H1696 (KJV: 'spoken well'; ESV: 'you say'; NASB: 'You are right')"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'no more'; ESV: 'not'; NASB: 'never')"
+      },
+      {
+        "position": 6,
+        "surface": "אֹסִ֥ף",
+        "phrase": "I will add",
+        "literal": "I-will-add",
+        "source": "H3254 (KJV: 'I will see...no more'; ESV: 'see...again'; NASB: 'see...again')"
+      },
+      {
+        "position": 7,
+        "surface": "ע֖וֹד",
+        "phrase": "again",
+        "literal": "again",
+        "source": "H5750 (KJV: 'no more'; ESV: 'again'; NASB: 'again')"
+      },
+      {
+        "position": 8,
+        "surface": "רְא֥וֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "H7200 (KJV: 'see'; ESV: 'see'; NASB: 'see')"
+      },
+      {
+        "position": 9,
+        "surface": "פָּנֶֽי/ךָ",
+        "phrase": "your face",
+        "literal": "face-your",
+        "source": "H6440 (KJV: 'thy face'; ESV: 'your face'; NASB: 'your face')"
+      }
+    ]
+  }
+]

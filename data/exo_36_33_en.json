@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 36,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בְּרִ֣יחַ",
+        "phrase": "the bar",
+        "literal": "the-bar",
+        "source": "H1280 (KJV: bar; ESV: bar; NASB: bar)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/תִּיכֹ֑ן",
+        "phrase": "the middle one",
+        "literal": "the-middle",
+        "source": "H8484 (KJV: middle; ESV: middle; NASB: middle)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/בְרֹ֨חַ֙",
+        "phrase": "to pass through",
+        "literal": "to-pass-through",
+        "source": "H1272 (KJV: pass; ESV: pass; NASB: pass)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/ת֣וֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst-of",
+        "source": "H8432 (KJV: midst; ESV: midst; NASB: midst)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/קְּרָשִׁ֔ים",
+        "phrase": "the boards",
+        "literal": "the-boards",
+        "source": "H7175 (KJV: boards; ESV: boards; NASB: boards)"
+      },
+      {
+        "position": 8,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/קָּצֶ֖ה",
+        "phrase": "the end",
+        "literal": "the-end",
+        "source": "H7097 (KJV: end; ESV: end; NASB: end)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/קָּצֶֽה",
+        "phrase": "the end",
+        "literal": "the-end",
+        "source": "H7097 (KJV: end; ESV: end; NASB: end)"
+      }
+    ]
+  }
+]

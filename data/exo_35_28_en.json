@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 35,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בֹּשֶׂם",
+        "phrase": "spices",
+        "literal": "the-spice",
+        "source": "H1314 (KJV: spice; ESV: spices; NASB: spice)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׁ֑מֶן",
+        "phrase": "oil",
+        "literal": "the-oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מָא֕וֹר",
+        "phrase": "for the light",
+        "literal": "for-light",
+        "source": "H3974 (KJV: for the light; ESV: for the light; NASB: for the light)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/שֶׁ֨מֶן֙",
+        "phrase": "and for oil",
+        "literal": "and-for-oil",
+        "source": "H8081 (KJV: for the oil; ESV: for oil; NASB: for oil)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּשְׁחָ֔ה",
+        "phrase": "of anointing",
+        "literal": "the-anointing",
+        "source": "H4888 (KJV: holy; ESV: anointing; NASB: anointing)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לִ/קְטֹ֖רֶת",
+        "phrase": "and for incense",
+        "literal": "and-for-incense",
+        "source": "H7004 (KJV: sweet; ESV: fragrant; NASB: fragrant)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/סַּמִּֽים",
+        "phrase": "of the spices",
+        "literal": "the-spices",
+        "source": "H5561 (KJV: perfumes; ESV: incense; NASB: incense)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and his",
+        "literal": "and-obj",
+        "source": "H853; KJV 'his', ESV 'his', NASB 'his'"
+      },
+      {
+        "position": 2,
+        "surface": "בָּנָ֖י/ו",
+        "phrase": "sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV 'sons', ESV 'sons', NASB 'sons'"
+      },
+      {
+        "position": 3,
+        "surface": "תַּקְרִ֑יב",
+        "phrase": "you shall bring",
+        "literal": "you-bring",
+        "source": "H7126; KJV 'bring', ESV 'bring', NASB 'bring'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִלְבַּשְׁתָּ֖/ם",
+        "phrase": "and you shall clothe them",
+        "literal": "and-you-clothe-them",
+        "source": "H3847; KJV 'put...upon', ESV 'put...on', NASB 'clothe'"
+      },
+      {
+        "position": 5,
+        "surface": "כֻּתֳּנֹֽת",
+        "phrase": "tunics",
+        "literal": "tunics",
+        "source": "H3801; KJV 'coats', ESV 'coats', NASB 'tunics'"
+      }
+    ]
+  }
+]

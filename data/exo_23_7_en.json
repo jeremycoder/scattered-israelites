@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִ/דְּבַר",
+        "phrase": "from a matter",
+        "literal": "from-word-of",
+        "source": "H1697; KJV 'matter', ESV 'charge', NASB 'charge'"
+      },
+      {
+        "position": 2,
+        "surface": "שֶׁ֖קֶר",
+        "phrase": "of falsehood",
+        "literal": "falsehood",
+        "source": "H8267; KJV 'false', ESV 'false', NASB 'false'"
+      },
+      {
+        "position": 3,
+        "surface": "תִּרְחָ֑ק",
+        "phrase": "keep far",
+        "literal": "you-shall-be-distant",
+        "source": "H7368; KJV 'keep thee far', ESV 'keep far', NASB 'keep far'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נָקִ֤י",
+        "phrase": "and innocent",
+        "literal": "and-innocent",
+        "source": "H5355; KJV 'innocent', ESV 'innocent', NASB 'innocent'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/צַדִּיק֙",
+        "phrase": "and righteous",
+        "literal": "and-righteous",
+        "source": "H6662; KJV 'righteous', ESV 'righteous', NASB 'righteous'"
+      },
+      {
+        "position": 6,
+        "surface": "אַֽל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408; KJV 'not', ESV 'do not', NASB 'do not'"
+      },
+      {
+        "position": 7,
+        "surface": "תַּהֲרֹ֔ג",
+        "phrase": "you shall kill",
+        "literal": "you-shall-kill",
+        "source": "H2026; KJV 'slay', ESV 'kill', NASB 'condemn to death'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 9,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV 'not', ESV 'will not', NASB 'will not'"
+      },
+      {
+        "position": 10,
+        "surface": "אַצְדִּ֖יק",
+        "phrase": "I will justify",
+        "literal": "I-will-justify",
+        "source": "H6663; KJV 'justify', ESV 'acquit', NASB 'justify'"
+      },
+      {
+        "position": 11,
+        "surface": "רָשָֽׁע",
+        "phrase": "the wicked",
+        "literal": "wicked",
+        "source": "H7563; KJV 'wicked', ESV 'guilty', NASB 'guilty"
+      }
+    ]
+  }
+]

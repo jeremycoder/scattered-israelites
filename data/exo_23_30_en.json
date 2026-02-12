@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מְעַ֥ט",
+        "phrase": "little",
+        "literal": "little",
+        "source": "H4592; KJV: 'By little', ESV: 'little', NASB: 'little'"
+      },
+      {
+        "position": 2,
+        "surface": "מְעַ֛ט",
+        "phrase": "little",
+        "literal": "little",
+        "source": "H4592; KJV: 'and little', ESV: 'by little', NASB: 'little'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲגָרְשֶׁ֖/נּוּ",
+        "phrase": "I will drive them out",
+        "literal": "I-will-drive-out-them",
+        "source": "H1644; KJV: 'I will drive them out', ESV: 'I will drive them out', NASB: 'I will drive them out'"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/פָּנֶ֑י/ךָ",
+        "phrase": "from before you",
+        "literal": "from/before-you",
+        "source": "H6440; KJV: 'from before thee', ESV: 'from before you', NASB: 'before you'"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֚ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV: 'until', ESV: 'until', NASB: 'until'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H834; KJV: 'thou be', ESV: 'you have', NASB: 'you become'"
+      },
+      {
+        "position": 7,
+        "surface": "תִּפְרֶ֔ה",
+        "phrase": "you become fruitful",
+        "literal": "you-bear-fruit",
+        "source": "H6509; KJV: 'thou be increased', ESV: 'you have increased', NASB: 'you become fruitful'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נָחַלְתָּ֖",
+        "phrase": "and inherit",
+        "literal": "and-you-inherit",
+        "source": "H5157; KJV: 'and inherit', ESV: 'possess', NASB: 'take possession'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776; KJV: 'the land', ESV: 'the land', NASB: 'the land'"
+      }
+    ]
+  }
+]

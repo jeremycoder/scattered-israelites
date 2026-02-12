@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 31,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לַ/חְשֹׁ֖ב",
+        "phrase": "to devise",
+        "literal": "to-think/devise",
+        "source": "H2803; KJV: cunning, ESV: artistic designs, NASB: artistic designs"
+      },
+      {
+        "position": 2,
+        "surface": "מַחֲשָׁבֹ֑ת",
+        "phrase": "artistic designs",
+        "literal": "thoughts/plans",
+        "source": "H4284; KJV: works, ESV: artistic designs, NASB: artistic designs"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/עֲשׂ֛וֹת",
+        "phrase": "to do/make",
+        "literal": "to-do/make",
+        "source": "H6213; KJV: to work, ESV: to work, NASB: to make"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/זָּהָ֥ב",
+        "phrase": "in gold",
+        "literal": "in-the-gold",
+        "source": "H2091; KJV: gold, ESV: gold, NASB: gold"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בַ/כֶּ֖סֶף",
+        "phrase": "and in silver",
+        "literal": "and-in-the-silver",
+        "source": "H3701; KJV: silver, ESV: silver, NASB: silver"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בַ/נְּחֹֽשֶׁת",
+        "phrase": "and in bronze",
+        "literal": "and-in-the-bronze",
+        "source": "H5178; KJV: brass, ESV: bronze, NASB: bronze"
+      }
+    ]
+  }
+]

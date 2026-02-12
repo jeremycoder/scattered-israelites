@@ -1,0 +1,25 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֖א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'not', ESV: 'not', NASB: 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תִּרְצָֽח",
+        "phrase": "murder",
+        "literal": "you(m.s.)-will-murder",
+        "source": "H7523; KJV: 'kill', ESV: 'murder', NASB: 'murder'"
+      }
+    ]
+  }
+]

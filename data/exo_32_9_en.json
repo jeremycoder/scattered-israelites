@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 32,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And He said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 5,
+        "surface": "רָאִ֨יתִי֙",
+        "phrase": "I have seen",
+        "literal": "I-have-seen",
+        "source": "H7200 (KJV: I have seen; ESV: I have seen; NASB: I have seen)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עָ֣ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: this people; ESV: this people; NASB: this people)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV: and, behold; ESV: and behold; NASB: and behold)"
+      },
+      {
+        "position": 10,
+        "surface": "עַם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "H5971 (KJV: people; ESV: people; NASB: people)"
+      },
+      {
+        "position": 11,
+        "surface": "קְשֵׁה",
+        "phrase": "stiff-necked",
+        "literal": "stiff",
+        "source": "H7186 (KJV: stiffnecked; ESV: obstinate; NASB: obstinate)"
+      },
+      {
+        "position": 12,
+        "surface": "עֹ֖רֶף",
+        "phrase": "necked",
+        "literal": "neck",
+        "source": "H6203 (KJV: stiffnecked; ESV: obstinate; NASB: obstinate)"
+      },
+      {
+        "position": 13,
+        "surface": "הֽוּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "H1931 (KJV: it is; ESV: they are; NASB: they are)"
+      }
+    ]
+  }
+]

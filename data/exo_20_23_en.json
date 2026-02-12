@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲשׂ֖וּ/ן",
+        "phrase": "shall you make",
+        "literal": "you(pl)-shall-make",
+        "source": "H6213; KJV: make, ESV: make, NASB: make"
+      },
+      {
+        "position": 3,
+        "surface": "אִתִּ֑/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "H854; KJV: with me, ESV: to be with me, NASB: besides Me"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹ֤הֵי",
+        "phrase": "gods of",
+        "literal": "gods-of",
+        "source": "H430; KJV: gods, ESV: gods, NASB: gods"
+      },
+      {
+        "position": 5,
+        "surface": "כֶ֨סֶף֙",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701; KJV: silver, ESV: silver, NASB: silver"
+      },
+      {
+        "position": 6,
+        "surface": "וֵ/אלֹהֵ֣י",
+        "phrase": "or gods of",
+        "literal": "and-gods-of",
+        "source": "H430; KJV: or gods, ESV: nor shall you make...gods, NASB: or gods"
+      },
+      {
+        "position": 7,
+        "surface": "זָהָ֔ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV: gold, ESV: gold, NASB: gold"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: neither shall ye make, ESV: nor shall you make, NASB: you shall not make"
+      },
+      {
+        "position": 9,
+        "surface": "תַעֲשׂ֖וּ",
+        "phrase": "shall you make",
+        "literal": "you(pl)-shall-make",
+        "source": "H6213; KJV: make, ESV: make, NASB: make"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/כֶֽם",
+        "phrase": "for yourselves",
+        "literal": "to-you(pl)",
+        "source": "; KJV: unto you, ESV: for yourselves, NASB: for yourselves"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And Moses said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲלֵ/הֶ֑ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: to them; NASB: to them)"
+      },
+      {
+        "position": 4,
+        "surface": "אִ֕ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: anyone; NASB: man)"
+      },
+      {
+        "position": 5,
+        "surface": "אַל",
+        "phrase": "let not",
+        "literal": "not",
+        "source": "H408 (KJV: no; ESV: no one; NASB: no)"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹתֵ֥ר",
+        "phrase": "leave over",
+        "literal": "leave-over",
+        "source": "H3498 (KJV: leave; ESV: leave; NASB: leave)"
+      },
+      {
+        "position": 7,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "H4480 (KJV: of it; ESV: of it; NASB: of it)"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: till; ESV: until; NASB: until)"
+      },
+      {
+        "position": 9,
+        "surface": "בֹּֽקֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      }
+    ]
+  }
+]

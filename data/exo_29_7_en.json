@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָֽקַחְתָּ֙",
+        "phrase": "Then you shall take",
+        "literal": "and-you-shall-take",
+        "source": "H3947 (KJV: 'shalt thou take'; ESV/NASB: 'you shall take')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: direct object marker, untranslated or 'it')"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׁ֣מֶן",
+        "phrase": "oil",
+        "literal": "oil",
+        "source": "H8081 (KJV/ESV/NASB: 'oil')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מִּשְׁחָ֔ה",
+        "phrase": "of the anointing",
+        "literal": "the-anointing",
+        "source": "H4888 (KJV/ESV/NASB: 'anointing')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יָצַקְתָּ֖",
+        "phrase": "and pour",
+        "literal": "and-you-shall-pour",
+        "source": "H3332 (KJV/ESV/NASB: 'pour')"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV/ESV/NASB: 'on' or 'upon')"
+      },
+      {
+        "position": 7,
+        "surface": "רֹאשׁ֑/וֹ",
+        "phrase": "his head",
+        "literal": "head-his",
+        "source": "H7218 (KJV/ESV/NASB: 'his head')"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מָשַׁחְתָּ֖",
+        "phrase": "and anoint",
+        "literal": "and-you-shall-anoint",
+        "source": "H4886 (KJV/ESV/NASB: 'anoint')"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "[dom]-him",
+        "source": "H853 (KJV/ESV/NASB: 'him')"
+      }
+    ]
+  }
+]

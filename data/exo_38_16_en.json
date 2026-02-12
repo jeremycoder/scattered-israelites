@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 38,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "All",
+        "literal": "all",
+        "source": "H3605 (KJV: All; ESV: All; NASB: All)"
+      },
+      {
+        "position": 2,
+        "surface": "קַלְעֵ֧י",
+        "phrase": "hangings",
+        "literal": "hangings-of",
+        "source": "H7050 (KJV: hangings; ESV: hangings; NASB: hangings)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶ/חָצֵ֛ר",
+        "phrase": "the court",
+        "literal": "the-court",
+        "source": "H2691 (KJV: court; ESV: court; NASB: court)"
+      },
+      {
+        "position": 4,
+        "surface": "סָבִ֖יב",
+        "phrase": "all around",
+        "literal": "around",
+        "source": "H5439 (KJV: round about; ESV: all around; NASB: all around)"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁ֥שׁ",
+        "phrase": "fine linen",
+        "literal": "linen",
+        "source": "H8336 (KJV: fine; ESV: fine; NASB: fine linen)"
+      },
+      {
+        "position": 6,
+        "surface": "מָשְׁזָֽר",
+        "phrase": "twisted",
+        "literal": "twisted",
+        "source": "H7806 (KJV: twined; ESV: twisted; NASB: twisted)"
+      }
+    ]
+  }
+]

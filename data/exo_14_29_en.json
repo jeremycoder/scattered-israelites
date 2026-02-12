@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 14,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֧י",
+        "phrase": "But the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV: children, ESV/NASB: sons"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: Israel"
+      },
+      {
+        "position": 3,
+        "surface": "הָלְכ֥וּ",
+        "phrase": "walked",
+        "literal": "they-walked",
+        "source": "H1980; KJV: walked, ESV: went, NASB: walked"
+      },
+      {
+        "position": 4,
+        "surface": "בַ/יַּבָּשָׁ֖ה",
+        "phrase": "on dry ground",
+        "literal": "in-the-dry-ground",
+        "source": "H3004; KJV/ESV/NASB: dry land"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/ת֣וֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst-of",
+        "source": "H8432; KJV/ESV/NASB: midst"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/יָּ֑ם",
+        "phrase": "the sea",
+        "literal": "the-sea",
+        "source": "H3220; KJV/ESV/NASB: sea"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/מַּ֤יִם",
+        "phrase": "and the waters",
+        "literal": "and-the-waters",
+        "source": "H4325; KJV/ESV/NASB: waters"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "''; KJV/ESV/NASB: them"
+      },
+      {
+        "position": 9,
+        "surface": "חֹמָ֔ה",
+        "phrase": "a wall",
+        "literal": "wall",
+        "source": "H2346; KJV/ESV/NASB: wall"
+      },
+      {
+        "position": 10,
+        "surface": "מִֽ/ימִינָ֖/ם",
+        "phrase": "on their right",
+        "literal": "from-right-their",
+        "source": "H3225; KJV/ESV/NASB: right hand"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/מִ/שְּׂמֹאלָֽ/ם",
+        "phrase": "and on their left",
+        "literal": "and-from-left-their",
+        "source": "H8040; KJV/ESV/NASB: left hand"
+      }
+    ]
+  }
+]

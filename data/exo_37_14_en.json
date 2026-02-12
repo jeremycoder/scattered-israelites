@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/עֻמַּת֙",
+        "phrase": "close to",
+        "literal": "to-opposite-of",
+        "source": "H5980 (KJV: over against; ESV: close to; NASB: close by)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מִּסְגֶּ֔רֶת",
+        "phrase": "the rim",
+        "literal": "the-frame",
+        "source": "H4526 (KJV: border; ESV: rim; NASB: rim)"
+      },
+      {
+        "position": 3,
+        "surface": "הָי֖וּ",
+        "phrase": "were",
+        "literal": "they-were",
+        "source": "H1961 (KJV: were; ESV: were; NASB: were)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/טַּבָּעֹ֑ת",
+        "phrase": "the rings",
+        "literal": "the-rings",
+        "source": "H2885 (KJV: rings; ESV: rings; NASB: rings)"
+      },
+      {
+        "position": 5,
+        "surface": "בָּתִּים֙",
+        "phrase": "houses",
+        "literal": "houses",
+        "source": "H1004 (KJV: places; ESV: holders; NASB: housings)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/בַּדִּ֔ים",
+        "phrase": "for the poles",
+        "literal": "to-the-poles",
+        "source": "H905 (KJV: staves; ESV: poles; NASB: poles)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/שֵׂ֖את",
+        "phrase": "to carry",
+        "literal": "to-lift",
+        "source": "H5375 (KJV: bear; ESV: carry; NASB: carry)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שֻּׁלְחָֽן",
+        "phrase": "the table",
+        "literal": "the-table",
+        "source": "H7979 (KJV: table; ESV: table; NASB: table)"
+      }
+    ]
+  }
+]

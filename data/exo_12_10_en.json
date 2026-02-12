@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'let nothing of it'; ESV: 'leave none of it'; NASB: 'leave none of it')"
+      },
+      {
+        "position": 2,
+        "surface": "תוֹתִ֥ירוּ",
+        "phrase": "you shall leave over",
+        "literal": "you(pl)-cause-to-remain",
+        "source": "H3498 (KJV: 'remain'; ESV: 'leave'; NASB: 'leave')"
+      },
+      {
+        "position": 3,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "H4480 (KJV: 'of it'; ESV: 'of it'; NASB: 'of it')"
+      },
+      {
+        "position": 4,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'until'; NASB: 'until')"
+      },
+      {
+        "position": 5,
+        "surface": "בֹּ֑קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: 'morning'; ESV: 'morning'; NASB: 'morning')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הַ/נֹּתָ֥ר",
+        "phrase": "and the remaining",
+        "literal": "and-the-remaining",
+        "source": "H3498 (KJV: 'that remaineth'; ESV: 'what remains'; NASB: 'what remains')"
+      },
+      {
+        "position": 7,
+        "surface": "מִמֶּ֛/נּוּ",
+        "phrase": "of it",
+        "literal": "from-it",
+        "source": "H4480 (KJV: 'of it'; ESV: 'of it'; NASB: 'of it')"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'until'; NASB: 'until')"
+      },
+      {
+        "position": 9,
+        "surface": "בֹּ֖קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: 'morning'; ESV: 'morning'; NASB: 'morning')"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אֵ֥שׁ",
+        "phrase": "in fire",
+        "literal": "in-fire",
+        "source": "H784 (KJV: 'with fire'; ESV: 'with fire'; NASB: 'with fire')"
+      },
+      {
+        "position": 11,
+        "surface": "תִּשְׂרֹֽפוּ",
+        "phrase": "you shall burn",
+        "literal": "you(pl)-burn",
+        "source": "H8313 (KJV: 'burn'; ESV: 'burn'; NASB: 'burn')"
+      }
+    ]
+  }
+]

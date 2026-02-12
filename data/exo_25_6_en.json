@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 25,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שֶׁ֖מֶן",
+        "phrase": "oil",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/מָּאֹ֑ר",
+        "phrase": "for the light",
+        "literal": "to-the-light",
+        "source": "H3974 (KJV: for the light; ESV: for the lights; NASB: for the light)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּשָׂמִים֙",
+        "phrase": "spices",
+        "literal": "spices",
+        "source": "H1314 (KJV: spices; ESV: spices; NASB: spices)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/שֶׁ֣מֶן",
+        "phrase": "for oil",
+        "literal": "for-oil",
+        "source": "H8081 (KJV: for oil; ESV: for the oil; NASB: for the oil)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּשְׁחָ֔ה",
+        "phrase": "of the anointing",
+        "literal": "the-anointing",
+        "source": "H4888 (KJV: anointing; ESV: anointing; NASB: anointing)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לִ/קְטֹ֖רֶת",
+        "phrase": "and for incense",
+        "literal": "and-for-incense",
+        "source": "H7004 (KJV: incense; ESV: incense; NASB: incense)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/סַּמִּֽים",
+        "phrase": "of the spices",
+        "literal": "the-spices",
+        "source": "H5561 (KJV: sweet; ESV: fragrant; NASB: fragrant)"
+      }
+    ]
+  }
+]

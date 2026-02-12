@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זָכ֛וֹר",
+        "phrase": "Remember",
+        "literal": "remember!",
+        "source": "H2142: KJV/ESV/NASB 'Remember' (infinitive absolute used imperatively)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853: KJV/ESV/NASB omit (standard for Hebrew accusative marker 'et')"
+      },
+      {
+        "position": 3,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117: KJV/ESV/NASB 'day'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שַּׁבָּ֖ת",
+        "phrase": "the Sabbath",
+        "literal": "the-Sabbath",
+        "source": "H7676: KJV/ESV/NASB 'sabbath'/'Sabbath day' (with definite article)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/קַדְּשֽׁ/וֹ",
+        "phrase": "to keep it holy",
+        "literal": "to-make-holy-it",
+        "source": "H6942: KJV 'to keep it holy'; ESV/NASB 'to keep it holy' (infinitive construct with suffix)"
+      }
+    ]
+  }
+]

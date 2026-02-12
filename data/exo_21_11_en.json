@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'if'; ESV/NASB: 'if')"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלָ֨שׁ",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV/ESV/NASB: 'these three')"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "H428 (KJV/ESV/NASB: 'these three')"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV/ESV/NASB: 'does not'/'do not')"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲשֶׂ֖ה",
+        "phrase": "he does",
+        "literal": "he-does",
+        "source": "H6213 (KJV: 'do'; ESV/NASB: 'do')"
+      },
+      {
+        "position": 6,
+        "surface": "לָ֑/הּ",
+        "phrase": "for her",
+        "literal": "to-her",
+        "source": " (KJV/ESV/NASB: 'unto her'/'for her')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/יָצְאָ֥ה",
+        "phrase": "and she shall go out",
+        "literal": "and-she-goes-out",
+        "source": "H3318 (KJV/ESV/NASB: 'go out'/'go out')"
+      },
+      {
+        "position": 8,
+        "surface": "חִנָּ֖ם",
+        "phrase": "for nothing",
+        "literal": "for-nothing",
+        "source": "H2600 (KJV/ESV/NASB: 'free'/'for nothing')"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֥ין",
+        "phrase": "there is not",
+        "literal": "not-is",
+        "source": "H369 (KJV/ESV/NASB: 'without money'/'without payment')"
+      },
+      {
+        "position": 10,
+        "surface": "כָּֽסֶף",
+        "phrase": "money",
+        "literal": "silver",
+        "source": "H3701 (KJV/ESV/NASB: 'money'/'payment of money')"
+      }
+    ]
+  }
+]

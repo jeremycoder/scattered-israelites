@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 19,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּוֹצֵ֨א",
+        "phrase": "and brought out",
+        "literal": "and-he-brought-out",
+        "source": "H3318 (KJV: brought forth; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֧ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV/ESV/NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֛ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/קְרַ֥את",
+        "phrase": "to meet",
+        "literal": "to-meet",
+        "source": "H7125 (KJV: to meet with; ESV: to meet; NASB: to meet)"
+      },
+      {
+        "position": 6,
+        "surface": "הָֽ/אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "the-Gods",
+        "source": "H430 (KJV/ESV/NASB: God)"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "out of",
+        "literal": "from",
+        "source": "H4480 (KJV/ESV/NASB: out of)"
+      },
+      {
+        "position": 8,
+        "surface": "הַֽ/מַּחֲנֶ֑ה",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "H4264 (KJV/ESV/NASB: the camp)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּֽתְיַצְּב֖וּ",
+        "phrase": "and they stood",
+        "literal": "and-they-stationed-themselves",
+        "source": "H3320 (KJV: and they stood; ESV: they took their stand; NASB: and they stood)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/תַחְתִּ֥ית",
+        "phrase": "at the foot",
+        "literal": "at-underneath",
+        "source": "H8482 (KJV: nether part; ESV: foot; NASB: foot)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/הָֽר",
+        "phrase": "of the mountain",
+        "literal": "the-mountain",
+        "source": "H2022 (KJV/ESV/NASB: the mount/mountain)"
+      }
+    ]
+  }
+]

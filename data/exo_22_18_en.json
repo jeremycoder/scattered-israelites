@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 22,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "Whoever",
+        "literal": "all-who",
+        "source": "H3605; KJV: (implied in 'Thou'), ESV/NASB: (implied in 'You shall')"
+      },
+      {
+        "position": 2,
+        "surface": "שֹׁכֵ֥ב",
+        "phrase": "lies",
+        "literal": "lying",
+        "source": "H7901; KJV: (implied), ESV: 'lies', NASB: (implied in 'Whoever lies')"
+      },
+      {
+        "position": 3,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV/ESV/NASB: 'with'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּהֵמָ֖ה",
+        "phrase": "an animal",
+        "literal": "beast",
+        "source": "H929; KJV: (implied), ESV: 'an animal', NASB: 'a beast'"
+      },
+      {
+        "position": 5,
+        "surface": "מ֥וֹת",
+        "phrase": "shall surely",
+        "literal": "death",
+        "source": "H4191; KJV/ESV/NASB: 'death' (inf. abs.)"
+      },
+      {
+        "position": 6,
+        "surface": "יוּמָֽת",
+        "phrase": "be put to death",
+        "literal": "he-will-be-put-to-death",
+        "source": "H4191; KJV: 'live', ESV/NASB: 'be put to death'"
+      }
+    ]
+  }
+]

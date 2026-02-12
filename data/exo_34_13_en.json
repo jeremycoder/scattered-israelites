@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 34,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: break down; NASB: tear down)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: their; ESV: their; NASB: their)"
+      },
+      {
+        "position": 3,
+        "surface": "מִזְבְּחֹתָ/ם֙",
+        "phrase": "their altars",
+        "literal": "altars-of-them",
+        "source": "H4196 (KJV: altars; ESV: altars; NASB: altars)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּתֹּצ֔וּ/ן",
+        "phrase": "you shall tear down",
+        "literal": "you(pl)-shall-tear-down",
+        "source": "H5422 (KJV: ye shall overthrow; ESV: break down; NASB: tear down)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and their; ESV: their; NASB: their)"
+      },
+      {
+        "position": 6,
+        "surface": "מַצֵּבֹתָ֖/ם",
+        "phrase": "their sacred pillars",
+        "literal": "pillars-of-them",
+        "source": "H4676 (KJV: images; ESV: pillars; NASB: sacred pillars)"
+      },
+      {
+        "position": 7,
+        "surface": "תְּשַׁבֵּר֑וּ/ן",
+        "phrase": "you shall smash",
+        "literal": "you(pl)-shall-break",
+        "source": "H7665 (KJV: break; ESV: smash; NASB: break)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and their; ESV: their; NASB: their)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֵׁרָ֖י/ו",
+        "phrase": "their Asherah poles",
+        "literal": "Asherah(his)",
+        "source": "H842 (KJV: groves; ESV: Asherah poles; NASB: Asherim)"
+      },
+      {
+        "position": 10,
+        "surface": "תִּכְרֹתֽוּ/ן",
+        "phrase": "you shall cut down",
+        "literal": "you(pl)-shall-cut-down",
+        "source": "H3772 (KJV: cut down; ESV: cut down; NASB: cut down)"
+      }
+    ]
+  }
+]

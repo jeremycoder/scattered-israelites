@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 38,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/כָל",
+        "phrase": "And all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: pins; ESV/NASB: pegs)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יְתֵדֹ֞ת",
+        "phrase": "the pegs",
+        "literal": "the-pegs",
+        "source": "H3489 (KJV: pins; ESV/NASB: pegs)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/מִּשְׁכָּ֧ן",
+        "phrase": "of the tabernacle",
+        "literal": "to-the-tabernacle",
+        "source": "H4908 (KJV/ESV/NASB: tabernacle)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לֶ/חָצֵ֛ר",
+        "phrase": "and of the court",
+        "literal": "and-to-the-court",
+        "source": "H2691 (KJV/ESV/NASB: court)"
+      },
+      {
+        "position": 5,
+        "surface": "סָבִ֖יב",
+        "phrase": "all around",
+        "literal": "around",
+        "source": "H5439 (KJV: round about; ESV/NASB: all around)"
+      },
+      {
+        "position": 6,
+        "surface": "נְחֹֽשֶׁת",
+        "phrase": "bronze",
+        "literal": "bronze",
+        "source": "H5178 (KJV: brass; ESV/NASB: bronze)"
+      }
+    ]
+  }
+]

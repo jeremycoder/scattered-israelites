@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֜עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׁ֤מֶן",
+        "phrase": "oil",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מִּשְׁחָה֙",
+        "phrase": "of the anointing",
+        "literal": "the-anointing",
+        "source": "H4888 (KJV: anointing; ESV: anointing; NASB: anointing)"
+      },
+      {
+        "position": 5,
+        "surface": "קֹ֔דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "קְטֹ֥רֶת",
+        "phrase": "incense",
+        "literal": "incense",
+        "source": "H7004 (KJV: incense; ESV: incense; NASB: incense)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/סַּמִּ֖ים",
+        "phrase": "of the spices",
+        "literal": "the-spices",
+        "source": "H5561 (KJV: sweet spices; ESV: spices; NASB: spices)"
+      },
+      {
+        "position": 9,
+        "surface": "טָה֑וֹר",
+        "phrase": "pure",
+        "literal": "pure",
+        "source": "H2889 (KJV: pure; ESV: pure; NASB: pure)"
+      },
+      {
+        "position": 10,
+        "surface": "מַעֲשֵׂ֖ה",
+        "phrase": "work",
+        "literal": "work-of",
+        "source": "H4639 (KJV: work; ESV: work; NASB: work)"
+      },
+      {
+        "position": 11,
+        "surface": "רֹקֵֽחַ",
+        "phrase": "of a perfumer",
+        "literal": "perfumer",
+        "source": "H7543 (KJV: apothecary; ESV: perfumer; NASB: perfumer)"
+      }
+    ]
+  }
+]

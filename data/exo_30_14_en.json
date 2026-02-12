@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כֹּ֗ל",
+        "phrase": "Everyone",
+        "literal": "all",
+        "source": "H3605 (KJV: every one; ESV: Everyone; NASB: Every)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֹבֵר֙",
+        "phrase": "who passes",
+        "literal": "the-passing",
+        "source": "H5674 (KJV: that passeth; ESV: who is numbered; NASB: who is numbered)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "among",
+        "literal": "upon",
+        "source": "H5921 (KJV: among; ESV: in; NASB: among)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פְּקֻדִ֔ים",
+        "phrase": "those who are numbered",
+        "literal": "the-numbered",
+        "source": "H6485 (KJV: them that are numbered; ESV: who is numbered; NASB: who are numbered)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/בֶּ֛ן",
+        "phrase": "from a son of",
+        "literal": "from-son_of",
+        "source": "H1121 (KJV: from twenty; ESV: from twenty; NASB: from twenty)"
+      },
+      {
+        "position": 6,
+        "surface": "עֶשְׂרִ֥ים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "H6242 (KJV: twenty; ESV: twenty; NASB: twenty)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "H8141 (KJV: years; ESV: years; NASB: years)"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/מָ֑עְלָ/ה",
+        "phrase": "and upward",
+        "literal": "and-above",
+        "source": "H4605 (KJV: and above; ESV: and above; NASB: and above)"
+      },
+      {
+        "position": 9,
+        "surface": "יִתֵּ֖ן",
+        "phrase": "shall give",
+        "literal": "he-shall-give",
+        "source": "H5414 (KJV: shall give; ESV: shall give; NASB: shall give)"
+      },
+      {
+        "position": 10,
+        "surface": "תְּרוּמַ֥ת",
+        "phrase": "the contribution",
+        "literal": "contribution_of",
+        "source": "H8641 (KJV: offering; ESV: contribution; NASB: contribution)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

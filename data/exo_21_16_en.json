@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 21,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גֹנֵ֨ב",
+        "phrase": "and kidnaps",
+        "literal": "and-steals",
+        "source": "H1589 (KJV: stealeth; ESV: steals; NASB: kidnaps)"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֧ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: a man; ESV: a man; NASB: a man)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מְכָר֛/וֹ",
+        "phrase": "and sells him",
+        "literal": "and-sells-him",
+        "source": "H4376 (KJV: selleth him; ESV: sells him; NASB: sells him)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נִמְצָ֥א",
+        "phrase": "or is found",
+        "literal": "and-is-found",
+        "source": "H4672 (KJV: be found; ESV: found; NASB: is found)"
+      },
+      {
+        "position": 5,
+        "surface": "בְ/יָד֖/וֹ",
+        "phrase": "in his hand",
+        "literal": "in-hand-his",
+        "source": "H3027 (KJV: in his hand; ESV: in possession; NASB: in his possession)"
+      },
+      {
+        "position": 6,
+        "surface": "מ֥וֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4191 (KJV: surely; ESV: shall be put to; NASB: shall surely be put to)"
+      },
+      {
+        "position": 7,
+        "surface": "יוּמָֽת",
+        "phrase": "he shall be put to death",
+        "literal": "he-will-be-put-to-death",
+        "source": "H4191 (KJV: be put to death; ESV: death; NASB: death)"
+      }
+    ]
+  }
+]

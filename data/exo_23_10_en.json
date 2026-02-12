@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֵׁ֥שׁ",
+        "phrase": "And six",
+        "literal": "and-six",
+        "source": "H8337; KJV: six, ESV: six, NASB: six"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁנִ֖ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "H8141; KJV: years, ESV: years, NASB: years"
+      },
+      {
+        "position": 3,
+        "surface": "תִּזְרַ֣ע",
+        "phrase": "you shall sow",
+        "literal": "you(m.s.)-shall-sow",
+        "source": "H2232; KJV: sow, ESV: sow, NASB: sow"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "אַרְצֶ֑/ךָ",
+        "phrase": "your land",
+        "literal": "land-your(m.s.)",
+        "source": "H776; KJV: thy land, ESV: your land, NASB: your land"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָסַפְתָּ֖",
+        "phrase": "and you shall gather",
+        "literal": "and-you(m.s.)-shall-gather",
+        "source": "H622; KJV: gather, ESV: gather, NASB: gather"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "תְּבוּאָתָֽ/הּ",
+        "phrase": "its produce",
+        "literal": "produce-its(f.s.)",
+        "source": "H8393; KJV: increase thereof, ESV: its produce, NASB: its produce"
+      }
+    ]
+  }
+]

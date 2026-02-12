@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 15,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/NASB/ESV: 'The LORD' (proper name of God)"
+      },
+      {
+        "position": 2,
+        "surface": "יִמְלֹ֖ךְ",
+        "phrase": "will reign",
+        "literal": "he-will-reign",
+        "source": "H4427; KJV: 'shall reign', ESV: 'will reign', NASB: 'shall reign'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/עֹלָ֥ם",
+        "phrase": "forever",
+        "literal": "to-forever",
+        "source": "H5769; KJV/ESV/NASB: 'for ever/forever'"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/עֶֽד",
+        "phrase": "and ever",
+        "literal": "and-forever",
+        "source": "H5703; KJV/ESV/NASB: 'and ever'"
+      }
+    ]
+  }
+]

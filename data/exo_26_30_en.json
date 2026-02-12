@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/הֲקֵמֹתָ֖",
+        "phrase": "And you shall erect",
+        "literal": "and-you-shall-raise-up",
+        "source": "H6965 (KJV: rear up; ESV: erect; NASB: set up)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּשְׁכָּ֑ן",
+        "phrase": "the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/מִ֨שְׁפָּט֔/וֹ",
+        "phrase": "according to its plan",
+        "literal": "as-judgment/plan-of-it",
+        "source": "H4941 (KJV: fashion thereof; ESV: its plan; NASB: its plan)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 6,
+        "surface": "הָרְאֵ֖יתָ",
+        "phrase": "you were shown",
+        "literal": "you-were-shown",
+        "source": "H7200 (KJV: shewed thee; ESV: was shown you; NASB: has been shown)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/הָֽר",
+        "phrase": "on the mountain",
+        "literal": "in/on-the-mountain",
+        "source": "H2022 (KJV: in the mount; ESV: on the mountain; NASB: on the mountain)"
+      }
+    ]
+  }
+]

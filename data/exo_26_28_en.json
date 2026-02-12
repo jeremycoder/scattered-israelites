@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 26,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/בְּרִ֥יחַ",
+        "phrase": "and the bar",
+        "literal": "and-the-bar",
+        "source": "H1280; KJV: middle bar, ESV: middle bar, NASB: middle bar"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תִּיכֹ֖ן",
+        "phrase": "the middle one",
+        "literal": "the-middle",
+        "source": "H8484; KJV: (implied), ESV: middle, NASB: central"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/ת֣וֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst-of",
+        "source": "H8432; KJV: midst, ESV: midst, NASB: middle"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קְּרָשִׁ֑ים",
+        "phrase": "the boards",
+        "literal": "the-boards",
+        "source": "H7175; KJV: boards, ESV: boards, NASB: planks"
+      },
+      {
+        "position": 5,
+        "surface": "מַבְרִ֕חַ",
+        "phrase": "passing through",
+        "literal": "passing-through",
+        "source": "H1272; KJV: reach, ESV: pass through, NASB: pass through"
+      },
+      {
+        "position": 6,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480; KJV: from, ESV: from, NASB: from"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/קָּצֶ֖ה",
+        "phrase": "the end",
+        "literal": "the-end",
+        "source": "H7097; KJV: end, ESV: end, NASB: end"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: to, ESV: to, NASB: to"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/קָּצֶֽה",
+        "phrase": "the end",
+        "literal": "the-end",
+        "source": "H7097; KJV: end, ESV: end, NASB: end"
+      }
+    ]
+  }
+]

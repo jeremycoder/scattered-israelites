@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 16,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ/אֲשֶׁ֛ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: As the LORD; ESV: As the Lord; NASB: As the Lord)"
+      },
+      {
+        "position": 2,
+        "surface": "צִוָּ֥ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּנִּיחֵ֧/הוּ",
+        "phrase": "and-he-placed-it",
+        "literal": "and-he-placed-it",
+        "source": "H3240 (KJV: so Aaron laid it up; ESV: so Aaron placed it; NASB: so Aaron placed it)"
+      },
+      {
+        "position": 7,
+        "surface": "אַהֲרֹ֛ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before the Testimony; ESV: before the testimony; NASB: before the Testimony)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֵדֻ֖ת",
+        "phrase": "the-Testimony",
+        "literal": "the-testimony",
+        "source": "H5715 (KJV: the Testimony; ESV: the testimony; NASB: the Testimony)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מִשְׁמָֽרֶת",
+        "phrase": "for-keeping",
+        "literal": "for-keeping",
+        "source": "H4931 (KJV: to be kept; ESV: to be kept; NASB: to be kept)"
+      }
+    ]
+  }
+]

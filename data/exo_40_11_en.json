@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מָשַׁחְתָּ֥",
+        "phrase": "and you shall anoint",
+        "literal": "and-you-shall-anoint",
+        "source": "H4886; KJV: anoint, ESV: anoint, NASB: anoint"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כִּיֹּ֖ר",
+        "phrase": "basin",
+        "literal": "the-basin",
+        "source": "H3595; KJV: laver, ESV: basin, NASB: basin"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-direct-object-marker",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "כַּנּ֑/וֹ",
+        "phrase": "its stand",
+        "literal": "stand-its",
+        "source": "H3653; KJV: his foot, ESV: its stand, NASB: its stand"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/קִדַּשְׁתָּ֖",
+        "phrase": "and you shall consecrate",
+        "literal": "and-you-shall-consecrate",
+        "source": "H6942; KJV: sanctify, ESV: consecrate, NASB: consecrate"
+      },
+      {
+        "position": 7,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "it",
+        "literal": "direct-object-marker-it",
+        "source": "H853; KJV: it (implied), ESV: it (implied), NASB: it (implied)"
+      }
+    ]
+  }
+]

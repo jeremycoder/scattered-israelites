@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 10,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֨ט",
+        "phrase": "and stretched out",
+        "literal": "and-he-stretched_out",
+        "source": "H5186 (KJV: stretched forth; ESV: stretched out; NASB: stretched out)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "[direct_object_marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "מַטֵּ/הוּ֮",
+        "phrase": "staff",
+        "literal": "staff-his",
+        "source": "H4294 (KJV: rod; ESV: staff; NASB: staff)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרַיִם֒",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יהוָ֗ה",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "נִהַ֤ג",
+        "phrase": "drove",
+        "literal": "drove",
+        "source": "H5090 (KJV: brought; ESV: sent; NASB: directed)"
+      },
+      {
+        "position": 10,
+        "surface": "ר֥וּחַ",
+        "phrase": "wind",
+        "literal": "wind",
+        "source": "H7307 (KJV: wind; ESV: wind; NASB: wind)"
+      },
+      {
+        "position": 11,
+        "surface": "קָדִים֙",
+        "phrase": "east",
+        "literal": "east",
+        "source": "H6921 (KJV: east; ESV: east; NASB: east)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אָ֔רֶץ",
+        "phrase": "on the land",
+        "literal": "in-the-land",
+        "source": "H776 (KJV: upon the land; ESV: over the land; NASB: on the land)"
+      },
+      {
+        "position": 13,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: that day; ESV: that day; NASB: that day)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/לָּ֑יְלָה",
+        "phrase": "the night",
+        "literal": "the-night",
+        "source": "H3915 (KJV: night; ESV: night; NASB: night)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/בֹּ֣קֶר",
+        "phrase": "the morning",
+        "literal": "the-morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      },
+      {
+        "position": 19,
+        "surface": "הָיָ֔ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "H1961 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/ר֨וּחַ֙",
+        "phrase": "and the wind",
+        "literal": "and-wind",
+        "source": "H7307 (KJV: east wind; ESV: east wind; NASB: east wind)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/קָּדִ֔ים",
+        "phrase": "east",
+        "literal": "the-east",
+        "source": "H6921 (KJV: east; ESV: east; NASB: east)"
+      },
+      {
+        "position": 22,
+        "surface": "נָשָׂ֖א",
+        "phrase": "brought",
+        "literal": "carried",
+        "source": "H5375 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 23,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct_object_marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 24,
+        "surface": "הָ/אַרְבֶּֽה",
+        "phrase": "locust",
+        "literal": "the-locust",
+        "source": "H697 (KJV: locusts; ESV: locusts; NASB: locust)"
+      }
+    ]
+  }
+]

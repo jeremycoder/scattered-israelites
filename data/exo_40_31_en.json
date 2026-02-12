@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/רָחֲצ֣וּ",
+        "phrase": "and they washed",
+        "literal": "and-they-washed",
+        "source": "H7364; KJV: washed, ESV: washed, NASB: washed"
+      },
+      {
+        "position": 2,
+        "surface": "מִמֶּ֔/נּוּ",
+        "phrase": "from it",
+        "literal": "from-it",
+        "source": "H4480; KJV: thereat, ESV: from it, NASB: from it"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: Moses, ESV: Moses, NASB: Moses"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַהֲרֹ֣ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175; KJV: and Aaron, ESV: and Aaron, NASB: and Aaron"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בָנָ֑י/ו",
+        "phrase": "and his sons",
+        "literal": "and-sons-his",
+        "source": "H1121; KJV: and his sons, ESV: and his sons, NASB: and his sons"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "יְדֵי/הֶ֖ם",
+        "phrase": "their hands",
+        "literal": "hands-their",
+        "source": "H3027; KJV: their hands, ESV: their hands, NASB: their hands"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "רַגְלֵי/הֶֽם",
+        "phrase": "their feet",
+        "literal": "feet-their",
+        "source": "H7272; KJV: their feet, ESV: their feet, NASB: their feet"
+      }
+    ]
+  }
+]

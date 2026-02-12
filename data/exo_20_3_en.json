@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 20,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽ֣א",
+        "phrase": "no",
+        "literal": "not",
+        "source": "H3808; KJV: no, ESV: no, NASB: no"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶֽה",
+        "phrase": "shall be",
+        "literal": "be-(jussive 3ms)",
+        "source": "H1961; KJV: shalt have, ESV: shall have, NASB: shall have"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֛",
+        "phrase": "for you",
+        "literal": "to-you-(2ms)",
+        "source": "HR/Sp2ms; KJV: thou, ESV: you, NASB: you"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהִ֥ים",
+        "phrase": "gods",
+        "literal": "gods-(mp absolute)",
+        "source": "H430; KJV: gods, ESV: gods, NASB: gods"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחֵרִ֖ים",
+        "phrase": "other",
+        "literal": "other-(mp)",
+        "source": "H312; KJV: other, ESV: other, NASB: other"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "before",
+        "literal": "upon",
+        "source": "H5921; KJV: before, ESV: before, NASB: before"
+      },
+      {
+        "position": 7,
+        "surface": "פָּנָֽ/יַ",
+        "phrase": "me",
+        "literal": "face-my-(1cs)",
+        "source": "H6440; KJV: me, ESV: me, NASB: Me"
+      }
+    ]
+  }
+]

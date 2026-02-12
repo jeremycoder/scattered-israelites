@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 37,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שֻּׁלְחָ֖ן",
+        "phrase": "the table",
+        "literal": "the-table",
+        "source": "H7979 (KJV: table; ESV: table; NASB: table)"
+      },
+      {
+        "position": 4,
+        "surface": "עֲצֵ֣י",
+        "phrase": "of",
+        "literal": "trees-of",
+        "source": "H6086 (KJV: [implied in 'of shittim wood']; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁטִּ֑ים",
+        "phrase": "acacia",
+        "literal": "shittim",
+        "source": "H7848 (KJV: shittim; ESV: acacia; NASB: acacia)"
+      },
+      {
+        "position": 6,
+        "surface": "אַמָּתַ֤יִם",
+        "phrase": "two cubits",
+        "literal": "cubits-two",
+        "source": "H520 (KJV: two cubits; ESV: two cubits; NASB: two cubits)"
+      },
+      {
+        "position": 7,
+        "surface": "אָרְכּ/וֹ֙",
+        "phrase": "its length",
+        "literal": "length-its",
+        "source": "H753 (KJV: length thereof; ESV: its length; NASB: long)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אַמָּ֣ה",
+        "phrase": "and a cubit",
+        "literal": "and-cubit",
+        "source": "H520 (KJV: a cubit; ESV: a cubit; NASB: a cubit)"
+      },
+      {
+        "position": 9,
+        "surface": "רָחְבּ֔/וֹ",
+        "phrase": "its width",
+        "literal": "width-its",
+        "source": "H7341 (KJV: breadth thereof; ESV: its width; NASB: wide)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אַמָּ֥ה",
+        "phrase": "and a cubit",
+        "literal": "and-cubit",
+        "source": "H520 (KJV: a cubit; ESV: a cubit; NASB: a cubit)"
+      },
+      {
+        "position": 11,
+        "surface": "וָ/חֵ֖צִי",
+        "phrase": "and a half",
+        "literal": "and-half",
+        "source": "H2677 (KJV: half; ESV: half; NASB: half)"
+      },
+      {
+        "position": 12,
+        "surface": "קֹמָתֽ/וֹ",
+        "phrase": "its height",
+        "literal": "height-its",
+        "source": "H6967 (KJV: height thereof; ESV: its height; NASB: high)"
+      }
+    ]
+  }
+]

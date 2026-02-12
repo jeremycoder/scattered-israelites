@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 12,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/חֹ֧דֶשׁ",
+        "phrase": "this month",
+        "literal": "the-month",
+        "source": "H2320; KJV/ESV/NASB: 'month'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/זֶּ֛ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088; KJV/ESV/NASB: 'this'"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "; KJV/ESV/NASB: 'unto you'/'for you'"
+      },
+      {
+        "position": 4,
+        "surface": "רֹ֣אשׁ",
+        "phrase": "beginning",
+        "literal": "head",
+        "source": "H7218; KJV/ESV/NASB: 'beginning'/'first'"
+      },
+      {
+        "position": 5,
+        "surface": "חֳדָשִׁ֑ים",
+        "phrase": "of months",
+        "literal": "of-months",
+        "source": "H2320; KJV/ESV/NASB: 'of months'"
+      },
+      {
+        "position": 6,
+        "surface": "רִאשׁ֥וֹן",
+        "phrase": "first",
+        "literal": "first-its",
+        "source": "H7223; KJV/ESV/NASB: 'first'"
+      },
+      {
+        "position": 7,
+        "surface": "הוּא֙",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931; KJV/ESV/NASB: 'it shall be'/'it is'"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "; KJV/ESV/NASB: 'to you'/'for you'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/חָדְשֵׁ֖י",
+        "phrase": "of months",
+        "literal": "to-months",
+        "source": "H2320; KJV/ESV/NASB: 'of months'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שָּׁנָֽה",
+        "phrase": "of the year",
+        "literal": "the-year",
+        "source": "H8141; KJV/ESV/NASB: 'of the year'"
+      }
+    ]
+  }
+]

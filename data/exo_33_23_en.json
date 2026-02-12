@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 33,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/הֲסִרֹתִי֙",
+        "phrase": "and I will remove",
+        "literal": "and-I-will-remove",
+        "source": "H5493 (KJV: take away; ESV/NASB: take away/remove)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "כַּפִּ֔/י",
+        "phrase": "my hand",
+        "literal": "palm-my",
+        "source": "H3709 (KJV: mine hand; ESV/NASB: My hand)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/רָאִ֖יתָ",
+        "phrase": "and you shall see",
+        "literal": "and-you-will-see",
+        "source": "H7200 (KJV: thou shalt see; ESV/NASB: you shall see)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "אֲחֹרָ֑/י",
+        "phrase": "my back",
+        "literal": "backs-my",
+        "source": "H268 (KJV: my back parts; ESV/NASB: My back)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/פָנַ֖/י",
+        "phrase": "but my face",
+        "literal": "and-face-my",
+        "source": "H6440 (KJV/ESV/NASB: my face)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV/ESV/NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "יֵרָאֽוּ",
+        "phrase": "shall be seen",
+        "literal": "will-be-seen",
+        "source": "H7200 (KJV/ESV/NASB: shall not be seen)"
+      }
+    ]
+  }
+]

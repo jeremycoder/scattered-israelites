@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 32,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגֹּ֥ף",
+        "phrase": "and-struck",
+        "literal": "and-he-struck",
+        "source": "H5062 (KJV: plagued; ESV/NASB: smote/plague)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV/NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֑ם",
+        "phrase": "the-people",
+        "literal": "the-people",
+        "source": "H5971 (KJV/ESV/NASB: the people)"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֚ל",
+        "phrase": "on-account-of",
+        "literal": "on",
+        "source": "H5921 (KJV/ESV/NASB: [implied in 'because'])"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV/ESV/NASB: because/that)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשׂ֣וּ",
+        "phrase": "they-made",
+        "literal": "they-made",
+        "source": "H6213 (KJV/ESV/NASB: they made)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֵ֔גֶל",
+        "phrase": "the-calf",
+        "literal": "the-calf",
+        "source": "H5695 (KJV/ESV/NASB: the calf)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834 (KJV/ESV/NASB: which/the one)"
+      },
+      {
+        "position": 11,
+        "surface": "עָשָׂ֖ה",
+        "phrase": "he-made",
+        "literal": "he-made",
+        "source": "H6213 (KJV/ESV/NASB: made)"
+      },
+      {
+        "position": 12,
+        "surface": "אַהֲרֹֽן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV/ESV/NASB: Aaron)"
+      }
+    ]
+  }
+]

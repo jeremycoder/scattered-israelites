@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 29,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שַׂמְתָּ֥",
+        "phrase": "and you shall put",
+        "literal": "and-you-put",
+        "source": "H7760 (KJV: put; ESV: set; NASB: put)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מִּצְנֶ֖פֶת",
+        "phrase": "the turban",
+        "literal": "the-turban",
+        "source": "H4701 (KJV: mitre; ESV: turban; NASB: turban)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 4,
+        "surface": "רֹאשׁ֑/וֹ",
+        "phrase": "his head",
+        "literal": "head-his",
+        "source": "H7218 (KJV: his head; ESV: his head; NASB: his head)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/נָתַתָּ֛",
+        "phrase": "and you shall put",
+        "literal": "and-you-give/put",
+        "source": "H5414 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 7,
+        "surface": "נֵ֥זֶר",
+        "phrase": "the diadem",
+        "literal": "diadem",
+        "source": "H5145 (KJV: crown; ESV: crown; NASB: diadem)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קֹּ֖דֶשׁ",
+        "phrase": "the holy",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מִּצְנָֽפֶת",
+        "phrase": "the turban",
+        "literal": "the-turban",
+        "source": "H4701 (KJV: mitre; ESV: turban; NASB: turban)"
+      }
+    ]
+  }
+]

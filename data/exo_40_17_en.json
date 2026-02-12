@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֞י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: [implied]; NASB: Now...)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/חֹ֧דֶשׁ",
+        "phrase": "in the month",
+        "literal": "in-the-month",
+        "source": "H2320 (KJV: in the first month; ESV: in the first month; NASB: in the first month...)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/רִאשׁ֛וֹן",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223 (KJV: first; ESV: first; NASB: first)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/שָּׁנָ֥ה",
+        "phrase": "in the year",
+        "literal": "in-the-year",
+        "source": "H8141 (KJV: in the second year; ESV: in the second year; NASB: of the second year)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שֵּׁנִ֖ית",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: second; ESV: second; NASB: second)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אֶחָ֣ד",
+        "phrase": "on the first",
+        "literal": "in/on-one",
+        "source": "H259 (KJV: on the first day; ESV: on the first day; NASB: on the first)"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/חֹ֑דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "H2320 (KJV: of the month; ESV: of the month; NASB: of the month)"
+      },
+      {
+        "position": 8,
+        "surface": "הוּקַ֖ם",
+        "phrase": "was set up",
+        "literal": "was-raised-up",
+        "source": "H6965 (KJV: was reared up; ESV: was erected; NASB: was erected)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּשְׁכָּֽן",
+        "phrase": "the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908 (KJV: the tabernacle; ESV: the tabernacle; NASB: the tabernacle)"
+      }
+    ]
+  }
+]

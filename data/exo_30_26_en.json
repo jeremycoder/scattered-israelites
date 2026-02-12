@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 30,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מָשַׁחְתָּ֥",
+        "phrase": "and you shall anoint",
+        "literal": "and-you-shall-anoint",
+        "source": "H4886; KJV: 'anoint', ESV: 'anoint', NASB: 'anoint'"
+      },
+      {
+        "position": 2,
+        "surface": "ב֖/וֹ",
+        "phrase": "with it",
+        "literal": "with-it",
+        "source": "-; KJV: 'therewith', ESV: 'with it', NASB: 'with it'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹ֣הֶל",
+        "phrase": "tent",
+        "literal": "tent",
+        "source": "H168; KJV: 'tabernacle', ESV: 'tent', NASB: 'tabernacle'"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹעֵ֑ד",
+        "phrase": "of meeting",
+        "literal": "of-appointment/meeting",
+        "source": "H4150; KJV: 'of the congregation', ESV: 'of meeting', NASB: 'of meeting'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲר֥וֹן",
+        "phrase": "ark",
+        "literal": "ark/chest",
+        "source": "H727; KJV: 'ark', ESV: 'ark', NASB: 'ark'"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עֵדֻֽת",
+        "phrase": "of the testimony",
+        "literal": "the-testimony",
+        "source": "H5715; KJV: 'of the testimony', ESV: 'of the testimony', NASB: 'of the Testimony'"
+      }
+    ]
+  }
+]

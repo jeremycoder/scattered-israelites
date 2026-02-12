@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 40,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֤שֶׂם",
+        "phrase": "and he placed",
+        "literal": "and-he-placed",
+        "source": "H7760 (KJV: set; ESV: put; NASB: placed)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מְּנֹרָה֙",
+        "phrase": "the lampstand",
+        "literal": "the-lampstand",
+        "source": "H4501 (KJV: candlestick; ESV: lampstand; NASB: lampstand)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אֹ֣הֶל",
+        "phrase": "in the tent",
+        "literal": "in-tent",
+        "source": "H168 (KJV: tabernacle; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹעֵ֔ד",
+        "phrase": "of meeting",
+        "literal": "of-meeting",
+        "source": "H4150 (KJV: congregation; ESV: meeting; NASB: meeting)"
+      },
+      {
+        "position": 6,
+        "surface": "נֹ֖כַח",
+        "phrase": "opposite",
+        "literal": "opposite",
+        "source": "H5227 (KJV: over against; ESV: opposite; NASB: opposite)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שֻּׁלְחָ֑ן",
+        "phrase": "the table",
+        "literal": "the-table",
+        "source": "H7979 (KJV: table; ESV: table; NASB: table)"
+      },
+      {
+        "position": 8,
+        "surface": "עַ֛ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 9,
+        "surface": "יֶ֥רֶךְ",
+        "phrase": "side",
+        "literal": "side",
+        "source": "H3409 (KJV: side; ESV: side; NASB: side)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מִּשְׁכָּ֖ן",
+        "phrase": "of the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 11,
+        "surface": "נֶֽגְבָּ/ה",
+        "phrase": "southward",
+        "literal": "southward",
+        "source": "H5045 (KJV: south; ESV: south; NASB: south)"
+      }
+    ]
+  }
+]

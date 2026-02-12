@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: nothing/shall, ESV: no one, NASB: no one"
+      },
+      {
+        "position": 2,
+        "surface": "תִהְיֶ֛ה",
+        "phrase": "shall be",
+        "literal": "be-FS",
+        "source": "H1961; KJV: shall, ESV: shall be, NASB: shall be"
+      },
+      {
+        "position": 3,
+        "surface": "מְשַׁכֵּלָ֥ה",
+        "phrase": "miscarrying",
+        "literal": "miscarrying-FS",
+        "source": "H7921; KJV: cast their young, ESV: miscarrying, NASB: miscarrying"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/עֲקָרָ֖ה",
+        "phrase": "or barren",
+        "literal": "and-barren-FS",
+        "source": "H6135; KJV: nor be barren, ESV: barren, NASB: barren"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אַרְצֶ֑/ךָ",
+        "phrase": "in your land",
+        "literal": "in-land-your",
+        "source": "H776; KJV: in thy land, ESV: in your land, NASB: in your land"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: (implied in translation)"
+      },
+      {
+        "position": 7,
+        "surface": "מִסְפַּ֥ר",
+        "phrase": "the number",
+        "literal": "number",
+        "source": "H4557; KJV: the number, ESV: the number, NASB: the number"
+      },
+      {
+        "position": 8,
+        "surface": "יָמֶ֖י/ךָ",
+        "phrase": "of your days",
+        "literal": "days-your",
+        "source": "H3117; KJV: of thy days, ESV: of your days, NASB: of your days"
+      },
+      {
+        "position": 9,
+        "surface": "אֲמַלֵּֽא",
+        "phrase": "I will fulfill",
+        "literal": "I-will-fill",
+        "source": "H4390; KJV: I will fulfil, ESV: I will fulfill, NASB: I will fulfill"
+      }
+    ]
+  }
+]

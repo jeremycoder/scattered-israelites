@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 23,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תַטֶּ֛ה",
+        "phrase": "you-shall-pervert",
+        "literal": "you(m.s.)-cause-to-bend",
+        "source": "H5186; KJV: wrest, ESV: pervert, NASB: pervert"
+      },
+      {
+        "position": 3,
+        "surface": "מִשְׁפַּ֥ט",
+        "phrase": "justice",
+        "literal": "judgment",
+        "source": "H4941; KJV: judgment, ESV: justice, NASB: justice"
+      },
+      {
+        "position": 4,
+        "surface": "אֶבְיֹנְ/ךָ֖",
+        "phrase": "your-poor",
+        "literal": "poor-your(m.s.)",
+        "source": "H34; KJV: thy poor, ESV: your poor, NASB: your needy brother"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/רִיבֽ/וֹ",
+        "phrase": "in-his-lawsuit",
+        "literal": "in-lawsuit-his(m.s.)",
+        "source": "H7379; KJV: in his cause, ESV: in his lawsuit, NASB: in his dispute"
+      }
+    ]
+  }
+]
