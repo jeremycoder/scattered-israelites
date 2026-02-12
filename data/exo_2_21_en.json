@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּ֥וֹאֶל",
+        "phrase": "And Moses was content",
+        "literal": "and-he.was.willing",
+        "source": "H2974 (יָאַל, hiphil wayyiqtol 3ms) with conjunctive waw; KJV 'was content', ESV 'was content', NASB 'was willing'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, proper noun); KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/שֶׁ֣בֶת",
+        "phrase": "to dwell",
+        "literal": "to-dwell",
+        "source": "H3427 (יָשַׁב, qal infinitive construct) with preposition lamed; KJV 'to dwell', ESV 'to stay', NASB 'to dwell'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H854 (אֵת, preposition 'with'); KJV/ESV/NASB 'with'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אִ֑ישׁ",
+        "phrase": "the man,",
+        "literal": "the-man",
+        "source": "H376 (אִישׁ, noun common masculine singular absolute) with article; KJV/ESV/NASB 'the man'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּתֵּ֛ן",
+        "phrase": "and he gave",
+        "literal": "and-he.gave",
+        "source": "H5414 (נָתַן, qal wayyiqtol 3ms) with conjunctive waw; KJV 'gave', ESV 'gave', NASB 'gave'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 8,
+        "surface": "צִפֹּרָ֥ה",
+        "phrase": "Zipporah",
+        "literal": "Zipporah",
+        "source": "H6855 (צִפֹּרָה, proper noun); KJV/ESV/NASB 'Zipporah'"
+      },
+      {
+        "position": 9,
+        "surface": "בִתּ֖/וֹ",
+        "phrase": "his daughter",
+        "literal": "daughter.of-him",
+        "source": "H1323 (בַּת, noun common feminine singular construct + 3ms suffix); KJV/ESV/NASB 'his daughter'"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מֹשֶֽׁה",
+        "phrase": "to Moses.",
+        "literal": "to-Moses",
+        "source": "H4872 (מֹשֶׁה, proper noun) with preposition lamed; KJV/ESV/NASB 'Moses' / 'in marriage to Moses'"
+      }
+    ]
+  }
+]

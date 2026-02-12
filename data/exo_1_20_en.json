@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥יטֶב",
+        "phrase": "Therefore God dealt well",
+        "literal": "and-he-did-good",
+        "source": "H3190 Hiphil wayyiqtol 3ms 'caused good'; KJV 'Therefore God dealt well', ESV 'So God dealt well', NASB 'So God was good' — all agree on God's favorable action"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 noun masc pl abs (majestic plural); KJV/ESV/NASB all 'God'"
+      },
+      {
+        "position": 3,
+        "surface": "לַֽ/מְיַלְּדֹ֑ת",
+        "phrase": "with the midwives.",
+        "literal": "to-the-ones-causing-birth",
+        "source": "H3205 prep+article + Piel participle fem pl abs; KJV 'with the midwives', ESV 'with the midwives', NASB 'to the midwives' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּ֧רֶב",
+        "phrase": "And the people multiplied",
+        "literal": "and-he-multiplied",
+        "source": "H7235 Qal wayyiqtol 3ms; KJV 'And the people multiplied', ESV 'And the people multiplied', NASB 'And the people multiplied' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עָ֛ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 article + noun masc sg abs; KJV/ESV/NASB all 'the people'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּֽעַצְמ֖וּ",
+        "phrase": "and grew very",
+        "literal": "and-they-became-mighty",
+        "source": "H6105 Qal wayyiqtol 3mp; KJV 'and waxed very mighty', ESV 'and grew very strong', NASB 'and became very mighty' — all agree on increasing strength"
+      },
+      {
+        "position": 7,
+        "surface": "מְאֹֽד",
+        "phrase": "mighty.",
+        "literal": "very",
+        "source": "H3966 adverb; KJV 'very mighty', ESV 'very strong', NASB 'very mighty' — all agree"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲנִ֣י",
+        "phrase": "But I",
+        "literal": "and-I",
+        "source": "H589 (אֲנִי), HC/Pp1cs (conjunctive/personal-pronoun-1cs). KJV 'And I am sure', ESV 'But I', NASB 'But I'. Emphatic pronoun."
+      },
+      {
+        "position": 2,
+        "surface": "יָדַ֔עְתִּי",
+        "phrase": "know",
+        "literal": "I-knew",
+        "source": "H3045 (ידע), HVqp1cs (Qal-perfect-1cs). KJV 'I am sure', ESV 'I know', NASB 'I know'."
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֠י",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "H3588 (כִּי), HC (conjunction). KJV 'that', ESV 'that', NASB 'that'. All agree."
+      },
+      {
+        "position": 4,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (לֹא), HTn (negative particle). KJV 'not', ESV 'not', NASB 'not'. All agree."
+      },
+      {
+        "position": 5,
+        "surface": "יִתֵּ֥ן",
+        "phrase": "will let",
+        "literal": "he-will-give/permit",
+        "source": "H5414 (נתן), HVqi3ms (Qal-imperfect-3ms). KJV 'will not let', ESV 'will not let', NASB 'will not permit'."
+      },
+      {
+        "position": 6,
+        "surface": "אֶתְ/כֶ֛ם",
+        "phrase": "you",
+        "literal": "[obj]-you(mp)",
+        "source": "H853 (אֵת), HTo/Sp2mp (direct object marker/suffix-2mp). KJV 'you', ESV 'you', NASB 'you'."
+      },
+      {
+        "position": 7,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 (מֶלֶךְ), HNcmsc (noun-common-ms-construct). KJV 'the king of', ESV 'the king of', NASB 'the king of'."
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם), HNp (proper noun). KJV, ESV, NASB all render 'Egypt'."
+      },
+      {
+        "position": 9,
+        "surface": "לַ/הֲלֹ֑ךְ",
+        "phrase": "go",
+        "literal": "to-go",
+        "source": "H1980 (הלך), HR/Vqc (preposition-lamed/Qal-infinitive-construct). KJV 'to go', ESV 'go', NASB 'go'."
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "not even",
+        "literal": "and-not",
+        "source": "H3808 (לֹא), HC/Tn (conjunctive/negative particle). DIVERGENT: KJV 'not by a mighty hand' (i.e. Pharaoh will not yield), ESV 'unless compelled by a mighty hand', NASB 'except under compulsion'. The phrase is understood differently across translations."
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/יָ֥ד",
+        "phrase": "by a hand",
+        "literal": "by-hand",
+        "source": "H3027 (יָד), HR/Ncbsa (preposition-beth/noun-common-both-singular-absolute). KJV 'by…hand', ESV 'by…hand', NASB 'by…hand'."
+      },
+      {
+        "position": 12,
+        "surface": "חֲזָקָֽה",
+        "phrase": "mighty",
+        "literal": "strong/mighty",
+        "source": "H2389 (חָזָק), HAafsa (adjective-fs-absolute). KJV 'a mighty hand', ESV 'a mighty hand', NASB 'a mighty hand'. DIVERGENT: KJV implies Pharaoh will not release them unless forced; ESV/NASB read it as 'unless compelled by a mighty hand' (i.e., God's hand)."
+      }
+    ]
+  }
+]

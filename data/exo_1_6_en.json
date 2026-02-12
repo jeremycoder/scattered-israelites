@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֤מָת",
+        "phrase": "And died",
+        "literal": "and-he-died",
+        "source": "H4191 (conjunction + Qal wayyiqtol 3ms); KJV/ESV/NASB 'died'"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵף֙",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "H3130 (proper noun); KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all-of",
+        "source": "H3605 (conjunction + noun common masculine singular construct); KJV/ESV/NASB 'and all'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶחָ֔י/ו",
+        "phrase": "his brothers,",
+        "literal": "brothers-his",
+        "source": "H251 (noun common masculine plural construct + 3ms suffix); KJV 'brethren', ESV/NASB 'brothers'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/כֹ֖ל",
+        "phrase": "and all",
+        "literal": "and-all-of",
+        "source": "H3605 (conjunction + noun common masculine singular construct); KJV/ESV/NASB 'and all'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דּ֥וֹר",
+        "phrase": "the generation",
+        "literal": "the-generation",
+        "source": "H1755 (article + noun common masculine singular absolute); KJV/ESV/NASB 'that generation'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/הֽוּא",
+        "phrase": "that.",
+        "literal": "the-that",
+        "source": "H1931 (article + pronoun 3ms, used as demonstrative); KJV/ESV/NASB 'that'"
+      }
+    ]
+  }
+]

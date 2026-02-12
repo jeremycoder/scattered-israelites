@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "דָּ֥ן",
+        "phrase": "Dan,",
+        "literal": "Dan",
+        "source": "H1835 (proper noun); KJV/ESV/NASB 'Dan'"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/נַפְתָּלִ֖י",
+        "phrase": "and Naphtali,",
+        "literal": "and-Naphtali",
+        "source": "H5321 (conjunction + proper noun); KJV/ESV/NASB 'and Naphtali'"
+      },
+      {
+        "position": 3,
+        "surface": "גָּ֥ד",
+        "phrase": "Gad,",
+        "literal": "Gad",
+        "source": "H1410 (proper noun); KJV/ESV/NASB 'Gad'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אָשֵֽׁר",
+        "phrase": "and Asher.",
+        "literal": "and-Asher",
+        "source": "H836 (conjunction + proper noun); KJV/ESV/NASB 'and Asher'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִ֗י",
+        "phrase": "And were",
+        "literal": "and-it-was",
+        "source": "H1961 (conjunction + Qal wayyiqtol 3ms); KJV 'And all the souls...were', ESV 'All the persons...were', NASB 'All the persons...were'"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 (noun common masculine singular construct); KJV/ESV/NASB 'all'"
+      },
+      {
+        "position": 3,
+        "surface": "נֶ֛פֶשׁ",
+        "phrase": "the persons",
+        "literal": "soul-of",
+        "source": "H5315 (noun common both singular construct); KJV 'souls', ESV/NASB 'persons'"
+      },
+      {
+        "position": 4,
+        "surface": "יֹצְאֵ֥י",
+        "phrase": "who came from",
+        "literal": "going-out-of",
+        "source": "H3318 (Qal active participle masculine plural construct); KJV 'that came out of', ESV/NASB 'who came from'"
+      },
+      {
+        "position": 5,
+        "surface": "יֶֽרֶךְ",
+        "phrase": "the loins of",
+        "literal": "thigh-of",
+        "source": "H3409 (noun common feminine singular construct); KJV 'loins', ESV/NASB 'the body of' (lit. 'thigh/loins')"
+      },
+      {
+        "position": 6,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290 (proper noun); KJV/ESV/NASB 'Jacob'"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁבְעִ֣ים",
+        "phrase": "seventy",
+        "literal": "seventy",
+        "source": "H7657 (adjective cardinal both plural absolute); KJV/ESV/NASB 'seventy'"
+      },
+      {
+        "position": 8,
+        "surface": "נָ֑פֶשׁ",
+        "phrase": "persons,",
+        "literal": "soul",
+        "source": "H5315 (noun common both singular absolute); KJV 'souls', ESV/NASB 'persons'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/יוֹסֵ֖ף",
+        "phrase": "and Joseph",
+        "literal": "and-Joseph",
+        "source": "H3130 (conjunction + proper noun); KJV/ESV/NASB 'Joseph'"
+      },
+      {
+        "position": 10,
+        "surface": "הָיָ֥ה",
+        "phrase": "was already",
+        "literal": "he-was",
+        "source": "H1961 (Qal perfect 3ms); KJV/ESV/NASB 'was'"
+      },
+      {
+        "position": 11,
+        "surface": "בְ/מִצְרָֽיִם",
+        "phrase": "in Egypt.",
+        "literal": "in-Egypt",
+        "source": "H4714 (preposition + proper noun); KJV/ESV/NASB 'in Egypt'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּאמַ֕רְןָ",
+        "phrase": "And they said,",
+        "literal": "and-they(f).said",
+        "source": "H559 (אָמַר, qal wayyiqtol 3fp) with conjunctive waw; KJV/ESV/NASB 'they said'"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֣ישׁ",
+        "phrase": "An Egyptian man",
+        "literal": "a.man",
+        "source": "H376 (אִישׁ, noun common masculine singular absolute); KJV 'an Egyptian', ESV 'an Egyptian', NASB 'an Egyptian'"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְרִ֔י",
+        "phrase": "Egyptian",
+        "literal": "Egyptian",
+        "source": "H4713 (מִצְרִי, gentillic masculine singular absolute); KJV/ESV/NASB 'Egyptian'"
+      },
+      {
+        "position": 4,
+        "surface": "הִצִּילָ֖/נוּ",
+        "phrase": "delivered us",
+        "literal": "he.delivered-us",
+        "source": "H5337 (נָצַל, hiphil perfect 3ms + 1cp suffix); KJV 'delivered us', ESV 'rescued us', NASB 'delivered us'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/יַּ֣ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand.of",
+        "source": "H3027 (יָד, noun common feminine singular construct) with preposition min; KJV/ESV/NASB 'from the hand of' / 'out of the hand of'"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/רֹעִ֑ים",
+        "phrase": "the shepherds,",
+        "literal": "the-shepherds",
+        "source": "H7462 (רָעָה, qal participle masculine plural absolute) with article; KJV/ESV/NASB 'the shepherds'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/גַם",
+        "phrase": "and he even",
+        "literal": "and-also",
+        "source": "H1571 (גַּם, adverb) with conjunctive waw; KJV 'also', ESV 'even', NASB 'he even'"
+      },
+      {
+        "position": 8,
+        "surface": "דָּלֹ֤ה",
+        "phrase": "drew",
+        "literal": "drawing",
+        "source": "H1802 (דָּלָה, qal infinitive absolute); emphatic construction; KJV 'drew water enough', ESV 'even drew water', NASB 'even drew the water'"
+      },
+      {
+        "position": 9,
+        "surface": "דָלָה֙",
+        "phrase": "actually drew water",
+        "literal": "he.drew",
+        "source": "H1802 (דָּלָה, qal perfect 3ms); inf. abs. + finite verb = emphatic: 'he indeed drew'; KJV 'drew', ESV 'drew', NASB 'drew'"
+      },
+      {
+        "position": 10,
+        "surface": "לָ֔/נוּ",
+        "phrase": "for us",
+        "literal": "for-us",
+        "source": "Preposition lamed + 1cp suffix; KJV/ESV/NASB 'for us'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יַּ֖שְׁקְ",
+        "phrase": "and watered",
+        "literal": "and-he.watered",
+        "source": "H8248 (שָׁקָה, hiphil wayyiqtol 3ms) with conjunctive waw; KJV 'watered', ESV 'watered', NASB 'watered'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/צֹּֽאן",
+        "phrase": "the flock.",
+        "literal": "the-flock",
+        "source": "H6629 (צֹאן, noun common feminine singular absolute) with article; KJV/ESV/NASB 'the flock'"
+      }
+    ]
+  }
+]

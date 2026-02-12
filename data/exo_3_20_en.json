@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁלַחְתִּ֤י",
+        "phrase": "So I will stretch out",
+        "literal": "and-I-sent",
+        "source": "H7971 (שׁלח), HC/Vqq1cs (conjunctive/Qal-perfect-1cs, sequential future). KJV 'And I will stretch out', ESV 'So I will stretch out', NASB 'So I will stretch out'."
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 3,
+        "surface": "יָדִ/י֙",
+        "phrase": "My hand",
+        "literal": "hand-of-me",
+        "source": "H3027 (יָד), HNcbsc/Sp1cs (noun-common-both-singular-construct/suffix-1cs). KJV 'my hand', ESV 'my hand', NASB 'My hand'."
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִכֵּיתִ֣י",
+        "phrase": "and strike",
+        "literal": "and-I-struck",
+        "source": "H5221 (נכה), HC/Vhq1cs (conjunctive/Hiphil-perfect-1cs, sequential future). KJV 'and smite', ESV 'and strike', NASB 'and strike'."
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4713 (מִצְרַיִם), HNp (proper noun). KJV 'Egypt', ESV 'Egypt', NASB 'Egypt'."
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/כֹל֙",
+        "phrase": "with all",
+        "literal": "in-all-of",
+        "source": "H3605 (כֹּל), HR/Ncmsc (preposition-beth/noun-common-ms-construct). KJV 'with all', ESV 'with all', NASB 'with all'."
+      },
+      {
+        "position": 8,
+        "surface": "נִפְלְאֹתַ֔/י",
+        "phrase": "My wonders",
+        "literal": "wonders-of-me",
+        "source": "H6381 (פלא), HVNrfpc/Sp1cs (Niphal-participle-fp-construct/suffix-1cs). KJV 'my wonders', ESV 'the wonders', NASB 'My wonders'."
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834 (אֲשֶׁר), HTr (relative particle). KJV 'which', ESV 'that', NASB 'which'."
+      },
+      {
+        "position": 10,
+        "surface": "אֶֽעֱשֶׂ֖ה",
+        "phrase": "I will do",
+        "literal": "I-will-do",
+        "source": "H6213 (עשׂה), HVqi1cs (Qal-imperfect-1cs). KJV 'I will do', ESV 'I will do', NASB 'I shall do'."
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/קִרְבּ֑/וֹ",
+        "phrase": "in its midst",
+        "literal": "in-midst-of-it",
+        "source": "H7130 (קֶרֶב), HR/Ncmsc/Sp3ms (preposition-beth/noun-common-ms-construct/suffix-3ms). KJV 'in the midst thereof', ESV 'in it', NASB 'in the midst of it'."
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אַחֲרֵי",
+        "phrase": "and after",
+        "literal": "and-after",
+        "source": "H310 (אַחַר), HC/R (conjunctive/preposition). KJV 'and after', ESV 'After', NASB 'and after'."
+      },
+      {
+        "position": 13,
+        "surface": "כֵ֖ן",
+        "phrase": "that",
+        "literal": "so/thus",
+        "source": "H3651 (כֵּן), HD (adverb). KJV 'after that', ESV 'after that', NASB 'after that'."
+      },
+      {
+        "position": 14,
+        "surface": "יְשַׁלַּ֥ח",
+        "phrase": "he will let go",
+        "literal": "he-will-send-away",
+        "source": "H7971 (שׁלח), HVpi3ms (Piel-imperfect-3ms). KJV 'he will let you go', ESV 'he will let you go', NASB 'he will let you go'."
+      },
+      {
+        "position": 15,
+        "surface": "אֶתְ/כֶֽם",
+        "phrase": "you",
+        "literal": "[obj]-you(mp)",
+        "source": "H853 (אֵת), HTo/Sp2mp (direct object marker/suffix-2mp). KJV 'you', ESV 'you', NASB 'you'."
+      }
+    ]
+  }
+]

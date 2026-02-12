@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁמְע֖וּ",
+        "phrase": "And they will listen",
+        "literal": "and-they-listened",
+        "source": "H8085 (שׁמע), HC/Vqq3cp (conjunctive/Qal-perfect-3cp, sequential future). KJV 'And they shall hearken', ESV 'And they will listen', NASB 'They will pay heed'."
+      },
+      {
+        "position": 2,
+        "surface": "לְ/קֹלֶ֑/ךָ",
+        "phrase": "to your voice",
+        "literal": "to-voice-of-you(ms)",
+        "source": "H6963 (קוֹל), HR/Ncmsc/Sp2ms (preposition-lamed/noun-common-ms-construct/suffix-2ms). KJV 'to thy voice', ESV 'to your voice', NASB 'to what you say'."
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בָאתָ֡",
+        "phrase": "and you shall come",
+        "literal": "and-you(ms)-came",
+        "source": "H935 (בוא), HC/Vqq2ms (conjunctive/Qal-perfect-2ms, sequential future). KJV 'and thou shalt come', ESV 'and you…shall go', NASB 'and you…will come'."
+      },
+      {
+        "position": 4,
+        "surface": "אַתָּה֩",
+        "phrase": "you",
+        "literal": "you(ms)",
+        "source": "H859 (אַתָּה), HPp2ms (personal-pronoun-2ms). KJV 'thou', ESV 'you', NASB 'you'. Emphatic pronoun."
+      },
+      {
+        "position": 5,
+        "surface": "וְ/זִקְנֵ֨י",
+        "phrase": "and the elders of",
+        "literal": "and-elders-of",
+        "source": "H2205 (זָקֵן), HC/Aampc (conjunctive/adjective-mp-construct). KJV 'and the elders of', ESV 'and the elders of', NASB 'with the elders of'."
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֜ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל), HNp (proper noun). KJV, ESV, NASB all render 'Israel'."
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 8,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 (מֶלֶךְ), HNcmsc (noun-common-ms-construct). KJV 'the king of', ESV 'the king of', NASB 'the king of'."
+      },
+      {
+        "position": 9,
+        "surface": "מִצְרַ֗יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם), HNp (proper noun). KJV, ESV, NASB all render 'Egypt'."
+      },
+      {
+        "position": 10,
+        "surface": "וַ/אֲמַרְתֶּ֤ם",
+        "phrase": "and you shall say",
+        "literal": "and-you(mp)-said",
+        "source": "H559 (אמר), HC/Vqq2mp (conjunctive/Qal-perfect-2mp, sequential future). KJV 'and ye shall say', ESV 'and you shall say', NASB 'and you will say'."
+      },
+      {
+        "position": 11,
+        "surface": "אֵלָי/ו֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (אֶל), HR/Sp3ms (preposition/suffix-3ms). KJV 'unto him', ESV 'to him', NASB 'to him'."
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָ֞ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (יְהוָה), HNp (proper noun, the divine name). KJV 'The LORD', ESV 'The LORD', NASB 'The LORD'."
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'God of', ESV 'God of', NASB 'God of'."
+      },
+      {
+        "position": 14,
+        "surface": "הָֽ/עִבְרִיִּים֙",
+        "phrase": "the Hebrews",
+        "literal": "the-Hebrews",
+        "source": "H5680 (עִבְרִי), HTd/Ngmpa (article/gentilic-mp-absolute). KJV 'the Hebrews', ESV 'the Hebrews', NASB 'the Hebrews'."
+      },
+      {
+        "position": 15,
+        "surface": "נִקְרָ֣ה",
+        "phrase": "has met with",
+        "literal": "he-encountered",
+        "source": "H7136 (קרה), HVNp3ms (Niphal-perfect-3ms). KJV 'hath met with', ESV 'has met with', NASB 'has met with'. All agree."
+      },
+      {
+        "position": 16,
+        "surface": "עָלֵ֔י/נוּ",
+        "phrase": "us",
+        "literal": "upon-us",
+        "source": "H5921 (עַל), HR/Sp1cp (preposition/suffix-1cp). KJV 'us', ESV 'us', NASB 'us'."
+      },
+      {
+        "position": 17,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "H6258 (עַתָּה), HC/D (conjunctive/adverb). KJV 'and now', ESV 'and now', NASB 'so now'."
+      },
+      {
+        "position": 18,
+        "surface": "נֵֽלֲכָה",
+        "phrase": "let us go",
+        "literal": "let-us-go",
+        "source": "H3212 (הלך), HVqh1cp (Qal-cohortative-1cp). KJV 'let us go', ESV 'please let us go', NASB 'please let us go'."
+      },
+      {
+        "position": 19,
+        "surface": "נָּ֞א",
+        "phrase": "please",
+        "literal": "please/now",
+        "source": "H4994 (נָא), HTj (particle of entreaty). KJV 'we beseech thee', ESV 'please', NASB 'please'."
+      },
+      {
+        "position": 20,
+        "surface": "דֶּ֣רֶךְ",
+        "phrase": "a journey of",
+        "literal": "way-of",
+        "source": "H1870 (דֶּרֶךְ), HNcbsc (noun-common-both-singular-construct). KJV 'journey', ESV 'journey', NASB 'journey'."
+      },
+      {
+        "position": 21,
+        "surface": "שְׁלֹ֤שֶׁת",
+        "phrase": "three",
+        "literal": "three-of",
+        "source": "H7969 (שָׁלוֹשׁ), HAcmsc (adjective-cardinal-ms-construct). KJV 'three', ESV 'three', NASB 'three'. All agree."
+      },
+      {
+        "position": 22,
+        "surface": "יָמִים֙",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (יוֹם), HNcmpa (noun-common-mp-absolute). KJV 'days'', ESV 'days'', NASB 'days''. All agree."
+      },
+      {
+        "position": 23,
+        "surface": "בַּ/מִּדְבָּ֔ר",
+        "phrase": "into the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057 (מִדְבָּר), HRd/Ncmsa (preposition-beth-article/noun-common-ms-absolute). KJV 'into the wilderness', ESV 'into the wilderness', NASB 'into the wilderness'."
+      },
+      {
+        "position": 24,
+        "surface": "וְ/נִזְבְּחָ֖ה",
+        "phrase": "and let us sacrifice",
+        "literal": "and-let-us-sacrifice",
+        "source": "H2076 (זבח), HC/Vqh1cp (conjunctive/Qal-cohortative-1cp). KJV 'that we may sacrifice', ESV 'that we may sacrifice', NASB 'that we may sacrifice'."
+      },
+      {
+        "position": 25,
+        "surface": "לַֽ/יהוָ֥ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (יְהוָה), HR/Np (preposition-lamed/proper noun). KJV 'unto the LORD', ESV 'to the LORD', NASB 'to the LORD'."
+      },
+      {
+        "position": 26,
+        "surface": "אֱלֹהֵֽי/נוּ",
+        "phrase": "our God",
+        "literal": "God-of-us",
+        "source": "H430 (אֱלֹהִים), HNcmpc/Sp1cp (noun-common-mp-construct/suffix-1cp). KJV 'our God', ESV 'our God', NASB 'our God'."
+      }
+    ]
+  }
+]

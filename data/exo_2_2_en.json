@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּ֥הַר",
+        "phrase": "And conceived",
+        "literal": "and-she-conceived",
+        "source": "H2029 (הָרָה, 'to conceive'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'conceived', ESV 'conceived', NASB 'conceived' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אִשָּׁ֖ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "H802 (אִשָּׁה, 'woman/wife'), HTd/Ncfsa (article/noun-common-feminine-singular-absolute); KJV 'the woman', ESV 'The woman', NASB 'The woman'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "and bore",
+        "literal": "and-she-bore",
+        "source": "H3205 (יָלַד, 'to bear/give birth'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'bare', ESV 'bore', NASB 'gave birth to' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֑ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "H1121 (בֵּן, 'son'), HNcmsa (noun-common-masculine-singular-absolute); KJV/ESV/NASB all render 'a son'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תֵּ֤רֶא",
+        "phrase": "and she saw",
+        "literal": "and-she-saw",
+        "source": "H7200 (רָאָה, 'to see'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she saw', ESV 'she saw', NASB 'she saw' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "אֹת/וֹ֙",
+        "phrase": "him",
+        "literal": "[obj]-him",
+        "source": "H853 (אֵת), HTo/Sp3ms (object-marker/suffix-pronoun-3ms); KJV/ESV/NASB all render 'him'"
+      },
+      {
+        "position": 7,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (כִּי, 'that/because'), HC (conjunction); KJV 'that', ESV 'that', NASB 'that' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "ט֣וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "H2896 (טוֹב, 'good/beautiful'), HAamsa (adjective-masculine-singular-absolute); KJV 'goodly', ESV 'fine', NASB 'beautiful' — all convey 'beautiful/good'"
+      },
+      {
+        "position": 9,
+        "surface": "ה֔וּא",
+        "phrase": "he [was]",
+        "literal": "he",
+        "source": "H1931 (הוּא, 'he'), HPp3ms (pronoun-personal-3ms); KJV 'child', ESV 'child', NASB 'child' — functions as copula subject"
+      },
+      {
+        "position": 10,
+        "surface": "וַֽ/תִּצְפְּנֵ֖/הוּ",
+        "phrase": "and she hid him",
+        "literal": "and-she-hid-him",
+        "source": "H6845 (צָפַן, 'to hide/treasure up'), HC/Vqw3fs/Sp3ms (conjunctive/Qal-wayyiqtol-3fs/suffix-3ms); KJV 'she hid him', ESV 'she hid him', NASB 'she hid him' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁלֹשָׁ֥ה",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (שָׁלוֹשׁ, 'three'), HAcmsa (adjective-cardinal-masculine-singular-absolute); KJV/ESV/NASB all render 'three'"
+      },
+      {
+        "position": 12,
+        "surface": "יְרָחִֽים",
+        "phrase": "months",
+        "literal": "months",
+        "source": "H3391 (יֶרַח, 'month'), HNcmpa (noun-common-masculine-plural-absolute); KJV/ESV/NASB all render 'months'"
+      }
+    ]
+  }
+]

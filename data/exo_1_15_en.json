@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "And the king of Egypt spoke",
+        "literal": "and-he-said",
+        "source": "H559 Qal wayyiqtol 3ms; KJV 'And the king…spake', ESV 'Then the king…said', NASB 'Then the king…said' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 noun masc sg cstr; KJV/ESV/NASB all 'king of'"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper noun; KJV/ESV/NASB all 'Egypt'"
+      },
+      {
+        "position": 4,
+        "surface": "לַֽ/מְיַלְּדֹ֖ת",
+        "phrase": "to the midwives",
+        "literal": "to-the-ones-causing-birth",
+        "source": "H3205 prep+article + Piel participle fem pl abs 'to the midwives'; KJV/ESV/NASB all 'to the…midwives'"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/עִבְרִיֹּ֑ת",
+        "phrase": "of the Hebrews,",
+        "literal": "the-Hebrew-women",
+        "source": "H5680 article + gentillic noun fem pl abs; KJV 'Hebrew midwives', ESV 'Hebrew midwives', NASB 'Hebrew midwives' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "of whom",
+        "literal": "who",
+        "source": "H834 relative particle; KJV 'of which', ESV '(one…the other)', NASB '(one…the other)' — introduces identification"
+      },
+      {
+        "position": 7,
+        "surface": "שֵׁ֤ם",
+        "phrase": "the name of",
+        "literal": "name-of",
+        "source": "H8034 noun masc sg cstr; KJV 'the name of', ESV 'was named', NASB 'the name of' — KJV/NASB agree"
+      },
+      {
+        "position": 8,
+        "surface": "הָֽ/אַחַת֙",
+        "phrase": "the one",
+        "literal": "the-one",
+        "source": "H259 article + adjective fem sg abs; KJV 'the one', ESV 'one', NASB 'one' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁפְרָ֔ה",
+        "phrase": "was Shiphrah,",
+        "literal": "Shiphrah",
+        "source": "H8236 proper noun; KJV/ESV/NASB all 'Shiphrah'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "and the name of",
+        "literal": "and-name-of",
+        "source": "H8034 conj + noun masc sg cstr; KJV 'and the name of the other', ESV 'and the other', NASB 'and the other' — all convey the second name"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/שֵּׁנִ֖ית",
+        "phrase": "the other",
+        "literal": "the-second",
+        "source": "H8145 article + ordinal adj fem sg abs; KJV 'the other', ESV 'the other', NASB 'the other' — all agree"
+      },
+      {
+        "position": 12,
+        "surface": "פּוּעָֽה",
+        "phrase": "Puah.",
+        "literal": "Puah",
+        "source": "H6326 proper noun; KJV/ESV/NASB all 'Puah'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֤פֶן",
+        "phrase": "And he looked",
+        "literal": "and-he-turned",
+        "source": "H6437 (פָּנָה, 'to turn/look'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'he looked', ESV 'He looked', NASB 'he looked' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "כֹּה֙",
+        "phrase": "this way",
+        "literal": "thus/here",
+        "source": "H3541 (כֹּה, 'thus/here'), HD (adverb); KJV 'this way', ESV 'this way', NASB 'this way' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/כֹ֔ה",
+        "phrase": "and that way",
+        "literal": "and-thus/there",
+        "source": "H3541 (כֹּה, 'thus/there'), HC/D (conjunctive/adverb); KJV 'and that way', ESV 'and that', NASB 'and that way' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּ֖רְא",
+        "phrase": "and saw",
+        "literal": "and-he-saw",
+        "source": "H7200 (רָאָה, 'to see'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'he saw', ESV 'seeing', NASB 'he saw' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (כִּי, 'that/because'), HC (conjunction); KJV 'that', ESV 'that', NASB 'that' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֣ין",
+        "phrase": "there was no",
+        "literal": "there-is-not",
+        "source": "H369 (אַיִן, 'nothing/there is not'), HTn (particle of negation); KJV 'there was no', ESV 'there was no one', NASB 'there was no one' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "אִ֑ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (אִישׁ, 'man'), HNcmsa (noun-common-masculine-singular-absolute); KJV 'no man', ESV 'no one', NASB 'no one' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּךְ֙",
+        "phrase": "and he struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (נָכָה, 'to strike/smite'), HC/Vhw3ms (conjunctive/Hiphil-wayyiqtol-3ms); KJV 'he slew', ESV 'he struck down', NASB 'he struck down' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (particle-direct-object-marker); untranslated in English"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מִּצְרִ֔י",
+        "phrase": "the Egyptian",
+        "literal": "the-Egyptian",
+        "source": "H4713 (מִצְרִי, 'Egyptian'), HTd/Ngmsa (article/gentilic-noun-masculine-singular-absolute); KJV 'the Egyptian', ESV 'the Egyptian', NASB 'the Egyptian' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "וַֽ/יִּטְמְנֵ֖/הוּ",
+        "phrase": "and hid him",
+        "literal": "and-he-hid-him",
+        "source": "H2934 (טָמַן, 'to hide/bury'), HC/Vqw3ms/Sp3ms (conjunctive/Qal-wayyiqtol-3ms/suffix-3ms); KJV 'hid him', ESV 'hid him', NASB 'hid him' — all agree"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/חֽוֹל",
+        "phrase": "in the sand",
+        "literal": "in-the-sand",
+        "source": "H2344 (חוֹל, 'sand'), HRd/Ncmsa (preposition-with-article/noun-common-masculine-singular-absolute); KJV 'in the sand', ESV 'in the sand', NASB 'in the sand' — all agree"
+      }
+    ]
+  }
+]

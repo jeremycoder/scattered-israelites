@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּבֹ֕אנָה",
+        "phrase": "And they came",
+        "literal": "and-they(f).came",
+        "source": "H935 (בּוֹא, qal wayyiqtol 3fp) with conjunctive waw; KJV/ESV/NASB 'they came'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (אֶל, preposition); KJV/ESV/NASB 'to'"
+      },
+      {
+        "position": 3,
+        "surface": "רְעוּאֵ֖ל",
+        "phrase": "Reuel",
+        "literal": "Reuel",
+        "source": "H7467 (רְעוּאֵל, proper noun); KJV/ESV/NASB 'Reuel'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִי/הֶ֑ן",
+        "phrase": "their father,",
+        "literal": "father.of-them(f)",
+        "source": "H1 (אָב, noun common masculine singular construct + 3fp suffix); KJV/ESV/NASB 'their father'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and he said,",
+        "literal": "and-he.said",
+        "source": "H559 (אָמַר, qal wayyiqtol 3ms) with conjunctive waw; KJV/ESV/NASB 'he said'"
+      },
+      {
+        "position": 6,
+        "surface": "מַדּ֛וּעַ",
+        "phrase": "Why",
+        "literal": "why",
+        "source": "H4069 (מַדּוּעַ, interrogative); KJV 'how is it that', ESV 'how is it that', NASB 'why'"
+      },
+      {
+        "position": 7,
+        "surface": "מִהַרְתֶּ֥ן",
+        "phrase": "have you come so quickly",
+        "literal": "you(fp).hurried",
+        "source": "H4116 (מָהַר, piel perfect 2fp); KJV 'are ye come so soon', ESV 'have you come so quickly', NASB 'have you come back so soon'"
+      },
+      {
+        "position": 8,
+        "surface": "בֹּ֖א",
+        "phrase": "to come",
+        "literal": "to.come",
+        "source": "H935 (בּוֹא, qal infinitive construct); KJV/ESV/NASB implied 'today' follows"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today?",
+        "literal": "the-day",
+        "source": "H3117 (יוֹם, noun common masculine singular absolute) with article; KJV/ESV/NASB 'today'"
+      }
+    ]
+  }
+]

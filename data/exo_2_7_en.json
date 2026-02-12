@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-she-said",
+        "source": "H559 (אָמַר, 'to say'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'Then said', ESV 'Then said', NASB 'Then said' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחֹת/וֹ֮",
+        "phrase": "his sister",
+        "literal": "sister-his",
+        "source": "H269 (אָחוֹת, 'sister'), HNcfsc/Sp3ms (noun-common-feminine-singular-construct/suffix-3ms); KJV 'his sister', ESV 'his sister', NASB 'his sister' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל, 'to/unto'), HR (preposition); KJV/ESV/NASB all render 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "בַּת",
+        "phrase": "the daughter of",
+        "literal": "daughter-of",
+        "source": "H1323 (בַּת, 'daughter'), HNcfsc (noun-common-feminine-singular-construct); KJV/ESV/NASB all render 'Pharaoh's daughter'"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹה֒",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), HNp (proper-noun); KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/אֵלֵ֗ךְ",
+        "phrase": "Shall I go",
+        "literal": "shall-I-go",
+        "source": "H3212 (הָלַךְ, 'to go/walk'), HTi/Vqi1cs (interrogative-he/Qal-imperfect-1cs); KJV 'Shall I go', ESV 'Shall I go', NASB 'Shall I go' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קָרָ֤אתִי",
+        "phrase": "and call",
+        "literal": "and-I-will-call",
+        "source": "H7121 (קָרָא, 'to call'), HC/Vqq1cs (conjunctive/Qal-perfect-1cs [with waw-consecutive = future sense]); KJV 'and call', ESV 'and call', NASB 'and call' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/ךְ֙",
+        "phrase": "for you",
+        "literal": "for-you(fs)",
+        "source": "Preposition lamed + suffix 2fs, HR/Sp2fs; KJV 'to thee', ESV 'for you', NASB 'for you' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "אִשָּׁ֣ה",
+        "phrase": "a woman",
+        "literal": "woman",
+        "source": "H802 (אִשָּׁה, 'woman'), HNcfsa (noun-common-feminine-singular-absolute); KJV 'a nurse', ESV 'a woman', NASB 'a woman' — ESV/NASB keep 'woman' with 'nurse' as modifier"
+      },
+      {
+        "position": 10,
+        "surface": "מֵינֶ֔קֶת",
+        "phrase": "a nursing-woman",
+        "literal": "nursing-woman",
+        "source": "H3243 (יָנַק, 'to suck/nurse'), HNcfsa (noun-common-feminine-singular-absolute, participle used as noun); KJV 'a nurse', ESV 'a nursing woman', NASB 'a nursing woman' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "מִ֖ן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (מִן, 'from/out of'), HR (preposition); KJV 'of', ESV 'from', NASB 'from' — all agree"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/עִבְרִיֹּ֑ת",
+        "phrase": "the Hebrew women",
+        "literal": "the-Hebrew-women",
+        "source": "H5680 (עִבְרִי, 'Hebrew'), HTd/Ngfpa (article/gentilic-feminine-plural-absolute); KJV 'the Hebrew women', ESV 'the Hebrew women', NASB 'the Hebrew women' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/תֵינִ֥ק",
+        "phrase": "that she may nurse",
+        "literal": "and-she-will-nurse",
+        "source": "H3243 (יָנַק, 'to suck/nurse'), HC/Vhi3fs (conjunctive/Hiphil-imperfect-3fs); KJV 'nurse', ESV 'nurse', NASB 'nurse' — all agree"
+      },
+      {
+        "position": 14,
+        "surface": "לָ֖/ךְ",
+        "phrase": "for you",
+        "literal": "for-you(fs)",
+        "source": "Preposition lamed + suffix 2fs, HR/Sp2fs; KJV 'for thee', ESV 'for you', NASB 'for you' — all agree"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (particle-direct-object-marker); untranslated in English"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/יָּֽלֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "H3206 (יֶלֶד, 'child/boy'), HTd/Ncmsa (article/noun-common-masculine-singular-absolute); KJV 'the child', ESV 'the child', NASB 'the child' — all agree"
+      }
+    ]
+  }
+]

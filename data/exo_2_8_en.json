@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּֽאמֶר",
+        "phrase": "And said",
+        "literal": "and-she-said",
+        "source": "H559 (אָמַר, 'to say'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'said', ESV 'said', NASB 'said' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "לָ֥/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "Preposition lamed + suffix 3fs, HR/Sp3fs; KJV 'to her', ESV 'to her', NASB 'to her' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "בַּת",
+        "phrase": "the daughter of",
+        "literal": "daughter-of",
+        "source": "H1323 (בַּת, 'daughter'), HNcfsc (noun-common-feminine-singular-construct); KJV/ESV/NASB all render 'Pharaoh's daughter'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), HNp (proper-noun); KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ֑כִי",
+        "phrase": "Go",
+        "literal": "go!(fs)",
+        "source": "H3212 (הָלַךְ, 'to go/walk'), HVqv2fs (Qal-imperative-2fs); KJV 'Go', ESV 'Go', NASB 'Go ahead' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תֵּ֨לֶךְ֙",
+        "phrase": "So went",
+        "literal": "and-she-went",
+        "source": "H3212 (הָלַךְ, 'to go/walk'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'the maid went', ESV 'the girl went', NASB 'the girl went' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/עַלְמָ֔ה",
+        "phrase": "the young woman",
+        "literal": "the-maiden/young-woman",
+        "source": "H5959 (עַלְמָה, 'young woman/maiden'), HTd/Ncfsa (article/noun-common-feminine-singular-absolute); same word as Isaiah 7:14; KJV 'the maid', ESV 'the girl', NASB 'the girl' — here all agree it refers to Miriam as a young woman"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/תִּקְרָ֖א",
+        "phrase": "and called",
+        "literal": "and-she-called",
+        "source": "H7121 (קָרָא, 'to call'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'called', ESV 'called', NASB 'called' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (particle-direct-object-marker); untranslated in English"
+      },
+      {
+        "position": 10,
+        "surface": "אֵ֥ם",
+        "phrase": "the mother of",
+        "literal": "mother-of",
+        "source": "H517 (אֵם, 'mother'), HNcfsc (noun-common-feminine-singular-construct); KJV 'the child's mother', ESV 'the child's mother', NASB 'the child's mother' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יָּֽלֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "H3206 (יֶלֶד, 'child/boy'), HTd/Ncmsa (article/noun-common-masculine-singular-absolute); KJV/ESV/NASB all render 'the child'"
+      }
+    ]
+  }
+]

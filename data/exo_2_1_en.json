@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "And went",
+        "literal": "and-he-went",
+        "source": "H3212 (הָלַךְ, 'to go/walk'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'And there went', ESV 'Now a man … went', NASB 'Now a man … went' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֖ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (אִישׁ, 'man'), HNcmsa (noun-common-masculine-singular-absolute); KJV/ESV/NASB all render 'a man'"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/בֵּ֣ית",
+        "phrase": "from the house of",
+        "literal": "from-house-of",
+        "source": "H1004 (בַּיִת, 'house'), HR/Ncmsc (preposition-min/noun-common-masculine-singular-construct); KJV 'of the house of', ESV 'from the house of', NASB 'from the house of'"
+      },
+      {
+        "position": 4,
+        "surface": "לֵוִ֑י",
+        "phrase": "Levi",
+        "literal": "Levi",
+        "source": "H3878 (לֵוִי, 'Levi'), HNp (proper-noun); KJV/ESV/NASB all render 'Levi'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקַּ֖ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947 (לָקַח, 'to take'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'and took', ESV 'and took as his wife', NASB 'and married' — all convey marriage"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (particle-direct-object-marker); untranslated in English"
+      },
+      {
+        "position": 7,
+        "surface": "בַּת",
+        "phrase": "a daughter of",
+        "literal": "daughter-of",
+        "source": "H1323 (בַּת, 'daughter'), HNcfsc (noun-common-feminine-singular-construct); KJV 'a daughter of', ESV 'a Levite woman', NASB 'a daughter of' — KJV/NASB literal, ESV paraphrases"
+      },
+      {
+        "position": 8,
+        "surface": "לֵוִֽי",
+        "phrase": "Levi",
+        "literal": "Levi",
+        "source": "H3878 (לֵוִי, 'Levi'), HNp (proper-noun); KJV/ESV/NASB all render 'Levi'"
+      }
+    ]
+  }
+]

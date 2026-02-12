@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (conjunction + noun common masculine plural construct); KJV 'the children of', ESV/NASB 'the people of'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֗ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (proper noun); KJV/ESV/NASB 'Israel'"
+      },
+      {
+        "position": 3,
+        "surface": "פָּר֧וּ",
+        "phrase": "were fruitful",
+        "literal": "they-were-fruitful",
+        "source": "H6509 (Qal perfect 3rd common plural); KJV/ESV/NASB 'were fruitful'"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יִּשְׁרְצ֛וּ",
+        "phrase": "and increased abundantly",
+        "literal": "and-they-swarmed",
+        "source": "H8317 (conjunction + Qal wayyiqtol 3mp); KJV 'increased abundantly', ESV 'swarmed', NASB 'and swarmed'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּרְבּ֥וּ",
+        "phrase": "and multiplied",
+        "literal": "and-they-multiplied",
+        "source": "H7235 (conjunction + Qal wayyiqtol 3mp); KJV/ESV/NASB 'multiplied'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּֽעַצְמ֖וּ",
+        "phrase": "and grew exceedingly strong,",
+        "literal": "and-they-grew-strong",
+        "source": "H6105 (conjunction + Qal wayyiqtol 3mp); KJV 'waxed exceeding mighty', ESV/NASB 'grew exceedingly strong'"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/מְאֹ֣ד",
+        "phrase": "very",
+        "literal": "in-exceeding",
+        "source": "H3966 (preposition + adverb); part of the doubled 'very very' intensifier"
+      },
+      {
+        "position": 8,
+        "surface": "מְאֹ֑ד",
+        "phrase": "much,",
+        "literal": "exceedingly",
+        "source": "H3966 (adverb); doubled for emphasis; KJV 'exceeding mighty', ESV/NASB 'exceedingly strong'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תִּמָּלֵ֥א",
+        "phrase": "so that was filled",
+        "literal": "and-it-was-filled",
+        "source": "H4390 (conjunction + Niphal wayyiqtol 3fs); KJV/ESV/NASB 'was filled'"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 (article + noun common both singular absolute); KJV/ESV/NASB 'the land'"
+      },
+      {
+        "position": 11,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "with them.",
+        "literal": "with-them",
+        "source": "H853 (object marker + 3mp suffix); KJV/ESV/NASB 'with them'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "And he said,",
+        "literal": "and-he-said",
+        "source": "H559 Qal wayyiqtol 3ms; KJV 'And he said', ESV 'he said', NASB 'he said' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/יַלֶּדְ/כֶן֙",
+        "phrase": "When you serve as midwife",
+        "literal": "in-causing-birth-of-you(fp)",
+        "source": "H3205 prep + Piel inf cstr + 2fp suffix; KJV 'When ye do the office of a midwife', ESV 'When you serve as midwife', NASB 'When you are helping the Hebrew women to give birth' — all agree on midwifery"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[obj]",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/עִבְרִיּ֔וֹת",
+        "phrase": "to the Hebrew women",
+        "literal": "the-Hebrew-women",
+        "source": "H5680 article + gentillic noun fem pl abs; KJV 'the Hebrew women', ESV 'the Hebrew women', NASB 'the Hebrew women' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/רְאִיתֶ֖ן",
+        "phrase": "and look",
+        "literal": "and-you(fp)-see",
+        "source": "H7200 conj + Qal perf 2fp; KJV 'and see them', ESV 'and see them', NASB 'and see them' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 preposition; KJV 'upon', ESV 'on', NASB 'on' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אָבְנָ֑יִם",
+        "phrase": "the birthstool,",
+        "literal": "the-two-stones",
+        "source": "H70 article + noun masc dual abs 'the two stones (of the birthstool)'; KJV 'upon the stools' (DIVERGENT), ESV 'on the birthstool', NASB 'on the birthstool' — ESV/NASB agree; KJV diverges with plural 'stools'"
+      },
+      {
+        "position": 8,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 conjunction; KJV 'if', ESV 'if', NASB 'if' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֥ן",
+        "phrase": "it is a son,",
+        "literal": "son",
+        "source": "H1121 noun masc sg abs; KJV 'it be a son', ESV 'it is a son', NASB 'it is a son' — all agree"
+      },
+      {
+        "position": 10,
+        "surface": "הוּא֙",
+        "phrase": "it is,",
+        "literal": "he",
+        "source": "H1931 personal pronoun 3ms; KJV omits, ESV omits, NASB omits — copular pronoun, absorbed into English 'it is'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/הֲמִתֶּ֣ן",
+        "phrase": "then you shall kill",
+        "literal": "and-you(fp)-shall-kill",
+        "source": "H4191 conj + Hiphil perf 2fp; KJV 'then ye shall kill', ESV 'you shall kill', NASB 'then you shall put…to death' — all agree on killing"
+      },
+      {
+        "position": 12,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "him;",
+        "literal": "[obj]-him",
+        "source": "H853 direct object marker + 3ms suffix; KJV 'him', ESV 'him', NASB 'him' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אִם",
+        "phrase": "but if",
+        "literal": "and-if",
+        "source": "H518 conj + conjunction; KJV 'but if', ESV 'but if', NASB 'but if' — all agree"
+      },
+      {
+        "position": 14,
+        "surface": "בַּ֥ת",
+        "phrase": "it is a daughter,",
+        "literal": "daughter",
+        "source": "H1323 noun fem sg abs; KJV 'it be a daughter', ESV 'it is a daughter', NASB 'it is a daughter' — all agree"
+      },
+      {
+        "position": 15,
+        "surface": "הִ֖יא",
+        "phrase": "it is,",
+        "literal": "she",
+        "source": "H1931 personal pronoun 3fs; copular pronoun; KJV omits, ESV omits, NASB omits — absorbed into English"
+      },
+      {
+        "position": 16,
+        "surface": "וָ/חָֽיָה",
+        "phrase": "then she shall live.",
+        "literal": "and-she-shall-live",
+        "source": "H2425 conj + Qal perf 3fs; KJV 'then she shall live', ESV 'she shall live', NASB 'let her live' — all agree"
+      }
+    ]
+  }
+]

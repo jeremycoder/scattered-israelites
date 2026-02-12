@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 ('amar, waw-consecutive Qal wayyiqtol 3ms) 'to say'; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH,",
+        "literal": "YHWH",
+        "source": "H3068 (YHWH, proper noun) the divine name; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "רָאֹ֥ה",
+        "phrase": "\"I have surely",
+        "literal": "seeing",
+        "source": "H7200 (ra'ah, Qal infinitive absolute) 'to see'; emphatic infinitive absolute preceding finite verb; KJV 'I have surely', ESV 'I have surely', NASB 'I have certainly'"
+      },
+      {
+        "position": 4,
+        "surface": "רָאִ֛יתִי",
+        "phrase": "seen",
+        "literal": "I-saw",
+        "source": "H7200 (ra'ah, Qal perfect 1cs) 'to see'; infinitive absolute + finite verb = emphatic 'I have surely seen'; KJV/ESV 'seen', NASB 'seen'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[obj.]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 ('et, direct object marker); untranslated in English"
+      },
+      {
+        "position": 6,
+        "surface": "עֳנִ֥י",
+        "phrase": "the affliction of",
+        "literal": "affliction-of",
+        "source": "H6040 ('oni, noun common ms construct) 'affliction/misery'; KJV/ESV/NASB 'the affliction of'"
+      },
+      {
+        "position": 7,
+        "surface": "עַמִּ֖/י",
+        "phrase": "My people",
+        "literal": "people-of-Me",
+        "source": "H5971 ('am, noun common ms construct + 1cs suffix) 'my people'; KJV/ESV/NASB 'my people'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who are",
+        "literal": "who",
+        "source": "H834 ('asher, relative particle) 'who/which'; KJV 'which are', ESV 'who are', NASB 'who are'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/מִצְרָ֑יִם",
+        "phrase": "in Egypt,",
+        "literal": "in-Egypt",
+        "source": "H4714 (Mitsrayim, proper noun with preposition beth) 'in Egypt'; KJV/ESV/NASB 'in Egypt'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and [obj.]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 ('et, direct object marker with conjunctive waw); untranslated in English"
+      },
+      {
+        "position": 11,
+        "surface": "צַעֲקָתָ֤/ם",
+        "phrase": "their cry",
+        "literal": "cry-of-them",
+        "source": "H6818 (tsa'aqah, noun common fs construct + 3mp suffix) 'cry/outcry'; KJV 'their cry', ESV 'their cry', NASB 'their cry'"
+      },
+      {
+        "position": 12,
+        "surface": "שָׁמַ֨עְתִּי֙",
+        "phrase": "I have heard",
+        "literal": "I-heard",
+        "source": "H8085 (shama', Qal perfect 1cs) 'to hear'; KJV/ESV/NASB 'I have heard'"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/פְּנֵ֣י",
+        "phrase": "because of",
+        "literal": "from-face-of",
+        "source": "H6440 (panim, noun common both plural construct with preposition min) 'because of/on account of'; KJV 'by reason of', ESV 'because of', NASB 'because of'"
+      },
+      {
+        "position": 14,
+        "surface": "נֹֽגְשָׂ֔י/ו",
+        "phrase": "their taskmasters,",
+        "literal": "oppressors-of-him",
+        "source": "H5065 (nagas, Qal active participle mp construct + 3ms suffix) 'taskmasters/oppressors'; KJV 'taskmasters', ESV 'taskmasters', NASB 'taskmasters'"
+      },
+      {
+        "position": 15,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (ki, conjunction) 'for/because'; KJV/ESV/NASB 'for'"
+      },
+      {
+        "position": 16,
+        "surface": "יָדַ֖עְתִּי",
+        "phrase": "I know",
+        "literal": "I-know",
+        "source": "H3045 (yada', Qal perfect 1cs) 'to know'; KJV/ESV/NASB 'I know'"
+      },
+      {
+        "position": 17,
+        "surface": "אֶת",
+        "phrase": "[obj.]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 ('et, direct object marker); untranslated in English"
+      },
+      {
+        "position": 18,
+        "surface": "מַכְאֹבָֽי/ו",
+        "phrase": "their sufferings.",
+        "literal": "pains-of-him",
+        "source": "H4341 (mak'ob, noun common mp construct + 3ms suffix) 'pain/suffering'; KJV 'their sorrows', ESV 'their sufferings', NASB 'their sufferings'"
+      }
+    ]
+  }
+]

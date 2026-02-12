@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And He said,",
+        "literal": "and-he-said",
+        "source": "H559 ('amar, waw-consecutive Qal wayyiqtol 3ms) 'to say'; KJV/ESV/NASB 'And He said'"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "\"Do not",
+        "literal": "not",
+        "source": "H408 ('al, negative particle of prohibition) 'do not'; KJV 'Draw not', ESV 'Do not', NASB 'Do not'"
+      },
+      {
+        "position": 3,
+        "surface": "תִּקְרַ֣ב",
+        "phrase": "come near",
+        "literal": "come-near",
+        "source": "H7126 (qarab, Qal jussive 2ms) 'to come near/approach'; KJV 'nigh hither', ESV 'come near', NASB 'come near'"
+      },
+      {
+        "position": 4,
+        "surface": "הֲלֹ֑ם",
+        "phrase": "here.",
+        "literal": "hither",
+        "source": "H1988 (halom, adverb) 'here/hither'; KJV 'hither', ESV 'here', NASB 'here'"
+      },
+      {
+        "position": 5,
+        "surface": "שַׁל",
+        "phrase": "Take off",
+        "literal": "remove",
+        "source": "H5394 (shal, Qal imperative 2ms) 'to take off/remove (sandals)'; KJV 'put off', ESV 'take off', NASB 'remove'"
+      },
+      {
+        "position": 6,
+        "surface": "נְעָלֶ֨י/ךָ֙",
+        "phrase": "your sandals",
+        "literal": "sandals-of-you",
+        "source": "H5275 (na'al, noun common fp construct + 2ms suffix) 'sandals/shoes'; KJV 'thy shoes', ESV 'your sandals', NASB 'your sandals'"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/עַ֣ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "H5921 ('al, preposition with preposition min) 'from upon/off of'; KJV 'off', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 8,
+        "surface": "רַגְלֶ֔י/ךָ",
+        "phrase": "your feet,",
+        "literal": "feet-of-you",
+        "source": "H7272 (regel, noun common fd construct + 2ms suffix) 'feet'; KJV/ESV/NASB 'your feet'"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (ki, conjunction) 'for/because'; KJV/ESV/NASB 'for'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מָּק֗וֹם",
+        "phrase": "the place",
+        "literal": "the-place",
+        "source": "H4725 (maqom, noun common ms absolute with definite article) 'place'; KJV/ESV/NASB 'the place'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "on which",
+        "literal": "which",
+        "source": "H834 ('asher, relative particle) 'which/where'; KJV 'whereon', ESV 'on which', NASB 'on which'"
+      },
+      {
+        "position": 12,
+        "surface": "אַתָּה֙",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 ('attah, personal pronoun 2ms) 'you'; KJV 'thou', ESV/NASB 'you'"
+      },
+      {
+        "position": 13,
+        "surface": "עוֹמֵ֣ד",
+        "phrase": "are standing",
+        "literal": "standing",
+        "source": "H5975 ('amad, Qal active participle ms absolute) 'to stand'; KJV 'standest', ESV 'are standing', NASB 'are standing'"
+      },
+      {
+        "position": 14,
+        "surface": "עָלָ֔י/ו",
+        "phrase": "on",
+        "literal": "upon-it",
+        "source": "H5921 ('al, preposition + 3ms suffix) 'on it/upon it'; KJV 'on', ESV/NASB 'on'"
+      },
+      {
+        "position": 15,
+        "surface": "אַדְמַת",
+        "phrase": "is ground of",
+        "literal": "ground-of",
+        "source": "H127 ('adamah, noun common fs construct) 'ground/soil'; KJV/ESV/NASB 'ground'"
+      },
+      {
+        "position": 16,
+        "surface": "קֹ֖דֶשׁ",
+        "phrase": "holiness",
+        "literal": "holiness",
+        "source": "H6944 (qodesh, noun common ms absolute) 'holiness/sacredness'; KJV/ESV/NASB 'holy'"
+      },
+      {
+        "position": 17,
+        "surface": "הֽוּא",
+        "phrase": "it is.\"",
+        "literal": "it",
+        "source": "H1931 (hu', personal pronoun 3ms) 'it/he'; KJV 'is', ESV/NASB 'is' (implied copula)"
+      }
+    ]
+  }
+]

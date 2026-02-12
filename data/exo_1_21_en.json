@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass,",
+        "literal": "and-it-was",
+        "source": "H1961 Qal wayyiqtol 3ms; KJV 'And it came to pass', ESV 'And', NASB 'Because' — KJV most literal; ESV/NASB restructure"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "H3588 conjunction; KJV 'because', ESV 'because', NASB 'because' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "יָֽרְא֥וּ",
+        "phrase": "feared",
+        "literal": "they-feared",
+        "source": "H3372 Qal perf 3cp; KJV 'feared', ESV 'feared', NASB 'feared' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/מְיַלְּדֹ֖ת",
+        "phrase": "the midwives",
+        "literal": "the-ones-causing-birth",
+        "source": "H3205 article + Piel participle fem pl abs; KJV/ESV/NASB all 'the midwives'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[obj]",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֱלֹהִ֑ים",
+        "phrase": "God,",
+        "literal": "the-God",
+        "source": "H430 article + noun masc pl abs (majestic plural); KJV/ESV/NASB all 'God'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "that He made",
+        "literal": "and-he-made",
+        "source": "H6213 Qal wayyiqtol 3ms; KJV 'that he made', ESV 'he gave', NASB 'He established' — all agree God acted on their behalf"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "them",
+        "literal": "to-them",
+        "source": "Prep + 3mp suffix (no Strong's); KJV 'them', ESV 'them', NASB 'them' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "בָּתִּֽים",
+        "phrase": "households.",
+        "literal": "houses",
+        "source": "H1004 noun masc pl abs 'houses, households'; KJV 'houses', ESV 'families', NASB 'households' — ESV/NASB interpret as 'families/households'; KJV uses literal 'houses'"
+      }
+    ]
+  }
+]

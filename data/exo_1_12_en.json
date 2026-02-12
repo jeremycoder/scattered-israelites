@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כַ/אֲשֶׁר֙",
+        "phrase": "But the more",
+        "literal": "and-as-that",
+        "source": "H834 conj+prep+relative particle; KJV 'And the more', ESV 'But the more', NASB 'But the more' — all agree on comparative sense"
+      },
+      {
+        "position": 2,
+        "surface": "יְעַנּ֣וּ",
+        "phrase": "they afflicted",
+        "literal": "they-afflicted",
+        "source": "H6031 Piel impf 3mp; KJV 'they afflicted them', ESV 'they were oppressed', NASB 'they afflicted them' — KJV/NASB agree on 'afflict', ESV uses 'oppress'"
+      },
+      {
+        "position": 3,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "them,",
+        "literal": "[obj]-him",
+        "source": "H853 direct object marker + 3ms suffix (collective referent); KJV/ESV/NASB all render as 'them' (referring to Israel collectively)"
+      },
+      {
+        "position": 4,
+        "surface": "כֵּ֥ן",
+        "phrase": "the more",
+        "literal": "thus",
+        "source": "H3651 adverb 'so, thus'; paired with כַּאֲשֶׁר to form 'the more…the more'; KJV/ESV/NASB all agree"
+      },
+      {
+        "position": 5,
+        "surface": "יִרְבֶּ֖ה",
+        "phrase": "they multiplied",
+        "literal": "he-multiplied",
+        "source": "H7235 Qal impf 3ms (collective subject); KJV 'they multiplied', ESV 'they multiplied', NASB 'they multiplied' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/כֵ֣ן",
+        "phrase": "and the more",
+        "literal": "and-thus",
+        "source": "H3651 conj + adverb; KJV 'and grew', ESV 'and the more they spread abroad', NASB 'and the more they spread out' — continues comparative"
+      },
+      {
+        "position": 7,
+        "surface": "יִפְרֹ֑ץ",
+        "phrase": "they spread abroad.",
+        "literal": "he-spread-out",
+        "source": "H6555 Qal impf 3ms (collective); KJV 'grew', ESV 'spread abroad', NASB 'spread out' — slight variation but same sense"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּקֻ֕צוּ",
+        "phrase": "So they were in dread",
+        "literal": "and-they-dreaded",
+        "source": "H6973 Qal wayyiqtol 3mp; KJV 'they were grieved', ESV 'they were in dread', NASB 'they were in dread' — ESV/NASB agree; KJV diverges with 'grieved'"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/פְּנֵ֖י",
+        "phrase": "because of",
+        "literal": "from-face-of",
+        "source": "H6440 prep + noun cstr pl 'from the face of'; KJV 'because of', ESV 'of', NASB 'because of' — KJV/NASB agree"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵ֥י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 noun masc pl cstr; KJV 'the children of', ESV 'the people of', NASB 'the sons of' — all convey same meaning"
+      },
+      {
+        "position": 11,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel.",
+        "literal": "Israel",
+        "source": "H3478 proper noun; KJV/ESV/NASB all 'Israel'"
+      }
+    ]
+  }
+]

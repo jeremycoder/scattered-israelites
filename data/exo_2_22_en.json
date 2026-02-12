@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "And she bore",
+        "literal": "and-she.bore",
+        "source": "H3205 (יָלַד, qal wayyiqtol 3fs) with conjunctive waw; KJV 'bare', ESV 'gave birth to', NASB 'gave birth to'"
+      },
+      {
+        "position": 2,
+        "surface": "בֵּ֔ן",
+        "phrase": "a son,",
+        "literal": "a.son",
+        "source": "H1121 (בֵּן, noun common masculine singular absolute); KJV/ESV/NASB 'a son'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he.called",
+        "source": "H7121 (קָרָא, qal wayyiqtol 3ms) with conjunctive waw; KJV 'called', ESV 'called', NASB 'named'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name.of-him",
+        "source": "H8034 (שֵׁם, noun common masculine singular construct + 3ms suffix); KJV/ESV/NASB 'his name'"
+      },
+      {
+        "position": 6,
+        "surface": "גֵּרְשֹׁ֑ם",
+        "phrase": "Gershom,",
+        "literal": "Gershom",
+        "source": "H1647 (גֵּרְשֹׁם, proper noun); from גֵּר 'sojourner'; KJV/ESV/NASB 'Gershom'"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "because",
+        "source": "H3588 (כִּי, conjunction); KJV/ESV/NASB 'for'"
+      },
+      {
+        "position": 8,
+        "surface": "אָמַ֔ר",
+        "phrase": "he said,",
+        "literal": "he.said",
+        "source": "H559 (אָמַר, qal perfect 3ms); KJV 'he said', ESV 'he said', NASB 'he said'"
+      },
+      {
+        "position": 9,
+        "surface": "גֵּ֣ר",
+        "phrase": "A sojourner",
+        "literal": "a.sojourner",
+        "source": "H1616 (גֵּר, noun common masculine singular absolute); KJV 'a stranger', ESV 'a sojourner', NASB 'a sojourner'"
+      },
+      {
+        "position": 10,
+        "surface": "הָיִ֔יתִי",
+        "phrase": "I have been",
+        "literal": "I.have.been",
+        "source": "H1961 (הָיָה, qal perfect 1cs); KJV 'I have been', ESV 'I have been', NASB 'I have been'"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/אֶ֖רֶץ",
+        "phrase": "in a land",
+        "literal": "in-a.land",
+        "source": "H776 (אֶרֶץ, noun common feminine singular absolute) with preposition beth; KJV/ESV/NASB 'in a foreign land'"
+      },
+      {
+        "position": 12,
+        "surface": "נָכְרִיָּֽה",
+        "phrase": "foreign.",
+        "literal": "foreign",
+        "source": "H5237 (נָכְרִי, adjective feminine singular absolute); KJV 'a strange land', ESV 'a foreign land', NASB 'a foreign land'"
+      }
+    ]
+  }
+]

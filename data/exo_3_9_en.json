@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֕ה",
+        "phrase": "And now,",
+        "literal": "and-now",
+        "source": "H6258 ('attah, adverb with conjunctive waw) 'now'; KJV 'Now therefore', ESV 'And now', NASB 'Now'"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּ֛ה",
+        "phrase": "behold,",
+        "literal": "behold",
+        "source": "H2009 (hinneh, demonstrative particle) 'behold/look'; KJV 'behold', ESV 'behold', NASB 'behold'"
+      },
+      {
+        "position": 3,
+        "surface": "צַעֲקַ֥ת",
+        "phrase": "the cry of",
+        "literal": "cry-of",
+        "source": "H6818 (tsa'aqah, noun common fs construct) 'cry/outcry'; KJV/ESV/NASB 'the cry of'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 (ben, noun common mp construct) 'sons/children'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (Yisra'el, proper noun) 'Israel'; KJV/ESV/NASB 'Israel'"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ֣אָה",
+        "phrase": "has come",
+        "literal": "has-come",
+        "source": "H935 (bo', Qal perfect 3fs) 'to come'; KJV 'is come', ESV 'has come', NASB 'has come'"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלָ֑/י",
+        "phrase": "to Me,",
+        "literal": "to-Me",
+        "source": "H413 ('el, preposition + 1cs suffix) 'to me'; KJV 'unto me', ESV/NASB 'to me'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/גַם",
+        "phrase": "and moreover",
+        "literal": "and-also",
+        "source": "H1571 (gam, adverb with conjunctive waw) 'also/moreover'; KJV 'and...also', ESV 'moreover', NASB 'furthermore'"
+      },
+      {
+        "position": 9,
+        "surface": "רָאִ֨יתִי֙",
+        "phrase": "I have seen",
+        "literal": "I-saw",
+        "source": "H7200 (ra'ah, Qal perfect 1cs) 'to see'; KJV/ESV/NASB 'I have seen'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[obj.]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 ('et, direct object marker); untranslated in English"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/לַּ֔חַץ",
+        "phrase": "the oppression",
+        "literal": "the-oppression",
+        "source": "H3906 (lachats, noun common ms absolute with definite article) 'oppression/pressure'; KJV/ESV/NASB 'the oppression'"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "with which",
+        "literal": "which",
+        "source": "H834 ('asher, relative particle) 'which/with which'; KJV 'wherewith', ESV 'with which', NASB 'with which'"
+      },
+      {
+        "position": 13,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 (Mitsri, proper noun) 'Egyptians'; KJV/ESV/NASB 'the Egyptians'"
+      },
+      {
+        "position": 14,
+        "surface": "לֹחֲצִ֥ים",
+        "phrase": "are oppressing",
+        "literal": "oppressing",
+        "source": "H3905 (lachats, Qal active participle mp absolute) 'to oppress/press'; KJV 'oppress', ESV 'oppress', NASB 'are oppressing'"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "them.",
+        "literal": "[obj.]-them",
+        "source": "H853 ('et, direct object marker + 3mp suffix) 'them'; KJV/ESV/NASB 'them'"
+      }
+    ]
+  }
+]

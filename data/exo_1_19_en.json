@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּאמַ֤רְןָ",
+        "phrase": "And the midwives said",
+        "literal": "and-they(f)-said",
+        "source": "H559 Qal wayyiqtol 3fp; KJV 'And the midwives said', ESV 'The midwives said', NASB 'The midwives said' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/מְיַלְּדֹת֙",
+        "phrase": "the midwives",
+        "literal": "the-ones-causing-birth",
+        "source": "H3205 article + Piel participle fem pl abs; KJV/ESV/NASB all 'the midwives'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 preposition; KJV 'unto', ESV 'to', NASB 'to' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh,",
+        "literal": "Pharaoh",
+        "source": "H6547 proper noun; KJV/ESV/NASB all 'Pharaoh'"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֣י",
+        "phrase": "Because",
+        "literal": "because",
+        "source": "H3588 conjunction 'because, for'; KJV 'Because', ESV 'Because', NASB 'Because' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֧א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 negative particle; KJV 'not', ESV 'not', NASB 'not' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "כַ/נָּשִׁ֛ים",
+        "phrase": "like the Egyptian women",
+        "literal": "like-the-women",
+        "source": "H802 prep+article + noun fem pl abs; KJV 'as the Egyptian women', ESV 'like the Egyptian women', NASB 'like the Egyptian women' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מִּצְרִיֹּ֖ת",
+        "phrase": "the Egyptian",
+        "literal": "the-Egyptian",
+        "source": "H4713 article + gentillic adj fem pl abs; KJV 'the Egyptian women', ESV 'the Egyptian women', NASB 'the Egyptian women' — modifies 'women'"
+      },
+      {
+        "position": 9,
+        "surface": "הָֽ/עִבְרִיֹּ֑ת",
+        "phrase": "are the Hebrew women;",
+        "literal": "the-Hebrew-women",
+        "source": "H5680 article + gentillic noun fem pl abs; KJV 'the Hebrew women', ESV 'the Hebrew women', NASB 'the Hebrew women' — all agree"
+      },
+      {
+        "position": 10,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "H3588 conjunction; KJV 'for', ESV 'for', NASB 'for' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "חָי֣וֹת",
+        "phrase": "they are vigorous",
+        "literal": "vigorous",
+        "source": "H2422 adjective fem pl abs 'lively, vigorous'; KJV 'lively' (DIVERGENT), ESV 'vigorous', NASB 'vigorous' — ESV/NASB agree; KJV uses archaic 'lively'"
+      },
+      {
+        "position": 12,
+        "surface": "הֵ֔נָּה",
+        "phrase": "they are;",
+        "literal": "they(f)",
+        "source": "H2007 personal pronoun 3fp; KJV 'they are', ESV 'they are', NASB 'they are' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/טֶ֨רֶם",
+        "phrase": "before",
+        "literal": "in-before",
+        "source": "H2962 prep + adverb 'before'; KJV 'ere', ESV 'before', NASB 'before' — ESV/NASB agree; KJV uses archaic 'ere'"
+      },
+      {
+        "position": 14,
+        "surface": "תָּב֧וֹא",
+        "phrase": "comes",
+        "literal": "she-comes",
+        "source": "H935 Qal impf 3fs; KJV 'come in', ESV 'comes', NASB 'comes' — all agree"
+      },
+      {
+        "position": 15,
+        "surface": "אֲלֵ/הֶ֛ן",
+        "phrase": "to them",
+        "literal": "to-them(f)",
+        "source": "H413 prep + 3fp suffix; KJV 'unto them', ESV 'to them', NASB 'to them' — all agree"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/מְיַלֶּ֖דֶת",
+        "phrase": "the midwife,",
+        "literal": "the-one-causing-birth",
+        "source": "H3205 article + Piel participle fem sg abs; KJV 'the midwives', ESV 'the midwife', NASB 'the midwife' — ESV/NASB agree"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/יָלָֽדוּ",
+        "phrase": "they have already given birth.",
+        "literal": "and-they-give-birth",
+        "source": "H3205 conj + Qal perf 3cp; KJV 'they are delivered', ESV 'they give birth', NASB 'they give birth' — ESV/NASB agree; KJV uses passive"
+      }
+    ]
+  }
+]

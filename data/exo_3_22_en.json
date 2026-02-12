@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁאֲלָ֨ה",
+        "phrase": "But each woman shall ask",
+        "literal": "and-she-asked",
+        "source": "H7592 (שׁאל), HC/Vqq3fs (conjunctive/Qal-perfect-3fs, sequential future). DIVERGENT: KJV 'shall borrow' (misleading per modern scholarship), ESV 'shall ask', NASB 'will ask'. The verb שׁאל means 'ask/request', not 'borrow'."
+      },
+      {
+        "position": 2,
+        "surface": "אִשָּׁ֤ה",
+        "phrase": "every woman",
+        "literal": "woman",
+        "source": "H802 (אִשָּׁה), HNcfsa (noun-common-fs-absolute). KJV 'every woman', ESV 'every woman', NASB 'every woman'."
+      },
+      {
+        "position": 3,
+        "surface": "מִ/שְּׁכֶנְתָּ/הּ֙",
+        "phrase": "from her neighbor",
+        "literal": "from-neighbor-of-her",
+        "source": "H7934 (שָׁכֵן), HR/Aafsc/Sp3fs (preposition-min/adjective-fs-construct/suffix-3fs). KJV 'of her neighbour', ESV 'of her neighbor', NASB 'from her neighbor'."
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִ/גָּרַ֣ת",
+        "phrase": "and from the woman living in her house",
+        "literal": "and-from-sojourning-of",
+        "source": "H1481 (גור), HC/R/Vqrfsc (conjunctive/preposition-min/Qal-participle-fs-construct). KJV 'and of her that sojourneth in her house', ESV 'and from the woman who lives in her house', NASB 'and from the woman who lives in her house'."
+      },
+      {
+        "position": 5,
+        "surface": "בֵּיתָ֔/הּ",
+        "phrase": "her house",
+        "literal": "house-of-her",
+        "source": "H1004 (בַּיִת), HNcmsc/Sp3fs (noun-common-ms-construct/suffix-3fs). KJV 'her house', ESV 'her house', NASB 'her house'."
+      },
+      {
+        "position": 6,
+        "surface": "כְּלֵי",
+        "phrase": "articles of",
+        "literal": "vessels-of",
+        "source": "H3627 (כְּלִי), HNcmpc (noun-common-mp-construct). KJV 'jewels of', ESV 'jewelry of', NASB 'articles of'."
+      },
+      {
+        "position": 7,
+        "surface": "כֶ֛סֶף",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701 (כֶּסֶף), HNcmsa (noun-common-ms-absolute). KJV 'silver', ESV 'silver', NASB 'silver'. All agree."
+      },
+      {
+        "position": 8,
+        "surface": "וּ/כְלֵ֥י",
+        "phrase": "and articles of",
+        "literal": "and-vessels-of",
+        "source": "H3627 (כְּלִי), HC/Ncmpc (conjunctive/noun-common-mp-construct). KJV 'and jewels of', ESV 'and jewelry of', NASB 'and articles of'."
+      },
+      {
+        "position": 9,
+        "surface": "זָהָ֖ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091 (זָהָב), HNcmsa (noun-common-ms-absolute). KJV 'gold', ESV 'gold', NASB 'gold'. All agree."
+      },
+      {
+        "position": 10,
+        "surface": "וּ/שְׂמָלֹ֑ת",
+        "phrase": "and clothing",
+        "literal": "and-garments",
+        "source": "H8071 (שִׂמְלָה), HC/Ncfpa (conjunctive/noun-common-fp-absolute). KJV 'and raiment', ESV 'and clothing', NASB 'and clothing'."
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שַׂמְתֶּ֗ם",
+        "phrase": "and you shall put them",
+        "literal": "and-you(mp)-placed",
+        "source": "H7760 (שׂים), HC/Vqq2mp (conjunctive/Qal-perfect-2mp, sequential future). KJV 'and ye shall put them', ESV 'You shall put them', NASB 'and you will put them'."
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (עַל), HR (preposition). KJV 'upon', ESV 'on', NASB 'on'."
+      },
+      {
+        "position": 13,
+        "surface": "בְּנֵי/כֶם֙",
+        "phrase": "your sons",
+        "literal": "sons-of-you(mp)",
+        "source": "H1121 (בֵּן), HNcmpc/Sp2mp (noun-common-mp-construct/suffix-2mp). KJV 'your sons', ESV 'your sons', NASB 'your sons'."
+      },
+      {
+        "position": 14,
+        "surface": "וְ/עַל",
+        "phrase": "and on",
+        "literal": "and-upon",
+        "source": "H5921 (עַל), HC/R (conjunctive/preposition). KJV 'and upon', ESV 'and on', NASB 'and on'."
+      },
+      {
+        "position": 15,
+        "surface": "בְּנֹ֣תֵי/כֶ֔ם",
+        "phrase": "your daughters",
+        "literal": "daughters-of-you(mp)",
+        "source": "H1323 (בַּת), HNcfpc/Sp2mp (noun-common-fp-construct/suffix-2mp). KJV 'your daughters', ESV 'your daughters', NASB 'your daughters'."
+      },
+      {
+        "position": 16,
+        "surface": "וְ/נִצַּלְתֶּ֖ם",
+        "phrase": "So you shall plunder",
+        "literal": "and-you(mp)-plundered",
+        "source": "H5337 (נצל), HC/Vpq2mp (conjunctive/Piel-perfect-2mp, sequential future). DIVERGENT: KJV 'ye shall spoil', ESV 'you shall plunder', NASB 'you will plunder'. The Piel of נצל means 'to strip, plunder' — a reversal of the Israelites' exploitation."
+      },
+      {
+        "position": 17,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 18,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 (מִצְרַיִם), HNp (proper noun). KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'. Used here for the people of Egypt."
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "And He said",
+        "literal": "and-he-said",
+        "source": "H559 (אמר), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms). KJV, ESV, NASB all render 'And he said'."
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "Certainly",
+        "literal": "for/because",
+        "source": "H3588 (כִּי), HC (conjunction). Asseverative use here: 'certainly/surely'. KJV 'Certainly', ESV 'But', NASB 'Certainly'."
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽהְיֶ֣ה",
+        "phrase": "I will be",
+        "literal": "I-will-be",
+        "source": "H1961 (היה), HVqi1cs (Qal-imperfect-1cs). KJV 'I will be', ESV 'I will be', NASB 'I will be'. All agree."
+      },
+      {
+        "position": 4,
+        "surface": "עִמָּ֔/ךְ",
+        "phrase": "with you",
+        "literal": "with-you(fs)",
+        "source": "H5973 (עִם), HR/Sp2fs (preposition/suffix-2fs, pausal form for 2ms). KJV 'with thee', ESV 'with you', NASB 'with you'."
+      },
+      {
+        "position": 5,
+        "surface": "וְ/זֶה",
+        "phrase": "and this",
+        "literal": "and-this",
+        "source": "H2088 (זֶה), HC/Pdxms (conjunctive/demonstrative-pronoun-ms). KJV 'and this', ESV 'and this', NASB 'and this'."
+      },
+      {
+        "position": 6,
+        "surface": "לְּ/ךָ֣",
+        "phrase": "shall be to you",
+        "literal": "to-you(ms)",
+        "source": "Preposition lamed + suffix 2ms. KJV 'unto thee', ESV 'for you', NASB 'to you'."
+      },
+      {
+        "position": 7,
+        "surface": "הָ/א֔וֹת",
+        "phrase": "the sign",
+        "literal": "the-sign",
+        "source": "H226 (אוֹת), HTd/Ncbsa (article/noun-common-both-singular-absolute). KJV 'a token', ESV 'the sign', NASB 'the sign'."
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "H3588 (כִּי), HC (conjunction). KJV 'that', ESV 'that', NASB 'that'. All agree."
+      },
+      {
+        "position": 9,
+        "surface": "אָנֹכִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (אָנֹכִי), HPp1cs (personal-pronoun-1cs). KJV 'I', ESV 'I', NASB 'I'. All agree."
+      },
+      {
+        "position": 10,
+        "surface": "שְׁלַחְתִּ֑י/ךָ",
+        "phrase": "have sent you",
+        "literal": "I-sent-you(ms)",
+        "source": "H7971 (שׁלח), HVqp1cs/Sp2ms (Qal-perfect-1cs/suffix-2ms). KJV 'have sent thee', ESV 'have sent you', NASB 'have sent you'."
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/הוֹצִֽיאֲ/ךָ֤",
+        "phrase": "when you bring out",
+        "literal": "in-bringing-out-you(ms)",
+        "source": "H3318 (יצא), HR/Vhc/Sp2ms (preposition/Hiphil-infinitive-construct/suffix-2ms). KJV 'when thou hast brought forth', ESV 'when you have brought…out', NASB 'when you have brought…out'."
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 13,
+        "surface": "הָ/עָם֙",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (עַם), HTd/Ncmsa (article/noun-common-ms-absolute). KJV 'the people', ESV 'the people', NASB 'the people'."
+      },
+      {
+        "position": 14,
+        "surface": "מִ/מִּצְרַ֔יִם",
+        "phrase": "out of Egypt",
+        "literal": "from-Egypt",
+        "source": "H4714 (מִצְרַיִם), HR/Np (preposition-min/proper-noun). KJV 'out of Egypt', ESV 'out of Egypt', NASB 'from Egypt'."
+      },
+      {
+        "position": 15,
+        "surface": "תַּֽעַבְדוּ/ן֙",
+        "phrase": "you shall serve",
+        "literal": "you(mp)-shall-serve",
+        "source": "H5647 (עבד), HVqi2mp/Sn (Qal-imperfect-2mp/paragogic-nun). KJV 'ye shall serve', ESV 'you shall serve', NASB 'you shall worship'."
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 17,
+        "surface": "הָ֣/אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 (אֱלֹהִים), HTd/Ncmpa (article/noun-common-mp-absolute). KJV 'God', ESV 'God', NASB 'God'."
+      },
+      {
+        "position": 18,
+        "surface": "עַ֖ל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (עַל), HR (preposition). KJV 'upon', ESV 'on', NASB 'on'."
+      },
+      {
+        "position": 19,
+        "surface": "הָ/הָ֥ר",
+        "phrase": "the mountain",
+        "literal": "the-mountain",
+        "source": "H2022 (הַר), HTd/Ncmsa (article/noun-common-ms-absolute). KJV 'this mountain', ESV 'this mountain', NASB 'this mountain'."
+      },
+      {
+        "position": 20,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (זֶה), HTd/Pdxms (article/demonstrative-ms). KJV 'this', ESV 'this', NASB 'this'. All agree."
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֥ע",
+        "phrase": "And God heard",
+        "literal": "and-he.heard",
+        "source": "H8085 (שָׁמַע, qal wayyiqtol 3ms) with conjunctive waw; KJV/ESV/NASB 'heard'"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (אֱלֹהִים, noun common masculine plural absolute); KJV/ESV/NASB 'God'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "נַאֲקָתָ֑/ם",
+        "phrase": "their groaning,",
+        "literal": "groaning.of-them",
+        "source": "H5009 (נְאָקָה, noun common feminine singular construct + 3mp suffix); KJV/ESV/NASB 'their groaning'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּזְכֹּ֤ר",
+        "phrase": "and God remembered",
+        "literal": "and-he.remembered",
+        "source": "H2142 (זָכַר, qal wayyiqtol 3ms) with conjunctive waw; KJV/ESV/NASB 'remembered'"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (אֱלֹהִים, noun common masculine plural absolute); KJV/ESV/NASB 'God'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 8,
+        "surface": "בְּרִית֔/וֹ",
+        "phrase": "His covenant",
+        "literal": "covenant.of-him",
+        "source": "H1285 (בְּרִית, noun common feminine singular construct + 3ms suffix); KJV/ESV/NASB 'his covenant'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H854 (אֵת, preposition 'with'); KJV/ESV/NASB 'with'"
+      },
+      {
+        "position": 10,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham,",
+        "literal": "Abraham",
+        "source": "H85 (אַבְרָהָם, proper noun); KJV/ESV/NASB 'Abraham'"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H854 (אֵת, preposition 'with'); KJV/ESV/NASB 'with' / implied"
+      },
+      {
+        "position": 12,
+        "surface": "יִצְחָ֥ק",
+        "phrase": "Isaac,",
+        "literal": "Isaac",
+        "source": "H3327 (יִצְחָק, proper noun); KJV/ESV/NASB 'Isaac'"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and with",
+        "literal": "and-with",
+        "source": "H854 (אֵת, preposition 'with') with conjunctive waw; KJV/ESV/NASB 'and with'"
+      },
+      {
+        "position": 14,
+        "surface": "יַעֲקֹֽב",
+        "phrase": "Jacob.",
+        "literal": "Jacob",
+        "source": "H3290 (יַעֲקֹב, proper noun); KJV/ESV/NASB 'Jacob'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹא",
+        "phrase": "And not",
+        "literal": "and-not",
+        "source": "H3808 (לֹא, 'not'), HC/Tn (conjunctive/negative-particle); KJV 'And when she could not', ESV 'When she could … no', NASB 'But when she could … no' — all agree on sense"
+      },
+      {
+        "position": 2,
+        "surface": "יָכְלָ֣ה",
+        "phrase": "could she",
+        "literal": "she-was-able",
+        "source": "H3201 (יָכֹל, 'to be able'), HVqp3fs (Qal-perfect-3fs); KJV 'could', ESV 'could', NASB 'could' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "עוֹד֮",
+        "phrase": "any longer",
+        "literal": "still/longer",
+        "source": "H5750 (עוֹד, 'still/again/longer'), HD (adverb); KJV 'longer', ESV 'longer', NASB 'longer' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "הַצְּפִינ/וֹ֒",
+        "phrase": "hide him",
+        "literal": "to-hide-him",
+        "source": "H6845 (צָפַן, 'to hide'), HVhc/Sp3ms (Hiphil-infinitive-construct/suffix-3ms); KJV 'hide him', ESV 'hide him', NASB 'hide him' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תִּֽקַּֽח",
+        "phrase": "she took",
+        "literal": "and-she-took",
+        "source": "H3947 (לָקַח, 'to take'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she took', ESV 'she took', NASB 'she got' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "ל/וֹ֙",
+        "phrase": "for him",
+        "literal": "for-him",
+        "source": "Preposition lamed + suffix 3ms, HR/Sp3ms; KJV 'for him', ESV 'for him', NASB 'for him' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "תֵּ֣בַת",
+        "phrase": "an ark of",
+        "literal": "ark/basket-of",
+        "source": "H8392 (תֵּבָה, 'ark/chest/basket'), HNcfsc (noun-common-feminine-singular-construct); same word used for Noah's ark (Gen 6:14); KJV 'an ark of', ESV 'a basket made of', NASB 'a wicker basket' — KJV preserves the Noah connection"
+      },
+      {
+        "position": 8,
+        "surface": "גֹּ֔מֶא",
+        "phrase": "papyrus",
+        "literal": "papyrus/bulrushes",
+        "source": "H1573 (גֹּמֶא, 'papyrus/rush'), HNcmsa (noun-common-masculine-singular-absolute); KJV 'bulrushes', ESV 'bulrushes', NASB 'papyrus reeds' — all agree on plant type"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תַּחְמְרָ֥/ה",
+        "phrase": "and coated it",
+        "literal": "and-she-daubed-it",
+        "source": "H2560 (חָמַר, 'to daub/smear'), HC/Vqw3fs/Sp3fs (conjunctive/Qal-wayyiqtol-3fs/suffix-3fs); KJV 'daubed it', ESV 'coated it', NASB 'coated it' — all agree"
+      },
+      {
+        "position": 10,
+        "surface": "בַ/חֵמָ֖ר",
+        "phrase": "with bitumen",
+        "literal": "with-the-bitumen",
+        "source": "H2564 (חֵמָר, 'bitumen/tar/slime'), HRd/Ncmsa (preposition-with-article/noun-common-masculine-singular-absolute); KJV 'with slime', ESV 'with bitumen', NASB 'with tar' — all refer to same substance"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בַ/זָּ֑פֶת",
+        "phrase": "and with pitch",
+        "literal": "and-with-the-pitch",
+        "source": "H2203 (זֶפֶת, 'pitch'), HC/Rd/Ncfsa (conjunctive/preposition-with-article/noun-common-feminine-singular-absolute); KJV 'and with pitch', ESV 'and pitch', NASB 'and pitch' — all agree"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/תָּ֤שֶׂם",
+        "phrase": "and placed",
+        "literal": "and-she-put",
+        "source": "H7760 (שׂוּם/שִׂים, 'to put/place'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'put', ESV 'put', NASB 'put' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "בָּ/הּ֙",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "Preposition beth + suffix 3fs, HR/Sp3fs; KJV 'in it', ESV 'in it', NASB 'in it' — all agree"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (particle-direct-object-marker); untranslated in English"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/יֶּ֔לֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "H3206 (יֶלֶד, 'child/boy'), HTd/Ncmsa (article/noun-common-masculine-singular-absolute); KJV 'the child', ESV 'the child', NASB 'the child' — all agree"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/תָּ֥שֶׂם",
+        "phrase": "and placed [it]",
+        "literal": "and-she-put",
+        "source": "H7760 (שׂוּם/שִׂים, 'to put/place'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'laid it', ESV 'placed it', NASB 'set it' — all agree"
+      },
+      {
+        "position": 17,
+        "surface": "בַּ/סּ֖וּף",
+        "phrase": "among the reeds",
+        "literal": "in-the-reeds",
+        "source": "H5488 (סוּף, 'reed/rush'), HRd/Ncmsa (preposition-with-article/noun-common-masculine-singular-absolute); same root as Yam Suph (Sea of Reeds); KJV 'in the flags', ESV 'among the reeds', NASB 'among the reeds'"
+      },
+      {
+        "position": 18,
+        "surface": "עַל",
+        "phrase": "at",
+        "literal": "upon/at",
+        "source": "H5921 (עַל, 'upon/over/at'), HR (preposition); KJV 'by', ESV 'at', NASB 'at' — all agree on locational sense"
+      },
+      {
+        "position": 19,
+        "surface": "שְׂפַ֥ת",
+        "phrase": "the bank of",
+        "literal": "lip/edge-of",
+        "source": "H8193 (שָׂפָה, 'lip/edge/bank'), HNcfsc (noun-common-feminine-singular-construct); KJV 'the brink', ESV 'the bank', NASB 'the bank' — all agree"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/יְאֹֽר",
+        "phrase": "the Nile",
+        "literal": "the-river",
+        "source": "H2975 (יְאֹר, 'river/Nile'), HTd/Np (article/proper-noun); KJV 'the river's', ESV 'the Nile', NASB 'the Nile' — all refer to the Nile"
+      }
+    ]
+  }
+]

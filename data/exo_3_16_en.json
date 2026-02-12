@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֵ֣ךְ",
+        "phrase": "Go",
+        "literal": "go!",
+        "source": "H3212 (הלך), HVqv2ms (Qal-imperative-2ms). KJV 'Go', ESV 'Go', NASB 'Go'. All agree."
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אָֽסַפְתָּ֞",
+        "phrase": "and gather",
+        "literal": "and-you(ms)-gathered",
+        "source": "H622 (אסף), HC/Vqq2ms (conjunctive/Qal-perfect-2ms, sequential future). KJV 'and gather', ESV 'and gather', NASB 'and gather'."
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 4,
+        "surface": "זִקְנֵ֣י",
+        "phrase": "the elders of",
+        "literal": "elders-of",
+        "source": "H2205 (זָקֵן), HAampc (adjective-mp-construct). KJV 'the elders of', ESV 'the elders of', NASB 'the elders of'."
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֗ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל), HNp (proper noun). KJV, ESV, NASB all render 'Israel'."
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָמַרְתָּ֤",
+        "phrase": "and say",
+        "literal": "and-you(ms)-said",
+        "source": "H559 (אמר), HC/Vqq2ms (conjunctive/Qal-perfect-2ms, sequential future). KJV 'and say', ESV 'and say', NASB 'and say'."
+      },
+      {
+        "position": 7,
+        "surface": "אֲלֵ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them(mp)",
+        "source": "H413 (אֶל), HR/Sp3mp (preposition/suffix-3mp). KJV 'unto them', ESV 'to them', NASB 'to them'."
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֞ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (יְהוָה), HNp (proper noun, the divine name). KJV 'The LORD', ESV 'The LORD', NASB 'The LORD'."
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'God of', ESV 'God of', NASB 'God of'."
+      },
+      {
+        "position": 10,
+        "surface": "אֲבֹֽתֵי/כֶם֙",
+        "phrase": "your fathers",
+        "literal": "fathers-of-you(mp)",
+        "source": "H1 (אָב), HNcmpc/Sp2mp (noun-common-mp-construct/suffix-2mp). KJV 'your fathers', ESV 'your fathers', NASB 'your fathers'."
+      },
+      {
+        "position": 11,
+        "surface": "נִרְאָ֣ה",
+        "phrase": "appeared",
+        "literal": "he-appeared",
+        "source": "H7200 (ראה), HVNp3ms (Niphal-perfect-3ms). KJV 'appeared', ESV 'appeared', NASB 'appeared'. All agree."
+      },
+      {
+        "position": 12,
+        "surface": "אֵלַ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (אֶל), HR/Sp1cs (preposition/suffix-1cs). KJV 'unto me', ESV 'to me', NASB 'to me'."
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהֵ֧י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'the God of', ESV 'the God of', NASB 'the God of'."
+      },
+      {
+        "position": 14,
+        "surface": "אַבְרָהָ֛ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85 (אַבְרָהָם), HNp (proper noun). KJV, ESV, NASB all render 'Abraham'."
+      },
+      {
+        "position": 15,
+        "surface": "יִצְחָ֥ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "H3327 (יִצְחָק), HNp (proper noun). KJV, ESV, NASB all render 'Isaac'."
+      },
+      {
+        "position": 16,
+        "surface": "וְ/יַעֲקֹ֖ב",
+        "phrase": "and Jacob",
+        "literal": "and-Jacob",
+        "source": "H3290 (יַעֲקֹב), HC/Np (conjunctive/proper noun). KJV, ESV, NASB all render 'and Jacob'."
+      },
+      {
+        "position": 17,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (אמר), HR/Vqc (preposition-lamed/Qal-infinitive-construct). KJV 'saying', ESV 'saying', NASB 'saying'."
+      },
+      {
+        "position": 18,
+        "surface": "פָּקֹ֤ד",
+        "phrase": "I have surely",
+        "literal": "visiting",
+        "source": "H6485 (פקד), HVqa (Qal-infinitive-absolute). DIVERGENT: Infinitive absolute + finite verb construction emphasizing certainty. KJV 'I have surely visited', ESV 'I have observed', NASB 'I am indeed concerned about'. KJV preserves the Hebrew emphatic construction most literally."
+      },
+      {
+        "position": 19,
+        "surface": "פָּקַ֨דְתִּי֙",
+        "phrase": "visited",
+        "literal": "I-visited",
+        "source": "H6485 (פקד), HVqp1cs (Qal-perfect-1cs). DIVERGENT: KJV 'visited you', ESV 'observed you', NASB 'am concerned about you'. The root פקד means 'to attend to, visit, take note of, appoint'."
+      },
+      {
+        "position": 20,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "[obj]-you(mp)",
+        "source": "H853 (אֵת), HTo/Sp2mp (direct object marker/suffix-2mp). KJV 'you', ESV 'you', NASB 'you'."
+      },
+      {
+        "position": 21,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[obj]",
+        "source": "H853 (אֵת), HC/To (conjunctive/direct object marker). Untranslated except for conjunction."
+      },
+      {
+        "position": 22,
+        "surface": "הֶ/עָשׂ֥וּי",
+        "phrase": "what is done",
+        "literal": "the-done",
+        "source": "H6213 (עשׂה), HTd/Vqsmsa (article/Qal-passive-participle-ms-absolute). KJV 'that which is done', ESV 'what has been done', NASB 'what has been done'."
+      },
+      {
+        "position": 23,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you(mp)",
+        "source": "Preposition lamed + suffix 2mp. KJV 'to you', ESV 'to you', NASB 'to you'."
+      },
+      {
+        "position": 24,
+        "surface": "בְּ/מִצְרָֽיִם",
+        "phrase": "in Egypt",
+        "literal": "in-Egypt",
+        "source": "H4714 (מִצְרַיִם), HR/Np (preposition-beth/proper noun). KJV 'in Egypt', ESV 'in Egypt', NASB 'in Egypt'."
+      }
+    ]
+  }
+]

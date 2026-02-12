@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יִשָּׂשכָ֥ר",
+        "phrase": "Issachar,",
+        "literal": "Issachar",
+        "source": "H3485 (proper noun); KJV/ESV/NASB 'Issachar'"
+      },
+      {
+        "position": 2,
+        "surface": "זְבוּלֻ֖ן",
+        "phrase": "Zebulun,",
+        "literal": "Zebulun",
+        "source": "H2074 (proper noun); KJV/ESV/NASB 'Zebulun'"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בְנְיָמִֽן",
+        "phrase": "and Benjamin,",
+        "literal": "and-Benjamin",
+        "source": "H1144 (conjunction + proper noun); KJV/ESV/NASB 'and Benjamin'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֤א",
+        "phrase": "So the king of Egypt called",
+        "literal": "and-he-called",
+        "source": "H7121 Qal wayyiqtol 3ms; KJV 'And the king…called for', ESV 'So the king…called', NASB 'Then the king…called for' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 noun masc sg cstr; KJV/ESV/NASB all 'the king of'"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְרַ֨יִם֙",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper noun; KJV/ESV/NASB all 'Egypt'"
+      },
+      {
+        "position": 4,
+        "surface": "לַֽ/מְיַלְּדֹ֔ת",
+        "phrase": "for the midwives",
+        "literal": "to-the-ones-causing-birth",
+        "source": "H3205 prep+article + Piel participle fem pl abs; KJV 'for the midwives', ESV 'the midwives', NASB 'for the midwives' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 Qal wayyiqtol 3ms; KJV 'and said', ESV 'and said', NASB 'and said' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/הֶ֔ן",
+        "phrase": "to them,",
+        "literal": "to-them(f)",
+        "source": "Prep + 3fp suffix (no Strong's); KJV 'unto them', ESV 'to them', NASB 'to them' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "מַדּ֥וּעַ",
+        "phrase": "Why",
+        "literal": "why",
+        "source": "H4069 interrogative adverb; KJV 'Why', ESV 'Why', NASB 'Why' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "עֲשִׂיתֶ֖ן",
+        "phrase": "have you done",
+        "literal": "you(fp)-did",
+        "source": "H6213 Qal perf 2fp; KJV 'have ye done', ESV 'have you done', NASB 'have you done' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "this thing",
+        "literal": "the-thing",
+        "source": "H1697 article + noun masc sg abs; KJV 'this thing', ESV 'this', NASB 'this thing' — KJV/NASB agree"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this,",
+        "literal": "the-this",
+        "source": "H2088 article + demonstrative pronoun masc sg; KJV 'this', ESV 'this', NASB 'this' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תְּחַיֶּ֖יןָ",
+        "phrase": "and have let live",
+        "literal": "and-you(fp)-let-live",
+        "source": "H2421 Piel wayyiqtol 2fp; KJV 'have saved…alive', ESV 'and let…live', NASB 'and let…live' — ESV/NASB agree; KJV uses 'saved alive'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[obj]",
+        "source": "H853 direct object marker; untranslated in English"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/יְלָדִֽים",
+        "phrase": "the male children?",
+        "literal": "the-children",
+        "source": "H3206 article + noun masc pl abs; KJV 'the men children', ESV 'the male children', NASB 'the boys' — all refer to male infants"
+      }
+    ]
+  }
+]

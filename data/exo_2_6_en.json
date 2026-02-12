@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּפְתַּח֙",
+        "phrase": "And she opened [it]",
+        "literal": "and-she-opened",
+        "source": "H6605 (פָּתַח, 'to open'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she had opened it', ESV 'she opened it', NASB 'she opened it' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/תִּרְאֵ֣/הוּ",
+        "phrase": "and saw him",
+        "literal": "and-she-saw-him",
+        "source": "H7200 (רָאָה, 'to see'), HC/Vqw3fs/Sp3ms (conjunctive/Qal-wayyiqtol-3fs/suffix-3ms); KJV 'she saw it', ESV 'she saw', NASB 'she saw' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (particle-direct-object-marker); untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יֶּ֔לֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "H3206 (יֶלֶד, 'child/boy'), HTd/Ncmsa (article/noun-common-masculine-singular-absolute); KJV 'the child', ESV 'the child', NASB 'the child' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִנֵּה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (הִנֵּה, 'behold'), HC/Tm (conjunctive/demonstrative-particle); KJV 'and, behold', ESV 'and behold', NASB 'and behold' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "נַ֖עַר",
+        "phrase": "a boy",
+        "literal": "youth/boy",
+        "source": "H5288 (נַעַר, 'boy/youth/lad'), HNcmsa (noun-common-masculine-singular-absolute); KJV 'the babe', ESV 'a baby', NASB 'the boy' — all convey young child"
+      },
+      {
+        "position": 7,
+        "surface": "בֹּכֶ֑ה",
+        "phrase": "weeping",
+        "literal": "weeping",
+        "source": "H1058 (בָּכָה, 'to weep'), HVqrmsa (Qal-participle-masculine-singular-absolute); KJV 'wept', ESV 'was crying', NASB 'was crying' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/תַּחְמֹ֣ל",
+        "phrase": "and she had compassion",
+        "literal": "and-she-had-compassion",
+        "source": "H2550 (חָמַל, 'to have compassion/spare'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she had compassion', ESV 'She took pity', NASB 'she had pity' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "עָלָ֔י/ו",
+        "phrase": "on him",
+        "literal": "upon-him",
+        "source": "H5921 (עַל, 'upon/on'), HR/Sp3ms (preposition/suffix-3ms); KJV 'on him', ESV 'on him', NASB 'on him' — all agree"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (אָמַר, 'to say'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she said', ESV 'She said', NASB 'she said' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/יַּלְדֵ֥י",
+        "phrase": "from the children of",
+        "literal": "from-children-of",
+        "source": "H3206 (יֶלֶד, 'child'), HR/Ncmpc (preposition-min/noun-common-masculine-plural-construct); KJV 'of the Hebrews' children', ESV 'of the Hebrews' children', NASB 'of the Hebrews' — all agree"
+      },
+      {
+        "position": 12,
+        "surface": "הָֽ/עִבְרִ֖ים",
+        "phrase": "the Hebrews",
+        "literal": "the-Hebrews",
+        "source": "H5680 (עִבְרִי, 'Hebrew'), HTd/Ngmpa (article/gentilic-masculine-plural-absolute); KJV/ESV/NASB all render 'the Hebrews'"
+      },
+      {
+        "position": 13,
+        "surface": "זֶֽה",
+        "phrase": "[is] this",
+        "literal": "this",
+        "source": "H2088 (זֶה, 'this'), HPdxms (pronoun-demonstrative-masculine-singular); KJV 'This is', ESV 'This is', NASB 'This is' — all agree"
+      }
+    ]
+  }
+]

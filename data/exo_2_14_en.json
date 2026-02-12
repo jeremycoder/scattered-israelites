@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ֠/יֹּאמֶר",
+        "phrase": "And he said,",
+        "literal": "and-he.said",
+        "source": "H559 (אָמַר, qal wayyiqtol 3ms) with conjunctive waw; KJV/ESV/NASB 'and he said'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ֣י",
+        "phrase": "Who",
+        "literal": "who",
+        "source": "H4310 (מִי, interrogative); KJV/ESV/NASB 'who'"
+      },
+      {
+        "position": 3,
+        "surface": "שָֽׂמְ/ךָ֞",
+        "phrase": "appointed you",
+        "literal": "set-you",
+        "source": "H7760 (שׂוּם, qal perfect 3ms + 2ms suffix); KJV 'made thee', ESV 'made you', NASB 'made you'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אִ֨ישׁ",
+        "phrase": "as a man",
+        "literal": "to-a.man",
+        "source": "H376 (אִישׁ, noun common masculine singular absolute) with preposition lamed; KJV/NASB 'a man', ESV omits"
+      },
+      {
+        "position": 5,
+        "surface": "שַׂ֤ר",
+        "phrase": "a prince",
+        "literal": "prince",
+        "source": "H8269 (שַׂר, noun common masculine singular absolute); KJV 'a prince', ESV 'a prince', NASB 'a prince'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שֹׁפֵט֙",
+        "phrase": "and a judge",
+        "literal": "and-a.judge",
+        "source": "H8199 (שָׁפַט, qal participle masculine singular absolute) with conjunctive waw; KJV/ESV/NASB 'and a judge'"
+      },
+      {
+        "position": 7,
+        "surface": "עָלֵ֔י/נוּ",
+        "phrase": "over us?",
+        "literal": "over-us",
+        "source": "H5921 (עַל, preposition + 1cp suffix); KJV/ESV/NASB 'over us'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/לְ/הָרְגֵ֨/נִי֙",
+        "phrase": "Do you intend to kill me",
+        "literal": "?-to-kill-me",
+        "source": "H2026 (הָרַג, qal infinitive construct + 1cs suffix) with interrogative he and preposition lamed; KJV 'intendest thou to kill me', ESV 'do you mean to kill me', NASB 'are you intending to kill me'"
+      },
+      {
+        "position": 9,
+        "surface": "אַתָּ֣ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (אַתָּה, personal pronoun 2ms); KJV 'thou', ESV/NASB 'you'"
+      },
+      {
+        "position": 10,
+        "surface": "אֹמֵ֔ר",
+        "phrase": "are saying",
+        "literal": "saying",
+        "source": "H559 (אָמַר, qal participle masculine singular absolute); KJV 'sayest', ESV/NASB implied in context"
+      },
+      {
+        "position": 11,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that.which",
+        "source": "H834 (אֲשֶׁר, relative particle) with preposition kaph; KJV/ESV/NASB 'as'"
+      },
+      {
+        "position": 12,
+        "surface": "הָרַ֖גְתָּ",
+        "phrase": "you killed",
+        "literal": "you.killed",
+        "source": "H2026 (הָרַג, qal perfect 2ms); KJV 'thou killedst', ESV 'you killed', NASB 'you killed'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/מִּצְרִ֑י",
+        "phrase": "the Egyptian?",
+        "literal": "the-Egyptian",
+        "source": "H4713 (מִצְרִי, gentillic masculine singular absolute) with article; KJV/ESV/NASB 'the Egyptian'"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יִּירָ֤א",
+        "phrase": "And Moses feared",
+        "literal": "and-he.feared",
+        "source": "H3372 (יָרֵא, qal wayyiqtol 3ms) with conjunctive waw; KJV 'feared', ESV 'was afraid', NASB 'was afraid'"
+      },
+      {
+        "position": 16,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, proper noun); KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/יֹּאמַ֔ר",
+        "phrase": "and said,",
+        "literal": "and-he.said",
+        "source": "H559 (אָמַר, qal wayyiqtol 3ms) with conjunctive waw; KJV/ESV/NASB 'and said'"
+      },
+      {
+        "position": 18,
+        "surface": "אָכֵ֖ן",
+        "phrase": "Surely",
+        "literal": "surely",
+        "source": "H403 (אָכֵן, adverb); KJV 'surely', ESV 'surely', NASB 'surely'"
+      },
+      {
+        "position": 19,
+        "surface": "נוֹדַ֥ע",
+        "phrase": "is known.",
+        "literal": "is.known",
+        "source": "H3045 (יָדַע, niphal perfect 3ms); KJV 'is known', ESV 'is known', NASB 'is known'"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/דָּבָֽר",
+        "phrase": "the matter",
+        "literal": "the-matter",
+        "source": "H1697 (דָּבָר, noun common masculine singular absolute) with article; KJV 'this thing', ESV 'the thing', NASB 'this matter'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲבִ֧דוּ",
+        "phrase": "So the Egyptians made serve",
+        "literal": "and-they-made-serve",
+        "source": "H5647 Hiphil wayyiqtol 3mp 'caused to serve'; KJV 'made…to serve', ESV 'ruthlessly made…serve', NASB 'compelled…to labor' — all agree on forced servitude"
+      },
+      {
+        "position": 2,
+        "surface": "מִצְרַ֛יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 proper noun (used as gentillic); KJV/ESV/NASB all render as 'Egyptians'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[obj]",
+        "source": "H853 direct object marker; untranslated in English; KJV/ESV/NASB all omit"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֥י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 noun masc pl cstr; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper noun; KJV/ESV/NASB all 'Israel'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/פָֽרֶךְ",
+        "phrase": "with rigor.",
+        "literal": "with-harshness",
+        "source": "H6531 prep + noun masc sg abs 'with crushing labor'; KJV 'with rigour', ESV 'ruthlessly', NASB 'rigorously' — all convey harsh forced labor"
+      }
+    ]
+  }
+]

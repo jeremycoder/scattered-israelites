@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֣ה",
+        "phrase": "Now therefore,",
+        "literal": "and-now",
+        "source": "H6258 ('attah, adverb with conjunctive waw) 'now/therefore'; KJV 'Come now therefore', ESV 'Come', NASB 'Now'"
+      },
+      {
+        "position": 2,
+        "surface": "לְכָ֔/ה",
+        "phrase": "come,",
+        "literal": "go",
+        "source": "H3212 (yalak, Qal imperative 2ms with directional he suffix) 'go/come'; KJV 'come now', ESV 'come', NASB 'come'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶֽשְׁלָחֲ/ךָ֖",
+        "phrase": "and I will send you",
+        "literal": "and-I-will-send-you",
+        "source": "H7971 (shalach, waw + Qal imperfect 1cs + 2ms suffix) 'to send'; KJV 'I will send thee', ESV 'I will send you', NASB 'I will send you'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 ('el, preposition) 'to/toward'; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh,",
+        "literal": "Pharaoh",
+        "source": "H6547 (Par'oh, proper noun) 'Pharaoh'; KJV/ESV/NASB 'Pharaoh'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הוֹצֵ֛א",
+        "phrase": "that you may bring out",
+        "literal": "and-bring-out",
+        "source": "H3318 (yatsa', waw + Hiphil imperative 2ms) 'to bring out'; KJV 'that thou mayest bring forth', ESV 'that you may bring', NASB 'so that you may bring'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[obj.]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 ('et, direct object marker); untranslated in English"
+      },
+      {
+        "position": 8,
+        "surface": "עַמִּ֥/י",
+        "phrase": "My people,",
+        "literal": "people-of-Me",
+        "source": "H5971 ('am, noun common ms construct + 1cs suffix) 'my people'; KJV/ESV/NASB 'my people'"
+      },
+      {
+        "position": 9,
+        "surface": "בְנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 (ben, noun common mp construct) 'sons/children'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel,",
+        "literal": "Israel",
+        "source": "H3478 (Yisra'el, proper noun) 'Israel'; KJV/ESV/NASB 'Israel'"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/מִּצְרָֽיִם",
+        "phrase": "out of Egypt.\"",
+        "literal": "from-Egypt",
+        "source": "H4714 (Mitsrayim, proper noun with preposition min) 'from/out of Egypt'; KJV/ESV/NASB 'out of Egypt'"
+      }
+    ]
+  }
+]

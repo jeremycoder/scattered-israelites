@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתִּ֛י",
+        "phrase": "And I will give",
+        "literal": "and-I-gave",
+        "source": "H5414 (נתן), HC/Vqq1cs (conjunctive/Qal-perfect-1cs, sequential future). KJV 'And I will give', ESV 'And I will give', NASB 'I will grant'."
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[dir. obj.]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), HTo (direct object marker). Untranslated in English."
+      },
+      {
+        "position": 3,
+        "surface": "חֵ֥ן",
+        "phrase": "favor",
+        "literal": "favor/grace",
+        "source": "H2580 (חֵן), HNcmsc (noun-common-ms-construct). KJV 'favour', ESV 'favor', NASB 'favor'."
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/עָם",
+        "phrase": "to this people",
+        "literal": "the-people",
+        "source": "H5971 (עַם), HTd/Ncmsa (article/noun-common-ms-absolute). KJV 'this people', ESV 'this people', NASB 'this people'."
+      },
+      {
+        "position": 5,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (זֶה), HTd/Pdxms (article/demonstrative-ms). KJV 'this', ESV 'this', NASB 'this'. All agree."
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֵינֵ֣י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "H5869 (עַיִן), HR/Ncbdc (preposition-beth/noun-common-both-dual-construct). KJV 'in the sight of', ESV 'in the sight of', NASB 'in the sight of'."
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "the Egyptians",
+        "literal": "Egypt",
+        "source": "H4713 (מִצְרַיִם), HNp (proper noun). KJV 'the Egyptians', ESV 'the Egyptians', NASB 'the Egyptians'. Used here for the people of Egypt."
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הָיָה֙",
+        "phrase": "and it shall be",
+        "literal": "and-it-was",
+        "source": "H1961 (היה), HC/Vqq3ms (conjunctive/Qal-perfect-3ms, sequential future). KJV 'and it shall come to pass', ESV 'and', NASB 'so it will be'."
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֣י",
+        "phrase": "that when",
+        "literal": "that/when",
+        "source": "H3588 (כִּי), HC (conjunction). KJV 'that, when', ESV 'when', NASB 'that when'."
+      },
+      {
+        "position": 10,
+        "surface": "תֵֽלֵכ֔וּ/ן",
+        "phrase": "you go",
+        "literal": "you(mp)-go",
+        "source": "H3212 (הלך), HVqi2mp/Sn (Qal-imperfect-2mp/paragogic-nun). KJV 'ye go', ESV 'you go', NASB 'you go'."
+      },
+      {
+        "position": 11,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (לֹא), HTn (negative particle). KJV 'not', ESV 'not', NASB 'not'. All agree."
+      },
+      {
+        "position": 12,
+        "surface": "תֵלְכ֖וּ",
+        "phrase": "you shall go",
+        "literal": "you(mp)-will-go",
+        "source": "H3212 (הלך), HVqi2mp (Qal-imperfect-2mp). KJV 'ye shall not go', ESV 'you shall not go', NASB 'you will not go'."
+      },
+      {
+        "position": 13,
+        "surface": "רֵיקָֽם",
+        "phrase": "empty-handed",
+        "literal": "empty/empty-handed",
+        "source": "H7387 (רֵיקָם), HD (adverb). KJV 'empty', ESV 'empty-handed', NASB 'empty-handed'."
+      }
+    ]
+  }
+]

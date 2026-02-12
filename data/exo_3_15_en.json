@@ -1,0 +1,207 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמֶר֩",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (אמר), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms). KJV, ESV, NASB all render 'And/Moreover God said'."
+      },
+      {
+        "position": 2,
+        "surface": "ע֨וֹד",
+        "phrase": "moreover",
+        "literal": "again/still/moreover",
+        "source": "H5750 (עוֹד), HD (adverb). KJV 'moreover', ESV 'also', NASB 'furthermore'."
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֜ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (אֱלֹהִים), HNcmpa (noun-common-mp-absolute). KJV 'God', ESV 'God', NASB 'God'. All agree."
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֗ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה), HNp (proper noun). KJV, ESV, NASB all render 'Moses'."
+      },
+      {
+        "position": 6,
+        "surface": "כֹּֽה",
+        "phrase": "Thus",
+        "literal": "thus/so",
+        "source": "H3541 (כֹּה), HD (adverb). KJV 'Thus', ESV 'Say this', NASB 'Thus'."
+      },
+      {
+        "position": 7,
+        "surface": "תֹאמַר֮",
+        "phrase": "you shall say",
+        "literal": "you(ms)-shall-say",
+        "source": "H559 (אמר), HVqi2ms (Qal-imperfect-2ms). KJV 'shalt thou say', ESV 'say', NASB 'you shall say'."
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן), HNcmpc (noun-common-mp-construct). KJV 'children of', ESV 'people of', NASB 'sons of'."
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵל֒",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל), HNp (proper noun). KJV, ESV, NASB all render 'Israel'."
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֞ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (יְהוָה), HNp (proper noun, the divine name). KJV 'The LORD', ESV 'The LORD', NASB 'The LORD'. The Tetragrammaton."
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'God of', ESV 'God of', NASB 'God of'."
+      },
+      {
+        "position": 13,
+        "surface": "אֲבֹתֵי/כֶ֗ם",
+        "phrase": "your fathers",
+        "literal": "fathers-of-you(mp)",
+        "source": "H1 (אָב), HNcmpc/Sp2mp (noun-common-mp-construct/suffix-2mp). KJV 'your fathers', ESV 'your fathers', NASB 'your fathers'."
+      },
+      {
+        "position": 14,
+        "surface": "אֱלֹהֵ֨י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'the God of', ESV 'the God of', NASB 'the God of'."
+      },
+      {
+        "position": 15,
+        "surface": "אַבְרָהָ֜ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85 (אַבְרָהָם), HNp (proper noun). KJV, ESV, NASB all render 'Abraham'."
+      },
+      {
+        "position": 16,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'the God of', ESV 'the God of', NASB 'the God of'."
+      },
+      {
+        "position": 17,
+        "surface": "יִצְחָ֛ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "H3327 (יִצְחָק), HNp (proper noun). KJV, ESV, NASB all render 'Isaac'."
+      },
+      {
+        "position": 18,
+        "surface": "וֵ/אלֹהֵ֥י",
+        "phrase": "and the God of",
+        "literal": "and-God-of",
+        "source": "H430 (אֱלֹהִים), HC/Ncmpc (conjunctive/noun-common-mp-construct). KJV 'and the God of', ESV 'and the God of', NASB 'and the God of'."
+      },
+      {
+        "position": 19,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290 (יַעֲקֹב), HNp (proper noun). KJV, ESV, NASB all render 'Jacob'."
+      },
+      {
+        "position": 20,
+        "surface": "שְׁלָחַ֣/נִי",
+        "phrase": "has sent me",
+        "literal": "he-sent-me",
+        "source": "H7971 (שׁלח), HVqp3ms/Sp1cs (Qal-perfect-3ms/suffix-1cs). KJV 'hath sent me', ESV 'has sent me', NASB 'has sent me'."
+      },
+      {
+        "position": 21,
+        "surface": "אֲלֵי/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you(mp)",
+        "source": "H413 (אֶל), HR/Sp2mp (preposition/suffix-2mp). KJV 'unto you', ESV 'to you', NASB 'to you'."
+      },
+      {
+        "position": 22,
+        "surface": "זֶה",
+        "phrase": "This is",
+        "literal": "this",
+        "source": "H2088 (זֶה), HPdxms (demonstrative-pronoun-ms). KJV 'this is', ESV 'This is', NASB 'This is'."
+      },
+      {
+        "position": 23,
+        "surface": "שְּׁמִ֣/י",
+        "phrase": "My name",
+        "literal": "name-of-me",
+        "source": "H8034 (שֵׁם), HNcmsc/Sp1cs (noun-common-ms-construct/suffix-1cs). KJV 'my name', ESV 'my name', NASB 'My name'."
+      },
+      {
+        "position": 24,
+        "surface": "לְ/עֹלָ֔ם",
+        "phrase": "forever",
+        "literal": "to-forever",
+        "source": "H5769 (עוֹלָם), HR/Ncmsa (preposition-lamed/noun-common-ms-absolute). KJV 'for ever', ESV 'forever', NASB 'forever'."
+      },
+      {
+        "position": 25,
+        "surface": "וְ/זֶ֥ה",
+        "phrase": "and this is",
+        "literal": "and-this",
+        "source": "H2088 (זֶה), HC/Pdxms (conjunctive/demonstrative-ms). KJV 'and this is', ESV 'and this', NASB 'and this is'."
+      },
+      {
+        "position": 26,
+        "surface": "זִכְרִ֖/י",
+        "phrase": "My memorial",
+        "literal": "memorial-of-me",
+        "source": "H2143 (זֵכֶר), HNcmsc/Sp1cs (noun-common-ms-construct/suffix-1cs). KJV 'my memorial', ESV 'my memorial name', NASB 'My memorial-name'."
+      },
+      {
+        "position": 27,
+        "surface": "לְ/דֹ֥ר",
+        "phrase": "to generation",
+        "literal": "to-generation",
+        "source": "H1755 (דּוֹר), HR/Ncmsa (preposition-lamed/noun-common-ms-absolute). KJV 'unto all generations', ESV 'throughout all generations', NASB 'to all generations'."
+      },
+      {
+        "position": 28,
+        "surface": "דֹּֽר",
+        "phrase": "after generation",
+        "literal": "generation",
+        "source": "H1755 (דּוֹר), HNcmsa (noun-common-ms-absolute). Repetition 'generation generation' = 'from generation to generation'. KJV, ESV, NASB all convey the idiomatic meaning."
+      }
+    ]
+  }
+]

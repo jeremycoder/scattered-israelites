@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵא֙",
+        "phrase": "And he went out",
+        "literal": "and-he-went-out",
+        "source": "H3318 (יָצָא, 'to go out'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'he went out', ESV 'he went out', NASB 'he went out' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "on-the-day",
+        "source": "H3117 (יוֹם, 'day'), HRd/Ncmsa (preposition-with-article/noun-common-masculine-singular-absolute); KJV 'the second day', ESV 'the next day', NASB 'the next day' — combined with next word"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שֵּׁנִ֔י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (שֵׁנִי, 'second'), HTd/Aomsa (article/adjective-ordinal-masculine-singular-absolute); KJV 'second', ESV 'next', NASB 'next' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּ֛ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (הִנֵּה, 'behold'), HC/Tm (conjunctive/demonstrative-particle); KJV 'and, behold', ESV 'behold', NASB 'and behold' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵֽי",
+        "phrase": "two",
+        "literal": "two-of",
+        "source": "H8147 (שְׁנַיִם, 'two'), HAcmdc (adjective-cardinal-masculine-dual-construct); KJV 'two', ESV 'two', NASB 'two' — all agree"
+      },
+      {
+        "position": 6,
+        "surface": "אֲנָשִׁ֥ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376 (אִישׁ, 'man'), HNcmpa (noun-common-masculine-plural-absolute); KJV 'men', ESV 'Hebrews', NASB 'Hebrews' — ESV/NASB combine with next word"
+      },
+      {
+        "position": 7,
+        "surface": "עִבְרִ֖ים",
+        "phrase": "Hebrews",
+        "literal": "Hebrews",
+        "source": "H5680 (עִבְרִי, 'Hebrew'), HNgmpa (gentilic-noun-masculine-plural-absolute); KJV 'of the Hebrews', ESV 'Hebrews', NASB 'Hebrews' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "נִצִּ֑ים",
+        "phrase": "fighting",
+        "literal": "striving/fighting",
+        "source": "H5327 (נָצָה, 'to struggle/fight'), HVNrmpa (Niphal-participle-masculine-plural-absolute); KJV 'strove together', ESV 'were fighting', NASB 'were fighting with each other' — all convey mutual combat"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (אָמַר, 'to say'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'he said', ESV 'he said', NASB 'he said' — all agree"
+      },
+      {
+        "position": 10,
+        "surface": "לָֽ/רָשָׁ֔ע",
+        "phrase": "to the guilty one",
+        "literal": "to-the-wicked",
+        "source": "H7563 (רָשָׁע, 'wicked/guilty'), HRd/Aamsa (preposition-lamed-with-article/adjective-masculine-singular-absolute); KJV 'to him that did the wrong', ESV 'to the man in the wrong', NASB 'to the offender' — all convey the guilty party"
+      },
+      {
+        "position": 11,
+        "surface": "לָ֥/מָּה",
+        "phrase": "Why",
+        "literal": "for-what",
+        "source": "H4100 (מָה, 'what'), HR/Ti (preposition-lamed/interrogative); KJV 'Wherefore', ESV 'Why', NASB 'Why' — all agree"
+      },
+      {
+        "position": 12,
+        "surface": "תַכֶּ֖ה",
+        "phrase": "do you strike",
+        "literal": "you-strike",
+        "source": "H5221 (נָכָה, 'to strike/smite'), HVhi2ms (Hiphil-imperfect-2ms); KJV 'smitest thou', ESV 'do you strike', NASB 'are you striking' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "רֵעֶֽ/ךָ",
+        "phrase": "your companion",
+        "literal": "companion-your(ms)",
+        "source": "H7453 (רֵעַ, 'friend/companion/neighbor'), HNcmsc/Sp2ms (noun-common-masculine-singular-construct/suffix-2ms); KJV 'thy fellow', ESV 'your companion', NASB 'your companion' — all agree"
+      }
+    ]
+  }
+]

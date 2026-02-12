@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֥אוּ",
+        "phrase": "And the shepherds came",
+        "literal": "and-they.came",
+        "source": "H935 (בּוֹא, qal wayyiqtol 3mp) with conjunctive waw; KJV/ESV/NASB 'came'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רֹעִ֖ים",
+        "phrase": "the shepherds",
+        "literal": "the-shepherds",
+        "source": "H7462 (רָעָה, qal participle masculine plural absolute) with article; KJV 'the shepherds', ESV 'the shepherds', NASB 'the shepherds'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יְגָרְשׁ֑וּ/ם",
+        "phrase": "and drove them away.",
+        "literal": "and-they.drove.away-them",
+        "source": "H1644 (גָּרַשׁ, piel wayyiqtol 3mp + 3mp suffix) with conjunctive waw; KJV 'drove them away', ESV 'drove them away', NASB 'drove them away'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּ֤קָם",
+        "phrase": "But Moses stood up",
+        "literal": "and-he.rose",
+        "source": "H6965 (קוּם, qal wayyiqtol 3ms) with conjunctive waw; KJV 'stood up', ESV 'stood up', NASB 'stood up'"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, proper noun); KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יּ֣וֹשִׁעָ֔/ן",
+        "phrase": "and helped them",
+        "literal": "and-he.saved-them(f)",
+        "source": "H3467 (יָשַׁע, hiphil wayyiqtol 3ms + 3fp suffix) with conjunctive waw; KJV 'helped them', ESV 'saved them', NASB 'helped them'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּ֖שְׁקְ",
+        "phrase": "and watered",
+        "literal": "and-he.watered",
+        "source": "H8248 (שָׁקָה, hiphil wayyiqtol 3ms) with conjunctive waw; KJV 'watered', ESV 'watered', NASB 'watered'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "צֹאנָֽ/ם",
+        "phrase": "their flock.",
+        "literal": "flock.of-them",
+        "source": "H6629 (צֹאן, noun common feminine singular construct + 3mp suffix); KJV/ESV/NASB 'their flock'"
+      }
+    ]
+  }
+]

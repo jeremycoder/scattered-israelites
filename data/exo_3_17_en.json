@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֹמַ֗ר",
+        "phrase": "And I said",
+        "literal": "and-I-said",
+        "source": "H559 (אמר), HC/Vqw1cs (conjunctive/Qal-wayyiqtol-1cs). KJV 'And I have said', ESV 'and I promise', NASB 'So I said'."
+      },
+      {
+        "position": 2,
+        "surface": "אַעֲלֶ֣ה",
+        "phrase": "I will bring up",
+        "literal": "I-will-bring-up",
+        "source": "H5927 (עלה), HVhi1cs (Hiphil-imperfect-1cs). KJV 'I will bring you up', ESV 'I will bring you up', NASB 'I will bring you up'."
+      },
+      {
+        "position": 3,
+        "surface": "אֶתְ/כֶם֮",
+        "phrase": "you",
+        "literal": "[obj]-you(mp)",
+        "source": "H853 (אֵת), HTo/Sp2mp (direct object marker/suffix-2mp). KJV 'you', ESV 'you', NASB 'you'."
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/עֳנִ֣י",
+        "phrase": "out of the affliction of",
+        "literal": "from-affliction-of",
+        "source": "H6040 (עֳנִי), HR/Ncmsc (preposition-min/noun-common-ms-construct). KJV 'out of the affliction of', ESV 'out of the affliction of', NASB 'from the affliction of'."
+      },
+      {
+        "position": 5,
+        "surface": "מִצְרַיִם֒",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם), HNp (proper noun). KJV, ESV, NASB all render 'Egypt'."
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֤רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 (אֶרֶץ), HNcbsc (noun-common-both-singular-construct). KJV 'the land of', ESV 'the land of', NASB 'the land of'."
+      },
+      {
+        "position": 8,
+        "surface": "הַֽ/כְּנַעֲנִי֙",
+        "phrase": "the Canaanite",
+        "literal": "the-Canaanite",
+        "source": "H3669 (כְּנַעֲנִי), HTd/Ngmsa (article/gentilic-ms-absolute). KJV, ESV, NASB all render 'the Canaanites'."
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ֣/חִתִּ֔י",
+        "phrase": "and the Hittite",
+        "literal": "and-the-Hittite",
+        "source": "H2850 (חִתִּי), HC/Td/Ngmsa (conjunctive/article/gentilic-ms-absolute). KJV, ESV, NASB all render 'and the Hittites'."
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הָֽ/אֱמֹרִי֙",
+        "phrase": "and the Amorite",
+        "literal": "and-the-Amorite",
+        "source": "H567 (אֱמֹרִי), HC/Td/Ngmsa (conjunctive/article/gentilic-ms-absolute). KJV, ESV, NASB all render 'and the Amorites'."
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הַ/פְּרִזִּ֔י",
+        "phrase": "and the Perizzite",
+        "literal": "and-the-Perizzite",
+        "source": "H6522 (פְּרִזִּי), HC/Td/Ngmsa (conjunctive/article/gentilic-ms-absolute). KJV, ESV, NASB all render 'and the Perizzites'."
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הַ/חִוִּ֖י",
+        "phrase": "and the Hivite",
+        "literal": "and-the-Hivite",
+        "source": "H2340 (חִוִּי), HC/Td/Ngmsa (conjunctive/article/gentilic-ms-absolute). KJV, ESV, NASB all render 'and the Hivites'."
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הַ/יְבוּסִ֑י",
+        "phrase": "and the Jebusite",
+        "literal": "and-the-Jebusite",
+        "source": "H2983 (יְבוּסִי), HC/Td/Ngmsa (conjunctive/article/gentilic-ms-absolute). KJV, ESV, NASB all render 'and the Jebusites'."
+      },
+      {
+        "position": 14,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 15,
+        "surface": "אֶ֛רֶץ",
+        "phrase": "a land",
+        "literal": "land",
+        "source": "H776 (אֶרֶץ), HNcbsa (noun-common-both-singular-absolute). KJV 'a land', ESV 'a land', NASB 'a land'."
+      },
+      {
+        "position": 16,
+        "surface": "זָבַ֥ת",
+        "phrase": "flowing with",
+        "literal": "flowing",
+        "source": "H2100 (זוב), HVqrfsc (Qal-participle-fs-construct). KJV 'flowing with', ESV 'flowing with', NASB 'flowing with'. All agree."
+      },
+      {
+        "position": 17,
+        "surface": "חָלָ֖ב",
+        "phrase": "milk",
+        "literal": "milk",
+        "source": "H2461 (חָלָב), HNcmsa (noun-common-ms-absolute). KJV, ESV, NASB all render 'milk'."
+      },
+      {
+        "position": 18,
+        "surface": "וּ/דְבָֽשׁ",
+        "phrase": "and honey",
+        "literal": "and-honey",
+        "source": "H1706 (דְּבַשׁ), HC/Ncmsa (conjunctive/noun-common-ms-absolute). KJV, ESV, NASB all render 'and honey'."
+      }
+    ]
+  }
+]

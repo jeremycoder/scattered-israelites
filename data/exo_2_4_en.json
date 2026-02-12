@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּתַצַּ֥ב",
+        "phrase": "And stationed herself",
+        "literal": "and-she-stationed-herself",
+        "source": "H3320 (יָצַב, 'to station oneself/stand'), HC/Vtw3fs (conjunctive/Hithpael-wayyiqtol-3fs); KJV 'stood', ESV 'stood', NASB 'stationed herself' — all convey positioning"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחֹת֖/וֹ",
+        "phrase": "his sister",
+        "literal": "sister-his",
+        "source": "H269 (אָחוֹת, 'sister'), HNcfsc/Sp3ms (noun-common-feminine-singular-construct/suffix-3ms); KJV 'his sister', ESV 'His sister', NASB 'His sister' — all agree"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/רָחֹ֑ק",
+        "phrase": "at a distance",
+        "literal": "from-afar",
+        "source": "H7350 (רָחוֹק, 'far/distant'), HR/Aamsa (preposition-min/adjective-masculine-singular-absolute); KJV 'afar off', ESV 'at a distance', NASB 'at a distance' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/דֵעָ֕ה",
+        "phrase": "to know",
+        "literal": "to-know",
+        "source": "H3045 (יָדַע, 'to know'), HR/Vqc (preposition-lamed/Qal-infinitive-construct); KJV 'to know', ESV 'to know', NASB 'to learn' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "H4100 (מָה, 'what'), HTi (interrogative); KJV/ESV/NASB all render 'what'"
+      },
+      {
+        "position": 6,
+        "surface": "יֵּעָשֶׂ֖ה",
+        "phrase": "would be done",
+        "literal": "would-be-done",
+        "source": "H6213 (עָשָׂה, 'to do/make'), HVNi3ms (Niphal-imperfect-3ms); KJV 'would be done', ESV 'would happen', NASB 'would happen' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "לֽ/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition lamed + suffix 3ms, HR/Sp3ms; KJV 'to him', ESV 'to him', NASB 'to him' — all agree"
+      }
+    ]
+  }
+]

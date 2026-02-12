@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֣ו",
+        "phrase": "And Pharaoh commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 Piel wayyiqtol 3ms; KJV 'And Pharaoh charged', ESV 'Then Pharaoh commanded', NASB 'Then Pharaoh commanded' — ESV/NASB agree; KJV uses 'charged'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper noun; KJV/ESV/NASB all 'Pharaoh'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/כָל",
+        "phrase": "all",
+        "literal": "to-all",
+        "source": "H3605 prep + noun masc sg cstr; KJV 'all', ESV 'all', NASB 'all' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "עַמּ֖/וֹ",
+        "phrase": "his people,",
+        "literal": "people-his",
+        "source": "H5971 noun masc sg cstr + 3ms suffix; KJV 'all his people', ESV 'all his people', NASB 'all his people' — all agree"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying,",
+        "literal": "to-say",
+        "source": "H559 prep + Qal inf cstr; KJV 'saying', ESV (restructures), NASB 'saying' — KJV/NASB agree"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "Every",
+        "literal": "all",
+        "source": "H3605 noun masc sg cstr; KJV 'Every', ESV 'Every', NASB 'Every' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/בֵּ֣ן",
+        "phrase": "son",
+        "literal": "the-son",
+        "source": "H1121 article + noun masc sg abs; KJV 'son', ESV 'son', NASB 'son' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יִּלּ֗וֹד",
+        "phrase": "who is born",
+        "literal": "the-one-born",
+        "source": "H3209 article + Qal passive participle masc sg abs; KJV 'that is born', ESV 'born', NASB 'who is born' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יְאֹ֨רָ/ה֙",
+        "phrase": "into the Nile",
+        "literal": "the-Nile-[dir]",
+        "source": "H2975 article + proper noun + directional he; KJV 'into the river', ESV 'into the Nile', NASB 'into the Nile' — ESV/NASB agree; KJV uses generic 'river'"
+      },
+      {
+        "position": 10,
+        "surface": "תַּשְׁלִיכֻ֔/הוּ",
+        "phrase": "you shall cast,",
+        "literal": "you-shall-throw-him",
+        "source": "H7993 Hiphil impf 2mp + 3ms suffix; KJV 'ye shall cast', ESV 'you shall cast', NASB 'you must throw' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/כָל",
+        "phrase": "but every",
+        "literal": "and-all",
+        "source": "H3605 conj + noun masc sg cstr; KJV 'and every', ESV 'but every', NASB 'but every' — ESV/NASB add adversative 'but'"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/בַּ֖ת",
+        "phrase": "daughter",
+        "literal": "the-daughter",
+        "source": "H1323 article + noun fem sg abs; KJV 'daughter', ESV 'daughter', NASB 'daughter' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "תְּחַיּֽוּ/ן",
+        "phrase": "you shall let live.",
+        "literal": "you-shall-let-live",
+        "source": "H2421 Piel impf 2mp + paragogic nun; KJV 'ye shall save alive', ESV 'you shall let live', NASB 'you shall let live' — ESV/NASB agree; KJV uses 'save alive'"
+      }
+    ]
+  }
+]

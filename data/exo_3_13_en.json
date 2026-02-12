@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (אמר), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms). KJV 'And Moses said', ESV 'Then Moses said', NASB 'Then Moses said'."
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֜ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה), HNp (proper noun). KJV, ESV, NASB all render 'Moses'."
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 4,
+        "surface": "הָֽ/אֱלֹהִ֗ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 (אֱלֹהִים), HTd/Ncmpa (article/noun-common-mp-absolute). KJV 'God', ESV 'God', NASB 'God'."
+      },
+      {
+        "position": 5,
+        "surface": "הִנֵּ֨ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2009 (הִנֵּה), HTm (interjection/presentative). KJV 'Behold', ESV 'If', NASB 'Behold'."
+      },
+      {
+        "position": 6,
+        "surface": "אָנֹכִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (אָנֹכִי), HPp1cs (personal-pronoun-1cs). KJV 'I', ESV 'I', NASB 'I'."
+      },
+      {
+        "position": 7,
+        "surface": "בָא֮",
+        "phrase": "come",
+        "literal": "coming",
+        "source": "H935 (בוא), HVqrmsa (Qal-participle-ms-absolute). KJV 'come', ESV 'come', NASB 'come'. All agree."
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן), HNcmpc (noun-common-mp-construct). KJV 'children of', ESV 'people of', NASB 'sons of'."
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵל֒",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל), HNp (proper noun). KJV, ESV, NASB all render 'Israel'."
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אָמַרְתִּ֣י",
+        "phrase": "and I say",
+        "literal": "and-I-said",
+        "source": "H559 (אמר), HC/Vqq1cs (conjunctive/Qal-perfect-1cs, prophetic/future use). KJV 'and shall say', ESV 'and I say', NASB 'and I say'."
+      },
+      {
+        "position": 12,
+        "surface": "לָ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them(mp)",
+        "source": "Preposition lamed + suffix 3mp. KJV 'unto them', ESV 'to them', NASB 'to them'."
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "The God of",
+        "literal": "God-of",
+        "source": "H430 (אֱלֹהִים), HNcmpc (noun-common-mp-construct). KJV 'The God of', ESV 'The God of', NASB 'The God of'."
+      },
+      {
+        "position": 14,
+        "surface": "אֲבוֹתֵי/כֶ֖ם",
+        "phrase": "your fathers",
+        "literal": "fathers-of-you(mp)",
+        "source": "H1 (אָב), HNcmpc/Sp2mp (noun-common-mp-construct/suffix-2mp). KJV 'your fathers', ESV 'your fathers', NASB 'your fathers'."
+      },
+      {
+        "position": 15,
+        "surface": "שְׁלָחַ֣/נִי",
+        "phrase": "has sent me",
+        "literal": "he-sent-me",
+        "source": "H7971 (שׁלח), HVqp3ms/Sp1cs (Qal-perfect-3ms/suffix-1cs). KJV 'hath sent me', ESV 'has sent me', NASB 'has sent me'."
+      },
+      {
+        "position": 16,
+        "surface": "אֲלֵי/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you(mp)",
+        "source": "H413 (אֶל), HR/Sp2mp (preposition/suffix-2mp). KJV 'unto you', ESV 'to you', NASB 'to you'."
+      },
+      {
+        "position": 17,
+        "surface": "וְ/אָֽמְרוּ",
+        "phrase": "and they say",
+        "literal": "and-they-said",
+        "source": "H559 (אמר), HC/Vqq3cp (conjunctive/Qal-perfect-3cp, prophetic/future use). KJV 'and they shall say', ESV 'and they ask', NASB 'and they say'."
+      },
+      {
+        "position": 18,
+        "surface": "לִ֣/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "Preposition lamed + suffix 1cs. KJV 'to me', ESV 'me', NASB 'to me'."
+      },
+      {
+        "position": 19,
+        "surface": "מַה",
+        "phrase": "What is",
+        "literal": "what?",
+        "source": "H4100 (מָה), HTi (interrogative). KJV 'What', ESV 'What', NASB 'What'. All agree."
+      },
+      {
+        "position": 20,
+        "surface": "שְּׁמ֔/וֹ",
+        "phrase": "His name?",
+        "literal": "name-of-him",
+        "source": "H8034 (שֵׁם), HNcmsc/Sp3ms (noun-common-ms-construct/suffix-3ms). KJV 'his name', ESV 'his name', NASB 'His name'."
+      },
+      {
+        "position": 21,
+        "surface": "מָ֥ה",
+        "phrase": "what",
+        "literal": "what?",
+        "source": "H4100 (מָה), HTi (interrogative). KJV 'What', ESV 'what', NASB 'what'. All agree."
+      },
+      {
+        "position": 22,
+        "surface": "אֹמַ֖ר",
+        "phrase": "shall I say",
+        "literal": "I-shall-say",
+        "source": "H559 (אמר), HVqi1cs (Qal-imperfect-1cs). KJV 'shall I say', ESV 'shall I say', NASB 'shall I say'."
+      },
+      {
+        "position": 23,
+        "surface": "אֲלֵ/הֶֽם",
+        "phrase": "to them?",
+        "literal": "to-them(mp)",
+        "source": "H413 (אֶל), HR/Sp3mp (preposition/suffix-3mp). KJV 'unto them', ESV 'to them', NASB 'to them'."
+      }
+    ]
+  }
+]

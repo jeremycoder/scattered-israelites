@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֤ע",
+        "phrase": "And Pharaoh heard",
+        "literal": "and-he.heard",
+        "source": "H8085 (שָׁמַע, qal wayyiqtol 3ms) with conjunctive waw; KJV 'heard', ESV 'heard', NASB 'heard'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, proper noun); KJV/ESV/NASB 'Pharaoh'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "this thing,",
+        "literal": "the-matter",
+        "source": "H1697 (דָּבָר, noun common masculine singular absolute) with article; KJV 'this thing', ESV 'of it', NASB 'this matter'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this,",
+        "literal": "the-this",
+        "source": "H2088 (זֶה, demonstrative pronoun masculine singular) with article; KJV/NASB 'this', ESV implied"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְבַקֵּ֖שׁ",
+        "phrase": "and he sought",
+        "literal": "and-he.sought",
+        "source": "H1245 (בָּקַשׁ, piel wayyiqtol 3ms) with conjunctive waw; KJV 'he sought', ESV 'he sought', NASB 'he tried'"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/הֲרֹ֣ג",
+        "phrase": "to kill",
+        "literal": "to-kill",
+        "source": "H2026 (הָרַג, qal infinitive construct) with preposition lamed; KJV/ESV/NASB 'to kill'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses.",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, proper noun); KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּבְרַ֤ח",
+        "phrase": "But Moses fled",
+        "literal": "and-he.fled",
+        "source": "H1272 (בָּרַח, qal wayyiqtol 3ms) with conjunctive waw; KJV 'fled', ESV 'fled', NASB 'fled'"
+      },
+      {
+        "position": 11,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, proper noun); KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/פְּנֵ֣י",
+        "phrase": "from the presence of",
+        "literal": "from-face.of",
+        "source": "H6440 (פָּנִים, noun common masculine plural construct) with preposition min; KJV 'from the face of', ESV/NASB 'from'"
+      },
+      {
+        "position": 13,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, proper noun); KJV/ESV/NASB 'Pharaoh'"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "and settled",
+        "literal": "and-he.dwelt",
+        "source": "H3427 (יָשַׁב, qal wayyiqtol 3ms) with conjunctive waw; KJV 'dwelt', ESV 'settled', NASB 'settled'"
+      },
+      {
+        "position": 15,
+        "surface": "בְּ/אֶֽרֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land.of",
+        "source": "H776 (אֶרֶץ, noun common feminine singular construct) with preposition beth; KJV/ESV/NASB 'in the land of'"
+      },
+      {
+        "position": 16,
+        "surface": "מִדְיָ֖ן",
+        "phrase": "Midian,",
+        "literal": "Midian",
+        "source": "H4080 (מִדְיָן, proper noun); KJV/ESV/NASB 'Midian'"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/יֵּ֥שֶׁב",
+        "phrase": "and he sat down",
+        "literal": "and-he.sat",
+        "source": "H3427 (יָשַׁב, qal wayyiqtol 3ms) with conjunctive waw; KJV 'sat down', ESV 'sat down', NASB 'sat down'"
+      },
+      {
+        "position": 18,
+        "surface": "עַֽל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "H5921 (עַל, preposition); KJV 'by', ESV 'beside', NASB 'beside'"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/בְּאֵֽר",
+        "phrase": "a well.",
+        "literal": "the-well",
+        "source": "H875 (בְּאֵר, noun common feminine singular absolute) with article; KJV/ESV/NASB 'a well'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּשִׂ֤ימוּ",
+        "phrase": "So they set",
+        "literal": "and-they-set",
+        "source": "H7760 (conjunction + Qal wayyiqtol 3mp); KJV 'Therefore they did set', ESV/NASB 'Therefore they set'"
+      },
+      {
+        "position": 2,
+        "surface": "עָלָי/ו֙",
+        "phrase": "over them",
+        "literal": "over-him",
+        "source": "H5921 (preposition + 3ms suffix, collective reference); KJV/ESV/NASB 'over them'"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂרֵ֣י",
+        "phrase": "masters of",
+        "literal": "officers-of",
+        "source": "H8269 (noun common masculine plural construct); KJV 'taskmasters', ESV 'taskmasters', NASB 'taskmasters'"
+      },
+      {
+        "position": 4,
+        "surface": "מִסִּ֔ים",
+        "phrase": "forced labor",
+        "literal": "tribute/corvee",
+        "source": "H4522 (noun common masculine plural absolute); KJV 'taskmasters' (as one phrase with prev.), ESV 'taskmasters', NASB 'taskmasters' (lit. 'officers of forced-labor')"
+      },
+      {
+        "position": 5,
+        "surface": "לְמַ֥עַן",
+        "phrase": "in order to",
+        "literal": "for-the-purpose-of",
+        "source": "H4616 (preposition of purpose); KJV 'to', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 6,
+        "surface": "עַנֹּת֖/וֹ",
+        "phrase": "afflict them",
+        "literal": "afflict-him",
+        "source": "H6031 (Piel infinitive construct + 3ms suffix, collective); KJV 'afflict them', ESV 'oppress them', NASB 'afflict them'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/סִבְלֹתָ֑/ם",
+        "phrase": "with their burdens.",
+        "literal": "with-burdens-their",
+        "source": "H5450 (preposition + noun common feminine plural construct + 3mp suffix); KJV 'with their burdens', ESV 'with heavy burdens', NASB 'with hard labor'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּ֜בֶן",
+        "phrase": "And they built",
+        "literal": "and-he-built",
+        "source": "H1129 (conjunction + Qal wayyiqtol 3ms, collective subject); KJV 'And they built', ESV/NASB 'They built'"
+      },
+      {
+        "position": 9,
+        "surface": "עָרֵ֤י",
+        "phrase": "cities of",
+        "literal": "cities-of",
+        "source": "H5892 (noun common feminine plural construct); KJV/ESV/NASB 'cities'"
+      },
+      {
+        "position": 10,
+        "surface": "מִסְכְּנוֹת֙",
+        "phrase": "storage",
+        "literal": "supply/store",
+        "source": "H4543 (noun common feminine plural absolute); KJV 'treasure cities', ESV/NASB 'store cities'"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/פַרְעֹ֔ה",
+        "phrase": "for Pharaoh:",
+        "literal": "for-Pharaoh",
+        "source": "H6547 (preposition + proper noun); KJV/ESV/NASB 'for Pharaoh'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "[dir.obj]",
+        "source": "H853 (definite direct object marker); untranslated in English"
+      },
+      {
+        "position": 13,
+        "surface": "פִּתֹ֖ם",
+        "phrase": "Pithom",
+        "literal": "Pithom",
+        "source": "H6619 (proper noun); KJV/ESV/NASB 'Pithom'"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[dir.obj]",
+        "source": "H853 (conjunction + definite direct object marker); untranslated in English except for the 'and'"
+      },
+      {
+        "position": 15,
+        "surface": "רַעַמְסֵֽס",
+        "phrase": "Raamses.",
+        "literal": "Raamses",
+        "source": "H7486 (proper noun); KJV 'Raamses', ESV/NASB 'Rameses'"
+      }
+    ]
+  }
+]

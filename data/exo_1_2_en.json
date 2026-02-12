@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רְאוּבֵ֣ן",
+        "phrase": "Reuben,",
+        "literal": "Reuben",
+        "source": "H7205 (proper noun); KJV/ESV/NASB 'Reuben'"
+      },
+      {
+        "position": 2,
+        "surface": "שִׁמְע֔וֹן",
+        "phrase": "Simeon,",
+        "literal": "Simeon",
+        "source": "H8095 (proper noun); KJV/ESV/NASB 'Simeon'"
+      },
+      {
+        "position": 3,
+        "surface": "לֵוִ֖י",
+        "phrase": "Levi,",
+        "literal": "Levi",
+        "source": "H3878 (proper noun); KJV/ESV/NASB 'Levi'"
+      },
+      {
+        "position": 4,
+        "surface": "וִ/יהוּדָֽה",
+        "phrase": "and Judah,",
+        "literal": "and-Judah",
+        "source": "H3063 (conjunction + proper noun); KJV/ESV/NASB 'and Judah'"
+      }
+    ]
+  }
+]

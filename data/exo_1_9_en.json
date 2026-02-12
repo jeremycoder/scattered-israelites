@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (conjunction + Qal wayyiqtol 3ms); KJV/ESV/NASB 'And he said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (preposition); KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 3,
+        "surface": "עַמּ֑/וֹ",
+        "phrase": "his people,",
+        "literal": "people-his",
+        "source": "H5971 (noun common masculine singular construct + 3ms suffix); KJV/ESV/NASB 'his people'"
+      },
+      {
+        "position": 4,
+        "surface": "הִנֵּ֗ה",
+        "phrase": "Behold,",
+        "literal": "behold",
+        "source": "H2009 (interjection/demonstrative particle); KJV 'Behold', ESV/NASB 'Behold'"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֚ם",
+        "phrase": "the people of",
+        "literal": "people-of",
+        "source": "H5971 (noun common masculine singular construct); KJV/ESV/NASB 'the people of'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (noun common masculine plural construct); KJV 'the children of', ESV/NASB 'the people of'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (proper noun); KJV/ESV/NASB 'Israel'"
+      },
+      {
+        "position": 8,
+        "surface": "רַ֥ב",
+        "phrase": "are more",
+        "literal": "great",
+        "source": "H7227 (adjective masculine singular absolute); KJV 'more', ESV/NASB 'are more'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/עָצ֖וּם",
+        "phrase": "and mightier",
+        "literal": "and-mighty",
+        "source": "H6099 (conjunction + adjective masculine singular absolute); KJV 'and mightier', ESV/NASB 'and mightier'"
+      },
+      {
+        "position": 10,
+        "surface": "מִמֶּֽ/נּוּ",
+        "phrase": "than we.",
+        "literal": "than-us",
+        "source": "H4480 (comparative preposition + 1cp suffix); KJV/ESV/NASB 'than we'"
+      }
+    ]
+  }
+]

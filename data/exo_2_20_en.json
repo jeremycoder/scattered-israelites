@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he.said",
+        "source": "H559 (אָמַר, qal wayyiqtol 3ms) with conjunctive waw; KJV/ESV/NASB 'he said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (אֶל, preposition); KJV/ESV/NASB 'to' / 'unto'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֹתָ֖י/ו",
+        "phrase": "his daughters,",
+        "literal": "daughters.of-him",
+        "source": "H1323 (בַּת, noun common feminine plural construct + 3ms suffix); KJV/ESV/NASB 'his daughters'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַיּ֑/וֹ",
+        "phrase": "Where is he?",
+        "literal": "and-where-he",
+        "source": "H346 (אַיֵּה, interrogative + 3ms suffix) with conjunctive waw; KJV 'where is he', ESV 'where is he', NASB 'where is he then'"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֤/מָּה",
+        "phrase": "Why",
+        "literal": "to-what",
+        "source": "H4100 (מָה, interrogative) with preposition lamed; KJV 'why is it that', ESV 'why', NASB 'why'"
+      },
+      {
+        "position": 6,
+        "surface": "זֶּה֙",
+        "phrase": "is it that",
+        "literal": "this",
+        "source": "H2088 (זֶה, demonstrative pronoun masculine singular); KJV/ESV/NASB implied in 'why is it that'"
+      },
+      {
+        "position": 7,
+        "surface": "עֲזַבְתֶּ֣ן",
+        "phrase": "you have left",
+        "literal": "you(fp).left",
+        "source": "H5800 (עָזַב, qal perfect 2fp); KJV 'ye have left', ESV 'you have left', NASB 'you have left'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אִ֔ישׁ",
+        "phrase": "the man?",
+        "literal": "the-man",
+        "source": "H376 (אִישׁ, noun common masculine singular absolute) with article; KJV/ESV/NASB 'the man'"
+      },
+      {
+        "position": 10,
+        "surface": "קִרְאֶ֥ן",
+        "phrase": "Call",
+        "literal": "call(fp)",
+        "source": "H7121 (קָרָא, qal imperative 2fp); KJV 'call him', ESV 'call him', NASB 'invite him'"
+      },
+      {
+        "position": 11,
+        "surface": "ל֖/וֹ",
+        "phrase": "him,",
+        "literal": "to-him",
+        "source": "Preposition lamed + 3ms suffix; KJV/ESV/NASB 'him'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/יֹ֥אכַל",
+        "phrase": "that he may eat",
+        "literal": "and-let.him.eat",
+        "source": "H398 (אָכַל, qal jussive 3ms) with conjunctive waw; KJV 'that he may eat', ESV 'that he may eat', NASB 'to eat'"
+      },
+      {
+        "position": 13,
+        "surface": "לָֽחֶם",
+        "phrase": "bread.",
+        "literal": "bread",
+        "source": "H3899 (לֶחֶם, noun common masculine singular absolute); KJV 'bread', ESV 'bread', NASB 'food'"
+      }
+    ]
+  }
+]

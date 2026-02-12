@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִגְדַּ֣ל",
+        "phrase": "And grew",
+        "literal": "and-he-grew",
+        "source": "H1431 (גָּדַל, 'to grow/become great'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'the child grew', ESV 'the child grew older', NASB 'the child grew' — all agree"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יֶּ֗לֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "H3206 (יֶלֶד, 'child/boy'), HTd/Ncmsa (article/noun-common-masculine-singular-absolute); KJV/ESV/NASB all render 'the child'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תְּבִאֵ֨/הוּ֙",
+        "phrase": "and she brought him",
+        "literal": "and-she-brought-him",
+        "source": "H935 (בּוֹא, 'to come/go'), HC/Vhw3fs/Sp3ms (conjunctive/Hiphil-wayyiqtol-3fs/suffix-3ms, causative = 'brought'); KJV 'she brought him', ESV 'she brought him', NASB 'she brought him' — all agree"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בַת",
+        "phrase": "to the daughter of",
+        "literal": "to-daughter-of",
+        "source": "H1323 (בַּת, 'daughter'), HR/Ncfsc (preposition-lamed/noun-common-feminine-singular-construct); KJV/ESV/NASB all render 'to Pharaoh's daughter'"
+      },
+      {
+        "position": 5,
+        "surface": "פַּרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), HNp (proper-noun); KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יְהִי",
+        "phrase": "and he became",
+        "literal": "and-he-was/became",
+        "source": "H1961 (הָיָה, 'to be/become'), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms); KJV 'he became', ESV 'he became', NASB 'he became' — all agree"
+      },
+      {
+        "position": 7,
+        "surface": "לָ֖/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "Preposition lamed + suffix 3fs, HR/Sp3fs; KJV 'her', ESV 'her', NASB 'her' — all agree"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/בֵ֑ן",
+        "phrase": "as a son",
+        "literal": "for-a-son",
+        "source": "H1121 (בֵּן, 'son'), HR/Ncmsa (preposition-lamed/noun-common-masculine-singular-absolute); KJV 'her son', ESV 'her son', NASB 'her son' — all agree"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תִּקְרָ֤א",
+        "phrase": "and she called",
+        "literal": "and-she-called",
+        "source": "H7121 (קָרָא, 'to call'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she called', ESV 'She named', NASB 'she named' — all agree"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמ/וֹ֙",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "H8034 (שֵׁם, 'name'), HNcmsc/Sp3ms (noun-common-masculine-singular-construct/suffix-3ms); KJV 'his name', ESV 'him', NASB 'him' — all agree"
+      },
+      {
+        "position": 11,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, 'Moses'), HNp (proper-noun); KJV/ESV/NASB all render 'Moses'"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (אָמַר, 'to say'), HC/Vqw3fs (conjunctive/Qal-wayyiqtol-3fs); KJV 'she said', ESV 'she said', NASB 'she said' — all agree"
+      },
+      {
+        "position": 13,
+        "surface": "כִּ֥י",
+        "phrase": "Because",
+        "literal": "because",
+        "source": "H3588 (כִּי, 'because/for'), HC (conjunction); KJV 'Because', ESV 'Because', NASB 'Because' — all agree"
+      },
+      {
+        "position": 14,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (מִן, 'from/out of'), HR (preposition); KJV 'out of', ESV 'out of', NASB 'out of' — all agree"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/מַּ֖יִם",
+        "phrase": "the water",
+        "literal": "the-waters",
+        "source": "H4325 (מַיִם, 'water/waters'), HTd/Ncmpa (article/noun-common-masculine-plural-absolute); KJV 'the water', ESV 'the water', NASB 'the water' — all agree"
+      },
+      {
+        "position": 16,
+        "surface": "מְשִׁיתִֽ/הוּ",
+        "phrase": "I drew him out",
+        "literal": "I-drew-out-him",
+        "source": "H4871 (מָשָׁה, 'to draw out'), HVqp1cs/Sp3ms (Qal-perfect-1cs/suffix-3ms); etymology of Moses' name; KJV 'I drew him', ESV 'I drew him out', NASB 'I drew him out' — all agree"
+      }
+    ]
+  }
+]

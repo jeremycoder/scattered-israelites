@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 2,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/לְ/כֹהֵ֥ן",
+        "phrase": "Now the priest of",
+        "literal": "and-to-priest.of",
+        "source": "H3548 (כֹּהֵן, noun common masculine singular construct) with conjunctive waw and preposition lamed; KJV 'the priest of', ESV 'the priest of', NASB 'the priest of'"
+      },
+      {
+        "position": 2,
+        "surface": "מִדְיָ֖ן",
+        "phrase": "Midian",
+        "literal": "Midian",
+        "source": "H4080 (מִדְיָן, proper noun); KJV/ESV/NASB 'Midian'"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "had seven",
+        "literal": "seven",
+        "source": "H7651 (שֶׁבַע, adjective cardinal feminine singular absolute); KJV/ESV/NASB 'seven'"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנ֑וֹת",
+        "phrase": "daughters.",
+        "literal": "daughters",
+        "source": "H1323 (בַּת, noun common feminine plural absolute); KJV/ESV/NASB 'daughters'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תָּבֹ֣אנָה",
+        "phrase": "And they came",
+        "literal": "and-they(f).came",
+        "source": "H935 (בּוֹא, qal wayyiqtol 3fp) with conjunctive waw; KJV/ESV/NASB 'they came'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּדְלֶ֗נָה",
+        "phrase": "and drew water,",
+        "literal": "and-they(f).drew",
+        "source": "H1802 (דָּלָה, qal wayyiqtol 3fp) with conjunctive waw; KJV 'drew', ESV 'drew water', NASB 'drew'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תְּמַלֶּ֨אנָה֙",
+        "phrase": "and filled",
+        "literal": "and-they(f).filled",
+        "source": "H4390 (מָלֵא, piel wayyiqtol 3fp) with conjunctive waw; KJV/ESV/NASB 'filled'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "(DOM)",
+        "source": "H853 (אֵת, direct object marker); untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "הָ֣/רְהָטִ֔ים",
+        "phrase": "the troughs",
+        "literal": "the-troughs",
+        "source": "H7298 (רַהַט, noun common masculine plural absolute) with article; KJV 'troughs', ESV 'troughs', NASB 'troughs'"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/הַשְׁק֖וֹת",
+        "phrase": "to water",
+        "literal": "to-cause.to.drink",
+        "source": "H8248 (שָׁקָה, hiphil infinitive construct) with preposition lamed; KJV 'to water', ESV 'to water', NASB 'to water'"
+      },
+      {
+        "position": 11,
+        "surface": "צֹ֥אן",
+        "phrase": "the flock of",
+        "literal": "flock.of",
+        "source": "H6629 (צֹאן, noun common feminine singular construct); KJV 'flock', ESV 'flock', NASB 'flock'"
+      },
+      {
+        "position": 12,
+        "surface": "אֲבִי/הֶֽן",
+        "phrase": "their father.",
+        "literal": "father.of-them(f)",
+        "source": "H1 (אָב, noun common masculine singular construct + 3fp suffix); KJV/ESV/NASB 'their father's'"
+      }
+    ]
+  }
+]

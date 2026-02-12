@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֗לֶּה",
+        "phrase": "And these are",
+        "literal": "and-these",
+        "source": "H428 (demonstrative pronoun common plural) + conjunction; KJV/ESV/NASB all render 'Now these are' or 'These are'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוֹת֙",
+        "phrase": "the names of",
+        "literal": "names-of",
+        "source": "H8034 (noun common masculine plural construct); KJV/ESV/NASB 'names'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (noun common masculine plural construct); KJV 'children of', ESV/NASB 'sons of'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (proper noun); KJV/ESV/NASB 'Israel'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בָּאִ֖ים",
+        "phrase": "who came to",
+        "literal": "the-coming(ones)",
+        "source": "H935 (article + Qal active participle masculine plural absolute); KJV 'which came into', ESV 'who came to', NASB 'who came to'"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרָ֑יְמָ/ה",
+        "phrase": "Egypt",
+        "literal": "Egypt-ward",
+        "source": "H4714 (proper noun + directional he); KJV/ESV/NASB 'Egypt'"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֣ת",
+        "phrase": "with",
+        "literal": "[object marker]",
+        "source": "H854 (preposition 'with'); KJV 'with', ESV/NASB 'with'"
+      },
+      {
+        "position": 8,
+        "surface": "יַעֲקֹ֔ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290 (proper noun); KJV/ESV/NASB 'Jacob'"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֥ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376 (noun common masculine singular absolute); KJV 'every man', ESV 'each', NASB 'each one'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בֵית֖/וֹ",
+        "phrase": "and his household",
+        "literal": "and-house-of-his",
+        "source": "H1004 (conjunction + noun common masculine singular construct + 3ms suffix); KJV 'and his household', ESV/NASB 'with his household'"
+      },
+      {
+        "position": 11,
+        "surface": "בָּֽאוּ",
+        "phrase": "came",
+        "literal": "they-came",
+        "source": "H935 (Qal perfect 3rd common plural); KJV/ESV/NASB 'came'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (אמר), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms). KJV, ESV, NASB all render 'And God said'."
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (אֱלֹהִים), HNcmpa (noun-common-mp-absolute). KJV 'God', ESV 'God', NASB 'God'. All agree."
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to/unto",
+        "source": "H413 (אֶל), HR (preposition). KJV 'unto', ESV 'to', NASB 'to'."
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה), HNp (proper noun). KJV, ESV, NASB all render 'Moses'."
+      },
+      {
+        "position": 5,
+        "surface": "אֶֽהְיֶ֖ה",
+        "phrase": "I AM",
+        "literal": "I-will-be",
+        "source": "H1961 (היה), HVqi1cs (Qal-imperfect-1cs). DIVERGENT: KJV 'I AM THAT I AM', ESV 'I AM WHO I AM', NASB 'I AM WHO I AM'. Some scholars render 'I will be what I will be' (future tense). The Qal imperfect can express both present and future aspects. This is one of the most theologically significant phrases in the Hebrew Bible."
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "WHO",
+        "literal": "who/which/that",
+        "source": "H834 (אֲשֶׁר), HTr (relative particle). KJV 'THAT', ESV 'WHO', NASB 'WHO'."
+      },
+      {
+        "position": 7,
+        "surface": "אֶֽהְיֶ֑ה",
+        "phrase": "I AM",
+        "literal": "I-will-be",
+        "source": "H1961 (היה), HVqi1cs (Qal-imperfect-1cs). DIVERGENT: See note on position 5. The repeated אֶהְיֶה (Ehyeh) forms the divine self-disclosure אֶהְיֶה אֲשֶׁר אֶהְיֶה (Ehyeh Asher Ehyeh)."
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "And He said",
+        "literal": "and-he-said",
+        "source": "H559 (אמר), HC/Vqw3ms (conjunctive/Qal-wayyiqtol-3ms). KJV 'And he said', ESV 'And he said', NASB 'And He said'."
+      },
+      {
+        "position": 9,
+        "surface": "כֹּ֤ה",
+        "phrase": "Thus",
+        "literal": "thus/so",
+        "source": "H3541 (כֹּה), HD (adverb). KJV 'Thus', ESV 'Say this', NASB 'Thus'."
+      },
+      {
+        "position": 10,
+        "surface": "תֹאמַר֙",
+        "phrase": "you shall say",
+        "literal": "you(ms)-shall-say",
+        "source": "H559 (אמר), HVqi2ms (Qal-imperfect-2ms). KJV 'shalt thou say', ESV 'say', NASB 'you shall say'."
+      },
+      {
+        "position": 11,
+        "surface": "לִ/בְנֵ֣י",
+        "phrase": "to the sons of",
+        "literal": "to-sons-of",
+        "source": "H1121 (בֵּן), HR/Ncmpc (preposition-lamed/noun-common-mp-construct). KJV 'unto the children of', ESV 'to the people of', NASB 'to the sons of'."
+      },
+      {
+        "position": 12,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל), HNp (proper noun). KJV, ESV, NASB all render 'Israel'."
+      },
+      {
+        "position": 13,
+        "surface": "אֶֽהְיֶ֖ה",
+        "phrase": "I AM",
+        "literal": "I-will-be",
+        "source": "H1961 (היה), HVqi1cs (Qal-imperfect-1cs). DIVERGENT: KJV 'I AM', ESV 'I AM', NASB 'I AM'. Same verb as positions 5 and 7, now used as the divine name sent to Israel."
+      },
+      {
+        "position": 14,
+        "surface": "שְׁלָחַ֥/נִי",
+        "phrase": "has sent me",
+        "literal": "he-sent-me",
+        "source": "H7971 (שׁלח), HVqp3ms/Sp1cs (Qal-perfect-3ms/suffix-1cs). KJV 'hath sent me', ESV 'has sent me', NASB 'has sent me'."
+      },
+      {
+        "position": 15,
+        "surface": "אֲלֵי/כֶֽם",
+        "phrase": "to you",
+        "literal": "to-you(mp)",
+        "source": "H413 (אֶל), HR/Sp2mp (preposition/suffix-2mp). KJV 'unto you', ESV 'to you', NASB 'to you'."
+      }
+    ]
+  }
+]
