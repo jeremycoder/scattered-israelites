@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֣ר",
+        "phrase": "And spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 (דָּבַר, 'to speak'), conjunction + Piel wayyiqtol 3ms; KJV 'And the LORD spake', ESV 'the LORD spoke', NASB 'Then the LORD spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֮",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (יְהוָה, 'the LORD'), proper noun divine; KJV/ESV/NASB all render 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (אֶל, 'to/unto'), preposition; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, 'Moses'), proper noun; KJV/ESV/NASB all render 'Moses'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶֽל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "H413 (אֶל, 'to'), conjunction + preposition; KJV 'and unto', ESV 'and', NASB 'and to'"
+      },
+      {
+        "position": 6,
+        "surface": "אַהֲרֹן֒",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (אַהֲרֹן, 'Aaron'), proper noun; KJV/ESV/NASB all render 'Aaron'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יְצַוֵּ/ם֙",
+        "phrase": "and He commanded them",
+        "literal": "and-he-commanded-them",
+        "source": "H6680 (צָוָה, 'to command'), conjunction + Piel wayyiqtol 3ms + 3mp suffix; KJV 'and gave them a charge', ESV 'and charged them', NASB 'and He commanded them'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "concerning",
+        "literal": "to",
+        "source": "H413 (אֶל, 'to/unto'), preposition; KJV 'unto', ESV 'to go to', NASB 'to go to'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן, 'son'), noun common masculine plural construct; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל, 'Israel'), proper noun; KJV/ESV/NASB all render 'Israel'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "H413 (אֶל, 'to'), conjunction + preposition; KJV 'and unto', ESV 'and to', NASB 'and to'"
+      },
+      {
+        "position": 12,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), proper noun; KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 13,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "king of",
+        "literal": "king-of",
+        "source": "H4428 (מֶלֶךְ, 'king'), noun common masculine singular construct; KJV/ESV/NASB all render 'king of'"
+      },
+      {
+        "position": 14,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם, 'Egypt'), proper noun; KJV/ESV/NASB all render 'Egypt'"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/הוֹצִ֥יא",
+        "phrase": "to bring out",
+        "literal": "to-bring-out",
+        "source": "H3318 (יָצָא, 'to go out'), preposition-lamed + Hiphil infinitive construct; KJV 'to bring … out', ESV 'to bring … out', NASB 'to bring … out'"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 17,
+        "surface": "בְּנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן, 'son'), noun common masculine plural construct; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 18,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל, 'Israel'), proper noun; KJV/ESV/NASB all render 'Israel'"
+      },
+      {
+        "position": 19,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from the land of",
+        "literal": "from-land-of",
+        "source": "H776 (אֶרֶץ, 'land/earth'), preposition-min + noun common feminine singular construct; KJV 'out of the land of', ESV 'out of the land of', NASB 'from the land of'"
+      },
+      {
+        "position": 20,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם, 'Egypt'), proper noun; KJV/ESV/NASB all render 'Egypt'"
+      }
+    ]
+  }
+]

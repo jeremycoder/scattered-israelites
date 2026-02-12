@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "The sons of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן, 'son'), noun common masculine plural construct; KJV 'The sons of', ESV 'The sons of', NASB 'The sons of'"
+      },
+      {
+        "position": 2,
+        "surface": "גֵרְשׁ֛וֹן",
+        "phrase": "Gershon",
+        "literal": "Gershon",
+        "source": "H1648 (גֵּרְשׁוֹן, 'Gershon'), proper noun; KJV 'Gershon', ESV 'Gershon', NASB 'Gershon'"
+      },
+      {
+        "position": 3,
+        "surface": "לִבְנִ֥י",
+        "phrase": "Libni",
+        "literal": "Libni",
+        "source": "H3845 (לִבְנִי, 'Libni'), proper noun; KJV 'Libni', ESV 'Libni', NASB 'Libni'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/שִׁמְעִ֖י",
+        "phrase": "and Shimei",
+        "literal": "and-Shimei",
+        "source": "H8096 (שִׁמְעִי, 'Shimei'), conjunction + proper noun; KJV 'and Shimi', ESV 'and Shimei', NASB 'and Shimei'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מִשְׁפְּחֹתָֽ/ם",
+        "phrase": "by their clans",
+        "literal": "to-clans-of-their",
+        "source": "H4940 (מִשְׁפָּחָה, 'clan/family'), preposition-lamed + noun common feminine plural construct + 3mp suffix; KJV 'according to their families', ESV 'by their clans', NASB 'by their families'"
+      }
+    ]
+  }
+]

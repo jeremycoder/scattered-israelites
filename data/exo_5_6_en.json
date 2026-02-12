@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֥ו",
+        "phrase": "And commanded",
+        "literal": "and-commanded",
+        "source": "H6680 wayyiqtol 3ms Piel of צָוָה 'to command'; KJV 'commanded', ESV 'commanded', NASB 'commanded'"
+      },
+      {
+        "position": 2,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on that day",
+        "literal": "on-the-day",
+        "source": "H3117 prep. b- + def. art. + n.ms יוֹם 'day'; KJV 'the same day', ESV 'that same day', NASB 'that same day'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/ה֑וּא",
+        "phrase": "that same",
+        "literal": "the-that",
+        "source": "H1931 def. art. + dem. pron. הוּא 'that'; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נֹּגְשִׂ֣ים",
+        "phrase": "the taskmasters",
+        "literal": "the-oppressors",
+        "source": "H5065 def. art. + Qal ptc. mp of נָגַשׂ 'to oppress, drive'; KJV 'the taskmasters', ESV 'the taskmasters', NASB 'the taskmasters'"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/עָ֔ם",
+        "phrase": "over the people",
+        "literal": "in-the-people",
+        "source": "H5971 prep. b- + def. art. + n.ms עַם 'people'; KJV 'of the people', ESV 'of the people', NASB 'over the people'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-DOM",
+        "source": "H853 conj. + direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 9,
+        "surface": "שֹׁטְרָ֖י/ו",
+        "phrase": "their foremen",
+        "literal": "officers-his",
+        "source": "H7860 n.mp + 3ms suff. of שֹׁטֵר 'officer, foreman'; KJV 'their officers', ESV 'their foremen', NASB 'their foremen'"
+      },
+      {
+        "position": 10,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; KJV 'saying', ESV 'saying', NASB 'saying'"
+      }
+    ]
+  }
+]

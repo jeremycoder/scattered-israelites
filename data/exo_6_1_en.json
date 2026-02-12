@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "Then said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "עַתָּ֣ה",
+        "phrase": "Now",
+        "literal": "now",
+        "source": "H6258 adv. ʿattah 'now'; KJV 'now', ESV 'now', NASB 'now'"
+      },
+      {
+        "position": 6,
+        "surface": "תִרְאֶ֔ה",
+        "phrase": "you shall see",
+        "literal": "you-will-see",
+        "source": "H7200 Qal impf. 2ms of רָאָה 'to see'; KJV 'shalt thou see', ESV 'you shall see', NASB 'you shall see'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "what",
+        "literal": "that-which",
+        "source": "H834 rel. pron. ʾasher 'who, which, that'; KJV 'what', ESV 'what', NASB 'what'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶֽעֱשֶׂ֖ה",
+        "phrase": "I will do",
+        "literal": "I-will-do",
+        "source": "H6213 Qal impf. 1cs of עָשָׂה 'to do, make'; KJV 'I will do', ESV 'I will do', NASB 'I will do'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/פַרְעֹ֑ה",
+        "phrase": "to Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "H6547 prep. l- + proper name; KJV 'to Pharaoh', ESV 'to Pharaoh', NASB 'to Pharaoh'"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 conj. ki 'for, because, that'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 11,
+        "surface": "בְ/יָ֤ד",
+        "phrase": "with a hand",
+        "literal": "by-hand-of",
+        "source": "H3027 prep. b- + n.fs yad 'hand'; KJV 'with a strong hand', ESV 'with a strong hand', NASB 'under compulsion'"
+      },
+      {
+        "position": 12,
+        "surface": "חֲזָקָה֙",
+        "phrase": "strong",
+        "literal": "strong",
+        "source": "H2389 adj.fs chazaqah 'strong, mighty'; KJV 'strong', ESV 'strong', NASB 'compulsion' (NASB interprets idiomatically)"
+      },
+      {
+        "position": 13,
+        "surface": "יְשַׁלְּחֵ֔/ם",
+        "phrase": "he shall let them go",
+        "literal": "he-will-send-them",
+        "source": "H7971 Piel impf. 3ms + 3mp suff. of שָׁלַח 'to send'; KJV 'shall he let them go', ESV 'he shall send them out', NASB 'he will let them go'"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/בְ/יָ֣ד",
+        "phrase": "and with a hand",
+        "literal": "and-by-hand-of",
+        "source": "H3027 conj. + prep. b- + n.fs yad 'hand'; KJV 'with a strong hand', ESV 'with a strong hand', NASB 'under compulsion'"
+      },
+      {
+        "position": 15,
+        "surface": "חֲזָקָ֔ה",
+        "phrase": "strong",
+        "literal": "strong",
+        "source": "H2389 adj.fs chazaqah 'strong, mighty'; same as word 12"
+      },
+      {
+        "position": 16,
+        "surface": "יְגָרְשֵׁ֖/ם",
+        "phrase": "he shall drive them out",
+        "literal": "he-will-drive-out-them",
+        "source": "H1644 Piel impf. 3ms + 3mp suff. of גָּרַשׁ 'to drive out, expel'; KJV 'shall he drive them out', ESV 'he shall drive them out', NASB 'he will drive them out'"
+      },
+      {
+        "position": 17,
+        "surface": "מֵ/אַרְצֽ/וֹ",
+        "phrase": "from his land",
+        "literal": "from-land-his",
+        "source": "H776 prep. min + n.fs ʾerets 'land, earth' + 3ms suff.; KJV 'out of his land', ESV 'out of his land', NASB 'from his land'"
+      }
+    ]
+  }
+]

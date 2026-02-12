@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֣ר",
+        "phrase": "And spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 (דָּבַר, 'to speak'), conjunction + Piel wayyiqtol 3ms; KJV 'And Moses spake', ESV 'But Moses said', NASB 'But Moses spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, 'Moses'), proper noun; KJV/ESV/NASB all render 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (פָּנִים, 'face'), preposition-lamed + noun common masculine plural construct; KJV 'before', ESV 'to', NASB 'before'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (יְהוָה, 'the LORD'), proper noun divine; KJV/ESV/NASB all render 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (אָמַר, 'to say'), preposition-lamed + Qal infinitive construct; KJV 'saying', ESV 'saying', NASB 'saying'"
+      },
+      {
+        "position": 6,
+        "surface": "הֵ֤ן",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2005 (הֵן, 'behold/if'), interjection; KJV 'Behold', ESV 'Behold', NASB 'Behold'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן, 'son'), noun common masculine plural construct; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל, 'Israel'), proper noun; KJV/ESV/NASB all render 'Israel'"
+      },
+      {
+        "position": 9,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (לֹא, 'not'), adverb of negation; KJV/ESV/NASB all render 'not' or 'have not'"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁמְע֣וּ",
+        "phrase": "listened",
+        "literal": "they-listened",
+        "source": "H8085 (שָׁמַע, 'to hear/listen'), Qal perfect 3cp; KJV 'have not hearkened', ESV 'have not listened', NASB 'have not listened'"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלַ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (אֶל, 'to'), preposition + 1cs suffix; KJV 'unto me', ESV 'to me', NASB 'to me'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֵיךְ֙",
+        "phrase": "and how then",
+        "literal": "and-how",
+        "source": "H349 (אֵיךְ, 'how'), conjunction + interrogative adverb; KJV 'how then', ESV 'how then', NASB 'how then'"
+      },
+      {
+        "position": 13,
+        "surface": "יִשְׁמָעֵ֣/נִי",
+        "phrase": "shall listen to me",
+        "literal": "he-shall-hear-me",
+        "source": "H8085 (שָׁמַע, 'to hear/listen'), Qal imperfect 3ms + 1cs suffix; KJV 'shall Pharaoh hear me', ESV 'shall Pharaoh listen to me', NASB 'will Pharaoh listen to me'"
+      },
+      {
+        "position": 14,
+        "surface": "פַרְעֹ֔ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), proper noun; KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/אֲנִ֖י",
+        "phrase": "and I am",
+        "literal": "and-I",
+        "source": "H589 (אֲנִי, 'I'), conjunction + pronoun 1cs; KJV 'who am', ESV 'since I am', NASB 'for I am'"
+      },
+      {
+        "position": 16,
+        "surface": "עֲרַ֥ל",
+        "phrase": "uncircumcised of",
+        "literal": "uncircumcised-of",
+        "source": "H6189 (עָרֵל, 'uncircumcised'), adjective masculine singular construct; KJV 'of uncircumcised', ESV 'unskilled in', NASB 'unskilled in' — Hebrew idiom for speech impediment"
+      },
+      {
+        "position": 17,
+        "surface": "שְׂפָתָֽיִם",
+        "phrase": "lips",
+        "literal": "lips",
+        "source": "H8193 (שָׂפָה, 'lip'), noun common feminine dual absolute; KJV 'lips', ESV 'speech', NASB 'speech' — עֲרַל שְׂפָתָיִם lit. 'uncircumcised of lips', idiom meaning halting/impeded speech"
+      }
+    ]
+  }
+]

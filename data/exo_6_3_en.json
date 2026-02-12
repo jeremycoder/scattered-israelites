@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֵרָ֗א",
+        "phrase": "And I appeared",
+        "literal": "and-I-appeared",
+        "source": "H7200 wayyiqtol 1cs Niphal of רָאָה 'to appear, be seen'; KJV 'I appeared', ESV 'I appeared', NASB 'I appeared'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָהָ֛ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85 proper name; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "יִצְחָ֥ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "H3327 proper name; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶֽל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "H413 conj. + prep. 'and to'; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290 proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/אֵ֣ל",
+        "phrase": "as God",
+        "literal": "as-God",
+        "source": "H410 prep. b- + n.ms ʾel 'God, mighty one'; KJV 'by the name of God', ESV 'as God', NASB 'as God'. Part of compound divine title El Shaddai (H410+H7706)"
+      },
+      {
+        "position": 9,
+        "surface": "שַׁדָּ֑י",
+        "phrase": "Almighty",
+        "literal": "Almighty",
+        "source": "H7706 n.ms Shaddai 'Almighty'; KJV 'Almighty', ESV 'Almighty', NASB 'Almighty'. Theologically significant patriarchal divine name, El Shaddai = 'God Almighty'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/שְׁמִ֣/י",
+        "phrase": "but by My name",
+        "literal": "and-name-my",
+        "source": "H8034 conj. + n.ms shem 'name' + 1cs suff.; KJV 'by my name', ESV 'by my name', NASB 'by My name'"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'JEHOVAH', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 12,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle lo 'not'; all trans. agree"
+      },
+      {
+        "position": 13,
+        "surface": "נוֹדַ֖עְתִּי",
+        "phrase": "was I known",
+        "literal": "I-was-known",
+        "source": "H3045 Niphal perf. 1cs of יָדַע 'to know'; DIVERGENT: KJV 'was I not known' (Niphal = passive, 'was known'), ESV 'I did not make myself known' (reflexive reading), NASB 'I did not make Myself known' (reflexive). Debated: whether patriarchs knew the name YHWH or only its full covenantal significance"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/הֶֽם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "prep. l- + 3mp suff.; KJV 'unto them', ESV 'to them', NASB 'to them'"
+      }
+    ]
+  }
+]

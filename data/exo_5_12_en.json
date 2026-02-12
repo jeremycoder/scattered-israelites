@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥פֶץ",
+        "phrase": "So were scattered",
+        "literal": "and-scattered",
+        "source": "H6327 wayyiqtol 3ms Niphal of פּוּץ 'to scatter, disperse'; KJV 'were scattered', ESV 'were scattered', NASB 'were scattered'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 def. art. + n.ms עַם 'people'; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/כָל",
+        "phrase": "throughout all",
+        "literal": "in-all",
+        "source": "H3605 prep. b- + n.ms כֹּל 'all, every'; KJV 'throughout all', ESV 'throughout all', NASB 'through all'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs construct אֶרֶץ 'land, earth'; KJV 'the land of', ESV 'the land of', NASB 'the land of'"
+      },
+      {
+        "position": 5,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/קֹשֵׁ֥שׁ",
+        "phrase": "to gather",
+        "literal": "to-gather",
+        "source": "H7197 prep. l- + Polel inf. constr. of קָשַׁשׁ 'to gather stubble'; KJV 'to gather', ESV 'to gather', NASB 'to gather'"
+      },
+      {
+        "position": 7,
+        "surface": "קַ֖שׁ",
+        "phrase": "stubble",
+        "literal": "stubble",
+        "source": "H7179 n.ms קַשׁ 'stubble, chaff'; KJV 'stubble', ESV 'stubble', NASB 'stubble'"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/תֶּֽבֶן",
+        "phrase": "for straw",
+        "literal": "for-the-straw",
+        "source": "H8401 prep. l- + def. art. + n.ms תֶּבֶן 'straw'; KJV 'instead of straw', ESV 'for straw', NASB 'to use as straw'"
+      }
+    ]
+  }
+]

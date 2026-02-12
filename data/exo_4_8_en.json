@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָה֙",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "H1961 hayah, Qal weqatal 3ms; KJV 'And it shall come to pass', ESV 'If', NASB 'If'"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 ʾim, conditional particle; KJV/ESV/NASB 'if'"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 loʾ, negative particle; KJV/ESV/NASB 'not'"
+      },
+      {
+        "position": 4,
+        "surface": "יַאֲמִ֣ינוּ",
+        "phrase": "they will believe",
+        "literal": "they-will-believe",
+        "source": "H539 ʾaman, Hiphil yiqtol 3mp; KJV/ESV/NASB 'believe'"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֔/ךְ",
+        "phrase": "you",
+        "literal": "to-you",
+        "source": "Preposition le + 2ms suffix; KJV 'thee', ESV/NASB 'you'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 loʾ + waw conjunction; KJV/ESV/NASB 'or/nor'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׁמְע֔וּ",
+        "phrase": "they will listen",
+        "literal": "they-will-hear",
+        "source": "H8085 shamaʿ, Qal yiqtol 3mp; KJV 'hearken', ESV 'listen', NASB 'heed'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/קֹ֖ל",
+        "phrase": "to the voice of",
+        "literal": "to-voice-of",
+        "source": "H6963 qol, noun ms + preposition le; KJV 'to the voice of', ESV 'to', NASB 'to the witness of' — DIVERGENT: translations differ on rendering"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֹ֣ת",
+        "phrase": "the sign",
+        "literal": "the-sign",
+        "source": "H226 ʾot, noun ms + article; KJV 'the first sign', ESV 'the first sign', NASB 'the first sign'"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/רִאשׁ֑וֹן",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223 riʾshon, adjective ms + article; KJV/ESV/NASB 'the first'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הֶֽאֱמִ֔ינוּ",
+        "phrase": "then they will believe",
+        "literal": "and-they-will-believe",
+        "source": "H539 ʾaman, Hiphil weqatal 3cp; KJV 'they will believe', ESV 'they may believe', NASB 'they may believe'"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/קֹ֖ל",
+        "phrase": "the voice of",
+        "literal": "to-voice-of",
+        "source": "H6963 qol, noun ms + preposition le; KJV 'the voice of', ESV (implied), NASB 'the witness of'"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אֹ֥ת",
+        "phrase": "the sign",
+        "literal": "the-sign",
+        "source": "H226 ʾot, noun ms + article; KJV/ESV/NASB 'the latter/other sign'"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/אַחֲרֽוֹן",
+        "phrase": "the latter",
+        "literal": "the-last",
+        "source": "H314 ʾacharon, adjective ms + article; KJV 'the latter', ESV 'the latter', NASB 'the last' — DIVERGENT: NASB 'last' vs KJV/ESV 'latter'"
+      }
+    ]
+  }
+]

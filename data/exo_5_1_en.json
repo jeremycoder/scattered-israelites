@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַחַ֗ר",
+        "phrase": "And afterward",
+        "literal": "and-after",
+        "source": "H310 conj. + adv. ʾachar 'after, behind'; KJV 'afterward', ESV 'afterward', NASB 'afterward'"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ֚אוּ",
+        "phrase": "came",
+        "literal": "came",
+        "source": "H935 Qal perf. 3cp of בּוֹא 'to come, enter'; KJV 'came', ESV 'went', NASB 'came'"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַהֲרֹ֔ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. + proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּאמְר֖וּ",
+        "phrase": "and said",
+        "literal": "and-they-said",
+        "source": "H559 wayyiqtol 3mp Qal of אָמַר 'to say'; KJV 'told', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּֽה",
+        "phrase": "Thus",
+        "literal": "thus",
+        "source": "H3541 adv. 'thus, so'; KJV 'thus', ESV 'thus', NASB 'thus'"
+      },
+      {
+        "position": 9,
+        "surface": "אָמַ֤ר",
+        "phrase": "says",
+        "literal": "said",
+        "source": "H559 Qal perf. 3ms of אָמַר 'to say'; KJV 'saith', ESV 'says', NASB 'says'"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "the God of",
+        "literal": "God-of",
+        "source": "H430 n.mp construct of אֱלֹהִים 'God, gods'; KJV 'God of', ESV 'God of', NASB 'God of'"
+      },
+      {
+        "position": 12,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name; all trans. agree"
+      },
+      {
+        "position": 13,
+        "surface": "שַׁלַּח֙",
+        "phrase": "Let go",
+        "literal": "send-away",
+        "source": "H7971 Piel imv. 2ms of שָׁלַח 'to send'; KJV 'let go', ESV 'let go', NASB 'let go'"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 15,
+        "surface": "עַמִּ֔/י",
+        "phrase": "My people",
+        "literal": "people-my",
+        "source": "H5971 n.ms + 1cs suff. of עַם 'people, nation'; KJV 'my people', ESV 'my people', NASB 'My people'"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/יָחֹ֥גּוּ",
+        "phrase": "that they may hold a feast",
+        "literal": "and-let-them-celebrate",
+        "source": "H2287 conj. + jussive 3mp Qal of חָגַג 'to celebrate a feast'; KJV 'hold a feast', ESV 'hold a feast', NASB 'celebrate a feast'"
+      },
+      {
+        "position": 17,
+        "surface": "לִ֖/י",
+        "phrase": "to Me",
+        "literal": "to-me",
+        "source": "prep. l- + 1cs suff.; KJV 'unto me', ESV 'to me', NASB 'to Me'"
+      },
+      {
+        "position": 18,
+        "surface": "בַּ/מִּדְבָּֽר",
+        "phrase": "in the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057 prep. b- + def. art. + n.ms מִדְבָּר 'wilderness, desert'; KJV 'in the wilderness', ESV 'in the wilderness', NASB 'in the wilderness'"
+      }
+    ]
+  }
+]

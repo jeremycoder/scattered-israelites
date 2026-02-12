@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תִּכְבַּ֧ד",
+        "phrase": "Let heavier",
+        "literal": "let-be-heavy",
+        "source": "H3513 Qal jussive 3fs of כָּבַד 'to be heavy, burdensome'; KJV 'let there more work be laid', ESV 'let heavier work be laid', NASB 'let the labor be heavier'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֲבֹדָ֛ה",
+        "phrase": "work be laid",
+        "literal": "the-work",
+        "source": "H5656 def. art. + n.fs עֲבוֹדָה 'work, labor, service'; KJV 'work', ESV 'work', NASB 'labor'"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 prep. 'upon, on'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֲנָשִׁ֖ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "H376 def. art. + n.mp אִישׁ 'man'; KJV 'the men', ESV 'the men', NASB 'the men'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יַעֲשׂוּ",
+        "phrase": "and let them labor",
+        "literal": "and-let-them-do",
+        "source": "H6213 conj. + Qal jussive 3mp of עָשָׂה 'to do, make'; KJV 'let them labour therein', ESV 'let them labor at it', NASB 'let them work at it'"
+      },
+      {
+        "position": 6,
+        "surface": "בָ֑/הּ",
+        "phrase": "at it",
+        "literal": "in-it",
+        "source": "prep. b- + 3fs suff.; KJV 'therein', ESV 'at it', NASB 'at it'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַל",
+        "phrase": "and let them not",
+        "literal": "and-not",
+        "source": "H408 conj. + neg. particle אַל 'not' (jussive negator); all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׁע֖וּ",
+        "phrase": "pay attention",
+        "literal": "let-them-gaze",
+        "source": "H8159 Qal jussive 3mp of שָׁעָה 'to gaze, regard, pay attention'; KJV 'let them not regard', ESV 'let them not pay regard', NASB 'let them not pay attention'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/דִבְרֵי",
+        "phrase": "to words of",
+        "literal": "to-words-of",
+        "source": "H1697 prep. b- + n.mp construct דָּבָר 'word, matter'; KJV 'vain words', ESV 'lying words', NASB 'false words'"
+      },
+      {
+        "position": 10,
+        "surface": "שָֽׁקֶר",
+        "phrase": "falsehood",
+        "literal": "falsehood",
+        "source": "H8267 n.ms שֶׁקֶר 'lie, falsehood'; KJV 'vain words', ESV 'lying words', NASB 'false words'"
+      }
+    ]
+  }
+]

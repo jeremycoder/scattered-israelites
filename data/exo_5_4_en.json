@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; all trans. agree"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶם֙",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 prep. אֶל + 3mp suff. 'to them'; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 n.ms construct מֶלֶךְ 'king'; KJV 'the king of', ESV 'the king of', NASB 'the king of'"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֚/מָּה",
+        "phrase": "Why do",
+        "literal": "for-what",
+        "source": "H4100 prep. l- + interrog. מָה 'why?'; KJV 'wherefore', ESV 'why', NASB 'why'"
+      },
+      {
+        "position": 6,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַהֲרֹ֔ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. + proper name; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "תַּפְרִ֥יעוּ",
+        "phrase": "take away",
+        "literal": "you-cause-to-neglect",
+        "source": "H6544 Hiphil impf. 2mp of פָּרַע 'to let loose, cause to neglect'; KJV 'let', ESV 'take away', NASB 'draw away'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 def. art. + n.ms עַם 'people'; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/מַּֽעֲשָׂ֑י/ו",
+        "phrase": "from their work",
+        "literal": "from-works-his",
+        "source": "H4639 prep. מִן + n.mp + 3ms suff. of מַעֲשֶׂה 'work, deed'; KJV 'from their works', ESV 'from their work', NASB 'from their work'"
+      },
+      {
+        "position": 12,
+        "surface": "לְכ֖וּ",
+        "phrase": "Get back",
+        "literal": "go",
+        "source": "H3212 Qal imv. 2mp of הָלַךְ 'to go'; KJV 'get you', ESV 'get back', NASB 'go'"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/סִבְלֹתֵי/כֶֽם",
+        "phrase": "to your labors",
+        "literal": "to-burdens-your",
+        "source": "H5450 prep. l- + n.fp + 2mp suff. of סְבָלָה 'burden, forced labor'; KJV 'unto your burdens', ESV 'to your burdens', NASB 'to your labors'"
+      }
+    ]
+  }
+]

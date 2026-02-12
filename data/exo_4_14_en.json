@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽחַר",
+        "phrase": "and burned",
+        "literal": "and-it-burned",
+        "source": "H2734 charah, Qal wayyiqtol 3ms; KJV 'was kindled', ESV 'was kindled', NASB 'burned'"
+      },
+      {
+        "position": 2,
+        "surface": "אַ֨ף",
+        "phrase": "the anger of",
+        "literal": "nose/anger-of",
+        "source": "H639 ʾaph, noun ms; KJV 'the anger', ESV 'the anger', NASB 'the anger' — idiom: charah ʾaph = 'anger burned'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/מֹשֶׁ֗ה",
+        "phrase": "against Moses",
+        "literal": "against-Moses",
+        "source": "H4872 Mosheh, proper noun + preposition be; KJV 'against Moses', ESV 'against Moses', NASB 'against Moses'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 6,
+        "surface": "הֲ/לֹ֨א",
+        "phrase": "is there not",
+        "literal": "interrogative-not",
+        "source": "H3808 loʾ, negative particle + interrogative he; KJV 'Is not', ESV 'Is there not', NASB 'Is there not'"
+      },
+      {
+        "position": 7,
+        "surface": "אַהֲרֹ֤ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 ʾAharon, proper noun; KJV/ESV/NASB 'Aaron'"
+      },
+      {
+        "position": 8,
+        "surface": "אָחִ֨י/ךָ֙",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251 ʾach, noun ms construct + 2ms suffix; KJV 'thy brother', ESV/NASB 'your brother'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/לֵּוִ֔י",
+        "phrase": "the Levite",
+        "literal": "the-Levite",
+        "source": "H3881 Lewi, gentilic adjective + article he; KJV/ESV/NASB 'the Levite'"
+      },
+      {
+        "position": 10,
+        "surface": "יָדַ֕עְתִּי",
+        "phrase": "I know",
+        "literal": "I-know",
+        "source": "H3045 yadaʿ, Qal qatal 1cs; KJV 'I know', ESV 'I know', NASB 'I know'"
+      },
+      {
+        "position": 11,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 ki, conjunction; KJV/ESV/NASB 'that'"
+      },
+      {
+        "position": 12,
+        "surface": "דַבֵּ֥ר",
+        "phrase": "surely",
+        "literal": "speaking",
+        "source": "H1696 dabar, Piel infinitive absolute; used for emphasis before finite verb; KJV 'well', ESV 'well', NASB 'fluently' — part of intensifying construction dabber yedabber"
+      },
+      {
+        "position": 13,
+        "surface": "יְדַבֵּ֖ר",
+        "phrase": "he can speak",
+        "literal": "he-speaks",
+        "source": "H1696 dabar, Piel yiqtol 3ms; KJV 'he can speak', ESV 'he can speak', NASB 'he speaks'"
+      },
+      {
+        "position": 14,
+        "surface": "ה֑וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 huʾ, independent pronoun 3ms; KJV/ESV/NASB 'he'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/גַ֤ם",
+        "phrase": "and moreover",
+        "literal": "and-also",
+        "source": "H1571 gam, adverb + waw conjunction; KJV 'And also', ESV 'Moreover' (implied), NASB 'And furthermore'"
+      },
+      {
+        "position": 16,
+        "surface": "הִנֵּה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 hinneh, interjection; KJV 'behold', ESV 'behold' (implied), NASB 'behold' (implied)"
+      },
+      {
+        "position": 17,
+        "surface": "הוּא֙",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 huʾ, independent pronoun 3ms; KJV/ESV/NASB 'he'"
+      },
+      {
+        "position": 18,
+        "surface": "יֹצֵ֣א",
+        "phrase": "is coming out",
+        "literal": "going-out",
+        "source": "H3318 yatsaʾ, Qal active participle ms; KJV 'cometh forth', ESV 'is coming out', NASB 'is coming out'"
+      },
+      {
+        "position": 19,
+        "surface": "לִ/קְרָאתֶ֔/ךָ",
+        "phrase": "to meet you",
+        "literal": "to-meet-you",
+        "source": "H7125 qirʾah, noun fs + preposition le + 2ms suffix; KJV 'to meet thee', ESV/NASB 'to meet you'"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/רָאֲ/ךָ֖",
+        "phrase": "and when he sees you",
+        "literal": "and-he-sees-you",
+        "source": "H7200 raʾah, Qal weqatal 3ms + 2ms suffix; KJV 'when he seeth thee', ESV 'when he sees you', NASB 'when he sees you'"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/שָׂמַ֥ח",
+        "phrase": "he will be glad",
+        "literal": "and-he-will-rejoice",
+        "source": "H8055 samach, Qal weqatal 3ms; KJV 'he will be glad', ESV 'he will be glad', NASB 'he will be glad'"
+      },
+      {
+        "position": 22,
+        "surface": "בְּ/לִבּֽ/וֹ",
+        "phrase": "in his heart",
+        "literal": "in-heart-his",
+        "source": "H3820 lev, noun ms + preposition be + 3ms suffix; KJV/ESV/NASB 'in his heart'"
+      }
+    ]
+  }
+]

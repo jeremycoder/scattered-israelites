@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֖ה",
+        "phrase": "now therefore",
+        "literal": "and-now",
+        "source": "H6258 ʿattah, adverb + waw conjunction; KJV 'Now therefore', ESV 'Now therefore', NASB 'Now then'"
+      },
+      {
+        "position": 2,
+        "surface": "לֵ֑ךְ",
+        "phrase": "go",
+        "literal": "go",
+        "source": "H3212 yalakh, Qal imperative ms; KJV/ESV/NASB 'go'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אָנֹכִי֙",
+        "phrase": "and I",
+        "literal": "and-I",
+        "source": "H595 ʾanokhi, independent pronoun 1cs + waw conjunction; KJV 'and I', ESV 'and I', NASB 'and I'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽהְיֶ֣ה",
+        "phrase": "will be",
+        "literal": "I-will-be",
+        "source": "H1961 hayah, Qal yiqtol 1cs; KJV 'will be', ESV 'will be', NASB 'will be'"
+      },
+      {
+        "position": 5,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 ʿim, preposition; KJV/ESV/NASB 'with'"
+      },
+      {
+        "position": 6,
+        "surface": "פִּ֔י/ךָ",
+        "phrase": "your mouth",
+        "literal": "mouth-your",
+        "source": "H6310 peh, noun ms construct + 2ms suffix; KJV 'thy mouth', ESV/NASB 'your mouth'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הוֹרֵיתִ֖י/ךָ",
+        "phrase": "and will teach you",
+        "literal": "and-I-will-instruct-you",
+        "source": "H3384 yarah, Hiphil weqatal 1cs + 2ms suffix; KJV 'and teach thee', ESV 'and teach you', NASB 'and teach you'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "what",
+        "literal": "that-which",
+        "source": "H834 ʾasher, relative particle; KJV/ESV/NASB 'what'"
+      },
+      {
+        "position": 9,
+        "surface": "תְּדַבֵּֽר",
+        "phrase": "you shall speak",
+        "literal": "you-shall-speak",
+        "source": "H1696 dabar, Piel yiqtol 2ms; KJV 'thou shalt say', ESV 'you shall speak', NASB 'you are to say' — DIVERGENT: KJV/NASB 'say' vs ESV 'speak'"
+      }
+    ]
+  }
+]

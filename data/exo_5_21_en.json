@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמְר֣וּ",
+        "phrase": "And they said",
+        "literal": "and-they-said",
+        "source": "H559 wayyiqtol 3mp Qal of אָמַר 'to say'; all trans. agree"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 prep. אֶל + 3mp suff. 'to them'; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "יֵ֧רֶא",
+        "phrase": "May look",
+        "literal": "may-he-see",
+        "source": "H7200 Qal jussive 3ms of רָאָה 'to see, look'; KJV 'the LORD look upon you', ESV 'the LORD look on you', NASB 'may the LORD look upon you'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "עֲלֵי/כֶ֖ם",
+        "phrase": "upon you",
+        "literal": "upon-you(mp)",
+        "source": "H5921 prep. עַל + 2mp suff. 'upon you'; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יִשְׁפֹּ֑ט",
+        "phrase": "and judge",
+        "literal": "and-may-he-judge",
+        "source": "H8199 conj. + Qal jussive 3ms of שָׁפַט 'to judge'; KJV 'and judge', ESV 'and judge', NASB 'and judge'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "because",
+        "literal": "who/because",
+        "source": "H834 rel. pron./conj. 'who, which, because'; KJV 'because', ESV 'because', NASB 'because'"
+      },
+      {
+        "position": 8,
+        "surface": "הִבְאַשְׁתֶּ֣ם",
+        "phrase": "you have made stink",
+        "literal": "you(mp)-made-stink",
+        "source": "H887 Hiphil perf. 2mp of בָּאַשׁ 'to stink, become odious'; KJV 'ye have made our savour to be abhorred', ESV 'you have made us stink', NASB 'you have made us odious'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 10,
+        "surface": "רֵיחֵ֗/נוּ",
+        "phrase": "our scent",
+        "literal": "scent/reputation-our",
+        "source": "H7381 n.ms + 1cp suff. of רֵיחַ 'scent, odor, reputation'; KJV 'our savour', ESV 'us stink' (paraphrased), NASB 'us odious'; lit. 'our smell/reputation'"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/עֵינֵ֤י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "H5869 prep. b- + n.fd constr. of עַיִן 'eye'; KJV 'in the eyes of', ESV 'in the sight of', NASB 'in the sight of'"
+      },
+      {
+        "position": 12,
+        "surface": "פַרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/בְ/עֵינֵ֣י",
+        "phrase": "and in the eyes of",
+        "literal": "and-in-eyes-of",
+        "source": "H5869 conj. + prep. b- + n.fd constr. of עַיִן 'eye'; KJV 'and in the eyes of', ESV 'and in the sight of', NASB 'and in the sight of'"
+      },
+      {
+        "position": 14,
+        "surface": "עֲבָדָ֔י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 n.mp constr. + 3ms suff. of עֶבֶד 'servant'; KJV 'his servants', ESV 'his servants', NASB 'his servants'"
+      },
+      {
+        "position": 15,
+        "surface": "לָֽ/תֶת",
+        "phrase": "to put",
+        "literal": "to-give/put",
+        "source": "H5414 prep. l- + Qal inf. constr. of נָתַן 'to give, put'; KJV 'to put', ESV 'to put', NASB 'to put'"
+      },
+      {
+        "position": 16,
+        "surface": "חֶ֥רֶב",
+        "phrase": "a sword",
+        "literal": "sword",
+        "source": "H2719 n.fs חֶרֶב 'sword'; KJV 'a sword', ESV 'a sword', NASB 'a sword'"
+      },
+      {
+        "position": 17,
+        "surface": "בְּ/יָדָ֖/ם",
+        "phrase": "in their hand",
+        "literal": "in-hand-their",
+        "source": "H3027 prep. b- + n.fs + 3mp suff. of יָד 'hand'; KJV 'in their hand', ESV 'in their hand', NASB 'in their hand'"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/הָרְגֵֽ/נוּ",
+        "phrase": "to kill us",
+        "literal": "to-kill-us",
+        "source": "H2026 prep. l- + Qal inf. constr. + 1cp suff. of הָרַג 'to kill, slay'; KJV 'to slay us', ESV 'to kill us', NASB 'to kill us'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּה֙",
+        "phrase": "Now therefore",
+        "literal": "and-now",
+        "source": "H6258 conj. + adv. עַתָּה 'now'; KJV 'go therefore now', ESV 'now go', NASB 'so now'"
+      },
+      {
+        "position": 2,
+        "surface": "לְכ֣וּ",
+        "phrase": "go",
+        "literal": "go",
+        "source": "H3212 Qal imv. 2mp of יָלַךְ 'to go, walk'; KJV 'go', ESV 'go', NASB 'go'"
+      },
+      {
+        "position": 3,
+        "surface": "עִבְד֔וּ",
+        "phrase": "work",
+        "literal": "serve/work",
+        "source": "H5647 Qal imv. 2mp of עָבַד 'to work, serve'; KJV 'work', ESV 'work', NASB 'work'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/תֶ֖בֶן",
+        "phrase": "and straw",
+        "literal": "and-straw",
+        "source": "H8401 conj. + n.ms תֶּבֶן 'straw'; KJV 'straw', ESV 'straw', NASB 'straw'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "יִנָּתֵ֣ן",
+        "phrase": "will be given",
+        "literal": "will-be-given",
+        "source": "H5414 Niphal impf. 3ms of נָתַן 'to give'; KJV 'shall be given', ESV 'will be given', NASB 'will be given'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you(mp)",
+        "source": "prep. l- + 2mp suff.; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/תֹ֥כֶן",
+        "phrase": "yet the quota of",
+        "literal": "and-count-of",
+        "source": "H8506 conj. + n.ms תֹּכֶן 'measurement, quota, fixed amount'; KJV 'the tale of', ESV 'the same number of', NASB 'the quota of'"
+      },
+      {
+        "position": 9,
+        "surface": "לְבֵנִ֖ים",
+        "phrase": "bricks",
+        "literal": "bricks",
+        "source": "H3843 n.fp לְבֵנָה 'brick'; KJV 'bricks', ESV 'bricks', NASB 'bricks'"
+      },
+      {
+        "position": 10,
+        "surface": "תִּתֵּֽנּוּ",
+        "phrase": "you must deliver",
+        "literal": "you-shall-give-it",
+        "source": "H5414 Qal impf. 2mp + 3ms suff. of נָתַן 'to give'; KJV 'shall ye deliver', ESV 'you shall still deliver', NASB 'you must deliver'"
+      }
+    ]
+  }
+]

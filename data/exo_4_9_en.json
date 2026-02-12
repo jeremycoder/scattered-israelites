@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָ֡ה",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "H1961 hayah, Qal weqatal 3ms; KJV 'And it shall come to pass', ESV 'If', NASB 'But if'"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 ʾim, conditional particle; KJV/ESV/NASB 'if'"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 loʾ, negative particle; KJV/ESV/NASB 'not'"
+      },
+      {
+        "position": 4,
+        "surface": "יַאֲמִ֡ינוּ",
+        "phrase": "they will believe",
+        "literal": "they-will-believe",
+        "source": "H539 ʾaman, Hiphil yiqtol 3mp; KJV/ESV/NASB 'believe'"
+      },
+      {
+        "position": 5,
+        "surface": "גַּם֩",
+        "phrase": "even",
+        "literal": "also",
+        "source": "H1571 gam, adverb; KJV 'also', ESV (implied), NASB 'even'"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/שְׁנֵ֨י",
+        "phrase": "these two",
+        "literal": "to-two-of",
+        "source": "H8147 shenayim, noun md construct + preposition le; KJV 'these two', ESV 'these two', NASB 'these two'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֹת֜וֹת",
+        "phrase": "signs",
+        "literal": "the-signs",
+        "source": "H226 ʾot, noun fp + article; KJV/ESV/NASB 'signs'"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֵ֗לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 ʾelleh, demonstrative pronoun cp + article; KJV/ESV/NASB (implied by 'these two signs')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 loʾ + waw conjunction; KJV 'neither', ESV 'nor', NASB 'nor'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׁמְעוּ/ן֙",
+        "phrase": "they will listen",
+        "literal": "they-will-hear",
+        "source": "H8085 shamaʿ, Qal yiqtol 3mp + paragogic nun; KJV 'hearken', ESV 'listen', NASB 'heed'"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/קֹלֶ֔/ךָ",
+        "phrase": "to your voice",
+        "literal": "to-voice-your",
+        "source": "H6963 qol, noun ms + preposition le + 2ms suffix; KJV 'unto thy voice', ESV 'to you', NASB 'to what you say'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לָקַחְתָּ֙",
+        "phrase": "then you shall take",
+        "literal": "and-you-will-take",
+        "source": "H3947 laqach, Qal weqatal 2ms; KJV 'thou shalt take', ESV 'you shall take', NASB 'you shall take'"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/מֵּימֵ֣י",
+        "phrase": "from the water of",
+        "literal": "from-waters-of",
+        "source": "H4325 mayim, noun mp construct + preposition min; KJV 'of the water of', ESV 'some water from', NASB 'some water from'"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/יְאֹ֔ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 yeʾor, noun ms + article; KJV 'the river', ESV 'the Nile', NASB 'the Nile' — DIVERGENT: KJV generic 'river' vs ESV/NASB specific 'Nile'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/שָׁפַכְתָּ֖",
+        "phrase": "and pour it",
+        "literal": "and-you-will-pour",
+        "source": "H8210 shaphak, Qal weqatal 2ms; KJV 'pour it', ESV 'pour it', NASB 'pour it'"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/יַּבָּשָׁ֑ה",
+        "phrase": "on the dry ground",
+        "literal": "the-dry-ground",
+        "source": "H3004 yabbashah, noun fs + article; KJV 'upon the dry land', ESV 'on the dry ground', NASB 'on the dry ground'"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/הָי֤וּ",
+        "phrase": "and will become",
+        "literal": "and-they-will-be",
+        "source": "H1961 hayah, Qal weqatal 3cp; KJV 'shall become', ESV 'shall become', NASB 'will become'"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/מַּ֨יִם֙",
+        "phrase": "the water",
+        "literal": "the-waters",
+        "source": "H4325 mayim, noun mp + article; KJV 'the water', ESV 'the water', NASB 'the water'"
+      },
+      {
+        "position": 19,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 ʾasher, relative pronoun; KJV/ESV/NASB 'which'"
+      },
+      {
+        "position": 20,
+        "surface": "תִּקַּ֣ח",
+        "phrase": "you take",
+        "literal": "you-will-take",
+        "source": "H3947 laqach, Qal yiqtol 2ms; KJV 'thou takest', ESV 'you shall take', NASB 'you take'"
+      },
+      {
+        "position": 21,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 min, preposition; KJV 'out of', ESV/NASB 'from'"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/יְאֹ֔ר",
+        "phrase": "the Nile",
+        "literal": "the-River",
+        "source": "H2975 yeʾor, noun ms + article; KJV 'the river', ESV 'the Nile', NASB 'the Nile'"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/הָי֥וּ",
+        "phrase": "and will become",
+        "literal": "and-they-will-be",
+        "source": "H1961 hayah, Qal weqatal 3cp; KJV 'shall become', ESV 'shall become', NASB 'will become'"
+      },
+      {
+        "position": 24,
+        "surface": "לְ/דָ֖ם",
+        "phrase": "blood",
+        "literal": "to-blood",
+        "source": "H1818 dam, noun ms + preposition le (of becoming); KJV/ESV/NASB 'blood'"
+      },
+      {
+        "position": 25,
+        "surface": "בַּ/יַּבָּֽשֶׁת",
+        "phrase": "on the dry ground",
+        "literal": "on-the-dry-ground",
+        "source": "H3006 yabbesheth, noun fs + preposition be + article; KJV 'upon the dry land', ESV 'on the dry ground', NASB 'on the dry ground'"
+      }
+    ]
+  }
+]

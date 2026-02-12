@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תֶּ֗בֶן",
+        "phrase": "Straw",
+        "literal": "straw",
+        "source": "H8401 n.ms תֶּבֶן 'straw'; KJV 'straw', ESV 'straw', NASB 'straw'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֤ין",
+        "phrase": "there is none",
+        "literal": "there-is-not",
+        "source": "H369 neg. particle of existence אַיִן 'there is not'; KJV 'no', ESV 'no', NASB 'no'"
+      },
+      {
+        "position": 3,
+        "surface": "נִתָּן֙",
+        "phrase": "given",
+        "literal": "being-given",
+        "source": "H5414 Niphal ptc. ms of נָתַן 'to give'; KJV 'given', ESV 'given', NASB 'given'"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/עֲבָדֶ֔י/ךָ",
+        "phrase": "to your servants",
+        "literal": "to-servants-your(ms)",
+        "source": "H5650 prep. l- + n.mp constr. + 2ms suff. of עֶבֶד 'servant'; KJV 'thy servants', ESV 'your servants', NASB 'your servants'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְבֵנִ֛ים",
+        "phrase": "yet bricks",
+        "literal": "and-bricks",
+        "source": "H3843 conj. + n.fp לְבֵנָה 'brick'; KJV 'bricks', ESV 'bricks', NASB 'bricks'"
+      },
+      {
+        "position": 6,
+        "surface": "אֹמְרִ֥ים",
+        "phrase": "they say",
+        "literal": "saying",
+        "source": "H559 Qal ptc. mp of אָמַר 'to say'; KJV 'they say', ESV 'they say', NASB 'they say'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ֖/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "prep. l- + 1cp suff.; KJV 'to us', ESV 'to us', NASB 'to us'"
+      },
+      {
+        "position": 8,
+        "surface": "עֲשׂ֑וּ",
+        "phrase": "Make!",
+        "literal": "make",
+        "source": "H6213 Qal imv. 2mp of עָשָׂה 'to do, make'; KJV 'make', ESV 'make', NASB 'make'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הִנֵּ֧ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 conj. + interj. הִנֵּה 'behold, look'; KJV 'and behold', ESV 'and behold', NASB 'and behold'"
+      },
+      {
+        "position": 10,
+        "surface": "עֲבָדֶ֛י/ךָ",
+        "phrase": "your servants",
+        "literal": "servants-your(ms)",
+        "source": "H5650 n.mp constr. + 2ms suff. of עֶבֶד 'servant'; KJV 'thy servants', ESV 'your servants', NASB 'your servants'"
+      },
+      {
+        "position": 11,
+        "surface": "מֻכִּ֖ים",
+        "phrase": "are beaten",
+        "literal": "being-struck",
+        "source": "H5221 Hophal ptc. mp of נָכָה 'to strike'; KJV 'are beaten', ESV 'are beaten', NASB 'are being beaten'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/חָטָ֥את",
+        "phrase": "but the fault is",
+        "literal": "and-sins/fault",
+        "source": "H2398 conj. + Qal perf. 3fs of חָטָא 'to sin, miss'; debated: KJV 'but the fault is in', ESV 'but the fault is in', NASB 'but it is the sin of'; some read as noun חַטָּאת 'sin/fault'"
+      },
+      {
+        "position": 13,
+        "surface": "עַמֶּֽ/ךָ",
+        "phrase": "your people's",
+        "literal": "people-your(ms)",
+        "source": "H5971 n.ms + 2ms suff. of עַם 'people'; KJV 'thine own people', ESV 'your own people', NASB 'your own people'"
+      }
+    ]
+  }
+]

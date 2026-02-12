@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נֹּגְשִׂ֖ים",
+        "phrase": "And the taskmasters",
+        "literal": "and-the-ones-pressing",
+        "source": "H5065 conj. + def. art. + Qal ptc. mp of נָגַשׂ 'to press, drive, oppress'; KJV 'the taskmasters', ESV 'the taskmasters', NASB 'the taskmasters'"
+      },
+      {
+        "position": 2,
+        "surface": "אָצִ֣ים",
+        "phrase": "were urgent",
+        "literal": "pressing",
+        "source": "H213 Qal ptc. mp of אוּץ 'to press, urge, hasten'; KJV 'hasted', ESV 'were urgent', NASB 'pressed'"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "כַּלּ֤וּ",
+        "phrase": "Complete",
+        "literal": "finish",
+        "source": "H3615 Piel imv. 2mp of כָּלָה 'to complete, finish'; KJV 'fulfil', ESV 'complete', NASB 'complete'"
+      },
+      {
+        "position": 5,
+        "surface": "מַעֲשֵׂי/כֶם֙",
+        "phrase": "your works",
+        "literal": "works-your(mp)",
+        "source": "H4639 n.mp constr. + 2mp suff. of מַעֲשֶׂה 'work, deed'; KJV 'your works', ESV 'your work', NASB 'your work'"
+      },
+      {
+        "position": 6,
+        "surface": "דְּבַר",
+        "phrase": "the matter of",
+        "literal": "matter-of",
+        "source": "H1697 n.ms constr. of דָּבָר 'word, matter, thing'; KJV 'daily tasks', ESV 'daily task', NASB 'daily amount'"
+      },
+      {
+        "position": 7,
+        "surface": "י֣וֹם",
+        "phrase": "each day",
+        "literal": "day",
+        "source": "H3117 n.ms of יוֹם 'day'; part of idiom 'day by day' = daily quota"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/יוֹמ֔/וֹ",
+        "phrase": "in its day",
+        "literal": "in-day-its",
+        "source": "H3117 prep. b- + n.ms + 3ms suff. of יוֹם 'day'; KJV 'in his day', ESV 'on its day', NASB 'each day'"
+      },
+      {
+        "position": 9,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "just as",
+        "literal": "as-which",
+        "source": "H834 prep. k- + rel. pron. אֲשֶׁר 'as, just as'; KJV 'as when', ESV 'as when', NASB 'when'"
+      },
+      {
+        "position": 10,
+        "surface": "בִּ/הְי֥וֹת",
+        "phrase": "when there was",
+        "literal": "in-being",
+        "source": "H1961 prep. b- + Qal inf. constr. of הָיָה 'to be'; temporal clause 'when there was'"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/תֶּֽבֶן",
+        "phrase": "the straw",
+        "literal": "the-straw",
+        "source": "H8401 def. art. + n.ms תֶּבֶן 'straw'; KJV 'straw', ESV 'straw', NASB 'straw'"
+      }
+    ]
+  }
+]

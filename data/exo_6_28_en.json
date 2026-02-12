@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 wayyiqtol 3ms Qal of הָיָה 'to be'; narrative marker; KJV 'And it came to pass', ESV 'On the day', NASB 'Now it came about'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/י֨וֹם",
+        "phrase": "on the day",
+        "literal": "in-day",
+        "source": "H3117 prep. b- + noun common masculine singular of יוֹם 'day'; KJV 'on the day when', ESV 'on the day when', NASB 'on the day when'"
+      },
+      {
+        "position": 3,
+        "surface": "דִּבֶּ֧ר",
+        "phrase": "spoke",
+        "literal": "spoke",
+        "source": "H1696 Piel perfect 3ms of דָּבַר 'to speak'; KJV 'spake', ESV 'spoke', NASB 'spoke'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (אֶל, 'to/unto'), preposition; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 6,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, 'Moses'), proper noun masculine; KJV/ESV/NASB all render 'Moses'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land of",
+        "literal": "in-land-of",
+        "source": "H776 prep. b- + noun common feminine singular construct of אֶרֶץ 'land, earth'; KJV 'in the land of', ESV 'in the land of', NASB 'in the land of'"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם, 'Egypt'), proper noun; KJV/ESV/NASB all render 'Egypt'"
+      }
+    ]
+  }
+]

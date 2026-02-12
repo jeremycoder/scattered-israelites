@@ -1,0 +1,144 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵבֵאתִ֤י",
+        "phrase": "And I will bring",
+        "literal": "and-I-will-bring",
+        "source": "H935 conj. + Hiphil perf. 1cs of בּוֹא 'to come; Hiphil: to bring'; KJV 'I will bring', ESV 'I will bring', NASB 'I will bring'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶתְ/כֶם֙",
+        "phrase": "you",
+        "literal": "DOM-you(mp)",
+        "source": "H853 DOM + 2mp suff.; all trans. 'you'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; KJV 'in unto', ESV 'into', NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 def. art. + n.fs ʾerets 'land, earth'; KJV 'the land', ESV 'the land', NASB 'the land'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 rel. pron. ʾasher 'who, which, that'; KJV 'the which', ESV 'that', NASB 'which'"
+      },
+      {
+        "position": 6,
+        "surface": "נָשָׂ֨אתִי֙",
+        "phrase": "I lifted",
+        "literal": "I-lifted",
+        "source": "H5375 Qal perf. 1cs of נָשָׂא 'to lift, carry'; idiom 'to lift the hand' = to swear an oath; KJV 'I did swear', ESV 'I swore', NASB 'I swore'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 8,
+        "surface": "יָדִ֔/י",
+        "phrase": "My hand",
+        "literal": "hand-my",
+        "source": "H3027 n.fs yad 'hand' + 1cs suff.; part of oath idiom 'lift the hand'; KJV 'mine hand' (= swore), ESV absorbed into 'swore', NASB absorbed into 'swore'"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/תֵ֣ת",
+        "phrase": "to give",
+        "literal": "to-give",
+        "source": "H5414 prep. l- + Qal inf. cstr. of נָתַן 'to give'; KJV 'to give', ESV 'to give', NASB 'to give'"
+      },
+      {
+        "position": 10,
+        "surface": "אֹתָ֔/הּ",
+        "phrase": "it",
+        "literal": "DOM-it(fs)",
+        "source": "H853 DOM + 3fs suff. (referring to the land); KJV 'it', ESV 'it', NASB 'it'"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/אַבְרָהָ֥ם",
+        "phrase": "to Abraham",
+        "literal": "to-Abraham",
+        "source": "H85 prep. l- + proper name; all trans. agree"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/יִצְחָ֖ק",
+        "phrase": "to Isaac",
+        "literal": "to-Isaac",
+        "source": "H3327 prep. l- + proper name; all trans. agree"
+      },
+      {
+        "position": 13,
+        "surface": "וּֽ/לְ/יַעֲקֹ֑ב",
+        "phrase": "and to Jacob",
+        "literal": "and-to-Jacob",
+        "source": "H3290 conj. + prep. l- + proper name; all trans. agree"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/נָתַתִּ֨י",
+        "phrase": "and I will give",
+        "literal": "and-I-will-give",
+        "source": "H5414 conj. + Qal perf. 1cs of נָתַן 'to give'; KJV 'I will give', ESV 'I will give', NASB 'I will give'"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתָ֥/הּ",
+        "phrase": "it",
+        "literal": "DOM-it(fs)",
+        "source": "H853 DOM + 3fs suff. (referring to the land); KJV 'it', ESV 'it', NASB 'it'"
+      },
+      {
+        "position": 16,
+        "surface": "לָ/כֶ֛ם",
+        "phrase": "to you",
+        "literal": "to-you(mp)",
+        "source": "prep. l- + 2mp suff.; KJV 'you', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 17,
+        "surface": "מוֹרָשָׁ֖ה",
+        "phrase": "as an inheritance",
+        "literal": "inheritance",
+        "source": "H4181 n.fs morashah 'possession, inheritance'; important land theology term denoting permanent ancestral possession; KJV 'for an heritage', ESV 'for a possession', NASB 'for a possession'"
+      },
+      {
+        "position": 18,
+        "surface": "אֲנִ֥י",
+        "phrase": "I am",
+        "literal": "I",
+        "source": "H589 pron. 1cs ʾani 'I'; KJV 'I am', ESV 'I am', NASB 'I am'"
+      },
+      {
+        "position": 19,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      }
+    ]
+  }
+]

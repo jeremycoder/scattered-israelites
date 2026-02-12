@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֹּ֣א",
+        "phrase": "Go",
+        "literal": "go",
+        "source": "H935 (בּוֹא, 'to go/come'), Qal imperative masculine singular; KJV 'Go in', ESV 'Go in', NASB 'Go'"
+      },
+      {
+        "position": 2,
+        "surface": "דַבֵּ֔ר",
+        "phrase": "speak",
+        "literal": "speak",
+        "source": "H1696 (דָּבַר, 'to speak'), Piel imperative masculine singular; KJV 'speak', ESV 'tell', NASB 'speak'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (אֶל, 'to/unto'), preposition; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), proper noun; KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 5,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "king of",
+        "literal": "king-of",
+        "source": "H4428 (מֶלֶךְ, 'king'), noun common masculine singular construct; KJV/ESV/NASB all render 'king of'"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם, 'Egypt'), proper noun; KJV/ESV/NASB all render 'Egypt'"
+      },
+      {
+        "position": 7,
+        "surface": "וִֽ/ישַׁלַּ֥ח",
+        "phrase": "that he let go",
+        "literal": "and-he-shall-send-away",
+        "source": "H7971 (שָׁלַח, 'to send'), conjunction + Piel imperfect 3ms; KJV 'that he let … go', ESV 'to let … go', NASB 'that he let … go'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 (בֵּן, 'son'), noun common masculine plural construct; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל, 'Israel'), proper noun; KJV/ESV/NASB all render 'Israel'"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/אַרְצֽ/וֹ",
+        "phrase": "out of his land",
+        "literal": "from-land-of-his",
+        "source": "H776 (אֶרֶץ, 'land/earth'), preposition-min + noun common feminine singular construct + 3ms suffix; KJV 'out of his land', ESV 'out of his land', NASB 'from his land'"
+      }
+    ]
+  }
+]

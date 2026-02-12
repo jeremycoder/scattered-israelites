@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֣ר",
+        "phrase": "and spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 dabar, Piel wayyiqtol 3ms; KJV 'And … spake', ESV 'spoke', NASB 'Then … spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֔ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 ʾAharon, proper noun; KJV/ESV/NASB 'Aaron'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 kol, noun ms construct; KJV/ESV/NASB 'all'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/דְּבָרִ֔ים",
+        "phrase": "the words",
+        "literal": "the-words",
+        "source": "H1697 dabar, noun mp + article; KJV 'the words', ESV 'the words', NASB 'the words'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 ʾasher, relative pronoun; KJV 'which', ESV 'that', NASB 'which'"
+      },
+      {
+        "position": 7,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "had spoken",
+        "literal": "he-spoke",
+        "source": "H1696 dabar, Piel qatal 3ms; KJV 'had spoken', ESV 'had spoken', NASB 'had spoken'"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 10,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "and performed",
+        "literal": "and-he-did",
+        "source": "H6213 ʿasah, Qal wayyiqtol 3ms; KJV 'and did', ESV 'and performed', NASB 'and performed'"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אֹתֹ֖ת",
+        "phrase": "the signs",
+        "literal": "the-signs",
+        "source": "H226 ʾoth, noun fp + article; KJV 'the signs', ESV 'the signs', NASB 'the signs'"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/עֵינֵ֥י",
+        "phrase": "in the sight of",
+        "literal": "to-eyes-of",
+        "source": "H5869 ʿayin, noun cd construct + preposition le; KJV 'in the sight of', ESV 'in the sight of', NASB 'in the sight of'"
+      },
+      {
+        "position": 14,
+        "surface": "הָ/עָֽם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 ʿam, noun ms + article; KJV/ESV/NASB 'the people'"
+      }
+    ]
+  }
+]

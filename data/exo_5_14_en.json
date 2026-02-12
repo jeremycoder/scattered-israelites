@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֻּכּ֗וּ",
+        "phrase": "And were beaten",
+        "literal": "and-were-struck",
+        "source": "H5221 wayyiqtol 3mp Hophal of נָכָה 'to strike'; KJV 'were beaten', ESV 'were beaten', NASB 'were beaten'"
+      },
+      {
+        "position": 2,
+        "surface": "שֹֽׁטְרֵי֙",
+        "phrase": "the foremen of",
+        "literal": "officers-of",
+        "source": "H7860 n.mp constr. of שֹׁטֵר 'officer, foreman'; KJV 'officers of', ESV 'foremen of', NASB 'foremen of'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 n.mp constr. of בֵּן 'son'; KJV 'children of', ESV 'people of', NASB 'sons of'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "who",
+        "source": "H834 rel. pron. 'who, which, that'; KJV 'which', ESV 'whom', NASB 'whom'"
+      },
+      {
+        "position": 6,
+        "surface": "שָׂ֣מוּ",
+        "phrase": "had set",
+        "literal": "placed",
+        "source": "H7760 Qal perf. 3cp of שׂוּם 'to set, place, appoint'; KJV 'had set', ESV 'had set', NASB 'had set'"
+      },
+      {
+        "position": 7,
+        "surface": "עֲלֵ/הֶ֔ם",
+        "phrase": "over them",
+        "literal": "over-them",
+        "source": "H5921 prep. + 3mp suff. עַל 'upon, over'; KJV 'over them', ESV 'over them', NASB 'over them'"
+      },
+      {
+        "position": 8,
+        "surface": "נֹגְשֵׂ֥י",
+        "phrase": "the taskmasters of",
+        "literal": "oppressors-of",
+        "source": "H5065 Qal ptc. mp constr. of נָגַשׂ 'to press, drive'; KJV 'taskmasters', ESV 'taskmasters', NASB 'taskmasters'"
+      },
+      {
+        "position": 9,
+        "surface": "פַרְעֹ֖ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 10,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "מַדּ֡וּעַ",
+        "phrase": "Why",
+        "literal": "why",
+        "source": "H4069 interrog. adv. 'why?'; KJV 'wherefore', ESV 'why', NASB 'why'"
+      },
+      {
+        "position": 12,
+        "surface": "לֹא֩",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle; all trans. agree"
+      },
+      {
+        "position": 13,
+        "surface": "כִלִּיתֶ֨ם",
+        "phrase": "have you completed",
+        "literal": "you(mp)-finished",
+        "source": "H3615 Piel perf. 2mp of כָּלָה 'to complete, finish'; KJV 'fulfilled', ESV 'completed', NASB 'completed'"
+      },
+      {
+        "position": 14,
+        "surface": "חָקְ/כֶ֤ם",
+        "phrase": "your quota",
+        "literal": "prescribed-portion-your(mp)",
+        "source": "H2706 n.ms + 2mp suff. of חֹק 'statute, allotment, quota'; KJV 'your task', ESV 'your required quantity', NASB 'your required amount'"
+      },
+      {
+        "position": 15,
+        "surface": "לִ/לְבֹּן֙",
+        "phrase": "of making bricks",
+        "literal": "to-make-bricks",
+        "source": "H3835 prep. l- + Qal inf. constr. of לָבַן 'to make bricks'; KJV 'in making brick', ESV 'of bricks', NASB 'of making bricks'"
+      },
+      {
+        "position": 16,
+        "surface": "כִּ/תְמ֣וֹל",
+        "phrase": "as yesterday",
+        "literal": "as-yesterday",
+        "source": "H8543 prep. k- + adv. תְּמוֹל 'yesterday'; KJV 'heretofore', ESV 'as in the past', NASB 'previously'"
+      },
+      {
+        "position": 17,
+        "surface": "שִׁלְשֹׁ֔ם",
+        "phrase": "and the day before",
+        "literal": "three-days-ago",
+        "source": "H8032 adv. שִׁלְשׁוֹם 'day before yesterday'; idiom with תְּמוֹל = 'formerly, in the past'"
+      },
+      {
+        "position": 18,
+        "surface": "גַּם",
+        "phrase": "both",
+        "literal": "also",
+        "source": "H1571 adv. גַּם 'also, both'; KJV 'both', ESV 'both', NASB 'both'"
+      },
+      {
+        "position": 19,
+        "surface": "תְּמ֖וֹל",
+        "phrase": "yesterday",
+        "literal": "yesterday",
+        "source": "H8543 adv. תְּמוֹל 'yesterday'; KJV 'yesterday', ESV 'yesterday', NASB 'yesterday'"
+      },
+      {
+        "position": 20,
+        "surface": "גַּם",
+        "phrase": "and also",
+        "literal": "also",
+        "source": "H1571 adv. גַּם 'also'; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 def. art. + n.ms יוֹם 'day'; with article = 'today'; KJV 'to day', ESV 'today', NASB 'today'"
+      }
+    ]
+  }
+]

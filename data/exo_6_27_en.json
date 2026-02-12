@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֵ֗ם",
+        "phrase": "They",
+        "literal": "they",
+        "source": "H1992 (הֵם, 'they'), personal pronoun 3mp; KJV 'these are they which', ESV 'these are the ones who', NASB 'it was they who'"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/מְדַבְּרִים֙",
+        "phrase": "who spoke",
+        "literal": "the-ones-speaking",
+        "source": "H1696 article + Piel participle masculine plural of דָּבַר 'to speak'; KJV 'spake', ESV 'spoke', NASB 'spoke'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (אֶל, 'to/unto'), preposition; KJV 'to', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹ֣ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 (פַּרְעֹה, 'Pharaoh'), proper noun; KJV/ESV/NASB all render 'Pharaoh'"
+      },
+      {
+        "position": 5,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "king of",
+        "literal": "king-of",
+        "source": "H4428 noun common masculine singular construct of מֶלֶךְ 'king'; KJV/ESV/NASB all render 'king of'"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם, 'Egypt'), proper noun; KJV/ESV/NASB all render 'Egypt'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/הוֹצִ֥יא",
+        "phrase": "to bring out",
+        "literal": "to-bring-out",
+        "source": "H3318 prep. l- + Hiphil infinitive construct of יָצָא 'to go out'; KJV 'to bring out', ESV 'to bring out', NASB 'to bring out'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 noun common masculine plural construct of בֵּן 'son'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל, 'Israel'), proper noun; KJV/ESV/NASB all render 'Israel'"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "H4714 prep. min + proper noun (מִצְרַיִם, 'Egypt'); KJV 'out of Egypt', ESV 'from Egypt', NASB 'from Egypt'"
+      },
+      {
+        "position": 12,
+        "surface": "ה֥וּא",
+        "phrase": "it was",
+        "literal": "he",
+        "source": "H1931 (הוּא, 'he/it'), personal pronoun 3ms; KJV 'these are that', ESV 'this', NASB 'it was'"
+      },
+      {
+        "position": 13,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (מֹשֶׁה, 'Moses'), proper noun masculine; KJV/ESV/NASB all render 'Moses'"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אַהֲרֹֽן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 conj. waw + proper noun masculine (אַהֲרֹן, 'Aaron'); KJV/ESV/NASB all render 'and Aaron'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֛אמֶר",
+        "phrase": "But he said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'he said', ESV 'he said', NASB 'he said'"
+      },
+      {
+        "position": 2,
+        "surface": "נִרְפִּ֥ים",
+        "phrase": "Lazy",
+        "literal": "slack-ones",
+        "source": "H7503 Niphal ptc. mp of רָפָה 'to be slack, idle'; KJV 'idle', ESV 'idle', NASB 'lazy'"
+      },
+      {
+        "position": 3,
+        "surface": "אַתֶּ֖ם",
+        "phrase": "you are",
+        "literal": "you(mp)",
+        "source": "H859 indep. pron. 2mp; KJV 'ye are', ESV 'you are', NASB 'you are'"
+      },
+      {
+        "position": 4,
+        "surface": "נִרְפִּ֑ים",
+        "phrase": "lazy!",
+        "literal": "slack-ones",
+        "source": "H7503 Niphal ptc. mp of רָפָה 'to be slack, idle'; emphatic repetition; KJV 'idle', ESV 'idle', NASB 'lazy'"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 prep. 'upon, on account of'; KJV 'therefore', ESV 'therefore', NASB 'therefore'"
+      },
+      {
+        "position": 6,
+        "surface": "כֵּן֙",
+        "phrase": "therefore",
+        "literal": "thus",
+        "source": "H3651 adv. 'so, thus'; with עַל = 'therefore'; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "אַתֶּ֣ם",
+        "phrase": "you",
+        "literal": "you(mp)",
+        "source": "H859 indep. pron. 2mp; all trans. agree"
+      },
+      {
+        "position": 8,
+        "surface": "אֹֽמְרִ֔ים",
+        "phrase": "are saying",
+        "literal": "saying",
+        "source": "H559 Qal ptc. mp of אָמַר 'to say'; KJV 'say', ESV 'say', NASB 'say'"
+      },
+      {
+        "position": 9,
+        "surface": "נֵלְכָ֖ה",
+        "phrase": "Let us go",
+        "literal": "let-us-go",
+        "source": "H3212 Qal cohortative 1cp of יָלַךְ 'to go, walk'; KJV 'let us go', ESV 'let us go', NASB 'let us go'"
+      },
+      {
+        "position": 10,
+        "surface": "נִזְבְּחָ֥ה",
+        "phrase": "and sacrifice",
+        "literal": "let-us-sacrifice",
+        "source": "H2076 Qal cohortative 1cp of זָבַח 'to sacrifice, slaughter'; KJV 'do sacrifice', ESV 'sacrifice', NASB 'sacrifice'"
+      },
+      {
+        "position": 11,
+        "surface": "לַֽ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 prep. l- + divine name; KJV 'to the LORD', ESV 'to the LORD', NASB 'to the LORD'"
+      }
+    ]
+  }
+]

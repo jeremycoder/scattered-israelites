@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּרְא֞וּ",
+        "phrase": "And saw",
+        "literal": "and-they-saw",
+        "source": "H7200 wayyiqtol 3mp Qal of רָאָה 'to see'; KJV 'did see', ESV 'saw', NASB 'realized'"
+      },
+      {
+        "position": 2,
+        "surface": "שֹֽׁטְרֵ֧י",
+        "phrase": "the foremen of",
+        "literal": "officers-of",
+        "source": "H7860 n.mp constr. of שֹׁטֵר 'officer, foreman'; KJV 'officers of', ESV 'foremen of', NASB 'foremen of'"
+      },
+      {
+        "position": 3,
+        "surface": "בְנֵֽי",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 n.mp constr. of בֵּן 'son'; KJV 'children of', ESV 'people of', NASB 'sons of'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "[direct object marker] themselves",
+        "literal": "DOM-them",
+        "source": "H853 direct object marker + 3mp suff.; reflexive sense 'that they were'; KJV omitted, ESV implied, NASB 'that they were'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/רָ֣ע",
+        "phrase": "in trouble",
+        "literal": "in-evil/distress",
+        "source": "H7451 prep. b- + n.ms רַע 'evil, distress, trouble'; KJV 'in evil case', ESV 'in trouble', NASB 'in trouble'"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "when it was said",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; introduces the decree"
+      },
+      {
+        "position": 8,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle; all trans. agree"
+      },
+      {
+        "position": 9,
+        "surface": "תִגְרְע֥וּ",
+        "phrase": "shall you reduce",
+        "literal": "you(mp)-shall-diminish",
+        "source": "H1639 Qal impf. 2mp of גָּרַע 'to diminish, reduce'; KJV 'ye shall not minish', ESV 'you shall not reduce', NASB 'you shall not reduce'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/לִּבְנֵי/כֶ֖ם",
+        "phrase": "from your bricks",
+        "literal": "from-bricks-your(mp)",
+        "source": "H3843 prep. min + n.fp constr. + 2mp suff. of לְבֵנָה 'brick'; KJV 'from your bricks', ESV 'from your number of bricks', NASB 'from your bricks'"
+      },
+      {
+        "position": 11,
+        "surface": "דְּבַר",
+        "phrase": "the matter of",
+        "literal": "matter-of",
+        "source": "H1697 n.ms constr. of דָּבָר 'word, matter, thing'; part of idiom 'daily quota'"
+      },
+      {
+        "position": 12,
+        "surface": "י֥וֹם",
+        "phrase": "each day",
+        "literal": "day",
+        "source": "H3117 n.ms of יוֹם 'day'; part of idiom 'day by day'"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/יוֹמֽ/וֹ",
+        "phrase": "in its day",
+        "literal": "in-day-its",
+        "source": "H3117 prep. b- + n.ms + 3ms suff. of יוֹם 'day'; completes idiom = 'daily quota'"
+      }
+    ]
+  }
+]

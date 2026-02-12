@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "and He said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "הָשֵׁ֤ב",
+        "phrase": "put back",
+        "literal": "return",
+        "source": "H7725 shuv, Hiphil imperative 2ms; KJV 'Put', ESV 'Put', NASB 'Put … back'"
+      },
+      {
+        "position": 3,
+        "surface": "יָֽדְ/ךָ֙",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "H3027 yad, noun fs + 2ms suffix; KJV 'thine hand', ESV/NASB 'your hand'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'into', ESV 'inside', NASB 'into'"
+      },
+      {
+        "position": 5,
+        "surface": "חֵיקֶ֔/ךָ",
+        "phrase": "your bosom",
+        "literal": "bosom-your",
+        "source": "H2436 cheq, noun ms + 2ms suffix; KJV 'thy bosom', ESV 'your cloak', NASB 'your bosom' — DIVERGENT: ESV 'cloak' vs KJV/NASB 'bosom'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יָּ֥שֶׁב",
+        "phrase": "and he put back",
+        "literal": "and-he-returned",
+        "source": "H7725 shuv, Hiphil wayyiqtol 3ms; KJV 'he put', ESV 'he put', NASB 'he put … back'"
+      },
+      {
+        "position": 7,
+        "surface": "יָד֖/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "H3027 yad, noun fs + 3ms suffix; KJV/ESV/NASB 'his hand'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV/ESV/NASB 'into'"
+      },
+      {
+        "position": 9,
+        "surface": "חֵיק֑/וֹ",
+        "phrase": "his bosom",
+        "literal": "bosom-his",
+        "source": "H2436 cheq, noun ms + 3ms suffix; KJV 'his bosom', ESV 'his cloak', NASB 'his bosom'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יּֽוֹצִאָ/הּ֙",
+        "phrase": "and he took it out",
+        "literal": "and-he-brought-out-it",
+        "source": "H3318 yatsaʾ, Hiphil wayyiqtol 3ms + 3fs suffix; KJV 'he plucked it out', ESV 'he took it out', NASB 'he took it out' — DIVERGENT: KJV 'plucked' vs ESV/NASB 'took'"
+      },
+      {
+        "position": 11,
+        "surface": "מֵֽ/חֵיק֔/וֹ",
+        "phrase": "from his bosom",
+        "literal": "from-bosom-his",
+        "source": "H2436 cheq, noun ms + preposition min + 3ms suffix; KJV 'of his bosom', ESV 'of his cloak', NASB 'from his bosom'"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הִנֵּה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 hinneh, interjection + waw; KJV 'and, behold', ESV 'and behold', NASB 'and behold'"
+      },
+      {
+        "position": 13,
+        "surface": "שָׁ֖בָה",
+        "phrase": "it was restored",
+        "literal": "it-returned",
+        "source": "H7725 shuv, Qal qatal 3fs; KJV 'turned again', ESV 'was restored', NASB 'was restored' — DIVERGENT: KJV literal 'turned again' vs ESV/NASB dynamic 'was restored'"
+      },
+      {
+        "position": 14,
+        "surface": "כִּ/בְשָׂרֽ/וֹ",
+        "phrase": "like his flesh",
+        "literal": "like-flesh-his",
+        "source": "H1320 basar, noun ms + preposition ke + 3ms suffix; KJV 'as his other flesh', ESV 'like the rest of his flesh', NASB 'like the rest of his flesh'"
+      }
+    ]
+  }
+]

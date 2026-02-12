@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֹמַ֣ר",
+        "phrase": "and I say",
+        "literal": "and-I-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 1cs; KJV 'And I say', ESV 'and I say', NASB 'So I said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלֶ֗י/ךָ",
+        "phrase": "to you",
+        "literal": "unto-you",
+        "source": "H413 ʾel, preposition + 2ms suffix; KJV 'unto thee', ESV/NASB 'to you'"
+      },
+      {
+        "position": 3,
+        "surface": "שַׁלַּ֤ח",
+        "phrase": "let go",
+        "literal": "send-away",
+        "source": "H7971 shalach, Piel imperative 2ms; KJV 'Let … go', ESV 'Let … go', NASB 'Let … go'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנִ/י֙",
+        "phrase": "My son",
+        "literal": "son-My",
+        "source": "H1121 ben, noun ms construct + 1cs suffix; KJV 'my son', ESV 'my son', NASB 'My son'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יַֽעַבְדֵ֔/נִי",
+        "phrase": "that he may serve Me",
+        "literal": "and-he-will-serve-Me",
+        "source": "H5647 ʿabad, Qal weyiqtol 3ms + 1cs suffix; KJV 'that he may serve me', ESV 'that he may serve me', NASB 'that he may serve Me'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תְּמָאֵ֖ן",
+        "phrase": "but you refuse",
+        "literal": "and-you-refused",
+        "source": "H3985 maʾen, Piel wayyiqtol 2ms; KJV 'and thou hast refused', ESV 'If you refuse', NASB 'but you have refused'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/שַׁלְּח֑/וֹ",
+        "phrase": "to let him go",
+        "literal": "to-send-him",
+        "source": "H7971 shalach, Piel infinitive construct + preposition le + 3ms suffix; KJV 'to let him go', ESV 'to let him go', NASB 'to let him go'"
+      },
+      {
+        "position": 9,
+        "surface": "הִנֵּה֙",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 hinneh, interjection; KJV 'behold', ESV 'behold', NASB 'behold'"
+      },
+      {
+        "position": 10,
+        "surface": "אָנֹכִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 ʾanokhi, independent pronoun 1cs; KJV 'I', ESV 'I', NASB 'I'"
+      },
+      {
+        "position": 11,
+        "surface": "הֹרֵ֔ג",
+        "phrase": "will kill",
+        "literal": "killing",
+        "source": "H2026 harag, Qal participle ms; KJV 'will slay', ESV 'will kill', NASB 'will kill'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 13,
+        "surface": "בִּנְ/ךָ֖",
+        "phrase": "your son",
+        "literal": "son-your",
+        "source": "H1121 ben, noun ms construct + 2ms suffix; KJV 'thy son', ESV 'your … son', NASB 'your son'"
+      },
+      {
+        "position": 14,
+        "surface": "בְּכֹרֶֽ/ךָ",
+        "phrase": "your firstborn",
+        "literal": "firstborn-your",
+        "source": "H1060 bekor, noun ms + 2ms suffix; KJV 'thy … firstborn', ESV 'your firstborn', NASB 'your firstborn'"
+      }
+    ]
+  }
+]

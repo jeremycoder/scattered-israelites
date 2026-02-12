@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ה֥וּא",
+        "phrase": "It is",
+        "literal": "he",
+        "source": "H1931 (הוּא, 'he/it'), personal pronoun 3ms; KJV 'these are that', ESV 'these are the', NASB 'it was'"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֖ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (אַהֲרֹן, 'Aaron'), proper noun masculine; KJV/ESV/NASB all render 'Aaron'"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מֹשֶׁ֑ה",
+        "phrase": "and Moses",
+        "literal": "and-Moses",
+        "source": "H4872 conj. waw + proper noun masculine (מֹשֶׁה, 'Moses'); KJV/ESV/NASB all render 'and Moses'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "to whom",
+        "literal": "whom",
+        "source": "H834 relative pronoun (אֲשֶׁר, 'who, which, that'); KJV 'to whom', ESV 'to whom', NASB 'whom'"
+      },
+      {
+        "position": 5,
+        "surface": "אָמַ֤ר",
+        "phrase": "said",
+        "literal": "said",
+        "source": "H559 Qal perfect 3ms of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "Preposition l- + 3mp pronominal suffix; KJV 'to them', ESV implied, NASB 'to them'"
+      },
+      {
+        "position": 8,
+        "surface": "הוֹצִ֜יאוּ",
+        "phrase": "Bring out",
+        "literal": "bring-out",
+        "source": "H3318 Hiphil imperative masculine plural of יָצָא 'to go out'; KJV 'bring out', ESV 'bring out', NASB 'bring out'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֵ֧י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 noun common masculine plural construct of בֵּן 'son'; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 11,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (יִשְׂרָאֵל, 'Israel'), proper noun; KJV/ESV/NASB all render 'Israel'"
+      },
+      {
+        "position": 12,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from the land of",
+        "literal": "from-land-of",
+        "source": "H776 prep. min + noun common feminine singular construct of אֶרֶץ 'land, earth'; KJV 'from the land of', ESV 'out of the land of', NASB 'from the land of'"
+      },
+      {
+        "position": 13,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (מִצְרַיִם, 'Egypt'), proper noun; KJV/ESV/NASB all render 'Egypt'"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "according to",
+        "literal": "upon",
+        "source": "H5921 (עַל, 'upon, over, according to'), preposition; KJV 'according to', ESV 'by', NASB 'by'"
+      },
+      {
+        "position": 15,
+        "surface": "צִבְאֹתָֽ/ם",
+        "phrase": "their hosts",
+        "literal": "hosts-their",
+        "source": "H6635 noun common masculine plural construct of צָבָא 'host, army' + 3mp suffix (צִבְאֹתָם, 'their armies/divisions'); significant term denoting organized military-like departure; KJV 'their armies', ESV 'their hosts', NASB 'their hosts'"
+      }
+    ]
+  }
+]

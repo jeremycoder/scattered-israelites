@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֛י/ו",
+        "phrase": "to him",
+        "literal": "unto-him",
+        "source": "H413 ʾel, preposition + 3ms suffix; KJV 'unto him', ESV/NASB 'to him'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "מ/זה",
+        "phrase": "what is",
+        "literal": "what-this",
+        "source": "H4100 mah + H2088 zeh; contracted form mazzeh; KJV 'What is', ESV 'What is', NASB 'What is'"
+      },
+      {
+        "position": 5,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "H4100 mah, interrogative pronoun; part of the question 'What is that'"
+      },
+      {
+        "position": 6,
+        "surface": "זֶּ֣ה",
+        "phrase": "that",
+        "literal": "this",
+        "source": "H2088 zeh, demonstrative pronoun ms; KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/יָדֶ֑/ךָ",
+        "phrase": "in your hand",
+        "literal": "in-hand-your",
+        "source": "H3027 yad, noun fs + preposition be + 2ms suffix; KJV 'in thine hand', ESV/NASB 'in your hand'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 9,
+        "surface": "מַטֶּֽה",
+        "phrase": "a staff",
+        "literal": "staff",
+        "source": "H4294 matteh, noun ms; KJV 'A rod', ESV 'A staff', NASB 'A staff' — DIVERGENT: KJV 'rod' vs ESV/NASB 'staff'"
+      }
+    ]
+  }
+]

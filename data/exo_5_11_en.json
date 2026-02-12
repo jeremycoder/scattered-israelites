@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַתֶּ֗ם",
+        "phrase": "You yourselves",
+        "literal": "you",
+        "source": "H859 indep. pron. 2mp אַתֶּם 'you'; KJV 'go ye', ESV 'go', NASB 'go yourselves'"
+      },
+      {
+        "position": 2,
+        "surface": "לְכ֨וּ",
+        "phrase": "go",
+        "literal": "go",
+        "source": "H3212 Qal imv. 2mp of הָלַךְ 'to go'; KJV 'go', ESV 'go', NASB 'go'"
+      },
+      {
+        "position": 3,
+        "surface": "קְח֤וּ",
+        "phrase": "get",
+        "literal": "take",
+        "source": "H3947 Qal imv. 2mp of לָקַח 'to take, get'; KJV 'get', ESV 'get', NASB 'get'"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶם֙",
+        "phrase": "for yourselves",
+        "literal": "for-you",
+        "source": "prep. l- + 2mp suff.; KJV 'you', ESV 'your own', NASB 'yourselves'"
+      },
+      {
+        "position": 5,
+        "surface": "תֶּ֔בֶן",
+        "phrase": "straw",
+        "literal": "straw",
+        "source": "H8401 n.ms תֶּבֶן 'straw'; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֲשֶׁ֖ר",
+        "phrase": "wherever",
+        "literal": "from-where",
+        "source": "H834 prep. מִן + rel. pron. אֲשֶׁר 'from wherever'; KJV 'where ye can find it', ESV 'wherever you can find it', NASB 'wherever you can find it'"
+      },
+      {
+        "position": 7,
+        "surface": "תִּמְצָ֑אוּ",
+        "phrase": "you can find it",
+        "literal": "you-find",
+        "source": "H4672 Qal impf. 2mp of מָצָא 'to find'; KJV 'find', ESV 'find', NASB 'find'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֣י",
+        "phrase": "but",
+        "literal": "for",
+        "source": "H3588 conj. כִּי 'for, because, but'; KJV 'yet', ESV 'but', NASB 'but'"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֥ין",
+        "phrase": "nothing",
+        "literal": "there-is-not",
+        "source": "H369 neg. particle אֵין 'there is not, nothing'; KJV 'not ought', ESV 'none', NASB 'none'"
+      },
+      {
+        "position": 10,
+        "surface": "נִגְרָ֛ע",
+        "phrase": "will be reduced",
+        "literal": "diminished",
+        "source": "H1639 Niphal ptc. ms of גָּרַע 'to diminish, reduce'; KJV 'shall not be diminished', ESV 'will be reduced', NASB 'will be reduced'"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/עֲבֹדַתְ/כֶ֖ם",
+        "phrase": "from your work",
+        "literal": "from-work-your",
+        "source": "H5656 prep. מִן + n.fs + 2mp suff. of עֲבוֹדָה 'work, service'; KJV 'from your work', ESV 'from your work', NASB 'from your work'"
+      },
+      {
+        "position": 12,
+        "surface": "דָּבָֽר",
+        "phrase": "at all",
+        "literal": "a-thing",
+        "source": "H1697 n.ms דָּבָר 'word, thing, matter'; KJV 'ought', ESV 'in the least', NASB 'at all'"
+      }
+    ]
+  }
+]

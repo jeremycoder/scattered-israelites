@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁלַח֙",
+        "phrase": "stretch out",
+        "literal": "send",
+        "source": "H7971 shalach, Qal imperative 2ms; KJV 'Put forth', ESV 'Put out', NASB 'Stretch out' — DIVERGENT: translations vary on idiom"
+      },
+      {
+        "position": 6,
+        "surface": "יָֽדְ/ךָ֔",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "H3027 yad, noun fs + 2ms suffix; KJV 'thine hand', ESV/NASB 'your hand'"
+      },
+      {
+        "position": 7,
+        "surface": "וֶ/אֱחֹ֖ז",
+        "phrase": "and grasp",
+        "literal": "and-seize",
+        "source": "H270 ʾachaz, Qal imperative 2ms + waw; KJV 'take it', ESV 'catch it', NASB 'grasp it' — DIVERGENT: KJV 'take', ESV 'catch', NASB 'grasp'"
+      },
+      {
+        "position": 8,
+        "surface": "בִּ/זְנָב֑/וֹ",
+        "phrase": "by its tail",
+        "literal": "by-tail-its",
+        "source": "H2180 zanav, noun ms + preposition be + 3ms suffix; KJV/ESV/NASB 'by the/its tail'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּשְׁלַ֤ח",
+        "phrase": "and he stretched out",
+        "literal": "and-he-sent",
+        "source": "H7971 shalach, Qal wayyiqtol 3ms; KJV 'put forth', ESV 'put out', NASB 'stretched out'"
+      },
+      {
+        "position": 10,
+        "surface": "יָד/וֹ֙",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "H3027 yad, noun fs + 3ms suffix; KJV/ESV/NASB 'his hand'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יַּ֣חֲזֶק",
+        "phrase": "and seized",
+        "literal": "and-he-grasped-firmly",
+        "source": "H2388 chazaq, Hiphil wayyiqtol 3ms; KJV 'caught', ESV 'caught', NASB 'grasped' — note: Hiphil of chazaq = seized firmly"
+      },
+      {
+        "position": 12,
+        "surface": "בּ֔/וֹ",
+        "phrase": "it",
+        "literal": "in-it",
+        "source": "Preposition be + 3ms suffix; KJV/ESV/NASB 'it'"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and it became",
+        "literal": "and-it-became",
+        "source": "H1961 hayah, Qal wayyiqtol 3ms; KJV/ESV/NASB 'became'"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/מַטֶּ֖ה",
+        "phrase": "a staff",
+        "literal": "to-staff",
+        "source": "H4294 matteh, noun ms + preposition le (of becoming); KJV 'a rod', ESV 'a staff', NASB 'a staff'"
+      },
+      {
+        "position": 15,
+        "surface": "בְּ/כַפּֽ/וֹ",
+        "phrase": "in his hand",
+        "literal": "in-palm-his",
+        "source": "H3709 kaph, noun fs + preposition be + 3ms suffix; KJV 'in his hand', ESV 'in his hand', NASB 'in his hand'"
+      }
+    ]
+  }
+]

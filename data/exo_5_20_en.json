@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יִּפְגְּעוּ֙",
+        "phrase": "And they met",
+        "literal": "and-they-encountered",
+        "source": "H6293 wayyiqtol 3mp Qal of פָּגַע 'to encounter, meet'; KJV 'they met', ESV 'they met', NASB 'they met'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-DOM",
+        "source": "H853 conj. + direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 5,
+        "surface": "אַהֲרֹ֔ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 proper name; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "נִצָּבִ֖ים",
+        "phrase": "who were standing",
+        "literal": "stationed",
+        "source": "H5324 Niphal ptc. mp of נָצַב 'to stand, station oneself'; KJV 'who stood', ESV 'who were waiting', NASB 'who were waiting'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/קְרָאתָ֑/ם",
+        "phrase": "to meet them",
+        "literal": "to-meet-them",
+        "source": "H7125 prep. l- + n.fs constr. + 3mp suff. of קְרָאת 'meeting, encounter'; KJV 'in the way', ESV 'for them', NASB 'to meet them'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/צֵאתָ֖/ם",
+        "phrase": "as they came out",
+        "literal": "in-going-out-their",
+        "source": "H3318 prep. b- + Qal inf. constr. + 3mp suff. of יָצָא 'to go out'; KJV 'as they came forth', ESV 'when they came out', NASB 'as they came out'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/אֵ֥ת",
+        "phrase": "from",
+        "literal": "from-with",
+        "source": "H854 prep. min + prep. אֵת 'from with, from the presence of'; KJV 'from', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 10,
+        "surface": "פַּרְעֹֽה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      }
+    ]
+  }
+]

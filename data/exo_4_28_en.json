@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּגֵּ֤ד",
+        "phrase": "and told",
+        "literal": "and-he-told",
+        "source": "H5046 nagad, Hiphil wayyiqtol 3ms; KJV 'And … told', ESV 'Then … told', NASB 'Then … told'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/אַֽהֲרֹ֔ן",
+        "phrase": "Aaron",
+        "literal": "to-Aaron",
+        "source": "H175 ʾAharon, proper noun + preposition le; KJV/ESV/NASB 'Aaron'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֛ת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 kol, noun ms construct; KJV/ESV/NASB 'all'"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבְרֵ֥י",
+        "phrase": "the words of",
+        "literal": "words-of",
+        "source": "H1697 dabar, noun mp construct; KJV 'the words', ESV 'the words', NASB 'the words'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 ʾasher, relative pronoun; KJV 'who', ESV 'with which', NASB 'with which'"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁלָח֑/וֹ",
+        "phrase": "had sent him",
+        "literal": "sent-him",
+        "source": "H7971 shalach, Qal qatal 3ms + 3ms suffix; KJV 'had sent him', ESV 'he had sent him', NASB 'He had sent him'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵ֥ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-DOM",
+        "source": "H853 ʾeth, direct object marker + waw conjunction; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 kol, noun ms construct; KJV/ESV/NASB 'all'"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/אֹתֹ֖ת",
+        "phrase": "the signs",
+        "literal": "the-signs",
+        "source": "H226 ʾoth, noun fp + article; KJV 'the signs', ESV 'the signs', NASB 'the signs'"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 ʾasher, relative pronoun; KJV 'which', ESV 'with which', NASB 'which'"
+      },
+      {
+        "position": 14,
+        "surface": "צִוָּֽ/הוּ",
+        "phrase": "He had commanded him",
+        "literal": "he-commanded-him",
+        "source": "H6680 tsawah, Piel qatal 3ms + 3ms suffix; KJV 'he had commanded him', ESV 'he had charged him', NASB 'He had commanded him'"
+      }
+    ]
+  }
+]

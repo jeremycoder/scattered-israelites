@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "And [direct object marker]",
+        "literal": "and-DOM",
+        "source": "H853 conj. + direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 2,
+        "surface": "מַתְכֹּ֨נֶת",
+        "phrase": "the quota of",
+        "literal": "measurement-of",
+        "source": "H4971 n.fs construct מַתְכֹּנֶת 'measurement, quota'; KJV 'the tale of', ESV 'the number of', NASB 'the quota of'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/לְּבֵנִ֜ים",
+        "phrase": "bricks",
+        "literal": "the-bricks",
+        "source": "H3843 def. art. + n.fp לְבֵנָה 'brick'; KJV 'bricks', ESV 'bricks', NASB 'bricks'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 rel. pron. 'which, that'; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "הֵם֩",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 indep. pron. 3mp הֵם 'they'; all trans. agree"
+      },
+      {
+        "position": 6,
+        "surface": "עֹשִׂ֨ים",
+        "phrase": "were making",
+        "literal": "making",
+        "source": "H6213 Qal ptc. mp of עָשָׂה 'to do, make'; KJV 'did make', ESV 'made', NASB 'were making'"
+      },
+      {
+        "position": 7,
+        "surface": "תְּמ֤וֹל",
+        "phrase": "previously",
+        "literal": "yesterday",
+        "source": "H8543 adv. תְּמוֹל 'yesterday, formerly'; KJV 'heretofore', ESV 'in the past', NASB 'previously'"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁלְשֹׁם֙",
+        "phrase": "in times past",
+        "literal": "three-days-ago",
+        "source": "H8032 adv. שִׁלְשׁוֹם 'formerly'; idiom with תְּמוֹל = 'previously'; all trans. agree"
+      },
+      {
+        "position": 9,
+        "surface": "תָּשִׂ֣ימוּ",
+        "phrase": "you shall lay",
+        "literal": "you-shall-place",
+        "source": "H7760 Qal impf. 2mp of שִׂים 'to put, set'; KJV 'ye shall lay', ESV 'you shall impose', NASB 'you shall impose'"
+      },
+      {
+        "position": 10,
+        "surface": "עֲלֵי/הֶ֔ם",
+        "phrase": "on them",
+        "literal": "upon-them",
+        "source": "H5921 prep. עַל + 3mp suff. 'upon them'; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle; all trans. agree"
+      },
+      {
+        "position": 12,
+        "surface": "תִגְרְע֖וּ",
+        "phrase": "shall you reduce",
+        "literal": "you-shall-diminish",
+        "source": "H1639 Qal impf. 2mp of גָּרַע 'to diminish, reduce'; KJV 'ye shall not diminish', ESV 'you shall by no means reduce', NASB 'you are not to reduce'"
+      },
+      {
+        "position": 13,
+        "surface": "מִמֶּ֑/נּוּ",
+        "phrase": "from it",
+        "literal": "from-it",
+        "source": "H4480 prep. מִן + 3ms suff. 'from it'; KJV 'thereof', ESV 'it', NASB 'any of it'"
+      },
+      {
+        "position": 14,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "because",
+        "source": "H3588 conj. כִּי 'for, because'; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 15,
+        "surface": "נִרְפִּ֣ים",
+        "phrase": "idle",
+        "literal": "slack",
+        "source": "H7503 Niphal ptc. mp of רָפָה 'to be slack, idle'; KJV 'idle', ESV 'idle', NASB 'lazy'"
+      },
+      {
+        "position": 16,
+        "surface": "הֵ֔ם",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "H1992 indep. pron. 3mp הֵם 'they'; all trans. agree"
+      },
+      {
+        "position": 17,
+        "surface": "עַל",
+        "phrase": "therefore",
+        "literal": "upon",
+        "source": "H5921 prep. 'upon, on account of'; forms idiom with כֵּן"
+      },
+      {
+        "position": 18,
+        "surface": "כֵּ֗ן",
+        "phrase": "that is why",
+        "literal": "thus",
+        "source": "H3651 adv. 'so, thus'; עַל כֵּן = 'therefore'; KJV 'therefore', ESV 'therefore', NASB 'therefore'"
+      },
+      {
+        "position": 19,
+        "surface": "הֵ֤ם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 indep. pron. 3mp הֵם 'they'; all trans. agree"
+      },
+      {
+        "position": 20,
+        "surface": "צֹֽעֲקִים֙",
+        "phrase": "cry out",
+        "literal": "crying-out",
+        "source": "H6817 Qal ptc. mp of צָעַק 'to cry out'; KJV 'they cry', ESV 'they cry', NASB 'they cry out'"
+      },
+      {
+        "position": 21,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 prep. l- + Qal inf. constr. of אָמַר 'to say'; KJV 'saying', ESV 'saying', NASB 'saying'"
+      },
+      {
+        "position": 22,
+        "surface": "נֵלְכָ֖ה",
+        "phrase": "Let us go",
+        "literal": "let-us-go",
+        "source": "H3212 Qal cohortative 1cp of הָלַךְ 'to go'; KJV 'let us go', ESV 'let us go', NASB 'let us go'"
+      },
+      {
+        "position": 23,
+        "surface": "נִזְבְּחָ֥ה",
+        "phrase": "and sacrifice",
+        "literal": "let-us-sacrifice",
+        "source": "H2076 Qal cohortative 1cp of זָבַח 'to sacrifice'; KJV 'sacrifice', ESV 'sacrifice', NASB 'sacrifice'"
+      },
+      {
+        "position": 24,
+        "surface": "לֵ/אלֹהֵֽי/נוּ",
+        "phrase": "to our God",
+        "literal": "to-God-our",
+        "source": "H430 prep. l- + n.mp construct + 1cp suff. of אֱלֹהִים 'God'; KJV 'to our God', ESV 'to our God', NASB 'to our God'"
+      }
+    ]
+  }
+]

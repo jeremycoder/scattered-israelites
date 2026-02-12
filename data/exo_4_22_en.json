@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אָמַרְתָּ֖",
+        "phrase": "and you shall say",
+        "literal": "and-you-shall-say",
+        "source": "H559 ʾamar, Qal weqatal 2ms; KJV 'And thou shalt say', ESV 'Then you shall say', NASB 'Then you shall say'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 3,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 Parʿoh, proper noun; KJV/ESV/NASB 'Pharaoh'"
+      },
+      {
+        "position": 4,
+        "surface": "כֹּ֚ה",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "H3541 koh, adverb; KJV 'Thus', ESV 'Thus', NASB 'Thus'"
+      },
+      {
+        "position": 5,
+        "surface": "אָמַ֣ר",
+        "phrase": "says",
+        "literal": "he-said",
+        "source": "H559 ʾamar, Qal qatal 3ms; KJV 'saith', ESV 'says', NASB 'says'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנִ֥/י",
+        "phrase": "My son",
+        "literal": "son-My",
+        "source": "H1121 ben, noun ms construct + 1cs suffix; KJV 'my son', ESV 'my son', NASB 'My son' — THEOLOGICALLY SIGNIFICANT: God calling Israel His son, covenant language"
+      },
+      {
+        "position": 8,
+        "surface": "בְכֹרִ֖/י",
+        "phrase": "My firstborn",
+        "literal": "firstborn-My",
+        "source": "H1060 bekor, noun ms + 1cs suffix; KJV 'my firstborn', ESV 'my firstborn', NASB 'My firstborn' — THEOLOGICALLY SIGNIFICANT: Israel designated as God's firstborn among the nations, foundational covenant identity"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 Yisraʾel, proper noun; KJV/ESV/NASB 'Israel'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָה֮",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ֣י",
+        "phrase": "please",
+        "literal": "in-me",
+        "source": "H994 bi, interjection of entreaty; KJV 'O', ESV 'Oh', NASB 'Please' — DIVERGENT: different English renderings of entreaty particle"
+      },
+      {
+        "position": 6,
+        "surface": "אֲדֹנָ/י֒",
+        "phrase": "my Lord",
+        "literal": "Lord-my",
+        "source": "H136 ʾAdonay, noun mp + 1cs suffix; KJV 'my Lord', ESV 'my Lord', NASB 'Lord'"
+      },
+      {
+        "position": 7,
+        "surface": "לֹא֩",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 loʾ, negative particle; KJV/ESV/NASB 'not'"
+      },
+      {
+        "position": 8,
+        "surface": "אִ֨ישׁ",
+        "phrase": "a man of",
+        "literal": "man-of",
+        "source": "H376 ʾish, noun ms; KJV 'eloquent', ESV 'eloquent', NASB 'eloquent' — note: 'man of words' is Hebrew idiom for eloquent speaker"
+      },
+      {
+        "position": 9,
+        "surface": "דְּבָרִ֜ים",
+        "phrase": "words",
+        "literal": "words",
+        "source": "H1697 davar, noun mp; KJV 'eloquent' (paraphrased), ESV 'eloquent' (paraphrased), NASB 'eloquent' (paraphrased) — lit. 'man of words'"
+      },
+      {
+        "position": 10,
+        "surface": "אָנֹ֗כִי",
+        "phrase": "am I",
+        "literal": "I",
+        "source": "H595 ʾanokhi, pronoun 1cs; KJV 'I am', ESV 'I am', NASB 'I have'"
+      },
+      {
+        "position": 11,
+        "surface": "גַּ֤ם",
+        "phrase": "either",
+        "literal": "also",
+        "source": "H1571 gam, adverb; KJV 'neither', ESV 'either', NASB 'either'"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/תְּמוֹל֙",
+        "phrase": "since yesterday",
+        "literal": "from-yesterday",
+        "source": "H8543 temol, adverb + preposition min; KJV 'heretofore', ESV 'in the past', NASB 'in the past' — DIVERGENT: KJV archaic 'heretofore' vs modern 'in the past'"
+      },
+      {
+        "position": 13,
+        "surface": "גַּ֣ם",
+        "phrase": "or",
+        "literal": "also",
+        "source": "H1571 gam, adverb; KJV 'nor', ESV 'nor', NASB 'nor'"
+      },
+      {
+        "position": 14,
+        "surface": "מִ/שִּׁלְשֹׁ֔ם",
+        "phrase": "since the day before",
+        "literal": "from-three-days-ago",
+        "source": "H8032 shilshom, adverb + preposition min; KJV 'since thou hast spoken', ESV 'since you have spoken', NASB 'since You have spoken' — note: Hebrew idiom temol-shilshom = 'previously, in times past'"
+      },
+      {
+        "position": 15,
+        "surface": "גַּ֛ם",
+        "phrase": "nor",
+        "literal": "also",
+        "source": "H1571 gam, adverb; KJV 'nor', ESV 'but', NASB 'even'"
+      },
+      {
+        "position": 16,
+        "surface": "מֵ/אָ֥ז",
+        "phrase": "since",
+        "literal": "from-then",
+        "source": "H227 ʾaz, adverb + preposition min; KJV 'since', ESV 'since', NASB 'since'"
+      },
+      {
+        "position": 17,
+        "surface": "דַּבֶּרְ/ךָ",
+        "phrase": "You have spoken",
+        "literal": "speaking-Your",
+        "source": "H1696 davar, Piel infinitive construct + 2ms suffix; KJV 'thou hast spoken', ESV 'you have spoken', NASB 'You have spoken'"
+      },
+      {
+        "position": 18,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 19,
+        "surface": "עַבְדֶּ֑/ךָ",
+        "phrase": "Your servant",
+        "literal": "servant-Your",
+        "source": "H5650 ʿeved, noun ms + 2ms suffix; KJV 'thy servant', ESV/NASB 'your servant'"
+      },
+      {
+        "position": 20,
+        "surface": "כִּ֧י",
+        "phrase": "for",
+        "literal": "because",
+        "source": "H3588 ki, conjunction; KJV 'for', ESV 'but', NASB 'for' — DIVERGENT: ESV 'but' vs KJV/NASB 'for'"
+      },
+      {
+        "position": 21,
+        "surface": "כְבַד",
+        "phrase": "slow of",
+        "literal": "heavy-of",
+        "source": "H3515 kaved, adjective ms; KJV 'slow', ESV 'slow', NASB 'slow' — note: lit. 'heavy' of mouth = slow of speech"
+      },
+      {
+        "position": 22,
+        "surface": "פֶּ֛ה",
+        "phrase": "mouth",
+        "literal": "mouth",
+        "source": "H6310 peh, noun ms; KJV 'of speech', ESV 'of speech', NASB 'of speech' — note: 'heavy of mouth' = difficulty speaking"
+      },
+      {
+        "position": 23,
+        "surface": "וּ/כְבַ֥ד",
+        "phrase": "and slow of",
+        "literal": "and-heavy-of",
+        "source": "H3515 kaved, adjective ms + waw conjunction; KJV 'and of a slow', ESV 'and of', NASB 'and slow of'"
+      },
+      {
+        "position": 24,
+        "surface": "לָשׁ֖וֹן",
+        "phrase": "tongue",
+        "literal": "tongue",
+        "source": "H3956 lashon, noun ms; KJV 'tongue', ESV 'tongue', NASB 'tongue'"
+      },
+      {
+        "position": 25,
+        "surface": "אָנֹֽכִי",
+        "phrase": "am I",
+        "literal": "I",
+        "source": "H595 ʾanokhi, pronoun 1cs; KJV 'I am', ESV 'I am', NASB 'I am'"
+      }
+    ]
+  }
+]

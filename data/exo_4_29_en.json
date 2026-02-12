@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he-went",
+        "source": "H3212 yalak, Qal wayyiqtol 3ms; KJV 'And … went', ESV 'Then … went', NASB 'Then … went'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַהֲרֹ֑ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 ʾAharon, proper noun + waw conjunction; KJV/ESV/NASB 'and Aaron'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּ֣אַסְפ֔וּ",
+        "phrase": "and gathered",
+        "literal": "and-they-gathered",
+        "source": "H622 ʾasaph, Qal wayyiqtol 3mp; KJV 'and gathered together', ESV 'and gathered together', NASB 'and they gathered'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 kol, noun ms construct; KJV/ESV/NASB 'all'"
+      },
+      {
+        "position": 7,
+        "surface": "זִקְנֵ֖י",
+        "phrase": "the elders of",
+        "literal": "elders-of",
+        "source": "H2205 zaqen, noun mp construct; KJV 'the elders', ESV 'the elders', NASB 'the elders'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנֵ֥י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 ben, noun mp construct; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 Yisraʾel, proper noun; KJV/ESV/NASB 'Israel'"
+      }
+    ]
+  }
+]

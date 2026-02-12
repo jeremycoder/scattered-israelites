@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "And spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 wayyiqtol 3ms Piel of דָּבַר 'to speak'; KJV 'spake', ESV 'spoke', NASB 'spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 n.mp ʾelohim 'God'; KJV 'God', ESV 'God', NASB 'God'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 wayyiqtol 3ms Qal of אָמַר 'to say'; KJV 'said', ESV 'said', NASB 'said'"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 prep. ʾel + 3ms suff.; KJV 'unto him', ESV 'to him', NASB 'to him'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנִ֥י",
+        "phrase": "I am",
+        "literal": "I",
+        "source": "H589 pron. 1cs ʾani 'I'; KJV 'I am', ESV 'I am', NASB 'I am'"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 divine name, Tetragrammaton; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      }
+    ]
+  }
+]

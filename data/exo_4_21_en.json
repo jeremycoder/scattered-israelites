@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֮",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "unto",
+        "source": "H413 ʾel, preposition; KJV 'unto', ESV/NASB 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁה֒",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/לֶכְתְּ/ךָ֙",
+        "phrase": "when you go",
+        "literal": "in-going-your",
+        "source": "H3212 yalak, Qal infinitive construct + preposition be + 2ms suffix; KJV 'When thou goest', ESV 'When you go back', NASB 'When you go back'"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/שׁ֣וּב",
+        "phrase": "to return",
+        "literal": "to-return",
+        "source": "H7725 shub, Qal infinitive construct + preposition le; KJV 'to return', ESV 'go back', NASB 'go back'"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרַ֔יְמָ/ה",
+        "phrase": "to Egypt",
+        "literal": "Egypt-ward",
+        "source": "H4714 Mitsrayim, proper noun + directional he; KJV 'into Egypt', ESV 'to Egypt', NASB 'to Egypt'"
+      },
+      {
+        "position": 8,
+        "surface": "רְאֵ֗ה",
+        "phrase": "see",
+        "literal": "see",
+        "source": "H7200 raʾah, Qal imperative 2ms; KJV 'see', ESV 'see', NASB 'see'"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 kol, noun ms construct; KJV/ESV/NASB 'all'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מֹּֽפְתִים֙",
+        "phrase": "the wonders",
+        "literal": "the-wonders",
+        "source": "H4159 mopheth, noun mp + article; KJV 'those wonders', ESV 'the miracles', NASB 'the wonders'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 ʾasher, relative pronoun; KJV/ESV/NASB 'which/that'"
+      },
+      {
+        "position": 12,
+        "surface": "שַׂ֣מְתִּי",
+        "phrase": "I have put",
+        "literal": "I-placed",
+        "source": "H7760 sum, Qal qatal 1cs; KJV 'I have put', ESV 'I have put', NASB 'I have put'"
+      },
+      {
+        "position": 13,
+        "surface": "בְ/יָדֶ֔/ךָ",
+        "phrase": "in your hand",
+        "literal": "in-hand-your",
+        "source": "H3027 yad, noun fs + preposition be + 2ms suffix; KJV 'in thine hand', ESV 'in your hand', NASB 'in your hand'"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/עֲשִׂיתָ֖/ם",
+        "phrase": "and you shall do them",
+        "literal": "and-you-shall-do-them",
+        "source": "H6213 ʿasah, Qal weqatal 2ms + 3mp suffix; KJV 'and do … them', ESV 'and you shall do them', NASB 'and you shall do them'"
+      },
+      {
+        "position": 15,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 panim, noun mp construct + preposition le; KJV 'before', ESV 'before', NASB 'before'"
+      },
+      {
+        "position": 16,
+        "surface": "פַרְעֹ֑ה",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 Parʿoh, proper noun; KJV/ESV/NASB 'Pharaoh'"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/אֲנִי֙",
+        "phrase": "but I",
+        "literal": "and-I",
+        "source": "H589 ʾani, independent pronoun 1cs + waw conjunction; KJV 'but I', ESV 'But I', NASB 'Yet I'"
+      },
+      {
+        "position": 18,
+        "surface": "אֲחַזֵּ֣ק",
+        "phrase": "will harden",
+        "literal": "I-will-make-strong",
+        "source": "H2388 chazaq, Piel yiqtol 1cs; KJV 'will harden', ESV 'will harden', NASB 'will harden' — THEOLOGICALLY SIGNIFICANT: God actively hardening (Piel intensive) Pharaoh's heart; same root used for 'strengthen/make firm'"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 20,
+        "surface": "לִבּ֔/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "H3820 leb, noun ms + 3ms suffix; KJV/ESV/NASB 'his heart'"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 loʾ + waw conjunction; KJV 'that he shall not', ESV 'so that he will not', NASB 'and he will not'"
+      },
+      {
+        "position": 22,
+        "surface": "יְשַׁלַּ֖ח",
+        "phrase": "he will let go",
+        "literal": "he-will-send",
+        "source": "H7971 shalach, Piel yiqtol 3ms; KJV 'let … go', ESV 'let … go', NASB 'let … go'"
+      },
+      {
+        "position": 23,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 ʾeth, direct object marker; not translated in KJV/ESV/NASB"
+      },
+      {
+        "position": 24,
+        "surface": "הָ/עָֽם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 ʿam, noun ms + article; KJV/ESV/NASB 'the people'"
+      }
+    ]
+  }
+]

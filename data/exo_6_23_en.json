@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֨ח",
+        "phrase": "And took",
+        "literal": "and-he-took",
+        "source": "H3947 wayyiqtol 3ms Qal of לָקַח 'to take'; KJV 'took', ESV 'took', NASB 'married'"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֜ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (אַהֲרֹן, 'Aaron'), proper noun masculine; KJV/ESV/NASB all render 'Aaron'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלִישֶׁ֧בַע",
+        "phrase": "Elisheba",
+        "literal": "Elisheba",
+        "source": "H472 (אֱלִישֶׁבַע, 'Elisheba', meaning 'my God is an oath/abundance'), proper noun feminine; KJV 'Elisheba', ESV 'Elisheba', NASB 'Elisheba'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּת",
+        "phrase": "daughter of",
+        "literal": "daughter-of",
+        "source": "H1323 noun common feminine singular construct of בַּת 'daughter'; KJV 'daughter of', ESV 'daughter of', NASB 'daughter of'"
+      },
+      {
+        "position": 6,
+        "surface": "עַמִּינָדָ֛ב",
+        "phrase": "Amminadab",
+        "literal": "Amminadab",
+        "source": "H5992 (עַמִּינָדָב, 'Amminadab', meaning 'my people are generous'), proper noun masculine; KJV/ESV/NASB all render 'Amminadab'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲח֥וֹת",
+        "phrase": "sister of",
+        "literal": "sister-of",
+        "source": "H269 noun common feminine singular construct of אָחוֹת 'sister'; KJV 'sister of', ESV 'sister of', NASB 'sister of'"
+      },
+      {
+        "position": 8,
+        "surface": "נַחְשׁ֖וֹן",
+        "phrase": "Nahshon",
+        "literal": "Nahshon",
+        "source": "H5177 (נַחְשׁוֹן, 'Nahshon'), proper noun masculine; KJV 'Naashon', ESV 'Nahshon', NASB 'Nahshon'"
+      },
+      {
+        "position": 9,
+        "surface": "ל֣/וֹ",
+        "phrase": "for himself",
+        "literal": "to-him",
+        "source": "Preposition l- + 3ms pronominal suffix; KJV 'him', ESV implied, NASB implied"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/אִשָּׁ֑ה",
+        "phrase": "as wife",
+        "literal": "for-wife",
+        "source": "H802 prep. l- + noun common feminine singular of אִשָּׁה 'woman, wife'; KJV 'to wife', ESV 'as his wife', NASB 'as his wife'"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תֵּ֣לֶד",
+        "phrase": "and she bore",
+        "literal": "and-she-bore",
+        "source": "H3205 wayyiqtol 3fs Qal of יָלַד 'to bear, give birth'; KJV 'she bare', ESV 'she bore', NASB 'she bore'"
+      },
+      {
+        "position": 12,
+        "surface": "ל֗/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "Preposition l- + 3ms pronominal suffix; KJV 'him', ESV 'him', NASB 'him'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 14,
+        "surface": "נָדָב֙",
+        "phrase": "Nadab",
+        "literal": "Nadab",
+        "source": "H5070 (נָדָב, 'Nadab', meaning 'generous'), proper noun masculine; KJV/ESV/NASB all render 'Nadab'"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[obj]",
+        "source": "H853 conj. waw + particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 16,
+        "surface": "אֲבִיה֔וּא",
+        "phrase": "Abihu",
+        "literal": "Abihu",
+        "source": "H30 (אֲבִיהוּא, 'Abihu', meaning 'he is my father'), proper noun masculine; KJV/ESV/NASB all render 'Abihu'"
+      },
+      {
+        "position": 17,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (אֵת), particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 18,
+        "surface": "אֶלְעָזָ֖ר",
+        "phrase": "Eleazar",
+        "literal": "Eleazar",
+        "source": "H499 (אֶלְעָזָר, 'Eleazar', meaning 'God has helped'), proper noun masculine; KJV/ESV/NASB all render 'Eleazar'"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[obj]",
+        "source": "H853 conj. waw + particle direct object marker; untranslated in English"
+      },
+      {
+        "position": 20,
+        "surface": "אִֽיתָמָֽר",
+        "phrase": "Ithamar",
+        "literal": "Ithamar",
+        "source": "H385 (אִיתָמָר, 'Ithamar', meaning 'island of palms'), proper noun masculine; KJV/ESV/NASB all render 'Ithamar'"
+      }
+    ]
+  }
+]

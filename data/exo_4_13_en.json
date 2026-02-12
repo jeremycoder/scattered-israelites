@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "בִּ֣י",
+        "phrase": "please",
+        "literal": "in-me",
+        "source": "H994 bi, interjection of entreaty; KJV 'O', ESV 'Oh', NASB 'Please' — DIVERGENT: translations vary in rendering this particle of entreaty"
+      },
+      {
+        "position": 3,
+        "surface": "אֲדֹנָ֑/י",
+        "phrase": "my Lord",
+        "literal": "my-lord",
+        "source": "H136 ʾAdonay, noun ms + 1cs suffix; KJV 'my Lord', ESV 'my Lord', NASB 'Lord'"
+      },
+      {
+        "position": 4,
+        "surface": "שְֽׁלַֽח",
+        "phrase": "please send",
+        "literal": "send",
+        "source": "H7971 shalach, Qal imperative ms; KJV 'send', ESV 'send', NASB 'send'"
+      },
+      {
+        "position": 5,
+        "surface": "נָ֖א",
+        "phrase": "I pray",
+        "literal": "please",
+        "source": "H4994 naʾ, particle of entreaty; KJV 'I pray thee', ESV 'please' (implied), NASB 'please' (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/יַד",
+        "phrase": "by the hand of",
+        "literal": "by-hand-of",
+        "source": "H3027 yad, noun fs + preposition be; KJV 'by the hand of', ESV 'by the hand of' (implied), NASB 'by' (implied) — DIVERGENT: ESV 'someone else', NASB 'whomever You will'; KJV 'him whom thou wilt send' — idiomatic, lit. 'by the hand [of whomever] you will send'"
+      },
+      {
+        "position": 7,
+        "surface": "תִּשְׁלָֽח",
+        "phrase": "whomever you will send",
+        "literal": "you-will-send",
+        "source": "H7971 shalach, Qal yiqtol 2ms; KJV 'thou wilt send', ESV 'someone else', NASB 'whomever You will' — DIVERGENT: ESV paraphrases freely; the Hebrew is literally 'send by the hand of [whomever] you will send'"
+      }
+    ]
+  }
+]

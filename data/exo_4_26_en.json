@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֖רֶף",
+        "phrase": "and He let him alone",
+        "literal": "and-he-relented",
+        "source": "H7503 raphah, Qal wayyiqtol 3ms; KJV 'So he let him go', ESV 'So he let him alone', NASB 'So He let him alone' — raphah means 'to sink, relax, let go'; subject is YHWH"
+      },
+      {
+        "position": 2,
+        "surface": "מִמֶּ֑/נּוּ",
+        "phrase": "from him",
+        "literal": "from-him",
+        "source": "H4480 min, preposition + 3ms suffix; KJV 'him go', ESV 'him alone', NASB 'him alone'"
+      },
+      {
+        "position": 3,
+        "surface": "אָ֚ז",
+        "phrase": "then",
+        "literal": "then",
+        "source": "H227 ʾaz, adverb; KJV 'Then', ESV 'At that time', NASB 'At that time'"
+      },
+      {
+        "position": 4,
+        "surface": "אָֽמְרָ֔ה",
+        "phrase": "she said",
+        "literal": "she-said",
+        "source": "H559 ʾamar, Qal qatal 3fs; KJV 'she said', ESV 'she said', NASB 'she said'"
+      },
+      {
+        "position": 5,
+        "surface": "חֲתַ֥ן",
+        "phrase": "a bridegroom of",
+        "literal": "bridegroom-of",
+        "source": "H2860 chathan, noun ms construct; KJV 'A bloody husband', ESV 'a bridegroom of blood', NASB 'You are a bridegroom of blood' — same debated phrase as v.25"
+      },
+      {
+        "position": 6,
+        "surface": "דָּמִ֖ים",
+        "phrase": "blood",
+        "literal": "bloods",
+        "source": "H1818 dam, noun mp; KJV 'bloody', ESV 'of blood', NASB 'of blood'"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/מּוּלֹֽת",
+        "phrase": "because of the circumcision",
+        "literal": "for-the-circumcisions",
+        "source": "H4139 mulah, noun fp + preposition le + article; KJV 'because of the circumcision', ESV 'because of the circumcision', NASB 'because of the circumcision' — mulot is plural, possibly indicating the rite or act of circumcision"
+      }
+    ]
+  }
+]

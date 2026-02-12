@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 5,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מֵ/אָ֞ז",
+        "phrase": "For since",
+        "literal": "and-from-then",
+        "source": "H227 conj. + prep. min + adv. אָז 'then'; KJV 'for since', ESV 'for ever since', NASB 'ever since'"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ֤אתִי",
+        "phrase": "I came",
+        "literal": "I-came",
+        "source": "H935 Qal perf. 1cs of בּוֹא 'to come, enter'; KJV 'I came', ESV 'I came', NASB 'I came'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 4,
+        "surface": "פַּרְעֹה֙",
+        "phrase": "Pharaoh",
+        "literal": "Pharaoh",
+        "source": "H6547 proper name; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/דַבֵּ֣ר",
+        "phrase": "to speak",
+        "literal": "to-speak",
+        "source": "H1696 prep. l- + Piel inf. constr. of דָּבַר 'to speak'; KJV 'to speak', ESV 'to speak', NASB 'to speak'"
+      },
+      {
+        "position": 6,
+        "surface": "בִּ/שְׁמֶ֔/ךָ",
+        "phrase": "in Your name",
+        "literal": "in-name-Your",
+        "source": "H8034 prep. b- + n.ms + 2ms suff. of שֵׁם 'name'; KJV 'in thy name', ESV 'in your name', NASB 'in Your name'"
+      },
+      {
+        "position": 7,
+        "surface": "הֵרַ֖ע",
+        "phrase": "he has done evil",
+        "literal": "he-did-evil",
+        "source": "H7489 Hiphil perf. 3ms of רָעַע 'to be evil, to do evil to'; KJV 'he hath done evil', ESV 'he has done evil', NASB 'he has done harm'"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/עָ֣ם",
+        "phrase": "to the people",
+        "literal": "to-the-people",
+        "source": "H5971 prep. l- + def. art. + n.ms עַם 'people'; KJV 'this people', ESV 'this people', NASB 'this people'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 def. art. + dem. pron. זֶה 'this'; all trans. agree"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הַצֵּ֥ל",
+        "phrase": "and delivering",
+        "literal": "and-delivering (inf. abs.)",
+        "source": "H5337 conj. + Hiphil inf. abs. of נָצַל 'to deliver, rescue'; emphatic infinitive absolute reinforcing the finite verb; KJV 'neither hast thou delivered', ESV 'you have not delivered', NASB 'You have not delivered'"
+      },
+      {
+        "position": 11,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 neg. particle; all trans. agree"
+      },
+      {
+        "position": 12,
+        "surface": "הִצַּ֖לְתָּ",
+        "phrase": "have You delivered at all",
+        "literal": "you-delivered",
+        "source": "H5337 Hiphil perf. 2ms of נָצַל 'to deliver, rescue'; with preceding inf. abs. הַצֵּל = emphatic 'you have certainly not delivered'; KJV 'delivered', ESV 'delivered', NASB 'delivered'"
+      },
+      {
+        "position": 13,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 14,
+        "surface": "עַמֶּֽ/ךָ",
+        "phrase": "Your people",
+        "literal": "people-Your",
+        "source": "H5971 n.ms + 2ms suff. of עַם 'people'; KJV 'thy people', ESV 'your people', NASB 'Your people'"
+      }
+    ]
+  }
+]

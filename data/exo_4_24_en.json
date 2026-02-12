@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and it happened",
+        "literal": "and-it-was",
+        "source": "H1961 hayah, Qal wayyiqtol 3ms; KJV 'And it came to pass', ESV 'At', NASB 'Now it came about'"
+      },
+      {
+        "position": 2,
+        "surface": "בַ/דֶּ֖רֶךְ",
+        "phrase": "on the way",
+        "literal": "on-the-way",
+        "source": "H1870 derek, noun ms + preposition be + article; KJV 'by the way', ESV 'on the way', NASB 'on the way'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/מָּל֑וֹן",
+        "phrase": "at the lodging place",
+        "literal": "at-the-lodging-place",
+        "source": "H4411 malon, noun ms + preposition be + article; KJV 'in the inn', ESV 'at the lodging place', NASB 'at the lodging place'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּפְגְּשֵׁ֣/הוּ",
+        "phrase": "and met him",
+        "literal": "and-he-met-him",
+        "source": "H6298 pagash, Qal wayyiqtol 3ms + 3ms suffix; KJV 'met him', ESV 'met him', NASB 'met him' — THEOLOGICALLY DEBATED: the subject is YHWH; 'him' likely refers to Moses"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 YHWH, proper noun divine; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְבַקֵּ֖שׁ",
+        "phrase": "and sought",
+        "literal": "and-he-sought",
+        "source": "H1245 baqash, Piel wayyiqtol 3ms; KJV 'and sought', ESV 'and sought', NASB 'and sought'"
+      },
+      {
+        "position": 7,
+        "surface": "הֲמִיתֽ/וֹ",
+        "phrase": "to kill him",
+        "literal": "to-kill-him",
+        "source": "H4191 muth, Hiphil infinitive construct + 3ms suffix; KJV 'to kill him', ESV 'to put him to death', NASB 'to put him to death' — THEOLOGICALLY DEBATED: enigmatic passage; why YHWH sought to kill Moses is heavily debated; likely connected to uncircumcised son"
+      }
+    ]
+  }
+]

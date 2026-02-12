@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַ֨ם",
+        "phrase": "And also",
+        "literal": "and-also",
+        "source": "H1571 conj. + adv. gam 'also, even'; KJV 'and I have also', ESV 'I also', NASB 'I also'"
+      },
+      {
+        "position": 2,
+        "surface": "הֲקִמֹ֤תִי",
+        "phrase": "I established",
+        "literal": "I-established",
+        "source": "H6965 Hiphil perf. 1cs of קוּם 'to rise; Hiphil: to establish, confirm'; KJV 'established', ESV 'established', NASB 'established'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 4,
+        "surface": "בְּרִיתִ/י֙",
+        "phrase": "My covenant",
+        "literal": "covenant-my",
+        "source": "H1285 n.fs berith 'covenant' + 1cs suff.; KJV 'my covenant', ESV 'my covenant', NASB 'My covenant'"
+      },
+      {
+        "position": 5,
+        "surface": "אִתָּ֔/ם",
+        "phrase": "with them",
+        "literal": "with-them",
+        "source": "H854 prep. ʾeth 'with' + 3mp suff.; KJV 'with them', ESV 'with them', NASB 'with them'"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/תֵ֥ת",
+        "phrase": "to give",
+        "literal": "to-give",
+        "source": "H5414 prep. l- + Qal inf. cstr. of נָתַן 'to give'; KJV 'to give', ESV 'to give', NASB 'to give'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "prep. l- + 3mp suff.; KJV 'them', ESV 'them', NASB 'them'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs ʾerets 'land, earth' in construct; KJV 'the land of', ESV 'the land of', NASB 'the land of'"
+      },
+      {
+        "position": 10,
+        "surface": "כְּנָ֑עַן",
+        "phrase": "Canaan",
+        "literal": "Canaan",
+        "source": "H3667 proper name; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "אֵ֛ת",
+        "phrase": "[direct object marker]",
+        "literal": "DOM",
+        "source": "H853 direct object marker; untranslated in English versions (appositional, specifying 'the land of Canaan')"
+      },
+      {
+        "position": 12,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "the land of",
+        "literal": "land-of",
+        "source": "H776 n.fs ʾerets 'land, earth' in construct; KJV 'the land of', ESV 'the land of', NASB 'the land of'"
+      },
+      {
+        "position": 13,
+        "surface": "מְגֻרֵי/הֶ֖ם",
+        "phrase": "their sojournings",
+        "literal": "sojournings-their",
+        "source": "H4033 n.mp megure 'sojournings, place of sojourning' + 3mp suff.; KJV 'their pilgrimage', ESV 'they lived as sojourners', NASB 'their sojournings'"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁר",
+        "phrase": "in which",
+        "literal": "which",
+        "source": "H834 rel. pron. ʾasher 'who, which, that'; KJV 'wherein', ESV 'in which', NASB 'in which'"
+      },
+      {
+        "position": 15,
+        "surface": "גָּ֥רוּ",
+        "phrase": "they sojourned",
+        "literal": "they-sojourned",
+        "source": "H1481 Qal perf. 3cp of גּוּר 'to sojourn, dwell as a stranger'; KJV 'they were strangers', ESV 'they lived as sojourners', NASB 'they sojourned'"
+      },
+      {
+        "position": 16,
+        "surface": "בָֽ/הּ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "prep. b- + 3fs suff. (referring to the land); KJV 'therein', ESV omits (absorbed into 'in which'), NASB omits"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 conj. waw + noun common masculine plural construct of בֵּן 'son'; KJV 'the sons of', ESV 'the sons of', NASB 'the sons of'"
+      },
+      {
+        "position": 2,
+        "surface": "עֻזִּיאֵ֑ל",
+        "phrase": "Uzziel:",
+        "literal": "Uzziel",
+        "source": "H5816 (עֻזִּיאֵל, 'Uzziel', meaning 'my strength is God'), proper noun masculine; KJV 'Uzziel', ESV 'Uzziel', NASB 'Uzziel'"
+      },
+      {
+        "position": 3,
+        "surface": "מִֽישָׁאֵ֥ל",
+        "phrase": "Mishael",
+        "literal": "Mishael",
+        "source": "H4332 (מִישָׁאֵל, 'Mishael', meaning 'who is what God is'), proper noun masculine; KJV 'Mishael', ESV 'Mishael', NASB 'Mishael'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶלְצָפָ֖ן",
+        "phrase": "and Elzaphan",
+        "literal": "and-Elzaphan",
+        "source": "H469 conj. waw + proper noun masculine (אֶלְצָפָן, 'Elzaphan', meaning 'God has protected'); KJV 'Elzaphan', ESV 'Elzaphan', NASB 'Elzaphan'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/סִתְרִֽי",
+        "phrase": "and Sithri",
+        "literal": "and-Sithri",
+        "source": "H5644 conj. waw + proper noun masculine (סִתְרִי, 'Sithri', meaning 'my protection'); KJV 'Zithri', ESV 'Sithri', NASB 'Sithri'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 conj. waw + noun common masculine plural construct of בֵּן 'son'; KJV 'the sons of', ESV 'the sons of', NASB 'the sons of'"
+      },
+      {
+        "position": 2,
+        "surface": "קֹ֔רַח",
+        "phrase": "Korah:",
+        "literal": "Korah",
+        "source": "H7141 (קֹרַח, 'Korah'), proper noun masculine; KJV 'Korah', ESV 'Korah', NASB 'Korah'"
+      },
+      {
+        "position": 3,
+        "surface": "אַסִּ֥יר",
+        "phrase": "Assir",
+        "literal": "Assir",
+        "source": "H617 (אַסִּיר, 'Assir', meaning 'prisoner'), proper noun masculine; KJV 'Assir', ESV 'Assir', NASB 'Assir'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶלְקָנָ֖ה",
+        "phrase": "and Elkanah",
+        "literal": "and-Elkanah",
+        "source": "H511 conj. waw + proper noun masculine (אֶלְקָנָה, 'Elkanah', meaning 'God has created/possessed'); KJV 'Elkanah', ESV 'Elkanah', NASB 'Elkanah'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲבִיאָסָ֑ף",
+        "phrase": "and Abiasaph",
+        "literal": "and-Abiasaph",
+        "source": "H23 conj. waw + proper noun masculine (אֲבִיאָסָף, 'Abiasaph', meaning 'my father has gathered'); KJV 'Abiasaph', ESV 'Abiasaph', NASB 'Abiasaph'"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֖לֶּה",
+        "phrase": "These are",
+        "literal": "these",
+        "source": "H428 (אֵלֶּה, 'these'), demonstrative pronoun plural; KJV 'these are', ESV 'these are', NASB 'these are'"
+      },
+      {
+        "position": 7,
+        "surface": "מִשְׁפְּחֹ֥ת",
+        "phrase": "the families of",
+        "literal": "families-of",
+        "source": "H4940 noun common feminine plural construct of מִשְׁפָּחָה 'family, clan'; KJV 'families of', ESV 'clans of', NASB 'families of'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קָּרְחִֽי",
+        "phrase": "the Korahites",
+        "literal": "the-Korahite",
+        "source": "H7145 article + gentilic adjective masculine singular (הַקָּרְחִי, 'the Korahite'); KJV 'the Korhites', ESV 'the Korahites', NASB 'the Korahites'"
+      }
+    ]
+  }
+]

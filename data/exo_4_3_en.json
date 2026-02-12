@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and He said",
+        "literal": "and-he-said",
+        "source": "H559 ʾamar, Qal wayyiqtol 3ms; KJV/ESV/NASB 'said'"
+      },
+      {
+        "position": 2,
+        "surface": "הַשְׁלִיכֵ֣/הוּ",
+        "phrase": "throw it",
+        "literal": "throw-it",
+        "source": "H7993 shalak, Hiphil imperative 2ms + 3ms suffix; KJV 'Cast it', ESV 'Throw it', NASB 'Throw it'"
+      },
+      {
+        "position": 3,
+        "surface": "אַ֔רְצָ/ה",
+        "phrase": "on the ground",
+        "literal": "earth-ward",
+        "source": "H776 ʾerets, noun fs + directional he; KJV 'on the ground', ESV/NASB 'on the ground'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּשְׁלִיכֵ֥/הוּ",
+        "phrase": "and he threw it",
+        "literal": "and-he-threw-it",
+        "source": "H7993 shalak, Hiphil wayyiqtol 3ms + 3ms suffix; KJV 'he cast it', ESV 'he threw it', NASB 'he threw it'"
+      },
+      {
+        "position": 5,
+        "surface": "אַ֖רְצָ/ה",
+        "phrase": "on the ground",
+        "literal": "earth-ward",
+        "source": "H776 ʾerets, noun fs + directional he; KJV/ESV/NASB 'on the ground'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "and it became",
+        "literal": "and-it-became",
+        "source": "H1961 hayah, Qal wayyiqtol 3ms; KJV 'it became', ESV 'it became', NASB 'it became'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/נָחָ֑שׁ",
+        "phrase": "a serpent",
+        "literal": "to-serpent",
+        "source": "H5175 nachash, noun ms + preposition le (of becoming); KJV 'a serpent', ESV 'a serpent', NASB 'a serpent'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּ֥נָס",
+        "phrase": "and fled",
+        "literal": "and-he-fled",
+        "source": "H5127 nus, Qal wayyiqtol 3ms; KJV 'fled', ESV 'ran', NASB 'fled' — DIVERGENT: ESV 'ran' vs KJV/NASB 'fled'"
+      },
+      {
+        "position": 9,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/פָּנָֽי/ו",
+        "phrase": "from it",
+        "literal": "from-face-of-it",
+        "source": "H6440 panim, noun mp construct + preposition min + 3ms suffix; KJV 'from before it', ESV/NASB 'from it'"
+      }
+    ]
+  }
+]

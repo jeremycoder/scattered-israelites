@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 conj. waw + noun common masculine plural construct of בֵּן 'son'; KJV 'the sons of', ESV 'the sons of', NASB 'the sons of'"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְהָ֑ר",
+        "phrase": "Izhar:",
+        "literal": "Izhar",
+        "source": "H3324 (יִצְהָר, 'Izhar'), proper noun masculine; KJV 'Izhar', ESV 'Izhar', NASB 'Izhar'"
+      },
+      {
+        "position": 3,
+        "surface": "קֹ֥רַח",
+        "phrase": "Korah",
+        "literal": "Korah",
+        "source": "H7141 (קֹרַח, 'Korah'), proper noun masculine; KJV 'Korah', ESV 'Korah', NASB 'Korah'"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/נֶ֖פֶג",
+        "phrase": "and Nepheg",
+        "literal": "and-Nepheg",
+        "source": "H5298 conj. waw + proper noun masculine (נֶפֶג, 'Nepheg'); KJV 'Nepheg', ESV 'Nepheg', NASB 'Nepheg'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/זִכְרִֽי",
+        "phrase": "and Zichri",
+        "literal": "and-Zichri",
+        "source": "H2147 conj. waw + proper noun masculine (זִכְרִי, 'Zichri'); KJV 'Zichri', ESV 'Zichri', NASB 'Zichri'"
+      }
+    ]
+  }
+]

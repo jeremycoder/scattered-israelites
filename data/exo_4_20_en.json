@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 4,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֨ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947 laqach, Qal wayyiqtol 3ms; KJV/ESV/NASB 'took'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֜ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 ʾet, direct object marker; untranslated in English"
+      },
+      {
+        "position": 4,
+        "surface": "אִשְׁתּ֣/וֹ",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "H802 ʾishsheh, noun fs construct + 3ms suffix; KJV/ESV/NASB 'his wife'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 ʾet, direct object marker + waw conjunction; untranslated in English"
+      },
+      {
+        "position": 6,
+        "surface": "בָּנָ֗י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 ben, noun mp + 3ms suffix; KJV/ESV/NASB 'his sons'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּרְכִּבֵ/ם֙",
+        "phrase": "and set them riding",
+        "literal": "and-he-caused-them-to-ride",
+        "source": "H7392 rakhav, Hiphil wayyiqtol 3ms + 3mp suffix; KJV 'set them upon', ESV 'made them ride on', NASB 'set them on'"
+      },
+      {
+        "position": 8,
+        "surface": "עַֽל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 ʿal, preposition; KJV 'upon', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/חֲמֹ֔ר",
+        "phrase": "the donkey",
+        "literal": "the-donkey",
+        "source": "H2543 chamor, noun ms + article he; KJV 'an ass', ESV/NASB 'a donkey' — DIVERGENT: KJV 'ass' (archaic) vs ESV/NASB 'donkey'; Hebrew has the article (the donkey) but translations render 'a donkey'"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יָּ֖שָׁב",
+        "phrase": "and returned",
+        "literal": "and-he-returned",
+        "source": "H7725 shuv, Qal wayyiqtol 3ms; KJV 'and he returned', ESV 'and went back', NASB 'and returned'"
+      },
+      {
+        "position": 11,
+        "surface": "אַ֣רְצָ/ה",
+        "phrase": "to the land of",
+        "literal": "land-ward",
+        "source": "H776 ʾerets, noun fs + he locale (directional); KJV 'to the land of', ESV/NASB 'to the land of'"
+      },
+      {
+        "position": 12,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 Mitsrayim, proper noun; KJV/ESV/NASB 'Egypt'"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יִּקַּ֥ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947 laqach, Qal wayyiqtol 3ms; KJV/ESV/NASB 'took'"
+      },
+      {
+        "position": 14,
+        "surface": "מֹשֶׁ֛ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 Mosheh, proper noun; KJV/ESV/NASB 'Moses'"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 ʾet, direct object marker; untranslated in English"
+      },
+      {
+        "position": 16,
+        "surface": "מַטֵּ֥ה",
+        "phrase": "the staff of",
+        "literal": "staff-of",
+        "source": "H4294 matteh, noun ms construct; KJV 'the rod of', ESV 'the staff of', NASB 'the staff of' — DIVERGENT: KJV 'rod' vs ESV/NASB 'staff'"
+      },
+      {
+        "position": 17,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 ʾelohim, noun mp + article he; KJV/ESV/NASB 'God'"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/יָדֽ/וֹ",
+        "phrase": "in his hand",
+        "literal": "in-hand-his",
+        "source": "H3027 yad, noun fs + preposition be + 3ms suffix; KJV/ESV/NASB 'in his hand'"
+      }
+    ]
+  }
+]

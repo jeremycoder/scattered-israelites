@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Exodus",
+    "chapter": 6,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "And spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 wayyiqtol 3ms Piel of דָּבַר 'to speak'; KJV 'spake', ESV 'spoke', NASB 'spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֛ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֖ן",
+        "phrase": "thus",
+        "literal": "so",
+        "source": "H3651 adv. ken 'so, thus'; KJV 'so', ESV 'thus', NASB 'accordingly'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; all trans. agree"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the children of",
+        "literal": "sons-of",
+        "source": "H1121 n.mp bene 'sons, children' in construct; KJV 'the children of', ESV 'the people of', NASB 'the sons of'"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 proper name; all trans. agree"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "but not",
+        "literal": "and-not",
+        "source": "H3808 conj. + neg. particle lo 'not'; KJV 'but', ESV 'but', NASB 'but'"
+      },
+      {
+        "position": 8,
+        "surface": "שָֽׁמְעוּ֙",
+        "phrase": "did they listen",
+        "literal": "they-listened",
+        "source": "H8085 Qal perf. 3cp of שָׁמַע 'to hear, listen'; KJV 'hearkened not', ESV 'did not listen', NASB 'did not listen'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 prep. 'to, toward'; KJV 'unto', ESV 'to', NASB 'to'"
+      },
+      {
+        "position": 10,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 proper name; all trans. agree"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/קֹּ֣צֶר",
+        "phrase": "because of shortness of",
+        "literal": "from-shortness-of",
+        "source": "H7115 prep. min + n.ms qotser 'shortness, impatience'; KJV 'for anguish of', ESV 'because of their broken', NASB 'because of their despondency'"
+      },
+      {
+        "position": 12,
+        "surface": "ר֔וּחַ",
+        "phrase": "spirit",
+        "literal": "spirit",
+        "source": "H7307 n.fs ruach 'spirit, breath, wind'; idiom qotser ruach = 'shortness of spirit', i.e. impatience, despair, crushed spirit; KJV 'spirit', ESV 'spirit', NASB 'spirit' (NASB 'despondency', ESV 'broken spirit')"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/מֵ/עֲבֹדָ֖ה",
+        "phrase": "and because of bondage",
+        "literal": "and-from-labor",
+        "source": "H5656 conj. + prep. min + n.fs ʿavodah 'work, service, bondage'; KJV 'cruel bondage', ESV 'hard slavery', NASB 'harsh labors'"
+      },
+      {
+        "position": 14,
+        "surface": "קָשָֽׁה",
+        "phrase": "harsh",
+        "literal": "hard",
+        "source": "H7186 adj.fs qashah 'hard, severe, harsh'; KJV 'cruel', ESV 'hard', NASB 'harsh'"
+      }
+    ]
+  }
+]
