@@ -459,23 +459,68 @@ details.morphology-details[open] > summary::before { content: "\25BC\00a0"; }
 }
 
 /* ---- NIGER-CONGO COMPARISON CARD ---- */
-.comparison-card .card-header { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
-.comparison-arrow { color: var(--terracotta); font-weight: bold; }
-.comparison-word { color: #2e7d32; }
-.comparison-lang { color: #2e7d32; font-size: 0.875rem; }
+.comparison-card {
+  border-left: 4px solid #2e7d32;
+}
+.comparison-card .card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  flex-wrap: wrap;
+  background: #f0fdf4;
+  border-bottom-color: #bbf7d0;
+  padding: 0.875rem 1.25rem;
+  font-size: 1rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+.comparison-card .card-header .hebrew {
+  font-size: 1.375rem;
+  color: var(--text-primary);
+  font-weight: 700;
+}
+.comparison-arrow {
+  color: var(--text-muted);
+  font-size: 1.125rem;
+}
+.comparison-word {
+  color: #1b5e20;
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+.comparison-lang {
+  color: #4caf50;
+  font-size: 0.8125rem;
+  font-weight: 500;
+}
+.comparison-card .kv-table td:first-child {
+  color: #4a7c59;
+}
 
 /* Niger-Congo badge in word study hero */
 .hero-nc-badge {
+  display: inline-block;
   color: #2e7d32;
-  font-style: italic;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.25rem 0.75rem;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 9999px;
+  margin-top: 0.5rem;
 }
 .nc-intro {
   color: var(--text-secondary);
-  font-size: 0.9375rem;
-  line-height: 1.6;
-  margin-bottom: 1.25rem;
   font-size: 1rem;
-  margin: 0;
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+}
+
+/* Niger-Congo section heading */
+.section-divider .nc-heading {
+  color: #2e7d32;
 }
 
 /* Comparison indicator badge on word cells */
@@ -633,6 +678,127 @@ footer .attribution a:hover { color: var(--gold-light); }
 .verse-block + .verse-block {
   border-top: 1px solid var(--warm-100);
   padding-top: 1.5rem;
+}
+
+/* ---- FORMS ---- */
+.form-group {
+  margin-bottom: 1.25rem;
+}
+.form-label {
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-bottom: 0.375rem;
+}
+.form-input,
+.form-select,
+.form-textarea {
+  display: block;
+  width: 100%;
+  padding: 0.625rem 0.75rem;
+  font-family: inherit;
+  font-size: 1rem;
+  color: var(--text-primary);
+  background: white;
+  border: 1px solid var(--warm-300);
+  border-radius: 0.375rem;
+  transition: border-color 0.15s;
+}
+.form-input:focus,
+.form-select:focus,
+.form-textarea:focus {
+  outline: none;
+  border-color: var(--terracotta);
+  box-shadow: 0 0 0 3px rgba(194, 65, 12, 0.12);
+}
+.form-textarea {
+  resize: vertical;
+}
+.form-error {
+  color: #b91c1c;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+.form-actions {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+/* ---- BUTTONS ---- */
+.btn-submit {
+  display: inline-block;
+  padding: 0.625rem 1.5rem;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  background: var(--terracotta);
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.btn-submit:hover {
+  background: var(--terracotta-dk);
+}
+.btn-nc-add {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  font-family: inherit;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: white;
+  background: #2e7d32;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.15s;
+}
+.btn-nc-add:hover {
+  background: #1b5e20;
+}
+.nc-add-link {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* ---- AUTH ---- */
+.auth-container {
+  max-width: 26rem;
+  margin: 3rem auto;
+}
+.auth-card .card-body {
+  padding: 1.5rem;
+}
+.auth-error {
+  color: #b91c1c;
+  font-size: 0.9375rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-radius: 0.375rem;
+}
+
+/* ---- MESSAGES ---- */
+.success-message {
+  color: #166534;
+  font-size: 0.9375rem;
+  padding: 0.75rem;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 0.375rem;
+  margin-bottom: 1rem;
+}
+.permission-notice {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  padding: 1.5rem;
+  text-align: center;
 }
 
 /* ---- RESPONSIVE ---- */

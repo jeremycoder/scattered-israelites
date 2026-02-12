@@ -1,0 +1,126 @@
+{% extends "base.html" %}
+{% block title %}Add Niger-Congo Comparison — Scattered Israelites Bible{% endblock %}
+
+{% block content %}
+
+{% if no_profile %}
+<div class="card mb-card">
+  <div class="card-body">
+    <p class="permission-notice">You need a contributor profile to submit comparisons. Please contact an admin to set up your profile.</p>
+  </div>
+</div>
+{% else %}
+
+{% if back_url %}
+<nav aria-label="Breadcrumb">
+  <ol class="breadcrumb-trail">
+    <li><a href="{{ back_url }}">Back to Word Study</a></li>
+    <li><span class="current">Add Comparison</span></li>
+  </ol>
+</nav>
+{% endif %}
+
+{% if messages %}
+{% for message in messages %}
+<p class="success-message">{{ message }}</p>
+{% endfor %}
+{% endif %}
+
+<!-- Hebrew word display -->
+{% if hebrew_word_display %}
+<div class="card mb-card">
+  <div class="card-header">Hebrew Word</div>
+  <div class="card-body">
+    <table class="kv-table">
+      <tr><td>Word</td><td class="hebrew kv-hebrew" dir="rtl">{{ hebrew_word_display }}</td></tr>
+      {% if hebrew_transliteration_display %}<tr><td>Transliteration</td><td>{{ hebrew_transliteration_display }}</td></tr>{% endif %}
+      {% if hebrew_meaning_display %}<tr><td>Meaning</td><td>{{ hebrew_meaning_display }}</td></tr>{% endif %}
+    </table>
+  </div>
+</div>
+{% endif %}
+
+<div class="card mb-card">
+  <div class="card-header" style="color: #2e7d32;">Niger-Congo Comparison</div>
+  <div class="card-body">
+    <form method="post">
+      {% csrf_token %}
+
+      <!-- Hidden Hebrew fields -->
+      {{ form.lexeme }}
+      {{ form.hebrew_word }}
+      {{ form.hebrew_transliteration }}
+      {{ form.hebrew_root }}
+      {{ form.hebrew_meaning }}
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.language.id_for_label }}">Language *</label>
+        {{ form.language }}
+        {% if form.language.errors %}<p class="form-error">{{ form.language.errors.0 }}</p>{% endif %}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.nc_word.id_for_label }}">Niger-Congo Word *</label>
+        {{ form.nc_word }}
+        {% if form.nc_word.errors %}<p class="form-error">{{ form.nc_word.errors.0 }}</p>{% endif %}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.nc_transliteration.id_for_label }}">Transliteration</label>
+        {{ form.nc_transliteration }}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.nc_meaning.id_for_label }}">Meaning *</label>
+        {{ form.nc_meaning }}
+        {% if form.nc_meaning.errors %}<p class="form-error">{{ form.nc_meaning.errors.0 }}</p>{% endif %}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.nc_usage_example.id_for_label }}">Usage Example</label>
+        {{ form.nc_usage_example }}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.category.id_for_label }}">Category</label>
+        {{ form.category }}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.semantic_domain.id_for_label }}">Semantic Domain</label>
+        {{ form.semantic_domain }}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.notes.id_for_label }}">Notes</label>
+        {{ form.notes }}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.source_type.id_for_label }}">Source Type</label>
+        {{ form.source_type }}
+      </div>
+
+      <div class="form-group">
+        <label class="form-label" for="{{ form.source_reference.id_for_label }}">Source Reference</label>
+        {{ form.source_reference }}
+      </div>
+
+      {% if form.non_field_errors %}
+      <div class="form-error">
+        {% for error in form.non_field_errors %}
+        <p>{{ error }}</p>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <div class="form-actions">
+        <button type="submit" class="btn-nc-add">Submit for Review</button>
+        {% if back_url %}<a href="{{ back_url }}" class="nav-link">Cancel</a>{% endif %}
+      </div>
+    </form>
+  </div>
+</div>
+
+{% endif %}
+{% endblock %}

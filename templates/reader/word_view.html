@@ -137,7 +137,7 @@
 <!-- Niger-Congo Connections -->
 {% if comparisons %}
 <div class="section-divider">
-  <h2 style="color: #2e7d32;">Niger-Congo Hebrew</h2>
+  <h2 class="nc-heading">Niger-Congo Hebrew</h2>
 </div>
 <p class="nc-intro">Many Niger-Congo languages preserve ancient Hebrew vocabulary carried by Israelites scattered into Sub-Saharan Africa &mdash; first during the Assyrian conquest of the Northern Kingdom in 721 B.C., and again after the Roman conquest of Judea in A.D.&nbsp;70. These are the Hebrews &ldquo;beyond the rivers of Kush&rdquo; (Zephaniah 3:10).</p>
 {% for comp in comparisons %}
@@ -166,6 +166,12 @@
   </div>
 </div>
 {% endfor %}
+{% endif %}
+
+{% if lexeme %}
+<div class="nc-add-link">
+  <a href="{% url 'comparison-add' %}?lexeme_id={{ word.strongs_id }}&hebrew_word={{ word.surface|urlencode }}&hebrew_transliteration={{ transliteration|urlencode }}&hebrew_root={% if lexical_info %}{{ lexical_info.root|urlencode }}{% endif %}&hebrew_meaning={% if gloss %}{{ gloss|urlencode }}{% endif %}&back={% url 'word-view' book.slug chapter verse_num word.slug %}" class="btn-nc-add">+ Add Niger-Congo Word</a>
+</div>
 {% endif %}
 
 <!-- Back link -->

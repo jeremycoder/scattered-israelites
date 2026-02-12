@@ -28,6 +28,11 @@
 
   <main id="main-content">
     <div class="container">
+      {% if messages %}
+      {% for message in messages %}
+      <p class="{% if message.tags == 'success' %}success-message{% else %}auth-error{% endif %}">{{ message }}</p>
+      {% endfor %}
+      {% endif %}
       {% block content %}{% endblock %}
     </div>
   </main>
