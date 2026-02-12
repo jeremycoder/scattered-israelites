@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for-that",
+        "source": "H3588 (KJV: For; ESV: For; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605 (KJV: whatsoever; ESV: whoever; NASB: any)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/נֶּ֨פֶשׁ֙",
+        "phrase": "person",
+        "literal": "the-soul",
+        "source": "H5315 (KJV: soul; ESV: is not afflicted; NASB: person)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: it be that; ESV: whoever; NASB: who)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: shall not; ESV: is not; NASB: will not)"
+      },
+      {
+        "position": 6,
+        "surface": "תְעֻנֶּ֔ה",
+        "phrase": "afflicts herself",
+        "literal": "she-will-be-afflicted",
+        "source": "H6031 (KJV: be afflicted; ESV: afflicted; NASB: humble himself)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/עֶ֖צֶם",
+        "phrase": "on the Day of",
+        "literal": "in-bone/of",
+        "source": "H6106 (KJV: in that same day; ESV: that very day; NASB: this same day)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יּ֣וֹם",
+        "phrase": "day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: day; ESV: day; NASB: day)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: same; ESV: very; NASB: same)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/נִכְרְתָ֖ה",
+        "phrase": "shall be cut off",
+        "literal": "and-she-will-be-cut-off",
+        "source": "H3772 (KJV: shall be cut off; ESV: shall be cut off; NASB: shall be cut off)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵֽ/עַמֶּֽי/הָ",
+        "phrase": "from her people",
+        "literal": "from-peoples-her",
+        "source": "H5971 (KJV: from among his people; ESV: from his people; NASB: from his people)"
+      }
+    ]
+  }
+]

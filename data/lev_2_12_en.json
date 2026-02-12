@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קָרְבַּ֥ן",
+        "phrase": "offering",
+        "literal": "offering",
+        "source": "H7133 (KJV: oblation; ESV: offering; NASB: offering)"
+      },
+      {
+        "position": 2,
+        "surface": "רֵאשִׁ֛ית",
+        "phrase": "of firstfruits",
+        "literal": "first-fruits",
+        "source": "H7225 (KJV: firstfruits; ESV: firstfruits; NASB: first fruits)"
+      },
+      {
+        "position": 3,
+        "surface": "תַּקְרִ֥יבוּ",
+        "phrase": "you shall offer",
+        "literal": "you(pl)-shall-cause-to-approach",
+        "source": "H7126 (KJV: offer; ESV: bring; NASB: offer)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "direct-object-marker/them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to/YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶל",
+        "phrase": "but to",
+        "literal": "and/to",
+        "source": "H413 (KJV: on; ESV: on; NASB: on)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּזְבֵּ֥חַ",
+        "phrase": "the altar",
+        "literal": "the/altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "יַעֲל֖וּ",
+        "phrase": "shall go up",
+        "literal": "they-shall-ascend",
+        "source": "H5927 (KJV: be burnt; ESV: be offered; NASB: be burned)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/רֵ֥יחַ",
+        "phrase": "for a fragrance",
+        "literal": "for/fragrance",
+        "source": "H7381 (KJV: savour; ESV: aroma; NASB: aroma)"
+      },
+      {
+        "position": 11,
+        "surface": "נִיחֹֽחַ",
+        "phrase": "pleasing",
+        "literal": "soothing",
+        "source": "H5207 (KJV: sweet; ESV: pleasing; NASB: soothing)"
+      }
+    ]
+  }
+]

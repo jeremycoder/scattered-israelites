@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/ה֕וּא",
+        "phrase": "And he",
+        "literal": "and-he",
+        "source": "H1931 (KJV: And he; ESV: And he; NASB: He)"
+      },
+      {
+        "position": 2,
+        "surface": "אִשָּׁ֥ה",
+        "phrase": "a wife",
+        "literal": "woman",
+        "source": "H802 (KJV: a wife; ESV: a wife; NASB: a wife)"
+      },
+      {
+        "position": 3,
+        "surface": "בִ/בְתוּלֶ֖י/הָ",
+        "phrase": "in her virginity",
+        "literal": "in-virginity-her",
+        "source": "H1331 (KJV: in her virginity; ESV: in her virginity; NASB: in her virginity)"
+      },
+      {
+        "position": 4,
+        "surface": "יִקָּֽח",
+        "phrase": "shall take",
+        "literal": "he-shall-take",
+        "source": "H3947 (KJV: shall take; ESV: shall take; NASB: shall take)"
+      }
+    ]
+  }
+]

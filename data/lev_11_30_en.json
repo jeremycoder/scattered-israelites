@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָ/אֲנָקָ֥ה",
+        "phrase": "and the gecko",
+        "literal": "and-the-gecko",
+        "source": "H604 (KJV: ferret; ESV: gecko; NASB: gecko)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הַ/כֹּ֖חַ",
+        "phrase": "and the monitor lizard",
+        "literal": "and-the-monitor-lizard",
+        "source": "H3581 (KJV: chameleon; ESV: monitor lizard; NASB: crocodile)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הַ/לְּטָאָ֑ה",
+        "phrase": "and the wall lizard",
+        "literal": "and-the-wall-lizard",
+        "source": "H3911 (KJV: lizard; ESV: lizard; NASB: lizard)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הַ/חֹ֖מֶט",
+        "phrase": "and the skink",
+        "literal": "and-the-skink",
+        "source": "H2546 (KJV: snail; ESV: sand lizard; NASB: sand reptile)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/תִּנְשָֽׁמֶת",
+        "phrase": "and the chameleon",
+        "literal": "and-the-chameleon",
+        "source": "H8580 (KJV: mole; ESV: chameleon; NASB: chameleon)"
+      }
+    ]
+  }
+]

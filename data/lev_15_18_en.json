@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 15,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִשָּׁ֕ה",
+        "phrase": "and a woman",
+        "literal": "and-woman",
+        "source": "H802 (KJV: 'The woman also'; ESV: 'a woman'; NASB: 'a woman')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "with whom",
+        "literal": "which/that",
+        "source": "H834 (KJV: 'with whom'; ESV: 'with whom'; NASB: 'with whom')"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׁכַּ֥ב",
+        "phrase": "lies",
+        "literal": "he-lies",
+        "source": "H7901 (KJV: 'shall lie'; ESV: 'lies'; NASB: 'has sexual relations')"
+      },
+      {
+        "position": 4,
+        "surface": "אִ֛ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: 'a man'; ESV: 'a man'; NASB: 'a man')"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "with her",
+        "literal": "direct-object-marker/her",
+        "source": "H853 (KJV: '(implied)'; ESV: '(implied)'; NASB: '(implied)')"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁכְבַת",
+        "phrase": "emission",
+        "literal": "lying-of",
+        "source": "H7902 (KJV: '(implied in context)'; ESV: '(implied)'; NASB: '(implied)')"
+      },
+      {
+        "position": 7,
+        "surface": "זָ֑רַע",
+        "phrase": "of semen",
+        "literal": "seed/semen",
+        "source": "H2233 (KJV: 'seed'; ESV: 'semen'; NASB: 'semen')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/רָחֲצ֣וּ",
+        "phrase": "and they shall bathe",
+        "literal": "and-they-washed",
+        "source": "H7364 (KJV: 'bathe themselves'; ESV: 'bathe'; NASB: 'bathe themselves')"
+      },
+      {
+        "position": 9,
+        "surface": "בַ/מַּ֔יִם",
+        "phrase": "in water",
+        "literal": "in-the-water",
+        "source": "H4325 (KJV: 'in water'; ESV: 'in water'; NASB: 'in water')"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/טָמְא֖וּ",
+        "phrase": "and be unclean",
+        "literal": "and-they-became-unclean",
+        "source": "H2930 (KJV: 'be unclean'; ESV: 'be unclean'; NASB: 'be unclean')"
+      },
+      {
+        "position": 11,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'until'; NASB: 'until')"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/עָֽרֶב",
+        "phrase": "the evening",
+        "literal": "the-evening",
+        "source": "H6153 (KJV: 'the even'; ESV: 'the evening'; NASB: 'evening')"
+      }
+    ]
+  }
+]

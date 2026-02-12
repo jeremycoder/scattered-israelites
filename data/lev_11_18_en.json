@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תִּנְשֶׁ֥מֶת",
+        "phrase": "swan",
+        "literal": "the-swan",
+        "source": "H8580 (KJV: swan; ESV: white owl; NASB: barn owl)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קָּאָ֖ת",
+        "phrase": "pelican",
+        "literal": "the-pelican",
+        "source": "H6893 (KJV: pelican; ESV: desert owl; NASB: pelican)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/רָחָֽם",
+        "phrase": "gier eagle",
+        "literal": "the-gier_eagle",
+        "source": "H7360 (KJV: gier eagle; ESV: carrion vulture; NASB: carrion vulture)"
+      }
+    ]
+  }
+]

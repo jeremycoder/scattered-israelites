@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שׁ֖וֹר",
+        "phrase": "and ox",
+        "literal": "and-ox",
+        "source": "H7794 (KJV: cow; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 2,
+        "surface": "אוֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: whether; ESV: or; NASB: whether)"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׂ֑ה",
+        "phrase": "sheep",
+        "literal": "sheep",
+        "source": "H7716 (KJV: ewe; ESV: sheep; NASB: sheep)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹת֣/וֹ",
+        "phrase": "it",
+        "literal": "obj-marker-it",
+        "source": "H853 (KJV: it; ESV: (implied); NASB: it)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and obj",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנ֔/וֹ",
+        "phrase": "its young",
+        "literal": "son-his",
+        "source": "H1121 (KJV: her young; ESV: her young; NASB: its young)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 8,
+        "surface": "תִשְׁחֲט֖וּ",
+        "phrase": "shall you slaughter",
+        "literal": "you(pl)-shall-slaughter",
+        "source": "H7819 (KJV: kill; ESV: kill; NASB: kill)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/י֥וֹם",
+        "phrase": "in day",
+        "literal": "in-day",
+        "source": "H3117 (KJV: in one day; ESV: in one day; NASB: in one day)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one day; ESV: one day; NASB: one day)"
+      }
+    ]
+  }
+]

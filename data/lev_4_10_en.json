@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ/אֲשֶׁ֣ר",
+        "phrase": "just as",
+        "literal": "as-that",
+        "source": "H834 (KJV: As; ESV: just as; NASB: just as)"
+      },
+      {
+        "position": 2,
+        "surface": "יוּרַ֔ם",
+        "phrase": "it is taken off",
+        "literal": "it-is-removed",
+        "source": "H7311 (KJV: was taken off; ESV: are taken; NASB: is removed)"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/שּׁ֖וֹר",
+        "phrase": "from the ox",
+        "literal": "from-ox",
+        "source": "H7794 (KJV: from the bullock; ESV: from the ox; NASB: from the ox)"
+      },
+      {
+        "position": 4,
+        "surface": "זֶ֣בַח",
+        "phrase": "of the sacrifice",
+        "literal": "sacrifice",
+        "source": "H2077 (KJV: of the sacrifice; ESV: of the sacrifice; NASB: of the sacrifice)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שְּׁלָמִ֑ים",
+        "phrase": "of peace offerings",
+        "literal": "the-peace-offerings",
+        "source": "H8002 (KJV: of peace offerings; ESV: of the peace offerings; NASB: of peace offerings)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הִקְטִירָ/ם֙",
+        "phrase": "and shall burn them",
+        "literal": "and-he-will-burn-them",
+        "source": "H6999 (KJV: shall burn them; ESV: shall burn them; NASB: is to offer them up in smoke)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      },
+      {
+        "position": 8,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 9,
+        "surface": "מִזְבַּ֥ח",
+        "phrase": "altar",
+        "literal": "altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עֹלָֽה",
+        "phrase": "of burnt offering",
+        "literal": "the-whole-burnt-offering",
+        "source": "H5930 (KJV: of the burnt offering; ESV: of burnt offering; NASB: of burnt offering)"
+      }
+    ]
+  }
+]

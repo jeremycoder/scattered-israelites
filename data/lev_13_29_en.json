@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִישׁ֙",
+        "phrase": "and-a-man",
+        "literal": "and-man",
+        "source": "H376; KJV: man, ESV: man, NASB: man"
+      },
+      {
+        "position": 2,
+        "surface": "א֣וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176; KJV: or, ESV: or, NASB: or"
+      },
+      {
+        "position": 3,
+        "surface": "אִשָּׁ֔ה",
+        "phrase": "woman",
+        "literal": "woman",
+        "source": "H802; KJV: woman, ESV: woman, NASB: woman"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "when",
+        "source": "H3588; KJV: when, ESV: when, NASB: if"
+      },
+      {
+        "position": 5,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "has",
+        "literal": "is",
+        "source": "H1961; KJV: hath, ESV: has, NASB: has"
+      },
+      {
+        "position": 6,
+        "surface": "ב֖/וֹ",
+        "phrase": "in-him/it",
+        "literal": "in-him",
+        "source": "; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "נָ֑גַע",
+        "phrase": "plague/sore",
+        "literal": "plague",
+        "source": "H5061; KJV: plague, ESV: disease, NASB: infection"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/רֹ֖אשׁ",
+        "phrase": "on-(the-)head",
+        "literal": "in-head",
+        "source": "H7218; KJV: head, ESV: head, NASB: head"
+      },
+      {
+        "position": 9,
+        "surface": "א֥וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176; KJV: or, ESV: or, NASB: or"
+      },
+      {
+        "position": 10,
+        "surface": "בְ/זָקָֽן",
+        "phrase": "on-(the-)beard",
+        "literal": "in-beard",
+        "source": "H2206; KJV: beard, ESV: beard, NASB: beard"
+      }
+    ]
+  }
+]

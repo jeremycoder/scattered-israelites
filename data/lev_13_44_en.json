@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 2,
+        "surface": "צָר֥וּעַ",
+        "phrase": "leprous",
+        "literal": "leprous",
+        "source": "H6879 (KJV: leprous; ESV: leprous; NASB: leprous)"
+      },
+      {
+        "position": 3,
+        "surface": "ה֖וּא",
+        "phrase": "he [is]",
+        "literal": "he",
+        "source": "H1931 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "טָמֵ֣א",
+        "phrase": "unclean",
+        "literal": "unclean",
+        "source": "H2931 (KJV: unclean; ESV: unclean; NASB: unclean)"
+      },
+      {
+        "position": 5,
+        "surface": "ה֑וּא",
+        "phrase": "he [is]",
+        "literal": "he",
+        "source": "H1931 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "טַמֵּ֧א",
+        "phrase": "unclean",
+        "literal": "make-unclean",
+        "source": "H2930 (KJV: unclean; ESV: unclean; NASB: pronounce...unclean)"
+      },
+      {
+        "position": 7,
+        "surface": "יְטַמְּאֶ֛/נּוּ",
+        "phrase": "him unclean",
+        "literal": "he-shall-make-unclean-him",
+        "source": "H2930 (KJV: pronounce him utterly unclean; ESV: pronounce him unclean; NASB: pronounce him unclean)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כֹּהֵ֖ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/רֹאשׁ֥/וֹ",
+        "phrase": "in his head",
+        "literal": "in-head-his",
+        "source": "H7218 (KJV: in his head; ESV: on his head; NASB: on his head)"
+      },
+      {
+        "position": 10,
+        "surface": "נִגְעֽ/וֹ",
+        "phrase": "his plague",
+        "literal": "plague-his",
+        "source": "H5061 (KJV: his plague; ESV: his disease; NASB: his infection)"
+      }
+    ]
+  }
+]

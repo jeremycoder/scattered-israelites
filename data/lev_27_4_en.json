@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: Or if; NASB: Or if)"
+      },
+      {
+        "position": 2,
+        "surface": "נְקֵבָ֖ה",
+        "phrase": "female",
+        "literal": "female",
+        "source": "H5347 (KJV: a female; ESV: a female; NASB: a female)"
+      },
+      {
+        "position": 3,
+        "surface": "הִ֑וא",
+        "phrase": "it",
+        "literal": "she/it",
+        "source": "H1931 (KJV: it be; ESV: it is; NASB: it is)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הָיָ֥ה",
+        "phrase": "then shall be",
+        "literal": "and-it-will-be",
+        "source": "H1961 (KJV: then thy; ESV: then your; NASB: then your)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶרְכְּ/ךָ֖",
+        "phrase": "your valuation",
+        "literal": "valuation-your",
+        "source": "H6187 (KJV: estimation; ESV: valuation; NASB: valuation)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹשִׁ֥ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "H7970 (KJV: thirty; ESV: thirty; NASB: thirty)"
+      },
+      {
+        "position": 7,
+        "surface": "שָֽׁקֶל",
+        "phrase": "shekels",
+        "literal": "shekel",
+        "source": "H8255 (KJV: shekels; ESV: shekels; NASB: shekels)"
+      }
+    ]
+  }
+]

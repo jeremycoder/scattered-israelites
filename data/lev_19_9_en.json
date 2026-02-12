@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּֽ/בְ/קֻצְרְ/כֶם֙",
+        "phrase": "when you reap",
+        "literal": "and-in-reaping-your",
+        "source": "H7114; KJV 'when ye reap', ESV 'when you reap', NASB 'when you reap'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "קְצִ֣יר",
+        "phrase": "harvest",
+        "literal": "harvest",
+        "source": "H7105; KJV 'harvest', ESV 'harvest', NASB 'harvest'"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְצְ/כֶ֔ם",
+        "phrase": "of your land",
+        "literal": "land-your",
+        "source": "H776; KJV 'of your land', ESV 'of your land', NASB 'of your land'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֧א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 6,
+        "surface": "תְכַלֶּ֛ה",
+        "phrase": "you shall finish",
+        "literal": "you-shall-finish",
+        "source": "H3615; KJV 'wholly reap', ESV 'reap...up to its edge', NASB 'reap to the very corners'"
+      },
+      {
+        "position": 7,
+        "surface": "פְּאַ֥ת",
+        "phrase": "corner",
+        "literal": "corner",
+        "source": "H6285; KJV 'corners', ESV 'edge', NASB 'corners'"
+      },
+      {
+        "position": 8,
+        "surface": "שָׂדְ/ךָ֖",
+        "phrase": "of your field",
+        "literal": "field-your",
+        "source": "H7704; KJV 'thy field', ESV 'your field', NASB 'your field'"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/קְצֹ֑ר",
+        "phrase": "to reap",
+        "literal": "to-reap",
+        "source": "H7114; KJV (implied in 'reap'), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לֶ֥קֶט",
+        "phrase": "and the gleaning",
+        "literal": "and-gleaning",
+        "source": "H3951; KJV 'gleanings', ESV 'gleanings', NASB 'gleanings'"
+      },
+      {
+        "position": 11,
+        "surface": "קְצִֽירְ/ךָ֖",
+        "phrase": "of your harvest",
+        "literal": "harvest-your",
+        "source": "H7105; KJV 'of thy harvest', ESV 'after your harvest', NASB 'of your harvest'"
+      },
+      {
+        "position": 12,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV 'neither shalt thou gather', ESV 'neither shall you gather', NASB 'nor shall you gather'"
+      },
+      {
+        "position": 13,
+        "surface": "תְלַקֵּֽט",
+        "phrase": "you shall gather",
+        "literal": "you-shall-gather",
+        "source": "H3950; KJV 'gather the gleanings', ESV 'gather the gleanings', NASB 'gather the gleanings'"
+      }
+    ]
+  }
+]

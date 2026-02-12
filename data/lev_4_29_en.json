@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/סָמַךְ֙",
+        "phrase": "and he shall lay",
+        "literal": "and-he-shall-lay",
+        "source": "H5564 (KJV: lay; ESV: lay; NASB: lay)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יָד֔/וֹ",
+        "phrase": "hand",
+        "literal": "hand-his",
+        "source": "H3027 (KJV: hand; ESV: hand; NASB: hand)"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 5,
+        "surface": "רֹ֣אשׁ",
+        "phrase": "the head",
+        "literal": "head",
+        "source": "H7218 (KJV: head; ESV: head; NASB: head)"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/חַטָּ֑את",
+        "phrase": "of the sin offering",
+        "literal": "the-sin-offering",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שָׁחַט֙",
+        "phrase": "and he shall slaughter",
+        "literal": "and-he-shall-slaughter",
+        "source": "H7819 (KJV: slay; ESV: kill; NASB: slay)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "הַ֣/חַטָּ֔את",
+        "phrase": "sin offering",
+        "literal": "the-sin-offering",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 10,
+        "surface": "בִּ/מְק֖וֹם",
+        "phrase": "at the place",
+        "literal": "in-place",
+        "source": "H4725 (KJV: place; ESV: place; NASB: place)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עֹלָֽה",
+        "phrase": "of the burnt offering",
+        "literal": "the-whole-burnt-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      }
+    ]
+  }
+]

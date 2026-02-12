@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִשִּׂ֤יאוּ",
+        "phrase": "and cause them to bear",
+        "literal": "and-they-cause-to-bear",
+        "source": "H5375 (KJV: bear; ESV: cause...to bear; NASB: incur)"
+      },
+      {
+        "position": 2,
+        "surface": "אוֹתָ/ם֙",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 3,
+        "surface": "עֲוֺ֣ן",
+        "phrase": "iniquity",
+        "literal": "iniquity",
+        "source": "H5771 (KJV: iniquity; ESV: iniquity; NASB: iniquity)"
+      },
+      {
+        "position": 4,
+        "surface": "אַשְׁמָ֔ה",
+        "phrase": "guilt",
+        "literal": "guilt",
+        "source": "H819 (KJV: guilt; ESV: guilt; NASB: guilt)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אָכְלָ֖/ם",
+        "phrase": "by eating them",
+        "literal": "in-eating-of-them",
+        "source": "H398 (KJV: when they eat; ESV: by eating; NASB: when they eat)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "קָדְשֵׁי/הֶ֑ם",
+        "phrase": "their holy things",
+        "literal": "holy-things-of-them",
+        "source": "H6944 (KJV: holy things; ESV: holy things; NASB: holy gifts)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 11,
+        "surface": "מְקַדְּשָֽׁ/ם",
+        "phrase": "who sanctifies them",
+        "literal": "sanctifying-them",
+        "source": "H6942 (KJV: sanctify; ESV: sanctifies; NASB: sanctifies)"
+      }
+    ]
+  }
+]

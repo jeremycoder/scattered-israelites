@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִן",
+        "phrase": "some of",
+        "literal": "and-from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: of)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דָּ֞ם",
+        "phrase": "the blood",
+        "literal": "the-blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 3,
+        "surface": "יִתֵּ֣ן",
+        "phrase": "he shall put",
+        "literal": "he-will-give/put",
+        "source": "H5414 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 5,
+        "surface": "קַרְנֹ֣ת",
+        "phrase": "the horns",
+        "literal": "horns-of",
+        "source": "H7161 (KJV: horns; ESV: horns; NASB: horns)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מִּזְבֵּ֗חַ",
+        "phrase": "of the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: is; NASB: which)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/אֹ֣הֶל",
+        "phrase": "in the tent",
+        "literal": "in-tent",
+        "source": "H168 (KJV: tabernacle; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 12,
+        "surface": "מוֹעֵ֑ד",
+        "phrase": "of meeting",
+        "literal": "meeting",
+        "source": "H4150 (KJV: congregation; ESV: meeting; NASB: meeting)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֵ֣ת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 14,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/דָּ֗ם",
+        "phrase": "the blood",
+        "literal": "the-blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 16,
+        "surface": "יִשְׁפֹּךְ֙",
+        "phrase": "he shall pour",
+        "literal": "he-will-pour",
+        "source": "H8210 (KJV: pour; ESV: pour; NASB: pour)"
+      },
+      {
+        "position": 17,
+        "surface": "אֶל",
+        "phrase": "at",
+        "literal": "to",
+        "source": "H413 (KJV: at; ESV: at; NASB: at)"
+      },
+      {
+        "position": 18,
+        "surface": "יְסוֹד֙",
+        "phrase": "the base",
+        "literal": "base-of",
+        "source": "H3247 (KJV: bottom; ESV: base; NASB: base)"
+      },
+      {
+        "position": 19,
+        "surface": "מִזְבַּ֣ח",
+        "phrase": "of the altar",
+        "literal": "altar-of",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 20,
+        "surface": "הָ/עֹלָ֔ה",
+        "phrase": "of burnt offering",
+        "literal": "the-ascending-offering",
+        "source": "H5930 (KJV: burnt; ESV: burnt; NASB: burnt)"
+      },
+      {
+        "position": 21,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: at; ESV: at; NASB: at)"
+      },
+      {
+        "position": 22,
+        "surface": "פֶּ֖תַח",
+        "phrase": "entrance",
+        "literal": "opening-of",
+        "source": "H6607 (KJV: door; ESV: entrance; NASB: entrance)"
+      },
+      {
+        "position": 23,
+        "surface": "אֹ֥הֶל",
+        "phrase": "of the tent",
+        "literal": "tent",
+        "source": "H168 (KJV: tabernacle; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 24,
+        "surface": "מוֹעֵֽד",
+        "phrase": "of meeting",
+        "literal": "meeting",
+        "source": "H4150 (KJV: congregation; ESV: meeting; NASB: meeting)"
+      }
+    ]
+  }
+]

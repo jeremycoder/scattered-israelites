@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 3,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְטִיר֥/וֹ",
+        "phrase": "and he shall burn it up",
+        "literal": "and-he-causes-to-ascend-in-smoke-it",
+        "source": "H6999 (KJV: burn; ESV: burn; NASB: burn)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֖ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּזְבֵּ֑חָ/ה",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 4,
+        "surface": "לֶ֥חֶם",
+        "phrase": "food",
+        "literal": "bread",
+        "source": "H3899 (KJV: bread; ESV: food; NASB: food)"
+      },
+      {
+        "position": 5,
+        "surface": "אִשֶּׁ֖ה",
+        "phrase": "offering",
+        "literal": "offering-by-fire",
+        "source": "H801 (KJV: offering; ESV: offering; NASB: offering)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      }
+    ]
+  }
+]

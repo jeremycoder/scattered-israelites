@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּֽ/לֲ/הַבְדִּ֔יל",
+        "phrase": "to distinguish",
+        "literal": "and-to-distinguish",
+        "source": "H914; KJV: 'put difference', ESV/NASB: 'distinguish'"
+      },
+      {
+        "position": 2,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996; KJV/ESV/NASB: 'between'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קֹּ֖דֶשׁ",
+        "phrase": "the holy",
+        "literal": "the-holy",
+        "source": "H6944; KJV: 'holy', ESV: 'holy', NASB: 'holy'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בֵ֣ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "H996; KJV/ESV/NASB: 'and between'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/חֹ֑ל",
+        "phrase": "the common",
+        "literal": "the-common",
+        "source": "H2455; KJV: 'unclean', ESV/NASB: 'common'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "H996; KJV/ESV/NASB: 'and between'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/טָּמֵ֖א",
+        "phrase": "the unclean",
+        "literal": "the-unclean",
+        "source": "H2931; KJV/ESV/NASB: 'unclean'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "H996; KJV/ESV/NASB: 'and between'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/טָּהֽוֹר",
+        "phrase": "the clean",
+        "literal": "the-clean",
+        "source": "H2889; KJV/ESV/NASB: 'clean'"
+      }
+    ]
+  }
+]

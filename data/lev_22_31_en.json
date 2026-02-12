@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמַרְתֶּם֙",
+        "phrase": "you shall keep",
+        "literal": "and-you-shall-keep",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: keep)"
+      },
+      {
+        "position": 2,
+        "surface": "מִצְוֺתַ֔/י",
+        "phrase": "My commandments",
+        "literal": "commandments-of-me",
+        "source": "H4687 (KJV: commandments; ESV: commandments; NASB: commandments)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/עֲשִׂיתֶ֖ם",
+        "phrase": "and do",
+        "literal": "and-you-shall-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: perform)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹתָ֑/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

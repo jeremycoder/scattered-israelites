@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 15,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָל",
+        "phrase": "And any",
+        "literal": "and-all",
+        "source": "H3605 (KJV: 'And what'; ESV: 'Every'; NASB: 'Every')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּרְכָּ֗ב",
+        "phrase": "saddle",
+        "literal": "the-riding-thing",
+        "source": "H4817 (KJV: 'saddle'; ESV: 'saddle'; NASB: 'saddle')"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'soever'; ESV: 'on which'; NASB: 'on which')"
+      },
+      {
+        "position": 4,
+        "surface": "יִרְכַּ֥ב",
+        "phrase": "he rides",
+        "literal": "he-rides",
+        "source": "H7392 (KJV: 'he rideth'; ESV: 'rides'; NASB: 'rides')"
+      },
+      {
+        "position": 5,
+        "surface": "עָלָ֛י/ו",
+        "phrase": "on it",
+        "literal": "on-it",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/זָּ֖ב",
+        "phrase": "the one with discharge",
+        "literal": "the-discharger",
+        "source": "H2100 (KJV: 'hath the issue'; ESV: 'with the discharge'; NASB: 'with the discharge')"
+      },
+      {
+        "position": 7,
+        "surface": "יִטְמָֽא",
+        "phrase": "shall be unclean",
+        "literal": "becomes-unclean",
+        "source": "H2930 (KJV: 'shall be unclean'; ESV: 'becomes unclean'; NASB: 'becomes unclean')"
+      }
+    ]
+  }
+]

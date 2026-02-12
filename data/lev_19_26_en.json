@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תֹאכְל֖וּ",
+        "phrase": "shall you eat",
+        "literal": "you-will-eat-not",
+        "source": "H398; KJV: eat any thing, ESV: eat any flesh, NASB: eat anything"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "with",
+        "literal": "upon",
+        "source": "H5921; KJV: with, ESV: with, NASB: with"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/דָּ֑ם",
+        "phrase": "the blood",
+        "literal": "the-blood",
+        "source": "H1818; KJV: the blood, ESV: the blood, NASB: the blood"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 6,
+        "surface": "תְנַחֲשׁ֖וּ",
+        "phrase": "shall you practice divination",
+        "literal": "you-will-divine-not",
+        "source": "H5172; KJV: use enchantment, ESV: interpret omens, NASB: practice divination"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor not",
+        "literal": "and-not",
+        "source": "H3808; KJV: neither...nor, ESV: nor, NASB: nor"
+      },
+      {
+        "position": 8,
+        "surface": "תְעוֹנֵֽנוּ",
+        "phrase": "shall you practice soothsaying",
+        "literal": "you-will-observe-omens-not",
+        "source": "H6049; KJV: observe times, ESV: tell fortunes, NASB: soothsaying"
+      }
+    ]
+  }
+]

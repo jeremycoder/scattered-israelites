@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/חֹ֣דֶשׁ",
+        "phrase": "in the month",
+        "literal": "in-the-month",
+        "source": "H2320 (KJV: first month; ESV: first month; NASB: first month)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רִאשׁ֗וֹן",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223 (KJV: first; ESV: first; NASB: first)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אַרְבָּעָ֥ה",
+        "phrase": "on the fourth",
+        "literal": "in-four",
+        "source": "H702 (KJV: fourteenth; ESV: fourteenth; NASB: fourteenth)"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֛ר",
+        "phrase": "tenth",
+        "literal": "ten",
+        "source": "H6240 (KJV: fourteenth; ESV: fourteenth; NASB: fourteenth)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/חֹ֖דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "H2320 (KJV: month; ESV: month; NASB: month)"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּ֣ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996 (KJV: even; ESV: twilight; NASB: twilight)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עַרְבָּ֑יִם",
+        "phrase": "the evenings",
+        "literal": "the-evenings",
+        "source": "H6153 (KJV: even; ESV: twilight; NASB: twilight)"
+      },
+      {
+        "position": 8,
+        "surface": "פֶּ֖סַח",
+        "phrase": "Passover",
+        "literal": "passover",
+        "source": "H6453 (KJV: passover; ESV: Passover; NASB: Passover)"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: the LORD's; ESV: the LORD's; NASB: the LORD's)"
+      }
+    ]
+  }
+]

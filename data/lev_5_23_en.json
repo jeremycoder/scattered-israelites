@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 5,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָה֮",
+        "phrase": "then it shall be",
+        "literal": "and-he-will-be",
+        "source": "H1961 (KJV: 'it shall be'; ESV: 'it shall be'; NASB: 'it shall be')"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "if/when",
+        "source": "H3588 (KJV: 'if'; ESV: 'when'; NASB: 'when')"
+      },
+      {
+        "position": 3,
+        "surface": "יֶחֱטָ֣א",
+        "phrase": "he sins",
+        "literal": "he-sins",
+        "source": "H2398 (KJV: 'hath sinned'; ESV: 'sinned'; NASB: 'sins')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אָשֵׁם֒",
+        "phrase": "and is guilty",
+        "literal": "and-guilty",
+        "source": "H816 (KJV: 'is guilty'; ESV: 'is guilty'; NASB: 'is guilty')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הֵשִׁ֨יב",
+        "phrase": "that he shall restore",
+        "literal": "and-he-shall-return",
+        "source": "H7725 (KJV: 'restore'; ESV: 'restore'; NASB: 'restore')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: '(that which)'; ESV: '(the thing)'; NASB: '(that which)')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/גְּזֵלָ֜ה",
+        "phrase": "the robbery",
+        "literal": "the-stolen-(thing)",
+        "source": "H1500 (KJV: 'took by robbery'; ESV: 'took by robbery'; NASB: 'robbed')"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'which'; NASB: 'which')"
+      },
+      {
+        "position": 9,
+        "surface": "גָּזָ֗ל",
+        "phrase": "he robbed",
+        "literal": "he-stole",
+        "source": "H1497 (KJV: 'took by robbery'; ESV: 'took by robbery'; NASB: 'robbed')"
+      },
+      {
+        "position": 10,
+        "surface": "א֤וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: 'or'; ESV: 'or'; NASB: 'or')"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: '(the thing)'; ESV: '(the thing)'; NASB: '(that which)')"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/עֹ֨שֶׁק֙",
+        "phrase": "the oppression",
+        "literal": "the-oppression",
+        "source": "H6233 (KJV: 'gotten by oppression'; ESV: 'gotten by oppression'; NASB: 'extorted')"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'which'; NASB: 'which')"
+      },
+      {
+        "position": 14,
+        "surface": "עָשָׁ֔ק",
+        "phrase": "he oppressed",
+        "literal": "he-oppressed",
+        "source": "H6231 (KJV: 'gotten by oppression'; ESV: 'gotten by oppression'; NASB: 'extorted')"
+      },
+      {
+        "position": 15,
+        "surface": "א֚וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: 'or'; ESV: 'or'; NASB: 'or')"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: '(the deposit)'; ESV: '(the deposit)'; NASB: '(the deposit)')"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/פִּקָּד֔וֹן",
+        "phrase": "the deposit",
+        "literal": "the-deposit",
+        "source": "H6487 (KJV: 'deposit'; ESV: 'deposit'; NASB: 'deposit')"
+      },
+      {
+        "position": 18,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'which'; NASB: 'which')"
+      },
+      {
+        "position": 19,
+        "surface": "הָפְקַ֖ד",
+        "phrase": "was entrusted",
+        "literal": "was-entrusted",
+        "source": "H6485 (KJV: 'deposited'; ESV: 'deposited'; NASB: 'entrusted')"
+      },
+      {
+        "position": 20,
+        "surface": "אִתּ֑/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H854 (KJV: 'with him'; ESV: 'with him'; NASB: 'with him')"
+      },
+      {
+        "position": 21,
+        "surface": "א֥וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: 'or'; ESV: 'or'; NASB: 'or')"
+      },
+      {
+        "position": 22,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: '(the lost thing)'; ESV: '(the lost thing)'; NASB: '(the lost thing)')"
+      },
+      {
+        "position": 23,
+        "surface": "הָ/אֲבֵדָ֖ה",
+        "phrase": "the lost thing",
+        "literal": "the-lost-(thing)",
+        "source": "H9 (KJV: 'lost thing'; ESV: 'lost thing'; NASB: 'lost thing')"
+      },
+      {
+        "position": 24,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'which'; NASB: 'which')"
+      },
+      {
+        "position": 25,
+        "surface": "מָצָֽא",
+        "phrase": "he found",
+        "literal": "he-found",
+        "source": "H4672 (KJV: 'found'; ESV: 'found'; NASB: 'found')"
+      }
+    ]
+  }
+]

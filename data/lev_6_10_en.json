@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תֵאָפֶה֙",
+        "phrase": "shall be baked",
+        "literal": "be-baked-it",
+        "source": "H644 (KJV: baked; ESV: baked; NASB: baked)"
+      },
+      {
+        "position": 3,
+        "surface": "חָמֵ֔ץ",
+        "phrase": "leaven",
+        "literal": "leaven",
+        "source": "H2557 (KJV: leaven; ESV: leaven; NASB: leaven)"
+      },
+      {
+        "position": 4,
+        "surface": "חֶלְקָ֛/ם",
+        "phrase": "their portion",
+        "literal": "portion-their",
+        "source": "H2506 (KJV: portion; ESV: portion; NASB: portion)"
+      },
+      {
+        "position": 5,
+        "surface": "נָתַ֥תִּי",
+        "phrase": "I have given",
+        "literal": "I-have-given",
+        "source": "H5414 (KJV: given; ESV: given; NASB: given)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "it",
+        "literal": "it-her",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אִשָּׁ֑/י",
+        "phrase": "from my offerings by fire",
+        "literal": "from-offerings-my-fire",
+        "source": "H801 (KJV: offerings made by fire; ESV: offerings by fire; NASB: offerings by fire)"
+      },
+      {
+        "position": 8,
+        "surface": "קֹ֤דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 9,
+        "surface": "קָֽדָשִׁים֙",
+        "phrase": "of holies",
+        "literal": "holies",
+        "source": "H6944 (KJV: most holy; ESV: most holy; NASB: most holy)"
+      },
+      {
+        "position": 10,
+        "surface": "הִ֔וא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931 (KJV: -; ESV: it is; NASB: it is)"
+      },
+      {
+        "position": 11,
+        "surface": "כַּ/חַטָּ֖את",
+        "phrase": "like the sin offering",
+        "literal": "like-the-sin-offering",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/כָ/אָשָֽׁם",
+        "phrase": "and like the guilt offering",
+        "literal": "and-like-the-guilt-offering",
+        "source": "H817 (KJV: trespass offering; ESV: guilt offering; NASB: guilt offering)"
+      }
+    ]
+  }
+]

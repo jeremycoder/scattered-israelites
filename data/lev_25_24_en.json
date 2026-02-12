@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/כֹ֖ל",
+        "phrase": "And in all",
+        "literal": "and-in-all",
+        "source": "H3605 (KJV: 'in all'; ESV: 'in all'; NASB: 'in all')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶ֣רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "H776 (KJV: 'land'; ESV: 'land'; NASB: 'land')"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחֻזַּתְ/כֶ֑ם",
+        "phrase": "of your possession",
+        "literal": "possession-of-you(pl)",
+        "source": "H272 (KJV: 'possession'; ESV: 'property'; NASB: 'property')"
+      },
+      {
+        "position": 4,
+        "surface": "גְּאֻלָּ֖ה",
+        "phrase": "redemption",
+        "literal": "redemption",
+        "source": "H1353 (KJV: 'redemption'; ESV: 'redemption'; NASB: 'redemption')"
+      },
+      {
+        "position": 5,
+        "surface": "תִּתְּנ֥וּ",
+        "phrase": "you shall grant",
+        "literal": "you(pl)-shall-give",
+        "source": "H5414 (KJV: 'grant'; ESV: 'provide'; NASB: 'provide')"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/אָֽרֶץ",
+        "phrase": "for the land",
+        "literal": "to-the-land",
+        "source": "H776 (KJV: 'land'; ESV: 'land'; NASB: 'land')"
+      }
+    ]
+  }
+]

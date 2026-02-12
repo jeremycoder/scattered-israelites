@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֨ר",
+        "phrase": "And he spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 (KJV: said; ESV: said; NASB: spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֜ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֗ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 5,
+        "surface": "הֵ֣ן",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2005 (KJV: Behold; ESV: Behold; NASB: Behold)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ֠/יּוֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: this very day)"
+      },
+      {
+        "position": 7,
+        "surface": "הִקְרִ֨יבוּ",
+        "phrase": "they have offered",
+        "literal": "they-offered",
+        "source": "H7126 (KJV: have they offered; ESV: they have offered; NASB: they presented)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object)",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "חַטָּאתָ֤/ם",
+        "phrase": "their sin offering",
+        "literal": "sin-offering-of-them",
+        "source": "H2403 (KJV: their sin offering; ESV: their sin offering; NASB: their sin offering)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-(direct-object)",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 11,
+        "surface": "עֹֽלָתָ/ם֙",
+        "phrase": "their burnt offering",
+        "literal": "burnt-offering-of-them",
+        "source": "H5930 (KJV: their burnt offering; ESV: their burnt offering; NASB: their burnt offering)"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 13,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/תִּקְרֶ֥אנָה",
+        "phrase": "and they have befallen",
+        "literal": "and-they-called",
+        "source": "H7122 (KJV: have befallen; ESV: have happened; NASB: have happened)"
+      },
+      {
+        "position": 15,
+        "surface": "אֹתִ֖/י",
+        "phrase": "me",
+        "literal": "(direct-object)-me",
+        "source": "H853 (KJV: me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 16,
+        "surface": "כָּ/אֵ֑לֶּה",
+        "phrase": "like these",
+        "literal": "like-these",
+        "source": "H428 (KJV: such things; ESV: such things; NASB: things like these)"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/אָכַ֤לְתִּי",
+        "phrase": "and I had eaten",
+        "literal": "and-I-ate",
+        "source": "H398 (KJV: if I had eaten; ESV: if I had eaten; NASB: if I had eaten)"
+      },
+      {
+        "position": 18,
+        "surface": "חַטָּאת֙",
+        "phrase": "sin offering",
+        "literal": "sin-offering",
+        "source": "H2403 (KJV: the sin offering; ESV: the sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/יּ֔וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: to day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/יִּיטַ֖ב",
+        "phrase": "would it be good",
+        "literal": "would-it-be-good",
+        "source": "H3190 (KJV: should it have been accepted; ESV: would it have been approved; NASB: would it have been good)"
+      },
+      {
+        "position": 21,
+        "surface": "בְּ/עֵינֵ֥י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "H5869 (KJV: in the sight; ESV: in the sight; NASB: in the sight)"
+      },
+      {
+        "position": 22,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588 (KJV: And if; ESV: But if; NASB: But if)"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶ֤ה",
+        "phrase": "there is",
+        "literal": "he-is",
+        "source": "H1961 (KJV: there be; ESV: there is; NASB: there occurs)"
+      },
+      {
+        "position": 3,
+        "surface": "בַ/קָּרַ֨חַת֙",
+        "phrase": "in the baldhead",
+        "literal": "in-the-baldhead",
+        "source": "H7146 (KJV: in the bald head; ESV: on the bald head; NASB: on the bald head)"
+      },
+      {
+        "position": 4,
+        "surface": "א֣וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 5,
+        "surface": "בַ/גַּבַּ֔חַת",
+        "phrase": "in the bald forehead",
+        "literal": "in-the-bald-forehead",
+        "source": "H1372 (KJV: bald forehead; ESV: bald forehead; NASB: bald forehead)"
+      },
+      {
+        "position": 6,
+        "surface": "נֶ֖גַע",
+        "phrase": "plague",
+        "literal": "plague",
+        "source": "H5061 (KJV: sore; ESV: diseased area; NASB: infection)"
+      },
+      {
+        "position": 7,
+        "surface": "לָבָ֣ן",
+        "phrase": "white",
+        "literal": "white",
+        "source": "H3836 (KJV: white; ESV: white; NASB: white)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲדַמְדָּ֑ם",
+        "phrase": "reddish",
+        "literal": "red-red",
+        "source": "H125 (KJV: reddish; ESV: reddish; NASB: reddish)"
+      },
+      {
+        "position": 9,
+        "surface": "צָרַ֤עַת",
+        "phrase": "leprosy",
+        "literal": "leprosy",
+        "source": "H6883 (KJV: leprosy; ESV: leprous disease; NASB: leprosy)"
+      },
+      {
+        "position": 10,
+        "surface": "פֹּרַ֨חַת֙",
+        "phrase": "breaking out",
+        "literal": "breaking-out",
+        "source": "H6524 (KJV: sprung up; ESV: breaking out; NASB: breaking out)"
+      },
+      {
+        "position": 11,
+        "surface": "הִ֔וא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931 (KJV: it is; ESV: it is; NASB: it is)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/קָרַחְתּ֖/וֹ",
+        "phrase": "in his baldhead",
+        "literal": "in-baldhead-his",
+        "source": "H7146 (KJV: in his bald head; ESV: on his bald head; NASB: on his bald head)"
+      },
+      {
+        "position": 13,
+        "surface": "א֥וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 14,
+        "surface": "בְ/גַבַּחְתּֽ/וֹ",
+        "phrase": "in his bald forehead",
+        "literal": "in-bald_forehead-his",
+        "source": "H1372 (KJV: his bald forehead; ESV: his bald forehead; NASB: his bald forehead)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 20,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: if; NASB: if)"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֣ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: every one; ESV: anyone; NASB: anyone)"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֗ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 5,
+        "surface": "יְקַלֵּ֧ל",
+        "phrase": "curses",
+        "literal": "he-curses",
+        "source": "H7043 (KJV: curseth; ESV: curses; NASB: curses)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "obj-marker",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 7,
+        "surface": "אָבִ֛י/ו",
+        "phrase": "father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "or",
+        "literal": "and-obj-marker",
+        "source": "H853 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 9,
+        "surface": "אִמּ֖/וֹ",
+        "phrase": "his mother",
+        "literal": "mother-his",
+        "source": "H517 (KJV: his mother; ESV: his mother; NASB: his mother)"
+      },
+      {
+        "position": 10,
+        "surface": "מ֣וֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4191 (KJV: surely; ESV: shall surely; NASB: shall surely)"
+      },
+      {
+        "position": 11,
+        "surface": "יוּמָ֑ת",
+        "phrase": "he shall be put",
+        "literal": "he-shall-be-put-to-death",
+        "source": "H4191 (KJV: put to death; ESV: be put to death; NASB: be put to death)"
+      },
+      {
+        "position": 12,
+        "surface": "אָבִ֧י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אִמּ֛/וֹ",
+        "phrase": "and his mother",
+        "literal": "and-mother-his",
+        "source": "H517 (KJV: or his mother; ESV: or his mother; NASB: or his mother)"
+      },
+      {
+        "position": 14,
+        "surface": "קִלֵּ֖ל",
+        "phrase": "he has cursed",
+        "literal": "he-cursed",
+        "source": "H7043 (KJV: hath cursed; ESV: has cursed; NASB: has cursed)"
+      },
+      {
+        "position": 15,
+        "surface": "דָּמָ֥י/ו",
+        "phrase": "his blood",
+        "literal": "blood-his",
+        "source": "H1818 (KJV: his blood; ESV: his bloodguiltiness; NASB: his bloodguiltiness)"
+      },
+      {
+        "position": 16,
+        "surface": "בּֽ/וֹ",
+        "phrase": "is upon him",
+        "literal": "on-him",
+        "source": "- (KJV: shall be upon him; ESV: is upon him; NASB: is upon him)"
+      }
+    ]
+  }
+]

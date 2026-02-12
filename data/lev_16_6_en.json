@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 16,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְרִ֧יב",
+        "phrase": "and shall offer",
+        "literal": "and-he-shall-bring-near",
+        "source": "H7126; KJV: offer, ESV: offer, NASB: offer"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֛ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175; KJV: Aaron, ESV: Aaron, NASB: Aaron"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "פַּ֥ר",
+        "phrase": "the bull",
+        "literal": "bull",
+        "source": "H6499; KJV: bullock, ESV: bull, NASB: bull"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/חַטָּ֖את",
+        "phrase": "of the sin offering",
+        "literal": "the-sin-offering",
+        "source": "H2403; KJV: sin offering, ESV: sin offering, NASB: sin offering"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: which is, ESV: which is, NASB: which is"
+      },
+      {
+        "position": 7,
+        "surface": "ל֑/וֹ",
+        "phrase": "is for him",
+        "literal": "for-him",
+        "source": "; KJV: for himself, ESV: for himself, NASB: for himself"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/כִפֶּ֥ר",
+        "phrase": "and make atonement",
+        "literal": "and-he-shall-make-atonement",
+        "source": "H3722; KJV: make an atonement, ESV: make atonement, NASB: make atonement"
+      },
+      {
+        "position": 9,
+        "surface": "בַּעֲד֖/וֹ",
+        "phrase": "for himself",
+        "literal": "for-him",
+        "source": "H1157; KJV: for himself, ESV: for himself, NASB: for himself"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְעַ֥ד",
+        "phrase": "and for",
+        "literal": "and-for",
+        "source": "H1157; KJV: and for, ESV: and for, NASB: and for"
+      },
+      {
+        "position": 11,
+        "surface": "בֵּיתֽ/וֹ",
+        "phrase": "his house",
+        "literal": "house-his",
+        "source": "H1004; KJV: his house, ESV: his house, NASB: his household"
+      }
+    ]
+  }
+]

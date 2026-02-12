@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/י֧וֹם",
+        "phrase": "on the day",
+        "literal": "in-day",
+        "source": "H3117 (KJV: 'day'; ESV: 'day'; NASB: 'day')"
+      },
+      {
+        "position": 2,
+        "surface": "זִבְחֲ/כֶ֛ם",
+        "phrase": "you sacrifice",
+        "literal": "sacrifice-your",
+        "source": "H2077 (KJV: 'offer it'; ESV: 'offer it'; NASB: 'sacrifice')"
+      },
+      {
+        "position": 3,
+        "surface": "יֵאָכֵ֖ל",
+        "phrase": "it shall be eaten",
+        "literal": "it-will-be-eaten",
+        "source": "H398 (KJV: 'eaten'; ESV: 'eaten'; NASB: 'eaten')"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִֽ/מָּחֳרָ֑ת",
+        "phrase": "and on the morrow",
+        "literal": "and-from-tomorrow",
+        "source": "H4283 (KJV: 'morrow'; ESV: 'next day'; NASB: 'next day')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/נּוֹתָר֙",
+        "phrase": "and that which remains",
+        "literal": "and-the-remaining",
+        "source": "H3498 (KJV: 'aught remain'; ESV: 'remains'; NASB: 'remainder')"
+      },
+      {
+        "position": 6,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'until'; NASB: 'until')"
+      },
+      {
+        "position": 7,
+        "surface": "י֣וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: 'day'; ESV: 'day'; NASB: 'day')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שְּׁלִישִׁ֔י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992 (KJV: 'third'; ESV: 'third'; NASB: 'third')"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ/אֵ֖שׁ",
+        "phrase": "in fire",
+        "literal": "in-fire",
+        "source": "H784 (KJV: 'fire'; ESV: 'fire'; NASB: 'fire')"
+      },
+      {
+        "position": 10,
+        "surface": "יִשָּׂרֵֽף",
+        "phrase": "it shall be burned",
+        "literal": "it-will-be-burned",
+        "source": "H8313 (KJV: 'burned'; ESV: 'burned'; NASB: 'burned')"
+      }
+    ]
+  }
+]

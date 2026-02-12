@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵבִ֤יא",
+        "phrase": "And he shall bring",
+        "literal": "and-he-brings",
+        "source": "H935 (KJV: 'bring'; ESV: 'bring'; NASB: 'bring')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: '-'; ESV: '-'; NASB: '-')"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשָׁמ/וֹ֙",
+        "phrase": "guilt offering",
+        "literal": "guilt-of-him",
+        "source": "H817 (KJV: 'trespass'; ESV: 'guilt'; NASB: 'guilt')"
+      },
+      {
+        "position": 4,
+        "surface": "לַֽ/יהוָ֔ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'unto'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 6,
+        "surface": "פֶּ֖תַח",
+        "phrase": "the entrance",
+        "literal": "entrance",
+        "source": "H6607 (KJV: 'door'; ESV: 'entrance'; NASB: 'entrance')"
+      },
+      {
+        "position": 7,
+        "surface": "אֹ֣הֶל",
+        "phrase": "of the tent",
+        "literal": "tent",
+        "source": "H168 (KJV: 'tent'; ESV: 'tent'; NASB: 'tent')"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹעֵ֑ד",
+        "phrase": "of meeting",
+        "literal": "meeting",
+        "source": "H4150 (KJV: 'congregation'; ESV: 'meeting'; NASB: 'meeting')"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֖יל",
+        "phrase": "a ram",
+        "literal": "ram",
+        "source": "H352 (KJV: 'ram'; ESV: 'ram'; NASB: 'ram')"
+      },
+      {
+        "position": 10,
+        "surface": "אָשָֽׁם",
+        "phrase": "guilt offering",
+        "literal": "guilt",
+        "source": "H817 (KJV: 'trespass'; ESV: 'guilt'; NASB: 'guilt')"
+      }
+    ]
+  }
+]

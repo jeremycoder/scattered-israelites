@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/שָּׁנָ֣ה",
+        "phrase": "And in the fifth year",
+        "literal": "and-in-the-year",
+        "source": "H8141; KJV: 'in the fifth year', ESV: 'in the fifth year', NASB: 'in the fifth year'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חֲמִישִׁ֗ת",
+        "phrase": "the fifth",
+        "literal": "the-fifth",
+        "source": "H2549; KJV: 'fifth', ESV: 'fifth', NASB: 'fifth'"
+      },
+      {
+        "position": 3,
+        "surface": "תֹּֽאכְלוּ֙",
+        "phrase": "you shall eat",
+        "literal": "you-all-will-eat",
+        "source": "H398; KJV: 'shall ye eat', ESV: 'you may eat', NASB: 'you are to eat'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied 'of'), ESV: (implied 'of'), NASB: (implied 'of')"
+      },
+      {
+        "position": 5,
+        "surface": "פִּרְי֔/וֹ",
+        "phrase": "its fruit",
+        "literal": "fruit-of-it",
+        "source": "H6529; KJV: 'the fruit thereof', ESV: 'its fruit', NASB: 'its fruit'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/הוֹסִ֥יף",
+        "phrase": "to increase",
+        "literal": "to-add",
+        "source": "H3254; KJV: 'that it may yield', ESV: 'to increase', NASB: 'that its yield may increase'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "for you",
+        "literal": "to-you-all",
+        "source": "; KJV: 'unto you', ESV: 'for you', NASB: 'for you'"
+      },
+      {
+        "position": 8,
+        "surface": "תְּבוּאָת֑/וֹ",
+        "phrase": "its yield",
+        "literal": "produce-of-it",
+        "source": "H8393; KJV: 'the increase thereof', ESV: 'its yield', NASB: 'its yield'"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV: 'I', ESV: 'I', NASB: 'I'"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-of-you-all",
+        "source": "H430; KJV: 'your God', ESV: 'your God', NASB: 'your God'"
+      }
+    ]
+  }
+]

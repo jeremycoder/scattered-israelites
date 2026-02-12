@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "And it was",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And it came to pass'; ESV 'On the eighth day'; NASB 'Now it came about'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117: KJV 'in the day'; ESV 'On the eighth day'; NASB 'on the eighth day'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שְּׁמִינִ֔י",
+        "phrase": "the eighth",
+        "literal": "the-eighth",
+        "source": "H8066: KJV 'eighth'; ESV 'eighth'; NASB 'eighth'"
+      },
+      {
+        "position": 4,
+        "surface": "קָרָ֣א",
+        "phrase": "called",
+        "literal": "he-called",
+        "source": "H7121: KJV 'called'; ESV 'Moses called'; NASB 'called'"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872: KJV 'Moses'; ESV 'Moses'; NASB 'Moses'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אַהֲרֹ֖ן",
+        "phrase": "to Aaron",
+        "literal": "to-Aaron",
+        "source": "H175: KJV 'Aaron'; ESV 'Aaron'; NASB 'Aaron'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/לְ/בָנָ֑י/ו",
+        "phrase": "and to his sons",
+        "literal": "and-to-sons-his",
+        "source": "H1121: KJV 'and to his sons'; ESV 'his sons'; NASB 'and his sons'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/זִקְנֵ֖י",
+        "phrase": "and to the elders",
+        "literal": "and-to-elders",
+        "source": "H2205: KJV 'and to the elders'; ESV 'elders'; NASB 'and the elders'"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478: KJV 'of Israel'; ESV 'of Israel'; NASB 'of Israel'"
+      }
+    ]
+  }
+]

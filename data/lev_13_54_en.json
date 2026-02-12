@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 54,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/צִוָּה֙",
+        "phrase": "and shall command",
+        "literal": "and-he-commands",
+        "source": "H6680 (KJV: command; ESV: order; NASB: command)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/כִ֨בְּס֔וּ",
+        "phrase": "and they shall wash",
+        "literal": "and-they-shall-wash",
+        "source": "H3526 (KJV: wash; ESV: wash; NASB: wash)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: thing wherein; ESV: thing in which; NASB: thing in which)"
+      },
+      {
+        "position": 6,
+        "surface": "בּ֖/וֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "- (KJV: wherein the plague is; ESV: in which the mark occurs; NASB: in which is the infection)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/נָּ֑גַע",
+        "phrase": "the mark",
+        "literal": "the-mark/plague",
+        "source": "H5061 (KJV: plague; ESV: mark; NASB: infection)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִסְגִּיר֥/וֹ",
+        "phrase": "and he shall isolate it",
+        "literal": "and-he-shall-shut.up-it",
+        "source": "H5462 (KJV: shut him up; ESV: quarantine it; NASB: isolate it)"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁבְעַת",
+        "phrase": "seven",
+        "literal": "seven-of",
+        "source": "H7651 (KJV: seven; ESV: seven; NASB: seven)"
+      },
+      {
+        "position": 10,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 11,
+        "surface": "שֵׁנִֽית",
+        "phrase": "more",
+        "literal": "second",
+        "source": "H8145 (KJV: more; ESV: more; NASB: more)"
+      }
+    ]
+  }
+]

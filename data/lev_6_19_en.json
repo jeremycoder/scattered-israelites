@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/כֹּהֵ֛ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/מְחַטֵּ֥א",
+        "phrase": "who makes sin",
+        "literal": "the-making-sin",
+        "source": "H2398 (KJV: that offereth it; ESV: who offers; NASB: who offers)"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "it",
+        "literal": "-her/it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 4,
+        "surface": "יֹאכֲלֶ֑/נָּה",
+        "phrase": "shall eat it",
+        "literal": "he-will-eat-it",
+        "source": "H398 (KJV: shall eat; ESV: shall eat; NASB: shall eat)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/מָק֤וֹם",
+        "phrase": "in place",
+        "literal": "in-place",
+        "source": "H4725 (KJV: in the holy place; ESV: in a holy place; NASB: in a holy place)"
+      },
+      {
+        "position": 6,
+        "surface": "קָדֹשׁ֙",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6918 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 7,
+        "surface": "תֵּֽאָכֵ֔ל",
+        "phrase": "it shall be eaten",
+        "literal": "it-will-be-eaten",
+        "source": "H398 (KJV: shall it be eaten; ESV: shall be eaten; NASB: shall be eaten)"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/חֲצַ֖ר",
+        "phrase": "in the court",
+        "literal": "in-court",
+        "source": "H2691 (KJV: in the court; ESV: in the court; NASB: in the courtyard)"
+      },
+      {
+        "position": 9,
+        "surface": "אֹ֥הֶל",
+        "phrase": "of the tent",
+        "literal": "tent",
+        "source": "H168 (KJV: of the tabernacle; ESV: of the tent; NASB: of the tent)"
+      },
+      {
+        "position": 10,
+        "surface": "מוֹעֵֽד",
+        "phrase": "of meeting",
+        "literal": "meeting",
+        "source": "H4150 (KJV: of the congregation; ESV: of meeting; NASB: of meeting)"
+      }
+    ]
+  }
+]

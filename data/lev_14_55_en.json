@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 55,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/לְ/צָרַ֥עַת",
+        "phrase": "for the leprosy",
+        "literal": "and-for-leprosy",
+        "source": "H6883; KJV: leprosy, ESV: leprous disease, NASB: leprous"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בֶּ֖גֶד",
+        "phrase": "of the garment",
+        "literal": "the-garment",
+        "source": "H899; KJV: a garment, ESV: a garment, NASB: the garment"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לַ/בָּֽיִת",
+        "phrase": "and of the house",
+        "literal": "and-to-the-house",
+        "source": "H1004; KJV: a house, ESV: a house, NASB: a house"
+      }
+    ]
+  }
+]

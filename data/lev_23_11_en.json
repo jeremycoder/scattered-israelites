@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵנִ֧יף",
+        "phrase": "and he shall wave",
+        "literal": "and-he-shall-wave",
+        "source": "H5130 (KJV: wave; ESV: wave; NASB: wave)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עֹ֛מֶר",
+        "phrase": "the sheaf",
+        "literal": "the-sheaf",
+        "source": "H6016 (KJV: sheaf; ESV: sheaf; NASB: sheaf)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "לִֽ/רְצֹנְ/כֶ֑ם",
+        "phrase": "for your acceptance",
+        "literal": "to-favor-of-you(pl)",
+        "source": "H7522 (KJV: to be accepted for you; ESV: so that you may be accepted; NASB: for you to be accepted)"
+      },
+      {
+        "position": 7,
+        "surface": "מִֽ/מָּחֳרַת֙",
+        "phrase": "on the morrow of",
+        "literal": "from-morrow-of",
+        "source": "H4283 (KJV: morrow; ESV: day after; NASB: day after)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שַּׁבָּ֔ת",
+        "phrase": "the Sabbath",
+        "literal": "the-Sabbath",
+        "source": "H7676 (KJV: sabbath; ESV: Sabbath; NASB: sabbath)"
+      },
+      {
+        "position": 9,
+        "surface": "יְנִיפֶ֖/נּוּ",
+        "phrase": "he shall wave it",
+        "literal": "he-shall-wave-it",
+        "source": "H5130 (KJV: wave it; ESV: wave it; NASB: wave it)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/כֹּהֵֽן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      }
+    ]
+  }
+]

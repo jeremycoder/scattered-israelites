@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: shall not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "יְחַלֵּ֥ל",
+        "phrase": "he shall profane",
+        "literal": "he-will-profane",
+        "source": "H2490 (KJV: profane; ESV: profane; NASB: profane)"
+      },
+      {
+        "position": 3,
+        "surface": "זַרְע֖/וֹ",
+        "phrase": "his seed",
+        "literal": "seed-his",
+        "source": "H2233 (KJV: seed; ESV: offspring; NASB: offspring)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/עַמָּ֑י/ו",
+        "phrase": "among his people",
+        "literal": "in-people-his",
+        "source": "H5971 (KJV: among his people; ESV: among his people; NASB: among his people)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 8,
+        "surface": "מְקַדְּשֽׁ/וֹ",
+        "phrase": "who sanctifies him",
+        "literal": "sanctifying-him",
+        "source": "H6942 (KJV: do sanctify him; ESV: who sanctifies him; NASB: who sanctifies him)"
+      }
+    ]
+  }
+]

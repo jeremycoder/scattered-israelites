@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֶ֣חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899 (KJV: bread; ESV: bread; NASB: food)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהָ֔י/ו",
+        "phrase": "of his God",
+        "literal": "God-his",
+        "source": "H430 (KJV: of his God; ESV: of his God; NASB: of his God)"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/קָּדְשֵׁ֖י",
+        "phrase": "of the holy",
+        "literal": "from-holy.things",
+        "source": "H6944 (KJV: of the holy; ESV: of the most holy; NASB: of the most holy)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קֳּדָשִׁ֑ים",
+        "phrase": "most holy things",
+        "literal": "the-most.holy.things",
+        "source": "H6944 (KJV: most holy; ESV: most holy; NASB: most holy)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִן",
+        "phrase": "and from",
+        "literal": "and-from",
+        "source": "H4480 (KJV: and of; ESV: and of; NASB: and of)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/קֳּדָשִׁ֖ים",
+        "phrase": "the holy things",
+        "literal": "the-holy.things",
+        "source": "H6944 (KJV: of the holy; ESV: of the holy things; NASB: of the holy)"
+      },
+      {
+        "position": 7,
+        "surface": "יֹאכֵֽל",
+        "phrase": "he may eat",
+        "literal": "he-will.eat",
+        "source": "H398 (KJV: he shall eat; ESV: he may eat; NASB: he shall eat)"
+      }
+    ]
+  }
+]

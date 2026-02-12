@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַשׂ",
+        "phrase": "And they did",
+        "literal": "and-he-did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֖ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בָנָ֑י/ו",
+        "phrase": "and his sons",
+        "literal": "and-sons-his",
+        "source": "H1121 (KJV: and his sons; ESV: and his sons; NASB: and his sons)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דְּבָרִ֔ים",
+        "phrase": "the things",
+        "literal": "the-words",
+        "source": "H1697 (KJV: the things; ESV: the things; NASB: the things)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 8,
+        "surface": "צִוָּ֥ה",
+        "phrase": "He commanded",
+        "literal": "He-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/יַד",
+        "phrase": "by the hand of",
+        "literal": "by-hand",
+        "source": "H3027 (KJV: by the hand of; ESV: through; NASB: by the hand of)"
+      },
+      {
+        "position": 11,
+        "surface": "מֹשֶֽׁה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      }
+    ]
+  }
+]

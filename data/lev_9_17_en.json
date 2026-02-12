@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּקְרֵב֮",
+        "phrase": "and he presented",
+        "literal": "and-he-caused-to-approach",
+        "source": "H7126 (KJV: brought; ESV: presented; NASB: presented)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּנְחָה֒",
+        "phrase": "the grain offering",
+        "literal": "the-offering",
+        "source": "H4503 (KJV: meat offering; ESV: grain offering; NASB: grain offering)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יְמַלֵּ֤א",
+        "phrase": "and he filled",
+        "literal": "and-he-filled",
+        "source": "H4390 (KJV: took; ESV: took; NASB: filled)"
+      },
+      {
+        "position": 5,
+        "surface": "כַפּ/וֹ֙",
+        "phrase": "his hand",
+        "literal": "palm-his",
+        "source": "H3709 (KJV: handful; ESV: handful; NASB: hand)"
+      },
+      {
+        "position": 6,
+        "surface": "מִמֶּ֔/נָּה",
+        "phrase": "from it",
+        "literal": "from-it",
+        "source": "H4480 (KJV: thereof; ESV: of it; NASB: of it)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּקְטֵ֖ר",
+        "phrase": "and burned",
+        "literal": "and-he-made-smoke",
+        "source": "H6999 (KJV: burnt; ESV: burned; NASB: offered up in smoke)"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּזְבֵּ֑חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/לְּ/בַ֖ד",
+        "phrase": "besides",
+        "literal": "apart-from",
+        "source": "H905 (KJV: beside; ESV: besides; NASB: besides)"
+      },
+      {
+        "position": 11,
+        "surface": "עֹלַ֥ת",
+        "phrase": "burnt offering",
+        "literal": "burnt-offering-of",
+        "source": "H5930 (KJV: burnt sacrifice; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/בֹּֽקֶר",
+        "phrase": "the morning",
+        "literal": "the-morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      }
+    ]
+  }
+]

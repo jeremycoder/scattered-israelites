@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵבֵאתָ֣",
+        "phrase": "and you shall bring",
+        "literal": "and-you-bring",
+        "source": "H935; KJV 'thou shalt bring', ESV/NASB 'you bring'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV/ESV/NASB omit or implied"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּנְחָ֗ה",
+        "phrase": "grain offering",
+        "literal": "the-offering",
+        "source": "H4503; KJV 'meat offering', ESV/NASB 'grain offering'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834; KJV/ESV/NASB 'that'"
+      },
+      {
+        "position": 5,
+        "surface": "יֵעָשֶׂ֛ה",
+        "phrase": "is made",
+        "literal": "is-made",
+        "source": "H6213; KJV 'is made', ESV/NASB 'is made'"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֵ֖לֶּה",
+        "phrase": "of these",
+        "literal": "from-these",
+        "source": "H428; KJV/ESV/NASB 'of these things'"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִקְרִיבָ/הּ֙",
+        "phrase": "and he shall present it",
+        "literal": "and-he-shall-present-it",
+        "source": "H7126; KJV 'when it is presented', ESV/NASB 'it shall be presented'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB 'unto'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548; KJV/ESV/NASB 'the priest'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הִגִּישָׁ֖/הּ",
+        "phrase": "and he shall offer it",
+        "literal": "and-he-shall-bring-near-it",
+        "source": "H5066; KJV/ESV/NASB 'he shall bring it'"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB 'unto'"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מִּזְבֵּֽחַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196; KJV/ESV/NASB 'the altar'"
+      }
+    ]
+  }
+]

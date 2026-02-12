@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֨ם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'And if ye will not yet'; ESV: 'And if in spite of this'; NASB: 'If also after these things')"
+      },
+      {
+        "position": 2,
+        "surface": "עַד",
+        "phrase": "after",
+        "literal": "until",
+        "source": "H5704 (KJV: 'for all this'; ESV: 'in spite of this'; NASB: 'after these things')"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "H428 (KJV: 'all this'; ESV: 'this'; NASB: 'these things')"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 5,
+        "surface": "תִשְׁמְע֖וּ",
+        "phrase": "you listen",
+        "literal": "you-hear",
+        "source": "H8085 (KJV: 'hearken'; ESV: 'listen'; NASB: 'obey')"
+      },
+      {
+        "position": 6,
+        "surface": "לִ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": ""
+      },
+      {
+        "position": 7,
+        "surface": "וְ/יָסַפְתִּי֙",
+        "phrase": "then I will add",
+        "literal": "and-I-will-add",
+        "source": "H3254 (KJV: 'then I will punish'; ESV: 'then I will discipline'; NASB: 'then I will punish')"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/יַסְּרָ֣ה",
+        "phrase": "to discipline",
+        "literal": "to-chastise",
+        "source": "H3256 (KJV: 'punish'; ESV: 'discipline'; NASB: 'punish')"
+      },
+      {
+        "position": 9,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "OBJ-you",
+        "source": "H853 (KJV: 'you'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 10,
+        "surface": "שֶׁ֖בַע",
+        "phrase": "seven times",
+        "literal": "seven",
+        "source": "H7651 (KJV: 'seven times more'; ESV: 'sevenfold'; NASB: 'seven times more')"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "for",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'for'; ESV: 'for'; NASB: 'for')"
+      },
+      {
+        "position": 12,
+        "surface": "חַטֹּאתֵי/כֶֽם",
+        "phrase": "your sins",
+        "literal": "sins-your",
+        "source": "H2403 (KJV: 'your sins'; ESV: 'your sins'; NASB: 'your sins')"
+      }
+    ]
+  }
+]

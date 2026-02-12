@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֗שׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784; KJV: fire, ESV: fire, NASB: fire"
+      },
+      {
+        "position": 2,
+        "surface": "תָּמִ֛יד",
+        "phrase": "continually",
+        "literal": "continually",
+        "source": "H8548; KJV: always, ESV: perpetually, NASB: continuously"
+      },
+      {
+        "position": 3,
+        "surface": "תּוּקַ֥ד",
+        "phrase": "shall be kept burning",
+        "literal": "burned-be",
+        "source": "H3344; KJV: kept burning, ESV: kept burning, NASB: kept burning"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV: on, ESV: on, NASB: on"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּזְבֵּ֖חַ",
+        "phrase": "the altar",
+        "literal": "the/altar",
+        "source": "H4196; KJV: the altar, ESV: the altar, NASB: the altar"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 7,
+        "surface": "תִכְבֶֽה",
+        "phrase": "shall go out",
+        "literal": "be-extinguished",
+        "source": "H3518; KJV: be put out, ESV: go out, NASB: go out"
+      }
+    ]
+  }
+]

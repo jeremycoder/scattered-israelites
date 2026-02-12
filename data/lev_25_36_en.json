@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408 (KJV: Take no; ESV: take no; NASB: take no)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּקַּ֤ח",
+        "phrase": "take",
+        "literal": "you-take",
+        "source": "H3947 (KJV: Take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 3,
+        "surface": "מֵֽ/אִתּ/וֹ֙",
+        "phrase": "from him",
+        "literal": "from-with-him",
+        "source": "H854 (KJV: of him; ESV: from him; NASB: from him)"
+      },
+      {
+        "position": 4,
+        "surface": "נֶ֣שֶׁךְ",
+        "phrase": "usury",
+        "literal": "interest",
+        "source": "H5392 (KJV: usury; ESV: interest; NASB: interest)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/תַרְבִּ֔ית",
+        "phrase": "or increase",
+        "literal": "and-increase",
+        "source": "H8636 (KJV: increase; ESV: increase; NASB: increase)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יָרֵ֖אתָ",
+        "phrase": "and fear",
+        "literal": "and-you-shall-fear",
+        "source": "H3372 (KJV: fear; ESV: fear; NASB: fear)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵֽ/אֱלֹהֶ֑י/ךָ",
+        "phrase": "your God",
+        "literal": "from-God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חֵ֥י",
+        "phrase": "that he may live",
+        "literal": "and-let-live",
+        "source": "H2421 (KJV: live; ESV: live; NASB: live)"
+      },
+      {
+        "position": 9,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251 (KJV: thy brother; ESV: brother; NASB: brother)"
+      },
+      {
+        "position": 10,
+        "surface": "עִמָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H5973 (KJV: with thee; ESV: with you; NASB: with you)"
+      }
+    ]
+  }
+]

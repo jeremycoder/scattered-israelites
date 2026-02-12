@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּ/שְׁנַ֥ת",
+        "phrase": "in the year",
+        "literal": "in-year-of",
+        "source": "H8141; KJV: 'year', ESV/NASB: 'year' (as 'in this year of Jubilee')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יּוֹבֵ֖ל",
+        "phrase": "of the Jubilee",
+        "literal": "the-Jubilee",
+        "source": "H3104; KJV: 'jubile', ESV/NASB: 'Jubilee' (year of Jubilee)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/זֹּ֑את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063; KJV/ESV/NASB: 'this' (in 'this year of Jubilee')"
+      },
+      {
+        "position": 4,
+        "surface": "תָּשֻׁ֕בוּ",
+        "phrase": "you shall return",
+        "literal": "you(pl)-shall-return",
+        "source": "H7725; KJV: 'return', ESV/NASB: 'return' (every man shall return)"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֖ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376; KJV: 'every man', ESV/NASB: 'each of you'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB: 'unto/to' (return unto/to)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲחֻזָּתֽ/וֹ",
+        "phrase": "his property",
+        "literal": "possession-his",
+        "source": "H272; KJV: 'possession', ESV/NASB: 'property'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ֨/כֹּהֵ֔ן",
+        "phrase": "And the priest",
+        "literal": "and-the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מַּקְרִ֖יב",
+        "phrase": "who presents",
+        "literal": "the-one-presenting",
+        "source": "H7126 (KJV: offereth; ESV: offers; NASB: presents)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "עֹ֣לַת",
+        "phrase": "burnt offering",
+        "literal": "burnt-offering-of",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֑ישׁ",
+        "phrase": "of a man",
+        "literal": "man",
+        "source": "H376 (KJV: man's; ESV: man's; NASB: man's)"
+      },
+      {
+        "position": 6,
+        "surface": "ע֤וֹר",
+        "phrase": "the skin",
+        "literal": "skin",
+        "source": "H5785 (KJV: skin; ESV: skin; NASB: skin)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/עֹלָה֙",
+        "phrase": "of the burnt offering",
+        "literal": "the-burnt-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 9,
+        "surface": "הִקְרִ֔יב",
+        "phrase": "he has presented",
+        "literal": "he-has-presented",
+        "source": "H7126 (KJV: offered; ESV: offered; NASB: presented)"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/כֹּהֵ֖ן",
+        "phrase": "to the priest",
+        "literal": "to-the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 11,
+        "surface": "ל֥/וֹ",
+        "phrase": "for himself",
+        "literal": "to-him",
+        "source": " (KJV: himself; ESV: himself; NASB: himself)"
+      },
+      {
+        "position": 12,
+        "surface": "יִהְיֶֽה",
+        "phrase": "it shall be",
+        "literal": "it-will-be",
+        "source": "H1961 (KJV: shall have; ESV: belongs; NASB: shall own)"
+      }
+    ]
+  }
+]

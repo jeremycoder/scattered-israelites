@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אַ֔יִל",
+        "phrase": "ram",
+        "literal": "the-ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      },
+      {
+        "position": 3,
+        "surface": "נִתַּ֖ח",
+        "phrase": "he cut",
+        "literal": "he-cut",
+        "source": "H5408 (KJV: cut; ESV: cut; NASB: cut)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/נְתָחָ֑י/ו",
+        "phrase": "into its pieces",
+        "literal": "to-pieces-his",
+        "source": "H5409 (KJV: pieces; ESV: pieces; NASB: pieces)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּקְטֵ֤ר",
+        "phrase": "and burned",
+        "literal": "and-he-burned",
+        "source": "H6999 (KJV: burnt; ESV: burned; NASB: offered up in smoke)"
+      },
+      {
+        "position": 6,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "obj",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/רֹ֔אשׁ",
+        "phrase": "head",
+        "literal": "the-head",
+        "source": "H7218 (KJV: head; ESV: head; NASB: head)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/נְּתָחִ֖ים",
+        "phrase": "pieces",
+        "literal": "the-pieces",
+        "source": "H5409 (KJV: pieces; ESV: pieces; NASB: parts)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/פָּֽדֶר",
+        "phrase": "fat",
+        "literal": "the-fat",
+        "source": "H6309 (KJV: fat; ESV: fat; NASB: suet)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/עֲשִׂיתֶם֙",
+        "phrase": "and you shall do",
+        "literal": "and-you-shall-do",
+        "source": "H6213; KJV: 'do', ESV: 'do', NASB: 'do'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "חֻקֹּתַ֔/י",
+        "phrase": "my statutes",
+        "literal": "statutes-of-me",
+        "source": "H2708; KJV: 'statutes', ESV: 'statutes', NASB: 'statutes'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "מִשְׁפָּטַ֥/י",
+        "phrase": "my judgments",
+        "literal": "judgments-of-me",
+        "source": "H4941; KJV: 'judgments', ESV: 'regulations', NASB: 'judgments'"
+      },
+      {
+        "position": 6,
+        "surface": "תִּשְׁמְר֖וּ",
+        "phrase": "you shall keep",
+        "literal": "you-shall-keep",
+        "source": "H8104; KJV: 'keep', ESV: 'keep', NASB: 'keep'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/עֲשִׂיתֶ֣ם",
+        "phrase": "and you shall do",
+        "literal": "and-you-shall-do",
+        "source": "H6213; KJV: 'do', ESV: 'do', NASB: 'carry...out'"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ֑/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853; KJV: 'them', ESV: 'them', NASB: 'them'"
+      },
+      {
+        "position": 9,
+        "surface": "וִֽ/ישַׁבְתֶּ֥ם",
+        "phrase": "and you shall dwell",
+        "literal": "and-you-shall-dwell",
+        "source": "H3427; KJV: 'dwell', ESV: 'live', NASB: 'live'"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV: 'on', ESV: 'on', NASB: 'on'"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776; KJV: 'the land', ESV: 'the land', NASB: 'the land'"
+      },
+      {
+        "position": 12,
+        "surface": "לָ/בֶֽטַח",
+        "phrase": "in safety",
+        "literal": "in-security",
+        "source": "H983; KJV: 'in safety', ESV: 'securely', NASB: 'securely'"
+      }
+    ]
+  }
+]

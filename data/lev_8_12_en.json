@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּצֹק֙",
+        "phrase": "and he poured",
+        "literal": "and-he-poured",
+        "source": "H3332; KJV: 'poured', ESV: 'poured', NASB: 'poured'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שֶּׁ֣מֶן",
+        "phrase": "some of the oil",
+        "literal": "from-oil",
+        "source": "H8081; KJV: 'of the oil', ESV: 'of the anointing oil', NASB: 'of the anointing oil'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּשְׁחָ֔ה",
+        "phrase": "of the anointing",
+        "literal": "the-anointing",
+        "source": "H4888; KJV: 'of the anointing oil', ESV: 'anointing oil', NASB: 'anointing oil'"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921; KJV: 'upon', ESV: 'on', NASB: 'on'"
+      },
+      {
+        "position": 5,
+        "surface": "רֹ֣אשׁ",
+        "phrase": "head",
+        "literal": "head",
+        "source": "H7218; KJV: 'head', ESV: 'head', NASB: 'head'"
+      },
+      {
+        "position": 6,
+        "surface": "אַהֲרֹ֑ן",
+        "phrase": "of Aaron",
+        "literal": "Aaron",
+        "source": "H175; KJV: \"Aaron's\", ESV: \"Aaron's\", NASB: \"Aaron's\""
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּמְשַׁ֥ח",
+        "phrase": "and he anointed",
+        "literal": "and-he-anointed",
+        "source": "H4886; KJV: 'anointed', ESV: 'anointed', NASB: 'anointed'"
+      },
+      {
+        "position": 8,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "H853; KJV: 'him', ESV: 'him', NASB: 'him'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/קַדְּשֽׁ/וֹ",
+        "phrase": "to consecrate him",
+        "literal": "to-consecrate-him",
+        "source": "H6942; KJV: 'to sanctify him', ESV: 'to consecrate him', NASB: 'to consecrate him'"
+      }
+    ]
+  }
+]

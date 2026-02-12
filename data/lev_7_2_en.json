@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּ/מְק֗וֹם",
+        "phrase": "in the place",
+        "literal": "in-place",
+        "source": "H4725 (KJV: place; ESV: place; NASB: place)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "where",
+        "literal": "which/where",
+        "source": "H834 (KJV: where; ESV: where; NASB: where)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׁחֲטוּ֙",
+        "phrase": "they kill",
+        "literal": "they-slaughter",
+        "source": "H7819 (KJV: kill; ESV: kill; NASB: kill)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-acc]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הָ֣/עֹלָ֔ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascension-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׁחֲט֖וּ",
+        "phrase": "they shall kill",
+        "literal": "they-slaughter",
+        "source": "H7819 (KJV: kill; ESV: kill; NASB: kill)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-acc]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אָשָׁ֑ם",
+        "phrase": "the trespass offering",
+        "literal": "the-guilt",
+        "source": "H817 (KJV: trespass offering; ESV: guilt offering; NASB: guilt offering)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[-acc]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 10,
+        "surface": "דָּמ֛/וֹ",
+        "phrase": "its blood",
+        "literal": "blood-his/its",
+        "source": "H1818 (KJV: blood thereof; ESV: its blood; NASB: its blood)"
+      },
+      {
+        "position": 11,
+        "surface": "יִזְרֹ֥ק",
+        "phrase": "he shall sprinkle",
+        "literal": "he-sprinkles",
+        "source": "H2236 (KJV: sprinkle; ESV: sprinkle; NASB: sprinkle)"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מִּזְבֵּ֖חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 14,
+        "surface": "סָבִֽיב",
+        "phrase": "around",
+        "literal": "around",
+        "source": "H5439 (KJV: round about; ESV: around; NASB: all around)"
+      }
+    ]
+  }
+]

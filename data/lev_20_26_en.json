@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 20,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וִ/הְיִ֤יתֶם",
+        "phrase": "and-you-shall-be",
+        "literal": "and-you(pl)-shall-be",
+        "source": "H1961; KJV 'ye shall be', ESV 'you shall be', NASB 'you are to be'"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/י֙",
+        "phrase": "to-me",
+        "literal": "to-me",
+        "source": "; KJV 'unto me', ESV 'to me', NASB 'to Me'"
+      },
+      {
+        "position": 3,
+        "surface": "קְדֹשִׁ֔ים",
+        "phrase": "holy-ones",
+        "literal": "holy-ones-mp",
+        "source": "H6918; KJV 'holy', ESV 'holy', NASB 'holy'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 5,
+        "surface": "קָד֖וֹשׁ",
+        "phrase": "holy",
+        "literal": "holy-ms",
+        "source": "H6918; KJV 'holy', ESV 'holy', NASB 'holy'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲנִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV 'I', ESV 'I', NASB 'I'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/אַבְדִּ֥ל",
+        "phrase": "and-I-have-separated",
+        "literal": "and-I-have-separated",
+        "source": "H914; KJV 'have severed', ESV 'have separated', NASB 'have set ... apart'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶתְ/כֶ֛ם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853; KJV 'you', ESV 'you', NASB 'you'"
+      },
+      {
+        "position": 10,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480; KJV 'from', ESV 'from', NASB 'from'"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/עַמִּ֖ים",
+        "phrase": "the-peoples",
+        "literal": "the-peoples-mp",
+        "source": "H5971; KJV 'people', ESV 'peoples', NASB 'peoples'"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/הְי֥וֹת",
+        "phrase": "to-be",
+        "literal": "to-be",
+        "source": "H1961; KJV 'that ye should be', ESV 'to be', NASB 'to be'"
+      },
+      {
+        "position": 13,
+        "surface": "לִֽ/י",
+        "phrase": "mine",
+        "literal": "to-me",
+        "source": "; KJV 'mine', ESV 'mine', NASB 'Mine'"
+      }
+    ]
+  }
+]

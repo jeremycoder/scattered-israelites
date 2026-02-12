@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מָע֤וּךְ",
+        "phrase": "bruised",
+        "literal": "and-crushed",
+        "source": "H4600 (KJV: bruised; ESV: bruised; NASB: crushed)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/כָתוּת֙",
+        "phrase": "or crushed",
+        "literal": "and-crushed",
+        "source": "H3807 (KJV: crushed; ESV: crushed; NASB: crushed)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/נָת֣וּק",
+        "phrase": "or torn",
+        "literal": "and-torn",
+        "source": "H5423 (KJV: broken; ESV: torn; NASB: torn)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/כָר֔וּת",
+        "phrase": "or cut",
+        "literal": "and-cut",
+        "source": "H3772 (KJV: cut; ESV: cut; NASB: severed)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 6,
+        "surface": "תַקְרִ֖יבוּ",
+        "phrase": "shall you offer",
+        "literal": "you-shall-offer",
+        "source": "H7126 (KJV: offer; ESV: offer; NASB: present)"
+      },
+      {
+        "position": 7,
+        "surface": "לַֽ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: LORD)"
+      },
+      {
+        "position": 8,
+        "surface": "וּֽ/בְ/אַרְצְ/כֶ֖ם",
+        "phrase": "and in your land",
+        "literal": "and-in-land-your",
+        "source": "H776 (KJV: in your land; ESV: within your land; NASB: in your land)"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: neither; ESV: you shall not; NASB: not)"
+      },
+      {
+        "position": 10,
+        "surface": "תַעֲשֽׂוּ",
+        "phrase": "shall you do",
+        "literal": "you-shall-do",
+        "source": "H6213 (KJV: ye make; ESV: do it; NASB: do)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֹ֥את",
+        "phrase": "And this",
+        "literal": "and-this",
+        "source": "H2063; KJV: 'Likewise this', ESV: 'this', NASB: 'this'"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹרַ֖ת",
+        "phrase": "is the law",
+        "literal": "law-of",
+        "source": "H8451; KJV: 'is the law', ESV: 'is the law', NASB: 'is the law'"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָשָׁ֑ם",
+        "phrase": "of the guilt offering",
+        "literal": "the-guilt_offering",
+        "source": "H817; KJV: 'of the trespass offering', ESV: 'of the guilt offering', NASB: 'of the guilt offering'"
+      },
+      {
+        "position": 4,
+        "surface": "קֹ֥דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944; KJV: 'most holy', ESV: 'most holy', NASB: 'most holy'"
+      },
+      {
+        "position": 5,
+        "surface": "קָֽדָשִׁ֖ים",
+        "phrase": "most holy",
+        "literal": "holies",
+        "source": "H6944; KJV: 'most holy', ESV: 'most holy', NASB: 'most holy'"
+      },
+      {
+        "position": 6,
+        "surface": "הֽוּא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931; KJV: 'it is', ESV: 'it is', NASB: 'it is"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַ֛ל",
+        "phrase": "nor upon",
+        "literal": "and-upon",
+        "source": "H5921 (KJV: neither shall he go in; ESV: He shall not go in; NASB: nor shall he approach)"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605 (KJV: any; ESV: any; NASB: any)"
+      },
+      {
+        "position": 3,
+        "surface": "נַפְשֹׁ֥ת",
+        "phrase": "dead person",
+        "literal": "soul/person",
+        "source": "H5315 (KJV: dead body; ESV: dead bodies; NASB: dead person)"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ֖ת",
+        "phrase": "dead",
+        "literal": "dead",
+        "source": "H4191 (KJV: dead body; ESV: dead bodies; NASB: dead person)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֣א",
+        "phrase": "he shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: neither shall he; ESV: He shall not; NASB: nor shall he)"
+      },
+      {
+        "position": 6,
+        "surface": "יָבֹ֑א",
+        "phrase": "go near",
+        "literal": "come-he",
+        "source": "H935 (KJV: go in; ESV: go in; NASB: approach)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/אָבִ֥י/ו",
+        "phrase": "for his father",
+        "literal": "to-father-his",
+        "source": "H1 (KJV: for his father; ESV: for his father; NASB: for his father)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/אִמּ֖/וֹ",
+        "phrase": "or for his mother",
+        "literal": "and-to-mother-his",
+        "source": "H517 (KJV: or for his mother; ESV: for his mother; NASB: or his mother)"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֥א",
+        "phrase": "he shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: nor defile himself; ESV: nor make himself unclean; NASB: nor defile himself)"
+      },
+      {
+        "position": 10,
+        "surface": "יִטַּמָּֽא",
+        "phrase": "defile himself",
+        "literal": "become-defiled-he",
+        "source": "H2930 (KJV: defile himself; ESV: make himself unclean; NASB: defile himself)"
+      }
+    ]
+  }
+]

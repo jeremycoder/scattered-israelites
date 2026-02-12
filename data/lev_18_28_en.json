@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: lest; NASB: so that ... not)"
+      },
+      {
+        "position": 2,
+        "surface": "תָקִ֤יא",
+        "phrase": "may vomit",
+        "literal": "she-may-vomit",
+        "source": "H6958 (KJV: spue; ESV: vomit; NASB: spew)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֨רֶץ֙",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/טַֽמַּאֲ/כֶ֖ם",
+        "phrase": "in defiling you",
+        "literal": "in-defiling-you(pl)",
+        "source": "H2930 (KJV: defile; ESV: make ... unclean; NASB: defile)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֑/הּ",
+        "phrase": "it",
+        "literal": "obj-it(fs)",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 7,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 8,
+        "surface": "קָאָ֛ה",
+        "phrase": "it vomited",
+        "literal": "she-vomited",
+        "source": "H6958 (KJV: spued; ESV: vomited; NASB: spewed)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "obj",
+        "literal": "obj",
+        "source": "H853 (KJV: out; ESV: out; NASB: out)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/גּ֖וֹי",
+        "phrase": "the nation",
+        "literal": "the-nation",
+        "source": "H1471 (KJV: nations; ESV: nation; NASB: nation)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H834 (KJV: that; ESV: that; NASB: which)"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/פְנֵי/כֶֽם",
+        "phrase": "before you",
+        "literal": "before-face-you(pl)",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      }
+    ]
+  }
+]

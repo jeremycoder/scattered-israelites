@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 5,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and it",
+        "literal": "and-obj",
+        "source": "H853 (KJV: his trespass; ESV: compensation; NASB: compensation)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשָׁמ֥/וֹ",
+        "phrase": "his guilt offering",
+        "literal": "guilt.offering-his",
+        "source": "H817 (KJV: trespass; ESV: guilt; NASB: guilt)"
+      },
+      {
+        "position": 3,
+        "surface": "יָבִ֖יא",
+        "phrase": "he shall bring",
+        "literal": "he-shall-bring",
+        "source": "H935 (KJV: bring; ESV: bring; NASB: bring)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "אַ֣יִל",
+        "phrase": "ram",
+        "literal": "ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      },
+      {
+        "position": 6,
+        "surface": "תָּמִ֧ים",
+        "phrase": "without blemish",
+        "literal": "complete-unblemished",
+        "source": "H8549 (KJV: without blemish; ESV: without blemish; NASB: unblemished)"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: out of; ESV: out of; NASB: from)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/צֹּ֛אן",
+        "phrase": "the flock",
+        "literal": "the-flock",
+        "source": "H6629 (KJV: flock; ESV: flock; NASB: flock)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/עֶרְכְּ/ךָ֥",
+        "phrase": "according to your valuation",
+        "literal": "in-valuation-your",
+        "source": "H6187 (KJV: thy estimation; ESV: equivalent; NASB: your valuation)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/אָשָׁ֖ם",
+        "phrase": "for a guilt offering",
+        "literal": "for-guilt.offering",
+        "source": "H817 (KJV: guilt offering; ESV: guilt offering; NASB: guilt offering)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/כֹּהֵֽן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      }
+    ]
+  }
+]

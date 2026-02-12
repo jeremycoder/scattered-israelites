@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִ֣י",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588 (KJV: And if; ESV: if you say; NASB: if you say)"
+      },
+      {
+        "position": 2,
+        "surface": "תֹאמְר֔וּ",
+        "phrase": "you say",
+        "literal": "you(pl)-say",
+        "source": "H559 (KJV: ye shall say; ESV: you say; NASB: you say)"
+      },
+      {
+        "position": 3,
+        "surface": "מַה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "H4100 (KJV: What; ESV: What; NASB: What)"
+      },
+      {
+        "position": 4,
+        "surface": "נֹּאכַ֤֖ל",
+        "phrase": "shall we eat",
+        "literal": "we-eat",
+        "source": "H398 (KJV: shall we eat; ESV: shall we eat; NASB: shall we eat)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/שָּׁנָ֣ה",
+        "phrase": "in the year",
+        "literal": "in-the-year",
+        "source": "H8141 (KJV: in the seventh year; ESV: in the seventh year; NASB: in the seventh year)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שְּׁבִיעִ֑ת",
+        "phrase": "the seventh",
+        "literal": "the-seventh(f.)",
+        "source": "H7637 (KJV: seventh; ESV: seventh; NASB: seventh)"
+      },
+      {
+        "position": 7,
+        "surface": "הֵ֚ן",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2005 (KJV: Behold; ESV: if; NASB: Behold)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "נִזְרָ֔ע",
+        "phrase": "we sow",
+        "literal": "we-sow",
+        "source": "H2232 (KJV: shall...sow; ESV: sow; NASB: sow)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: nor; ESV: or; NASB: or)"
+      },
+      {
+        "position": 11,
+        "surface": "נֶאֱסֹ֖ף",
+        "phrase": "gather",
+        "literal": "we-gather",
+        "source": "H622 (KJV: gather; ESV: gather; NASB: gather)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "in",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: (implied); ESV: in; NASB: in)"
+      },
+      {
+        "position": 13,
+        "surface": "תְּבוּאָתֵֽ/נוּ",
+        "phrase": "our produce",
+        "literal": "produce-our",
+        "source": "H8393 (KJV: our increase; ESV: our crop; NASB: our produce)"
+      }
+    ]
+  }
+]

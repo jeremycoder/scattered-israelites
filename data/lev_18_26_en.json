@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמַרְתֶּ֣ם",
+        "phrase": "and you shall keep",
+        "literal": "and-you(pl)-shall-keep",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: keep)"
+      },
+      {
+        "position": 2,
+        "surface": "אַתֶּ֗ם",
+        "phrase": "you",
+        "literal": "you(pl)",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[-acc]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "חֻקֹּתַ/י֙",
+        "phrase": "my statutes",
+        "literal": "statutes-of-me",
+        "source": "H2708 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[-acc]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "מִשְׁפָּטַ֔/י",
+        "phrase": "my judgments",
+        "literal": "judgments-of-me",
+        "source": "H4941 (KJV: judgments; ESV: rules; NASB: ordinances)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: nor; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "תַעֲשׂ֔וּ",
+        "phrase": "you shall do",
+        "literal": "you(pl)-shall-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/כֹּ֥ל",
+        "phrase": "any of",
+        "literal": "from-all",
+        "source": "H3605 (KJV: any; ESV: any; NASB: any)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/תּוֹעֵבֹ֖ת",
+        "phrase": "the abominations",
+        "literal": "the-abominations",
+        "source": "H8441 (KJV: abominations; ESV: abominations; NASB: detestable things)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אֵ֑לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 12,
+        "surface": "הָֽ/אֶזְרָ֔ח",
+        "phrase": "the native",
+        "literal": "the-native-born",
+        "source": "H249 (KJV: homeborn; ESV: native; NASB: citizen)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הַ/גֵּ֖ר",
+        "phrase": "and the stranger",
+        "literal": "and-the-stranger",
+        "source": "H1616 (KJV: stranger; ESV: sojourner; NASB: foreigner)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/גָּ֥ר",
+        "phrase": "who sojourns",
+        "literal": "the-sojourning-one",
+        "source": "H1481 (KJV: sojourneth; ESV: resides; NASB: lives)"
+      },
+      {
+        "position": 15,
+        "surface": "בְּ/תוֹכְ/כֶֽם",
+        "phrase": "among you",
+        "literal": "in-midst-of-you(pl)",
+        "source": "H8432 (KJV: among you; ESV: among you; NASB: among you)"
+      }
+    ]
+  }
+]

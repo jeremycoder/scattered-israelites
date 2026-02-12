@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as which",
+        "literal": "as-that",
+        "source": "H834 (KJV: 'as'; ESV: 'as'; NASB: 'as')"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂ֖ה",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "H6213 (KJV: 'he hath done'; ESV: 'has been done'; NASB: 'has been done')"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117 (KJV: 'this day'; ESV: 'this day'; NASB: 'this day')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 5,
+        "surface": "צִוָּ֧ה",
+        "phrase": "he commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: 'hath commanded'; ESV: 'has commanded'; NASB: 'has commanded')"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/עֲשֹׂ֖ת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213 (KJV: 'to do'; ESV: 'to do'; NASB: 'to do')"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/כַפֵּ֥ר",
+        "phrase": "to make atonement",
+        "literal": "to-atone",
+        "source": "H3722 (KJV: 'to make an atonement'; ESV: 'to make atonement'; NASB: 'to make atonement')"
+      },
+      {
+        "position": 9,
+        "surface": "עֲלֵי/כֶֽם",
+        "phrase": "upon you",
+        "literal": "upon-you",
+        "source": "H5921 (KJV: 'for you'; ESV: 'for you'; NASB: 'for you')"
+      }
+    ]
+  }
+]

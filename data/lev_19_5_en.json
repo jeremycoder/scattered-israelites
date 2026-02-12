@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִ֧י",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588; KJV: And if, ESV: When, NASB: Now when"
+      },
+      {
+        "position": 2,
+        "surface": "תִזְבְּח֛וּ",
+        "phrase": "you offer",
+        "literal": "you(pl)-sacrifice",
+        "source": "H2076; KJV: ye offer, ESV: you offer, NASB: you offer"
+      },
+      {
+        "position": 3,
+        "surface": "זֶ֥בַח",
+        "phrase": "a sacrifice",
+        "literal": "sacrifice",
+        "source": "H2077; KJV: a sacrifice, ESV: a sacrifice, NASB: a sacrifice"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁלָמִ֖ים",
+        "phrase": "of peace offerings",
+        "literal": "peace-offerings",
+        "source": "H8002; KJV: of peace offerings, ESV: of peace offerings, NASB: of peace offerings"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV: unto the LORD, ESV: to the LORD, NASB: to the LORD"
+      },
+      {
+        "position": 6,
+        "surface": "לִֽ/רְצֹנְ/כֶ֖ם",
+        "phrase": "for your acceptance",
+        "literal": "for-acceptance-your(pl)",
+        "source": "H7522; KJV: at your own will, ESV: so that you may be accepted, NASB: so that you may be accepted"
+      },
+      {
+        "position": 7,
+        "surface": "תִּזְבָּחֻֽ/הוּ",
+        "phrase": "you shall offer it",
+        "literal": "you(pl)-sacrifice-it",
+        "source": "H2076; KJV: ye shall offer it, ESV: you shall offer it, NASB: you shall offer it"
+      }
+    ]
+  }
+]

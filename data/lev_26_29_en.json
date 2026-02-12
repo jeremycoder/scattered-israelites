@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲכַלְתֶּ֖ם",
+        "phrase": "and-you-shall-eat",
+        "literal": "and-you(pl)-eat",
+        "source": "H398; KJV: 'ye shall eat', ESV: 'you shall eat', NASB: 'you will eat'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּשַׂ֣ר",
+        "phrase": "flesh",
+        "literal": "flesh",
+        "source": "H1320; KJV: 'flesh', ESV: 'flesh', NASB: 'flesh'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵי/כֶ֑ם",
+        "phrase": "of-your-sons",
+        "literal": "sons-your(pl)",
+        "source": "H1121; KJV: 'your sons', ESV: 'your sons', NASB: 'your sons'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְשַׂ֥ר",
+        "phrase": "and-flesh",
+        "literal": "and-flesh",
+        "source": "H1320; KJV: 'and the flesh', ESV: 'the flesh', NASB: 'the flesh'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנֹתֵי/כֶ֖ם",
+        "phrase": "of-your-daughters",
+        "literal": "daughters-your(pl)",
+        "source": "H1323; KJV: 'your daughters', ESV: 'your daughters', NASB: 'your daughters'"
+      },
+      {
+        "position": 6,
+        "surface": "תֹּאכֵֽלוּ",
+        "phrase": "you-shall-eat",
+        "literal": "you(pl)-eat",
+        "source": "H398; KJV: 'shall ye eat', ESV: 'you shall eat', NASB: 'you will eat'"
+      }
+    ]
+  }
+]

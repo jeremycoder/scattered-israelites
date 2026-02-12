@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/מִסְפַּ֤ר",
+        "phrase": "according to the number",
+        "literal": "in-number",
+        "source": "H4557; KJV: number, ESV: number, NASB: number"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁנִים֙",
+        "phrase": "of years",
+        "literal": "years",
+        "source": "H8141; KJV: years, ESV: years, NASB: years"
+      },
+      {
+        "position": 3,
+        "surface": "אַחַ֣ר",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310; KJV: after, ESV: after, NASB: after"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יּוֹבֵ֔ל",
+        "phrase": "the jubilee",
+        "literal": "the-jubilee",
+        "source": "H3104; KJV: jubile, ESV: jubilee, NASB: jubilee"
+      },
+      {
+        "position": 5,
+        "surface": "תִּקְנֶ֖ה",
+        "phrase": "you shall buy",
+        "literal": "you(m.s.)-shall-buy",
+        "source": "H7069; KJV: buy, ESV: pay, NASB: buy"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֵ֣ת",
+        "phrase": "from",
+        "literal": "from-with",
+        "source": "H854; KJV: of, ESV: neighbor, NASB: friend"
+      },
+      {
+        "position": 7,
+        "surface": "עֲמִיתֶ֑/ךָ",
+        "phrase": "your fellow",
+        "literal": "fellow-your(m.s.)",
+        "source": "H5997; KJV: neighbour, ESV: neighbor, NASB: friend"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/מִסְפַּ֥ר",
+        "phrase": "according to the number",
+        "literal": "in-number",
+        "source": "H4557; KJV: according, ESV: according, NASB: according"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁנֵֽי",
+        "phrase": "of years",
+        "literal": "years-of",
+        "source": "H8141; KJV: years, ESV: years, NASB: years"
+      },
+      {
+        "position": 10,
+        "surface": "תְבוּאֹ֖ת",
+        "phrase": "of crops",
+        "literal": "crops",
+        "source": "H8393; KJV: fruits, ESV: crops, NASB: crops"
+      },
+      {
+        "position": 11,
+        "surface": "יִמְכָּר",
+        "phrase": "he shall sell",
+        "literal": "he-shall-sell",
+        "source": "H4376; KJV: sell, ESV: sell, NASB: sell"
+      },
+      {
+        "position": 12,
+        "surface": "לָֽ/ךְ",
+        "phrase": "to you",
+        "literal": "to-you(f.s.)",
+        "source": "; KJV: thee, ESV: you, NASB: you"
+      }
+    ]
+  }
+]

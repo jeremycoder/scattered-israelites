@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/צִוִּ֤יתִי",
+        "phrase": "and-I-will-command",
+        "literal": "and-I-command",
+        "source": "H6680; KJV: command, ESV: command, NASB: order"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "בִּרְכָתִ/י֙",
+        "phrase": "my-blessing",
+        "literal": "blessing-of-me",
+        "source": "H1293; KJV: my blessing, ESV: my blessing, NASB: My blessing"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to-you",
+        "literal": "to-you-all",
+        "source": "; KJV: upon you, ESV: on you, NASB: for you"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/שָּׁנָ֖ה",
+        "phrase": "in-the-year",
+        "literal": "in-the-year",
+        "source": "H8141; KJV: in the sixth year, ESV: in the sixth year, NASB: in the sixth year"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שִּׁשִּׁ֑ית",
+        "phrase": "the-sixth",
+        "literal": "the-sixth-[f]",
+        "source": "H8345; KJV: sixth, ESV: sixth, NASB: sixth"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עָשָׂת֙",
+        "phrase": "and-it-shall-bring-forth",
+        "literal": "and-it-make-[f]",
+        "source": "H6213; KJV: it shall bring forth, ESV: it will produce, NASB: it will bring forth"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/תְּבוּאָ֔ה",
+        "phrase": "the-crop",
+        "literal": "the-produce",
+        "source": "H8393; KJV: fruit, ESV: crop, NASB: crop"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/שְׁלֹ֖שׁ",
+        "phrase": "for-three",
+        "literal": "to-three",
+        "source": "H7969; KJV: for three years, ESV: for three years, NASB: for three years"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/שָּׁנִֽים",
+        "phrase": "the-years",
+        "literal": "the-years",
+        "source": "H8141; KJV: years, ESV: years, NASB: years"
+      }
+    ]
+  }
+]

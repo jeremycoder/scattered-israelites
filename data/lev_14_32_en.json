@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֣את",
+        "phrase": "This",
+        "literal": "this-FEM",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹרַ֔ת",
+        "phrase": "law",
+        "literal": "law-FEM",
+        "source": "H8451 (KJV: law; ESV: law; NASB: law)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "who-REL",
+        "source": "H834 (KJV: him in whom; ESV: him in whom; NASB: him in whom)"
+      },
+      {
+        "position": 4,
+        "surface": "בּ֖/וֹ",
+        "phrase": "in him",
+        "literal": "in/him",
+        "source": " (KJV: in whom; ESV: in whom; NASB: in whom)"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֣גַע",
+        "phrase": "plague",
+        "literal": "plague-MASC",
+        "source": "H5061 (KJV: plague; ESV: infection; NASB: infection)"
+      },
+      {
+        "position": 6,
+        "surface": "צָרָ֑עַת",
+        "phrase": "of leprosy",
+        "literal": "leprosy-FEM",
+        "source": "H6883 (KJV: leprosy; ESV: leprosy; NASB: leprosy)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֛ר",
+        "phrase": "who",
+        "literal": "who-REL",
+        "source": "H834 (KJV: whose; ESV: whose; NASB: whose)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "תַשִּׂ֥יג",
+        "phrase": "attains",
+        "literal": "attain-FUT-HITHPAEL-3FS",
+        "source": "H5381 (KJV: suffice; ESV: suffice; NASB: sufficient)"
+      },
+      {
+        "position": 10,
+        "surface": "יָד֖/וֹ",
+        "phrase": "his hand",
+        "literal": "hand/his",
+        "source": "H3027 (KJV: hand; ESV: means; NASB: means)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/טָהֳרָתֽ/וֹ",
+        "phrase": "for his cleansing",
+        "literal": "in/cleansing/his",
+        "source": "H2893 (KJV: cleansing; ESV: cleansing; NASB: cleansing)"
+      }
+    ]
+  }
+]

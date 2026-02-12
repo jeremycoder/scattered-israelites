@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָל",
+        "phrase": "And any",
+        "literal": "and-all",
+        "source": "H3605 (KJV: any; ESV: any; NASB: any)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּם֙",
+        "phrase": "blood",
+        "literal": "blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: not; NASB: not)"
+      },
+      {
+        "position": 4,
+        "surface": "תֹאכְל֔וּ",
+        "phrase": "you shall eat",
+        "literal": "you(pl)-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/כֹ֖ל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: any; ESV: any; NASB: any)"
+      },
+      {
+        "position": 6,
+        "surface": "מוֹשְׁבֹתֵי/כֶ֑ם",
+        "phrase": "your dwellings",
+        "literal": "dwellings-your(pl)",
+        "source": "H4186 (KJV: dwellings; ESV: dwellings; NASB: dwellings)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/ע֖וֹף",
+        "phrase": "of bird",
+        "literal": "to-bird",
+        "source": "H5775 (KJV: fowl; ESV: bird; NASB: bird)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לַ/בְּהֵמָֽה",
+        "phrase": "or of animal",
+        "literal": "and-to-the-beast",
+        "source": "H929 (KJV: beast; ESV: animal; NASB: animal)"
+      }
+    ]
+  }
+]

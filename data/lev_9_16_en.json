@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּקְרֵ֖ב",
+        "phrase": "And he brought forward",
+        "literal": "and-he-caused-to-draw-near",
+        "source": "H7126; KJV: 'And he brought', ESV: 'presented', NASB: 'presented'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עֹלָ֑ה",
+        "phrase": "burnt offering",
+        "literal": "the-ascending-offering",
+        "source": "H5930; KJV: 'the burnt offering', ESV: 'the burnt offering', NASB: 'the burnt offering'"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יַּעֲשֶׂ֖/הָ",
+        "phrase": "and made it",
+        "literal": "and-he-made-it",
+        "source": "H6213; KJV: 'and offered it', ESV: 'and did', NASB: 'offered it'"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/מִּשְׁפָּֽט",
+        "phrase": "according to the ordinance",
+        "literal": "as-the-judgment",
+        "source": "H4941; KJV: 'according to the manner', ESV: 'according to the rule', NASB: 'according to the ordinance'"
+      }
+    ]
+  }
+]

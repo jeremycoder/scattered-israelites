@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 20,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֶרְוַ֨ת",
+        "phrase": "and the nakedness of",
+        "literal": "and-nakedness-of",
+        "source": "H6172: KJV 'nakedness'; ESV 'nakedness'; NASB 'nakedness'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲח֧וֹת",
+        "phrase": "sister",
+        "literal": "sister",
+        "source": "H269: KJV 'sister'; ESV 'sister'; NASB 'sister'"
+      },
+      {
+        "position": 3,
+        "surface": "אִמְּ/ךָ֛",
+        "phrase": "your mother",
+        "literal": "mother-your",
+        "source": "H517: KJV 'mother'; ESV 'mother'; NASB 'mother'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/אֲח֥וֹת",
+        "phrase": "or sister",
+        "literal": "and-sister",
+        "source": "H269: KJV 'nor ... sister'; ESV 'or ... sister'; NASB 'or ... sister'"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "H1: KJV 'father'; ESV 'father'; NASB 'father'"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'not'; ESV 'not'; NASB 'not'"
+      },
+      {
+        "position": 7,
+        "surface": "תְגַלֵּ֑ה",
+        "phrase": "you shall uncover",
+        "literal": "you-shall-uncover",
+        "source": "H1540: KJV 'uncover'; ESV 'uncover'; NASB 'uncover'"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֧י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588: KJV 'for'; ESV 'for'; NASB 'for'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁאֵר֛/וֹ",
+        "phrase": "his near kin",
+        "literal": "flesh-his",
+        "source": "H7607: KJV 'near kin'; ESV 'relative'; NASB 'blood relative'"
+      },
+      {
+        "position": 11,
+        "surface": "הֶעֱרָ֖ה",
+        "phrase": "he uncovers",
+        "literal": "he-has-uncovered",
+        "source": "H6168: KJV 'uncovereth'; ESV 'make naked'; NASB 'made naked'"
+      },
+      {
+        "position": 12,
+        "surface": "עֲוֺנָ֥/ם",
+        "phrase": "their iniquity",
+        "literal": "iniquity-their",
+        "source": "H5771: KJV 'iniquity'; ESV 'iniquity'; NASB 'guilt'"
+      },
+      {
+        "position": 13,
+        "surface": "יִשָּֽׂאוּ",
+        "phrase": "they shall bear",
+        "literal": "they-shall-bear",
+        "source": "H5375: KJV 'bear'; ESV 'bear'; NASB 'bear'"
+      }
+    ]
+  }
+]

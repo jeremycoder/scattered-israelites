@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֥ת",
+        "phrase": "and its",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'all his fat'; ESV/NASB: 'all its fat')"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV/NASB: 'all')"
+      },
+      {
+        "position": 3,
+        "surface": "חֶלְבּ֖/וֹ",
+        "phrase": "fat of it",
+        "literal": "fat-of-it",
+        "source": "H2459 (KJV: 'his fat'; ESV: 'its fat'; NASB: 'its fat')"
+      },
+      {
+        "position": 4,
+        "surface": "יָרִ֣ים",
+        "phrase": "he shall lift up",
+        "literal": "he-shall-lift-up",
+        "source": "H7311 (KJV: 'take'; ESV/NASB: 'remove')"
+      },
+      {
+        "position": 5,
+        "surface": "מִמֶּ֑/נּוּ",
+        "phrase": "from it",
+        "literal": "from-it",
+        "source": "H4480 (KJV: 'from him'; ESV/NASB: 'from it')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הִקְטִ֖יר",
+        "phrase": "and he shall offer up in smoke",
+        "literal": "and-he-shall-burn-up-in-smoke",
+        "source": "H6999 (KJV: 'burn'; ESV: 'offer it up in smoke'; NASB: 'offer it up in smoke')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּזְבֵּֽחָ/ה",
+        "phrase": "on the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV/ESV/NASB: 'the/altar')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָשָׂ֤ה",
+        "phrase": "and shall offer",
+        "literal": "and-he-shall-make/do",
+        "source": "H6213 (KJV: shall offer; ESV: shall offer; NASB: shall next offer)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵן֙",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: The priest; NASB: the priest)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ֣/חַטָּ֔את",
+        "phrase": "the sin offering",
+        "literal": "the-sin-offering",
+        "source": "H2403 (KJV: the sin offering; ESV: the sin offering; NASB: the sin offering)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/כִפֶּ֕ר",
+        "phrase": "and make atonement",
+        "literal": "and-he-shall-make-atonement",
+        "source": "H3722 (KJV: make an atonement; ESV: to make atonement; NASB: make atonement)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "for",
+        "literal": "upon/for",
+        "source": "H5921 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּטַּהֵ֖ר",
+        "phrase": "the one being cleansed",
+        "literal": "the-one-being-cleansed",
+        "source": "H2891 (KJV: him that is to be cleansed; ESV: him who is to be cleansed; NASB: the one to be cleansed)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/טֻּמְאָת֑/וֹ",
+        "phrase": "from his uncleanness",
+        "literal": "from-uncleanness-his",
+        "source": "H2932 (KJV: from his uncleanness; ESV: from his uncleanness; NASB: from his uncleanness)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אַחַ֖ר",
+        "phrase": "and afterward",
+        "literal": "and-after",
+        "source": "H310 (KJV: and afterward; ESV: And afterward; NASB: Then afterward)"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׁחַ֥ט",
+        "phrase": "he shall kill/slaughter",
+        "literal": "he-shall-slaughter",
+        "source": "H7819 (KJV: he shall kill; ESV: he shall kill; NASB: he shall slaughter)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/עֹלָֽה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascension-offering",
+        "source": "H5930 (KJV: the burnt offering; ESV: the burnt offering; NASB: the burnt offering)"
+      }
+    ]
+  }
+]

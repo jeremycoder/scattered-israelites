@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853; KJV 'And the', ESV 'the', NASB 'the'"
+      },
+      {
+        "position": 2,
+        "surface": "שׁ֣וֹק",
+        "phrase": "thigh",
+        "literal": "thigh",
+        "source": "H7785; KJV 'shoulder', ESV 'thigh', NASB 'thigh'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יָּמִ֔ין",
+        "phrase": "right",
+        "literal": "the-right",
+        "source": "H3225; KJV 'right', ESV 'right', NASB 'right'"
+      },
+      {
+        "position": 4,
+        "surface": "תִּתְּנ֥וּ",
+        "phrase": "you shall give",
+        "literal": "you(pl)-give",
+        "source": "H5414; KJV 'shall ye give', ESV 'give', NASB 'give'"
+      },
+      {
+        "position": 5,
+        "surface": "תְרוּמָ֖ה",
+        "phrase": "contribution",
+        "literal": "contribution",
+        "source": "H8641; KJV 'heave offering', ESV 'contribution', NASB 'contribution'"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/כֹּהֵ֑ן",
+        "phrase": "to the priest",
+        "literal": "to-the-priest",
+        "source": "H3548; KJV 'unto the priest', ESV 'to the priest', NASB 'to the priest'"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/זִּבְחֵ֖י",
+        "phrase": "from the sacrifices",
+        "literal": "from-sacrifices",
+        "source": "H2077; KJV 'of the sacrifices', ESV 'from the sacrifices', NASB 'from the sacrifices'"
+      },
+      {
+        "position": 8,
+        "surface": "שַׁלְמֵי/כֶֽם",
+        "phrase": "of your peace offerings",
+        "literal": "peace-offerings-your",
+        "source": "H8002; KJV 'of your peace offerings', ESV 'of your peace offerings', NASB 'of your peace offerings'"
+      }
+    ]
+  }
+]

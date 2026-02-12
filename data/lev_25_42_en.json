@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "עֲבָדַ֣/י",
+        "phrase": "my servants",
+        "literal": "servants-my",
+        "source": "H5650 (KJV: my servants; ESV: my servants; NASB: My servants)"
+      },
+      {
+        "position": 3,
+        "surface": "הֵ֔ם",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "H1992 (KJV: [are]; ESV: [are]; NASB: [are])"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which/who",
+        "source": "H834 (KJV: which; ESV: whom; NASB: whom)"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹצֵ֥אתִי",
+        "phrase": "I brought out",
+        "literal": "I-brought-out",
+        "source": "H3318 (KJV: I brought forth; ESV: I brought out; NASB: I brought out)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[direct-object]-them",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אֶ֣רֶץ",
+        "phrase": "out of the land",
+        "literal": "from-land",
+        "source": "H776 (KJV: out of the land; ESV: out of the land; NASB: from the land)"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: of Egypt; ESV: of Egypt; NASB: of Egypt)"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 10,
+        "surface": "יִמָּכְר֖וּ",
+        "phrase": "shall be sold",
+        "literal": "they-shall-be-sold",
+        "source": "H4376 (KJV: be sold; ESV: be sold; NASB: be sold)"
+      },
+      {
+        "position": 11,
+        "surface": "מִמְכֶּ֥רֶת",
+        "phrase": "as",
+        "literal": "sale",
+        "source": "H4466 (KJV: as bondmen; ESV: as slaves; NASB: in a slave sale)"
+      },
+      {
+        "position": 12,
+        "surface": "עָֽבֶד",
+        "phrase": "slaves",
+        "literal": "slave",
+        "source": "H5650 (KJV: bondmen; ESV: slaves; NASB: a slave sale)"
+      }
+    ]
+  }
+]

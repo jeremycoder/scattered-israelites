@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "but if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'But if'; ESV: 'But if'; NASB: 'But if')"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 3,
+        "surface": "תִשְׁמְע֖וּ",
+        "phrase": "you listen",
+        "literal": "you-hear",
+        "source": "H8085 (KJV: 'hearken'; ESV: 'listen'; NASB: 'listen')"
+      },
+      {
+        "position": 4,
+        "surface": "לִ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: 'unto me'; ESV: 'to me'; NASB: 'to Me')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'nor'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 6,
+        "surface": "תַעֲשׂ֔וּ",
+        "phrase": "you do",
+        "literal": "you-do",
+        "source": "H6213 (KJV: 'do'; ESV: 'do'; NASB: 'do')"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֥ת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּצְוֺ֖ת",
+        "phrase": "the commandments",
+        "literal": "the-commands",
+        "source": "H4687 (KJV: 'commandments'; ESV: 'commandments'; NASB: 'commandments')"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אֵֽלֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: 'these'; ESV: 'these'; NASB: 'these')"
+      }
+    ]
+  }
+]

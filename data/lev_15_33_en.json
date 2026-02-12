@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 15,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/דָּוָה֙",
+        "phrase": "and-the-woman-sick",
+        "literal": "and-the-sick-female",
+        "source": "H1739 (KJV: sick of her flowers; ESV: unwell; NASB: ill)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/נִדָּתָ֔/הּ",
+        "phrase": "in-her-menstrual-impurity",
+        "literal": "in-separation-of-her",
+        "source": "H5079 (KJV: of her flowers; ESV: menstrual impurity; NASB: menstrual impurity)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הַ/זָּב֙",
+        "phrase": "and-the-one-having-discharge",
+        "literal": "and-the-discharging-one",
+        "source": "H2100 (KJV: him that hath an issue; ESV: him who has a discharge; NASB: the one who has a discharge)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct-object-marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "זוֹב֔/וֹ",
+        "phrase": "his-discharge",
+        "literal": "discharge-of-him",
+        "source": "H2101 (KJV: an issue; ESV: a discharge; NASB: a discharge)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/זָּכָ֖ר",
+        "phrase": "to-the-male",
+        "literal": "to-the-male",
+        "source": "H2145 (KJV: the man; ESV: male; NASB: male)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לַ/נְּקֵבָ֑ה",
+        "phrase": "and-to-the-female",
+        "literal": "and-to-the-female",
+        "source": "H5347 (KJV: the woman; ESV: female; NASB: female)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/אִ֕ישׁ",
+        "phrase": "and-to-a-man",
+        "literal": "and-to-man",
+        "source": "H376 (KJV: him; ESV: the man; NASB: a man)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׁכַּ֖ב",
+        "phrase": "lies",
+        "literal": "lies",
+        "source": "H7901 (KJV: lieth; ESV: lies; NASB: lies)"
+      },
+      {
+        "position": 11,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 12,
+        "surface": "טְמֵאָֽה",
+        "phrase": "unclean-[female]",
+        "literal": "unclean-female",
+        "source": "H2931 (KJV: unclean; ESV: unclean; NASB: unclean)"
+      }
+    ]
+  }
+]

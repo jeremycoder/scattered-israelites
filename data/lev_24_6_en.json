@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שַׂמְתָּ֥",
+        "phrase": "and you shall set",
+        "literal": "and-you-shall-place",
+        "source": "H7760 (KJV: set; ESV: set; NASB: place)"
+      },
+      {
+        "position": 2,
+        "surface": "אוֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁתַּ֥יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV: two; ESV: two; NASB: two)"
+      },
+      {
+        "position": 4,
+        "surface": "מַֽעֲרָכ֖וֹת",
+        "phrase": "rows",
+        "literal": "rows",
+        "source": "H4634 (KJV: rows; ESV: rows; NASB: stacks)"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁ֣שׁ",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337 (KJV: six; ESV: six; NASB: six)"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/מַּעֲרָ֑כֶת",
+        "phrase": "[to] the row",
+        "literal": "the-row",
+        "source": "H4635 (KJV: a row; ESV: the row; NASB: the stack)"
+      },
+      {
+        "position": 7,
+        "surface": "עַ֛ל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שֻּׁלְחָ֥ן",
+        "phrase": "the table",
+        "literal": "the-table",
+        "source": "H7979 (KJV: the pure table; ESV: the pure table; NASB: the pure table)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/טָּהֹ֖ר",
+        "phrase": "the pure",
+        "literal": "the-pure",
+        "source": "H2889 (KJV: pure; ESV: pure; NASB: pure)"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

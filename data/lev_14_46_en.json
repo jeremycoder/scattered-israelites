@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/בָּא֙",
+        "phrase": "Moreover he who goes",
+        "literal": "and-the-coming-one",
+        "source": "H935 (KJV: goeth; ESV: enters; NASB: goes)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: the house; NASB: into)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בַּ֔יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: while; NASB: during)"
+      },
+      {
+        "position": 5,
+        "surface": "יְמֵ֖י",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "H3117 (KJV: while; ESV: while; NASB: time)"
+      },
+      {
+        "position": 6,
+        "surface": "הִסְגִּ֣יר",
+        "phrase": "that it is shut up",
+        "literal": "he-shut-up",
+        "source": "H5462 (KJV: shut up; ESV: shut up; NASB: quarantined)"
+      },
+      {
+        "position": 7,
+        "surface": "אֹת֑/וֹ",
+        "phrase": "it",
+        "literal": "[direct-object]-it",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: it)"
+      },
+      {
+        "position": 8,
+        "surface": "יִטְמָ֖א",
+        "phrase": "shall be unclean",
+        "literal": "he-will-become-unclean",
+        "source": "H2930 (KJV: unclean; ESV: unclean; NASB: unclean)"
+      },
+      {
+        "position": 9,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עָֽרֶב",
+        "phrase": "the evening",
+        "literal": "the-evening",
+        "source": "H6153 (KJV: even; ESV: evening; NASB: evening)"
+      }
+    ]
+  }
+]

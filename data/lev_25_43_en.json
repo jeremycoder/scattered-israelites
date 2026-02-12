@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not; ESV: not; NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תִרְדֶּ֥ה",
+        "phrase": "you-shall-rule",
+        "literal": "you-shall-rule",
+        "source": "H7287; KJV: rule; ESV: rule; NASB: rule"
+      },
+      {
+        "position": 3,
+        "surface": "ב֖/וֹ",
+        "phrase": "over-him",
+        "literal": "in/on-him",
+        "source": "; KJV: over him; ESV: over him; NASB: over him"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/פָ֑רֶךְ",
+        "phrase": "with-rigor",
+        "literal": "in-rigor",
+        "source": "H6531; KJV: rigour; ESV: ruthlessly; NASB: harshness"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יָרֵ֖אתָ",
+        "phrase": "and-you-shall-fear",
+        "literal": "and-you-shall-fear",
+        "source": "H3372; KJV: fear; ESV: fear; NASB: revere"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֱלֹהֶֽי/ךָ",
+        "phrase": "from-God-your",
+        "literal": "from-God-your",
+        "source": "H430; KJV: thy God; ESV: your God; NASB: your God"
+      }
+    ]
+  }
+]

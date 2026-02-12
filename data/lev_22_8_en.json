@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נְבֵלָ֧ה",
+        "phrase": "carcass",
+        "literal": "carcass-fs",
+        "source": "H5038 (KJV: dieth of itself; ESV: dies of itself; NASB: dies)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/טְרֵפָ֛ה",
+        "phrase": "or torn-thing",
+        "literal": "and-torn.fs",
+        "source": "H2966 (KJV: torn with beasts; ESV: torn by beasts; NASB: torn by beasts)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 4,
+        "surface": "יֹאכַ֖ל",
+        "phrase": "he shall eat",
+        "literal": "he-will-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/טָמְאָה",
+        "phrase": "to defile",
+        "literal": "to-defile.inf",
+        "source": "H2930 (KJV: defile; ESV: make himself unclean; NASB: becoming unclean)"
+      },
+      {
+        "position": 6,
+        "surface": "בָ֑/הּ",
+        "phrase": "himself by it",
+        "literal": "in-it.fs",
+        "source": " (KJV: therewith; ESV: by it; NASB: by it)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      }
+    ]
+  }
+]

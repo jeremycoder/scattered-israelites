@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 49,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָקַ֛ח",
+        "phrase": "and he shall take",
+        "literal": "and-he-takes",
+        "source": "H3947 (KJV: 'And he shall take'; ESV: 'he shall take'; NASB: 'he shall take')"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/חַטֵּ֥א",
+        "phrase": "to cleanse",
+        "literal": "to-make-sin",
+        "source": "H2398 (KJV: 'to cleanse'; ESV: 'for the cleansing'; NASB: 'To cleanse')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בַּ֖יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: 'the house'; ESV: 'the house'; NASB: 'the house')"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁתֵּ֣י",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV: 'two'; ESV: 'two'; NASB: 'two')"
+      },
+      {
+        "position": 6,
+        "surface": "צִפֳּרִ֑ים",
+        "phrase": "birds",
+        "literal": "birds",
+        "source": "H6833 (KJV: 'birds'; ESV: 'small birds'; NASB: 'birds')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עֵ֣ץ",
+        "phrase": "and cedar",
+        "literal": "and-tree",
+        "source": "H6086 (KJV: 'and cedar wood'; ESV: 'with cedarwood'; NASB: 'and cedar wood')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶ֔רֶז",
+        "phrase": "wood",
+        "literal": "cedar",
+        "source": "H730 (KJV: 'wood'; ESV: 'wood'; NASB: 'wood')"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/שְׁנִ֥י",
+        "phrase": "and scarlet",
+        "literal": "and-crimson",
+        "source": "H8144 (KJV: 'and scarlet'; ESV: 'and scarlet yarn'; NASB: 'and a scarlet string')"
+      },
+      {
+        "position": 10,
+        "surface": "תוֹלַ֖עַת",
+        "phrase": "yarn",
+        "literal": "worm-of",
+        "source": "H8438 (KJV: 'scarlet'; ESV: 'yarn'; NASB: 'string')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֵזֹֽב",
+        "phrase": "and hyssop",
+        "literal": "and-hyssop",
+        "source": "H231 (KJV: 'and hyssop'; ESV: 'and hyssop'; NASB: 'and hyssop')"
+      }
+    ]
+  }
+]

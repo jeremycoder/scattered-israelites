@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְטִ֨יר",
+        "phrase": "and he shall burn",
+        "literal": "and-he-causes-to-ascend-in-smoke",
+        "source": "H6999 (KJV: burn; ESV: burn; NASB: offer them up)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֤/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כֹּהֵן֙",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מִּזְבֵּ֔חָ/ה",
+        "phrase": "the altar",
+        "literal": "the-altar-of",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 5,
+        "surface": "אִשֶּׁ֖ה",
+        "phrase": "offering",
+        "literal": "offering-by-fire",
+        "source": "H801 (KJV: offering made by fire; ESV: food offering; NASB: offering by fire)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אָשָׁ֖ם",
+        "phrase": "guilt offering",
+        "literal": "guilt-offering",
+        "source": "H817 (KJV: trespass; ESV: guilt; NASB: guilt)"
+      },
+      {
+        "position": 8,
+        "surface": "הֽוּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "H1931 (KJV: it is; ESV: it is; NASB: it is)"
+      }
+    ]
+  }
+]

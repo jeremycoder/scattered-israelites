@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בָשָׂ֕ר",
+        "phrase": "And flesh",
+        "literal": "and-flesh",
+        "source": "H1320 (KJV: flesh; ESV: body; NASB: body)"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "when",
+        "source": "H3588 (KJV: when; ESV: if; NASB: when)"
+      },
+      {
+        "position": 3,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "there is",
+        "literal": "there-is",
+        "source": "H1961 (KJV: be; ESV: is; NASB: is)"
+      },
+      {
+        "position": 4,
+        "surface": "בֽ/וֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": " (KJV: in; ESV: in; NASB: in)"
+      },
+      {
+        "position": 5,
+        "surface": "בְ/עֹר֖/וֹ",
+        "phrase": "on its skin",
+        "literal": "in-skin-its",
+        "source": "H5785 (KJV: skin; ESV: skin; NASB: skin)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁחִ֑ין",
+        "phrase": "a boil",
+        "literal": "boil",
+        "source": "H7822 (KJV: boil; ESV: boil; NASB: boil)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/נִרְפָּֽא",
+        "phrase": "and it is healed",
+        "literal": "and-is-healed",
+        "source": "H7495 (KJV: healed; ESV: healed; NASB: healed)"
+      }
+    ]
+  }
+]

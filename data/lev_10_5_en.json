@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יִּקְרְב֗וּ",
+        "phrase": "they came near",
+        "literal": "and-they-came-near",
+        "source": "H7126; KJV: went near, ESV/NASB: came forward"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יִּשָּׂאֻ/ם֙",
+        "phrase": "and carried them",
+        "literal": "and-they-carried-them",
+        "source": "H5375; KJV: carried them, ESV/NASB: carried them"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/כֻתֳּנֹתָ֔/ם",
+        "phrase": "in their tunics",
+        "literal": "in-tunics-of-them",
+        "source": "H3801; KJV: in their coats, ESV/NASB: in their tunics"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB: (to/part of phrase)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/ח֖וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "H2351; KJV: out, ESV/NASB: outside"
+      },
+      {
+        "position": 6,
+        "surface": "לַֽ/מַּחֲנֶ֑ה",
+        "phrase": "of the camp",
+        "literal": "to-the-camp",
+        "source": "H4264; KJV/ESV/NASB: of the camp"
+      },
+      {
+        "position": 7,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834; KJV/ESV/NASB: as"
+      },
+      {
+        "position": 8,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "had said",
+        "literal": "he-had-spoken",
+        "source": "H1696; KJV/ESV/NASB: had said"
+      },
+      {
+        "position": 9,
+        "surface": "מֹשֶֽׁה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV/ESV/NASB: Moses"
+      }
+    ]
+  }
+]

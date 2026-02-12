@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428 (KJV: These; ESV: These; NASB: These)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מִּצְוֺ֗ת",
+        "phrase": "are the commandments",
+        "literal": "the-commandments",
+        "source": "H4687 (KJV: commandments; ESV: commandments; NASB: commandments)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 4,
+        "surface": "צִוָּ֧ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/הַ֖ר",
+        "phrase": "on the mountain",
+        "literal": "in/on-the-mountain",
+        "source": "H2022 (KJV: in mount; ESV: on Mount; NASB: at Mount)"
+      },
+      {
+        "position": 12,
+        "surface": "סִינָֽי",
+        "phrase": "Sinai",
+        "literal": "Sinai",
+        "source": "H5514 (KJV: Sinai; ESV: Sinai; NASB: Sinai)"
+      }
+    ]
+  }
+]

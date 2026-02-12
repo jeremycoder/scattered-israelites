@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֚י",
+        "phrase": "but",
+        "literal": "if",
+        "source": "H3588 (KJV: but; ESV: except; NASB: only)"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: if; ESV: for; NASB: for)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/שְׁאֵר֔/וֹ",
+        "phrase": "for his kin",
+        "literal": "to-flesh-his",
+        "source": "H7607 (KJV: for his kin; ESV: for his relative; NASB: for his relative)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קָּרֹ֖ב",
+        "phrase": "that is near",
+        "literal": "the-near",
+        "source": "H7138 (KJV: near unto him; ESV: who is near to him; NASB: who is near to him)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵלָ֑י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אִמּ֣/וֹ",
+        "phrase": "for his mother",
+        "literal": "to-mother-his",
+        "source": "H517 (KJV: for his mother; ESV: for his mother; NASB: for his mother)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/לְ/אָבִ֔י/ו",
+        "phrase": "and for his father",
+        "literal": "and-to-father-his",
+        "source": "H1 (KJV: for his father; ESV: for his father; NASB: for his father)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לִ/בְנ֥/וֹ",
+        "phrase": "and for his son",
+        "literal": "and-to-son-his",
+        "source": "H1121 (KJV: for his son; ESV: for his son; NASB: for his son)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/לְ/בִתּ֖/וֹ",
+        "phrase": "and for his daughter",
+        "literal": "and-to-daughter-his",
+        "source": "H1323 (KJV: for his daughter; ESV: for his daughter; NASB: for his daughter)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/לְ/אָחִֽי/ו",
+        "phrase": "and for his brother",
+        "literal": "and-to-brother-his",
+        "source": "H251 (KJV: for his brother; ESV: for his brother; NASB: for his brother)"
+      }
+    ]
+  }
+]

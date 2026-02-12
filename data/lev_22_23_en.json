@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שׁ֥וֹר",
+        "phrase": "or an ox",
+        "literal": "and-ox",
+        "source": "H7794; KJV: bullock, ESV/NIV/NASB: ox"
+      },
+      {
+        "position": 2,
+        "surface": "וָ/שֶׂ֖ה",
+        "phrase": "or a sheep",
+        "literal": "and-sheep",
+        "source": "H7716; KJV: lamb, ESV/NIV/NASB: sheep"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂר֣וּעַ",
+        "phrase": "deformed",
+        "literal": "having-limb-too-long",
+        "source": "H8311; KJV: superfluous, ESV: deformed, NASB: elongated"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/קָל֑וּט",
+        "phrase": "or stunted",
+        "literal": "and-having-limb-short",
+        "source": "H7038; KJV: lacking, ESV: stunted, NASB: stunted"
+      },
+      {
+        "position": 5,
+        "surface": "נְדָבָה֙",
+        "phrase": "as a freewill offering",
+        "literal": "freewill-offering",
+        "source": "H5071; KJV/ESV/NASB: freewill offering"
+      },
+      {
+        "position": 6,
+        "surface": "תַּעֲשֶׂ֣ה",
+        "phrase": "you may offer",
+        "literal": "you-may-make",
+        "source": "H6213; KJV: offer, ESV/NASB: present"
+      },
+      {
+        "position": 7,
+        "surface": "אֹת֔/וֹ",
+        "phrase": "it",
+        "literal": "it-him",
+        "source": "H853; KJV/ESV/NASB: it (object marker)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/נֵ֖דֶר",
+        "phrase": "but for a vow",
+        "literal": "and-for-vow",
+        "source": "H5088; KJV/ESV/NASB: vow"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 10,
+        "surface": "יֵרָצֶֽה",
+        "phrase": "will it be accepted",
+        "literal": "it-will-be-accepted",
+        "source": "H7521; KJV: accepted, ESV/NASB: accepted"
+      }
+    ]
+  }
+]

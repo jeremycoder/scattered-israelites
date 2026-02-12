@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁחַ֖ט",
+        "phrase": "and he shall slaughter",
+        "literal": "and-he-slaughters",
+        "source": "H7819 (KJV: kill; ESV: kill; NASB: slaughter)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/צִּפֹּ֣ר",
+        "phrase": "the bird",
+        "literal": "the-bird",
+        "source": "H6833 (KJV: the birds; ESV: the birds; NASB: the bird)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֶחָ֑ת",
+        "phrase": "the one",
+        "literal": "the-one-F",
+        "source": "H259 (KJV: the one; ESV: one; NASB: the one)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 (KJV: in; ESV: in; NASB: in)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּלִי",
+        "phrase": "vessel",
+        "literal": "vessel",
+        "source": "H3627 (KJV: vessel; ESV: vessel; NASB: vessel)"
+      },
+      {
+        "position": 7,
+        "surface": "חֶ֖רֶשׂ",
+        "phrase": "earthen",
+        "literal": "earthen",
+        "source": "H2789 (KJV: earthen; ESV: earthenware; NASB: earthenware)"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 9,
+        "surface": "מַ֥יִם",
+        "phrase": "water",
+        "literal": "waters",
+        "source": "H4325 (KJV: water; ESV: water; NASB: water)"
+      },
+      {
+        "position": 10,
+        "surface": "חַיִּֽים",
+        "phrase": "running",
+        "literal": "living",
+        "source": "H2416 (KJV: running; ESV: fresh; NASB: running)"
+      }
+    ]
+  }
+]

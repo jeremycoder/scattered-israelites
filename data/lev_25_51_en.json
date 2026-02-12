@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 51,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "ע֥וֹד",
+        "phrase": "yet",
+        "literal": "still",
+        "source": "H5750 (KJV: yet; ESV: still; NASB: still)"
+      },
+      {
+        "position": 3,
+        "surface": "רַבּ֖וֹת",
+        "phrase": "many",
+        "literal": "many-f",
+        "source": "H7227 (KJV: many; ESV: many; NASB: many)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/שָּׁנִ֑ים",
+        "phrase": "years",
+        "literal": "in-the-years",
+        "source": "H8141 (KJV: years; ESV: years; NASB: years)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/פִי/הֶן֙",
+        "phrase": "according to them",
+        "literal": "to-mouth-of-them",
+        "source": "H6310 (KJV: according unto them; ESV: proportionately; NASB: in proportion)"
+      },
+      {
+        "position": 6,
+        "surface": "יָשִׁ֣יב",
+        "phrase": "he shall give back",
+        "literal": "he-shall-return",
+        "source": "H7725 (KJV: give again; ESV: pay; NASB: refund)"
+      },
+      {
+        "position": 7,
+        "surface": "גְּאֻלָּת֔/וֹ",
+        "phrase": "the price of his redemption",
+        "literal": "redemption-his",
+        "source": "H1353 (KJV: price of his redemption; ESV: his redemption; NASB: his own redemption)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/כֶּ֖סֶף",
+        "phrase": "out of the money",
+        "literal": "from-silver",
+        "source": "H3701 (KJV: money; ESV: sale price; NASB: purchase price)"
+      },
+      {
+        "position": 9,
+        "surface": "מִקְנָתֽ/וֹ",
+        "phrase": "of his purchase",
+        "literal": "purchase-his",
+        "source": "H4736 (KJV: that he was bought for; ESV: his sale price; NASB: his purchase price)"
+      }
+    ]
+  }
+]

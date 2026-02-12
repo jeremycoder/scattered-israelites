@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/רְדַפְתֶּ֖ם",
+        "phrase": "and you shall chase",
+        "literal": "and-you-shall-pursue",
+        "source": "H7291; KJV: chase, ESV: chase, NASB: chase"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "your",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "אֹיְבֵי/כֶ֑ם",
+        "phrase": "enemies",
+        "literal": "enemies-your",
+        "source": "H341; KJV: enemies, ESV: enemies, NASB: enemies"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נָפְל֥וּ",
+        "phrase": "and they shall fall",
+        "literal": "and-they-shall-fall",
+        "source": "H5307; KJV: fall, ESV: fall, NASB: fall"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵי/כֶ֖ם",
+        "phrase": "before you",
+        "literal": "to-before-you",
+        "source": "H6440; KJV: before you, ESV: before you, NASB: before you"
+      },
+      {
+        "position": 6,
+        "surface": "לֶ/חָֽרֶב",
+        "phrase": "by the sword",
+        "literal": "to-sword",
+        "source": "H2719; KJV: by the sword, ESV: by the sword, NASB: by the sword"
+      }
+    ]
+  }
+]

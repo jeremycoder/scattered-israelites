@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/רָאָה֙",
+        "phrase": "and the priest shall see",
+        "literal": "and-he-sees",
+        "source": "H7200 (KJV: shall look; ESV: shall look; NASB: shall look)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הִנֵּ֛ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV: and, behold; ESV: and behold; NASB: and behold)"
+      },
+      {
+        "position": 4,
+        "surface": "פָּשְׂתָ֥ה",
+        "phrase": "it has spread",
+        "literal": "it-has-spread",
+        "source": "H6581 (KJV: the scab spread; ESV: the scab has spread; NASB: the infection has spread)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּסְפַּ֖חַת",
+        "phrase": "the scab",
+        "literal": "the-scab",
+        "source": "H4556 (KJV: the scab; ESV: the scab; NASB: the infection)"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ/ע֑וֹר",
+        "phrase": "on the skin",
+        "literal": "in-the-skin",
+        "source": "H5785 (KJV: on the skin; ESV: on the skin; NASB: on the skin)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/טִמְּא֥/וֹ",
+        "phrase": "then he shall pronounce him unclean",
+        "literal": "and-defile-him",
+        "source": "H2930 (KJV: pronounce him unclean; ESV: pronounce him unclean; NASB: pronounce him unclean)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כֹּהֵ֖ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      },
+      {
+        "position": 9,
+        "surface": "צָרַעַת",
+        "phrase": "leprosy",
+        "literal": "leprosy",
+        "source": "H6883 (KJV: leprosy; ESV: leprosy; NASB: leprous disease)"
+      },
+      {
+        "position": 10,
+        "surface": "הִֽוא",
+        "phrase": "it is",
+        "literal": "it-is",
+        "source": "H1931 (KJV: it is; ESV: it is; NASB: it is)"
+      }
+    ]
+  }
+]

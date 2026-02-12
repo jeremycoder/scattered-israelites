@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 17,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם֙",
+        "phrase": "but if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'if', ESV: 'if', NASB: 'if')"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not', ESV: 'not', NASB: 'not')"
+      },
+      {
+        "position": 3,
+        "surface": "יְכַבֵּ֔ס",
+        "phrase": "he washes",
+        "literal": "he-washes",
+        "source": "H3526 (KJV: 'wash', ESV: 'wash', NASB: 'wash')"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְשָׂר֖/וֹ",
+        "phrase": "his flesh",
+        "literal": "and-his-flesh",
+        "source": "H1320 (KJV: 'flesh', ESV: 'flesh', NASB: 'body')"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not', ESV: 'not', NASB: 'not')"
+      },
+      {
+        "position": 6,
+        "surface": "יִרְחָ֑ץ",
+        "phrase": "he bathes",
+        "literal": "he-bathes",
+        "source": "H7364 (KJV: 'bathe', ESV: 'bathe', NASB: 'bathe')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/נָשָׂ֖א",
+        "phrase": "then he shall bear",
+        "literal": "and-bears",
+        "source": "H5375 (KJV: 'bear', ESV: 'bear', NASB: 'bear')"
+      },
+      {
+        "position": 8,
+        "surface": "עֲוֺנֽ/וֹ",
+        "phrase": "his iniquity",
+        "literal": "his-iniquity",
+        "source": "H5771 (KJV: 'iniquity', ESV: 'iniquity', NASB: 'guilt')"
+      }
+    ]
+  }
+]

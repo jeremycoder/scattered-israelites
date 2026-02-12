@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צַ֤ו",
+        "phrase": "Command",
+        "literal": "command!",
+        "source": "H6680 (KJV: Command; ESV: Command; NASB: Command)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶֽת",
+        "phrase": "direct.object.marker",
+        "literal": "[-direct.object]",
+        "source": "H853 (KJV: [obj]; ESV: [obj]; NASB: [obj])"
+      },
+      {
+        "position": 3,
+        "surface": "אַהֲרֹן֙",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[-direct.object]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "בָּנָ֣י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: his sons; ESV: his sons; NASB: his sons)"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 7,
+        "surface": "זֹ֥את",
+        "phrase": "This",
+        "literal": "this",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 8,
+        "surface": "תּוֹרַ֖ת",
+        "phrase": "law.of",
+        "literal": "instruction-of",
+        "source": "H8451 (KJV: the law of; ESV: the law of; NASB: the law of)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֹלָ֑ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascending-offering",
+        "source": "H5930 (KJV: the burnt offering; ESV: the burnt offering; NASB: the burnt offering)"
+      },
+      {
+        "position": 10,
+        "surface": "הִ֣וא",
+        "phrase": "it.is",
+        "literal": "she",
+        "source": "H1931 (KJV: It is; ESV: It is; NASB: It is)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עֹלָ֡ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascending-offering",
+        "source": "H5930 (KJV: the burnt offering; ESV: the burnt offering; NASB: the burnt offering)"
+      },
+      {
+        "position": 12,
+        "surface": "עַל֩",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 13,
+        "surface": "מוֹקְדָ֨ה",
+        "phrase": "the hearth",
+        "literal": "burning-place",
+        "source": "H4169 (KJV: the burning; ESV: the hearth; NASB: the hearth)"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/מִּזְבֵּ֤חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: the altar; ESV: the altar; NASB: the altar)"
+      },
+      {
+        "position": 16,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/לַּ֨יְלָה֙",
+        "phrase": "the night",
+        "literal": "the-night",
+        "source": "H3915 (KJV: the night; ESV: the night; NASB: all night)"
+      },
+      {
+        "position": 18,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/בֹּ֔קֶר",
+        "phrase": "the morning",
+        "literal": "the-morning",
+        "source": "H1242 (KJV: the morning; ESV: the morning; NASB: the morning)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/אֵ֥שׁ",
+        "phrase": "and-the fire",
+        "literal": "and-fire",
+        "source": "H784 (KJV: the fire; ESV: the fire; NASB: the fire)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/מִּזְבֵּ֖חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: of the altar; ESV: on the altar; NASB: on the altar)"
+      },
+      {
+        "position": 22,
+        "surface": "תּ֥וּקַד",
+        "phrase": "shall be kept burning",
+        "literal": "shall be burned",
+        "source": "H3344 (KJV: shall be always burning; ESV: shall be kept burning; NASB: shall be kept burning)"
+      },
+      {
+        "position": 23,
+        "surface": "בּֽ/וֹ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": " (KJV: in; ESV: on it; NASB: on it)"
+      }
+    ]
+  }
+]

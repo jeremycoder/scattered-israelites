@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "And these",
+        "literal": "and-obj",
+        "source": "H853 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֨לֶּה֙",
+        "phrase": "these",
+        "literal": "these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 3,
+        "surface": "תְּשַׁקְּצ֣וּ",
+        "phrase": "you shall detest",
+        "literal": "you-shall-hold-in-abomination",
+        "source": "H8262 (KJV: have in abomination; ESV: detest; NASB: detest)"
+      },
+      {
+        "position": 4,
+        "surface": "מִן",
+        "phrase": "among",
+        "literal": "from",
+        "source": "H4480 (KJV: among; ESV: among; NASB: among)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/ע֔וֹף",
+        "phrase": "the birds",
+        "literal": "the-birds",
+        "source": "H5775 (KJV: fowls; ESV: birds; NASB: birds)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "יֵאָכְל֖וּ",
+        "phrase": "they shall be eaten",
+        "literal": "they-shall-be-eaten",
+        "source": "H398 (KJV: be eaten; ESV: be eaten; NASB: be eaten)"
+      },
+      {
+        "position": 8,
+        "surface": "שֶׁ֣קֶץ",
+        "phrase": "an abomination",
+        "literal": "abomination",
+        "source": "H8263 (KJV: abomination; ESV: detestable; NASB: abhorrent)"
+      },
+      {
+        "position": 9,
+        "surface": "הֵ֑ם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 (KJV: they; ESV: they; NASB: they)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "obj",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/נֶּ֨שֶׁר֙",
+        "phrase": "the eagle",
+        "literal": "the-eagle",
+        "source": "H5404 (KJV: eagle; ESV: eagle; NASB: eagle)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/פֶּ֔רֶס",
+        "phrase": "the vulture",
+        "literal": "the-vulture",
+        "source": "H6538 (KJV: ossifrage; ESV: bearded vulture; NASB: vulture)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 15,
+        "surface": "הָ/עָזְנִיָּֽה",
+        "phrase": "the osprey",
+        "literal": "the-osprey",
+        "source": "H5822 (KJV: ospray; ESV: black vulture; NASB: buzzard)"
+      }
+    ]
+  }
+]

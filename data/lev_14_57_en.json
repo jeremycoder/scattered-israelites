@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 57,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/הוֹרֹ֕ת",
+        "phrase": "to teach",
+        "literal": "to-cause-to-know",
+        "source": "H3384 (KJV: to teach; ESV: to show; NASB: to teach)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/י֥וֹם",
+        "phrase": "on the day",
+        "literal": "in-day-of",
+        "source": "H3117 (KJV: in the day; ESV: when; NASB: on the day)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/טָּמֵ֖א",
+        "phrase": "the unclean",
+        "literal": "the-unclean",
+        "source": "H2931 (KJV: unclean; ESV: unclean; NASB: unclean)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְ/י֣וֹם",
+        "phrase": "and on the day",
+        "literal": "and-in-day-of",
+        "source": "H3117 (KJV: and in the day; ESV: and when; NASB: and on the day)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/טָּהֹ֑ר",
+        "phrase": "the clean",
+        "literal": "the-clean",
+        "source": "H2889 (KJV: clean; ESV: clean; NASB: clean)"
+      },
+      {
+        "position": 6,
+        "surface": "זֹ֥את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 7,
+        "surface": "תּוֹרַ֖ת",
+        "phrase": "law of",
+        "literal": "instruction-of",
+        "source": "H8451 (KJV: law; ESV: law; NASB: law)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/צָּרָֽעַת",
+        "phrase": "the leprosy",
+        "literal": "the-leprosy",
+        "source": "H6883 (KJV: leprosy; ESV: leprosy; NASB: leprosy)"
+      }
+    ]
+  }
+]

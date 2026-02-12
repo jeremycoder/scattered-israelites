@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 2,
+        "surface": "מִנְחָ֥ה",
+        "phrase": "meal offering",
+        "literal": "meal-offering",
+        "source": "H4503 (KJV: oblation, meat offering; ESV: grain offering; NASB: grain offering)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: -; ESV: on; NASB: on)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/מַּחֲבַ֖ת",
+        "phrase": "the pan",
+        "literal": "the-pan",
+        "source": "H4227 (KJV: pan; ESV: griddle; NASB: griddle)"
+      },
+      {
+        "position": 5,
+        "surface": "קָרְבָּנֶ֑/ךָ",
+        "phrase": "your offering",
+        "literal": "offering-your",
+        "source": "H7133 (KJV: oblation, thy; ESV: offering; NASB: offering)"
+      },
+      {
+        "position": 6,
+        "surface": "סֹ֛לֶת",
+        "phrase": "fine flour",
+        "literal": "fine-flour",
+        "source": "H5560 (KJV: fine flour; ESV: fine flour; NASB: fine flour)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּלוּלָ֥ה",
+        "phrase": "mixed",
+        "literal": "mixed",
+        "source": "H1101 (KJV: mingled; ESV: mixed; NASB: mixed)"
+      },
+      {
+        "position": 8,
+        "surface": "בַ/שֶּׁ֖מֶן",
+        "phrase": "with oil",
+        "literal": "in-the-oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 9,
+        "surface": "מַצָּ֥ה",
+        "phrase": "unleavened",
+        "literal": "unleavened",
+        "source": "H4682 (KJV: unleavened; ESV: unleavened; NASB: unleavened)"
+      },
+      {
+        "position": 10,
+        "surface": "תִהְיֶֽה",
+        "phrase": "it shall be",
+        "literal": "it-shall-be",
+        "source": "H1961 (KJV: it shall be; ESV: it shall be; NASB: it shall be)"
+      }
+    ]
+  }
+]

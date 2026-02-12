@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And when",
+        "literal": "and-if",
+        "source": "H3588 (KJV: 'when ye will offer'; ESV: 'when you sacrifice'; NASB: 'When you sacrifice')"
+      },
+      {
+        "position": 2,
+        "surface": "תִזְבְּח֥וּ",
+        "phrase": "you sacrifice",
+        "literal": "you(pl)-sacrifice",
+        "source": "H2076 (KJV: 'offer'; ESV: 'sacrifice'; NASB: 'sacrifice')"
+      },
+      {
+        "position": 3,
+        "surface": "זֶֽבַח",
+        "phrase": "a sacrifice",
+        "literal": "sacrifice",
+        "source": "H2077 (KJV: 'sacrifice'; ESV: 'sacrifice'; NASB: 'sacrifice')"
+      },
+      {
+        "position": 4,
+        "surface": "תּוֹדָ֖ה",
+        "phrase": "of thanksgiving",
+        "literal": "thanksgiving",
+        "source": "H8426 (KJV: 'thanksgiving'; ESV: 'thanksgiving'; NASB: 'thanksgiving')"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: 'unto the LORD'; ESV: 'to the LORD'; NASB: 'to the LORD')"
+      },
+      {
+        "position": 6,
+        "surface": "לִֽ/רְצֹנְ/כֶ֖ם",
+        "phrase": "for your acceptance",
+        "literal": "for-pleasure-your(pl)",
+        "source": "H7522 (KJV: 'at your own will'; ESV: 'so that you may be accepted'; NASB: 'so that you may be accepted')"
+      },
+      {
+        "position": 7,
+        "surface": "תִּזְבָּֽחוּ",
+        "phrase": "you shall sacrifice it",
+        "literal": "you(pl)-sacrifice",
+        "source": "H2076 (KJV: 'offer it'; ESV: 'sacrifice it'; NASB: 'sacrifice it')"
+      }
+    ]
+  }
+]

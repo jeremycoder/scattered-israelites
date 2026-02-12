@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'Thou shalt not'; ESV 'you shall not'; NASB 'You shall not'"
+      },
+      {
+        "position": 2,
+        "surface": "תִקֹּ֤ם",
+        "phrase": "avenge",
+        "literal": "you(shall)_revenge",
+        "source": "H5358: KJV 'avenge'; ESV 'take vengeance'; NASB 'take vengeance'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לֹֽא",
+        "phrase": "or not",
+        "literal": "and-not",
+        "source": "H3808: KJV 'nor'; ESV 'or'; NASB 'or'"
+      },
+      {
+        "position": 4,
+        "surface": "תִטֹּר֙",
+        "phrase": "bear grudge",
+        "literal": "you(shall)_guard",
+        "source": "H5201: KJV 'bear any grudge'; ESV 'bear any grudge'; NASB 'bear a grudge'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[object marker]",
+        "literal": "[direct_object_marker]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons_of",
+        "source": "H1121: KJV 'children'; ESV 'sons'; NASB 'sons'"
+      },
+      {
+        "position": 7,
+        "surface": "עַמֶּ֔/ךָ",
+        "phrase": "your people",
+        "literal": "people-your",
+        "source": "H5971: KJV 'thy people'; ESV 'your people'; NASB 'your people'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אָֽהַבְתָּ֥",
+        "phrase": "and you shall love",
+        "literal": "and-you_shall_love",
+        "source": "H157: KJV 'thou shalt love'; ESV 'you shall love'; NASB 'you shall love'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/רֵעֲ/ךָ֖",
+        "phrase": "your neighbor",
+        "literal": "to-neighbor-your",
+        "source": "H7453: KJV 'thy neighbour'; ESV 'your neighbor'; NASB 'your neighbor'"
+      },
+      {
+        "position": 10,
+        "surface": "כָּמ֑וֹ/ךָ",
+        "phrase": "as yourself",
+        "literal": "like-you",
+        "source": "H3644: KJV 'as thyself'; ESV 'as yourself'; NASB 'as yourself'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589: KJV 'I'; ESV 'I'; NASB 'I'"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'the LORD'; ESV 'the LORD'; NASB 'the LORD'"
+      }
+    ]
+  }
+]

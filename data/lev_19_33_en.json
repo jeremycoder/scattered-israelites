@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588 (KJV: And if; ESV: When; NASB: When)"
+      },
+      {
+        "position": 2,
+        "surface": "יָג֧וּר",
+        "phrase": "sojourns",
+        "literal": "he-sojourns",
+        "source": "H1481 (KJV: sojourn; ESV: resides; NASB: sojourns)"
+      },
+      {
+        "position": 3,
+        "surface": "אִתְּ/ךָ֛",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H854 (KJV: with thee; ESV: with you; NASB: with you)"
+      },
+      {
+        "position": 4,
+        "surface": "גֵּ֖ר",
+        "phrase": "a stranger",
+        "literal": "stranger",
+        "source": "H1616 (KJV: stranger; ESV: stranger; NASB: stranger)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אַרְצְ/כֶ֑ם",
+        "phrase": "in your land",
+        "literal": "in-land-your",
+        "source": "H776 (KJV: in your land; ESV: in your land; NASB: in your land)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "תוֹנ֖וּ",
+        "phrase": "you shall wrong",
+        "literal": "you-shall-wrong",
+        "source": "H3238 (KJV: vex; ESV: do wrong; NASB: wrong)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "H853 (KJV: him; ESV: him; NASB: him)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֨ם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518; KJV: And if; ESV: And if; NASB: And if"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/אֵ֔לֶּה",
+        "phrase": "by these",
+        "literal": "in-these",
+        "source": "H428; KJV: by these things; ESV: by this discipline; NASB: by these things"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not; ESV: not; NASB: not"
+      },
+      {
+        "position": 4,
+        "surface": "תִוָּסְר֖וּ",
+        "phrase": "you are chastised",
+        "literal": "you-are-chastised",
+        "source": "H3256; KJV: will not be reformed; ESV: are not turned; NASB: are not turned"
+      },
+      {
+        "position": 5,
+        "surface": "לִ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "''; KJV: by me; ESV: to me; NASB: to Me"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/הֲלַכְתֶּ֥ם",
+        "phrase": "but will walk",
+        "literal": "and-you-walk",
+        "source": "H1980; KJV: will walk; ESV: walk; NASB: act"
+      },
+      {
+        "position": 7,
+        "surface": "עִמִּ֖/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "H5973; KJV: contrary unto me; ESV: contrary to me; NASB: against Me"
+      },
+      {
+        "position": 8,
+        "surface": "קֶֽרִי",
+        "phrase": "contrariness",
+        "literal": "contrariness",
+        "source": "H7147; KJV: contrary; ESV: contrary; NASB: hostility"
+      }
+    ]
+  }
+]

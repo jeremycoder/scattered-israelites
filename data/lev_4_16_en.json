@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵבִ֛יא",
+        "phrase": "and he shall bring",
+        "literal": "and-he-brings",
+        "source": "H935 (KJV: shall bring; ESV: shall bring; NASB: shall bring)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֥ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מָּשִׁ֖יחַ",
+        "phrase": "the anointed",
+        "literal": "the-anointed",
+        "source": "H4899 (KJV: anointed priest; ESV: anointed priest; NASB: anointed priest)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/דַּ֣ם",
+        "phrase": "some of the blood",
+        "literal": "from-blood",
+        "source": "H1818 (KJV: of the blood; ESV: some of the blood; NASB: some of the blood)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/פָּ֑ר",
+        "phrase": "of the bull",
+        "literal": "the-bull",
+        "source": "H6499 (KJV: of the bullock; ESV: of the bull; NASB: of the bull)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: into; NASB: into)"
+      },
+      {
+        "position": 7,
+        "surface": "אֹ֖הֶל",
+        "phrase": "tent",
+        "literal": "tent",
+        "source": "H168 (KJV: tent; ESV: tent; NASB: Tent)"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹעֵֽד",
+        "phrase": "of meeting",
+        "literal": "of-appointment",
+        "source": "H4150 (KJV: of the congregation; ESV: of meeting; NASB: of meeting)"
+      }
+    ]
+  }
+]

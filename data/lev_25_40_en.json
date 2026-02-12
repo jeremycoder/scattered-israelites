@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כְּ/שָׂכִ֥יר",
+        "phrase": "as a hired worker",
+        "literal": "like-hired-man",
+        "source": "H7916; KJV: hired servant, ESV: hired worker, NASB: hired man"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/תוֹשָׁ֖ב",
+        "phrase": "as a resident alien",
+        "literal": "like-resident",
+        "source": "H8453; KJV: stranger, ESV: sojourner, NASB: sojourner"
+      },
+      {
+        "position": 3,
+        "surface": "יִהְיֶ֣ה",
+        "phrase": "he shall be",
+        "literal": "he-will-be",
+        "source": "H1961; KJV/ESV/NASB: he shall be (shared across clause)"
+      },
+      {
+        "position": 4,
+        "surface": "עִמָּ֑/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H5973; KJV/ESV/NASB: with thee/you"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV/ESV/NASB: until"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנַ֥ת",
+        "phrase": "the year",
+        "literal": "year-of",
+        "source": "H8141; KJV/ESV/NASB: year"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יֹּבֵ֖ל",
+        "phrase": "of the Jubilee",
+        "literal": "the-Jubilee",
+        "source": "H3104; KJV: jubile, ESV/NASB: Jubilee"
+      },
+      {
+        "position": 8,
+        "surface": "יַעֲבֹ֥ד",
+        "phrase": "he shall work",
+        "literal": "he-will-serve",
+        "source": "H5647; KJV/ESV/NASB: serve/work"
+      },
+      {
+        "position": 9,
+        "surface": "עִמָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H5973; KJV/ESV/NASB: with thee/you"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 3,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֻקַּ֤ת",
+        "phrase": "statute",
+        "literal": "statute-fs",
+        "source": "H2708 (KJV: statute; ESV: statute; NASB: statute)"
+      },
+      {
+        "position": 2,
+        "surface": "עוֹלָם֙",
+        "phrase": "perpetual",
+        "literal": "eternity",
+        "source": "H5769 (KJV: perpetual; ESV: perpetual; NASB: perpetual)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/דֹרֹ֣תֵי/כֶ֔ם",
+        "phrase": "for-your-generations",
+        "literal": "to-generations-your",
+        "source": "H1755 (KJV: for your generations; ESV: throughout your generations; NASB: throughout your generations)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/כֹ֖ל",
+        "phrase": "in-all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: throughout all; ESV: in all; NASB: in all)"
+      },
+      {
+        "position": 5,
+        "surface": "מֽוֹשְׁבֹתֵי/כֶ֑ם",
+        "phrase": "your-dwellings",
+        "literal": "dwellings-your",
+        "source": "H4186 (KJV: your dwellings; ESV: your dwellings; NASB: your dwellings)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605 (KJV: any; ESV: any; NASB: any)"
+      },
+      {
+        "position": 7,
+        "surface": "חֵ֥לֶב",
+        "phrase": "fat",
+        "literal": "fat",
+        "source": "H2459 (KJV: fat; ESV: fat; NASB: fat)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/כָל",
+        "phrase": "and-any",
+        "literal": "and-all",
+        "source": "H3605 (KJV: nor; ESV: or; NASB: or)"
+      },
+      {
+        "position": 9,
+        "surface": "דָּ֖ם",
+        "phrase": "blood",
+        "literal": "blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 10,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: shall not; NASB: shall not)"
+      },
+      {
+        "position": 11,
+        "surface": "תֹאכֵֽלוּ",
+        "phrase": "you-shall-eat",
+        "literal": "you-shall-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֕ישׁ",
+        "phrase": "and a man",
+        "literal": "and-man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ֛י",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H3588 (KJV: if; ESV: has; NASB: has)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: no; NASB: no)"
+      },
+      {
+        "position": 4,
+        "surface": "יִֽהְיֶה",
+        "phrase": "there is",
+        "literal": "he-is",
+        "source": "H1961 (KJV: be; ESV: has; NASB: has)"
+      },
+      {
+        "position": 5,
+        "surface": "לּ֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 6,
+        "surface": "גֹּאֵ֑ל",
+        "phrase": "redeemer",
+        "literal": "redeemer",
+        "source": "H1350 (KJV: redeemer; ESV: redeem; NASB: redeemer)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִשִּׂ֣יגָה",
+        "phrase": "and attains",
+        "literal": "and-reaches",
+        "source": "H5381 (KJV: prosper; ESV: prosperous; NASB: sufficient)"
+      },
+      {
+        "position": 8,
+        "surface": "יָד֔/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "H3027 (KJV: hand; ESV: means; NASB: means)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מָצָ֖א",
+        "phrase": "and finds",
+        "literal": "and-finds",
+        "source": "H4672 (KJV: find; ESV: finds; NASB: finds)"
+      },
+      {
+        "position": 10,
+        "surface": "כְּ/דֵ֥י",
+        "phrase": "sufficient",
+        "literal": "as-enough",
+        "source": "H1767 (KJV: enough; ESV: sufficient; NASB: sufficient)"
+      },
+      {
+        "position": 11,
+        "surface": "גְאֻלָּתֽ/וֹ",
+        "phrase": "for his redemption",
+        "literal": "redemption-his",
+        "source": "H1353 (KJV: redeem; ESV: redeem; NASB: redeem)"
+      }
+    ]
+  }
+]

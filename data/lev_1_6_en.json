@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 1,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִפְשִׁ֖יט",
+        "phrase": "and he shall skin",
+        "literal": "and-he-shall-flay",
+        "source": "H6584 (KJV: flay; ESV: flay; NASB: skin)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עֹלָ֑ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascension-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נִתַּ֥ח",
+        "phrase": "and cut",
+        "literal": "and-he-shall-cut",
+        "source": "H5408 (KJV: cut; ESV: cut; NASB: cut)"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "it",
+        "literal": "[direct-object-marker]-it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/נְתָחֶֽי/הָ",
+        "phrase": "into its pieces",
+        "literal": "to-pieces-its",
+        "source": "H5409 (KJV: his pieces; ESV: its pieces; NASB: its pieces)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתִּ֥י",
+        "phrase": "And I will give",
+        "literal": "and-I-will-give",
+        "source": "H5414 (KJV: 'And I will set'; ESV: 'I will make'; NASB: 'I will make')"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁכָּנִ֖/י",
+        "phrase": "My dwelling",
+        "literal": "dwelling-my",
+        "source": "H4908 (KJV: 'my tabernacle'; ESV: 'my dwelling'; NASB: 'My dwelling')"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/תוֹכְ/כֶ֑ם",
+        "phrase": "in your midst",
+        "literal": "in-midst-your",
+        "source": "H8432 (KJV: 'among you'; ESV: 'among you'; NASB: 'among you')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'and ... shall not'; ESV: 'and ... shall not'; NASB: 'and ... will not')"
+      },
+      {
+        "position": 5,
+        "surface": "תִגְעַ֥ל",
+        "phrase": "will abhor",
+        "literal": "will-abhor",
+        "source": "H1602 (KJV: 'abhor'; ESV: 'abhor'; NASB: 'reject')"
+      },
+      {
+        "position": 6,
+        "surface": "נַפְשִׁ֖/י",
+        "phrase": "My soul",
+        "literal": "soul-my",
+        "source": "H5315 (KJV: 'my soul'; ESV: 'my soul'; NASB: 'My soul')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתְ/כֶֽם",
+        "phrase": "you",
+        "literal": "[direct object marker]-you",
+        "source": "H853 (KJV: 'you'; ESV: 'you'; NASB: 'you')"
+      }
+    ]
+  }
+]

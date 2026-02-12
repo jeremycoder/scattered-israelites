@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: no; NASB: no)"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲשׂ֥וּ",
+        "phrase": "shall you do",
+        "literal": "you-all-shall-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do)"
+      },
+      {
+        "position": 3,
+        "surface": "עָ֖וֶל",
+        "phrase": "injustice",
+        "literal": "injustice",
+        "source": "H5766 (KJV: unrighteousness; ESV: wrong; NASB: wrong)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/מִּשְׁפָּ֑ט",
+        "phrase": "in judgment",
+        "literal": "in-the-judgment",
+        "source": "H4941 (KJV: in judgment; ESV: in judgment; NASB: in judgment)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/מִּדָּ֕ה",
+        "phrase": "in measure",
+        "literal": "in-the-measure",
+        "source": "H4060 (KJV: meteyard; ESV: measures of length; NASB: measurement)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/מִּשְׁקָ֖ל",
+        "phrase": "in weight",
+        "literal": "in-the-weight",
+        "source": "H4948 (KJV: weight; ESV: weight; NASB: weight)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בַ/מְּשׂוּרָֽה",
+        "phrase": "or in volume",
+        "literal": "and-in-the-measure",
+        "source": "H4884 (KJV: measure; ESV: quantity; NASB: capacity)"
+      }
+    ]
+  }
+]

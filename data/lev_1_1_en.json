@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֖א",
+        "phrase": "and he called",
+        "literal": "and-he-called",
+        "source": "H7121; KJV/ESV/NASB: 'called' (implied subject God from context, explicit in second clause)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB: 'to'"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV/ESV/NASB: 'Moses'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יְדַבֵּ֤ר",
+        "phrase": "and spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696; KJV/ESV/NASB: 'spoke' or 'said'"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD'"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413; KJV/ESV/NASB: 'to him'"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אֹ֥הֶל",
+        "phrase": "from tent",
+        "literal": "from-tent",
+        "source": "H168; KJV/ESV/NASB: 'tent' (of meeting)"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹעֵ֖ד",
+        "phrase": "of meeting",
+        "literal": "of-appointment",
+        "source": "H4150; KJV/ESV/NASB: 'meeting' or 'congregation'"
+      },
+      {
+        "position": 9,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV/ESV/NASB: 'saying'"
+      }
+    ]
+  }
+]

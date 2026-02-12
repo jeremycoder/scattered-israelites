@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִֽ/רְצֹנְ/כֶ֑ם",
+        "phrase": "for it to be accepted by you",
+        "literal": "to-favor-your",
+        "source": "H7522; KJV: 'that it may be accepted', ESV: 'to be accepted for you', NASB: 'so that you may be accepted'"
+      },
+      {
+        "position": 2,
+        "surface": "תָּמִ֣ים",
+        "phrase": "without blemish",
+        "literal": "perfect",
+        "source": "H8549; KJV: 'without blemish', ESV: 'without blemish', NASB: 'without defect'"
+      },
+      {
+        "position": 3,
+        "surface": "זָכָ֔ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "H2145; KJV: 'male', ESV: 'male', NASB: 'male'"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/בָּקָ֕ר",
+        "phrase": "from the cattle",
+        "literal": "in-the-cattle",
+        "source": "H1241; KJV: 'of the beeves', ESV: 'of the bulls', NASB: 'from the herd'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/כְּשָׂבִ֖ים",
+        "phrase": "from the sheep",
+        "literal": "in-the-sheep",
+        "source": "H3775; KJV: 'of the sheep', ESV: 'of the sheep', NASB: 'from the flock'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בָֽ/עִזִּֽים",
+        "phrase": "or from the goats",
+        "literal": "and-in-the-goats",
+        "source": "H5795; KJV: 'of the goats', ESV: 'of the goats', NASB: 'or the goats'"
+      }
+    ]
+  }
+]

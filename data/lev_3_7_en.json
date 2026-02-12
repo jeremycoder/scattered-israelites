@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 3,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "כֶּ֥שֶׂב",
+        "phrase": "lamb",
+        "literal": "lamb",
+        "source": "H3775 (KJV: lamb; ESV: lamb; NASB: lamb)"
+      },
+      {
+        "position": 3,
+        "surface": "הֽוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: he)"
+      },
+      {
+        "position": 4,
+        "surface": "מַקְרִ֖יב",
+        "phrase": "offers",
+        "literal": "offering",
+        "source": "H7126 (KJV: offer; ESV: offers; NASB: offer)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "קָרְבָּנ֑/וֹ",
+        "phrase": "his offering",
+        "literal": "his-offering",
+        "source": "H7133 (KJV: his offering; ESV: his offering; NASB: his offering)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הִקְרִ֥יב",
+        "phrase": "then he shall offer",
+        "literal": "and-he-shall-offer",
+        "source": "H7126 (KJV: then shall he offer; ESV: then he shall offer; NASB: then he shall offer)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "it",
+        "literal": "[direct-object-marker]-it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the Lord)"
+      }
+    ]
+  }
+]

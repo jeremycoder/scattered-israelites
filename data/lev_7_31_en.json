@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְטִ֧יר",
+        "phrase": "and he shall burn",
+        "literal": "and-he-will-cause-to-burn",
+        "source": "H6999 (KJV: shall burn; ESV: shall burn; NASB: shall offer up)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֛ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/חֵ֖לֶב",
+        "phrase": "the fat",
+        "literal": "the-fat",
+        "source": "H2459 (KJV: the fat; ESV: the fat; NASB: the fat)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּזְבֵּ֑חָ/ה",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: the altar; ESV: the altar; NASB: the altar)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הָיָה֙",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: shall belong)"
+      },
+      {
+        "position": 7,
+        "surface": "הֶֽ/חָזֶ֔ה",
+        "phrase": "the breast",
+        "literal": "the-breast",
+        "source": "H2373 (KJV: the breast; ESV: the breast; NASB: the breast)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אַהֲרֹ֖ן",
+        "phrase": "for Aaron",
+        "literal": "to/for-Aaron",
+        "source": "H175 (KJV: Aaron's; ESV: for Aaron; NASB: to Aaron)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/לְ/בָנָֽי/ו",
+        "phrase": "and for his sons",
+        "literal": "and-to/for-sons-his",
+        "source": "H1121 (KJV: and his sons'; ESV: and his sons; NASB: and his sons)"
+      }
+    ]
+  }
+]

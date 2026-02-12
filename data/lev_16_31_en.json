@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 16,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שַׁבַּ֨ת",
+        "phrase": "sabbath",
+        "literal": "sabbath",
+        "source": "H7676; KJV:sabbath, ESV:Sabbath, NASB:sabbath"
+      },
+      {
+        "position": 2,
+        "surface": "שַׁבָּת֥וֹן",
+        "phrase": "of solemn rest",
+        "literal": "rest-of",
+        "source": "H7677; KJV:rest, ESV:solemn rest, NASB:complete rest"
+      },
+      {
+        "position": 3,
+        "surface": "הִיא֙",
+        "phrase": "it is",
+        "literal": "she/it-is",
+        "source": "H1931; KJV:it shall be, ESV:It is, NASB:It is"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "; KJV:unto you, ESV:to you, NASB:to you"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עִנִּיתֶ֖ם",
+        "phrase": "and you shall afflict",
+        "literal": "and-you-shall-afflict",
+        "source": "H6031; KJV:ye shall afflict, ESV:you shall afflict, NASB:you shall humble"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; not translated distinctly in KJV/ESV/NASB"
+      },
+      {
+        "position": 7,
+        "surface": "נַפְשֹׁתֵי/כֶ֑ם",
+        "phrase": "your souls",
+        "literal": "souls-of-you",
+        "source": "H5315; KJV:your souls, ESV:yourselves, NASB:yourselves"
+      },
+      {
+        "position": 8,
+        "surface": "חֻקַּ֖ת",
+        "phrase": "a statute",
+        "literal": "statute",
+        "source": "H2708; KJV:statute, ESV:statute, NASB:statute"
+      },
+      {
+        "position": 9,
+        "surface": "עוֹלָֽם",
+        "phrase": "forever",
+        "literal": "eternal",
+        "source": "H5769; KJV:for ever, ESV:forever, NASB:forever"
+      }
+    ]
+  }
+]

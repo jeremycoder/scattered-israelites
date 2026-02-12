@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ֣ת",
+        "phrase": "daughter of",
+        "literal": "daughter-of",
+        "source": "H1323 (KJV: owl; ESV: ostrich; NASB: ostrich)"
+      },
+      {
+        "position": 3,
+        "surface": "הַֽ/יַּעֲנָ֔ה",
+        "phrase": "the ostrich",
+        "literal": "the-ostrich",
+        "source": "H3284 (KJV: owl; ESV: ostrich; NASB: ostrich)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/תַּחְמָ֖ס",
+        "phrase": "the nightjar",
+        "literal": "the-nightjar",
+        "source": "H8464 (KJV: night hawk; ESV: nightjar; NASB: nighthawk)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שָּׁ֑חַף",
+        "phrase": "the gull",
+        "literal": "the-gull",
+        "source": "H7828 (KJV: cuckoo; ESV: gull; NASB: sea gull)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/נֵּ֖ץ",
+        "phrase": "the hawk",
+        "literal": "the-hawk",
+        "source": "H5322 (KJV: hawk; ESV: hawk; NASB: hawk)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מִינֵֽ/הוּ",
+        "phrase": "after its kind",
+        "literal": "to-kind-of-it",
+        "source": "H4327 (KJV: after his kind; ESV: after its kind; NASB: according to its kind)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עֹלָ֗ה",
+        "phrase": "burnt offering",
+        "literal": "the-whole-burnt-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 3,
+        "surface": "הִמְצִ֧יאוּ",
+        "phrase": "they presented",
+        "literal": "they-caused-to-arrive",
+        "source": "H4672 (KJV: brought; ESV: handed; NASB: presented)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלָ֛י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/נְתָחֶ֖י/הָ",
+        "phrase": "its pieces",
+        "literal": "to-pieces-of-it",
+        "source": "H5409 (KJV: pieces thereof; ESV: piece by piece; NASB: its pieces)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/רֹ֑אשׁ",
+        "phrase": "the head",
+        "literal": "the-head",
+        "source": "H7218 (KJV: the head; ESV: the head; NASB: the head)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּקְטֵ֖ר",
+        "phrase": "and he burned",
+        "literal": "and-he-made-smoke",
+        "source": "H6999 (KJV: and burnt; ESV: and burned; NASB: and burned)"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מִּזְבֵּֽחַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: the altar; ESV: the altar; NASB: the altar)"
+      }
+    ]
+  }
+]

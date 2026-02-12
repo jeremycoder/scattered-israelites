@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָל",
+        "phrase": "And every",
+        "literal": "and-all",
+        "source": "H3605 (KJV: 'And the remainder'; ESV: 'And the rest'; NASB: 'The remainder')"
+      },
+      {
+        "position": 2,
+        "surface": "מִנְחַ֥ת",
+        "phrase": "grain offering",
+        "literal": "offering-of-grain",
+        "source": "H4503 (KJV: 'thereof'; ESV: 'of it'; NASB: 'of it')"
+      },
+      {
+        "position": 3,
+        "surface": "כֹּהֵ֛ן",
+        "phrase": "of a priest",
+        "literal": "priest",
+        "source": "H3548 (KJV: implied in context; ESV: 'priest'; NASB: 'priest')"
+      },
+      {
+        "position": 4,
+        "surface": "כָּלִ֥יל",
+        "phrase": "wholly burned",
+        "literal": "whole",
+        "source": "H3632 (KJV: implied 'wholly'; ESV: 'whole'; NASB: 'wholly burned')"
+      },
+      {
+        "position": 5,
+        "surface": "תִּהְיֶ֖ה",
+        "phrase": "shall be",
+        "literal": "she-will-be",
+        "source": "H1961 (KJV: 'shall'; ESV: 'shall be'; NASB: 'shall be')"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 7,
+        "surface": "תֵאָכֵֽל",
+        "phrase": "be eaten",
+        "literal": "be-eaten",
+        "source": "H398 (KJV: 'be eaten'; ESV: 'be eaten'; NASB: 'be eaten')"
+      }
+    ]
+  }
+]

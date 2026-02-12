@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲבַדְתֶּ֖ם",
+        "phrase": "and you shall perish",
+        "literal": "and-you-shall-perish",
+        "source": "H6; KJV: perish, ESV: perish, NASB: perish"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/גּוֹיִ֑ם",
+        "phrase": "among the nations",
+        "literal": "in-the-nations",
+        "source": "H1471; KJV: among the heathen, ESV: among the nations, NASB: among the nations"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אָכְלָ֣ה",
+        "phrase": "and shall eat",
+        "literal": "and-she-shall-eat",
+        "source": "H398; KJV: eat you up, ESV: eat you up, NASB: devour you"
+      },
+      {
+        "position": 4,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853; KJV: you (implied), ESV: you (implied), NASB: you (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "the land",
+        "literal": "land",
+        "source": "H776; KJV: land, ESV: land, NASB: land"
+      },
+      {
+        "position": 6,
+        "surface": "אֹיְבֵי/כֶֽם",
+        "phrase": "of your enemies",
+        "literal": "enemies-your(pl)",
+        "source": "H341; KJV: of your enemies, ESV: of your enemies, NASB: of your enemies"
+      }
+    ]
+  }
+]

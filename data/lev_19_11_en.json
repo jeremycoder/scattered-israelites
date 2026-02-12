@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֖א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּגְנֹ֑בוּ",
+        "phrase": "you-shall-steal",
+        "literal": "you(pl)-shall-steal",
+        "source": "H1589 (KJV: steal; ESV: steal; NASB: steal)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לֹא",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 4,
+        "surface": "תְכַחֲשׁ֥וּ",
+        "phrase": "you-shall-deal-falsely",
+        "literal": "you(pl)-shall-deal-falsely",
+        "source": "H3584 (KJV: deal falsely; ESV: deal falsely; NASB: deal falsely)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 6,
+        "surface": "תְשַׁקְּר֖וּ",
+        "phrase": "you-shall-lie",
+        "literal": "you(pl)-shall-lie",
+        "source": "H8266 (KJV: lie; ESV: lie; NASB: lie)"
+      },
+      {
+        "position": 7,
+        "surface": "אִ֥ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/עֲמִיתֽ/וֹ",
+        "phrase": "with-his-fellow",
+        "literal": "in-fellow-his",
+        "source": "H5997 (KJV: to another; ESV: to one another; NASB: to one another)"
+      }
+    ]
+  }
+]

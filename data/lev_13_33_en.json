@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִ֨תְגַּלָּ֔ח",
+        "phrase": "and he shall shave himself",
+        "literal": "and-he-shall-shave-himself",
+        "source": "H1548; KJV: shaven, ESV: shave himself, NASB: shave himself"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶת",
+        "phrase": "but",
+        "literal": "and-Acc",
+        "source": "H853; KJV: but, ESV: but, NASB: but"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/נֶּ֖תֶק",
+        "phrase": "the scall",
+        "literal": "the-scall",
+        "source": "H5424; KJV: scall, ESV: scale/itch, NASB: scale"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 5,
+        "surface": "יְגַלֵּ֑חַ",
+        "phrase": "shall he shave",
+        "literal": "he-shall-shave",
+        "source": "H1548; KJV: shave, ESV: shave, NASB: shave"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הִסְגִּ֨יר",
+        "phrase": "and the priest shall shut up",
+        "literal": "and-he-shall-shut-up",
+        "source": "H5462; KJV: shut up, ESV: shut up/isolate, NASB: isolate"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כֹּהֵ֧ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548; KJV: priest, ESV: priest, NASB: priest"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "Acc",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/נֶּ֛תֶק",
+        "phrase": "the scall",
+        "literal": "the-scall",
+        "source": "H5424; KJV: scall, ESV: scale/itch, NASB: scale"
+      },
+      {
+        "position": 10,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven-of",
+        "source": "H7651; KJV: seven, ESV: seven, NASB: seven"
+      },
+      {
+        "position": 11,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117; KJV: days, ESV: days, NASB: days"
+      },
+      {
+        "position": 12,
+        "surface": "שֵׁנִֽית",
+        "phrase": "more/second time",
+        "literal": "second",
+        "source": "H8145; KJV: more, ESV: another, NASB: more"
+      }
+    ]
+  }
+]

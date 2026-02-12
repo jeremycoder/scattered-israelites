@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נּוֹתֶ֨רֶת֙",
+        "phrase": "and the remainder",
+        "literal": "and-the-remainder",
+        "source": "H3498 (KJV: remnant; ESV/NASB: remainder)"
+      },
+      {
+        "position": 2,
+        "surface": "מִן",
+        "phrase": "of",
+        "literal": "from",
+        "source": "H4480 (KJV/ESV/NASB: of)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּנְחָ֔ה",
+        "phrase": "the grain offering",
+        "literal": "the-offering",
+        "source": "H4503 (KJV: meat offering; ESV/NASB: grain offering)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אַהֲרֹ֖ן",
+        "phrase": "to Aaron",
+        "literal": "to-Aaron",
+        "source": "H175 (KJV/ESV/NASB: Aaron)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/בָנָ֑י/ו",
+        "phrase": "and to his sons",
+        "literal": "and-to-sons-his",
+        "source": "H1121 (KJV/ESV/NASB: his sons)"
+      },
+      {
+        "position": 6,
+        "surface": "קֹ֥דֶשׁ",
+        "phrase": "holy",
+        "literal": "holiness",
+        "source": "H6944 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 7,
+        "surface": "קָֽדָשִׁ֖ים",
+        "phrase": "of holies",
+        "literal": "holies",
+        "source": "H6944 (KJV: most holy; ESV: most holy; NASB: most holy)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/אִשֵּׁ֥י",
+        "phrase": "from the offerings",
+        "literal": "from-offerings",
+        "source": "H801 (KJV: offerings; ESV: offerings; NASB: offerings)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

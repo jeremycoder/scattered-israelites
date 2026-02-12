@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'not'; ESV 'not'; NASB 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תַקִּ֔פוּ",
+        "phrase": "shall you round",
+        "literal": "you-all-shall-round",
+        "source": "H5362: KJV 'round'; ESV 'round off'; NASB 'round off'"
+      },
+      {
+        "position": 3,
+        "surface": "פְּאַ֖ת",
+        "phrase": "the edge",
+        "literal": "edge-of",
+        "source": "H6285: KJV 'corners'; ESV 'hair on your temples'; NASB 'side-growth'"
+      },
+      {
+        "position": 4,
+        "surface": "רֹאשְׁ/כֶ֑ם",
+        "phrase": "of your head",
+        "literal": "head-of/you-all",
+        "source": "H7218: KJV 'heads'; ESV 'your head'; NASB 'your heads'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808: KJV 'neither'; ESV 'or'; NASB 'nor'"
+      },
+      {
+        "position": 6,
+        "surface": "תַשְׁחִ֔ית",
+        "phrase": "shall you destroy",
+        "literal": "you-shall-destroy",
+        "source": "H7843: KJV 'mar'; ESV 'mar'; NASB 'harm'"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "פְּאַ֥ת",
+        "phrase": "the edge",
+        "literal": "edge-of",
+        "source": "H6285: KJV 'corners'; ESV 'edges'; NASB 'edges'"
+      },
+      {
+        "position": 9,
+        "surface": "זְקָנֶֽ/ךָ",
+        "phrase": "of your beard",
+        "literal": "beard-of/you",
+        "source": "H2206: KJV 'thy beard'; ESV 'your beard'; NASB 'your beard'"
+      }
+    ]
+  }
+]

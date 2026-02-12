@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 12,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/יּ֖וֹם",
+        "phrase": "and on the day",
+        "literal": "and-in-the-day",
+        "source": "H3117 (KJV: 'in the eighth day'; ESV: 'on the eighth day'; NASB: 'On the eighth day')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁמִינִ֑י",
+        "phrase": "the eighth",
+        "literal": "the-eighth",
+        "source": "H8066 (KJV: 'eighth'; ESV: 'eighth'; NASB: 'eighth')"
+      },
+      {
+        "position": 3,
+        "surface": "יִמּ֖וֹל",
+        "phrase": "shall be circumcised",
+        "literal": "shall-be-circumcised",
+        "source": "H4135 (KJV: 'shall be circumcised'; ESV: 'shall be circumcised'; NASB: 'shall be circumcised')"
+      },
+      {
+        "position": 4,
+        "surface": "בְּשַׂ֥ר",
+        "phrase": "flesh",
+        "literal": "flesh-of",
+        "source": "H1320 (KJV: 'flesh'; ESV: 'flesh'; NASB: 'flesh')"
+      },
+      {
+        "position": 5,
+        "surface": "עָרְלָתֽ/וֹ",
+        "phrase": "his foreskin",
+        "literal": "foreskin-his",
+        "source": "H6190 (KJV: 'foreskin'; ESV: 'foreskin'; NASB: 'foreskin')"
+      }
+    ]
+  }
+]

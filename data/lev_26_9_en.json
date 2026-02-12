@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/פָנִ֣יתִי",
+        "phrase": "and-I-will-turn",
+        "literal": "and-I-will-turn",
+        "source": "H6437 (KJV: have respect unto; ESV: turn to; NASB: turn toward)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵי/כֶ֔ם",
+        "phrase": "to-you",
+        "literal": "to-you(pl)",
+        "source": "H413 (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הִפְרֵיתִ֣י",
+        "phrase": "and-make-fruitful",
+        "literal": "and-make-fruitful",
+        "source": "H6509 (KJV: make you fruitful; ESV: make you fruitful; NASB: make you fruitful)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "[direct object marker]-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִרְבֵּיתִ֖י",
+        "phrase": "and-multiply",
+        "literal": "and-multiply",
+        "source": "H7235 (KJV: multiply you; ESV: multiply you; NASB: multiply you)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶתְ/כֶ֑ם",
+        "phrase": "you",
+        "literal": "[direct object marker]-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/הֲקִימֹתִ֥י",
+        "phrase": "and-establish",
+        "literal": "and-establish",
+        "source": "H6965 (KJV: establish; ESV: confirm; NASB: confirm)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: my; ESV: my; NASB: My)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּרִיתִ֖/י",
+        "phrase": "my-covenant",
+        "literal": "covenant-my",
+        "source": "H1285 (KJV: my covenant; ESV: my covenant; NASB: My covenant)"
+      },
+      {
+        "position": 10,
+        "surface": "אִתְּ/כֶֽם",
+        "phrase": "with-you",
+        "literal": "with-you(pl)",
+        "source": "H854 (KJV: with you; ESV: with you; NASB: with you)"
+      }
+    ]
+  }
+]

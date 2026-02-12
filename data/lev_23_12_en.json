@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/עֲשִׂיתֶ֕ם",
+        "phrase": "you shall offer",
+        "literal": "and-you-all-shall-do/make",
+        "source": "H6213 (KJV: offer; ESV: offer; NASB: offer)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/י֥וֹם",
+        "phrase": "on the day",
+        "literal": "in-day",
+        "source": "H3117 (KJV: that day; ESV: on the day; NASB: on the day)"
+      },
+      {
+        "position": 3,
+        "surface": "הֲנִֽיפְ/כֶ֖ם",
+        "phrase": "when you wave",
+        "literal": "waving-your",
+        "source": "H5130 (KJV: ye wave; ESV: you wave; NASB: you wave)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עֹ֑מֶר",
+        "phrase": "the sheaf",
+        "literal": "the-sheaf",
+        "source": "H6016 (KJV: the sheaf; ESV: the sheaf; NASB: the sheaf)"
+      },
+      {
+        "position": 6,
+        "surface": "כֶּ֣בֶשׂ",
+        "phrase": "a lamb",
+        "literal": "lamb",
+        "source": "H3532 (KJV: lamb; ESV: male lamb; NASB: male lamb)"
+      },
+      {
+        "position": 7,
+        "surface": "תָּמִ֧ים",
+        "phrase": "without blemish",
+        "literal": "perfect/unblemished",
+        "source": "H8549 (KJV: without blemish; ESV: without blemish; NASB: without defect)"
+      },
+      {
+        "position": 8,
+        "surface": "בֶּן",
+        "phrase": "a son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: of the first; ESV: a year old; NASB: one year old)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁנָת֛/וֹ",
+        "phrase": "its year",
+        "literal": "year-his",
+        "source": "H8141 (KJV: year; ESV: year old; NASB: one year old)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/עֹלָ֖ה",
+        "phrase": "for a burnt offering",
+        "literal": "for-ascension/burnt-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      }
+    ]
+  }
+]

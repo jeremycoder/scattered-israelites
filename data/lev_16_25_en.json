@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 16,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛ת",
+        "phrase": "And the",
+        "literal": "and-OBJ",
+        "source": "H853; KJV: 'And the', ESV: 'the', NASB: 'the'"
+      },
+      {
+        "position": 2,
+        "surface": "חֵ֥לֶב",
+        "phrase": "fat",
+        "literal": "fat",
+        "source": "H2459; KJV: 'fat', ESV: 'fat', NASB: 'fat'"
+      },
+      {
+        "position": 3,
+        "surface": "הַֽ/חַטָּ֖את",
+        "phrase": "of the sin offering",
+        "literal": "the-sin.offering",
+        "source": "H2403; KJV: 'of the sin offering', ESV: 'of the sin offering', NASB: 'of the sin offering'"
+      },
+      {
+        "position": 4,
+        "surface": "יַקְטִ֥יר",
+        "phrase": "he shall burn",
+        "literal": "he-causes-to-smoke",
+        "source": "H6999; KJV: 'shall he burn', ESV: 'he shall burn', NASB: 'he shall burn'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּזְבֵּֽחָ/ה",
+        "phrase": "on the altar",
+        "literal": "the-altar-it",
+        "source": "H4196; KJV: 'upon the altar', ESV: 'on the altar', NASB: 'on the altar'"
+      }
+    ]
+  }
+]

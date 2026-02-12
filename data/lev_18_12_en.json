@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עֶרְוַ֥ת",
+        "phrase": "nakedness of",
+        "literal": "nakedness-of",
+        "source": "H6172: KJV 'nakedness', ESV/NASB 'nakedness'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחוֹת",
+        "phrase": "your father's sister",
+        "literal": "sister",
+        "source": "H269: KJV 'sister', ESV/NASB 'sister'"
+      },
+      {
+        "position": 3,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "H1: KJV/ESV/NASB 'thy/your father'"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV/ESV/NASB 'not'"
+      },
+      {
+        "position": 5,
+        "surface": "תְגַלֵּ֑ה",
+        "phrase": "you shall uncover",
+        "literal": "you-shall-uncover",
+        "source": "H1540: KJV 'uncover', ESV/NASB 'uncover'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁאֵ֥ר",
+        "phrase": "close relative",
+        "literal": "flesh/relative",
+        "source": "H7607: KJV 'near of kin', ESV/NASB 'close relative'"
+      },
+      {
+        "position": 7,
+        "surface": "אָבִ֖י/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "H1: KJV/ESV/NASB 'thy/your father'"
+      },
+      {
+        "position": 8,
+        "surface": "הִֽוא",
+        "phrase": "she is",
+        "literal": "she",
+        "source": "H1931: KJV 'it is', ESV/NASB 'she is'"
+      }
+    ]
+  }
+]

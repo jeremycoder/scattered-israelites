@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/יּ֤וֹם",
+        "phrase": "on that day",
+        "literal": "in-the/day",
+        "source": "H3117 (KJV: 'On the same day'; ESV: 'on the same day'; NASB: 'on the same day')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/הוּא֙",
+        "phrase": "that",
+        "literal": "the/that",
+        "source": "H1931 (KJV: 'same'; ESV: 'same'; NASB: 'same')"
+      },
+      {
+        "position": 3,
+        "surface": "יֵאָכֵ֔ל",
+        "phrase": "it shall be eaten",
+        "literal": "it-will-be-eaten",
+        "source": "H398 (KJV: 'it shall be eaten up'; ESV: 'it shall be eaten'; NASB: 'It shall be eaten')"
+      },
+      {
+        "position": 4,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'none'; ESV: 'none'; NASB: 'none')"
+      },
+      {
+        "position": 5,
+        "surface": "תוֹתִ֥ירוּ",
+        "phrase": "you shall leave",
+        "literal": "you-will-leave",
+        "source": "H3498 (KJV: 'ye shall leave'; ESV: 'you shall leave'; NASB: 'you shall leave')"
+      },
+      {
+        "position": 6,
+        "surface": "מִמֶּ֖/נּוּ",
+        "phrase": "of it",
+        "literal": "from/it",
+        "source": "H4480 (KJV: 'of it'; ESV: 'of it'; NASB: 'of it')"
+      },
+      {
+        "position": 7,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'until'; NASB: 'until')"
+      },
+      {
+        "position": 8,
+        "surface": "בֹּ֑קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: 'the morrow'; ESV: 'morning'; NASB: 'morning')"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: 'I'; ESV: 'I'; NASB: 'I')"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      }
+    ]
+  }
+]

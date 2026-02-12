@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נֶ֣גַע",
+        "phrase": "plague",
+        "literal": "plague",
+        "source": "H5061 (KJV: plague; ESV: skin disease; NASB: infection)"
+      },
+      {
+        "position": 2,
+        "surface": "צָרַ֔עַת",
+        "phrase": "of leprosy",
+        "literal": "leprosy",
+        "source": "H6883 (KJV: leprosy; ESV: leprous disease; NASB: leprosy)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֥י",
+        "phrase": "When",
+        "literal": "when",
+        "source": "H3588 (KJV: When; ESV: When; NASB: When)"
+      },
+      {
+        "position": 4,
+        "surface": "תִהְיֶ֖ה",
+        "phrase": "is",
+        "literal": "she-is",
+        "source": "H1961 (KJV: is; ESV: is; NASB: is)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אָדָ֑ם",
+        "phrase": "in a man",
+        "literal": "in-man",
+        "source": "H120 (KJV: in a man; ESV: in a man; NASB: on a man)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הוּבָ֖א",
+        "phrase": "then he shall be brought",
+        "literal": "and-he-shall-be-brought",
+        "source": "H935 (KJV: he shall be brought; ESV: he shall be brought; NASB: he shall be brought)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כֹּהֵֽן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      }
+    ]
+  }
+]

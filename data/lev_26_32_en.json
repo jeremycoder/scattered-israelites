@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/הֲשִׁמֹּתִ֥י",
+        "phrase": "and-I-will-lay-waste",
+        "literal": "and-I-will-make-desolate",
+        "source": "H8074; KJV: 'I will...destroy', ESV: 'I myself will lay waste', NASB: 'I will destroy'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV: 'I', ESV: 'I myself', NASB: 'I'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the-land",
+        "literal": "the-land",
+        "source": "H776; KJV: 'the land', ESV: 'the land', NASB: 'the land'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שָֽׁמְמ֤וּ",
+        "phrase": "and-they-will-be-appalled",
+        "literal": "and-they-will-be-desolate",
+        "source": "H8074; KJV: 'shall be astonished', ESV: 'shall be appalled', NASB: 'will be appalled'"
+      },
+      {
+        "position": 6,
+        "surface": "עָלֶ֨י/הָ֙",
+        "phrase": "at-it",
+        "literal": "upon-it",
+        "source": "H5921; KJV/ESV/NASB: 'at it'/'thereon'"
+      },
+      {
+        "position": 7,
+        "surface": "אֹֽיְבֵי/כֶ֔ם",
+        "phrase": "your-enemies",
+        "literal": "enemies-your",
+        "source": "H341; KJV: 'your enemies', ESV: 'your enemies', NASB: 'your enemies'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יֹּשְׁבִ֖ים",
+        "phrase": "who-dwell",
+        "literal": "the-dwelling",
+        "source": "H3427; KJV: 'that dwell', ESV: 'who live/settle', NASB: 'who live'"
+      },
+      {
+        "position": 9,
+        "surface": "בָּֽ/הּ",
+        "phrase": "in-it",
+        "literal": "in-it",
+        "source": "; KJV/ESV/NASB: 'therein/in it'"
+      }
+    ]
+  }
+]

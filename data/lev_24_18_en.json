@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מַכֵּ֥ה",
+        "phrase": "and the one who strikes",
+        "literal": "and-striker",
+        "source": "H5221; KJV: killeth, ESV: takes, NASB: takes"
+      },
+      {
+        "position": 2,
+        "surface": "נֶֽפֶשׁ",
+        "phrase": "life",
+        "literal": "life",
+        "source": "H5315; KJV: (implied in killeth), ESV: life, NASB: life"
+      },
+      {
+        "position": 3,
+        "surface": "בְּהֵמָ֖ה",
+        "phrase": "of an animal",
+        "literal": "of-animal",
+        "source": "H929; KJV: beast, ESV: animal, NASB: animal"
+      },
+      {
+        "position": 4,
+        "surface": "יְשַׁלְּמֶ֑/נָּה",
+        "phrase": "shall make it good",
+        "literal": "he-shall-make-good-it",
+        "source": "H7999; KJV: make it good, ESV: make it good, NASB: make it good"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֖פֶשׁ",
+        "phrase": "life",
+        "literal": "life",
+        "source": "H5315; KJV: beast, ESV: life, NASB: life"
+      },
+      {
+        "position": 6,
+        "surface": "תַּ֥חַת",
+        "phrase": "in place of",
+        "literal": "in-place-of",
+        "source": "H8478; KJV: for, ESV: for, NASB: for"
+      },
+      {
+        "position": 7,
+        "surface": "נָֽפֶשׁ",
+        "phrase": "life",
+        "literal": "life",
+        "source": "H5315; KJV: beast, ESV: life, NASB: life"
+      }
+    ]
+  }
+]

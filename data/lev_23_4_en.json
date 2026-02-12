@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֚לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428 (KJV: These; ESV: These; NASB: These)"
+      },
+      {
+        "position": 2,
+        "surface": "מוֹעֲדֵ֣י",
+        "phrase": "appointed feasts",
+        "literal": "appointed-times-of",
+        "source": "H4150 (KJV: feasts; ESV: appointed feasts; NASB: appointed times)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "מִקְרָאֵ֖י",
+        "phrase": "holy convocations",
+        "literal": "convocations-of",
+        "source": "H4744 (KJV: holy convocations; ESV: holy convocations; NASB: holy convocations)"
+      },
+      {
+        "position": 5,
+        "surface": "קֹ֑דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 7,
+        "surface": "תִּקְרְא֥וּ",
+        "phrase": "you shall proclaim",
+        "literal": "you(pl)-shall-call",
+        "source": "H7121 (KJV: ye shall proclaim; ESV: you shall proclaim; NASB: you shall proclaim)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[direct-object-marker]/them",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/מוֹעֲדָֽ/ם",
+        "phrase": "in their appointed times",
+        "literal": "in/appointed-time-of/them",
+        "source": "H4150 (KJV: in their seasons; ESV: at the time appointed for them; NASB: at the times appointed for them)"
+      }
+    ]
+  }
+]

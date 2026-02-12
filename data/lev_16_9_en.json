@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 16,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְרִ֤יב",
+        "phrase": "and shall present",
+        "literal": "and-he-causes-to-approach",
+        "source": "H7126 (KJV: shall bring; ESV: shall present; NASB: shall offer)"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹן֙",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׂעִ֔יר",
+        "phrase": "the goat",
+        "literal": "the-goat",
+        "source": "H8163 (KJV: the goat; ESV: the goat; NASB: the goat)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: upon which; ESV: on which; NASB: on which)"
+      },
+      {
+        "position": 6,
+        "surface": "עָלָ֥ה",
+        "phrase": "fell",
+        "literal": "went-up",
+        "source": "H5927 (KJV: fell; ESV: fell; NASB: fell)"
+      },
+      {
+        "position": 7,
+        "surface": "עָלָ֛י/ו",
+        "phrase": "on it",
+        "literal": "upon-it",
+        "source": "H5921 (KJV: upon which; ESV: on which; NASB: on which)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/גּוֹרָ֖ל",
+        "phrase": "the lot",
+        "literal": "the-lot",
+        "source": "H1486 (KJV: lot; ESV: lot; NASB: lot)"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "for YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: LORD'S; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/עָשָׂ֖/הוּ",
+        "phrase": "and make it",
+        "literal": "and-he-makes-it",
+        "source": "H6213 (KJV: offer him; ESV: use it; NASB: make it)"
+      },
+      {
+        "position": 11,
+        "surface": "חַטָּֽאת",
+        "phrase": "a sin offering",
+        "literal": "sin-offering",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      }
+    ]
+  }
+]

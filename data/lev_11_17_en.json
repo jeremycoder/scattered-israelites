@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כּ֥וֹס",
+        "phrase": "little owl",
+        "literal": "the-cup",
+        "source": "H3563 (KJV: little owl; ESV: little owl; NASB: little owl)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׁלָ֖ךְ",
+        "phrase": "cormorant",
+        "literal": "the-thrower",
+        "source": "H7994 (KJV: cormorant; ESV: cormorant; NASB: cormorant)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/יַּנְשֽׁוּף",
+        "phrase": "great owl",
+        "literal": "the-screech-owl",
+        "source": "H3244 (KJV: great owl; ESV: great owl; NASB: great owl)"
+      }
+    ]
+  }
+]

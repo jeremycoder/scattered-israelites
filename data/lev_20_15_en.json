@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 20,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֗ישׁ",
+        "phrase": "And if a man",
+        "literal": "and-man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "who",
+        "literal": "who/that",
+        "source": "H834 (KJV: if; ESV: who; NASB: who)"
+      },
+      {
+        "position": 3,
+        "surface": "יִתֵּ֧ן",
+        "phrase": "gives",
+        "literal": "he-gives",
+        "source": "H5414 (KJV: lie; ESV: lies; NASB: lies)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁכָבְתּ֛/וֹ",
+        "phrase": "his lying",
+        "literal": "lying-of-him",
+        "source": "H7903 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/בְהֵמָ֖ה",
+        "phrase": "with a beast",
+        "literal": "in-beast",
+        "source": "H929 (KJV: beast; ESV: animal; NASB: animal)"
+      },
+      {
+        "position": 6,
+        "surface": "מ֣וֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4191 (KJV: surely; ESV: surely; NASB: surely)"
+      },
+      {
+        "position": 7,
+        "surface": "יוּמָ֑ת",
+        "phrase": "he shall be put to",
+        "literal": "he-shall-be-put-to-death",
+        "source": "H4191 (KJV: be put to death; ESV: be put to death; NASB: be put to death)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "And",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: you shall)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/בְּהֵמָ֖ה",
+        "phrase": "the beast",
+        "literal": "the-beast",
+        "source": "H929 (KJV: the beast; ESV: the animal; NASB: the animal)"
+      },
+      {
+        "position": 10,
+        "surface": "תַּהֲרֹֽגוּ",
+        "phrase": "you shall kill",
+        "literal": "you(pl)-shall-kill",
+        "source": "H2026 (KJV: ye shall slay; ESV: you shall kill; NASB: you shall kill)"
+      }
+    ]
+  }
+]

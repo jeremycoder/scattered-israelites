@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֕ישׁ",
+        "phrase": "And if a man",
+        "literal": "and-man",
+        "source": "H376 (KJV: 'he/any man'; ESV: 'anyone'; NASB: 'any man')"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ֥י",
+        "phrase": "when",
+        "literal": "when/if",
+        "source": "H3588 (KJV: 'that'; ESV: 'takes'; NASB: 'takes')"
+      },
+      {
+        "position": 3,
+        "surface": "יַכֶּ֖ה",
+        "phrase": "strikes",
+        "literal": "he-strikes",
+        "source": "H5221 (KJV: 'killeth'; ESV: 'takes the life'; NASB: 'takes the life')"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all/any",
+        "source": "H3605 (KJV: 'any'; ESV: 'any'; NASB: 'any')"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֣פֶשׁ",
+        "phrase": "life/soul",
+        "literal": "soul/life",
+        "source": "H5315 (KJV: implied in 'man'; ESV: 'human being'; NASB: 'person')"
+      },
+      {
+        "position": 6,
+        "surface": "אָדָ֑ם",
+        "phrase": "of man/human",
+        "literal": "man/human",
+        "source": "H120 (KJV: 'man'; ESV: 'human being'; NASB: 'person')"
+      },
+      {
+        "position": 7,
+        "surface": "מ֖וֹת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4191 (KJV: 'surely'; ESV: 'surely'; NASB: 'shall surely')"
+      },
+      {
+        "position": 8,
+        "surface": "יוּמָֽת",
+        "phrase": "he shall be put to death",
+        "literal": "he-shall-be-put-to-death",
+        "source": "H4191 (KJV: 'be put to death'; ESV: 'be put to death'; NASB: 'be put to death')"
+      }
+    ]
+  }
+]

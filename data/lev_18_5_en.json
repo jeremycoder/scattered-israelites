@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמַרְתֶּ֤ם",
+        "phrase": "you shall keep",
+        "literal": "and-you(pl)-shall-keep",
+        "source": "H8104; KJV 'keep', ESV 'keep', NASB 'keep'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "my",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV '-', ESV '-', NASB '-'"
+      },
+      {
+        "position": 3,
+        "surface": "חֻקֹּתַ/י֙",
+        "phrase": "statutes",
+        "literal": "statutes-my",
+        "source": "H2708; KJV 'statutes', ESV 'statutes', NASB 'statutes'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 5,
+        "surface": "מִשְׁפָּטַ֔/י",
+        "phrase": "judgments",
+        "literal": "judgments-my",
+        "source": "H4941; KJV 'judgments', ESV 'rules', NASB 'judgments'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV 'which', ESV 'by which', NASB 'which'"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲשֶׂ֥ה",
+        "phrase": "does",
+        "literal": "he-does",
+        "source": "H6213; KJV 'do', ESV 'does', NASB 'does'"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853; KJV 'them', ESV 'them', NASB 'them'"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אָדָ֖ם",
+        "phrase": "man",
+        "literal": "the-man",
+        "source": "H120; KJV 'man', ESV 'man', NASB 'man'"
+      },
+      {
+        "position": 10,
+        "surface": "וָ/חַ֣י",
+        "phrase": "and live",
+        "literal": "and-live",
+        "source": "H2425; KJV 'live', ESV 'live', NASB 'live'"
+      },
+      {
+        "position": 11,
+        "surface": "בָּ/הֶ֑ם",
+        "phrase": "by them",
+        "literal": "in-them",
+        "source": "-; KJV 'in them', ESV 'by them', NASB 'by them'"
+      },
+      {
+        "position": 12,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV 'I', ESV 'I', NASB 'I'"
+      },
+      {
+        "position": 13,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV 'LORD', ESV 'LORD', NASB 'LORD'"
+      }
+    ]
+  }
+]

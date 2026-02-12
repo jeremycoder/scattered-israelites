@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 3,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֥ם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'And if'; ESV: 'If'; NASB: 'Now if')"
+      },
+      {
+        "position": 2,
+        "surface": "עֵ֖ז",
+        "phrase": "a goat",
+        "literal": "goat-fs",
+        "source": "H5795 (KJV: 'of the goats'; ESV: 'a goat'; NASB: 'a goat')"
+      },
+      {
+        "position": 3,
+        "surface": "קָרְבָּנ֑/וֹ",
+        "phrase": "his offering",
+        "literal": "offering-his",
+        "source": "H7133 (KJV: 'his offering'; ESV: 'his offering'; NASB: 'his offering')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִקְרִיב֖/וֹ",
+        "phrase": "then he shall offer it",
+        "literal": "and-he-shall-present-it",
+        "source": "H7126 (KJV: 'then he shall offer it'; ESV: 'he shall offer it'; NASB: 'he shall present it')"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: 'before'; ESV: 'before'; NASB: 'before')"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: And the; ESV: the; NASB: the)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חֲלָבִ֖ים",
+        "phrase": "fat portions",
+        "literal": "the-fats",
+        "source": "H2459 (KJV: fat; ESV: fat pieces; NASB: fat portions)"
+      },
+      {
+        "position": 3,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: from)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שּׁ֑וֹר",
+        "phrase": "the ox",
+        "literal": "the-bull",
+        "source": "H7794 (KJV: bullock/ox; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִן",
+        "phrase": "and from",
+        "literal": "and-from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: from)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אַ֔יִל",
+        "phrase": "the ram",
+        "literal": "the-ram",
+        "source": "H352 (KJV: ram; ESV: ram; NASB: ram)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אַלְיָ֤ה",
+        "phrase": "the fat tail",
+        "literal": "the-fat-tail",
+        "source": "H451 (KJV: rump; ESV: fat tail; NASB: fat tail)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הַֽ/מְכַסֶּה֙",
+        "phrase": "and the covering",
+        "literal": "and-the-covering",
+        "source": "H4374 (KJV: that which covereth the inwards; ESV: that which covers the entrails; NASB: fat that covers)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/כְּלָיֹ֔ת",
+        "phrase": "and the kidneys",
+        "literal": "and-the-kidneys",
+        "source": "H3629 (KJV: kidneys; ESV: kidneys; NASB: kidneys)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/יֹתֶ֖רֶת",
+        "phrase": "and the lobe",
+        "literal": "and-remainder",
+        "source": "H3508 (KJV: caul; ESV: long lobe; NASB: lobe)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/כָּבֵֽד",
+        "phrase": "of the liver",
+        "literal": "the-liver",
+        "source": "H3516 (KJV: liver; ESV: liver; NASB: liver)"
+      }
+    ]
+  }
+]

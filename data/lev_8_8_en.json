@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥שֶׂם",
+        "phrase": "And he put",
+        "literal": "and-he-put",
+        "source": "H7760 (KJV: put; ESV: placed; NASB: placed)"
+      },
+      {
+        "position": 2,
+        "surface": "עָלָ֖י/ו",
+        "phrase": "on it",
+        "literal": "on-him/it",
+        "source": "H5921 (KJV: upon him; ESV: on him; NASB: on it)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [direct obj]; ESV: [direct obj]; NASB: [direct obj])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/חֹ֑שֶׁן",
+        "phrase": "breastpiece",
+        "literal": "the-breastpiece",
+        "source": "H2833 (KJV: breastplate; ESV: breastpiece; NASB: breastpiece)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּתֵּן֙",
+        "phrase": "and he put",
+        "literal": "and-he-put/gave",
+        "source": "H5414 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to/into",
+        "source": "H413 (KJV: in; ESV: in; NASB: in/into)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/חֹ֔שֶׁן",
+        "phrase": "the breastpiece",
+        "literal": "the-breastpiece",
+        "source": "H2833 (KJV: breastplate; ESV: breastpiece; NASB: breastpiece)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [direct obj]; ESV: [direct obj]; NASB: [direct obj])"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אוּרִ֖ים",
+        "phrase": "Urim",
+        "literal": "the-Urim",
+        "source": "H224 (KJV: Urim; ESV: Urim; NASB: Urim)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/תֻּמִּֽים",
+        "phrase": "Thummim",
+        "literal": "the-Thummim",
+        "source": "H8550 (KJV: Thummim; ESV: Thummim; NASB: Thummim)"
+      }
+    ]
+  }
+]

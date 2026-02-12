@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שְּׁנַ֥ת",
+        "phrase": "from the year",
+        "literal": "from-year-of",
+        "source": "H8141 (KJV: from the year; ESV: from the year; NASB: from the year)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יֹּבֵ֖ל",
+        "phrase": "of the jubilee",
+        "literal": "the-jubilee",
+        "source": "H3104 (KJV: of jubile; ESV: of the jubilee; NASB: of the jubilee)"
+      },
+      {
+        "position": 4,
+        "surface": "יַקְדִּ֣ישׁ",
+        "phrase": "he sanctifies",
+        "literal": "he-sanctifies",
+        "source": "H6942 (KJV: sanctify; ESV: consecrates; NASB: sanctifies)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׂדֵ֑/הוּ",
+        "phrase": "his field",
+        "literal": "field-his",
+        "source": "H7704 (KJV: his field; ESV: his field; NASB: his field)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּ/עֶרְכְּ/ךָ֖",
+        "phrase": "according to your valuation",
+        "literal": "as-valuation-your",
+        "source": "H6187 (KJV: according to thy estimation; ESV: according to your valuation; NASB: according to your assessment)"
+      },
+      {
+        "position": 7,
+        "surface": "יָקֽוּם",
+        "phrase": "it shall stand",
+        "literal": "it-stands",
+        "source": "H6965 (KJV: it shall stand; ESV: it shall stand; NASB: it shall stand)"
+      }
+    ]
+  }
+]

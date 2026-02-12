@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408; KJV: (implied in 'Turn ye not'), ESV: (implied in 'Do not'), NASB: (implied in 'Do not')"
+      },
+      {
+        "position": 2,
+        "surface": "תִּפְנוּ֙",
+        "phrase": "turn",
+        "literal": "you-all-turn",
+        "source": "H6437; KJV: 'Turn ye not', ESV: 'Do not turn', NASB: 'Do not turn'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: 'unto', ESV: 'to', NASB: 'to'"
+      },
+      {
+        "position": 4,
+        "surface": "הָ֣/אֱלִילִ֔ים",
+        "phrase": "idols",
+        "literal": "the-idols",
+        "source": "H457; KJV: 'idols', ESV: 'idols', NASB: 'idols'"
+      },
+      {
+        "position": 5,
+        "surface": "וֵֽ/אלֹהֵי֙",
+        "phrase": "or gods",
+        "literal": "and-gods-of",
+        "source": "H430; KJV: 'molten gods', ESV: 'gods of cast metal', NASB: 'molten gods'"
+      },
+      {
+        "position": 6,
+        "surface": "מַסֵּכָ֔ה",
+        "phrase": "of cast metal",
+        "literal": "pouring",
+        "source": "H4541; KJV: 'molten', ESV: 'cast metal', NASB: 'molten'"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'nor', ESV: (implied in 'make'), NASB: (implied in 'make')"
+      },
+      {
+        "position": 8,
+        "surface": "תַעֲשׂ֖וּ",
+        "phrase": "make",
+        "literal": "you-all-make",
+        "source": "H6213; KJV: 'make', ESV: 'make', NASB: 'make'"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "for yourselves",
+        "literal": "to-you-all",
+        "source": "; KJV: 'to yourselves', ESV: 'for yourselves', NASB: 'for yourselves'"
+      },
+      {
+        "position": 10,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV: 'I', ESV: 'I', NASB: 'I'"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-of-you-all",
+        "source": "H430; KJV: 'your God', ESV: 'your God', NASB: 'your God'"
+      }
+    ]
+  }
+]

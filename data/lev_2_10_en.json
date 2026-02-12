@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נּוֹתֶ֨רֶת֙",
+        "phrase": "and the remainder",
+        "literal": "and-the-remainder",
+        "source": "H3498 (KJV: 'that which is left'; ESV: 'the rest'; NASB: 'the remainder')"
+      },
+      {
+        "position": 2,
+        "surface": "מִן",
+        "phrase": "of",
+        "literal": "from",
+        "source": "H4480 (KJV: 'of'; ESV: 'of'; NASB: 'of')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּנְחָ֔ה",
+        "phrase": "the grain offering",
+        "literal": "the-offering",
+        "source": "H4503 (KJV: 'meat offering'; ESV: 'grain offering'; NASB: 'grain offering')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אַהֲרֹ֖ן",
+        "phrase": "to Aaron",
+        "literal": "to-Aaron",
+        "source": "H175 (KJV: 'Aaron's'; ESV: 'Aaron'; NASB: 'Aaron')"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/בָנָ֑י/ו",
+        "phrase": "and to his sons",
+        "literal": "and-to-sons-his",
+        "source": "H1121 (KJV: 'his sons' '; ESV: 'his sons'; NASB: 'his sons')"
+      },
+      {
+        "position": 6,
+        "surface": "קֹ֥דֶשׁ",
+        "phrase": "holy",
+        "literal": "holiness",
+        "source": "H6944 (KJV: 'thing ... holy'; ESV: 'most holy'; NASB: 'thing most holy')"
+      },
+      {
+        "position": 7,
+        "surface": "קָֽדָשִׁ֖ים",
+        "phrase": "of holies",
+        "literal": "holies",
+        "source": "H6944 (KJV: 'most holy'; ESV: 'most holy'; NASB: 'most holy')"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/אִשֵּׁ֥י",
+        "phrase": "of the offerings",
+        "literal": "from-offerings",
+        "source": "H801 (KJV: 'offerings ... by fire'; ESV: 'food offerings'; NASB: 'offerings by fire')"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      }
+    ]
+  }
+]

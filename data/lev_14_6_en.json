@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: direct obj.; ESV: direct obj.; NASB: direct obj.)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/צִּפֹּ֤ר",
+        "phrase": "the bird",
+        "literal": "the-bird",
+        "source": "H6833 (KJV: bird; ESV: bird; NASB: bird)"
+      },
+      {
+        "position": 3,
+        "surface": "הַֽ/חַיָּה֙",
+        "phrase": "the living",
+        "literal": "the-living",
+        "source": "H2416 (KJV: alive; ESV: live; NASB: live)"
+      },
+      {
+        "position": 4,
+        "surface": "יִקַּ֣ח",
+        "phrase": "he shall take",
+        "literal": "he-will-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֔/הּ",
+        "phrase": "it",
+        "literal": "[direct-object]-her",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "עֵ֥ץ",
+        "phrase": "wood",
+        "literal": "wood",
+        "source": "H6086 (KJV: cedar wood; ESV: cedarwood; NASB: cedar wood)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֶ֛רֶז",
+        "phrase": "the cedar",
+        "literal": "the-cedar",
+        "source": "H730 (KJV: cedar; ESV: cedar; NASB: cedar)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁנִ֥י",
+        "phrase": "scarlet",
+        "literal": "scarlet",
+        "source": "H8144 (KJV: scarlet; ESV: scarlet; NASB: scarlet)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/תּוֹלַ֖עַת",
+        "phrase": "yarn",
+        "literal": "the-worm",
+        "source": "H8438 (KJV: yarn; ESV: yarn; NASB: yarn)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אֵזֹ֑ב",
+        "phrase": "the hyssop",
+        "literal": "the-hyssop",
+        "source": "H231 (KJV: hyssop; ESV: hyssop; NASB: hyssop)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/טָבַ֨ל",
+        "phrase": "and dip",
+        "literal": "and-he-dipped",
+        "source": "H2881 (KJV: dip; ESV: dip; NASB: dip)"
+      },
+      {
+        "position": 15,
+        "surface": "אוֹתָ֜/ם",
+        "phrase": "them",
+        "literal": "[direct-object]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/אֵ֣ת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/צִּפֹּ֣ר",
+        "phrase": "the bird",
+        "literal": "the-bird",
+        "source": "H6833 (KJV: bird; ESV: bird; NASB: bird)"
+      },
+      {
+        "position": 18,
+        "surface": "הַֽ/חַיָּ֗ה",
+        "phrase": "the living",
+        "literal": "the-living",
+        "source": "H2416 (KJV: alive; ESV: live; NASB: live)"
+      },
+      {
+        "position": 19,
+        "surface": "בְּ/דַם֙",
+        "phrase": "in blood",
+        "literal": "in-blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/צִּפֹּ֣ר",
+        "phrase": "the bird",
+        "literal": "the-bird",
+        "source": "H6833 (KJV: bird; ESV: bird; NASB: bird)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/שְּׁחֻטָ֔ה",
+        "phrase": "that was killed",
+        "literal": "the-slaughtered",
+        "source": "H7819 (KJV: killed; ESV: killed; NASB: killed)"
+      },
+      {
+        "position": 22,
+        "surface": "עַ֖ל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/מַּ֥יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "H4325 (KJV: water; ESV: water; NASB: water)"
+      },
+      {
+        "position": 24,
+        "surface": "הַֽ/חַיִּֽים",
+        "phrase": "the living",
+        "literal": "the-living",
+        "source": "H2416 (KJV: running; ESV: fresh; NASB: living)"
+      }
+    ]
+  }
+]

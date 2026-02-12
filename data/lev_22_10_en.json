@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָל",
+        "phrase": "And any",
+        "literal": "and-all",
+        "source": "H3605 (KJV: no stranger; ESV: lay person; NASB: layman)"
+      },
+      {
+        "position": 2,
+        "surface": "זָ֖ר",
+        "phrase": "outsider",
+        "literal": "stranger",
+        "source": "H2114 (KJV: stranger; ESV: lay person; NASB: layman)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹא",
+        "phrase": "shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: no, shall not; ESV: shall not; NASB: is not to)"
+      },
+      {
+        "position": 4,
+        "surface": "יֹ֣אכַל",
+        "phrase": "eat",
+        "literal": "eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 5,
+        "surface": "קֹ֑דֶשׁ",
+        "phrase": "holy thing",
+        "literal": "holy-thing",
+        "source": "H6944 (KJV: holy thing; ESV: holy thing; NASB: holy gift)"
+      },
+      {
+        "position": 6,
+        "surface": "תּוֹשַׁ֥ב",
+        "phrase": "sojourner",
+        "literal": "resident",
+        "source": "H8453 (KJV: sojourner; ESV: foreign guest; NASB: sojourner)"
+      },
+      {
+        "position": 7,
+        "surface": "כֹּהֵ֛ן",
+        "phrase": "of the priest",
+        "literal": "priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/שָׂכִ֖יר",
+        "phrase": "or hired servant",
+        "literal": "and-hired-man",
+        "source": "H7916 (KJV: hired servant; ESV: hired servant; NASB: hired man)"
+      },
+      {
+        "position": 9,
+        "surface": "לֹא",
+        "phrase": "shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: shall not; ESV: shall not; NASB: shall not)"
+      },
+      {
+        "position": 10,
+        "surface": "יֹ֥אכַל",
+        "phrase": "eat",
+        "literal": "eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 11,
+        "surface": "קֹֽדֶשׁ",
+        "phrase": "holy thing",
+        "literal": "holy-thing",
+        "source": "H6944 (KJV: holy thing; ESV: holy thing; NASB: holy gift)"
+      }
+    ]
+  }
+]

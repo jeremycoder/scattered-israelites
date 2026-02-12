@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם֙",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: If; NASB: Or if)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "שְׂדֵ֣ה",
+        "phrase": "field",
+        "literal": "field",
+        "source": "H7704 (KJV: a field; ESV: a field; NASB: a field)"
+      },
+      {
+        "position": 4,
+        "surface": "מִקְנָת֔/וֹ",
+        "phrase": "his purchase",
+        "literal": "purchase-his",
+        "source": "H4736 (KJV: which he hath bought; ESV: that he has bought; NASB: which he has bought)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֕ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֖א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/שְּׂדֵ֣ה",
+        "phrase": "of the field",
+        "literal": "from-field",
+        "source": "H7704 (KJV: of; ESV: a part of; NASB: a part of the field)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחֻזָּת֑/וֹ",
+        "phrase": "his possession",
+        "literal": "possession-his",
+        "source": "H272 (KJV: his possession; ESV: his possession; NASB: his own property)"
+      },
+      {
+        "position": 9,
+        "surface": "יַקְדִּ֖ישׁ",
+        "phrase": "he dedicates",
+        "literal": "he dedicates",
+        "source": "H6942 (KJV: sanctify; ESV: dedicates; NASB: consecrates)"
+      },
+      {
+        "position": 10,
+        "surface": "לַֽ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: unto the LORD; ESV: to the Lord; NASB: to the LORD)"
+      }
+    ]
+  }
+]

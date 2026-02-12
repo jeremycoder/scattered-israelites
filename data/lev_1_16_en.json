@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 1,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵסִ֥יר",
+        "phrase": "and he shall remove",
+        "literal": "and-he-shall-remove",
+        "source": "H5493; KJV: pluck away, ESV: take away, NASB: remove"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ETAL: (implied), ESV/NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "מֻרְאָת֖/וֹ",
+        "phrase": "crop of it",
+        "literal": "crop-his",
+        "source": "H4760; KJV: crop, ESV: crop, NASB: crop"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/נֹצָתָ֑/הּ",
+        "phrase": "with its feathers",
+        "literal": "with-feathers-its",
+        "source": "H5133; KJV: with feathers, ESV: with its contents, NASB: with its plumage"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִשְׁלִ֨יךְ",
+        "phrase": "and he shall cast",
+        "literal": "and-he-shall-throw",
+        "source": "H7993; KJV/ESV/NASB: cast"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֜/הּ",
+        "phrase": "it",
+        "literal": "[direct-object-marker]-it",
+        "source": "H853; KJV/ETAL: (implied), ESV/NASB: it"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֤צֶל",
+        "phrase": "beside",
+        "literal": "beside",
+        "source": "H681; KJV/ESV/NASB: beside"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מִּזְבֵּ֨חַ֙",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196; KJV/ESV/NASB: the altar"
+      },
+      {
+        "position": 9,
+        "surface": "קֵ֔דְמָ/ה",
+        "phrase": "on the east",
+        "literal": "eastward",
+        "source": "H6924; KJV/ESV/NASB: east"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV/ESV/NASB: (implied)"
+      },
+      {
+        "position": 11,
+        "surface": "מְק֖וֹם",
+        "phrase": "place",
+        "literal": "place",
+        "source": "H4725; KJV/ESV/NASB: place"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/דָּֽשֶׁן",
+        "phrase": "of the ashes",
+        "literal": "the-ashes",
+        "source": "H1880; KJV/ESV/NASB: ashes"
+      }
+    ]
+  }
+]

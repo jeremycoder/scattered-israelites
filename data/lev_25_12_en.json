@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֚י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹבֵ֣ל",
+        "phrase": "Jubilee",
+        "literal": "jubilee-it-is",
+        "source": "H3104 (KJV: jubilee; ESV: Jubilee; NASB: Jubilee)"
+      },
+      {
+        "position": 3,
+        "surface": "הִ֔וא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931 (KJV: it is; ESV: it is; NASB: it is)"
+      },
+      {
+        "position": 4,
+        "surface": "קֹ֖דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944 (KJV: holy; ESV: holy; NASB: holy)"
+      },
+      {
+        "position": 5,
+        "surface": "תִּהְיֶ֣ה",
+        "phrase": "it shall be",
+        "literal": "it-will-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: shall be)"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: from; NASB: from)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ֨/שָּׂדֶ֔ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "H7704 (KJV: the field; ESV: the field; NASB: the field)"
+      },
+      {
+        "position": 9,
+        "surface": "תֹּאכְל֖וּ",
+        "phrase": "you shall eat",
+        "literal": "you-will-eat",
+        "source": "H398 (KJV: ye shall eat; ESV: you shall eat; NASB: you shall eat)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "תְּבוּאָתָֽ/הּ",
+        "phrase": "its produce",
+        "literal": "produce-its",
+        "source": "H8393 (KJV: the increase thereof; ESV: its produce; NASB: its produce)"
+      }
+    ]
+  }
+]

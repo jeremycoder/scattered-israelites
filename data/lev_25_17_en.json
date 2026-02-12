@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV: therefore not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תוֹנוּ֙",
+        "phrase": "you shall oppress",
+        "literal": "you-shall-oppress",
+        "source": "H3238; KJV: oppress, ESV: wrong, NASB: wrong"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֣ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376; KJV: one, ESV: one, NASB: one"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲמִית֔/וֹ",
+        "phrase": "his fellow",
+        "literal": "fellow-his",
+        "source": "H5997; KJV: another, ESV: another, NASB: another"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יָרֵ֖אתָ",
+        "phrase": "and you shall fear",
+        "literal": "and-you-shall-fear",
+        "source": "H3372; KJV: fear, ESV: fear, NASB: fear"
+      },
+      {
+        "position": 7,
+        "surface": "מֵֽ/אֱלֹהֶ֑י/ךָ",
+        "phrase": "from your God",
+        "literal": "from-God-your",
+        "source": "H430; KJV: thy God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV: for, ESV: for, NASB: for"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV: I, ESV: I, NASB: I"
+      },
+      {
+        "position": 10,
+        "surface": "יְהֹוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430; KJV: your God, ESV: your God, NASB: your God"
+      }
+    ]
+  }
+]

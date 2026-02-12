@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 4,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'And if'; ESV: 'If'; NASB: 'But if')"
+      },
+      {
+        "position": 2,
+        "surface": "כֶּ֛בֶשׂ",
+        "phrase": "a lamb",
+        "literal": "lamb",
+        "source": "H3532 (KJV: 'lamb'; ESV: 'lamb'; NASB: 'lamb')"
+      },
+      {
+        "position": 3,
+        "surface": "יָבִ֥יא",
+        "phrase": "he brings",
+        "literal": "he-brings",
+        "source": "H935 (KJV: 'bring'; ESV: 'brings'; NASB: 'brings')"
+      },
+      {
+        "position": 4,
+        "surface": "קָרְבָּנ֖/וֹ",
+        "phrase": "his offering",
+        "literal": "offering-his",
+        "source": "H7133 (KJV: 'offering'; ESV: 'offering'; NASB: 'offering')"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/חַטָּ֑את",
+        "phrase": "for a sin offering",
+        "literal": "to-sin-offering",
+        "source": "H2403 (KJV: 'sin offering'; ESV: 'sin offering'; NASB: 'sin offering')"
+      },
+      {
+        "position": 6,
+        "surface": "נְקֵבָ֥ה",
+        "phrase": "female",
+        "literal": "female",
+        "source": "H5347 (KJV: 'female'; ESV: 'female'; NASB: 'female')"
+      },
+      {
+        "position": 7,
+        "surface": "תְמִימָ֖ה",
+        "phrase": "without blemish",
+        "literal": "perfect",
+        "source": "H8549 (KJV: 'without blemish'; ESV: 'without blemish'; NASB: 'without defect')"
+      },
+      {
+        "position": 8,
+        "surface": "יְבִיאֶֽ/נָּה",
+        "phrase": "he shall bring it",
+        "literal": "he-brings-her",
+        "source": "H935 (KJV: 'bring it'; ESV: 'bring'; NASB: 'bring it')"
+      }
+    ]
+  }
+]

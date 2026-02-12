@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 56,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לַ/שְׂאֵ֥ת",
+        "phrase": "and for a swelling",
+        "literal": "and-to-the-swelling",
+        "source": "H7613; KJV: rising, ESV: swelling, NASB: swelling"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/לַ/סַּפַּ֖חַת",
+        "phrase": "and for a scab",
+        "literal": "and-to-the-scab",
+        "source": "H5597; KJV: scab, ESV: eruption/rash, NASB: scab"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לַ/בֶּהָֽרֶת",
+        "phrase": "and for a bright spot",
+        "literal": "and-to-the-bright-spot",
+        "source": "H934; KJV: bright spot, ESV: spot, NASB: bright spot"
+      }
+    ]
+  }
+]

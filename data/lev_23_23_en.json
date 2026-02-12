@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "And spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 (KJV: And the LORD spake; ESV: The LORD spoke; NASB: Again the LORD spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֥ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵּ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      }
+    ]
+  }
+]

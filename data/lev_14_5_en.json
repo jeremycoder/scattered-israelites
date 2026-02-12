@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 14,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/צִוָּה֙",
+        "phrase": "and shall command",
+        "literal": "and-he-commands",
+        "source": "H6680 (KJV: command; ESV: command; NASB: give orders)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שָׁחַ֖ט",
+        "phrase": "and slaughter",
+        "literal": "and-he-slaughters",
+        "source": "H7819 (KJV: be killed; ESV: kill; NASB: slay)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/צִּפּ֣וֹר",
+        "phrase": "the bird",
+        "literal": "the-bird",
+        "source": "H6833 (KJV: birds; ESV: birds; NASB: bird)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֶחָ֑ת",
+        "phrase": "the one",
+        "literal": "the-one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to/into",
+        "source": "H413 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "כְּלִי",
+        "phrase": "vessel",
+        "literal": "vessel",
+        "source": "H3627 (KJV: vessel; ESV: earthenware vessel; NASB: earthenware vessel)"
+      },
+      {
+        "position": 9,
+        "surface": "חֶ֖רֶשׂ",
+        "phrase": "earthen",
+        "literal": "earthen",
+        "source": "H2789 (KJV: earthen; ESV: earthenware; NASB: earthenware)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over/upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 11,
+        "surface": "מַ֥יִם",
+        "phrase": "water",
+        "literal": "waters",
+        "source": "H4325 (KJV: water; ESV: fresh water; NASB: running water)"
+      },
+      {
+        "position": 12,
+        "surface": "חַיִּֽים",
+        "phrase": "living",
+        "literal": "living",
+        "source": "H2416 (KJV: running; ESV: fresh; NASB: running)"
+      }
+    ]
+  }
+]

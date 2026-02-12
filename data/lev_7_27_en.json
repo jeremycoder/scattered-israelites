@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "Any",
+        "literal": "all-",
+        "source": "H3605 (KJV: Whatsoever; ESV: any; NASB: Any)"
+      },
+      {
+        "position": 2,
+        "surface": "נֶ֖פֶשׁ",
+        "phrase": "person",
+        "literal": "soul",
+        "source": "H5315 (KJV: soul; ESV: person; NASB: person)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "that-which",
+        "source": "H834 (KJV: it be that; ESV: -; NASB: who)"
+      },
+      {
+        "position": 4,
+        "surface": "תֹּאכַ֣ל",
+        "phrase": "eats",
+        "literal": "she-will-eat",
+        "source": "H398 (KJV: eateth; ESV: eats; NASB: eats)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all-",
+        "source": "H3605 (KJV: any manner of; ESV: any; NASB: any)"
+      },
+      {
+        "position": 6,
+        "surface": "דָּ֑ם",
+        "phrase": "blood",
+        "literal": "blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/נִכְרְתָ֛ה",
+        "phrase": "shall be cut off",
+        "literal": "and-she-will-be-cut-off",
+        "source": "H3772 (KJV: shall be cut off; ESV: shall be cut off; NASB: shall be cut off)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/נֶּ֥פֶשׁ",
+        "phrase": "that person",
+        "literal": "the-soul",
+        "source": "H5315 (KJV: that soul; ESV: that person; NASB: that person)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/הִ֖וא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931 (KJV: even that; ESV: that; NASB: even that)"
+      },
+      {
+        "position": 10,
+        "surface": "מֵֽ/עַמֶּֽי/הָ",
+        "phrase": "from her people",
+        "literal": "from-peoples-her",
+        "source": "H5971 (KJV: from his people; ESV: from his people; NASB: from his people)"
+      }
+    ]
+  }
+]

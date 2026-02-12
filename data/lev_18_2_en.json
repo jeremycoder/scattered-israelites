@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "דַּבֵּר֙",
+        "phrase": "Speak",
+        "literal": "speak",
+        "source": "H1696 (KJV: Speak; ESV: Speak; NASB: Speak)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "children of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָמַרְתָּ֖",
+        "phrase": "and say",
+        "literal": "and-you-shall-say",
+        "source": "H559 (KJV: say; ESV: say; NASB: say)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲלֵ/הֶ֑ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: to them; NASB: to them)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-of-you-all",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      }
+    ]
+  }
+]

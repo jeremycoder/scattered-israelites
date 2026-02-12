@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/מּוֹצִ֤יא",
+        "phrase": "who brought out",
+        "literal": "the-one-bringing-out",
+        "source": "H3318; KJV: 'that brought', ESV: 'who brought', NASB: 'who brought'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶתְ/כֶם֙",
+        "phrase": "you",
+        "literal": "[direct object marker]-you(pl.)",
+        "source": "H853; KJV: 'you', ESV: 'you', NASB: 'you'"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/אֶ֣רֶץ",
+        "phrase": "from the land",
+        "literal": "from-land",
+        "source": "H776; KJV: 'out of the land', ESV: 'out of the land', NASB: 'out of the land'"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714; KJV: 'of Egypt', ESV: 'of Egypt', NASB: 'of Egypt'"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/הְי֥וֹת",
+        "phrase": "to be",
+        "literal": "to-be",
+        "source": "H1961; KJV: 'to be', ESV: 'to be', NASB: 'to be'"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you(pl.)",
+        "source": "; KJV: 'your', ESV: 'your', NASB: 'your'"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אלֹהִ֑ים",
+        "phrase": "a God",
+        "literal": "to-God",
+        "source": "H430; KJV: 'God', ESV: 'God', NASB: 'God'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV: 'I', ESV: 'I', NASB: 'I'"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      }
+    ]
+  }
+]

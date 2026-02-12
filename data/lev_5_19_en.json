@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 5,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָשָׁ֖ם",
+        "phrase": "guilt offering",
+        "literal": "guilt-offering",
+        "source": "H817 (KJV: trespass offering; ESV: guilt offering; NASB: guilt offering)"
+      },
+      {
+        "position": 2,
+        "surface": "ה֑וּא",
+        "phrase": "it is",
+        "literal": "he/it-is",
+        "source": "H1931 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "אָשֹׁ֥ם",
+        "phrase": "certainly guilty",
+        "literal": "guilty-INF",
+        "source": "H816 (KJV: certainly; ESV: indeed; NASB: certainly)"
+      },
+      {
+        "position": 4,
+        "surface": "אָשַׁ֖ם",
+        "phrase": "he was guilty",
+        "literal": "he-has-guiltied",
+        "source": "H816 (KJV: trespassed; ESV: incurred guilt; NASB: guilty)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "before YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: against the LORD; ESV: before the Lord; NASB: before the Lord)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/חֲמִשָּׁ֨ה",
+        "phrase": "and-on-the-fifteenth",
+        "literal": "and-in-the-fifth",
+        "source": "H2568; KJV/NASB/ESV: fifteenth (as part of date)"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂ֥ר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/NASB/ESV: ten (forming fifteen)"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹם֙",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117; KJV/NASB/ESV: day"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/חֹ֣דֶשׁ",
+        "phrase": "of-the-month",
+        "literal": "to-the-month",
+        "source": "H2320; KJV/NASB/ESV: of the month"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088; KJV/NASB/ESV: same/this"
+      },
+      {
+        "position": 6,
+        "surface": "חַ֥ג",
+        "phrase": "feast",
+        "literal": "feast",
+        "source": "H2282; KJV: feast; NASB/ESV: Feast"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מַּצּ֖וֹת",
+        "phrase": "of-Unleavened-Bread",
+        "literal": "the-unleavened-breads",
+        "source": "H4682; KJV/NASB/ESV: unleavened bread"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to-YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV: LORD; NASB/ESV: LORD"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven-of",
+        "source": "H7651; KJV/NASB/ESV: seven"
+      },
+      {
+        "position": 10,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117; KJV/NASB/ESV: days"
+      },
+      {
+        "position": 11,
+        "surface": "מַצּ֥וֹת",
+        "phrase": "unleavened-bread",
+        "literal": "unleavened-breads",
+        "source": "H4682; KJV/NASB/ESV: unleavened bread"
+      },
+      {
+        "position": 12,
+        "surface": "תֹּאכֵֽלוּ",
+        "phrase": "you-shall-eat",
+        "literal": "you(pl)-eat",
+        "source": "H398; KJV: ye must eat; NASB/ESV: you shall eat"
+      }
+    ]
+  }
+]

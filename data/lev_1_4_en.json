@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 1,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/סָמַ֣ךְ",
+        "phrase": "and he shall lay",
+        "literal": "and-he-shall-lay",
+        "source": "H5564; KJV: 'put', ESV: 'lay', NASB: 'lay'"
+      },
+      {
+        "position": 2,
+        "surface": "יָד֔/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "H3027; KJV: 'his hand', ESV: 'his hand', NASB: 'his hand'"
+      },
+      {
+        "position": 3,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV: 'upon', ESV: 'on', NASB: 'on'"
+      },
+      {
+        "position": 4,
+        "surface": "רֹ֣אשׁ",
+        "phrase": "the head",
+        "literal": "head",
+        "source": "H7218; KJV: 'head', ESV: 'head', NASB: 'head'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עֹלָ֑ה",
+        "phrase": "of the burnt offering",
+        "literal": "the-burnt.offering",
+        "source": "H5930; KJV: 'burnt offering', ESV: 'burnt offering', NASB: 'burnt offering'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נִרְצָ֥ה",
+        "phrase": "it shall be accepted",
+        "literal": "and-it-shall-be-accepted",
+        "source": "H7521; KJV: 'accepted', ESV: 'accepted', NASB: 'accepted'"
+      },
+      {
+        "position": 7,
+        "surface": "ל֖/וֹ",
+        "phrase": "for him",
+        "literal": "to-him",
+        "source": "''; KJV: 'for him', ESV: 'on his behalf', NASB: 'for him'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/כַפֵּ֥ר",
+        "phrase": "to make atonement",
+        "literal": "to-make.atonement",
+        "source": "H3722; KJV: 'to make an atonement', ESV: 'to make atonement', NASB: 'to make atonement'"
+      },
+      {
+        "position": 9,
+        "surface": "עָלָֽי/ו",
+        "phrase": "for him",
+        "literal": "on-him",
+        "source": "H5921; KJV: 'for him', ESV: 'for him', NASB: 'for him'"
+      }
+    ]
+  }
+]

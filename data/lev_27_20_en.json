@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: But if; NASB: Yet if)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: does not; NASB: does not)"
+      },
+      {
+        "position": 3,
+        "surface": "יִגְאַל֙",
+        "phrase": "he redeems",
+        "literal": "he-redeems",
+        "source": "H1350 (KJV: redeem; ESV: redeem; NASB: redeem)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׂדֶ֔ה",
+        "phrase": "field",
+        "literal": "the-field",
+        "source": "H7704 (KJV: field; ESV: field; NASB: field)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אִם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "H518 (KJV: or if; ESV: or if; NASB: but has)"
+      },
+      {
+        "position": 7,
+        "surface": "מָכַ֥ר",
+        "phrase": "he has sold",
+        "literal": "he-sold",
+        "source": "H4376 (KJV: have sold; ESV: has sold; NASB: has sold)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שָּׂדֶ֖ה",
+        "phrase": "field",
+        "literal": "the-field",
+        "source": "H7704 (KJV: field; ESV: field; NASB: field)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/אִ֣ישׁ",
+        "phrase": "to man",
+        "literal": "to-man",
+        "source": "H376 (KJV: to another man; ESV: to another man; NASB: to another person)"
+      },
+      {
+        "position": 11,
+        "surface": "אַחֵ֑ר",
+        "phrase": "another",
+        "literal": "other",
+        "source": "H312 (KJV: another; ESV: another; NASB: another)"
+      },
+      {
+        "position": 12,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: it may no)"
+      },
+      {
+        "position": 13,
+        "surface": "יִגָּאֵ֖ל",
+        "phrase": "it shall be redeemed",
+        "literal": "it-is-redeemed",
+        "source": "H1350 (KJV: be redeemed; ESV: be redeemed; NASB: be redeemed)"
+      },
+      {
+        "position": 14,
+        "surface": "עֽוֹד",
+        "phrase": "anymore",
+        "literal": "again",
+        "source": "H5750 (KJV: any more; ESV: anymore; NASB: no longer)"
+      }
+    ]
+  }
+]

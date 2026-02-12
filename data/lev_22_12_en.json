@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַת",
+        "phrase": "And a daughter",
+        "literal": "and-daughter-of",
+        "source": "H1323; KJV 'daughter', ESV 'daughter', NASB 'daughter'"
+      },
+      {
+        "position": 2,
+        "surface": "כֹּהֵ֔ן",
+        "phrase": "of a priest",
+        "literal": "priest",
+        "source": "H3548; KJV 'priest', ESV 'priest', NASB 'priest'"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֥י",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H3588; KJV 'if', ESV 'if', NASB 'if'"
+      },
+      {
+        "position": 4,
+        "surface": "תִהְיֶ֖ה",
+        "phrase": "she becomes",
+        "literal": "she-is",
+        "source": "H1961; KJV 'be', ESV 'marries', NASB 'becomes'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/אִ֣ישׁ",
+        "phrase": "to a man",
+        "literal": "to-man",
+        "source": "H376; KJV 'man', ESV 'layman', NASB 'layman'"
+      },
+      {
+        "position": 6,
+        "surface": "זָ֑ר",
+        "phrase": "stranger",
+        "literal": "stranger",
+        "source": "H2114; KJV 'stranger', ESV 'layman', NASB 'layman'"
+      },
+      {
+        "position": 7,
+        "surface": "הִ֕וא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "H1931; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "בִּ/תְרוּמַ֥ת",
+        "phrase": "of the heave offering",
+        "literal": "in-heave.offering-of",
+        "source": "H8641; KJV 'heave offering', ESV 'contribution', NASB 'contribution'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/קֳּדָשִׁ֖ים",
+        "phrase": "of the holy things",
+        "literal": "the-holy.things",
+        "source": "H6944; KJV 'holy things', ESV 'holy things', NASB 'sacred gifts'"
+      },
+      {
+        "position": 10,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV 'shall not', ESV 'shall not', NASB 'shall not'"
+      },
+      {
+        "position": 11,
+        "surface": "תֹאכֵֽל",
+        "phrase": "eat",
+        "literal": "eat",
+        "source": "H398; KJV 'eat', ESV 'eat', NASB 'eat'"
+      }
+    ]
+  }
+]

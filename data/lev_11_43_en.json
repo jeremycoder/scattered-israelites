@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַל",
+        "phrase": "Do not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תְּשַׁקְּצוּ֙",
+        "phrase": "make yourselves detestable",
+        "literal": "make-yourselves-abominable",
+        "source": "H8262; KJV: 'make yourselves abominable'; ESV: 'make yourselves detestable'; NASB: 'make yourselves detestable'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object)",
+        "source": "H853; KJV/ESV/NASB: (implied in translation)"
+      },
+      {
+        "position": 4,
+        "surface": "נַפְשֹׁ֣תֵי/כֶ֔ם",
+        "phrase": "yourselves",
+        "literal": "souls-your",
+        "source": "H5315; KJV: 'yourselves'; ESV: 'yourselves'; NASB: 'yourselves'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/כָל",
+        "phrase": "with any",
+        "literal": "in-all",
+        "source": "H3605; KJV: 'with any'; ESV: 'with any'; NASB: 'through any'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שֶּׁ֖רֶץ",
+        "phrase": "creeping thing",
+        "literal": "the-swarming-thing",
+        "source": "H8318; KJV: 'creeping thing'; ESV: 'swarming thing'; NASB: 'swarming things'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שֹּׁרֵ֑ץ",
+        "phrase": "that creeps",
+        "literal": "the-one-swarming",
+        "source": "H8317; KJV: 'that creepeth'; ESV: 'that swarms'; NASB: 'that swarm'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808; KJV/ESV/NASB: 'neither...nor'"
+      },
+      {
+        "position": 9,
+        "surface": "תִֽטַּמְּאוּ֙",
+        "phrase": "make yourselves unclean",
+        "literal": "be-made-unclean",
+        "source": "H2930; KJV: 'make yourselves unclean'; ESV: 'make yourselves unclean'; NASB: 'make yourselves unclean'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/הֶ֔ם",
+        "phrase": "with them",
+        "literal": "in-them",
+        "source": "''; KJV/ESV/NASB: 'with them'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/נִטְמֵתֶ֖ם",
+        "phrase": "that you become defiled",
+        "literal": "and-be-defiled",
+        "source": "H2930; KJV: 'that ye should be defiled'; ESV: 'that you should be defiled'; NASB: 'so that you become unclean'"
+      },
+      {
+        "position": 12,
+        "surface": "בָּֽ/ם",
+        "phrase": "by them",
+        "literal": "in-them",
+        "source": "''; KJV/ESV/NASB: 'thereby'"
+      }
+    ]
+  }
+]

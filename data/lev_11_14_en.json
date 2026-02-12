@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'and the'; NASB: 'and the')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ֨/דָּאָ֔ה",
+        "phrase": "kite",
+        "literal": "the-kite",
+        "source": "H1676 (KJV: 'kite'; ESV: 'red kite'; NASB: 'red kite')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'and the'; NASB: 'and the')"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אַיָּ֖ה",
+        "phrase": "black kite",
+        "literal": "the-black_kite",
+        "source": "H344 (KJV: 'kite'; ESV: 'black kite'; NASB: 'black kite')"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מִינָֽ/הּ",
+        "phrase": "according to its kind",
+        "literal": "to-kind-its",
+        "source": "H4327 (KJV: 'after his kind'; ESV: 'any kind of'; NASB: 'after its kind')"
+      }
+    ]
+  }
+]

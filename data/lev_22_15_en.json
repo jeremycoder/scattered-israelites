@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "יְחַלְּל֔וּ",
+        "phrase": "they shall profane",
+        "literal": "they-shall-profan",
+        "source": "H2490 (KJV: profane; ESV: profane; NASB: profane)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "קָדְשֵׁ֖י",
+        "phrase": "holy things",
+        "literal": "holy-things",
+        "source": "H6944 (KJV: holy things; ESV: holy things; NASB: holy gifts)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֥ת",
+        "phrase": "[the]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: which; NASB: which)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 9,
+        "surface": "יָרִ֖ימוּ",
+        "phrase": "they offer",
+        "literal": "they-raise",
+        "source": "H7311 (KJV: offer; ESV: contribute; NASB: present)"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

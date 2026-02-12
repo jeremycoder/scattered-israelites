@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּנִּיחֻ֖/הוּ",
+        "phrase": "and they placed him",
+        "literal": "and-they-placed-him",
+        "source": "H3240; KJV: 'they put', ESV: 'they put', NASB: 'they put'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/מִּשְׁמָ֑ר",
+        "phrase": "in custody",
+        "literal": "in-the-custody",
+        "source": "H4929; KJV: 'in ward', ESV: 'in custody', NASB: 'in custody'"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְרֹ֥שׁ",
+        "phrase": "to make clear",
+        "literal": "to-make-clear",
+        "source": "H6567; KJV: 'to expound', ESV: 'to make clear', NASB: 'to give a clear decision'"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "; KJV: 'unto them', ESV: 'to them', NASB: 'to them'"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "according to",
+        "literal": "upon",
+        "source": "H5921; KJV: 'according to', ESV: 'by', NASB: 'by'"
+      },
+      {
+        "position": 6,
+        "surface": "פִּ֥י",
+        "phrase": "the mouth of",
+        "literal": "mouth-of",
+        "source": "H6310; KJV: 'mouth', ESV: 'mouth', NASB: 'mouth'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      }
+    ]
+  }
+]

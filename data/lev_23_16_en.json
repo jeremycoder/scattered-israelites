@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 23,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַ֣ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 2,
+        "surface": "מִֽ/מָּחֳרַ֤ת",
+        "phrase": "the morrow after",
+        "literal": "from-morrow_of",
+        "source": "H4283 (KJV: morrow after; ESV: day after; NASB: day after)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שַּׁבָּת֙",
+        "phrase": "the Sabbath",
+        "literal": "the-sabbath",
+        "source": "H7676 (KJV: the sabbath; ESV: the Sabbath; NASB: the sabbath)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁבִיעִ֔ת",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637 (KJV: seventh; ESV: seventh; NASB: seventh)"
+      },
+      {
+        "position": 5,
+        "surface": "תִּסְפְּר֖וּ",
+        "phrase": "you shall count",
+        "literal": "you(pl)-shall-count",
+        "source": "H5608 (KJV: number; ESV: count; NASB: count)"
+      },
+      {
+        "position": 6,
+        "surface": "חֲמִשִּׁ֣ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572 (KJV: fifty; ESV: fifty; NASB: fifty)"
+      },
+      {
+        "position": 7,
+        "surface": "י֑וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִקְרַבְתֶּ֛ם",
+        "phrase": "and you shall present",
+        "literal": "and-you(pl)-shall-present",
+        "source": "H7126 (KJV: offer; ESV: present; NASB: present)"
+      },
+      {
+        "position": 9,
+        "surface": "מִנְחָ֥ה",
+        "phrase": "grain offering",
+        "literal": "offering",
+        "source": "H4503 (KJV: meat offering; ESV: grain offering; NASB: grain offering)"
+      },
+      {
+        "position": 10,
+        "surface": "חֲדָשָׁ֖ה",
+        "phrase": "new",
+        "literal": "new",
+        "source": "H2319 (KJV: new; ESV: new; NASB: new)"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

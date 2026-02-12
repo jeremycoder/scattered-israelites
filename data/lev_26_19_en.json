@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁבַרְתִּ֖י",
+        "phrase": "and I will break",
+        "literal": "and-I-will-break",
+        "source": "H7665 (KJV: break; ESV: break; NASB: break down)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "גְּא֣וֹן",
+        "phrase": "pride",
+        "literal": "pride",
+        "source": "H1347 (KJV: pride; ESV: pride; NASB: pride)"
+      },
+      {
+        "position": 4,
+        "surface": "עֻזְּ/כֶ֑ם",
+        "phrase": "of your strength",
+        "literal": "strength-your",
+        "source": "H5797 (KJV: power; ESV: power; NASB: power)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/נָתַתִּ֤י",
+        "phrase": "and I will make",
+        "literal": "and-I-will-give",
+        "source": "H5414 (KJV: make; ESV: make; NASB: make)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "your",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמֵי/כֶם֙",
+        "phrase": "heavens",
+        "literal": "heavens-your",
+        "source": "H8064 (KJV: heaven; ESV: heavens; NASB: sky)"
+      },
+      {
+        "position": 8,
+        "surface": "כַּ/בַּרְזֶ֔ל",
+        "phrase": "like iron",
+        "literal": "like-iron",
+        "source": "H1270 (KJV: iron; ESV: iron; NASB: iron)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and your",
+        "literal": "and-direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "אַרְצְ/כֶ֖ם",
+        "phrase": "earth",
+        "literal": "earth-your",
+        "source": "H776 (KJV: earth; ESV: earth; NASB: earth)"
+      },
+      {
+        "position": 11,
+        "surface": "כַּ/נְּחֻשָֽׁה",
+        "phrase": "like bronze",
+        "literal": "like-bronze",
+        "source": "H5154 (KJV: brass; ESV: bronze; NASB: bronze)"
+      }
+    ]
+  }
+]

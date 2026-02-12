@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חֲסִידָ֔ה",
+        "phrase": "stork",
+        "literal": "the-stork",
+        "source": "H2624 (KJV: stork; ESV: stork; NASB: stork)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֲנָפָ֖ה",
+        "phrase": "heron",
+        "literal": "the-heron",
+        "source": "H601 (KJV: heron; ESV: heron; NASB: heron)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/מִינָ֑/הּ",
+        "phrase": "after its kind",
+        "literal": "to-kind-its",
+        "source": "H4327 (KJV: after her kind; ESV: after its kind; NASB: after its kind)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דּוּכִיפַ֖ת",
+        "phrase": "hoopoe",
+        "literal": "the-hoopoe",
+        "source": "H1744 (KJV: lapwing; ESV: hoopoe; NASB: hoopoe)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עֲטַלֵּֽף",
+        "phrase": "bat",
+        "literal": "the-bat",
+        "source": "H5847 (KJV: bat; ESV: bat; NASB: bat)"
+      }
+    ]
+  }
+]

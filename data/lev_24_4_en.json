@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַ֚ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV: upon, ESV: on, NASB: on"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מְּנֹרָ֣ה",
+        "phrase": "the lampstand",
+        "literal": "the-lampstand",
+        "source": "H4501; KJV: candlestick, ESV: lampstand, NASB: lampstand"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/טְּהֹרָ֔ה",
+        "phrase": "the pure",
+        "literal": "the-pure",
+        "source": "H2889; KJV: pure, ESV: pure, NASB: pure"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲרֹ֖ךְ",
+        "phrase": "he shall arrange",
+        "literal": "he-will-arrange",
+        "source": "H6186; KJV: order, ESV: arrange, NASB: keep...in order"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נֵּר֑וֹת",
+        "phrase": "the lamps",
+        "literal": "the-lamps",
+        "source": "H5216; KJV: lamps, ESV: lamps, NASB: lamps"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440; KJV: before, ESV: before, NASB: before"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD, ESV: Lord, NASB: LORD"
+      },
+      {
+        "position": 9,
+        "surface": "תָּמִֽיד",
+        "phrase": "continually",
+        "literal": "continually",
+        "source": "H8548; KJV: continually, ESV: regularly, NASB: continually"
+      }
+    ]
+  }
+]

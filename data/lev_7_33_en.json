@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/מַּקְרִ֞יב",
+        "phrase": "the one offering",
+        "literal": "the-offering",
+        "source": "H7126 (KJV: offereth; ESV: offers; NASB: offers)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "דַּ֧ם",
+        "phrase": "blood",
+        "literal": "blood",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁלָמִ֛ים",
+        "phrase": "the peace offerings",
+        "literal": "the-peace.offerings",
+        "source": "H8002 (KJV: peace offerings; ESV: peace offerings; NASB: peace offerings)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/חֵ֖לֶב",
+        "phrase": "the fat",
+        "literal": "the-fat",
+        "source": "H2459 (KJV: fat; ESV: fat; NASB: fat)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/בְּנֵ֣י",
+        "phrase": "from sons of",
+        "literal": "from-sons.of",
+        "source": "H1121 (KJV: among the sons; ESV: among the sons; NASB: among the sons)"
+      },
+      {
+        "position": 8,
+        "surface": "אַהֲרֹ֑ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 9,
+        "surface": "ל֧/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: his; ESV: his; NASB: his)"
+      },
+      {
+        "position": 10,
+        "surface": "תִהְיֶ֛ה",
+        "phrase": "it shall be",
+        "literal": "it-will.be",
+        "source": "H1961 (KJV: shall have; ESV: shall have; NASB: shall be)"
+      },
+      {
+        "position": 11,
+        "surface": "שׁ֥וֹק",
+        "phrase": "thigh",
+        "literal": "thigh",
+        "source": "H7785 (KJV: shoulder; ESV: thigh; NASB: thigh)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/יָּמִ֖ין",
+        "phrase": "the right",
+        "literal": "the-right",
+        "source": "H3225 (KJV: right; ESV: right; NASB: right)"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/מָנָֽה",
+        "phrase": "as a portion",
+        "literal": "as-portion",
+        "source": "H4490 (KJV: part; ESV: portion; NASB: portion)"
+      }
+    ]
+  }
+]

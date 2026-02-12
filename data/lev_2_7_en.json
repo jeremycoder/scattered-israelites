@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'And if'; ESV: 'If'; NASB: 'Now if')"
+      },
+      {
+        "position": 2,
+        "surface": "מִנְחַ֥ת",
+        "phrase": "grain offering",
+        "literal": "offering-of-grain",
+        "source": "H4503 (KJV: 'oblation'; ESV: 'grain offering'; NASB: 'grain offering')"
+      },
+      {
+        "position": 3,
+        "surface": "מַרְחֶ֖שֶׁת",
+        "phrase": "pan",
+        "literal": "pan",
+        "source": "H4802 (KJV: 'fryingpan'; ESV: 'pan'; NASB: 'pan')"
+      },
+      {
+        "position": 4,
+        "surface": "קָרְבָּנֶ֑/ךָ",
+        "phrase": "your offering",
+        "literal": "offering-your",
+        "source": "H7133 (KJV: 'thy offering'; ESV: 'your offering'; NASB: 'your offering')"
+      },
+      {
+        "position": 5,
+        "surface": "סֹ֥לֶת",
+        "phrase": "fine flour",
+        "literal": "fine-flour",
+        "source": "H5560 (KJV: 'fine flour'; ESV: 'fine flour'; NASB: 'fine flour')"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/שֶּׁ֖מֶן",
+        "phrase": "in oil",
+        "literal": "in-the-oil",
+        "source": "H8081 (KJV: 'oil'; ESV: 'oil'; NASB: 'oil')"
+      },
+      {
+        "position": 7,
+        "surface": "תֵּעָשֶֽׂה",
+        "phrase": "it shall be made",
+        "literal": "it-shall-be-made",
+        "source": "H6213 (KJV: 'baken'; ESV: 'made'; NASB: 'made')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 16,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִלָּה֙",
+        "phrase": "And when he has finished",
+        "literal": "and-he-finishes",
+        "source": "H3615 (KJV: made an end; ESV: finished; NASB: finishes)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/כַּפֵּ֣ר",
+        "phrase": "of atoning for",
+        "literal": "from-atoning",
+        "source": "H3722 (KJV: reconciling; ESV: atoning; NASB: atoning)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קֹּ֔דֶשׁ",
+        "phrase": "the holy place",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: holy place; ESV: holy place; NASB: holy place)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹ֥הֶל",
+        "phrase": "tent",
+        "literal": "tent",
+        "source": "H168 (KJV: tabernacle; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 7,
+        "surface": "מוֹעֵ֖ד",
+        "phrase": "of meeting",
+        "literal": "of-appointment",
+        "source": "H4150 (KJV: congregation; ESV: meeting; NASB: meeting)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּזְבֵּ֑חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הִקְרִ֖יב",
+        "phrase": "and he shall present",
+        "literal": "and-he-causes-to-approach",
+        "source": "H7126 (KJV: bring; ESV: present; NASB: offer)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/שָּׂעִ֥יר",
+        "phrase": "the goat",
+        "literal": "the-goat",
+        "source": "H8163 (KJV: goat; ESV: goat; NASB: goat)"
+      },
+      {
+        "position": 13,
+        "surface": "הֶ/חָֽי",
+        "phrase": "the live",
+        "literal": "the-living",
+        "source": "H2416 (KJV: live; ESV: live; NASB: live)"
+      }
+    ]
+  }
+]

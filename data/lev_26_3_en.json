@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/חֻקֹּתַ֖/י",
+        "phrase": "in My statutes",
+        "literal": "in-statutes-my",
+        "source": "H2708 (KJV: in my statutes; ESV: in my statutes; NASB: in My statutes)"
+      },
+      {
+        "position": 3,
+        "surface": "תֵּלֵ֑כוּ",
+        "phrase": "you walk",
+        "literal": "you(pl)-walk",
+        "source": "H3212 (KJV: walk; ESV: walk; NASB: walk)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and-",
+        "literal": "and-Acc",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "מִצְוֺתַ֣/י",
+        "phrase": "My commandments",
+        "literal": "commandments-my",
+        "source": "H4687 (KJV: my commandments; ESV: my commandments; NASB: My commandments)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּשְׁמְר֔וּ",
+        "phrase": "keep",
+        "literal": "you(pl)-keep",
+        "source": "H8104 (KJV: keep; ESV: observe; NASB: keep)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/עֲשִׂיתֶ֖ם",
+        "phrase": "and do",
+        "literal": "and-you(pl)-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: carry...out)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָֽ/ם",
+        "phrase": "them",
+        "literal": "Acc-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      }
+    ]
+  }
+]

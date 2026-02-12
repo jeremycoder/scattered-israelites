@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 27,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּ/שְׁנַ֤ת",
+        "phrase": "In the year",
+        "literal": "in-year-of",
+        "source": "H8141 (KJV: year; ESV: year; NASB: year)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יּוֹבֵל֙",
+        "phrase": "of the jubilee",
+        "literal": "the-jubilee",
+        "source": "H3104 (KJV: jubile; ESV: jubilee; NASB: jubilee)"
+      },
+      {
+        "position": 3,
+        "surface": "יָשׁ֣וּב",
+        "phrase": "it shall return",
+        "literal": "it-will-return",
+        "source": "H7725 (KJV: return; ESV: return; NASB: return)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׂדֶ֔ה",
+        "phrase": "the field",
+        "literal": "the-field",
+        "source": "H7704 (KJV: field; ESV: field; NASB: field)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/אֲשֶׁ֥ר",
+        "phrase": "to the one from whom",
+        "literal": "to-who",
+        "source": "H834 (KJV: him of whom; ESV: him from whom; NASB: the one from whom)"
+      },
+      {
+        "position": 6,
+        "surface": "קָנָ֖/הוּ",
+        "phrase": "he bought it",
+        "literal": "he-acquired-it",
+        "source": "H7069 (KJV: bought; ESV: bought; NASB: bought)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אִתּ֑/וֹ",
+        "phrase": "from him",
+        "literal": "from-with-him",
+        "source": "H854 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/אֲשֶׁר",
+        "phrase": "to the one to whom",
+        "literal": "to-who",
+        "source": "H834 (KJV: to him to whom; ESV: to whom; NASB: to whom)"
+      },
+      {
+        "position": 9,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲחֻזַּ֥ת",
+        "phrase": "possession",
+        "literal": "possession",
+        "source": "H272 (KJV: possession; ESV: possession; NASB: possession)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      }
+    ]
+  }
+]

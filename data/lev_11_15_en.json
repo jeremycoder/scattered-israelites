@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֥ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV omits, ESV omits, NASB omits"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all-of",
+        "source": "H3605; KJV 'every', ESV 'every', NASB 'every'"
+      },
+      {
+        "position": 3,
+        "surface": "עֹרֵ֖ב",
+        "phrase": "raven",
+        "literal": "raven",
+        "source": "H6158; KJV 'raven', ESV 'raven', NASB 'raven'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/מִינֽ/וֹ",
+        "phrase": "after its kind",
+        "literal": "to-kind-his",
+        "source": "H4327; KJV 'after his kind', ESV 'after its kind', NASB 'after its kind"
+      }
+    ]
+  }
+]

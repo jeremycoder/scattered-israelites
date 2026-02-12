@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 2,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פָּת֤וֹת",
+        "phrase": "you shall break",
+        "literal": "break-impv",
+        "source": "H6626 (KJV: part; ESV: break; NASB: break)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ/הּ֙",
+        "phrase": "it",
+        "literal": "obj-marker/it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 3,
+        "surface": "פִּתִּ֔ים",
+        "phrase": "pieces",
+        "literal": "pieces",
+        "source": "H6595 (KJV: pieces; ESV: pieces; NASB: pieces)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יָצַקְתָּ֥",
+        "phrase": "and you shall pour",
+        "literal": "and-pour-2ms",
+        "source": "H3332 (KJV: pour; ESV: pour; NASB: pour)"
+      },
+      {
+        "position": 5,
+        "surface": "עָלֶ֖י/הָ",
+        "phrase": "on it",
+        "literal": "upon/it",
+        "source": "H5921 (KJV: thereon; ESV: on it; NASB: on it)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֑מֶן",
+        "phrase": "oil",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil; ESV: oil; NASB: oil)"
+      },
+      {
+        "position": 7,
+        "surface": "מִנְחָ֖ה",
+        "phrase": "grain offering",
+        "literal": "grain-offering",
+        "source": "H4503 (KJV: meat offering; ESV: grain offering; NASB: grain offering)"
+      },
+      {
+        "position": 8,
+        "surface": "הִֽוא",
+        "phrase": "it is",
+        "literal": "it-is",
+        "source": "H1931 (KJV: it is; ESV: it is; NASB: it is)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶל",
+        "phrase": "And to",
+        "literal": "and-to",
+        "source": "H413; KJV: 'unto', ESV: 'a', NASB: 'a'"
+      },
+      {
+        "position": 2,
+        "surface": "אִשָּׁ֖ה",
+        "phrase": "woman",
+        "literal": "woman",
+        "source": "H802; KJV: 'a woman', ESV: 'a woman', NASB: 'a woman'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/נִדַּ֣ת",
+        "phrase": "in the menstruation of",
+        "literal": "in-menstruation-of",
+        "source": "H5079; KJV: 'as long as she is put apart', ESV: 'while she is in her menstrual', NASB: 'while she is in her menstrual impurity'"
+      },
+      {
+        "position": 4,
+        "surface": "טֻמְאָתָ֑/הּ",
+        "phrase": "her uncleanness",
+        "literal": "uncleanness-her",
+        "source": "H2932; KJV: 'for her uncleanness', ESV: 'uncleanness', NASB: 'impurity'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'not', ESV: 'not', NASB: 'not'"
+      },
+      {
+        "position": 6,
+        "surface": "תִקְרַ֔ב",
+        "phrase": "you shall approach",
+        "literal": "you-shall-approach",
+        "source": "H7126; KJV: 'approach', ESV: 'approach', NASB: 'come near'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/גַלּ֖וֹת",
+        "phrase": "to uncover",
+        "literal": "to-uncover",
+        "source": "H1540; KJV: 'to uncover', ESV: 'to uncover', NASB: 'to uncover'"
+      },
+      {
+        "position": 8,
+        "surface": "עֶרְוָתָֽ/הּ",
+        "phrase": "her nakedness",
+        "literal": "nakedness-her",
+        "source": "H6172; KJV: 'her nakedness', ESV: 'her nakedness', NASB: 'her nakedness'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶ֨ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (implied, not translated)"
+      },
+      {
+        "position": 2,
+        "surface": "כַּסְפְּ/ךָ֔",
+        "phrase": "your money",
+        "literal": "silver-your",
+        "source": "H3701; KJV: thy money; ESV: your money; NASB: your silver"
+      },
+      {
+        "position": 3,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 4,
+        "surface": "תִתֵּ֥ן",
+        "phrase": "shall you give",
+        "literal": "you(m.s.)-shall-give",
+        "source": "H5414; KJV/ESV/NASB: give"
+      },
+      {
+        "position": 5,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV/ESV/NASB: him (pronominal suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/נֶ֑שֶׁךְ",
+        "phrase": "at interest",
+        "literal": "in-interest",
+        "source": "H5392; KJV: upon usury; ESV: at interest; NASB: at interest"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בְ/מַרְבִּ֖ית",
+        "phrase": "or for profit",
+        "literal": "and-in-increase",
+        "source": "H4768; KJV: for increase; ESV: for profit; NASB: for gain"
+      },
+      {
+        "position": 8,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 9,
+        "surface": "תִתֵּ֥ן",
+        "phrase": "shall you give",
+        "literal": "you(m.s.)-shall-give",
+        "source": "H5414; KJV/ESV/NASB: lend/give"
+      },
+      {
+        "position": 10,
+        "surface": "אָכְלֶֽ/ךָ",
+        "phrase": "your food",
+        "literal": "food-your",
+        "source": "H400; KJV: thy victuals; ESV: your food; NASB: your food"
+      }
+    ]
+  }
+]

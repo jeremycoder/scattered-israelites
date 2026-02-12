@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּקְרֵ֕ב",
+        "phrase": "and he presented",
+        "literal": "and-he-caused-to-draw-near",
+        "source": "H7126 (KJV: brought; ESV: presented; NASB: presented)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "קָרְבַּ֣ן",
+        "phrase": "offering",
+        "literal": "offering",
+        "source": "H7133 (KJV: offering; ESV: offering; NASB: offering)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֑ם",
+        "phrase": "of the people",
+        "literal": "the-of-the-people",
+        "source": "H5971 (KJV: peoples; ESV: peoples; NASB: peoples)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקַּ֞ח",
+        "phrase": "and he took",
+        "literal": "and-he-took",
+        "source": "H3947 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "שְׂעִ֤יר",
+        "phrase": "goat",
+        "literal": "goat",
+        "source": "H8163 (KJV: goat; ESV: goat; NASB: goat)"
+      },
+      {
+        "position": 8,
+        "surface": "הַֽ/חַטָּאת֙",
+        "phrase": "of the sin offering",
+        "literal": "the-of-sin-offering",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/עָ֔ם",
+        "phrase": "for the people",
+        "literal": "to/for-the-people",
+        "source": "H5971 (KJV: for the people; ESV: for the people; NASB: for the people)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יִּשְׁחָטֵ֥/הוּ",
+        "phrase": "and he slaughtered it",
+        "literal": "and-he-slaughtered-it",
+        "source": "H7819 (KJV: slew it; ESV: killed it; NASB: slaughtered it)"
+      },
+      {
+        "position": 12,
+        "surface": "וַֽ/יְחַטְּאֵ֖/הוּ",
+        "phrase": "and made atonement with it",
+        "literal": "and-he-made-sin/it",
+        "source": "H2398 (KJV: offered it for sin; ESV: offered it; NASB: made it a sin offering)"
+      },
+      {
+        "position": 13,
+        "surface": "כָּ/רִאשֽׁוֹן",
+        "phrase": "like the first",
+        "literal": "like-first-his",
+        "source": "H7223 (KJV: as the first; ESV: as the first; NASB: as the first)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 22,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808; KJV: shall ye profane, ESV: shall not profane, NASB: shall not profane"
+      },
+      {
+        "position": 2,
+        "surface": "תְחַלְּלוּ֙",
+        "phrase": "you-shall profane",
+        "literal": "you(pl)-shall profane",
+        "source": "H2490; KJV: profane, ESV: profane, NASB: profane"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "שֵׁ֣ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "H8034; KJV: my holy name, ESV: my holy name, NASB: My holy name"
+      },
+      {
+        "position": 5,
+        "surface": "קָדְשִׁ֔/י",
+        "phrase": "my holy",
+        "literal": "holy-my",
+        "source": "H6944; KJV: my holy name, ESV: my holy name, NASB: My holy name"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נִ֨קְדַּשְׁתִּ֔י",
+        "phrase": "and-I-shall-be-sanctified",
+        "literal": "and-I-shall-be-sanctified",
+        "source": "H6942; KJV: I will be hallowed, ESV: I may be sanctified, NASB: I will be sanctified"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/ת֖וֹךְ",
+        "phrase": "in-the-midst-of",
+        "literal": "in-midst-of",
+        "source": "H8432; KJV: among, ESV: among, NASB: among"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons-of",
+        "literal": "sons-of",
+        "source": "H1121; KJV: children of, ESV: people of, NASB: sons of"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: Israel, ESV: Israel, NASB: Israel"
+      },
+      {
+        "position": 10,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV: I am, ESV: I am, NASB: I am"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 12,
+        "surface": "מְקַדִּשְׁ/כֶֽם",
+        "phrase": "sanctifying-you(pl)",
+        "literal": "sanctifying-you(pl)",
+        "source": "H6942; KJV: which hallow you, ESV: who sanctifies you, NASB: who sanctifies you"
+      }
+    ]
+  }
+]

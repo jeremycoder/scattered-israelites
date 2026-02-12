@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-of",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 2,
+        "surface": "יְמֵ֥י",
+        "phrase": "days",
+        "literal": "days-of",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 3,
+        "surface": "הָשַּׁמָּ֖/ה",
+        "phrase": "that it is desolate",
+        "literal": "the-desolation-of-it",
+        "source": "H8074 (KJV: it lieth desolate; ESV: it lies desolate; NASB: it lies desolate)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁבֹּ֑ת",
+        "phrase": "it shall rest",
+        "literal": "she-shall-rest",
+        "source": "H7673 (KJV: it shall rest; ESV: it shall have rest; NASB: it will have rest)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֣ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: the rest that; NASB: the rest that)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: did not; NASB: did not)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁבְתָ֛ה",
+        "phrase": "it rested",
+        "literal": "she-rested",
+        "source": "H7673 (KJV: it rest; ESV: it did rest; NASB: it observed)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/שַׁבְּתֹתֵי/כֶ֖ם",
+        "phrase": "in your sabbaths",
+        "literal": "in-sabbaths-of-you(pl)",
+        "source": "H7676 (KJV: in your sabbaths; ESV: in your Sabbaths; NASB: in your sabbaths)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/שִׁבְתְּ/כֶ֥ם",
+        "phrase": "when you dwelt",
+        "literal": "in-dwelling-of-you(pl)",
+        "source": "H3427 (KJV: when ye dwelt; ESV: while you were dwelling; NASB: while you were dwelling)"
+      },
+      {
+        "position": 11,
+        "surface": "עָלֶֽי/הָ",
+        "phrase": "upon it",
+        "literal": "upon-it",
+        "source": "H5921 (KJV: upon it; ESV: upon it; NASB: upon it)"
+      }
+    ]
+  }
+]

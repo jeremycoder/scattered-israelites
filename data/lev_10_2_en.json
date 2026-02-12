@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֥צֵא",
+        "phrase": "and came out",
+        "literal": "and-she-came-out",
+        "source": "H3318; KJV/ESV/NASB: 'came out' (fire subject)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֛שׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784; KJV/ESV/NASB: 'fire'"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/לִּ/פְנֵ֥י",
+        "phrase": "from before",
+        "literal": "from-before",
+        "source": "H6440; KJV/ESV/NASB: 'from before/the presence of'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תֹּ֣אכַל",
+        "phrase": "and consumed",
+        "literal": "and-she-ate",
+        "source": "H398; KJV/ESV/NASB: 'consumed/devoured'"
+      },
+      {
+        "position": 6,
+        "surface": "אוֹתָ֑/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853; KJV/ESV/NASB: 'them'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יָּמֻ֖תוּ",
+        "phrase": "and they died",
+        "literal": "and-they-died",
+        "source": "H4191; KJV/ESV/NASB: 'they died'"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-before",
+        "source": "H6440; KJV/ESV/NASB: 'before'"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      }
+    ]
+  }
+]

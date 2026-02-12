@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 18,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁפָּטַ֧/י",
+        "phrase": "my judgments",
+        "literal": "judgments-my",
+        "source": "H4941 (KJV: judgments; ESV: rules; NASB: judgments)"
+      },
+      {
+        "position": 3,
+        "surface": "תַּעֲשׂ֛וּ",
+        "phrase": "you shall do",
+        "literal": "you(pl)-do",
+        "source": "H6213 (KJV: do; ESV: follow; NASB: perform)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object]",
+        "source": "H853 (KJV: and [implied]; ESV: and [implied]; NASB: and [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "חֻקֹּתַ֥/י",
+        "phrase": "my statutes",
+        "literal": "statutes-my",
+        "source": "H2708 (KJV: ordinances; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּשְׁמְר֖וּ",
+        "phrase": "you shall keep",
+        "literal": "you(pl)-keep",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: keep)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/לֶ֣כֶת",
+        "phrase": "to walk",
+        "literal": "to-walk",
+        "source": "H3212 (KJV: to walk; ESV: walk; NASB: to live)"
+      },
+      {
+        "position": 8,
+        "surface": "בָּ/הֶ֑ם",
+        "phrase": "in them",
+        "literal": "in-them",
+        "source": " (KJV: therein; ESV: in them; NASB: in accord with them)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-your(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      }
+    ]
+  }
+]

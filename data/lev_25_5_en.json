@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣ת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 2,
+        "surface": "סְפִ֤יחַ",
+        "phrase": "aftergrowth",
+        "literal": "aftergrowth",
+        "source": "H5599; KJV: 'that which groweth of its own accord', ESV: 'what grows of itself', NASB: 'harvest's aftergrowth'"
+      },
+      {
+        "position": 3,
+        "surface": "קְצִֽירְ/ךָ֙",
+        "phrase": "of your harvest",
+        "literal": "harvest-your",
+        "source": "H7105; KJV: 'of thy harvest', ESV: 'in your harvest', NASB: 'your harvest's'"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'not', ESV: 'not', NASB: 'not'"
+      },
+      {
+        "position": 5,
+        "surface": "תִקְצ֔וֹר",
+        "phrase": "you shall reap",
+        "literal": "you-shall-reap",
+        "source": "H7114; KJV: 'thou shalt not reap', ESV: 'reap', NASB: 'reap'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "H853; KJV: 'neither', ESV: 'or', NASB: 'and'"
+      },
+      {
+        "position": 7,
+        "surface": "עִנְּבֵ֥י",
+        "phrase": "grapes",
+        "literal": "grapes-of",
+        "source": "H6025; KJV: 'grapes', ESV: 'grapes', NASB: 'grapes'"
+      },
+      {
+        "position": 8,
+        "surface": "נְזִירֶ֖/ךָ",
+        "phrase": "of your untrimmed vines",
+        "literal": "unpruned-your",
+        "source": "H5139; KJV: 'thy vine undressed', ESV: 'your undressed vine', NASB: 'untrimmed vines'"
+      },
+      {
+        "position": 9,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'neither', ESV: 'gather', NASB: 'gather'"
+      },
+      {
+        "position": 10,
+        "surface": "תִבְצֹ֑ר",
+        "phrase": "you shall gather",
+        "literal": "you-shall-gather",
+        "source": "H1219; KJV: 'gather', ESV: 'gather', NASB: 'gather'"
+      },
+      {
+        "position": 11,
+        "surface": "שְׁנַ֥ת",
+        "phrase": "year",
+        "literal": "year-of",
+        "source": "H8141; KJV: 'year', ESV: 'year', NASB: 'sabbatical year'"
+      },
+      {
+        "position": 12,
+        "surface": "שַׁבָּת֖וֹן",
+        "phrase": "of sabbath",
+        "literal": "sabbath-rest",
+        "source": "H7677; KJV: 'rest', ESV: 'solemn rest', NASB: 'sabbatical year'"
+      },
+      {
+        "position": 13,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "it shall be",
+        "literal": "it-shall-be",
+        "source": "H1961; KJV: 'it is', ESV: 'It shall be', NASB: 'shall have'"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/אָֽרֶץ",
+        "phrase": "for the land",
+        "literal": "to-land",
+        "source": "H776; KJV: 'unto the land', ESV: 'for the land', NASB: 'the land'"
+      }
+    ]
+  }
+]

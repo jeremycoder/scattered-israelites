@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֛ם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'And if'; ESV: 'If it'; NASB: 'If it')"
+      },
+      {
+        "position": 2,
+        "surface": "הֵאָכֹ֥ל",
+        "phrase": "it is eaten",
+        "literal": "eating",
+        "source": "H398 (KJV: 'it be eaten'; ESV: 'it is eaten'; NASB: 'it is eaten')"
+      },
+      {
+        "position": 3,
+        "surface": "יֵאָכֵ֖ל",
+        "phrase": "it is eaten",
+        "literal": "it-is-eaten",
+        "source": "H398 (KJV: 'eaten'; ESV: 'at all'; NASB: 'at all')"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117 (KJV: 'in the day'; ESV: 'on the third day'; NASB: 'on the third day')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שְּׁלִישִׁ֑י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992 (KJV: 'third'; ESV: 'third'; NASB: 'third')"
+      },
+      {
+        "position": 6,
+        "surface": "פִּגּ֥וּל",
+        "phrase": "abominable",
+        "literal": "abomination",
+        "source": "H6292 (KJV: 'pigul'; ESV: 'tainted'; NASB: 'impure')"
+      },
+      {
+        "position": 7,
+        "surface": "ה֖וּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "H1931 (KJV: 'it'; ESV: 'it'; NASB: 'it')"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 9,
+        "surface": "יֵרָצֶֽה",
+        "phrase": "be accepted",
+        "literal": "it-will-be-accepted",
+        "source": "H7521 (KJV: 'accepted'; ESV: 'accepted'; NASB: 'accepted')"
+      }
+    ]
+  }
+]

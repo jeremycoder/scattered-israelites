@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: not translated explicitly, marks direct object of שַׁבְּתֹתַ֣/י)"
+      },
+      {
+        "position": 2,
+        "surface": "שַׁבְּתֹתַ֣/י",
+        "phrase": "my Sabbaths",
+        "literal": "sabbaths-of-me",
+        "source": "H7676 (KJV: my sabbaths; ESV: my Sabbaths; NASB: My sabbaths)"
+      },
+      {
+        "position": 3,
+        "surface": "תִּשְׁמֹ֔רוּ",
+        "phrase": "you shall keep",
+        "literal": "you(pl)-shall-keep",
+        "source": "H8104 (KJV: Ye shall keep; ESV: keep; NASB: keep)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִקְדָּשִׁ֖/י",
+        "phrase": "and my sanctuary",
+        "literal": "and-sanctuary-of-me",
+        "source": "H4720 (KJV: my sanctuary; ESV: my sanctuary; NASB: My sanctuary)"
+      },
+      {
+        "position": 5,
+        "surface": "תִּירָ֑אוּ",
+        "phrase": "you shall reverence",
+        "literal": "you(pl)-shall-fear",
+        "source": "H3372 (KJV: reverence; ESV: reverence; NASB: reverence)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲנִ֖י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV/ESV/NASB: I)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

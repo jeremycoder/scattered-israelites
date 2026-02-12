@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֹ֥את",
+        "phrase": "And this",
+        "literal": "and-this",
+        "source": "H2063 (KJV: 'this'; ESV/NASB: 'This')"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹרַ֖ת",
+        "phrase": "is the law",
+        "literal": "law-of",
+        "source": "H8451 (KJV: 'law'; ESV: 'instruction'; NASB: 'law')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּנְחָ֑ה",
+        "phrase": "of the grain offering",
+        "literal": "the-offering",
+        "source": "H4503 (KJV: 'meat offering'; ESV/NASB: 'grain offering')"
+      },
+      {
+        "position": 4,
+        "surface": "הַקְרֵ֨ב",
+        "phrase": "[that is] brought near",
+        "literal": "the-one-brought-near",
+        "source": "H7126 (KJV: 'offered'; ESV: 'presented'; NASB: 'present')"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֤/הּ",
+        "phrase": "it",
+        "literal": "[direct object marker]-it",
+        "source": "H853 (KJV/ESV/NASB: 'it')"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֵֽי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV/ESV/NASB: 'sons')"
+      },
+      {
+        "position": 7,
+        "surface": "אַהֲרֹן֙",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV/ESV/NASB: 'Aaron')"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV/ESV/NASB: 'before')"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV/NASB: 'the LORD')"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV/ESV/NASB: 'unto/to')"
+      },
+      {
+        "position": 11,
+        "surface": "פְּנֵ֖י",
+        "phrase": "the face of",
+        "literal": "face-of",
+        "source": "H6440 (KJV/ESV/NASB: 'before')"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מִּזְבֵּֽחַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV/ESV/NASB: 'altar')"
+      }
+    ]
+  }
+]

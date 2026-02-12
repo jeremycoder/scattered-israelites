@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֵדָ֑ה",
+        "phrase": "the congregation",
+        "literal": "the-congregation",
+        "source": "H5712 (KJV: congregation; ESV: congregation; NASB: congregation)"
+      },
+      {
+        "position": 5,
+        "surface": "זֶ֣ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דָּבָ֔ר",
+        "phrase": "is the thing",
+        "literal": "the-word/thing/matter",
+        "source": "H1697 (KJV: thing; ESV: thing; NASB: thing)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834 (KJV: which; ESV: that; NASB: that)"
+      },
+      {
+        "position": 8,
+        "surface": "צִוָּ֥ה",
+        "phrase": "he commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/עֲשֽׂוֹת",
+        "phrase": "to do",
+        "literal": "to-do/make",
+        "source": "H6213 (KJV: to do; ESV: to do; NASB: to do)"
+      }
+    ]
+  }
+]

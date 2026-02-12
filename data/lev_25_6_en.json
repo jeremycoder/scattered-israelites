@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ֠/הָיְתָה",
+        "phrase": "and it shall be",
+        "literal": "and-it-will-be",
+        "source": "H1961; KJV: 'And', ESV: 'The', NASB: 'Then'"
+      },
+      {
+        "position": 2,
+        "surface": "שַׁבַּ֨ת",
+        "phrase": "sabbath",
+        "literal": "sabbath",
+        "source": "H7676; KJV: 'sabbath', ESV: 'sabbath', NASB: 'Sabbath'"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֤רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "H776; KJV: 'of the land', ESV: 'of the land', NASB: 'of the land'"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶם֙",
+        "phrase": "for you",
+        "literal": "to-you(pl)",
+        "source": "; KJV: 'meat for you', ESV: 'for food for you', NASB: 'for food for you'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/אָכְלָ֔ה",
+        "phrase": "for food",
+        "literal": "for-food",
+        "source": "H402; KJV: 'meat', ESV: 'food', NASB: 'food'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/ךָ֖",
+        "phrase": "for yourself",
+        "literal": "to-you(sg)",
+        "source": "; KJV: 'for thee', ESV: 'for yourself', NASB: 'for yourself'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/לְ/עַבְדְּ/ךָ֣",
+        "phrase": "and for your servant",
+        "literal": "and-to-servant-your",
+        "source": "H5650; KJV: 'thy manservant', ESV: 'your male servant', NASB: 'your male servant'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לַ/אֲמָתֶ֑/ךָ",
+        "phrase": "and for your maidservant",
+        "literal": "and-to-maidservant-your",
+        "source": "H519; KJV: 'thy maid', ESV: 'your female servant', NASB: 'your female servant'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לִ/שְׂכִֽירְ/ךָ֙",
+        "phrase": "and for your hired worker",
+        "literal": "and-to-hired-worker-your",
+        "source": "H7916; KJV: 'hired servant', ESV: 'hired servant', NASB: 'hired man'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/לְ/תוֹשָׁ֣בְ/ךָ֔",
+        "phrase": "and for your sojourner",
+        "literal": "and-to-sojourner-your",
+        "source": "H8453; KJV: 'stranger', ESV: 'sojourner', NASB: 'sojourner'"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/גָּרִ֖ים",
+        "phrase": "who dwell",
+        "literal": "the-sojourning-ones",
+        "source": "H1481; KJV: '(that) dwell', ESV: '(those) who sojourn', NASB: '(those) who sojourn'"
+      },
+      {
+        "position": 12,
+        "surface": "עִמָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H5973; KJV: 'with thee', ESV: 'with you', NASB: 'with you"
+      }
+    ]
+  }
+]

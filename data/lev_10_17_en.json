@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מַדּ֗וּעַ",
+        "phrase": "Why",
+        "literal": "why",
+        "source": "H4069 (KJV: Wherefore; ESV: Why; NASB: Why)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲכַלְתֶּ֤ם",
+        "phrase": "did you eat",
+        "literal": "you-all-ate",
+        "source": "H398 (KJV: eaten; ESV: eaten; NASB: eat)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הַֽ/חַטָּאת֙",
+        "phrase": "the sin offering",
+        "literal": "the-sin-offering",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 6,
+        "surface": "בִּ/מְק֣וֹם",
+        "phrase": "in the place",
+        "literal": "in-place-of",
+        "source": "H4725 (KJV: in the holy place; ESV: in the place; NASB: at the holy place)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/קֹּ֔דֶשׁ",
+        "phrase": "of the holy place",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: holy place; ESV: sanctuary; NASB: holy place)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: seeing; ESV: since; NASB: For)"
+      },
+      {
+        "position": 9,
+        "surface": "קֹ֥דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6944 (KJV: most holy; ESV: most holy; NASB: most holy)"
+      },
+      {
+        "position": 10,
+        "surface": "קָֽדָשִׁ֖ים",
+        "phrase": "of holy things",
+        "literal": "holies",
+        "source": "H6944 (KJV: most holy; ESV: most holy; NASB: most holy)"
+      },
+      {
+        "position": 11,
+        "surface": "הִ֑וא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֹתָ֣/הּ",
+        "phrase": "and it",
+        "literal": "and-accusative-it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 13,
+        "surface": "נָתַ֣ן",
+        "phrase": "he has given",
+        "literal": "he-gave",
+        "source": "H5414 (KJV: hath given; ESV: has been given; NASB: He gave)"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/כֶ֗ם",
+        "phrase": "to you",
+        "literal": "to-you-all",
+        "source": " (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 15,
+        "surface": "לָ/שֵׂאת֙",
+        "phrase": "to bear",
+        "literal": "to-bear",
+        "source": "H5375 (KJV: to bear; ESV: bear; NASB: to bear)"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 17,
+        "surface": "עֲוֺ֣ן",
+        "phrase": "the iniquity",
+        "literal": "iniquity",
+        "source": "H5771 (KJV: iniquity; ESV: iniquity; NASB: guilt)"
+      },
+      {
+        "position": 18,
+        "surface": "הָ/עֵדָ֔ה",
+        "phrase": "of the congregation",
+        "literal": "the-congregation",
+        "source": "H5712 (KJV: congregation; ESV: congregation; NASB: congregation)"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/כַפֵּ֥ר",
+        "phrase": "to make atonement",
+        "literal": "to-make-atonement",
+        "source": "H3722 (KJV: to make atonement; ESV: to make atonement; NASB: to make atonement)"
+      },
+      {
+        "position": 20,
+        "surface": "עֲלֵי/הֶ֖ם",
+        "phrase": "for them",
+        "literal": "upon-them",
+        "source": "H5921 (KJV: for them; ESV: for them; NASB: for them)"
+      },
+      {
+        "position": 21,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 22,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      }
+    ]
+  }
+]

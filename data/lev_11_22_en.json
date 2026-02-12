@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 11,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV/ESV/NASB: direct object marker, unrendered or 'these')"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֤לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "H428 (KJV/ESV/NASB: 'these' or 'even these')"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/הֶם֙",
+        "phrase": "of them",
+        "literal": "from-them",
+        "source": " (KJV/ESV/NASB: 'of them' or 'even of them')"
+      },
+      {
+        "position": 4,
+        "surface": "תֹּאכֵ֔לוּ",
+        "phrase": "you may eat",
+        "literal": "you(pl)-shall-eat",
+        "source": "H398 (KJV/ESV/NASB: 'ye may eat' / 'you may eat')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV/ESV/NASB: direct object marker, unrendered)"
+      },
+      {
+        "position": 6,
+        "surface": "הָֽ/אַרְבֶּ֣ה",
+        "phrase": "the locust",
+        "literal": "the-locust",
+        "source": "H697 (KJV: locust; ESV/NASB: locust)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/מִינ֔/וֹ",
+        "phrase": "after its kind",
+        "literal": "to-kind-its",
+        "source": "H4327 (KJV/ESV/NASB: 'after his kind' / 'after its kind')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object]",
+        "source": "H853 (KJV/ESV/NASB: 'and the' unrendered marker)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/סָּלְעָ֖ם",
+        "phrase": "the bald locust",
+        "literal": "the-bald-locust",
+        "source": "H5556 (KJV: bald locust; ESV: bald locust; NASB: desert locust)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מִינֵ֑/הוּ",
+        "phrase": "after its kind",
+        "literal": "to-kind-its",
+        "source": "H4327 (KJV/ESV/NASB: 'after his kind' / 'after its kind')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object]",
+        "source": "H853 (KJV/ESV/NASB: 'and the' unrendered marker)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/חַרְגֹּ֣ל",
+        "phrase": "the cricket",
+        "literal": "the-cricket",
+        "source": "H2728 (KJV: beetle; ESV: cricket; NASB: cricket)"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/מִינֵ֔/הוּ",
+        "phrase": "after its kind",
+        "literal": "to-kind-its",
+        "source": "H4327 (KJV/ESV/NASB: 'after his kind' / 'after its kind')"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object]",
+        "source": "H853 (KJV/ESV/NASB: 'and the' unrendered marker)"
+      },
+      {
+        "position": 15,
+        "surface": "הֶ/חָגָ֖ב",
+        "phrase": "the grasshopper",
+        "literal": "the-grasshopper",
+        "source": "H2284 (KJV: grasshopper; ESV/NASB: grasshopper)"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/מִינֵֽ/הוּ",
+        "phrase": "after its kind",
+        "literal": "to-kind-its",
+        "source": "H4327 (KJV/ESV/NASB: 'after his kind' / 'after its kind')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֕ישׁ",
+        "phrase": "And if a man",
+        "literal": "and-man",
+        "source": "H376; KJV 'And if a man', ESV 'If anyone', NASB 'If a man'"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H3588; KJV 'if', ESV 'If', NASB 'If'"
+      },
+      {
+        "position": 3,
+        "surface": "יִתֵּ֥ן",
+        "phrase": "causes",
+        "literal": "he-gives",
+        "source": "H5414; KJV 'cause', ESV 'injures', NASB 'injures'"
+      },
+      {
+        "position": 4,
+        "surface": "מ֖וּם",
+        "phrase": "a blemish",
+        "literal": "blemish",
+        "source": "H3971; KJV 'a blemish', ESV 'injury', NASB 'injury'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/עֲמִית֑/וֹ",
+        "phrase": "in his neighbor",
+        "literal": "in-fellow-his",
+        "source": "H5997; KJV 'in his neighbour', ESV 'his neighbor', NASB 'his fellow'"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/אֲשֶׁ֣ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834; KJV 'as', ESV 'as', NASB 'as'"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָׂ֔ה",
+        "phrase": "he has done",
+        "literal": "he-did",
+        "source": "H6213; KJV 'hath done', ESV 'has done', NASB 'has done'"
+      },
+      {
+        "position": 8,
+        "surface": "כֵּ֖ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651; KJV 'so', ESV 'so', NASB 'so'"
+      },
+      {
+        "position": 9,
+        "surface": "יֵעָ֥שֶׂה",
+        "phrase": "it shall be done",
+        "literal": "it-will-be-done",
+        "source": "H6213; KJV 'shall it be done', ESV 'shall be done', NASB 'it shall be done'"
+      },
+      {
+        "position": 10,
+        "surface": "לּֽ/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "''; KJV 'to him', ESV 'to him', NASB 'to him'"
+      }
+    ]
+  }
+]

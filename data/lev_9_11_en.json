@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 9,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'and the'; NASB: 'and the')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בָּשָׂ֖ר",
+        "phrase": "flesh",
+        "literal": "the-flesh",
+        "source": "H1320 (KJV: 'flesh'; ESV: 'flesh'; NASB: 'flesh')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'and the'; NASB: 'and the')"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/ע֑וֹר",
+        "phrase": "skin",
+        "literal": "the-skin",
+        "source": "H5785 (KJV: 'skin'; ESV: 'skin'; NASB: 'hide')"
+      },
+      {
+        "position": 5,
+        "surface": "שָׂרַ֣ף",
+        "phrase": "he burned",
+        "literal": "he-burned",
+        "source": "H8313 (KJV: 'burnt'; ESV: 'burned'; NASB: 'burned')"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ/אֵ֔שׁ",
+        "phrase": "with fire",
+        "literal": "in-fire",
+        "source": "H784 (KJV: 'with fire'; ESV: 'with fire'; NASB: 'in the fire')"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/ח֖וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "H2351 (KJV: 'without'; ESV: 'outside'; NASB: 'outside')"
+      },
+      {
+        "position": 8,
+        "surface": "לַֽ/מַּחֲנֶֽה",
+        "phrase": "of the camp",
+        "literal": "to-the-camp",
+        "source": "H4264 (KJV: 'the camp'; ESV: 'the camp'; NASB: 'the camp')"
+      }
+    ]
+  }
+]

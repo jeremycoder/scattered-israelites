@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 21,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַת֙",
+        "phrase": "And the daughter",
+        "literal": "and-daughter-of",
+        "source": "H1323; KJV/ESV/NASB: 'daughter' (of priest)"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֣ישׁ",
+        "phrase": "of any",
+        "literal": "man",
+        "source": "H376; KJV/ESV/NASB: 'any' or 'a' (man/priest)"
+      },
+      {
+        "position": 3,
+        "surface": "כֹּהֵ֔ן",
+        "phrase": "priest",
+        "literal": "priest",
+        "source": "H3548; KJV/ESV/NASB: 'priest'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H3588; KJV/ESV/NASB: 'if'"
+      },
+      {
+        "position": 5,
+        "surface": "תֵחֵ֖ל",
+        "phrase": "she profanes",
+        "literal": "she-profanes",
+        "source": "H2490; KJV/ESV/NASB: 'profanes' or 'plays the harlot'"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/זְנ֑וֹת",
+        "phrase": "by playing the harlot",
+        "literal": "to-prostitute",
+        "source": "H2181; KJV: 'harlotry'; ESV/NASB: 'prostitution' or 'harlotry'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִ֨י/הָ֙",
+        "phrase": "her father",
+        "literal": "father-her",
+        "source": "H1; KJV/ESV/NASB: 'her father'"
+      },
+      {
+        "position": 9,
+        "surface": "הִ֣יא",
+        "phrase": "she",
+        "literal": "she",
+        "source": "H1931; KJV/ESV/NASB: 'she'"
+      },
+      {
+        "position": 10,
+        "surface": "מְחַלֶּ֔לֶת",
+        "phrase": "profaneth",
+        "literal": "profaning-is",
+        "source": "H2490; KJV/ESV/NASB: 'profaneth' or 'profaned'"
+      },
+      {
+        "position": 11,
+        "surface": "בָּ/אֵ֖שׁ",
+        "phrase": "with fire",
+        "literal": "in-fire",
+        "source": "H784; KJV/ESV/NASB: 'with fire'"
+      },
+      {
+        "position": 12,
+        "surface": "תִּשָּׂרֵֽף",
+        "phrase": "shall be burned",
+        "literal": "she-shall-be-burned",
+        "source": "H8313; KJV/ESV/NASB: 'shall be burnt/burned with fire'"
+      }
+    ]
+  }
+]

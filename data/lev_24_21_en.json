@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 24,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מַכֵּ֥ה",
+        "phrase": "And he who strikes",
+        "literal": "and-striker",
+        "source": "H5221; KJV: 'he that killeth', ESV: 'who kills', NASB: 'kills'"
+      },
+      {
+        "position": 2,
+        "surface": "בְהֵמָ֖ה",
+        "phrase": "a beast",
+        "literal": "beast",
+        "source": "H929; KJV: 'a beast', ESV: 'an animal', NASB: 'an animal'"
+      },
+      {
+        "position": 3,
+        "surface": "יְשַׁלְּמֶ֑/נָּה",
+        "phrase": "shall make it good",
+        "literal": "he-shall-restore-it",
+        "source": "H7999; KJV: 'he shall restore it', ESV: 'shall make it good', NASB: 'shall make restitution'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מַכֵּ֥ה",
+        "phrase": "and he who strikes",
+        "literal": "and-striker",
+        "source": "H5221; KJV: 'and he that killeth', ESV: 'but the one who kills', NASB: 'but the one who kills'"
+      },
+      {
+        "position": 5,
+        "surface": "אָדָ֖ם",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H120; KJV: 'a man', ESV: 'a man', NASB: 'a person'"
+      },
+      {
+        "position": 6,
+        "surface": "יוּמָֽת",
+        "phrase": "shall be put to death",
+        "literal": "he-shall-be-put-to-death",
+        "source": "H4191; KJV: 'shall be put to death', ESV: 'shall be put to death', NASB: 'shall be put to death"
+      }
+    ]
+  }
+]

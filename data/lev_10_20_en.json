@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֣ע",
+        "phrase": "And Moses heard",
+        "literal": "and-he-heard",
+        "source": "H8085; KJV 'heard', ESV 'heard', NASB 'heard'"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV 'Moses', ESV 'Moses', NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּיטַ֖ב",
+        "phrase": "and it was good",
+        "literal": "and-it-was-good",
+        "source": "H3190; KJV 'he was content', ESV 'he was satisfied', NASB 'it was acceptable'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/עֵינָֽי/ו",
+        "phrase": "in his eyes",
+        "literal": "in-eyes-his",
+        "source": "H5869; KJV 'in his sight', ESV 'in his sight', NASB 'to him'"
+      }
+    ]
+  }
+]

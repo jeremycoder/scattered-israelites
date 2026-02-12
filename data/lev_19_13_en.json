@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 19,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲשֹׁ֥ק",
+        "phrase": "you-shall-oppress",
+        "literal": "you-shall-oppress",
+        "source": "H6231 (KJV: defraud; ESV: oppress; NASB: oppress)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: thy; ESV: your; NASB: your)"
+      },
+      {
+        "position": 4,
+        "surface": "רֵֽעֲ/ךָ֖",
+        "phrase": "neighbor-your",
+        "literal": "neighbor-your",
+        "source": "H7453 (KJV: neighbour; ESV: neighbor; NASB: neighbor)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: or; NASB: nor)"
+      },
+      {
+        "position": 6,
+        "surface": "תִגְזֹ֑ל",
+        "phrase": "you-shall-rob",
+        "literal": "you-shall-rob",
+        "source": "H1497 (KJV: rob; ESV: rob; NASB: rob)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: shall not; ESV: shall not; NASB: are not)"
+      },
+      {
+        "position": 8,
+        "surface": "תָלִ֞ין",
+        "phrase": "shall-remain",
+        "literal": "shall-remain",
+        "source": "H3885 (KJV: abide; ESV: remain; NASB: remain)"
+      },
+      {
+        "position": 9,
+        "surface": "פְּעֻלַּ֥ת",
+        "phrase": "wages-of",
+        "literal": "work-of",
+        "source": "H6468 (KJV: wages; ESV: wages; NASB: wages)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׂכִ֛יר",
+        "phrase": "hired-worker",
+        "literal": "hired-[one]",
+        "source": "H7916 (KJV: hired; ESV: hired worker; NASB: hired man)"
+      },
+      {
+        "position": 11,
+        "surface": "אִתְּ/ךָ֖",
+        "phrase": "with-you",
+        "literal": "with-you",
+        "source": "H854 (KJV: with thee; ESV: with you; NASB: with you)"
+      },
+      {
+        "position": 12,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 13,
+        "surface": "בֹּֽקֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      }
+    ]
+  }
+]

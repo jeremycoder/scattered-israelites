@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 6,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "H3605 - KJV: (implied in 'the priest of his sons'), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 2,
+        "surface": "זָכָ֥ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "H2145 - KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/כֹּהֲנִ֖ים",
+        "phrase": "among the priests",
+        "literal": "in-the/priests",
+        "source": "H3548 - KJV: 'priest', ESV: 'priest', NASB: 'priest'"
+      },
+      {
+        "position": 4,
+        "surface": "יֹאכַ֣ל",
+        "phrase": "shall eat",
+        "literal": "he-will-eat",
+        "source": "H398 - KJV: 'shall offer', ESV: 'shall offer', NASB: 'shall offer'"
+      },
+      {
+        "position": 5,
+        "surface": "אֹתָ֑/הּ",
+        "phrase": "it",
+        "literal": "Obj-marker/it",
+        "source": "H853 - KJV: 'it', ESV: 'it', NASB: 'it'"
+      },
+      {
+        "position": 6,
+        "surface": "קֹ֥דֶשׁ",
+        "phrase": "holy",
+        "literal": "holy-thing",
+        "source": "H6944 - KJV: 'holy', ESV: 'holy', NASB: 'holy'"
+      },
+      {
+        "position": 7,
+        "surface": "קָֽדָשִׁ֖ים",
+        "phrase": "of holies",
+        "literal": "holies",
+        "source": "H6944 - KJV: '(implied most holy)', ESV: '(implied most holy)', NASB: '(implied most holy)'"
+      },
+      {
+        "position": 8,
+        "surface": "הִֽוא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931 - KJV: 'it is', ESV: '(implied)', NASB: '(implied)'"
+      }
+    ]
+  }
+]

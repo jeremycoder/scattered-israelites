@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 26,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲכַלְתֶּ֥ם",
+        "phrase": "And you shall eat",
+        "literal": "and-you-all-will-eat",
+        "source": "H398; KJV: eat old store, ESV: eat old store, NASB: eat the old supply"
+      },
+      {
+        "position": 2,
+        "surface": "יָשָׁ֖ן",
+        "phrase": "old",
+        "literal": "old",
+        "source": "H3465; KJV: old store, ESV: old store, NASB: old supply"
+      },
+      {
+        "position": 3,
+        "surface": "נוֹשָׁ֑ן",
+        "phrase": "very old",
+        "literal": "old-extremely",
+        "source": "H3462; KJV: old store, ESV: long kept, NASB: old supply"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יָשָׁ֕ן",
+        "phrase": "and the old",
+        "literal": "and-old",
+        "source": "H3465; KJV: the old, ESV: the old, NASB: the old"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/פְּנֵ֥י",
+        "phrase": "because of",
+        "literal": "from-face-of",
+        "source": "H6440; KJV: because of, ESV: to make way for, NASB: because of"
+      },
+      {
+        "position": 6,
+        "surface": "חָדָ֖שׁ",
+        "phrase": "the new",
+        "literal": "new",
+        "source": "H2319; KJV: the new, ESV: the new, NASB: the new"
+      },
+      {
+        "position": 7,
+        "surface": "תּוֹצִֽיאוּ",
+        "phrase": "you shall bring out",
+        "literal": "you-all-will-bring-out",
+        "source": "H3318; KJV: bring forth, ESV: clear out, NASB: clear out"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נּוֹתָ֥ר",
+        "phrase": "And what remains",
+        "literal": "and-the-remainder",
+        "source": "H3498; KJV: that which remaineth, ESV: what remains, NASB: The remainder"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/בָּשָׂ֖ר",
+        "phrase": "of the flesh",
+        "literal": "in-the-flesh",
+        "source": "H1320; KJV: of the flesh, ESV: of the flesh, NASB: of the flesh"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בַ/לָּ֑חֶם",
+        "phrase": "and of the bread",
+        "literal": "and-in-the-bread",
+        "source": "H3899; KJV: of the bread, ESV: of the bread, NASB: of the bread"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ/אֵ֖שׁ",
+        "phrase": "with fire",
+        "literal": "in-fire",
+        "source": "H784; KJV: with fire, ESV: with fire, NASB: in the fire"
+      },
+      {
+        "position": 5,
+        "surface": "תִּשְׂרֹֽפוּ",
+        "phrase": "you shall burn",
+        "literal": "you-shall-burn",
+        "source": "H8313; KJV: shall ye burn, ESV: you shall burn up, NASB: you shall burn"
+      }
+    ]
+  }
+]

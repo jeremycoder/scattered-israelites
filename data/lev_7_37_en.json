@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 7,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֣את",
+        "phrase": "This",
+        "literal": "this-FEM.SING.DEM",
+        "source": "H2063; KJV/ESV/NASB: 'This'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תּוֹרָ֗ה",
+        "phrase": "is the law",
+        "literal": "the-law",
+        "source": "H8451; KJV: 'law', ESV: 'law', NASB: 'law'"
+      },
+      {
+        "position": 3,
+        "surface": "לָֽ/עֹלָה֙",
+        "phrase": "for the burnt offering",
+        "literal": "for-burnt.offering",
+        "source": "H5930; KJV: 'burnt offering', ESV: 'burnt offering', NASB: 'burnt offering'"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מִּנְחָ֔ה",
+        "phrase": "for the grain offering",
+        "literal": "for-grain.offering",
+        "source": "H4503; KJV: 'meat offering', ESV: 'grain offering', NASB: 'grain offering'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לַֽ/חַטָּ֖את",
+        "phrase": "and for the sin offering",
+        "literal": "and-for-sin.offering",
+        "source": "H2403; KJV/ESV/NASB: 'sin offering'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לָ/אָשָׁ֑ם",
+        "phrase": "and for the guilt offering",
+        "literal": "and-for-guilt.offering",
+        "source": "H817; KJV: 'trespass offering', ESV/NASB: 'guilt offering'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לַ֨/מִּלּוּאִ֔ים",
+        "phrase": "and for the ordination offerings",
+        "literal": "and-for-ordinations",
+        "source": "H4394; KJV: 'consecrations', ESV: 'ordination offerings', NASB: 'ordination'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/זֶ֖בַח",
+        "phrase": "and for the sacrifice",
+        "literal": "and-for-sacrifice",
+        "source": "H2077; KJV/ESV/NASB: 'sacrifice'"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שְּׁלָמִֽים",
+        "phrase": "of the peace offerings",
+        "literal": "the-peace.offerings",
+        "source": "H8002; KJV: 'peace offerings', ESV: 'peace offerings', NASB: 'peace offerings'"
+      }
+    ]
+  }
+]

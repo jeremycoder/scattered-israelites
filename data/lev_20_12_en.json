@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 20,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֗ישׁ",
+        "phrase": "And a man",
+        "literal": "and-man",
+        "source": "H376 (KJV: 'And if a man'; ESV: 'If a man'; NASB: 'If there is a man')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "who",
+        "literal": "who/that",
+        "source": "H834 (KJV: 'if'; ESV: 'lies'; NASB: 'who')"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׁכַּב֙",
+        "phrase": "lies",
+        "literal": "he-lies",
+        "source": "H7901 (KJV: 'lie'; ESV: 'lies'; NASB: 'lies')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "[direct-object-marker]",
+        "source": "H854 (KJV: 'with'; ESV: 'with'; NASB: 'with')"
+      },
+      {
+        "position": 5,
+        "surface": "כַּלָּת֔/וֹ",
+        "phrase": "his daughter-in-law",
+        "literal": "daughter-in-law-his",
+        "source": "H3618 (KJV: 'daughter in law'; ESV: 'daughter-in-law'; NASB: 'daughter-in-law')"
+      },
+      {
+        "position": 6,
+        "surface": "מ֥וֹת",
+        "phrase": "death",
+        "literal": "dying",
+        "source": "H4191 (KJV: 'surely be put to'; ESV: 'surely be put to'; NASB: 'surely be put to')"
+      },
+      {
+        "position": 7,
+        "surface": "יוּמְת֖וּ",
+        "phrase": "they shall be put to",
+        "literal": "they-shall-be-put-to-death",
+        "source": "H4191 (KJV: 'death'; ESV: 'death'; NASB: 'death')"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁנֵי/הֶ֑ם",
+        "phrase": "both of them",
+        "literal": "two-of-them",
+        "source": "H8147 (KJV: 'both of them'; ESV: 'both of them'; NASB: 'both of them')"
+      },
+      {
+        "position": 9,
+        "surface": "תֶּ֥בֶל",
+        "phrase": "perversion",
+        "literal": "confusion/perversion",
+        "source": "H8397 (KJV: 'confusion'; ESV: 'perversion'; NASB: 'incest')"
+      },
+      {
+        "position": 10,
+        "surface": "עָשׂ֖וּ",
+        "phrase": "they have committed",
+        "literal": "they-have-done/made",
+        "source": "H6213 (KJV: 'wrought'; ESV: 'committed'; NASB: 'committed')"
+      },
+      {
+        "position": 11,
+        "surface": "דְּמֵי/הֶ֥ם",
+        "phrase": "their blood",
+        "literal": "bloods-of-them",
+        "source": "H1818 (KJV: 'their blood'; ESV: 'their blood'; NASB: 'their bloodguiltiness')"
+      },
+      {
+        "position": 12,
+        "surface": "בָּֽ/ם",
+        "phrase": "is upon them",
+        "literal": "in/on-them",
+        "source": " (KJV: 'upon them'; ESV: 'upon them'; NASB: 'upon them')"
+      }
+    ]
+  }
+]

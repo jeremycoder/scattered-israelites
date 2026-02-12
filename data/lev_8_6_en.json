@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 8,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּקְרֵ֣ב",
+        "phrase": "and brought near",
+        "literal": "and-he-caused-to-approach",
+        "source": "H7126 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אַהֲרֹ֖ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "בָּנָ֑י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: his sons; ESV: his sons; NASB: his sons)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּרְחַ֥ץ",
+        "phrase": "and washed",
+        "literal": "and-he-washed",
+        "source": "H7364 (KJV: washed; ESV: washed; NASB: washed)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/מָּֽיִם",
+        "phrase": "with water",
+        "literal": "in-the-water",
+        "source": "H4325 (KJV: with water; ESV: with water; NASB: with water)"
+      }
+    ]
+  }
+]

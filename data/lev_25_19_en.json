@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 25,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתְנָ֤ה",
+        "phrase": "and will yield",
+        "literal": "and-she-will-give",
+        "source": "H5414 (KJV: yield; ESV: yield; NASB: yield)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֨רֶץ֙",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 3,
+        "surface": "פִּרְיָ֔/הּ",
+        "phrase": "its fruit",
+        "literal": "fruit-of-it",
+        "source": "H6529 (KJV: fruit; ESV: fruit; NASB: produce)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/אֲכַלְתֶּ֖ם",
+        "phrase": "and you shall eat",
+        "literal": "and-you(pl)-will-eat",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/שֹׂ֑בַע",
+        "phrase": "to satiety",
+        "literal": "to-satisfaction",
+        "source": "H7648 (KJV: fill; ESV: fill; NASB: fill)"
+      },
+      {
+        "position": 6,
+        "surface": "וִֽ/ישַׁבְתֶּ֥ם",
+        "phrase": "and you shall dwell",
+        "literal": "and-you(pl)-will-dwell",
+        "source": "H3427 (KJV: dwell; ESV: dwell; NASB: live)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/בֶ֖טַח",
+        "phrase": "in safety",
+        "literal": "in-security",
+        "source": "H983 (KJV: safety; ESV: securely; NASB: securely)"
+      },
+      {
+        "position": 8,
+        "surface": "עָלֶֽי/הָ",
+        "phrase": "on it",
+        "literal": "on-it",
+        "source": "H5921 (KJV: therein; ESV: in it; NASB: on it)"
+      }
+    ]
+  }
+]

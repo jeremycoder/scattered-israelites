@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Leviticus",
+    "chapter": 13,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/רָאָ֥ה",
+        "phrase": "and shall examine",
+        "literal": "and-he-shall-see",
+        "source": "H7200 (KJV: look; ESV: examine; NASB: look)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֖ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "at",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נָּ֑גַע",
+        "phrase": "the mark",
+        "literal": "the-plague/mark",
+        "source": "H5061 (KJV: plague; ESV: mark; NASB: mark)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִסְגִּ֥יר",
+        "phrase": "and shall isolate",
+        "literal": "and-he-shall-shut-up",
+        "source": "H5462 (KJV: shut up; ESV: isolate; NASB: isolate)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/נֶּ֖גַע",
+        "phrase": "mark",
+        "literal": "the-plague/mark",
+        "source": "H5061 (KJV: [that which hath] the plague; ESV: contaminated [fabric]; NASB: article with the mark)"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven-of",
+        "source": "H7651 (KJV: seven; ESV: seven; NASB: seven)"
+      },
+      {
+        "position": 9,
+        "surface": "יָמִֽים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      }
+    ]
+  }
+]
