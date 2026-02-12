@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Book, Lexeme, TranslationBatch, Verse, WordOccurrence, WordTranslation
+from .models import Book, Lexeme, TranslationBatch, TranslationFlag, Verse, WordOccurrence, WordTranslation
 
 
 @admin.register(Lexeme)
@@ -36,6 +36,14 @@ class TranslationBatchAdmin(admin.ModelAdmin):
     list_display = ('verse', 'language_code', 'model_name', 'created_at')
     list_filter = ('language_code',)
     search_fields = ('verse__osis_id', 'model_name', 'notes')
+    readonly_fields = ('created_at',)
+
+
+@admin.register(TranslationFlag)
+class TranslationFlagAdmin(admin.ModelAdmin):
+    list_display = ('book', 'chapter', 'verse', 'position', 'surface', 'strongs_id', 'flag_type', 'is_resolved')
+    list_filter = ('flag_type', 'is_resolved', 'book')
+    search_fields = ('surface', 'strongs_id', 'note', 'sources_consulted')
     readonly_fields = ('created_at',)
 
 

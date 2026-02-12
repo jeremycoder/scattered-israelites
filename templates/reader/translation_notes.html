@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}Translation Notes — Scattered Israelites Bible{% endblock %}
+
+{% block meta %}
+<meta name="description" content="Transparency page listing Hebrew words where our AI-assisted translation of the Westminster Leningrad Codex requires human review.">
+{% endblock %}
+
+{% block content %}
+<div class="section-divider">
+  <h2>Translation Notes</h2>
+</div>
+
+<p class="nc-intro">This project uses AI-assisted translation of the <strong>Westminster Leningrad Codex</strong> (WLC) to produce word-by-word English renderings. Every translation includes an audit trail citing the sources consulted (Strong's Concordance, BDB Lexicon, KJV, ESV, NASB, and others).</p>
+<p class="nc-intro" style="margin-top:0.75rem;">The words listed below have been flagged for human review &mdash; either because major English translations diverge on the rendering, because the word is rare (hapax legomenon), or because the meaning is debated among scholars. We believe in transparency: if we are uncertain, you should know.</p>
+
+<!-- Filters -->
+<form method="get" style="display:flex; gap:0.75rem; flex-wrap:wrap; margin:1.25rem 0;">
+  <select name="book" onchange="this.form.submit()">
+    <option value="">All books</option>
+    {% for b in books %}
+    <option value="{{ b.slug }}" {% if current_book == b.slug %}selected{% endif %}>{{ b.name }}</option>
+    {% endfor %}
+  </select>
+  <select name="type" onchange="this.form.submit()">
+    <option value="">All types</option>
+    <option value="divergent" {% if current_type == "divergent" %}selected{% endif %}>Divergent</option>
+    <option value="rare" {% if current_type == "rare" %}selected{% endif %}>Rare</option>
+    <option value="uncertain" {% if current_type == "uncertain" %}selected{% endif %}>Uncertain</option>
+  </select>
+  <select name="status" onchange="this.form.submit()">
+    <option value="">All statuses</option>
+    <option value="open" {% if current_status == "open" %}selected{% endif %}>Open</option>
+    <option value="resolved" {% if current_status == "resolved" %}selected{% endif %}>Resolved</option>
+  </select>
+</form>
+
+{% if flags %}
+<table class="detail-table">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Hebrew</th>
+      <th>Strong's</th>
+      <th>Type</th>
+      <th>Note</th>
+      <th class="col-hide-mobile">Sources</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for flag in flags %}
+    <tr>
+      <td>
+        <a href="{% url 'verse-view' flag.book.slug flag.chapter flag.verse %}" class="col-link">
+          {{ flag.book.name }} {{ flag.chapter }}:{{ flag.verse }}
+        </a>
+      </td>
+      <td class="col-hebrew">
+        <span class="hebrew" dir="rtl">{{ flag.surface }}</span>
+      </td>
+      <td class="col-muted">{{ flag.strongs_id }}</td>
+      <td>{{ flag.get_flag_type_display }}</td>
+      <td class="kv-small">{{ flag.note }}</td>
+      <td class="kv-small col-hide-mobile">{{ flag.sources_consulted }}</td>
+      <td>
+        {% if flag.is_resolved %}
+        <span style="color:#2e7d32;">Resolved</span>
+        {% else %}
+        <span style="color:var(--terracotta);">Open</span>
+        {% endif %}
+      </td>
+    </tr>
+    {% if flag.is_resolved and flag.resolution %}
+    <tr>
+      <td colspan="7" class="kv-small" style="background:var(--warm-50); padding-left:2rem;">
+        <strong>Resolution:</strong> {{ flag.resolution }}
+      </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>No translation flags found{% if current_book or current_type or current_status %} for the current filters{% endif %}.</p>
+{% endif %}
+
+<div class="bottom-nav">
+  <a href="{% url 'book-list' %}" class="nav-link">&larr; Back to Books</a>
+  <span></span>
+</div>
+{% endblock %}

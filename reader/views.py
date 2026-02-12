@@ -4,7 +4,7 @@ from django.db import models
 from django.shortcuts import get_object_or_404, render
 
 from comparisons.models import LexicalComparison
-from lexicon.models import Book, HebrewMorphAnalysis, Lexeme, Verse, WordOccurrence
+from lexicon.models import Book, HebrewMorphAnalysis, Lexeme, TranslationFlag, Verse, WordOccurrence
 
 # Torah / Nevi'im / Ketuvim grouping by OSIS ID
 TORAH_IDS = {'Gen', 'Exod', 'Lev', 'Num', 'Deut'}
@@ -19,6 +19,36 @@ KETUVIM_IDS = {
     'Song', 'Ruth', 'Lam', 'Eccl', 'Esth',
     'Dan', 'Ezra', 'Neh', '1Chr', '2Chr',
 }
+
+
+def translation_notes(request):
+    qs = TranslationFlag.objects.select_related('book')
+
+    # Filters
+    book_slug = request.GET.get('book')
+    flag_type = request.GET.get('type')
+    status = request.GET.get('status')
+
+    if book_slug:
+        qs = qs.filter(book__slug=book_slug)
+    if flag_type in ('divergent', 'rare', 'uncertain'):
+        qs = qs.filter(flag_type=flag_type)
+    if status == 'open':
+        qs = qs.filter(is_resolved=False)
+    elif status == 'resolved':
+        qs = qs.filter(is_resolved=True)
+
+    books = Book.objects.filter(
+        pk__in=TranslationFlag.objects.values_list('book', flat=True).distinct()
+    )
+
+    return render(request, 'reader/translation_notes.html', {
+        'flags': qs,
+        'books': books,
+        'current_book': book_slug or '',
+        'current_type': flag_type or '',
+        'current_status': status or '',
+    })
 
 
 def book_list(request):

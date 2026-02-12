@@ -264,6 +264,58 @@ class TranslationBatch(models.Model):
         return f"{self.verse} [{self.language_code}] — {self.created_at:%Y-%m-%d %H:%M}"
 
 
+class TranslationFlag(models.Model):
+    """
+    Flags words where the AI-assisted translation is uncertain, divergent
+    across major English versions, or involves a rare/hapax legomenon.
+    Displayed publicly for transparency and human review.
+    """
+
+    FLAG_DIVERGENT = 'divergent'
+    FLAG_RARE = 'rare'
+    FLAG_UNCERTAIN = 'uncertain'
+    FLAG_CHOICES = [
+        (FLAG_DIVERGENT, 'Divergent — major translations disagree'),
+        (FLAG_RARE, 'Rare — hapax legomenon or very low frequency'),
+        (FLAG_UNCERTAIN, 'Uncertain — meaning debated among scholars'),
+    ]
+
+    word_occurrence = models.ForeignKey(
+        'WordOccurrence',
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name='translation_flags',
+    )
+    book = models.ForeignKey('Book', on_delete=models.CASCADE, related_name='translation_flags')
+    chapter = models.PositiveSmallIntegerField()
+    verse = models.PositiveSmallIntegerField()
+    position = models.PositiveSmallIntegerField()
+    surface = models.CharField(max_length=128)
+    strongs_id = models.CharField(max_length=10, blank=True)
+    flag_type = models.CharField(max_length=16, choices=FLAG_CHOICES)
+    note = models.TextField(help_text='Explanation of what is uncertain or divergent')
+    sources_consulted = models.TextField(
+        blank=True,
+        help_text='References checked (Strong\'s, BDB, translations, etc.)',
+    )
+    resolution = models.TextField(
+        blank=True,
+        help_text='How this was resolved after human review',
+    )
+    is_resolved = models.BooleanField(default=False)
+    created_at = models.DateTimeField(auto_now_add=True)
+    resolved_at = models.DateTimeField(null=True, blank=True)
+
+    class Meta:
+        ordering = ['book__canonical_order', 'chapter', 'verse', 'position']
+        verbose_name = 'Translation Flag'
+        verbose_name_plural = 'Translation Flags'
+
+    def __str__(self):
+        return f'{self.book} {self.chapter}:{self.verse} #{self.position} {self.surface} [{self.flag_type}]'
+
+
 class WordTranslation(models.Model):
     """
     Contextual translation of a Hebrew word in a specific language.
@@ -279,7 +331,7 @@ class WordTranslation(models.Model):
     language_name = models.CharField(max_length=50)                 # 'English', 'Spanish'
     phrase = models.CharField(max_length=255)                       # "in the beginning"
     literal = models.CharField(max_length=255, blank=True)          # "in-beginning-of"
-    source = models.CharField(max_length=255, blank=True)           # "KJV, ESV" or citation
+    source = models.TextField(blank=True)                            # audit trail citation
     batch = models.ForeignKey(
         'TranslationBatch',
         on_delete=models.SET_NULL,
