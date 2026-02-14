@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/רֵאשִׁ֖ית",
+        "phrase": "In the beginning",
+        "literal": "in-beginning-of",
+        "source": "H7225; KJV: In the beginning, ESV: In the beginning, NASB: In the beginning"
+      },
+      {
+        "position": 2,
+        "surface": "בָּרָ֣א",
+        "phrase": "created",
+        "literal": "he-created",
+        "source": "H1254; KJV: created, ESV: created, NASB: created"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהִ֑ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430; KJV: God, ESV: God, NASB: God"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853; KJV: (untranslated), ESV: (untranslated), NASB: (untranslated)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׁמַ֖יִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "H8064; KJV: the heaven, ESV: the heavens, NASB: the heavens"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֥ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object]",
+        "source": "H853; KJV: and the, ESV: and the, NASB: and the (et untranslated)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776; KJV: earth, ESV: earth, NASB: earth"
+      }
+    ]
+  }
+]
