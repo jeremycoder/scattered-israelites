@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 53,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַנְשֵׁי֙",
+        "phrase": "the men",
+        "literal": "men-of",
+        "source": "H376; KJV: men, ESV: men, NASB: soldiers"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/צָּבָ֔א",
+        "phrase": "of the army",
+        "literal": "the/army",
+        "source": "H6635; KJV: of war, ESV: in the army, NASB: of the army"
+      },
+      {
+        "position": 3,
+        "surface": "בָּזְז֖וּ",
+        "phrase": "had plundered",
+        "literal": "they-plundered",
+        "source": "H962; KJV: had taken spoil, ESV: had taken plunder, NASB: had taken plunder"
+      },
+      {
+        "position": 4,
+        "surface": "אִ֥ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376; KJV: every man, ESV: each, NASB: each man"
+      },
+      {
+        "position": 5,
+        "surface": "לֽ/וֹ",
+        "phrase": "for himself",
+        "literal": "to-him",
+        "source": "-; KJV: for himself, ESV: for himself, NASB: for himself"
+      }
+    ]
+  }
+]

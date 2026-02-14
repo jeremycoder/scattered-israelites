@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֣ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֔עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כֹּהֲנִ֖ים",
+        "phrase": "priests",
+        "literal": "the-priests",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲל֖וּ",
+        "phrase": "Come up",
+        "literal": "go-up",
+        "source": "H5927 (KJV: Come up; ESV: Come up; NASB: Come up)"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: out of; ESV: from; NASB: from)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יַּרְדֵּֽן",
+        "phrase": "the Jordan",
+        "literal": "the-Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      }
+    ]
+  }
+]

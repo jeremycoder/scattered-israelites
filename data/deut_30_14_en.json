@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 30,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: But; ESV: But; NASB: But)"
+      },
+      {
+        "position": 2,
+        "surface": "קָר֥וֹב",
+        "phrase": "near",
+        "literal": "near",
+        "source": "H7138 (KJV: nigh; ESV: near; NASB: near)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלֶ֛י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "H413 (KJV: unto thee; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/דָּבָ֖ר",
+        "phrase": "the word",
+        "literal": "the-word",
+        "source": "H1697 (KJV: the word; ESV: the word; NASB: the word)"
+      },
+      {
+        "position": 5,
+        "surface": "מְאֹ֑ד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "H3966 (KJV: very; ESV: very; NASB: very)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/פִ֥י/ךָ",
+        "phrase": "in your mouth",
+        "literal": "in-mouth-your",
+        "source": "H6310 (KJV: in thy mouth; ESV: in your mouth; NASB: in your mouth)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בִֽ/לְבָבְ/ךָ֖",
+        "phrase": "and in your heart",
+        "literal": "and-in-heart-your",
+        "source": "H3824 (KJV: in thy heart; ESV: in your heart; NASB: in your heart)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/עֲשֹׂתֽ/וֹ",
+        "phrase": "to do it",
+        "literal": "to-do-it",
+        "source": "H6213 (KJV: that thou mayest do it; ESV: so that you can do it; NASB: that you may observe it)"
+      }
+    ]
+  }
+]

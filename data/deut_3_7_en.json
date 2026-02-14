@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 3,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605; KJV: all, ESV: all, NASB: all"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בְּהֵמָ֛ה",
+        "phrase": "the livestock",
+        "literal": "the-beast",
+        "source": "H929; KJV: cattle, ESV: livestock, NASB: animals"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/שְׁלַ֥ל",
+        "phrase": "and the spoil",
+        "literal": "and-spoil",
+        "source": "H7998; KJV: spoil, ESV: spoil, NASB: spoil"
+      },
+      {
+        "position": 4,
+        "surface": "הֶ/עָרִ֖ים",
+        "phrase": "of the cities",
+        "literal": "the-cities",
+        "source": "H5892; KJV: cities, ESV: cities, NASB: cities"
+      },
+      {
+        "position": 5,
+        "surface": "בַּזּ֥וֹנוּ",
+        "phrase": "we took as booty",
+        "literal": "we-bootied",
+        "source": "H962; KJV: took for a prey, ESV: took as our plunder, NASB: took as our booty"
+      },
+      {
+        "position": 6,
+        "surface": "לָֽ/נוּ",
+        "phrase": "for ourselves",
+        "literal": "to-us",
+        "source": "; KJV: to ourselves, ESV: for ourselves, NASB: for ourselves"
+      }
+    ]
+  }
+]

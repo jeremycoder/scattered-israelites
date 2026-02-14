@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תֵֽלְכ֔וּ/ן",
+        "phrase": "you shall go",
+        "literal": "you(pl)-go",
+        "source": "H3212; KJV: go, ESV: go, NASB: go"
+      },
+      {
+        "position": 3,
+        "surface": "אַחֲרֵ֖י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310; KJV: after, ESV: after, NASB: after"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהִ֣ים",
+        "phrase": "gods",
+        "literal": "gods",
+        "source": "H430; KJV: gods, ESV: gods, NASB: gods"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחֵרִ֑ים",
+        "phrase": "other",
+        "literal": "other(pl)",
+        "source": "H312; KJV: other, ESV: other, NASB: other"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֱלֹהֵי֙",
+        "phrase": "of the gods",
+        "literal": "from-gods",
+        "source": "H430; KJV: of the gods, ESV: of the gods, NASB: of the gods"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/עַמִּ֔ים",
+        "phrase": "of the peoples",
+        "literal": "the-peoples",
+        "source": "H5971; KJV: of the people, ESV: of the peoples, NASB: of the peoples"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: which, ESV: which, NASB: which"
+      },
+      {
+        "position": 9,
+        "surface": "סְבִיבוֹתֵי/כֶֽם",
+        "phrase": "are around you",
+        "literal": "surroundings-your(pl)",
+        "source": "H5439; KJV: round about you, ESV: round about you, NASB: around you"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 3,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֖עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 6,
+        "surface": "גֹּ֣שׁוּ",
+        "phrase": "come here",
+        "literal": "approach-ye",
+        "source": "H5066 (KJV: Come hither; ESV: Come here; NASB: Come here)"
+      },
+      {
+        "position": 7,
+        "surface": "הֵ֔נָּה",
+        "phrase": "here",
+        "literal": "hither",
+        "source": "H2008 (KJV: hither; ESV: here; NASB: here)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/שִׁמְע֕וּ",
+        "phrase": "and listen",
+        "literal": "and-hear-ye",
+        "source": "H8085 (KJV: hear; ESV: listen; NASB: hear)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "דִּבְרֵ֖י",
+        "phrase": "the words of",
+        "literal": "words-of",
+        "source": "H1697 (KJV: words; ESV: words; NASB: words)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹֽהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      }
+    ]
+  }
+]

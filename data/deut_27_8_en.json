@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָתַבְתָּ֣",
+        "phrase": "and you shall write",
+        "literal": "and-you-write",
+        "source": "H3789 (KJV: 'write'; ESV: 'write'; NASB: 'write')"
+      },
+      {
+        "position": 2,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֲבָנִ֗ים",
+        "phrase": "the stones",
+        "literal": "the-stones",
+        "source": "H68 (KJV: 'stones'; ESV: 'stones'; NASB: 'stones')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבְרֵ֛י",
+        "phrase": "words of",
+        "literal": "words-of",
+        "source": "H1697 (KJV: 'words'; ESV: 'words'; NASB: 'words')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תּוֹרָ֥ה",
+        "phrase": "this law",
+        "literal": "the-law",
+        "source": "H8451 (KJV: 'law'; ESV: 'law'; NASB: 'law')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֹּ֖את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 9,
+        "surface": "בַּאֵ֥ר",
+        "phrase": "plainly",
+        "literal": "explaining",
+        "source": "H874 (KJV: 'plainly'; ESV: 'clearly'; NASB: 'clearly')"
+      },
+      {
+        "position": 10,
+        "surface": "הֵיטֵֽב",
+        "phrase": "clearly",
+        "literal": "well",
+        "source": "H3190 (KJV: 'plainly'; ESV: 'plainly'; NASB: 'plainly')"
+      }
+    ]
+  }
+]

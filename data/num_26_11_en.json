@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵי",
+        "phrase": "the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV: children, ESV/NASB: sons"
+      },
+      {
+        "position": 2,
+        "surface": "קֹ֖רַח",
+        "phrase": "Korah",
+        "literal": "Korah",
+        "source": "H7141; KJV/ESV/NASB: Korah"
+      },
+      {
+        "position": 3,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: not"
+      },
+      {
+        "position": 4,
+        "surface": "מֵֽתוּ",
+        "phrase": "died",
+        "literal": "they-died",
+        "source": "H4191; KJV: died, ESV/NASB: die"
+      }
+    ]
+  }
+]

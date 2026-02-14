@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תִרְאֶה֩",
+        "phrase": "you shall see",
+        "literal": "you(m.s.)-shall-see",
+        "source": "H7200 (KJV: see; ESV: see; NASB: see)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמ֨וֹר",
+        "phrase": "donkey",
+        "literal": "donkey",
+        "source": "H2543 (KJV: ass; ESV: donkey; NASB: donkey)"
+      },
+      {
+        "position": 5,
+        "surface": "אָחִ֜י/ךָ",
+        "phrase": "your brother’s",
+        "literal": "brother-your(m.s.)",
+        "source": "H251 (KJV: brother's; ESV: brother's; NASB: countryman's)"
+      },
+      {
+        "position": 6,
+        "surface": "א֤וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 7,
+        "surface": "שׁוֹר/וֹ֙",
+        "phrase": "his ox",
+        "literal": "ox-his(m.s.)",
+        "source": "H7794 (KJV: ox; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 8,
+        "surface": "נֹפְלִ֣ים",
+        "phrase": "fallen",
+        "literal": "falling(pl.)",
+        "source": "H5307 (KJV: fall; ESV: fallen; NASB: fallen)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/דֶּ֔רֶךְ",
+        "phrase": "on the way",
+        "literal": "in-the-way",
+        "source": "H1870 (KJV: by the way; ESV: by the way; NASB: on the way)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הִתְעַלַּמְתָּ֖",
+        "phrase": "and ignore",
+        "literal": "and-you(m.s.)-hide-yourself",
+        "source": "H5956 (KJV: hide thyself; ESV: ignore; NASB: pay no attention)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/הֶ֑ם",
+        "phrase": "from them",
+        "literal": "from-them",
+        "source": " (KJV: from them; ESV: them; NASB: to them)"
+      },
+      {
+        "position": 12,
+        "surface": "הָקֵ֥ם",
+        "phrase": "raise up",
+        "literal": "raise(infinitive)",
+        "source": "H6965 (KJV: help; ESV: help; NASB: help)"
+      },
+      {
+        "position": 13,
+        "surface": "תָּקִ֖ים",
+        "phrase": "you shall raise",
+        "literal": "you(m.s.)-shall-raise",
+        "source": "H6965 (KJV: lift; ESV: lift; NASB: raise)"
+      },
+      {
+        "position": 14,
+        "surface": "עִמּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973 (KJV: with him; ESV: him; NASB: him)"
+      }
+    ]
+  }
+]

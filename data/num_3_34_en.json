@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/פְקֻדֵי/הֶם֙",
+        "phrase": "And those numbered of them",
+        "literal": "and-numbered-of-them",
+        "source": "H6485 (KJV: 'those that were numbered of them'; ESV: 'those numbered of it'; NASB: 'their numbered men')"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/מִסְפַּ֣ר",
+        "phrase": "according to the number",
+        "literal": "in-number",
+        "source": "H4557 (KJV: 'according to the number'; ESV: 'according to the number'; NASB: 'according to those who were numbered')"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 4,
+        "surface": "זָכָ֔ר",
+        "phrase": "males",
+        "literal": "male",
+        "source": "H2145 (KJV: 'males'; ESV: 'males'; NASB: 'males')"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/בֶּן",
+        "phrase": "from a son",
+        "literal": "from-son-of",
+        "source": "H1121 (KJV: 'from a month'; ESV: 'from a month'; NASB: 'from a month')"
+      },
+      {
+        "position": 6,
+        "surface": "חֹ֖דֶשׁ",
+        "phrase": "of a month",
+        "literal": "month",
+        "source": "H2320 (KJV: 'old'; ESV: 'old'; NASB: 'old')"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/מָ֑עְלָ/ה",
+        "phrase": "and upward",
+        "literal": "and-upward",
+        "source": "H4605 (KJV: 'and upward'; ESV: 'and upward'; NASB: 'and upward')"
+      },
+      {
+        "position": 8,
+        "surface": "שֵׁ֥שֶׁת",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337 (KJV: 'six'; ESV: 'six'; NASB: 'six')"
+      },
+      {
+        "position": 9,
+        "surface": "אֲלָפִ֖ים",
+        "phrase": "thousand",
+        "literal": "thousands",
+        "source": "H505 (KJV: 'thousand'; ESV: 'thousand'; NASB: 'thousand')"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מָאתָֽיִם",
+        "phrase": "and two hundred",
+        "literal": "and-two-hundred",
+        "source": "H3967 (KJV: 'and two hundred'; ESV: 'and two hundred'; NASB: 'and two hundred')"
+      }
+    ]
+  }
+]

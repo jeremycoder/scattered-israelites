@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֤לֶךְ",
+        "phrase": "king of",
+        "literal": "king-of",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 2,
+        "surface": "קֶ֨דֶשׁ֙",
+        "phrase": "Kedesh",
+        "literal": "Kedesh",
+        "source": "H6943 (KJV: Kedesh; ESV: Kedesh; NASB: Kedesh)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 4,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king of",
+        "literal": "king-of",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 5,
+        "surface": "יָקְנֳעָ֥ם",
+        "phrase": "Jokneam",
+        "literal": "Jokneam",
+        "source": "H3362 (KJV: Jokneam; ESV: Jokneam; NASB: Jokneam)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/כַּרְמֶ֖ל",
+        "phrase": "of Carmel",
+        "literal": "to/of-Carmel",
+        "source": "H3760 (KJV: of Carmel; ESV: of Carmel; NASB: of Carmel)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      }
+    ]
+  }
+]

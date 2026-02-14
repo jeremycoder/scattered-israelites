@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 22,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "מוֹאָ֜ב",
+        "phrase": "Moab",
+        "literal": "Moab",
+        "source": "H4124 (KJV: Moab; ESV: Moab; NASB: Moab)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "זִקְנֵ֣י",
+        "phrase": "the elders of",
+        "literal": "elders-of",
+        "source": "H2205 (KJV: elders; ESV: elders; NASB: elders)"
+      },
+      {
+        "position": 5,
+        "surface": "מִדְיָ֗ן",
+        "phrase": "Midian",
+        "literal": "Midian",
+        "source": "H4080 (KJV: Midian; ESV: Midian; NASB: Midian)"
+      },
+      {
+        "position": 6,
+        "surface": "עַתָּ֞ה",
+        "phrase": "Now",
+        "literal": "now",
+        "source": "H6258 (KJV: Now; ESV: Now; NASB: Now)"
+      },
+      {
+        "position": 7,
+        "surface": "יְלַחֲכ֤וּ",
+        "phrase": "shall lick up",
+        "literal": "they-will-lick-up",
+        "source": "H3897 (KJV: shall lick up; ESV: will lick up; NASB: will lick up)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/קָּהָל֙",
+        "phrase": "the assembly",
+        "literal": "the-assembly",
+        "source": "H6951 (KJV: company; ESV: assembly; NASB: assembly)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 11,
+        "surface": "סְבִ֣יבֹתֵ֔י/נוּ",
+        "phrase": "around us",
+        "literal": "surroundings-our",
+        "source": "H5439 (KJV: round about us; ESV: around us; NASB: around us)"
+      },
+      {
+        "position": 12,
+        "surface": "כִּ/לְחֹ֣ךְ",
+        "phrase": "like the licking of",
+        "literal": "like-licking-of",
+        "source": "H3897 (KJV: as the ox licketh; ESV: as an ox licks; NASB: like an ox licks)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/שּׁ֔וֹר",
+        "phrase": "the ox",
+        "literal": "the-ox",
+        "source": "H7794 (KJV: ox; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 14,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 15,
+        "surface": "יֶ֣רֶק",
+        "phrase": "the green herbage",
+        "literal": "greenery",
+        "source": "H3418 (KJV: grass; ESV: grass; NASB: grass)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/שָּׂדֶ֑ה",
+        "phrase": "of the field",
+        "literal": "the-field",
+        "source": "H7704 (KJV: field; ESV: field; NASB: field)"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/בָלָ֧ק",
+        "phrase": "And Balak",
+        "literal": "and-Balak",
+        "source": "H1111 (KJV: Balak; ESV: Balak; NASB: Balak)"
+      },
+      {
+        "position": 18,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 19,
+        "surface": "צִפּ֛וֹר",
+        "phrase": "Zippor",
+        "literal": "Zippor",
+        "source": "H6834 (KJV: Zippor; ESV: Zippor; NASB: Zippor)"
+      },
+      {
+        "position": 20,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 21,
+        "surface": "לְ/מוֹאָ֖ב",
+        "phrase": "of Moab",
+        "literal": "to/for-Moab",
+        "source": "H4124 (KJV: Moab; ESV: Moab; NASB: Moab)"
+      },
+      {
+        "position": 22,
+        "surface": "בָּ/עֵ֥ת",
+        "phrase": "at the time",
+        "literal": "in-the-time",
+        "source": "H6256 (KJV: time; ESV: time; NASB: time)"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/הִֽוא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931 (KJV: that; ESV: that; NASB: that)"
+      }
+    ]
+  }
+]

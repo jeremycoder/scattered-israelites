@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֲדַבֵּ֥ר",
+        "phrase": "and-I-spoke",
+        "literal": "and-I-spoke",
+        "source": "H1696 (KJV: spake; ESV: spoke; NASB: spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵי/כֶ֖ם",
+        "phrase": "to-you",
+        "literal": "to-you(pl)",
+        "source": "H413 (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: would not; ESV: would not; NASB: would not)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁמַעְתֶּ֑ם",
+        "phrase": "you-heard",
+        "literal": "you-heard(pl)",
+        "source": "H8085 (KJV: hear; ESV: listen; NASB: listen)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תַּמְרוּ֙",
+        "phrase": "and-you-rebelled",
+        "literal": "and-you-rebelled(pl)",
+        "source": "H4784 (KJV: rebelled; ESV: rebelled; NASB: rebelled)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 7,
+        "surface": "פִּ֣י",
+        "phrase": "mouth-of",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: commandment; ESV: command; NASB: command)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תָּזִ֖דוּ",
+        "phrase": "and-you-acted-presumptuously",
+        "literal": "and-you-acted-presumptuously(pl)",
+        "source": "H2102 (KJV: presumptuously; ESV: presumptuously; NASB: presumptuously)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/תַּעֲל֥וּ",
+        "phrase": "and-you-went-up",
+        "literal": "and-you-went-up(pl)",
+        "source": "H5927 (KJV: went up; ESV: went up; NASB: went up)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/הָֽרָ/ה",
+        "phrase": "the-hill-country",
+        "literal": "the-mountain-ward",
+        "source": "H2022 (KJV: hill; ESV: hill country; NASB: hill country)"
+      }
+    ]
+  }
+]

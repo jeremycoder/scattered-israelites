@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 16,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808; KJV: 'neither', ESV: 'you shall not', NASB: 'nor'"
+      },
+      {
+        "position": 2,
+        "surface": "תָקִ֥ים",
+        "phrase": "set up",
+        "literal": "you(m.s.)-cause-to-stand",
+        "source": "H6965; KJV: 'shalt thou set thee up', ESV: 'set up', NASB: 'set up'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֖",
+        "phrase": "for yourself",
+        "literal": "to-you(m.s.)",
+        "source": "; KJV: 'thee', ESV: 'for yourself', NASB: 'for yourself'"
+      },
+      {
+        "position": 4,
+        "surface": "מַצֵּבָ֑ה",
+        "phrase": "pillar",
+        "literal": "pillar",
+        "source": "H4676; KJV: 'any image', ESV: 'pillar', NASB: 'pillar'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'which', NASB: 'which'"
+      },
+      {
+        "position": 6,
+        "surface": "שָׂנֵ֖א",
+        "phrase": "hates",
+        "literal": "he-hates",
+        "source": "H8130; KJV: 'hateth', ESV: 'hates', NASB: 'hates'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהֶֽי/ךָ",
+        "phrase": "your God",
+        "literal": "God-your(m.s.)",
+        "source": "H430; KJV: 'thy God', ESV: 'your God', NASB: 'your God"
+      }
+    ]
+  }
+]

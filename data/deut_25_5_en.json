@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H3588 (KJV: If; ESV: If; NASB: When)"
+      },
+      {
+        "position": 2,
+        "surface": "יֵשְׁב֨וּ",
+        "phrase": "brothers dwell",
+        "literal": "they-dwell",
+        "source": "H3427 (KJV: dwell; ESV: live; NASB: live)"
+      },
+      {
+        "position": 3,
+        "surface": "אַחִ֜ים",
+        "phrase": "brothers",
+        "literal": "brothers",
+        "source": "H251 (KJV: brethren; ESV: brothers; NASB: brothers)"
+      },
+      {
+        "position": 4,
+        "surface": "יַחְדָּ֗ו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "H3162 (KJV: together; ESV: together; NASB: together)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מֵ֨ת",
+        "phrase": "and dies",
+        "literal": "and-dies",
+        "source": "H4191 (KJV: die; ESV: dies; NASB: dies)"
+      },
+      {
+        "position": 6,
+        "surface": "אַחַ֤ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/הֶם֙",
+        "phrase": "of them",
+        "literal": "from-them",
+        "source": " (KJV: of them; ESV: of them; NASB: of them)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בֵ֣ן",
+        "phrase": "and son",
+        "literal": "and-son",
+        "source": "H1121 (KJV: child; ESV: son; NASB: son)"
+      },
+      {
+        "position": 9,
+        "surface": "אֵֽין",
+        "phrase": "no",
+        "literal": "no",
+        "source": "H369 (KJV: have no; ESV: has no; NASB: has no)"
+      },
+      {
+        "position": 10,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 11,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: shall not)"
+      },
+      {
+        "position": 12,
+        "surface": "תִהְיֶ֧ה",
+        "phrase": "shall be",
+        "literal": "she-be",
+        "source": "H1961 (KJV: marry; ESV: be; NASB: become)"
+      },
+      {
+        "position": 13,
+        "surface": "אֵֽשֶׁת",
+        "phrase": "wife of",
+        "literal": "wife-of",
+        "source": "H802 (KJV: wife; ESV: wife; NASB: wife)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/מֵּ֛ת",
+        "phrase": "the dead",
+        "literal": "the-dead",
+        "source": "H4191 (KJV: dead; ESV: dead; NASB: deceased)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/ח֖וּצָ/ה",
+        "phrase": "outside",
+        "literal": "to-outside",
+        "source": "H2351 (KJV: without; ESV: outside; NASB: outside)"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/אִ֣ישׁ",
+        "phrase": "to a man",
+        "literal": "to-man",
+        "source": "H376 (KJV: unto a stranger; ESV: to a stranger; NASB: to a stranger)"
+      },
+      {
+        "position": 17,
+        "surface": "זָ֑ר",
+        "phrase": "stranger",
+        "literal": "stranger",
+        "source": "H2114 (KJV: stranger; ESV: stranger; NASB: stranger)"
+      },
+      {
+        "position": 18,
+        "surface": "יְבָמָ/הּ֙",
+        "phrase": "her husband's brother",
+        "literal": "brother-in-law-her",
+        "source": "H2993 (KJV: husband's brother; ESV: brother-in-law; NASB: brother-in-law)"
+      },
+      {
+        "position": 19,
+        "surface": "יָבֹ֣א",
+        "phrase": "shall go in",
+        "literal": "he-shall-come",
+        "source": "H935 (KJV: go in; ESV: go in; NASB: go in)"
+      },
+      {
+        "position": 20,
+        "surface": "עָלֶ֔י/הָ",
+        "phrase": "to her",
+        "literal": "upon-her",
+        "source": " (KJV: unto her; ESV: to her; NASB: to her)"
+      },
+      {
+        "position": 21,
+        "surface": "וּ/לְקָחָ֥/הּ",
+        "phrase": "and take her",
+        "literal": "and-take-her",
+        "source": "H3947 (KJV: take her; ESV: take her; NASB: take her)"
+      },
+      {
+        "position": 22,
+        "surface": "ל֛/וֹ",
+        "phrase": "to himself",
+        "literal": "to-him",
+        "source": " (KJV: to him; ESV: to himself; NASB: to himself)"
+      },
+      {
+        "position": 23,
+        "surface": "לְ/אִשָּׁ֖ה",
+        "phrase": "as wife",
+        "literal": "to-wife",
+        "source": "H802 (KJV: to wife; ESV: as wife; NASB: as his wife)"
+      },
+      {
+        "position": 24,
+        "surface": "וְ/יִבְּמָֽ/הּ",
+        "phrase": "and perform the duty of a husband's brother to her",
+        "literal": "and-perform-levirate-her",
+        "source": "H2992 (KJV: perform the duty of an husband's brother unto her; ESV: perform the duty of a brother-in-law to her; NASB: perform the duty of a brother-in-law to her)"
+      }
+    ]
+  }
+]

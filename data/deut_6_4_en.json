@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁמַ֖",
+        "phrase": "Hear",
+        "literal": "hear!-imp",
+        "source": "H8085; KJV/ESV/NASB: 'Hear'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "O Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: 'Israel'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֵ֖י/נוּ",
+        "phrase": "our God",
+        "literal": "God-our",
+        "source": "H430; KJV/ESV/NASB: 'God'"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָֽ",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV: 'one'; ESV/NASB: 'one!'"
+      }
+    ]
+  }
+]

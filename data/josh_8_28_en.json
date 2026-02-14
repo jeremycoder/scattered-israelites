@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 8,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׂרֹ֥ף",
+        "phrase": "and burned",
+        "literal": "and-he-burned",
+        "source": "H8313 (KJV: burnt; ESV: burned; NASB: burned)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֖עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֑י",
+        "phrase": "Ai",
+        "literal": "the-Ai",
+        "source": "H5857 (KJV: Ai; ESV: Ai; NASB: Ai)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְשִׂימֶ֤/הָ",
+        "phrase": "and made it",
+        "literal": "and-he-put-her",
+        "source": "H7760 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 6,
+        "surface": "תֵּל",
+        "phrase": "a heap",
+        "literal": "mound",
+        "source": "H8510 (KJV: heap; ESV: heap; NASB: mound)"
+      },
+      {
+        "position": 7,
+        "surface": "עוֹלָם֙",
+        "phrase": "forever",
+        "literal": "eternity",
+        "source": "H5769 (KJV: ever; ESV: forever; NASB: forever)"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁמָמָ֔ה",
+        "phrase": "a desolation",
+        "literal": "desolation",
+        "source": "H8077 (KJV: desolation; ESV: desolation; NASB: desolation)"
+      },
+      {
+        "position": 9,
+        "surface": "עַ֖ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: unto; ESV: until; NASB: until)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: this day; NASB: this day)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      }
+    ]
+  }
+]

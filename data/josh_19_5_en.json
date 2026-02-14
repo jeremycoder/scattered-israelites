@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/צִֽקְלַ֥ג",
+        "phrase": "and Ziklag",
+        "literal": "and-Ziklag",
+        "source": "H6860 (KJV: Ziklag; ESV: Ziklag; NASB: Ziklag)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בֵית",
+        "phrase": "and Beth",
+        "literal": "and-house-of",
+        "source": "H1024 (KJV: Beth-marcaboth; ESV: Beth-marcaboth; NASB: Beth-marcaboth)"
+      },
+      {
+        "position": 3,
+        "surface": "הַמַּרְכָּב֖וֹת",
+        "phrase": "marcaboth",
+        "literal": "the-chariots",
+        "source": "H1024 (KJV: Beth-marcaboth; ESV: Beth-marcaboth; NASB: Beth-marcaboth)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/חֲצַ֥ר",
+        "phrase": "and Hazar",
+        "literal": "and-enclosure-of",
+        "source": "H2701 (KJV: Hazar-susah; ESV: Hazar-susah; NASB: Hazar-susah)"
+      },
+      {
+        "position": 5,
+        "surface": "סוּסָֽה",
+        "phrase": "susah",
+        "literal": "mare",
+        "source": "H2701 (KJV: Hazar-susah; ESV: Hazar-susah; NASB: Hazar-susah)"
+      }
+    ]
+  }
+]

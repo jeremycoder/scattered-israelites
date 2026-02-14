@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּעֲלָ֥ה",
+        "phrase": "Baalah",
+        "literal": "Baalah",
+        "source": "H1173; KJV: Baalah[1][2][4], ESV: Baalah, NASB: Baalah"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/עִיִּ֖ים",
+        "phrase": "and Iim",
+        "literal": "and-Iim",
+        "source": "H5864; KJV: and Iim[2][4][6], ESV: and Iim, NASB: and Iim"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/עָֽצֶם",
+        "phrase": "and Ezem",
+        "literal": "and-Ezem",
+        "source": "H6107; KJV: and Azem[1][2][4], ESV: and Ezem, NASB: and Ezem"
+      }
+    ]
+  }
+]

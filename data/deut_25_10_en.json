@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נִקְרָ֥א",
+        "phrase": "and it shall be called",
+        "literal": "and-it-will-be-called",
+        "source": "H7121; KJV: 'shall be called', ESV: 'shall be called', NASB: 'shall be called'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "H8034; KJV: 'his name', ESV: 'his name', NASB: 'his name'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/יִשְׂרָאֵ֑ל",
+        "phrase": "in Israel",
+        "literal": "in-Israel",
+        "source": "H3478; KJV: 'in Israel', ESV: 'in Israel', NASB: 'in Israel'"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֖ית",
+        "phrase": "the house",
+        "literal": "house",
+        "source": "H1004; KJV: 'The house', ESV: 'the house', NASB: 'The house'"
+      },
+      {
+        "position": 5,
+        "surface": "חֲל֥וּץ",
+        "phrase": "of the one whose [shoe was] loosed",
+        "literal": "loosed-one",
+        "source": "H2502; KJV: 'him that hath his shoe loosed', ESV: 'him who had his sandal pulled off', NASB: 'him whose sandal is removed'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נָּֽעַל",
+        "phrase": "of the sandal",
+        "literal": "the-sandal",
+        "source": "H5275; KJV: 'his shoe loosed', ESV: 'his sandal pulled off', NASB: 'whose sandal is removed'"
+      }
+    ]
+  }
+]

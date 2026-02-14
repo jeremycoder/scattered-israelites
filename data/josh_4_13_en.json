@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כְּ/אַרְבָּעִ֥ים",
+        "phrase": "about forty",
+        "literal": "like-forty",
+        "source": "H705 - KJV: forty thousand; ESV: 40,000; NASB: 40,000"
+      },
+      {
+        "position": 2,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 - KJV: thousand; ESV: (implied in 40,000); NASB: 40,000"
+      },
+      {
+        "position": 3,
+        "surface": "חֲלוּצֵ֣י",
+        "phrase": "ready armed",
+        "literal": "armed-men",
+        "source": "H2502 - KJV: prepared for war; ESV: ready for war; NASB: equipped for war"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/צָּבָ֑א",
+        "phrase": "of the army",
+        "literal": "the-host",
+        "source": "H6635 - KJV: (implied); ESV: (implied); NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "עָבְר֞וּ",
+        "phrase": "passed over",
+        "literal": "they-crossed",
+        "source": "H5674 - KJV: passed over; ESV: passed over; NASB: crossed"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנֵ֤י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 - KJV: before; ESV: before; NASB: before"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 - KJV: the LORD; ESV: the Lord; NASB: the LORD"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/מִּלְחָמָ֔ה",
+        "phrase": "for battle",
+        "literal": "to-the-war",
+        "source": "H4421 - KJV: unto battle; ESV: for battle; NASB: for battle"
+      },
+      {
+        "position": 9,
+        "surface": "אֶ֖ל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 - KJV: unto; ESV: to; NASB: to"
+      },
+      {
+        "position": 10,
+        "surface": "עַֽרְב֥וֹת",
+        "phrase": "plains",
+        "literal": "plains",
+        "source": "H6160 - KJV: plains; ESV: plains; NASB: desert plains"
+      },
+      {
+        "position": 11,
+        "surface": "יְרִיחֽוֹ",
+        "phrase": "of Jericho",
+        "literal": "Jericho",
+        "source": "H3405 - KJV: Jericho; ESV: Jericho; NASB: Jericho"
+      }
+    ]
+  }
+]

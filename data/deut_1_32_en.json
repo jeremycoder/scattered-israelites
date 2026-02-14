@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/דָּבָ֖ר",
+        "phrase": "Yet in this matter",
+        "literal": "and-in-the-word",
+        "source": "H1697 (KJV: 'in this thing'; ESV: 'in spite of this word'; NASB: 'for all this')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: 'in this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 3,
+        "surface": "אֵֽינְ/כֶם֙",
+        "phrase": "you did not",
+        "literal": "not-you",
+        "source": "H369 (KJV: 'ye did not'; ESV: 'you did not'; NASB: 'you did not')"
+      },
+      {
+        "position": 4,
+        "surface": "מַאֲמִינִ֔ם",
+        "phrase": "believe",
+        "literal": "believing",
+        "source": "H539 (KJV: 'believe'; ESV: 'believe'; NASB: 'trust')"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/יהוָ֖ה",
+        "phrase": "in YHWH",
+        "literal": "in-YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the Lord'; NASB: 'the Lord')"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: 'your God'; ESV: 'your God'; NASB: 'your God')"
+      }
+    ]
+  }
+]

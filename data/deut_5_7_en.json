@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "no",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: no; NASB: no)"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "shall be",
+        "literal": "be-(jussive)-3ms",
+        "source": "H1961 (KJV: shalt have; ESV: have; NASB: have)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֛",
+        "phrase": "to you",
+        "literal": "to/you-(sg)",
+        "source": " (KJV: none other gods; ESV: other gods; NASB: other gods)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהִ֥ים",
+        "phrase": "gods",
+        "literal": "gods",
+        "source": "H430 (KJV: gods; ESV: gods; NASB: gods)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחֵרִ֖ים",
+        "phrase": "other",
+        "literal": "other-(mp)",
+        "source": "H312 (KJV: other; ESV: other; NASB: other)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "before",
+        "literal": "upon",
+        "source": "H5921 (KJV: before; ESV: before; NASB: besides)"
+      },
+      {
+        "position": 7,
+        "surface": "פָּנָֽ/יַ",
+        "phrase": "me",
+        "literal": "face-my",
+        "source": "H6440 (KJV: me; ESV: me; NASB: Me)"
+      }
+    ]
+  }
+]

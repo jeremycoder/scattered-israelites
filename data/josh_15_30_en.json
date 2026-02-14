@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶלְתּוֹלַ֥ד",
+        "phrase": "Eltolad",
+        "literal": "and-Eltolad",
+        "source": "H513 (KJV: Eltolad; ESV: Eltolad; NASB: Eltolad)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/כְסִ֖יל",
+        "phrase": "Chesil",
+        "literal": "and-Chesil",
+        "source": "H3686 (KJV: Chesil; ESV: Chesil; NASB: Chesil)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/חָרְמָֽה",
+        "phrase": "Hormah",
+        "literal": "and-Hormah",
+        "source": "H2767 (KJV: Hormah; ESV: Hormah; NASB: Hormah)"
+      }
+    ]
+  }
+]

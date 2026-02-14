@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: 'also'; ESV: 'also'; NASB: 'also')"
+      },
+      {
+        "position": 2,
+        "surface": "בִּ/י֙",
+        "phrase": "with me",
+        "literal": "in-me",
+        "source": " (KJV: 'with me'; ESV: 'with me'; NASB: 'with me')"
+      },
+      {
+        "position": 3,
+        "surface": "הִתְאַנַּ֣ף",
+        "phrase": "was angry",
+        "literal": "he-became-angry",
+        "source": "H599 (KJV: 'was angry'; ESV: 'was angry'; NASB: 'was angry')"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/גְלַלְ/כֶ֖ם",
+        "phrase": "because of you",
+        "literal": "in-cause-of-you(pl)",
+        "source": "H1558 (KJV: 'for your sakes'; ESV: 'because of you'; NASB: 'because of you')"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: 'saying'; NASB: 'saying')"
+      },
+      {
+        "position": 7,
+        "surface": "גַּם",
+        "phrase": "even",
+        "literal": "also",
+        "source": "H1571 (KJV: 'Even'; ESV: 'either'; NASB: 'Not')"
+      },
+      {
+        "position": 8,
+        "surface": "אַתָּ֖ה",
+        "phrase": "you",
+        "literal": "you(ms)",
+        "source": "H859 (KJV: 'thou'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 9,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 10,
+        "surface": "תָבֹ֥א",
+        "phrase": "shall enter",
+        "literal": "you(ms)-shall-enter",
+        "source": "H935 (KJV: 'enter'; ESV: 'enter'; NASB: 'enter')"
+      },
+      {
+        "position": 11,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: 'there'; ESV: 'it'; NASB: 'there')"
+      }
+    ]
+  }
+]

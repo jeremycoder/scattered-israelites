@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֥וּר",
+        "phrase": "Cursed",
+        "literal": "cursed",
+        "source": "H779; KJV/ESV/NASB: 'Cursed' (as predicate adjective)"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859; KJV/ESV/NASB: 'shalt thou be'/'shall you be' (emphatic pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/בֹאֶ֑/ךָ",
+        "phrase": "when you come in",
+        "literal": "in-coming-your",
+        "source": "H935; KJV: 'when thou comest in', ESV: 'when you come in', NASB: 'when you come in'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אָר֥וּר",
+        "phrase": "and cursed",
+        "literal": "and-cursed",
+        "source": "H779; KJV/ESV/NASB: 'and cursed' (with conjunction)"
+      },
+      {
+        "position": 5,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859; KJV/ESV/NASB: 'shalt thou be'/'shall you be' (emphatic pronoun)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/צֵאתֶֽ/ךָ",
+        "phrase": "when you go out",
+        "literal": "in-going-your",
+        "source": "H3318; KJV: 'when thou goest out', ESV: 'when you go out', NASB: 'when you go out'"
+      }
+    ]
+  }
+]

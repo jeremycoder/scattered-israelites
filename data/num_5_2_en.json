@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 5,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צַ֚ו",
+        "phrase": "Command",
+        "literal": "command",
+        "source": "H6680 (KJV: Command; ESV: Command; NASB: Command)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "וִֽ/ישַׁלְּחוּ֙",
+        "phrase": "that they send away",
+        "literal": "and-they-shall-send-away",
+        "source": "H7971 (KJV: put out; ESV: put out; NASB: send away)"
+      },
+      {
+        "position": 6,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: from)"
+      },
+      {
+        "position": 7,
+        "surface": "הַֽ/מַּחֲנֶ֔ה",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "H4264 (KJV: camp; ESV: camp; NASB: camp)"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "every",
+        "source": "H3605 (KJV: every; ESV: everyone; NASB: every)"
+      },
+      {
+        "position": 9,
+        "surface": "צָר֖וּעַ",
+        "phrase": "leprous one",
+        "literal": "leprous-one",
+        "source": "H6879 (KJV: leper; ESV: leprous; NASB: leper)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/כָל",
+        "phrase": "and every",
+        "literal": "and-every",
+        "source": "H3605 (KJV: every; ESV: everyone; NASB: everyone)"
+      },
+      {
+        "position": 11,
+        "surface": "זָ֑ב",
+        "phrase": "one having a discharge",
+        "literal": "one-discharging",
+        "source": "H2100 (KJV: one that hath an issue; ESV: has a discharge; NASB: everyone having a discharge)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/כֹ֖ל",
+        "phrase": "and every",
+        "literal": "and-every",
+        "source": "H3605 (KJV: whosoever; ESV: everyone; NASB: everyone)"
+      },
+      {
+        "position": 13,
+        "surface": "טָמֵ֥א",
+        "phrase": "unclean",
+        "literal": "unclean",
+        "source": "H2931 (KJV: defiled; ESV: unclean; NASB: unclean)"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/נָֽפֶשׁ",
+        "phrase": "because of a dead body",
+        "literal": "to-body",
+        "source": "H5315 (KJV: by the dead; ESV: through contact with the dead; NASB: because of a dead person)"
+      }
+    ]
+  }
+]

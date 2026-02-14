@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דִלְעָ֥ן",
+        "phrase": "and Dilean",
+        "literal": "and-Dilean",
+        "source": "H1810 (KJV: Dilean; ESV: Dilean; NASB: Dilean)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הַ/מִּצְפֶּ֖ה",
+        "phrase": "and the Mizpeh",
+        "literal": "and-the-watchtower",
+        "source": "H4708 (KJV: Mizpeh; ESV: Mizpeh; NASB: Mizpeh)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יָקְתְאֵֽל",
+        "phrase": "and Joktheel",
+        "literal": "and-Joktheel",
+        "source": "H3371 (KJV: Joktheel; ESV: Joktheel; NASB: Joktheel)"
+      }
+    ]
+  }
+]

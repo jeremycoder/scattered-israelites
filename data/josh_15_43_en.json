@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יִפְתָּ֥ח",
+        "phrase": "and Jiphtah",
+        "literal": "and-Jiphtah",
+        "source": "H3316 (KJV: Jiphtah; ESV: Iphtah; NASB: Iphtah)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אַשְׁנָ֖ה",
+        "phrase": "and Ashnah",
+        "literal": "and-Ashnah",
+        "source": "H823 (KJV: Ashnah; ESV: Ashnah; NASB: Ashnah)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/נְצִֽיב",
+        "phrase": "and Nezib",
+        "literal": "and-Nezib",
+        "source": "H5334 (KJV: Nezib; ESV: Nezib; NASB: Nezib)"
+      }
+    ]
+  }
+]

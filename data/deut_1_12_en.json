@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵיכָ֥ה",
+        "phrase": "How",
+        "literal": "how",
+        "source": "H349; KJV/ESV/NASB: 'How'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶשָּׂ֖א",
+        "phrase": "can I bear",
+        "literal": "I-bear",
+        "source": "H5375; KJV: 'bear', ESV: 'bear', NASB: 'bear'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/בַדִּ֑/י",
+        "phrase": "alone",
+        "literal": "to/alone/me",
+        "source": "H905; KJV: 'alone', ESV: 'by myself', NASB: 'by myself'"
+      },
+      {
+        "position": 4,
+        "surface": "טָרְחֲ/כֶ֥ם",
+        "phrase": "your trouble",
+        "literal": "trouble/your",
+        "source": "H2960; KJV: 'cumbrance', ESV: 'weight', NASB: 'trouble'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מַֽשַּׂאֲ/כֶ֖ם",
+        "phrase": "and your burden",
+        "literal": "and/burden/your",
+        "source": "H4853; KJV/ESV/NASB: 'burden'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/רִֽיבְ/כֶֽם",
+        "phrase": "and your strife",
+        "literal": "and/strife/your",
+        "source": "H7379; KJV/ESV/NASB: 'strife'"
+      }
+    ]
+  }
+]

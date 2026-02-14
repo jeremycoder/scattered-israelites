@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְרִ֥יב",
+        "phrase": "and shall present",
+        "literal": "and-he-causes-to-approach",
+        "source": "H7126 (KJV: bring; ESV: present; NASB: present)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֹּהֵ֖ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עָשָׂ֥ה",
+        "phrase": "and shall offer",
+        "literal": "and-he-makes",
+        "source": "H6213 (KJV: offer; ESV: offer; NASB: offer)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "חַטָּאת֖/וֹ",
+        "phrase": "his sin offering",
+        "literal": "sin-offering-his",
+        "source": "H2403 (KJV: sin offering; ESV: sin offering; NASB: sin offering)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and [implied]; ESV: and [implied]; NASB: and [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "עֹלָתֽ/וֹ",
+        "phrase": "his burnt offering",
+        "literal": "burnt-offering-his",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      }
+    ]
+  }
+]

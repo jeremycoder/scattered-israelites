@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV: For, ESV: for, NASB: for"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the Lord, NASB: the LORD"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹֽהֵי/כֶ֔ם",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430; KJV: your God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/הֹלֵ֖ךְ",
+        "phrase": "who goes",
+        "literal": "the-going",
+        "source": "H1980; KJV: he that goeth, ESV: he who goes, NASB: the one who goes"
+      },
+      {
+        "position": 5,
+        "surface": "עִמָּ/כֶ֑ם",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H5973; KJV: with you, ESV: with you, NASB: with you"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/הִלָּחֵ֥ם",
+        "phrase": "to fight",
+        "literal": "to-fight",
+        "source": "H3898; KJV: to fight, ESV: to fight, NASB: to fight"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/כֶ֛ם",
+        "phrase": "for you",
+        "literal": "for-you",
+        "source": "; KJV: for you, ESV: for you, NASB: for you"
+      },
+      {
+        "position": 8,
+        "surface": "עִם",
+        "phrase": "against",
+        "literal": "with",
+        "source": "H5973; KJV: against, ESV: against, NASB: against"
+      },
+      {
+        "position": 9,
+        "surface": "אֹיְבֵי/כֶ֖ם",
+        "phrase": "your enemies",
+        "literal": "enemies-your",
+        "source": "H341; KJV: your enemies, ESV: your enemies, NASB: your enemies"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/הוֹשִׁ֥יעַ",
+        "phrase": "to save",
+        "literal": "to-save",
+        "source": "H3467; KJV: to save, ESV: to give you the victory, NASB: to save"
+      },
+      {
+        "position": 11,
+        "surface": "אֶתְ/כֶֽם",
+        "phrase": "you",
+        "literal": "-you",
+        "source": "H853; KJV: you, ESV: you, NASB: you"
+      }
+    ]
+  }
+]

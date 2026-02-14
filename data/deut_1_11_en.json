@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֞ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "God",
+        "literal": "god-of",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲבֽוֹתֵ/כֶ֗ם",
+        "phrase": "of your fathers",
+        "literal": "fathers-your",
+        "source": "H1 (KJV: fathers; ESV: fathers; NASB: fathers)"
+      },
+      {
+        "position": 4,
+        "surface": "יֹסֵ֧ף",
+        "phrase": "may He add",
+        "literal": "add",
+        "source": "H3254 (KJV: make; ESV: increase; NASB: increase)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲלֵי/כֶ֛ם",
+        "phrase": "to you",
+        "literal": "upon-you",
+        "source": "H5921 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּ/כֶ֖ם",
+        "phrase": "as you",
+        "literal": "as-you",
+        "source": " (KJV: as ye are; ESV: than you are; NASB: than you are)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֣לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: thousand; ESV: thousand; NASB: thousand)"
+      },
+      {
+        "position": 8,
+        "surface": "פְּעָמִ֑ים",
+        "phrase": "times",
+        "literal": "times",
+        "source": "H6471 (KJV: times; ESV: times; NASB: times)"
+      },
+      {
+        "position": 9,
+        "surface": "וִ/יבָרֵ֣ךְ",
+        "phrase": "and may He bless",
+        "literal": "and-bless",
+        "source": "H1288 (KJV: bless; ESV: bless; NASB: bless)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "obj-you",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 11,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 12,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "He has spoken",
+        "literal": "spoke",
+        "source": "H1696 (KJV: promised; ESV: promised; NASB: promised)"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/כֶֽם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: you; ESV: you; NASB: you)"
+      }
+    ]
+  }
+]

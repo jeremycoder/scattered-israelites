@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֤ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680; KJV: charged, ESV: charged, NASB: charged"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: Moses, ESV: Moses, NASB: Moses"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971; KJV: the people, ESV: the people, NASB: the people"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/יּ֥וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117; KJV: the same day, ESV: that day, NASB: that day"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931; KJV: the same, ESV: that, NASB: that"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV: saying, ESV: saying, NASB: saying"
+      }
+    ]
+  }
+]

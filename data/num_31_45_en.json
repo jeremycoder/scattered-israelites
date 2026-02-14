@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/חֲמֹרִ֕ים",
+        "phrase": "and donkeys",
+        "literal": "and-donkeys",
+        "source": "H2543; KJV: 'and asses', ESV/NASB: 'donkeys'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹשִׁ֥ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "H7970; KJV/ESV/NASB: 'thirty'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV/ESV/NASB: 'thousand'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/חֲמֵ֥שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "H2568; KJV/ESV/NASB: 'and' (in numeral), 'five'"
+      },
+      {
+        "position": 5,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967; KJV/ESV/NASB: 'hundred'"
+      }
+    ]
+  }
+]

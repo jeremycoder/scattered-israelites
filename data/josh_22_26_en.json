@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 22,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/נֹּ֕אמֶר",
+        "phrase": "Therefore we said",
+        "literal": "and-we-said",
+        "source": "H559 (KJV: Therefore we said; ESV: Therefore we said; NASB: Therefore we said)"
+      },
+      {
+        "position": 2,
+        "surface": "נַעֲשֶׂה",
+        "phrase": "let us do",
+        "literal": "we-will-do",
+        "source": "H6213 (KJV: Let us now; ESV: Let us now; NASB: Let us)"
+      },
+      {
+        "position": 3,
+        "surface": "נָּ֣א",
+        "phrase": "now",
+        "literal": "please/now",
+        "source": "H4994 (KJV: now; ESV: now; NASB: )"
+      },
+      {
+        "position": 4,
+        "surface": "לָ֔/נוּ",
+        "phrase": "for ourselves",
+        "literal": "to-us",
+        "source": " (KJV: us; ESV: ; NASB: )"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/בְנ֖וֹת",
+        "phrase": "to build",
+        "literal": "to-build",
+        "source": "H1129 (KJV: to build; ESV: build; NASB: build)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: ; ESV: ; NASB: )"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּזְבֵּ֑חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: an altar; ESV: an altar; NASB: an altar)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/עוֹלָ֖ה",
+        "phrase": "for burnt offering",
+        "literal": "for-burnt-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: nor; ESV: nor; NASB: or)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/זָֽבַח",
+        "phrase": "for sacrifice",
+        "literal": "for-sacrifice",
+        "source": "H2077 (KJV: sacrifice; ESV: sacrifice; NASB: sacrifice)"
+      }
+    ]
+  }
+]

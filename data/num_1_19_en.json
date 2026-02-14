@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ/אֲשֶׁ֛ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834; KJV/ESV/NASB: 'As'"
+      },
+      {
+        "position": 2,
+        "surface": "צִוָּ֥ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680; KJV/ESV/NASB: 'commanded'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'LORD' (render as YHWH)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-accusative]",
+        "source": "H853; KJV/ESV/NASB: (implied, no translation)"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV/ESV/NASB: 'Moses'"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יִּפְקְדֵ֖/ם",
+        "phrase": "so he numbered them",
+        "literal": "and-he-numbered-them",
+        "source": "H6485; KJV/ESV/NASB: 'numbered them'/'listed them'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/מִדְבַּ֥ר",
+        "phrase": "in the wilderness",
+        "literal": "in-wilderness",
+        "source": "H4057; KJV/ESV/NASB: 'wilderness'"
+      },
+      {
+        "position": 8,
+        "surface": "סִינָֽי",
+        "phrase": "of Sinai",
+        "literal": "Sinai",
+        "source": "H5514; KJV/ESV/NASB: 'Sinai'"
+      }
+    ]
+  }
+]

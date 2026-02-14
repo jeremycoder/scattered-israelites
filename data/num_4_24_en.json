@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֣את",
+        "phrase": "This",
+        "literal": "this-FEM",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 2,
+        "surface": "עֲבֹדַ֔ת",
+        "phrase": "service",
+        "literal": "service-FEM",
+        "source": "H5656 (KJV: service; ESV: service; NASB: service)"
+      },
+      {
+        "position": 3,
+        "surface": "מִשְׁפְּחֹ֖ת",
+        "phrase": "families",
+        "literal": "families-FEM",
+        "source": "H4940 (KJV: families; ESV: families; NASB: families)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/גֵּרְשֻׁנִּ֑י",
+        "phrase": "of the Gershonites",
+        "literal": "the-Gershonites-MASC",
+        "source": "H1649 (KJV: Gershonites; ESV: Gershonites; NASB: Gershonites)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/עֲבֹ֖ד",
+        "phrase": "to serve",
+        "literal": "to-serve",
+        "source": "H5647 (KJV: to serve; ESV: serving; NASB: serving)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/מַשָּֽׂא",
+        "phrase": "and for burden",
+        "literal": "and-to-burden",
+        "source": "H4853 (KJV: burdens; ESV: carrying; NASB: carrying)"
+      }
+    ]
+  }
+]

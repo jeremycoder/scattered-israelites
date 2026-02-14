@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 58,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חַלְח֥וּל",
+        "phrase": "Halhul",
+        "literal": "Halhul",
+        "source": "H2478 (KJV: Halhul; ESV: Halhul; NASB: Halhul)"
+      },
+      {
+        "position": 2,
+        "surface": "בֵּֽית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1049 (KJV: Bethzur; ESV: Beth-zur; NASB: Beth-zur)"
+      },
+      {
+        "position": 3,
+        "surface": "צ֖וּר",
+        "phrase": "zur",
+        "literal": "rock",
+        "source": "H1049 (KJV: Bethzur; ESV: Beth-zur; NASB: Beth-zur)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/גְדֽוֹר",
+        "phrase": "and Gedor",
+        "literal": "and-Gedor",
+        "source": "H1446 (KJV: and Gedor; ESV: Gedor; NASB: and Gedor)"
+      }
+    ]
+  }
+]

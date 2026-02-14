@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זָכ֕וֹר",
+        "phrase": "Remember",
+        "literal": "remember!",
+        "source": "H2142 (KJV: Remember; ESV: Remember; NASB: Remember)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֛ת",
+        "phrase": "what",
+        "literal": "[-]direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: what; NASB: what)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֥ה",
+        "phrase": "did",
+        "literal": "he-did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/ךָ֖",
+        "phrase": "to you",
+        "literal": "to/you",
+        "source": " (KJV: unto thee; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲמָלֵ֑ק",
+        "phrase": "Amalek",
+        "literal": "Amalek",
+        "source": "H6002 (KJV: Amalek; ESV: Amalek; NASB: Amalek)"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/דֶּ֖רֶךְ",
+        "phrase": "on the way",
+        "literal": "in/the-way",
+        "source": "H1870 (KJV: by the way; ESV: on the way; NASB: along the way)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/צֵאתְ/כֶ֥ם",
+        "phrase": "when you came out",
+        "literal": "in/coming-out/your",
+        "source": "H3318 (KJV: when ye were come forth; ESV: as you came out; NASB: when you came out)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/מִּצְרָֽיִם",
+        "phrase": "from Egypt",
+        "literal": "from/Egypt",
+        "source": "H4714 (KJV: out of Egypt; ESV: out of Egypt; NASB: from Egypt)"
+      }
+    ]
+  }
+]

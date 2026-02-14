@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁ֣מַרְתָּ֔",
+        "phrase": "you shall keep",
+        "literal": "and-you-shall-keep",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: keep)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְוֺ֖ת",
+        "phrase": "commandments",
+        "literal": "commandments",
+        "source": "H4687 (KJV: commandments; ESV: commandments; NASB: commandments)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֣ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֶ֑י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/לֶ֥כֶת",
+        "phrase": "to walk",
+        "literal": "to-walk",
+        "source": "H3212 (KJV: to walk; ESV: by walking; NASB: by walking)"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/דְרָכָ֖י/ו",
+        "phrase": "in his ways",
+        "literal": "in-ways-his",
+        "source": "H1870 (KJV: in his ways; ESV: in his ways; NASB: in His ways)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/יִרְאָ֥ה",
+        "phrase": "and to fear",
+        "literal": "and-to-fear",
+        "source": "H3372 (KJV: to fear; ESV: by fearing; NASB: fearing)"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "H853 (KJV: him; ESV: him; NASB: Him)"
+      }
+    ]
+  }
+]

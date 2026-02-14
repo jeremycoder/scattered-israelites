@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 10,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּן֩",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "H5414 (KJV: delivered; ESV: gave; NASB: gave)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֨ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: also; ESV: also; NASB: also)"
+      },
+      {
+        "position": 4,
+        "surface": "אוֹתָ֜/הּ",
+        "phrase": "it",
+        "literal": "obj.marker-her",
+        "source": "H853 (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/יַ֣ד",
+        "phrase": "into hand",
+        "literal": "in-hand",
+        "source": "H3027 (KJV: into the hand; ESV: into the hand; NASB: into the hand)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֘ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and-obj",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "מַלְכָּ/הּ֒",
+        "phrase": "its king",
+        "literal": "king-her",
+        "source": "H4428 (KJV: the king thereof; ESV: its king; NASB: its king)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּכֶּ֣/הָ",
+        "phrase": "and struck her",
+        "literal": "and-struck-her",
+        "source": "H5221 (KJV: smote it; ESV: struck it; NASB: struck it)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/פִי",
+        "phrase": "to mouth",
+        "literal": "to-mouth",
+        "source": "H6310 (KJV: with the edge; ESV: with the edge; NASB: with the edge)"
+      },
+      {
+        "position": 11,
+        "surface": "חֶ֗רֶב",
+        "phrase": "of sword",
+        "literal": "sword",
+        "source": "H2719 (KJV: of the sword; ESV: of the sword; NASB: of the sword)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶת",
+        "phrase": "and-obj",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 13,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: every; NASB: every)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/נֶּ֨פֶשׁ֙",
+        "phrase": "the souls",
+        "literal": "the-souls",
+        "source": "H5315 (KJV: the souls; ESV: person; NASB: person)"
+      },
+      {
+        "position": 15,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H834 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 16,
+        "surface": "בָּ֔/הּ",
+        "phrase": "in it",
+        "literal": "in-her",
+        "source": " (KJV: therein; ESV: in it; NASB: in it)"
+      },
+      {
+        "position": 17,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: none; ESV: no; NASB: no)"
+      },
+      {
+        "position": 18,
+        "surface": "הִשְׁאִ֥יר",
+        "phrase": "left",
+        "literal": "left",
+        "source": "H7604 (KJV: let none remain; ESV: left no survivor; NASB: left no survivor)"
+      },
+      {
+        "position": 19,
+        "surface": "בָּ֖/הּ",
+        "phrase": "in it",
+        "literal": "in-her",
+        "source": " (KJV: in it; ESV: in it; NASB: in it)"
+      },
+      {
+        "position": 20,
+        "surface": "שָׂרִ֑יד",
+        "phrase": "survivor",
+        "literal": "survivor",
+        "source": "H8300 (KJV: remain; ESV: survivor; NASB: survivor)"
+      },
+      {
+        "position": 21,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "and did",
+        "literal": "and-did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 22,
+        "surface": "לְ/מַלְכָּ֔/הּ",
+        "phrase": "to its king",
+        "literal": "to-king-her",
+        "source": "H4428 (KJV: unto the king thereof; ESV: to its king; NASB: to its king)"
+      },
+      {
+        "position": 23,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: as; ESV: just as; NASB: just as)"
+      },
+      {
+        "position": 24,
+        "surface": "עָשָׂ֖ה",
+        "phrase": "he had done",
+        "literal": "did",
+        "source": "H6213 (KJV: he did; ESV: he had done; NASB: he had done)"
+      },
+      {
+        "position": 25,
+        "surface": "לְ/מֶ֥לֶךְ",
+        "phrase": "to king",
+        "literal": "to-king",
+        "source": "H4428 (KJV: unto the king; ESV: to the king; NASB: to the king)"
+      },
+      {
+        "position": 26,
+        "surface": "יְרִיחֽוֹ",
+        "phrase": "of Jericho",
+        "literal": "Jericho",
+        "source": "H3405 (KJV: of Jericho; ESV: of Jericho; NASB: of Jericho)"
+      }
+    ]
+  }
+]

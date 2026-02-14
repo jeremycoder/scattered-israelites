@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 26,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּוֹצִאֵ֤/נוּ",
+        "phrase": "and brought us out",
+        "literal": "and-he-brought-out-us",
+        "source": "H3318: KJV 'brought us forth'; ESV/NASB 'brought us out'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV/ESV/NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/מִּצְרַ֔יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "H4714: KJV/ESV/NASB 'Egypt'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/יָ֤ד",
+        "phrase": "with hand",
+        "literal": "with-hand",
+        "source": "H3027: KJV/ESV/NASB 'hand'"
+      },
+      {
+        "position": 5,
+        "surface": "חֲזָקָה֙",
+        "phrase": "strong",
+        "literal": "strong",
+        "source": "H2389: KJV 'strong'; ESV/NASB 'mighty/strong'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בִ/זְרֹ֣עַ",
+        "phrase": "and with arm",
+        "literal": "and-with-arm",
+        "source": "H2220: KJV/ESV/NASB 'arm'"
+      },
+      {
+        "position": 7,
+        "surface": "נְטוּיָ֔ה",
+        "phrase": "outstretched",
+        "literal": "outstretched",
+        "source": "H5186: KJV 'outstretched'; ESV/NASB 'outstretched'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בְ/מֹרָ֖א",
+        "phrase": "and with terror",
+        "literal": "and-with-terror",
+        "source": "H4172: KJV 'terror'; ESV 'awesome power'; NASB 'awe'"
+      },
+      {
+        "position": 9,
+        "surface": "גָּדֹ֑ל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419: KJV/ESV/NASB 'great'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְ/אֹת֖וֹת",
+        "phrase": "and with signs",
+        "literal": "and-with-signs",
+        "source": "H226: KJV/ESV/NASB 'signs'"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/מֹפְתִֽים",
+        "phrase": "and with wonders",
+        "literal": "and-with-wonders",
+        "source": "H4159: KJV/ESV/NASB 'wonders'"
+      }
+    ]
+  }
+]

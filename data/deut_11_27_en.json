@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶֽת",
+        "phrase": "the",
+        "literal": "obj-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בְּרָכָ֑ה",
+        "phrase": "blessing",
+        "literal": "the-blessing",
+        "source": "H1293; KJV: A blessing, ESV: the blessing, NASB: the blessing"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "if",
+        "literal": "which/that-if",
+        "source": "H834; KJV: if, ESV: if, NASB: if"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁמְע֗וּ",
+        "phrase": "you obey",
+        "literal": "you(pl)-hear",
+        "source": "H8085; KJV: ye obey, ESV: you obey, NASB: you listen"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְוֺת֙",
+        "phrase": "commandments",
+        "literal": "commands",
+        "source": "H4687; KJV: commandments, ESV: commandments, NASB: commandments"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD, ESV: LORD, NASB: LORD"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹֽהֵי/כֶ֔ם",
+        "phrase": "your God",
+        "literal": "gods-your(pl)",
+        "source": "H430; KJV: your God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834; KJV: which, ESV: which, NASB: which"
+      },
+      {
+        "position": 10,
+        "surface": "אָנֹכִ֛י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595; KJV: I, ESV: I, NASB: I"
+      },
+      {
+        "position": 11,
+        "surface": "מְצַוֶּ֥ה",
+        "phrase": "command",
+        "literal": "commanding",
+        "source": "H6680; KJV: command, ESV: command, NASB: am commanding"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "obj-marker-you(pl)",
+        "source": "H853; KJV: you, ESV: you, NASB: you"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117; KJV: this day, ESV: today, NASB: today"
+      }
+    ]
+  }
+]

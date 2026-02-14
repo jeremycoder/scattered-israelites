@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַל",
+        "phrase": "And over",
+        "literal": "and-over",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 2,
+        "surface": "צְבָ֖א",
+        "phrase": "the host",
+        "literal": "host-of",
+        "source": "H6635 (KJV: host; ESV: division; NASB: division)"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֣ה",
+        "phrase": "of the tribe",
+        "literal": "tribe-of",
+        "source": "H4294 (KJV: tribe; ESV: tribe; NASB: tribe)"
+      },
+      {
+        "position": 4,
+        "surface": "בְנֵי",
+        "phrase": "of the children",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: children; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "גָ֑ד",
+        "phrase": "of Gad",
+        "literal": "Gad",
+        "source": "H1410 (KJV: Gad; ESV: Gad; NASB: Gad)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶלְיָסָ֖ף",
+        "phrase": "Eliasaph",
+        "literal": "Eliasaph",
+        "source": "H460 (KJV: Eliasaph; ESV: Eliasaph; NASB: Eliasaph)"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "the son",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 8,
+        "surface": "דְּעוּאֵֽל",
+        "phrase": "of Deuel",
+        "literal": "Deuel",
+        "source": "H1845 (KJV: Deuel; ESV: Deuel; NASB: Reuel)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/פְקוּדֵ֕י",
+        "phrase": "And those numbered",
+        "literal": "and-numbered-of-them",
+        "source": "H6485 (KJV: 'those that were numbered'; ESV: 'those enrolled'; NASB: 'those numbered')"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁפְּחֹ֖ת",
+        "phrase": "of the families",
+        "literal": "families-of",
+        "source": "H4940 (KJV: 'families'; ESV: 'clans'; NASB: 'families')"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV: 'sons'; NASB: 'sons')"
+      },
+      {
+        "position": 4,
+        "surface": "מְרָרִ֑י",
+        "phrase": "of Merari",
+        "literal": "Merari",
+        "source": "H4847 (KJV: 'Merari'; ESV: 'Merari'; NASB: 'Merari')"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מִשְׁפְּחֹתָ֖/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "H4940 (KJV: 'families'; ESV: 'families'; NASB: 'families')"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/בֵ֥ית",
+        "phrase": "according to the house",
+        "literal": "to-house",
+        "source": "H1004 (KJV: 'house'; ESV: 'fathers'' house'; NASB: 'fathers'' households')"
+      },
+      {
+        "position": 7,
+        "surface": "אֲבֹתָֽ/ם",
+        "phrase": "of their fathers",
+        "literal": "fathers-their",
+        "source": "H1 (KJV: 'fathers'; ESV: 'fathers'; NASB: 'fathers')"
+      }
+    ]
+  }
+]

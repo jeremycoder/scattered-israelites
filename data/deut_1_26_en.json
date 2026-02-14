@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV 'yet', ESV/NET 'but', NASB 'However'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִיתֶ֖ם",
+        "phrase": "you were willing",
+        "literal": "you-were-willing",
+        "source": "H14; KJV 'would', ESV 'willing', NASB 'willing'"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/עֲלֹ֑ת",
+        "phrase": "to go up",
+        "literal": "to-go-up",
+        "source": "H5927; KJV/ESV/NASB 'go up'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תַּמְר֕וּ",
+        "phrase": "and you rebelled",
+        "literal": "and-you-rebelled",
+        "source": "H4784; KJV 'rebelled', ESV 'rebelled', NASB 'rebelled'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853; KJV/ESV/NASB omit"
+      },
+      {
+        "position": 6,
+        "surface": "פִּ֥י",
+        "phrase": "mouth",
+        "literal": "mouth",
+        "source": "H6310; KJV/ESV/NASB 'commandment' or 'mouth'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB 'LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "gods-your",
+        "source": "H430; KJV/ESV/NASB 'your God'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֹ֥שֶׂה",
+        "phrase": "and showing",
+        "literal": "and-doing",
+        "source": "H6213; KJV: shewing, ESV: showing, NASB: showing"
+      },
+      {
+        "position": 2,
+        "surface": "חֶ֖סֶד",
+        "phrase": "lovingkindness",
+        "literal": "loyalty-lovingkindness",
+        "source": "H2617; KJV: mercy, ESV: steadfast love, NASB: lovingkindness"
+      },
+      {
+        "position": 3,
+        "surface": "לַֽ/אֲלָפִ֑ים",
+        "phrase": "to thousands",
+        "literal": "to-thousands",
+        "source": "H505; KJV: thousands, ESV: thousands, NASB: thousands"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אֹהֲבַ֖/י",
+        "phrase": "those who love me",
+        "literal": "to-loving-me",
+        "source": "H157; KJV: them that love me, ESV: those who love me, NASB: those who love Me"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/שֹׁמְרֵ֥י",
+        "phrase": "and to the keepers of",
+        "literal": "and-to-keeping",
+        "source": "H8104; KJV: keep, ESV: keep, NASB: keep"
+      },
+      {
+        "position": 6,
+        "surface": "מצות/ו",
+        "phrase": "his commandments",
+        "literal": "commandments-his",
+        "source": "H4687; KJV: my commandments, ESV: my commandments, NASB: My commandments"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְוֺתָֽ/י",
+        "phrase": "my commandments",
+        "literal": "commandments-my",
+        "source": "H4687; KJV: my commandments, ESV: my commandments, NASB: My commandments"
+      }
+    ]
+  }
+]

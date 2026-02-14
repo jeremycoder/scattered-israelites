@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יָצְאָ֖ה",
+        "phrase": "and she goes out",
+        "literal": "and-she-goes-out",
+        "source": "H3318; KJV: 'and when she is departed', ESV: 'and she goes out', NASB: 'and she goes out'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/בֵּית֑/וֹ",
+        "phrase": "from his house",
+        "literal": "from-house-his",
+        "source": "H1004; KJV: 'from his house', ESV: 'from his house', NASB: 'from his house'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הָלְכָ֖ה",
+        "phrase": "and goes",
+        "literal": "and-she-goes",
+        "source": "H1980; KJV: 'and goeth', ESV: 'and goes', NASB: 'and goes'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הָיְתָ֥ה",
+        "phrase": "and becomes",
+        "literal": "and-she-is",
+        "source": "H1961; KJV: 'and be', ESV: 'and becomes', NASB: 'and becomes'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/אִישׁ",
+        "phrase": "to a man",
+        "literal": "to-man",
+        "source": "H376; KJV: 'another', ESV: 'another', NASB: 'another'"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֵֽר",
+        "phrase": "other",
+        "literal": "other",
+        "source": "H312; KJV: 'another', ESV: 'other', NASB: 'other'"
+      }
+    ]
+  }
+]

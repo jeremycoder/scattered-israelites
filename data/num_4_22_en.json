@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נָשֹׂ֗א",
+        "phrase": "Take a census",
+        "literal": "lift-up",
+        "source": "H5375: KJV 'Take the sum', ESV/NASB 'Take a census'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "of",
+        "literal": "direct-object-marker",
+        "source": "H853: KJV/ESV/NASB not translated explicitly"
+      },
+      {
+        "position": 3,
+        "surface": "רֹ֛אשׁ",
+        "phrase": "the head",
+        "literal": "head",
+        "source": "H7218: KJV 'the sum/head', ESV/NASB 'a census'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֥י",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121: KJV/ESV/NASB 'sons'"
+      },
+      {
+        "position": 5,
+        "surface": "גֵרְשׁ֖וֹן",
+        "phrase": "of Gershon",
+        "literal": "Gershon",
+        "source": "H1648: KJV/ESV/NASB 'Gershon'"
+      },
+      {
+        "position": 6,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571: KJV/ESV/NASB 'also'"
+      },
+      {
+        "position": 7,
+        "surface": "הֵ֑ם",
+        "phrase": "them",
+        "literal": "they",
+        "source": "H1992: KJV 'them', ESV/NASB not separately translated"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/בֵ֥ית",
+        "phrase": "by their houses",
+        "literal": "to/house",
+        "source": "H1004: KJV/ESV/NASB 'houses'"
+      },
+      {
+        "position": 9,
+        "surface": "אֲבֹתָ֖/ם",
+        "phrase": "of fathers",
+        "literal": "fathers/their",
+        "source": "H1: KJV/ESV/NASB 'fathers''"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מִשְׁפְּחֹתָֽ/ם",
+        "phrase": "by their families",
+        "literal": "to/families/their",
+        "source": "H4940: KJV/ESV/NASB 'families'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And spoke",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: spake; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוֹשֻׁ֖עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      }
+    ]
+  }
+]

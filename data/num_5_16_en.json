@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 5,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִקְרִ֥יב",
+        "phrase": "and-brings-her-near",
+        "literal": "and-he-causes-to-approach",
+        "source": "H7126 (KJV: 'bring'; ESV: 'bring'; NASB: 'bring')"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֖/הּ",
+        "phrase": "her",
+        "literal": "[direct-object-marker]-her",
+        "source": "H853 (KJV: 'it'; ESV: 'her'; NASB: 'her')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כֹּהֵ֑ן",
+        "phrase": "the-priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: 'priest'; ESV: 'priest'; NASB: 'priest')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הֶֽעֱמִדָ֖/הּ",
+        "phrase": "and-causes-her-to-stand",
+        "literal": "and-he-causes-to-stand-her",
+        "source": "H5975 (KJV: 'set'; ESV: 'set'; NASB: 'set')"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: 'before'; ESV: 'before'; NASB: 'before')"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      }
+    ]
+  }
+]

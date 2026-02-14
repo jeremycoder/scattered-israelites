@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "you shall not",
+        "literal": "not",
+        "source": "H3808: KJV 'Thou shalt not'; ESV 'You shall not'; NASB 'You shall not'"
+      },
+      {
+        "position": 2,
+        "surface": "תַסְגִּ֥יר",
+        "phrase": "hand over",
+        "literal": "you-will-shut-up",
+        "source": "H5462: KJV 'deliver'; ESV 'give up'; NASB 'hand over'"
+      },
+      {
+        "position": 3,
+        "surface": "עֶ֖בֶד",
+        "phrase": "slave",
+        "literal": "slave",
+        "source": "H5650: KJV 'servant'; ESV 'slave'; NASB 'slave'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413: KJV 'to'; ESV 'to'; NASB 'to'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲדֹנָ֑י/ו",
+        "phrase": "his master",
+        "literal": "lord-his",
+        "source": "H113: KJV 'his master'; ESV 'his master'; NASB 'his master'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "which",
+        "source": "H834: KJV 'that'; ESV 'who'; NASB 'who'"
+      },
+      {
+        "position": 7,
+        "surface": "יִנָּצֵ֥ל",
+        "phrase": "has escaped",
+        "literal": "he-will-deliver-himself",
+        "source": "H5337: KJV 'is fled'; ESV 'has fled'; NASB 'has fled'"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלֶ֖י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "H413: KJV 'unto thee'; ESV 'to you'; NASB 'to you'"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/עִ֥ם",
+        "phrase": "from",
+        "literal": "from-with",
+        "source": "H5973: KJV 'from'; ESV 'from'; NASB 'from'"
+      },
+      {
+        "position": 10,
+        "surface": "אֲדֹנָֽי/ו",
+        "phrase": "his master",
+        "literal": "lord-his",
+        "source": "H113: KJV 'his master'; ESV 'his master'; NASB 'his master'"
+      }
+    ]
+  }
+]

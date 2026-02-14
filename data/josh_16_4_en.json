@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 16,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּנְחֲל֥וּ",
+        "phrase": "And they received",
+        "literal": "and-they-received",
+        "source": "H5157; KJV 'took', ESV 'received', NASB 'received'"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV 'children of', ESV 'descendants of', NASB 'sons of'"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "H3130; KJV 'Joseph', ESV 'Joseph', NASB 'Joseph'"
+      },
+      {
+        "position": 4,
+        "surface": "מְנַשֶּׁ֥ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "H4519; KJV 'Manasseh', ESV 'Manasseh', NASB 'Manasseh'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶפְרָֽיִם",
+        "phrase": "and Ephraim",
+        "literal": "and-Ephraim",
+        "source": "H669; KJV 'and Ephraim', ESV 'and Ephraim', NASB 'and Ephraim'"
+      }
+    ]
+  }
+]

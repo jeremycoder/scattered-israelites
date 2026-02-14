@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֗לֶּה",
+        "phrase": "These are",
+        "literal": "these",
+        "source": "H428 (KJV: These; ESV: These; NASB: These)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוֹת֙",
+        "phrase": "the names of",
+        "literal": "names-of",
+        "source": "H8034 (KJV: names; ESV: names; NASB: names)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "אַהֲרֹ֔ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כֹּהֲנִ֖ים",
+        "phrase": "the priests",
+        "literal": "the-priests",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מְּשֻׁחִ֑ים",
+        "phrase": "the anointed",
+        "literal": "the-anointed",
+        "source": "H4886 (KJV: anointed; ESV: anointed; NASB: anointed)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "H834 (KJV: whom; ESV: whom; NASB: whom)"
+      },
+      {
+        "position": 8,
+        "surface": "מִלֵּ֥א",
+        "phrase": "he filled",
+        "literal": "he-filled",
+        "source": "H4390 (KJV: consecrated; ESV: consecrated; NASB: ordained)"
+      },
+      {
+        "position": 9,
+        "surface": "יָדָ֖/ם",
+        "phrase": "their hand",
+        "literal": "hand-of-them",
+        "source": "H3027 (KJV: he filled their hand; ESV: consecrated; NASB: ordained)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/כַהֵֽן",
+        "phrase": "to minister as priest",
+        "literal": "to-priest",
+        "source": "H3547 (KJV: minister; ESV: minister as priests; NASB: serve as priests)"
+      }
+    ]
+  }
+]

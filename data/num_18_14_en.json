@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 18,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "Every",
+        "literal": "all-of",
+        "source": "H3605 (KJV: Every; ESV: Every; NASB: Every)"
+      },
+      {
+        "position": 2,
+        "surface": "חֵ֥רֶם",
+        "phrase": "devoted thing",
+        "literal": "devoted-thing",
+        "source": "H2764 (KJV: devoted; ESV: devoted; NASB: devoted)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/יִשְׂרָאֵ֖ל",
+        "phrase": "in Israel",
+        "literal": "in/Israel",
+        "source": "H3478 (KJV: in Israel; ESV: in Israel; NASB: in Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/ךָ֥",
+        "phrase": "to you",
+        "literal": "to/you",
+        "source": " (KJV: thine; ESV: yours; NASB: yours)"
+      },
+      {
+        "position": 5,
+        "surface": "יִהְיֶֽה",
+        "phrase": "shall be",
+        "literal": "it-will-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: shall be)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתֶּ֖ם",
+        "phrase": "But as for you",
+        "literal": "and-you-PL",
+        "source": "H859; KJV: 'But as for you', ESV: 'But as for you', NASB: 'But as for you'"
+      },
+      {
+        "position": 2,
+        "surface": "פְּנ֣וּ",
+        "phrase": "turn",
+        "literal": "turn-IMPV-2mp",
+        "source": "H6437; KJV: 'turn you', ESV: 'turn', NASB: 'turn around'"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "yourselves",
+        "literal": "to-you-PL",
+        "source": "; KJV: '(you)', ESV: '(and journey)', NASB: '(and set out)'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/סְע֥וּ",
+        "phrase": "and take your journey",
+        "literal": "and-journey-IMPV-2mp",
+        "source": "H5265; KJV: 'take your journey', ESV: '(journey)', NASB: 'set out'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּדְבָּ֖רָ/ה",
+        "phrase": "into the wilderness",
+        "literal": "the-wilderness-to",
+        "source": "H4057; KJV: 'into the wilderness', ESV: 'into the wilderness', NASB: 'for the wilderness'"
+      },
+      {
+        "position": 6,
+        "surface": "דֶּ֥רֶךְ",
+        "phrase": "by the way",
+        "literal": "way",
+        "source": "H1870; KJV: 'by the way', ESV: 'in the direction', NASB: 'by the way'"
+      },
+      {
+        "position": 7,
+        "surface": "יַם",
+        "phrase": "of the Sea",
+        "literal": "sea",
+        "source": "H3220; KJV: '(Red) sea', ESV: 'Red Sea', NASB: 'Red Sea'"
+      },
+      {
+        "position": 8,
+        "surface": "סֽוּף",
+        "phrase": "of Reeds",
+        "literal": "reeds",
+        "source": "H5488; KJV: 'Red sea', ESV: 'Red Sea', NASB: 'Red Sea'"
+      }
+    ]
+  }
+]

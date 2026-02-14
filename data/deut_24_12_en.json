@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: And if; NASB: If he)"
+      },
+      {
+        "position": 2,
+        "surface": "אִ֥ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 3,
+        "surface": "עָנִ֖י",
+        "phrase": "poor",
+        "literal": "poor",
+        "source": "H6041 (KJV: poor; ESV: poor; NASB: poor)"
+      },
+      {
+        "position": 4,
+        "surface": "ה֑וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: he)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 6,
+        "surface": "תִשְׁכַּ֖ב",
+        "phrase": "you shall lie down",
+        "literal": "you(m.s.)-shall-lie-down",
+        "source": "H7901 (KJV: sleep; ESV: sleep; NASB: sleep)"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/עֲבֹטֽ/וֹ",
+        "phrase": "in his pledge",
+        "literal": "in-pledge-his",
+        "source": "H5667 (KJV: with his pledge; ESV: with his pledge; NASB: with his pledge)"
+      }
+    ]
+  }
+]

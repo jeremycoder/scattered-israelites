@@ -1,0 +1,221 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: for; NASB: for)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֵ֔י/נוּ",
+        "phrase": "our God",
+        "literal": "God-our",
+        "source": "H430 (KJV: our God; ESV: our God; NASB: our God)"
+      },
+      {
+        "position": 4,
+        "surface": "הוּא֩",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: he it is; ESV: it is ... who; NASB: is He who)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מַּעֲלֶ֨ה",
+        "phrase": "who brought up",
+        "literal": "the-one-who-brought-up",
+        "source": "H5927 (KJV: brought us up; ESV: brought us ... up; NASB: brought us ... up)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹתָ֧/נוּ",
+        "phrase": "us",
+        "literal": "us",
+        "source": "H853 (KJV: us; ESV: us; NASB: us)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבוֹתֵ֛י/נוּ",
+        "phrase": "our fathers",
+        "literal": "fathers-our",
+        "source": "H1 (KJV: our fathers; ESV: our fathers; NASB: our fathers)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from land",
+        "literal": "from-land",
+        "source": "H776 (KJV: out of the land; ESV: from the land; NASB: out of the land)"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: of Egypt; ESV: of Egypt; NASB: of Egypt)"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/בֵּ֣ית",
+        "phrase": "from house",
+        "literal": "from-house",
+        "source": "H1004 (KJV: from the house; ESV: out of the house; NASB: from the house)"
+      },
+      {
+        "position": 12,
+        "surface": "עֲבָדִ֑ים",
+        "phrase": "slaves",
+        "literal": "slaves",
+        "source": "H5650 (KJV: of bondage; ESV: of slavery; NASB: of bondage)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/אֲשֶׁ֧ר",
+        "phrase": "and who",
+        "literal": "and-who",
+        "source": "H834 (KJV: and which; ESV: and who; NASB: and who)"
+      },
+      {
+        "position": 14,
+        "surface": "עָשָׂ֣ה",
+        "phrase": "did",
+        "literal": "did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/עֵינֵ֗י/נוּ",
+        "phrase": "before our eyes",
+        "literal": "to-eyes-our",
+        "source": "H5869 (KJV: in our sight; ESV: in our sight; NASB: in our sight)"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 17,
+        "surface": "הָ/אֹת֤וֹת",
+        "phrase": "the signs",
+        "literal": "the-signs",
+        "source": "H226 (KJV: those great signs; ESV: those great signs; NASB: these great signs)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/גְּדֹלוֹת֙",
+        "phrase": "great",
+        "literal": "the-great",
+        "source": "H1419 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 19,
+        "surface": "הָ/אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: those; ESV: those; NASB: these)"
+      },
+      {
+        "position": 20,
+        "surface": "וַֽ/יִּשְׁמְרֵ֗/נוּ",
+        "phrase": "and preserved us",
+        "literal": "and-preserved-us",
+        "source": "H8104 (KJV: preserved us; ESV: preserved us; NASB: preserved us)"
+      },
+      {
+        "position": 21,
+        "surface": "בְּ/כָל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: in all; ESV: in all; NASB: through all)"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/דֶּ֨רֶךְ֙",
+        "phrase": "the way",
+        "literal": "the-way",
+        "source": "H1870 (KJV: the way; ESV: the way; NASB: the way)"
+      },
+      {
+        "position": 23,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H834 (KJV: wherein; ESV: that; NASB: in which)"
+      },
+      {
+        "position": 24,
+        "surface": "הָלַ֣כְנוּ",
+        "phrase": "we went",
+        "literal": "we-walked",
+        "source": "H1980 (KJV: we went; ESV: we went; NASB: we went)"
+      },
+      {
+        "position": 25,
+        "surface": "בָ֔/הּ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": ""
+      },
+      {
+        "position": 26,
+        "surface": "וּ/בְ/כֹל֙",
+        "phrase": "and in all",
+        "literal": "and-in-all",
+        "source": "H3605 (KJV: and among all; ESV: and among all; NASB: and among all)"
+      },
+      {
+        "position": 27,
+        "surface": "הָֽ/עַמִּ֔ים",
+        "phrase": "the peoples",
+        "literal": "the-peoples",
+        "source": "H5971 (KJV: all the people; ESV: all the peoples; NASB: all the peoples)"
+      },
+      {
+        "position": 28,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "through whom",
+        "literal": "that",
+        "source": "H834 (KJV: through whom; ESV: through whom; NASB: through whose)"
+      },
+      {
+        "position": 29,
+        "surface": "עָבַ֖רְנוּ",
+        "phrase": "we passed",
+        "literal": "we-passed",
+        "source": "H5674 (KJV: we passed; ESV: we passed; NASB: we passed)"
+      },
+      {
+        "position": 30,
+        "surface": "בְּ/קִרְבָּֽ/ם",
+        "phrase": "through their midst",
+        "literal": "in-midst-their",
+        "source": "H7130 (KJV: through whom; ESV: through whom; NASB: through whose midst)"
+      }
+    ]
+  }
+]

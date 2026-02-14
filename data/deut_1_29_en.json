@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֹמַ֖ר",
+        "phrase": "And I said",
+        "literal": "and-I-said",
+        "source": "H559; KJV: 'Then I said', ESV: 'Then I said', NASB: 'Then I said'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "H413; KJV: 'unto you', ESV: 'to you', NASB: 'to you'"
+      },
+      {
+        "position": 3,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'Dread not', ESV: 'Do not be in dread', NASB: 'Do not be terrified'"
+      },
+      {
+        "position": 4,
+        "surface": "תַֽעַרְצ֥וּ/ן",
+        "phrase": "you shall dread",
+        "literal": "you(pl)-shall-dread",
+        "source": "H6206; KJV: 'neither be afraid', ESV: 'nor be afraid', NASB: 'nor fear'"
+      },
+      {
+        "position": 5,
+        "surface": "וְֽ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV: 'neither', ESV: 'or', NASB: 'or'"
+      },
+      {
+        "position": 6,
+        "surface": "תִֽירְא֖וּ/ן",
+        "phrase": "you shall fear",
+        "literal": "you(pl)-shall-fear",
+        "source": "H3372; KJV: 'of them', ESV: 'of them', NASB: 'them'"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/הֶֽם",
+        "phrase": "from them",
+        "literal": "from-them",
+        "source": "; KJV: 'of them', ESV: 'of them', NASB: 'of them'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/רָ֖ם",
+        "phrase": "and your heart is lifted up",
+        "literal": "and-be-high",
+        "source": "H7311 (KJV: be lifted up; ESV: be lifted up; NASB: will become proud)"
+      },
+      {
+        "position": 2,
+        "surface": "לְבָבֶ֑/ךָ",
+        "phrase": "your heart",
+        "literal": "heart-your",
+        "source": "H3824 (KJV: thine heart; ESV: your heart; NASB: your heart)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שָֽׁכַחְתָּ֙",
+        "phrase": "and you forget",
+        "literal": "and-you-forget",
+        "source": "H7911 (KJV: thou forget; ESV: you forget; NASB: you will forget)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֶ֔י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מּוֹצִיאֲ/ךָ֛",
+        "phrase": "who brought you out",
+        "literal": "the-one-bringing-you-out",
+        "source": "H3318 (KJV: which brought thee forth; ESV: who brought you out; NASB: who brought you out)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from the land",
+        "literal": "from-land",
+        "source": "H776 (KJV: out of the land; ESV: from the land; NASB: from the land)"
+      },
+      {
+        "position": 9,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: of Egypt; ESV: of Egypt; NASB: of Egypt)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/בֵּ֥ית",
+        "phrase": "from the house",
+        "literal": "from-house",
+        "source": "H1004 (KJV: from the house; ESV: out of the house; NASB: out of the house)"
+      },
+      {
+        "position": 11,
+        "surface": "עֲבָדִֽים",
+        "phrase": "of slaves",
+        "literal": "slaves",
+        "source": "H5650 (KJV: of bondage; ESV: of slavery; NASB: of slavery)"
+      }
+    ]
+  }
+]

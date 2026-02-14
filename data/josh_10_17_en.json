@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 10,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֻּגַּ֖ד",
+        "phrase": "and it was told",
+        "literal": "and-was-told",
+        "source": "H5046 (KJV: 'it was told'; ESV: 'it was told'; NASB: 'It was told')"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/יהוֹשֻׁ֣עַ",
+        "phrase": "to Joshua",
+        "literal": "to-Joshua",
+        "source": "H3091 (KJV: 'Joshua'; ESV: 'Joshua'; NASB: 'Joshua')"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: implied in 'The five kings...'; NASB: 'saying')"
+      },
+      {
+        "position": 4,
+        "surface": "נִמְצְאוּ֙",
+        "phrase": "have been found",
+        "literal": "they-have-been-found",
+        "source": "H4672 (KJV: 'are found'; ESV: 'have been found'; NASB: 'have been found')"
+      },
+      {
+        "position": 5,
+        "surface": "חֲמֵ֣שֶׁת",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV: 'five'; ESV: 'five'; NASB: 'five')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מְּלָכִ֔ים",
+        "phrase": "the kings",
+        "literal": "the-kings",
+        "source": "H4428 (KJV: 'kings'; ESV: 'kings'; NASB: 'kings')"
+      },
+      {
+        "position": 7,
+        "surface": "נֶחְבְּאִ֥ים",
+        "phrase": "hiding",
+        "literal": "hiding",
+        "source": "H2244 (KJV: 'hid'; ESV: 'hidden'; NASB: 'hidden')"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/מְּעָרָ֖ה",
+        "phrase": "in the cave",
+        "literal": "in-the-cave",
+        "source": "H4631 (KJV: 'in a cave'; ESV: 'in the cave'; NASB: 'in the cave')"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/מַקֵּדָֽה",
+        "phrase": "at Makkedah",
+        "literal": "in-Makkedah",
+        "source": "H4719 (KJV: 'at Makkedah'; ESV: 'at Makkedah'; NASB: 'at Makkedah')"
+      }
+    ]
+  }
+]

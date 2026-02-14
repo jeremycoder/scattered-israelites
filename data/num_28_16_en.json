@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 28,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בַ/חֹ֣דֶשׁ",
+        "phrase": "And in the month",
+        "literal": "and-in-the-month",
+        "source": "H2320; KJV: 'in the first month', ESV: 'of the first month', NASB: 'of the first month'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רִאשׁ֗וֹן",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223; KJV: 'first', ESV: 'first', NASB: 'first'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אַרְבָּעָ֥ה",
+        "phrase": "on fourth",
+        "literal": "in-four",
+        "source": "H702; KJV: 'fourteenth', ESV: 'fourteenth', NASB: 'fourteenth'"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֛ר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV: 'fourteenth', ESV: 'fourteenth', NASB: 'fourteenth'"
+      },
+      {
+        "position": 5,
+        "surface": "י֖וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117; KJV: 'day', ESV: 'day', NASB: 'day'"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/חֹ֑דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "H2320; KJV: 'of the month', ESV: 'of the month', NASB: 'of the month'"
+      },
+      {
+        "position": 7,
+        "surface": "פֶּ֖סַח",
+        "phrase": "Passover",
+        "literal": "passover",
+        "source": "H6453; KJV: 'passover', ESV: 'Passover', NASB: 'Passover'"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV: 'of the LORD', ESV: \"LORD's\", NASB: 'of the LORD'"
+      }
+    ]
+  }
+]

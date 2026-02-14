@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[dom]",
+        "source": "H853 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 2,
+        "surface": "חֶלְקָת֙",
+        "phrase": "Helkath",
+        "literal": "Helkath",
+        "source": "H2520 (KJV: Helkah; ESV: Helkath; NASB: Helkath)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[dom]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְרָשֶׁ֔/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054 (KJV: her suburbs; ESV: its pasturelands; NASB: its pasture lands)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[dom]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "רְחֹ֖ב",
+        "phrase": "Rehob",
+        "literal": "Rehob",
+        "source": "H7340 (KJV: Rehob; ESV: Rehob; NASB: Rehob)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[dom]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "מִגְרָשֶׁ֑/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054 (KJV: her suburbs; ESV: its pasturelands; NASB: its pasture lands)"
+      },
+      {
+        "position": 9,
+        "surface": "עָרִ֖ים",
+        "phrase": "cities",
+        "literal": "cities",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 10,
+        "surface": "אַרְבַּֽע",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702 (KJV: foure; ESV: four; NASB: four)"
+      }
+    ]
+  }
+]

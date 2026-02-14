@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/חֲצַ֥ר",
+        "phrase": "and Hazar",
+        "literal": "and-enclosure",
+        "source": "H2693; KJV: Hazargaddah, ESV: Hazar-gaddah, NASB: Hazar-gaddah"
+      },
+      {
+        "position": 2,
+        "surface": "גַּדָּ֛ה",
+        "phrase": "Gaddah",
+        "literal": "Gaddah",
+        "source": "H2693; KJV: (part of Hazargaddah), ESV: (part of Hazar-gaddah), NASB: (part of Hazar-gaddah)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/חֶשְׁמ֖וֹן",
+        "phrase": "and Heshmon",
+        "literal": "and-Heshmon",
+        "source": "H2829; KJV: Heshmon, ESV: Heshmon, NASB: Heshmon"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בֵ֥ית",
+        "phrase": "and Beth",
+        "literal": "and-house",
+        "source": "H1046; KJV: Bethpalet, ESV: Beth-pelet, NASB: Beth-pelet"
+      },
+      {
+        "position": 5,
+        "surface": "פָּֽלֶט",
+        "phrase": "Pelet",
+        "literal": "escape",
+        "source": "H1046; KJV: (part of Bethpalet), ESV: (part of Beth-pelet), NASB: (part of Beth-pelet)"
+      }
+    ]
+  }
+]

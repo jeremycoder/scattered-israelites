@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶעְבְּרָ֣ה",
+        "phrase": "Let me pass through",
+        "literal": "I-will-pass-through",
+        "source": "H5674 (KJV: pass through; ESV: pass through; NASB: pass through)"
+      },
+      {
+        "position": 2,
+        "surface": "בְ/אַרְצֶ֔/ךָ",
+        "phrase": "your land",
+        "literal": "in-land-your",
+        "source": "H776 (KJV: thy land; ESV: your land; NASB: your land)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/דֶּ֥רֶךְ",
+        "phrase": "on the way",
+        "literal": "in-the-way",
+        "source": "H1870 (KJV: high way; ESV: highway; NASB: highway)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/דֶּ֖רֶךְ",
+        "phrase": "on the way",
+        "literal": "in-the-way",
+        "source": "H1870 (KJV: high way; ESV: highway; NASB: highway)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵלֵ֑ךְ",
+        "phrase": "I will go",
+        "literal": "I-will-go",
+        "source": "H3212 (KJV: I will go; ESV: I will travel; NASB: I will travel)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: neither; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "אָס֖וּר",
+        "phrase": "I will turn aside",
+        "literal": "I-will-turn-aside",
+        "source": "H5493 (KJV: turn; ESV: turn aside; NASB: turn aside)"
+      },
+      {
+        "position": 8,
+        "surface": "יָמִ֥ין",
+        "phrase": "right",
+        "literal": "right",
+        "source": "H3225 (KJV: right hand; ESV: right; NASB: right)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/שְׂמֹֽאול",
+        "phrase": "or left",
+        "literal": "and-left",
+        "source": "H8040 (KJV: left; ESV: left; NASB: left)"
+      }
+    ]
+  }
+]

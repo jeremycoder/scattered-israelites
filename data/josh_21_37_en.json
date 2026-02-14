@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 2,
+        "surface": "קְדֵמוֹת֙",
+        "phrase": "Kedemoth",
+        "literal": "Kedemoth",
+        "source": "H6932 (KJV: Kedemoth; ESV: Kedemoth; NASB: Kedemoth)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְרָשֶׁ֔/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-of-it",
+        "source": "H4054 (KJV: her suburbs; ESV: its pasturelands; NASB: its pasture lands)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵיפָ֖עַת",
+        "phrase": "Mephaath",
+        "literal": "Mephaath",
+        "source": "H4158 (KJV: Mephaath; ESV: Mephaath; NASB: Mephaath)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "מִגְרָשֶׁ֑/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-of-it",
+        "source": "H4054 (KJV: her suburbs; ESV: its pasturelands; NASB: its pasture lands)"
+      },
+      {
+        "position": 9,
+        "surface": "עָרִ֖ים",
+        "phrase": "cities",
+        "literal": "cities",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 10,
+        "surface": "אַרְבַּֽע",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702 (KJV: four; ESV: four; NASB: four)"
+      }
+    ]
+  }
+]

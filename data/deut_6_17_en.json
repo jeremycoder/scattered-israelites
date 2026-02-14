@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שָׁמ֣וֹר",
+        "phrase": "keep",
+        "literal": "keep!",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: diligently keep)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּשְׁמְר֔וּ/ן",
+        "phrase": "you shall diligently keep",
+        "literal": "you(pl)-shall-keep",
+        "source": "H8104 (KJV: diligently keep; ESV: diligently keep; NASB: diligently keep)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: -; ESV: the; NASB: the)"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְוֺ֖ת",
+        "phrase": "commandments",
+        "literal": "commandments",
+        "source": "H4687 (KJV: commandments; ESV: commandments; NASB: commandments)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵי/כֶ֑ם",
+        "phrase": "your God",
+        "literal": "God-your(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עֵדֹתָ֥י/ו",
+        "phrase": "and His testimonies",
+        "literal": "and-testimonies-his",
+        "source": "H5713 (KJV: his testimonies; ESV: his testimonies; NASB: His testimonies)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חֻקָּ֖י/ו",
+        "phrase": "and His statutes",
+        "literal": "and-statutes-his",
+        "source": "H2706 (KJV: his statutes; ESV: his statutes; NASB: His statutes)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 10,
+        "surface": "צִוָּֽ/ךְ",
+        "phrase": "He has commanded you",
+        "literal": "He-has-commanded-you(fs)",
+        "source": "H6680 (KJV: he hath commanded thee; ESV: he has commanded you; NASB: He has commanded you)"
+      }
+    ]
+  }
+]

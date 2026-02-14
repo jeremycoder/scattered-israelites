@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָ/רָאָה֙",
+        "phrase": "and the kite",
+        "literal": "and-the-seeing-one",
+        "source": "H7201; KJV: glede, ESV: kite, NASB: red kite"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853; KJV: (obj marker), ESV: (obj marker), NASB: (obj marker)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ֣/אַיָּ֔ה",
+        "phrase": "the falcon",
+        "literal": "the-falcon",
+        "source": "H344; KJV: kite, ESV: falcon, NASB: falcon"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הַ/דַּיָּ֖ה",
+        "phrase": "and the kite",
+        "literal": "and-the-kite",
+        "source": "H1772; KJV: vulture, ESV: kite, NASB: black kite"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מִינָֽ/הּ",
+        "phrase": "according to its kind",
+        "literal": "to-kind-its",
+        "source": "H4327; KJV: after his kind, ESV: after its kind, NASB: according to its kind"
+      }
+    ]
+  }
+]

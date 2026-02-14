@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֛לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428 (KJV: Thus; ESV: This; NASB: This)"
+      },
+      {
+        "position": 2,
+        "surface": "מַסְעֵ֥י",
+        "phrase": "journeyings",
+        "literal": "journeyings-of",
+        "source": "H4550 (KJV: journeyings; ESV: order of march; NASB: order of march)"
+      },
+      {
+        "position": 3,
+        "surface": "בְנֵֽי",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/צִבְאֹתָ֑/ם",
+        "phrase": "by their armies",
+        "literal": "to- armies-their",
+        "source": "H6635 (KJV: armies; ESV: companies; NASB: armies)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּסָּֽעוּ",
+        "phrase": "when they set forward",
+        "literal": "and-they-set-forward",
+        "source": "H5265 (KJV: set forward; ESV: set out; NASB: set out)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַסְפֶּ֥ה",
+        "phrase": "I will heap",
+        "literal": "I-will-heap",
+        "source": "H5595; KJV: heap mischiefs, ESV/NASB: heap disasters/evils"
+      },
+      {
+        "position": 2,
+        "surface": "עָלֵ֖י/מוֹ",
+        "phrase": "upon them",
+        "literal": "upon-them",
+        "source": "H5921; KJV/ESV/NASB: upon them"
+      },
+      {
+        "position": 3,
+        "surface": "רָע֑וֹת",
+        "phrase": "disasters",
+        "literal": "evils",
+        "source": "H7451; KJV: mischiefs, ESV/NASB: disasters/evils"
+      },
+      {
+        "position": 4,
+        "surface": "חִצַּ֖/י",
+        "phrase": "my arrows",
+        "literal": "arrows-my",
+        "source": "H2671; KJV/ESV/NASB: my arrows"
+      },
+      {
+        "position": 5,
+        "surface": "אֲכַלֶּה",
+        "phrase": "I will spend",
+        "literal": "I-will-consume",
+        "source": "H3615; KJV: spend, ESV/NASB: spend"
+      },
+      {
+        "position": 6,
+        "surface": "בָּֽ/ם",
+        "phrase": "on them",
+        "literal": "in-them",
+        "source": "; KJV/ESV/NASB: upon/on them"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָב֣וּ",
+        "phrase": "Give",
+        "literal": "give!-2mp",
+        "source": "H3051; KJV: Take, ESV: Choose, NASB: Choose"
+      },
+      {
+        "position": 2,
+        "surface": "לָ֠/כֶם",
+        "phrase": "for-yourselves",
+        "literal": "to/for-you(mp)",
+        "source": "; KJV: you, ESV: for your tribes, NASB: for yourselves"
+      },
+      {
+        "position": 3,
+        "surface": "אֲנָשִׁ֨ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376; KJV: men, ESV: men, NASB: men"
+      },
+      {
+        "position": 4,
+        "surface": "חֲכָמִ֧ים",
+        "phrase": "wise",
+        "literal": "wise-mp",
+        "source": "H2450; KJV: wise, ESV: wise, NASB: wise"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/נְבֹנִ֛ים",
+        "phrase": "and-understanding",
+        "literal": "and-understanding-mp",
+        "source": "H995; KJV: understanding, ESV: understanding, NASB: discerning"
+      },
+      {
+        "position": 6,
+        "surface": "וִ/ידֻעִ֖ים",
+        "phrase": "and-known",
+        "literal": "and-known-mp",
+        "source": "H3045; KJV: known, ESV: experienced, NASB: experienced"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/שִׁבְטֵי/כֶ֑ם",
+        "phrase": "for-tribes-your",
+        "literal": "to/tribes-your(mp)",
+        "source": "H7626; KJV: among your tribes, ESV: from your tribes, NASB: from your tribes"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/אֲשִׂימֵ֖/ם",
+        "phrase": "and-I-will-make-them",
+        "literal": "and-I-will-place-them",
+        "source": "H7760; KJV: I will make, ESV: I will appoint, NASB: I will appoint"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/רָאשֵׁי/כֶֽם",
+        "phrase": "as-heads-your",
+        "literal": "in/heads-your(mp)",
+        "source": "H7218; KJV: rulers over you, ESV: as your heads, NASB: as your heads"
+      }
+    ]
+  }
+]

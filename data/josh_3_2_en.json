@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 3,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: it came to pass; NASB: it came about)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/קְצֵ֖ה",
+        "phrase": "at the end of",
+        "literal": "from-end-of",
+        "source": "H7097 (KJV: after; ESV: at the end of; NASB: at the end)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹ֣שֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV: three; ESV: three; NASB: three)"
+      },
+      {
+        "position": 4,
+        "surface": "יָמִ֑ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּעַבְר֥וּ",
+        "phrase": "and they passed through",
+        "literal": "and-they-passed-through",
+        "source": "H5674 (KJV: the officers went; ESV: the officers went; NASB: the officers went)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שֹּׁטְרִ֖ים",
+        "phrase": "the officers",
+        "literal": "the-officers",
+        "source": "H7860 (KJV: officers; ESV: officers; NASB: officers)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/קֶ֥רֶב",
+        "phrase": "in the midst of",
+        "literal": "in-midst-of",
+        "source": "H7130 (KJV: through the host; ESV: the midst of the camp; NASB: the midst of the camp)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מַּחֲנֶֽה",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "H4264 (KJV: host; ESV: camp; NASB: camp)"
+      }
+    ]
+  }
+]

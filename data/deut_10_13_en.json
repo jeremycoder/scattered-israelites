@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/שְׁמֹ֞ר",
+        "phrase": "to keep",
+        "literal": "to-keep",
+        "source": "H8104 (KJV: To keep; ESV: to keep; NASB: to keep)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "מִצְוֺ֤ת",
+        "phrase": "commandments",
+        "literal": "commandments",
+        "source": "H4687 (KJV: commandments; ESV: commandments; NASB: commandments)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָה֙",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD'S)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "H853 (KJV: and his; ESV: and; NASB: and His)"
+      },
+      {
+        "position": 6,
+        "surface": "חֻקֹּתָ֔י/ו",
+        "phrase": "statutes of him",
+        "literal": "statutes-his",
+        "source": "H2708 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֛ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 8,
+        "surface": "אָנֹכִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 9,
+        "surface": "מְצַוְּ/ךָ֖",
+        "phrase": "am commanding you",
+        "literal": "commanding-you",
+        "source": "H6680 (KJV: command thee; ESV: am commanding you; NASB: am commanding you)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יּ֑וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/ט֖וֹב",
+        "phrase": "for good",
+        "literal": "to-good",
+        "source": "H2896 (KJV: for thy good; ESV: for your good; NASB: for your good)"
+      },
+      {
+        "position": 12,
+        "surface": "לָֽ/ךְ",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": ""
+      }
+    ]
+  }
+]

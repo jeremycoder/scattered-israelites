@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "No",
+        "literal": "not",
+        "source": "H3808; KJV 'He that is wounded', ESV 'No one whose testicles are crushed', NASB 'No one who is emasculated'"
+      },
+      {
+        "position": 2,
+        "surface": "יִקַּ֥ח",
+        "phrase": "shall take",
+        "literal": "he-will-take",
+        "source": "H3947; KJV 'or hath his privy member cut off', ESV 'or has his penis cut off', NASB 'or has his male organ cut off'"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֖ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376; KJV 'He that is wounded', ESV 'No one', NASB 'No one'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֣שֶׁת",
+        "phrase": "the wife of",
+        "literal": "wife-of",
+        "source": "H802; KJV (implied in context), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1; KJV 'his father's', ESV 'his father’s', NASB 'his father’s'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808; KJV 'shall not', ESV 'shall not', NASB 'shall not'"
+      },
+      {
+        "position": 8,
+        "surface": "יְגַלֶּ֖ה",
+        "phrase": "shall uncover",
+        "literal": "he-will-uncover",
+        "source": "H1540; KJV 'enter into the congregation', ESV 'enter the assembly', NASB 'enter the assembly'"
+      },
+      {
+        "position": 9,
+        "surface": "כְּנַ֥ף",
+        "phrase": "the skirt of",
+        "literal": "wing/skirt-of",
+        "source": "H3671; KJV (implied as 'skirts'), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִֽי/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1; KJV 'of his father', ESV 'of his father', NASB 'of his father'"
+      }
+    ]
+  }
+]

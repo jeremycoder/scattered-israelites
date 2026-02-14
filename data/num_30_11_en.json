@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 30,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'and'; ESV: 'but if'; NASB: 'or if')"
+      },
+      {
+        "position": 2,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house-of",
+        "source": "H1004 (KJV: 'house'; ESV: 'house'; NASB: 'house')"
+      },
+      {
+        "position": 3,
+        "surface": "אִישָׁ֖/הּ",
+        "phrase": "her husband",
+        "literal": "man-of-her",
+        "source": "H376 (KJV: 'her husband'; ESV: 'her husband'; NASB: 'her husband')"
+      },
+      {
+        "position": 4,
+        "surface": "נָדָ֑רָה",
+        "phrase": "she vowed",
+        "literal": "she-vowed",
+        "source": "H5087 (KJV: 'vows'; ESV: 'vows'; NASB: 'vows')"
+      },
+      {
+        "position": 5,
+        "surface": "אֽוֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: 'or'; ESV: 'or'; NASB: 'or')"
+      },
+      {
+        "position": 6,
+        "surface": "אָסְרָ֥ה",
+        "phrase": "she bound",
+        "literal": "she-bound",
+        "source": "H631 (KJV: 'bound'; ESV: 'bound'; NASB: 'bound')"
+      },
+      {
+        "position": 7,
+        "surface": "אִסָּ֛ר",
+        "phrase": "bond",
+        "literal": "binding",
+        "source": "H632 (KJV: 'bond'; ESV: 'pledge'; NASB: 'obligation')"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'wherewith'; ESV: 'by which'; NASB: 'by which')"
+      },
+      {
+        "position": 9,
+        "surface": "נַפְשָׁ֖/הּ",
+        "phrase": "her soul",
+        "literal": "soul-of-her",
+        "source": "H5315 (KJV: 'her soul'; ESV: 'herself'; NASB: 'herself')"
+      },
+      {
+        "position": 10,
+        "surface": "בִּ/שְׁבֻעָֽה",
+        "phrase": "with an oath",
+        "literal": "in-oath",
+        "source": "H7621 (KJV: implied in 'bond'; ESV: 'pledge'; NASB: 'obligation')"
+      }
+    ]
+  }
+]

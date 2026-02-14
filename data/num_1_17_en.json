@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֥ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַהֲרֹ֑ן",
+        "phrase": "and Aaron",
+        "literal": "and-Aaron",
+        "source": "H175 (KJV: and Aaron; ESV: and Aaron; NASB: and Aaron)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: these; ESV: these; NASB: these; particle unrendered)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אֲנָשִׁ֣ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֵ֔לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: who; NASB: who)"
+      },
+      {
+        "position": 8,
+        "surface": "נִקְּב֖וּ",
+        "phrase": "had been designated",
+        "literal": "were-called",
+        "source": "H5344 (KJV: called; ESV: designated; NASB: designated)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/שֵׁמֽוֹת",
+        "phrase": "by name",
+        "literal": "by-names",
+        "source": "H8034 (KJV: by their names; ESV: by name; NASB: by name)"
+      }
+    ]
+  }
+]

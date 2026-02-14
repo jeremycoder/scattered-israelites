@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַחַ֨ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: eleven; ESV: eleven; NASB: eleven)"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂ֥ר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV: eleven; ESV: eleven; NASB: eleven)"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹם֙",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: days'; ESV: days’; NASB: days’)"
+      },
+      {
+        "position": 4,
+        "surface": "מֵֽ/חֹרֵ֔ב",
+        "phrase": "from Horeb",
+        "literal": "from-Horeb",
+        "source": "H2722 (KJV: from Horeb; ESV: from Horeb; NASB: from Horeb)"
+      },
+      {
+        "position": 5,
+        "surface": "דֶּ֖רֶךְ",
+        "phrase": "way",
+        "literal": "way",
+        "source": "H1870 (KJV: by the way; ESV: by the way; NASB: by the way)"
+      },
+      {
+        "position": 6,
+        "surface": "הַר",
+        "phrase": "mount",
+        "literal": "the-mountain",
+        "source": "H2022 (KJV: mount; ESV: Mount; NASB: Mount)"
+      },
+      {
+        "position": 7,
+        "surface": "שֵׂעִ֑יר",
+        "phrase": "Seir",
+        "literal": "Seir",
+        "source": "H8165 (KJV: Seir; ESV: Seir; NASB: Seir)"
+      },
+      {
+        "position": 8,
+        "surface": "עַ֖ד",
+        "phrase": "to",
+        "literal": "until",
+        "source": "H5704 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 9,
+        "surface": "קָדֵ֥שׁ",
+        "phrase": "Kadesh",
+        "literal": "Kadesh",
+        "source": "H6947 (KJV: Kadeshbarnea; ESV: Kadesh-barnea; NASB: Kadesh-barnea)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּרְנֵֽעַ",
+        "phrase": "Barnea",
+        "literal": "Barnea",
+        "source": "H6947 (KJV: Kadeshbarnea; ESV: Kadesh-barnea; NASB: Kadesh-barnea)"
+      }
+    ]
+  }
+]

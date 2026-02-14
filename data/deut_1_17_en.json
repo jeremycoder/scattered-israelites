@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תַכִּ֨ירוּ",
+        "phrase": "you shall respect",
+        "literal": "you-all-shall-recognize",
+        "source": "H5234 (KJV: respect persons; ESV: be partial; NASB: show partiality)"
+      },
+      {
+        "position": 3,
+        "surface": "פָנִ֜ים",
+        "phrase": "persons",
+        "literal": "faces",
+        "source": "H6440 (KJV: persons; ESV: partial; NASB: partiality)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/מִּשְׁפָּ֗ט",
+        "phrase": "in judgment",
+        "literal": "in-the-judgment",
+        "source": "H4941 (KJV: in judgment; ESV: in judgment; NASB: in judgment)"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/קָּטֹ֤ן",
+        "phrase": "as the small",
+        "literal": "as-the-small",
+        "source": "H6996 (KJV: small; ESV: small; NASB: small)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/גָּדֹל֙",
+        "phrase": "as the great",
+        "literal": "as-the-great",
+        "source": "H1419 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 7,
+        "surface": "תִּשְׁמָע֔וּ/ן",
+        "phrase": "you shall hear",
+        "literal": "you-all-shall-hear-it",
+        "source": "H8085 (KJV: hear; ESV: hear; NASB: hear)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "תָג֨וּרוּ֙",
+        "phrase": "you shall fear",
+        "literal": "you-all-shall-fear",
+        "source": "H1481 (KJV: be afraid; ESV: be intimidated; NASB: fear)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/פְּנֵי",
+        "phrase": "because of",
+        "literal": "from-face-of",
+        "source": "H6440 (KJV: face of; ESV: anyone; NASB: man)"
+      },
+      {
+        "position": 11,
+        "surface": "אִ֔ישׁ",
+        "phrase": "anyone",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: anyone; NASB: man)"
+      },
+      {
+        "position": 12,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/מִּשְׁפָּ֖ט",
+        "phrase": "the judgment",
+        "literal": "the-judgment",
+        "source": "H4941 (KJV: judgment; ESV: judgment; NASB: judgment)"
+      },
+      {
+        "position": 14,
+        "surface": "לֵ/אלֹהִ֣ים",
+        "phrase": "is God's",
+        "literal": "to-gods",
+        "source": "H430 (KJV: God's; ESV: God's; NASB: God's)"
+      },
+      {
+        "position": 15,
+        "surface": "ה֑וּא",
+        "phrase": "it is",
+        "literal": "he/it",
+        "source": "H1931 (KJV: is; ESV: is; NASB: is)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/הַ/דָּבָר֙",
+        "phrase": "and the case",
+        "literal": "and-the-word/matter",
+        "source": "H1697 (KJV: cause; ESV: case; NASB: case)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 18,
+        "surface": "יִקְשֶׁ֣ה",
+        "phrase": "is too hard",
+        "literal": "it-shall-be-hard",
+        "source": "H7185 (KJV: too hard; ESV: too hard; NASB: too hard)"
+      },
+      {
+        "position": 19,
+        "surface": "מִ/כֶּ֔ם",
+        "phrase": "for you",
+        "literal": "from-you-all",
+        "source": "H4480 (KJV: for you; ESV: for you; NASB: for you)"
+      },
+      {
+        "position": 20,
+        "surface": "תַּקְרִב֥וּ/ן",
+        "phrase": "you shall bring",
+        "literal": "you-all-shall-bring-it",
+        "source": "H7126 (KJV: bring; ESV: bring; NASB: bring)"
+      },
+      {
+        "position": 21,
+        "surface": "אֵלַ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: to me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 22,
+        "surface": "וּ/שְׁמַעְתִּֽי/ו",
+        "phrase": "and I will hear it",
+        "literal": "and-I-shall-hear-it",
+        "source": "H8085 (KJV: I will hear it; ESV: I will hear it; NASB: I will hear it)"
+      }
+    ]
+  }
+]

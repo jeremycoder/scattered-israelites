@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֕וּר",
+        "phrase": "Cursed",
+        "literal": "cursed",
+        "source": "H779 (KJV: Cursed be he; ESV: Cursed be; NASB: Cursed is)"
+      },
+      {
+        "position": 2,
+        "surface": "מַשְׁגֶּ֥ה",
+        "phrase": "who misleads",
+        "literal": "causing-to-wander",
+        "source": "H7686 (KJV: maketh...to wander; ESV: misleads; NASB: misleads)"
+      },
+      {
+        "position": 3,
+        "surface": "עִוֵּ֖ר",
+        "phrase": "a blind person",
+        "literal": "blind",
+        "source": "H5787 (KJV: the blind; ESV: a blind; NASB: a blind)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/דָּ֑רֶךְ",
+        "phrase": "on the road",
+        "literal": "in-the-way",
+        "source": "H1870 (KJV: out of the way; ESV: on the road; NASB: on the road)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָמַ֥ר",
+        "phrase": "and shall say",
+        "literal": "and-he-will-say",
+        "source": "H559 (KJV: shall say; ESV: shall say; NASB: shall say)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 8,
+        "surface": "אָמֵֽן",
+        "phrase": "Amen",
+        "literal": "amen",
+        "source": "H543 (KJV: Amen; ESV: Amen; NASB: Amen)"
+      }
+    ]
+  }
+]

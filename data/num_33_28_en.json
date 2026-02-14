@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV: removed, ESV: set out, NASB: journeyed"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/תָּ֑רַח",
+        "phrase": "from Terah",
+        "literal": "from-Terah",
+        "source": "H8646; KJV: Tarah, ESV: Terah, NASB: Terah"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they camped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: pitched, ESV: camped, NASB: camped"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/מִתְקָֽה",
+        "phrase": "at Mithkah",
+        "literal": "in-Mithkah",
+        "source": "H4989; KJV: Mithcah, ESV: Mithkah, NASB: Mithkah"
+      }
+    ]
+  }
+]

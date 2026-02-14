@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֥ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535 (KJV: Only; ESV: Only; NASB: Only)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [et]; ESV: [et]; NASB: [et])"
+      },
+      {
+        "position": 3,
+        "surface": "דָּמ֖/וֹ",
+        "phrase": "its blood",
+        "literal": "blood-of.it",
+        "source": "H1818 (KJV: the blood thereof; ESV: its blood; NASB: its blood)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "תֹאכֵ֑ל",
+        "phrase": "you shall eat",
+        "literal": "you-eat",
+        "source": "H398 (KJV: thou shalt eat; ESV: you shall eat; NASB: you shall not eat)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אָ֥רֶץ",
+        "phrase": "the ground",
+        "literal": "the-earth",
+        "source": "H776 (KJV: the ground; ESV: the ground; NASB: the ground)"
+      },
+      {
+        "position": 8,
+        "surface": "תִּשְׁפְּכֶ֖/נּוּ",
+        "phrase": "you shall pour it",
+        "literal": "you-shall-pour.it",
+        "source": "H8210 (KJV: thou shalt pour it; ESV: you are to pour it; NASB: you shall pour it)"
+      },
+      {
+        "position": 9,
+        "surface": "כַּ/מָּֽיִם",
+        "phrase": "like water",
+        "literal": "like-the-waters",
+        "source": "H4325 (KJV: like water; ESV: like water; NASB: like water)"
+      }
+    ]
+  }
+]

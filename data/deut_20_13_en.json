@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/נְתָנָ֛/הּ",
+        "phrase": "and delivers it",
+        "literal": "and-gives-it",
+        "source": "H5414 (KJV: hath delivered it; ESV: gives it; NASB: gives it)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/יָדֶ֑/ךָ",
+        "phrase": "into your hand",
+        "literal": "in-hand-your",
+        "source": "H3027 (KJV: into thine hands; ESV: into your hand; NASB: into your hand)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִכִּיתָ֥",
+        "phrase": "and you shall strike",
+        "literal": "and-you-strike",
+        "source": "H5221 (KJV: thou shalt smite; ESV: you shall put; NASB: you shall strike)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: every; ESV: all; NASB: all)"
+      },
+      {
+        "position": 8,
+        "surface": "זְכוּרָ֖/הּ",
+        "phrase": "its males",
+        "literal": "male-its",
+        "source": "H2138 (KJV: every male thereof; ESV: its males; NASB: the men in it)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/פִי",
+        "phrase": "to mouth-of",
+        "literal": "to-mouth-of",
+        "source": "H6310 (KJV: with the edge; ESV: to the sword; NASB: with the edge)"
+      },
+      {
+        "position": 10,
+        "surface": "חָֽרֶב",
+        "phrase": "sword",
+        "literal": "sword",
+        "source": "H2719 (KJV: of the sword; ESV: of the sword; NASB: of the sword)"
+      }
+    ]
+  }
+]

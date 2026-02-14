@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עָרֵ֖י",
+        "phrase": "and cities",
+        "literal": "and-cities",
+        "source": "H5892 (KJV: fenced cities; ESV: fortified cities; NASB: fortified cities)"
+      },
+      {
+        "position": 2,
+        "surface": "מִבְצָ֑ר",
+        "phrase": "fortified",
+        "literal": "fortification",
+        "source": "H4013 (KJV: fenced; ESV: fortified; NASB: fortified)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/צִּדִּ֣ים",
+        "phrase": "Ziddim",
+        "literal": "the-Ziddim",
+        "source": "H6661 (KJV: Ziddim; ESV: Ziddim; NASB: Ziddim)"
+      },
+      {
+        "position": 4,
+        "surface": "צֵ֔ר",
+        "phrase": "Zer",
+        "literal": "Zer",
+        "source": "H6863 (KJV: Zer; ESV: Zer; NASB: Zer)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/חַמַּ֖ת",
+        "phrase": "and Hammath",
+        "literal": "and-Hammath",
+        "source": "H2575 (KJV: Hammath; ESV: Hammath; NASB: Hammath)"
+      },
+      {
+        "position": 6,
+        "surface": "רַקַּ֥ת",
+        "phrase": "Rakkath",
+        "literal": "Rakkath",
+        "source": "H7557 (KJV: Rakkath; ESV: Rakkath; NASB: Rakkath)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/כִנָּֽרֶת",
+        "phrase": "and Chinnereth",
+        "literal": "and-Chinnereth",
+        "source": "H3672 (KJV: Chinnereth; ESV: Chinnereth; NASB: Chinnereth)"
+      }
+    ]
+  }
+]

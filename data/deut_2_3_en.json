@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַב",
+        "phrase": "enough",
+        "literal": "much",
+        "source": "H7227; KJV: long enough, ESV: long enough, NASB: long enough"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/כֶ֕ם",
+        "phrase": "for you",
+        "literal": "to/you(pl)",
+        "source": "; KJV: have (implied), ESV: you have (implied), NASB: you have (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "סֹ֖ב",
+        "phrase": "you have gone around",
+        "literal": "go around",
+        "source": "H5437; KJV: compassed, ESV: traveling around, NASB: circled"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct object marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/הָ֣ר",
+        "phrase": "the mountain",
+        "literal": "the/mountain",
+        "source": "H2022; KJV: this mountain, ESV: this mountain country, NASB: this mountain"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the/this",
+        "source": "H2088; KJV: this, ESV: this, NASB: this"
+      },
+      {
+        "position": 7,
+        "surface": "פְּנ֥וּ",
+        "phrase": "turn",
+        "literal": "turn(pl)",
+        "source": "H6437; KJV: turn you, ESV: turn, NASB: turn"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "yourselves",
+        "literal": "to/you(pl)",
+        "source": "; KJV: you (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "צָפֹֽנָ/ה",
+        "phrase": "northward",
+        "literal": "northward",
+        "source": "H6828; KJV: northward, ESV: north, NASB: north"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/נְתָנָ֥/ם",
+        "phrase": "and he will give them",
+        "literal": "and-he-will-give-them",
+        "source": "H5414 (KJV: shall give them up; ESV: will give them over; NASB: will give them over)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/פְנֵי/כֶ֑ם",
+        "phrase": "before you",
+        "literal": "to-before-you(pl)",
+        "source": "H6440 (KJV: before your face; ESV: before you; NASB: before you)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/עֲשִׂיתֶ֣ם",
+        "phrase": "and you shall do",
+        "literal": "and-you(pl)-shall-do",
+        "source": "H6213 (KJV: ye may do; ESV: you shall do; NASB: you shall do)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "(KJV: to them; ESV: to them; NASB: to them)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּ/כָל",
+        "phrase": "according to all",
+        "literal": "as-all",
+        "source": "H3605 (KJV: according to all; ESV: according to all; NASB: according to all)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּצְוָ֔ה",
+        "phrase": "the commandment",
+        "literal": "the-commandment",
+        "source": "H4687 (KJV: the commandments; ESV: the commandment; NASB: the commandment)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: that)"
+      },
+      {
+        "position": 9,
+        "surface": "צִוִּ֖יתִי",
+        "phrase": "I have commanded",
+        "literal": "I-have-commanded",
+        "source": "H6680 (KJV: I have commanded; ESV: I have commanded; NASB: I have commanded)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶתְ/כֶֽם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      }
+    ]
+  }
+]

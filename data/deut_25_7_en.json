@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "and if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: But if; NASB: But if)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 3,
+        "surface": "יַחְפֹּץ֙",
+        "phrase": "desires",
+        "literal": "he-desires",
+        "source": "H2654 (KJV: like; ESV: desire; NASB: desire)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אִ֔ישׁ",
+        "phrase": "the man",
+        "literal": "the-man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/קַ֖חַת",
+        "phrase": "to take",
+        "literal": "to-take",
+        "source": "H3947 (KJV: to take; ESV: to take; NASB: to take)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "יְבִמְתּ֑/וֹ",
+        "phrase": "his brother's wife",
+        "literal": "wife_of_brother-his",
+        "source": "H2994 (KJV: brother's wife; ESV: brother's wife; NASB: brother's wife)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/עָלְתָה֩",
+        "phrase": "then she shall go up",
+        "literal": "and-she-shall-go_up",
+        "source": "H5927 (KJV: go up; ESV: go up; NASB: go up)"
+      },
+      {
+        "position": 9,
+        "surface": "יְבִמְתּ֨/וֹ",
+        "phrase": "his brother's wife",
+        "literal": "wife_of_brother-his",
+        "source": "H2994 (KJV: brother's wife; ESV: brother's wife; NASB: brother's wife)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שַּׁ֜עְרָ/ה",
+        "phrase": "to the gate",
+        "literal": "to-the-gate",
+        "source": "H8179 (KJV: gate; ESV: gate; NASB: gate)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/זְּקֵנִ֗ים",
+        "phrase": "the elders",
+        "literal": "the-elders",
+        "source": "H2205 (KJV: elders; ESV: elders; NASB: elders)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אָֽמְרָה֙",
+        "phrase": "and say",
+        "literal": "and-she-shall_say",
+        "source": "H559 (KJV: say; ESV: say; NASB: say)"
+      },
+      {
+        "position": 14,
+        "surface": "מֵאֵ֨ין",
+        "phrase": "refuses",
+        "literal": "not-is",
+        "source": "H3985 (KJV: refuseth; ESV: refuses; NASB: refuses)"
+      },
+      {
+        "position": 15,
+        "surface": "יְבָמִ֜/י",
+        "phrase": "my husband's brother",
+        "literal": "brother-in-law-my",
+        "source": "H2993 (KJV: husband's brother; ESV: husband's brother; NASB: husband's brother)"
+      },
+      {
+        "position": 16,
+        "surface": "לְ/הָקִ֨ים",
+        "phrase": "to raise up",
+        "literal": "to-raise_up",
+        "source": "H6965 (KJV: raise up; ESV: establish; NASB: establish)"
+      },
+      {
+        "position": 17,
+        "surface": "לְ/אָחִ֥י/ו",
+        "phrase": "for his brother",
+        "literal": "to-brother-his",
+        "source": "H251 (KJV: brother; ESV: brother; NASB: brother)"
+      },
+      {
+        "position": 18,
+        "surface": "שֵׁם֙",
+        "phrase": "a name",
+        "literal": "name",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 19,
+        "surface": "בְּ/יִשְׂרָאֵ֔ל",
+        "phrase": "in Israel",
+        "literal": "in-Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 20,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 21,
+        "surface": "אָבָ֖ה",
+        "phrase": "willing",
+        "literal": "he-is_willing",
+        "source": "H14 (KJV: will; ESV: willing; NASB: willing)"
+      },
+      {
+        "position": 22,
+        "surface": "יַבְּמִֽ/י",
+        "phrase": "to perform my husband's duty",
+        "literal": "he-shall_perform-husband's_brother-my",
+        "source": "H2992 (KJV: perform the duty; ESV: perform the duty; NASB: perform the duty)"
+      }
+    ]
+  }
+]

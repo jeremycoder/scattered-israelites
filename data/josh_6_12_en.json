@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 6,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁכֵּ֥ם",
+        "phrase": "And Joshua rose early",
+        "literal": "and-he-rose-early",
+        "source": "H7925 (KJV: rose early; ESV: rose early; NASB: rose early)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֖עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/בֹּ֑קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: in the morning; ESV: in the morning; NASB: in the morning)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּשְׂא֥וּ",
+        "phrase": "and they bore",
+        "literal": "and-they-carried",
+        "source": "H5375 (KJV: took up; ESV: took up; NASB: carried)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כֹּהֲנִ֖ים",
+        "phrase": "the priests",
+        "literal": "the-priests",
+        "source": "H3548 (KJV: the priests; ESV: the priests; NASB: the priests)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אֲר֥וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: the ark; ESV: the ark; NASB: the ark)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      }
+    ]
+  }
+]

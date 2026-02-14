@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 3,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲדֹנָ֣/י",
+        "phrase": "O Lord",
+        "literal": "my-lord",
+        "source": "H136 (KJV: Lord GOD; ESV: Lord GOD; NASB: Lord GOD)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוִ֗ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3069 (KJV: GOD; ESV: GOD; NASB: GOD)"
+      },
+      {
+        "position": 3,
+        "surface": "אַתָּ֤ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: You; NASB: You)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽחִלּ֨וֹתָ֙",
+        "phrase": "have begun",
+        "literal": "the-beginning-you-have-made",
+        "source": "H2490 (KJV: hast begun; ESV: have begun; NASB: have begun)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/הַרְא֣וֹת",
+        "phrase": "to show",
+        "literal": "to-cause-to-see",
+        "source": "H7200 (KJV: to shew; ESV: to show; NASB: to show)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "עַבְדְּ/ךָ֔",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "H5650 (KJV: thy servant; ESV: Your servant; NASB: Your servant)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶ֨ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "גָּדְלְ/ךָ֔",
+        "phrase": "your greatness",
+        "literal": "greatness-your",
+        "source": "H1433 (KJV: thy greatness; ESV: Your greatness; NASB: Your greatness)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 11,
+        "surface": "יָדְ/ךָ֖",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "H3027 (KJV: thy mighty hand; ESV: Your hand; NASB: Your strong hand)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/חֲזָקָ֑ה",
+        "phrase": "the mighty",
+        "literal": "the-strong",
+        "source": "H2389 (KJV: mighty; ESV: mighty; NASB: strong)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "for",
+        "literal": "which/that",
+        "source": "H834 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 14,
+        "surface": "מִי",
+        "phrase": "what",
+        "literal": "who/what",
+        "source": "H4310 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 15,
+        "surface": "אֵל֙",
+        "phrase": "god",
+        "literal": "god",
+        "source": "H410 (KJV: God; ESV: god; NASB: god)"
+      },
+      {
+        "position": 16,
+        "surface": "בַּ/שָּׁמַ֣יִם",
+        "phrase": "in heaven",
+        "literal": "in-the-heavens",
+        "source": "H8064 (KJV: in heaven; ESV: in heaven; NASB: in heaven)"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/בָ/אָ֔רֶץ",
+        "phrase": "or on earth",
+        "literal": "and-in-the-earth",
+        "source": "H776 (KJV: in earth; ESV: on earth; NASB: on earth)"
+      },
+      {
+        "position": 18,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "which/that",
+        "source": "H834 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 19,
+        "surface": "יַעֲשֶׂ֥ה",
+        "phrase": "can do",
+        "literal": "does/makes",
+        "source": "H6213 (KJV: can do; ESV: can do; NASB: can do)"
+      },
+      {
+        "position": 20,
+        "surface": "כְ/מַעֲשֶׂ֖י/ךָ",
+        "phrase": "like your works",
+        "literal": "like-works-your",
+        "source": "H4639 (KJV: according to thy works; ESV: like Your works; NASB: such works as Yours)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/כִ/גְבוּרֹתֶֽ/ךָ",
+        "phrase": "and like your mighty acts",
+        "literal": "and-like-mighty-acts-your",
+        "source": "H1369 (KJV: according to thy might; ESV: Your mighty deeds; NASB: mighty acts as Yours)"
+      }
+    ]
+  }
+]

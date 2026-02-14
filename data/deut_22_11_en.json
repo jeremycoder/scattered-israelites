@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תִלְבַּשׁ֙",
+        "phrase": "you shall wear",
+        "literal": "you-wear",
+        "source": "H3847 (KJV: wear; ESV: wear; NASB: wear)"
+      },
+      {
+        "position": 3,
+        "surface": "שַֽׁעַטְנֵ֔ז",
+        "phrase": "a garment of divers sorts",
+        "literal": "mixed-fabric",
+        "source": "H8162 (KJV: garment of divers sorts; ESV: cloth...mixed; NASB: material mixed)"
+      },
+      {
+        "position": 4,
+        "surface": "צֶ֥מֶר",
+        "phrase": "wool",
+        "literal": "wool",
+        "source": "H6785 (KJV: woollen; ESV: wool; NASB: wool)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/פִשְׁתִּ֖ים",
+        "phrase": "and linen",
+        "literal": "and-linens",
+        "source": "H6593 (KJV: linen; ESV: linen; NASB: linen)"
+      },
+      {
+        "position": 6,
+        "surface": "יַחְדָּֽו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "H3162 (KJV: together; ESV: together; NASB: together)"
+      }
+    ]
+  }
+]

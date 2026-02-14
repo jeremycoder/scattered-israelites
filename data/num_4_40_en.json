@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽהְיוּ֙",
+        "phrase": "and they were",
+        "literal": "and-they-became",
+        "source": "H1961; KJV: 'Even those that were numbered', ESV: 'those listed', NASB: 'their numbered men'"
+      },
+      {
+        "position": 2,
+        "surface": "פְּקֻ֣דֵי/הֶ֔ם",
+        "phrase": "their numbered ones",
+        "literal": "numbered-of-them",
+        "source": "H6485; KJV: 'those that were numbered of them', ESV: 'those listed by their clans', NASB: 'their numbered men'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מִשְׁפְּחֹתָ֖/ם",
+        "phrase": "by their families",
+        "literal": "to-families-of-them",
+        "source": "H4940; KJV: 'throughout their families', ESV: 'by their clans', NASB: 'by their families'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בֵ֣ית",
+        "phrase": "by house",
+        "literal": "to-house-of",
+        "source": "H1004; KJV: 'by the house', ESV: 'by their fathers houses', NASB: 'by their fathers households'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲבֹתָ֑/ם",
+        "phrase": "their fathers",
+        "literal": "fathers-of-them",
+        "source": "H1; KJV: 'of their fathers', ESV: 'their fathers houses', NASB: 'their fathers households'"
+      },
+      {
+        "position": 6,
+        "surface": "אַלְפַּ֕יִם",
+        "phrase": "two-thousand",
+        "literal": "thousands-two",
+        "source": "H505; KJV: 'two thousand', ESV: '2,630', NASB: '2,630'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שֵׁ֥שׁ",
+        "phrase": "and-six",
+        "literal": "and-six",
+        "source": "H8337; KJV: 'and six', ESV: '2,630', NASB: '2,630'"
+      },
+      {
+        "position": 8,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundreds",
+        "literal": "hundreds",
+        "source": "H3967; KJV: 'hundred', ESV: '2,630', NASB: '2,630'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/שְׁלֹשִֽׁים",
+        "phrase": "and-thirty",
+        "literal": "and-thirties",
+        "source": "H7970; KJV: 'and thirty', ESV: '2,630', NASB: '2,630'"
+      }
+    ]
+  }
+]

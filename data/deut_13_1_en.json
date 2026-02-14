@@ -1,0 +1,123 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 13,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֣ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: direct obj.; ESV: obj.; NASB: obj.; marks 'כל')"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all-every",
+        "source": "H3605 (KJV: all; ESV: every; NASB: all; totality of commands)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דָּבָ֗ר",
+        "phrase": "the word",
+        "literal": "the/thing-word",
+        "source": "H1697 (KJV: word; ESV: word; NASB: word; command or matter)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which-that",
+        "source": "H834 (KJV: which; ESV: that; NASB: which; relative pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "אָנֹכִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I; emphatic 1st person pronoun)"
+      },
+      {
+        "position": 6,
+        "surface": "מְצַוֶּ֣ה",
+        "phrase": "am commanding",
+        "literal": "commanding",
+        "source": "H6680 (KJV: command; ESV: command; NASB: command; participle form)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "[direct-object]/you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you; direct obj. plural)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹת֥/וֹ",
+        "phrase": "it",
+        "literal": "[direct-object]/it",
+        "source": "H853 (KJV: it; ESV: it; NASB: it; refers to the word/command)"
+      },
+      {
+        "position": 9,
+        "surface": "תִשְׁמְר֖וּ",
+        "phrase": "you shall keep",
+        "literal": "you(shall)-keep-guard",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: keep; imperative plural)"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/עֲשׂ֑וֹת",
+        "phrase": "to do",
+        "literal": "to/do-make",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do; infinitive construct)"
+      },
+      {
+        "position": 11,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not; negative particle)"
+      },
+      {
+        "position": 12,
+        "surface": "תֹסֵ֣ף",
+        "phrase": "you shall add",
+        "literal": "you(shall)-add",
+        "source": "H3254 (KJV: add; ESV: add; NASB: add; imperfect singular)"
+      },
+      {
+        "position": 13,
+        "surface": "עָלָ֔י/ו",
+        "phrase": "upon it",
+        "literal": "upon/it",
+        "source": "H5921 (KJV: thereto; ESV: to it; NASB: to it; preposition + suffix)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and/not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor; conjunctive negative)"
+      },
+      {
+        "position": 15,
+        "surface": "תִגְרַ֖ע",
+        "phrase": "you shall subtract",
+        "literal": "you(shall)-diminish-subtract",
+        "source": "H1639 (KJV: diminish; ESV: subtract; NASB: take away; imperfect singular)"
+      },
+      {
+        "position": 16,
+        "surface": "מִמֶּֽ/נּוּ",
+        "phrase": "from it",
+        "literal": "from/it",
+        "source": "H4480 (KJV: therefrom; ESV: from it; NASB: from it; preposition + suffix)"
+      }
+    ]
+  }
+]

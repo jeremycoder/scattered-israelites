@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 18,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/מִּצְפֶּ֥ה",
+        "phrase": "and Mizpeh",
+        "literal": "and-the-Mizpeh",
+        "source": "H4708; KJV: Mizpeh, ESV: Mizpeh, NASB: Mizpeh"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הַ/כְּפִירָ֖ה",
+        "phrase": "and Chephirah",
+        "literal": "and-the-Chephirah",
+        "source": "H3716; KJV: Chephirah, ESV: Chephirah, NASB: Chephirah"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הַ/מֹּצָֽה",
+        "phrase": "and Mozah",
+        "literal": "and-the-Mozah",
+        "source": "H4681; KJV: Mozah, ESV: Mozah, NASB: Mozah"
+      }
+    ]
+  }
+]

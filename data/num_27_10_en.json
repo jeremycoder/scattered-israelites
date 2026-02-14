@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 27,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: And if; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֥ין",
+        "phrase": "there is no",
+        "literal": "there-is-not",
+        "source": "H369 (KJV: have no; ESV: has no; NASB: has no)"
+      },
+      {
+        "position": 3,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: he have; ESV: he has; NASB: he has)"
+      },
+      {
+        "position": 4,
+        "surface": "אַחִ֑ים",
+        "phrase": "brothers",
+        "literal": "brothers",
+        "source": "H251 (KJV: brethren; ESV: brothers; NASB: brothers)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/נְתַתֶּ֥ם",
+        "phrase": "then you shall give",
+        "literal": "and-you(shall)give",
+        "source": "H5414 (KJV: then ye shall give; ESV: then you shall give; NASB: then you shall give)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "נַחֲלָת֖/וֹ",
+        "phrase": "his inheritance",
+        "literal": "inheritance-his",
+        "source": "H5159 (KJV: his inheritance; ESV: his inheritance; NASB: his inheritance)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/אֲחֵ֥י",
+        "phrase": "to brothers-of",
+        "literal": "to-brothers-of",
+        "source": "H251 (KJV: unto his father's brethren; ESV: to his father's brothers; NASB: to his father's brothers)"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִֽי/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father's; ESV: his father's; NASB: his father's)"
+      }
+    ]
+  }
+]

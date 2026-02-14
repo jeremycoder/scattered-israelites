@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִ֥י",
+        "phrase": "and-if",
+        "literal": "and-if",
+        "source": "H3588; KJV: 'And if', ESV: 'And if', NASB: 'When'"
+      },
+      {
+        "position": 2,
+        "surface": "תֹאמַ֖ר",
+        "phrase": "you say",
+        "literal": "you-say",
+        "source": "H559; KJV: 'thou say', ESV: 'you say', NASB: 'you say'"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/לְבָבֶ֑/ךָ",
+        "phrase": "in your heart",
+        "literal": "in-heart-your",
+        "source": "H3824; KJV: 'in thine heart', ESV: 'in your heart', NASB: 'in your heart'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵיכָה֙",
+        "phrase": "How",
+        "literal": "how",
+        "source": "H349; KJV: 'How', ESV: 'How', NASB: 'How'"
+      },
+      {
+        "position": 5,
+        "surface": "נֵדַ֣ע",
+        "phrase": "shall we know",
+        "literal": "we-know",
+        "source": "H3045; KJV: 'shall we know', ESV: 'may we know', NASB: 'shall we know'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: '(implied)', ESV: '(implied)', NASB: '(implied)'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/דָּבָ֔ר",
+        "phrase": "word",
+        "literal": "the-word",
+        "source": "H1697; KJV: 'word', ESV: 'word', NASB: 'word'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'that', NASB: 'which'"
+      },
+      {
+        "position": 9,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'the LORD hath not', ESV: 'the Lord has not', NASB: 'the LORD has not'"
+      },
+      {
+        "position": 10,
+        "surface": "דִבְּר֖/וֹ",
+        "phrase": "he has spoken",
+        "literal": "he-spoke-it",
+        "source": "H1696; KJV: 'spoken', ESV: 'spoken', NASB: 'spoken'"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the Lord', NASB: 'the LORD'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 12,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: You shall not)"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲשׂ֔וּ/ן",
+        "phrase": "you shall do",
+        "literal": "you(pl)-will-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do)"
+      },
+      {
+        "position": 3,
+        "surface": "כְּ֠/כֹל",
+        "phrase": "according to all",
+        "literal": "as-all",
+        "source": "H3605 (KJV: after all; ESV: as; NASB: according to all)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: that; ESV: we are doing; NASB: we are doing)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲנַ֧חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "H587 (KJV: we; ESV: we; NASB: we)"
+      },
+      {
+        "position": 6,
+        "surface": "עֹשִׂ֛ים",
+        "phrase": "are doing",
+        "literal": "doing",
+        "source": "H6213 (KJV: do; ESV: doing; NASB: doing)"
+      },
+      {
+        "position": 7,
+        "surface": "פֹּ֖ה",
+        "phrase": "here",
+        "literal": "here",
+        "source": "H6311 (KJV: here; ESV: here; NASB: here)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יּ֑וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֖ישׁ",
+        "phrase": "every man",
+        "literal": "man",
+        "source": "H376 (KJV: every man; ESV: everyone; NASB: every man)"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "whatever",
+        "literal": "all",
+        "source": "H3605 (KJV: whatsoever; ESV: what; NASB: whatever)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יָּשָׁ֥ר",
+        "phrase": "is right",
+        "literal": "the-right",
+        "source": "H3477 (KJV: right; ESV: right; NASB: right)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/עֵינָֽי/ו",
+        "phrase": "in his own eyes",
+        "literal": "in-eyes-his",
+        "source": "H5869 (KJV: in his own eyes; ESV: in his own eyes; NASB: in his own eyes)"
+      }
+    ]
+  }
+]

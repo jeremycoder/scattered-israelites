@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'but...not'; ESV: 'but...not'; NASB: 'but...not')"
+      },
+      {
+        "position": 2,
+        "surface": "אָבִ֖יתִי",
+        "phrase": "I-willed",
+        "literal": "I-willed",
+        "source": "H14 (KJV: 'I would not hearken'; ESV: 'I would not listen'; NASB: 'I was not willing to listen')"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/שְׁמֹ֣עַ",
+        "phrase": "to-hear",
+        "literal": "to-hear",
+        "source": "H8085 (KJV: 'hearken unto'; ESV: 'listen to'; NASB: 'listen to')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בִלְעָ֑ם",
+        "phrase": "to-Balaam",
+        "literal": "to-Balaam",
+        "source": "H1109 (KJV: 'Balaam'; ESV: 'Balaam'; NASB: 'Balaam')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְבָ֤רֶךְ",
+        "phrase": "and-he-blessed",
+        "literal": "and-he-blessed",
+        "source": "H1288 (KJV: 'therefore he blessed'; ESV: 'he blessed'; NASB: 'he had to bless')"
+      },
+      {
+        "position": 6,
+        "surface": "בָּרוֹךְ֙",
+        "phrase": "blessing",
+        "literal": "blessing",
+        "source": "H1288 (KJV: 'blessed...still'; ESV: 'blessed'; NASB: 'bless')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתְ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "obj-marker-you(pl)",
+        "source": "H853 (KJV: 'you'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/אַצִּ֥ל",
+        "phrase": "and-I-delivered",
+        "literal": "and-I-delivered",
+        "source": "H5337 (KJV: 'I delivered'; ESV: 'I delivered'; NASB: 'I delivered')"
+      },
+      {
+        "position": 9,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "obj-marker-you(pl)",
+        "source": "H853 (KJV: 'you'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/יָּדֽ/וֹ",
+        "phrase": "from-his-hand",
+        "literal": "from-hand-his",
+        "source": "H3027 (KJV: 'out of his hand'; ESV: 'out of his hand'; NASB: 'from his hand')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵיל֥וֹן",
+        "phrase": "and Elon",
+        "literal": "and-Elon",
+        "source": "H356 (KJV: Elon; ESV: Elon; NASB: Elon)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/תִמְנָ֖תָ/ה",
+        "phrase": "and Timnah",
+        "literal": "and-Timnah-her",
+        "source": "H8553 (KJV: Thimnathah; ESV: Timnah; NASB: Timnah)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עֶקְרֽוֹן",
+        "phrase": "and Ekron",
+        "literal": "and-Ekron",
+        "source": "H6138 (KJV: Ekron; ESV: Ekron; NASB: Ekron)"
+      }
+    ]
+  }
+]

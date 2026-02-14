@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 30,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רְאֵ֨ה",
+        "phrase": "See",
+        "literal": "see!",
+        "source": "H7200: KJV 'See', ESV 'See', NASB 'See'"
+      },
+      {
+        "position": 2,
+        "surface": "נָתַ֤תִּי",
+        "phrase": "I have set",
+        "literal": "I-have-given",
+        "source": "H5414: KJV 'I have set', ESV 'I have set', NASB 'I have set'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/פָנֶ֨י/ךָ֙",
+        "phrase": "before you",
+        "literal": "to/before/you",
+        "source": "H6440: KJV 'before thee', ESV 'before you', NASB 'before you'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יּ֔וֹם",
+        "phrase": "today",
+        "literal": "the/today",
+        "source": "H3117: KJV 'this day', ESV 'today', NASB 'today'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/חַיִּ֖ים",
+        "phrase": "life",
+        "literal": "the/lives",
+        "source": "H2416: KJV 'life', ESV 'life', NASB 'life'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853: KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/טּ֑וֹב",
+        "phrase": "good",
+        "literal": "the/good",
+        "source": "H2896: KJV 'good', ESV 'good', NASB 'prosperity'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853: KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מָּ֖וֶת",
+        "phrase": "death",
+        "literal": "the/death",
+        "source": "H4194: KJV 'death', ESV 'death', NASB 'death'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and/[direct-object-marker]",
+        "source": "H853: KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/רָֽע",
+        "phrase": "evil",
+        "literal": "the/evil",
+        "source": "H7451: KJV 'evil', ESV 'evil', NASB 'adversity'"
+      }
+    ]
+  }
+]

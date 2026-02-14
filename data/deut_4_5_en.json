@@ -1,0 +1,137 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רְאֵ֣ה",
+        "phrase": "See",
+        "literal": "see!-2ms",
+        "source": "H7200 (KJV: See; ESV: See; NASB: See)"
+      },
+      {
+        "position": 2,
+        "surface": "לִמַּ֣דְתִּי",
+        "phrase": "I have taught",
+        "literal": "I-have-taught-1cs",
+        "source": "H3925 (KJV: I have taught; ESV: I have taught; NASB: I have taught)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶתְ/כֶ֗ם",
+        "phrase": "you",
+        "literal": "obj-marker/you-pl",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 4,
+        "surface": "חֻקִּים֙",
+        "phrase": "statutes",
+        "literal": "statutes-mp",
+        "source": "H2706 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִשְׁפָּטִ֔ים",
+        "phrase": "and judgments",
+        "literal": "and/judgments-mp",
+        "source": "H4941 (KJV: and judgments; ESV: and rules; NASB: and judgments)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as/which",
+        "source": "H834 (KJV: even as; ESV: just as; NASB: just as)"
+      },
+      {
+        "position": 7,
+        "surface": "צִוַּ֖/נִי",
+        "phrase": "he commanded me",
+        "literal": "he-commanded-3ms/me-1cs",
+        "source": "H6680 (KJV: commanded me; ESV: commanded me; NASB: commanded me)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהָ֑/י",
+        "phrase": "my God",
+        "literal": "God-mpc/me-1cs",
+        "source": "H430 (KJV: my God; ESV: my God; NASB: my God)"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/עֲשׂ֣וֹת",
+        "phrase": "to do",
+        "literal": "to/to-do-inf-constr",
+        "source": "H6213 (KJV: to do; ESV: that you should do; NASB: that you should do)"
+      },
+      {
+        "position": 11,
+        "surface": "כֵּ֔ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: thus; NASB: so)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/קֶ֣רֶב",
+        "phrase": "in the midst of",
+        "literal": "in/midst-of-msc",
+        "source": "H7130 (KJV: in the midst; ESV: in the land; NASB: in the midst)"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the land",
+        "literal": "the/land-fs",
+        "source": "H776 (KJV: of the land; ESV: where; NASB: of the land)"
+      },
+      {
+        "position": 14,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "where",
+        "literal": "which",
+        "source": "H834 (KJV: whither; ESV: where; NASB: where)"
+      },
+      {
+        "position": 15,
+        "surface": "אַתֶּ֛ם",
+        "phrase": "you",
+        "literal": "you-pl",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 16,
+        "surface": "בָּאִ֥ים",
+        "phrase": "are entering",
+        "literal": "entering-mp-part",
+        "source": "H935 (KJV: ye go; ESV: are entering; NASB: are entering)"
+      },
+      {
+        "position": 17,
+        "surface": "שָׁ֖מָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: to possess it; ESV: to possess it; NASB: to possess it)"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/רִשְׁתָּֽ/הּ",
+        "phrase": "to possess it",
+        "literal": "to/possess-inf-constr/it-fs",
+        "source": "H3423 (KJV: to possess it; ESV: to possess it; NASB: to possess it)"
+      }
+    ]
+  }
+]

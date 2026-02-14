@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בָּר֥וּךְ",
+        "phrase": "Blessed",
+        "literal": "blessed",
+        "source": "H1288; KJV: Blessed, ESV: Blessed, NASB: Blessed"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859; KJV: shalt thou be, ESV: shall you be, NASB: shall you be"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/בֹאֶ֑/ךָ",
+        "phrase": "when you come in",
+        "literal": "in-coming-your",
+        "source": "H935; KJV: when thou comest in, ESV: when you come in, NASB: when you come in"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בָר֥וּךְ",
+        "phrase": "and blessed",
+        "literal": "and-blessed",
+        "source": "H1288; KJV: and blessed, ESV: and blessed, NASB: and blessed"
+      },
+      {
+        "position": 5,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859; KJV: shalt thou be, ESV: shall you be, NASB: shall you be"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/צֵאתֶֽ/ךָ",
+        "phrase": "when you go out",
+        "literal": "in-going-your",
+        "source": "H3318; KJV: when thou goest out, ESV: when you go out, NASB: when you go out"
+      }
+    ]
+  }
+]

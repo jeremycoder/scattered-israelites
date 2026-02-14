@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֶ֕ה",
+        "phrase": "and these",
+        "literal": "and-this",
+        "source": "H2088; KJV/ESV/NASB: 'these' or 'but these' as demonstrative intro to prohibited list[1][4]"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV/ESV/NASB: 'are they which' or 'of which' as relative pronoun[1][4]"
+      },
+      {
+        "position": 3,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: 'shall/shall not' in negative command[1][4]"
+      },
+      {
+        "position": 4,
+        "surface": "תֹאכְל֖וּ",
+        "phrase": "you shall eat",
+        "literal": "you(pl)-eat",
+        "source": "H398; KJV/ESV/NASB: 'ye shall not eat' or 'you shall not eat'[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/הֶ֑ם",
+        "phrase": "from them",
+        "literal": "from-them",
+        "source": "; KJV/ESV/NASB: 'of which' or 'from them' as partitive[1][4]"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נֶּ֥שֶׁר",
+        "phrase": "the eagle",
+        "literal": "the-eagle",
+        "source": "H5404; KJV/ESV/NASB: 'eagle'[1][4]"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/פֶּ֖רֶס",
+        "phrase": "and the ossifrage",
+        "literal": "and-the-ossifrage",
+        "source": "H6538; KJV/ESV/NASB: 'ossifrage' or 'vulture'[1][4]"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הָֽ/עָזְנִיָּֽה",
+        "phrase": "and the osprey",
+        "literal": "and-the-osprey",
+        "source": "H5822; KJV/ESV/NASB: 'ospray/osprey' or 'black vulture'[1][4]"
+      }
+    ]
+  }
+]

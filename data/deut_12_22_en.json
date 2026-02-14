@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 12,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַ֗ךְ",
+        "phrase": "Surely",
+        "literal": "only",
+        "source": "H389 (KJV: even; ESV: just; NASB: just)"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁ֨ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 3,
+        "surface": "יֵאָכֵ֤ל",
+        "phrase": "is eaten",
+        "literal": "is-eaten",
+        "source": "H398 (KJV: is eaten; ESV: is eaten; NASB: is eaten)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/צְּבִי֙",
+        "phrase": "the gazelle",
+        "literal": "the-gazelle",
+        "source": "H6643 (KJV: roebuck; ESV: gazelle; NASB: gazelle)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and-",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: or; NASB: or)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ֣/אַיָּ֔ל",
+        "phrase": "the deer",
+        "literal": "the-deer",
+        "source": "H354 (KJV: hart; ESV: deer; NASB: deer)"
+      },
+      {
+        "position": 8,
+        "surface": "כֵּ֖ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: so; NASB: so)"
+      },
+      {
+        "position": 9,
+        "surface": "תֹּאכְלֶ֑/נּוּ",
+        "phrase": "you shall eat it",
+        "literal": "you-eat-it",
+        "source": "H398 (KJV: thou shalt eat them; ESV: you may eat of it; NASB: you will eat it)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/טָּמֵא֙",
+        "phrase": "the unclean",
+        "literal": "the-unclean",
+        "source": "H2931 (KJV: unclean; ESV: unclean; NASB: unclean)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הַ/טָּה֔וֹר",
+        "phrase": "and the clean",
+        "literal": "and-the-clean",
+        "source": "H2889 (KJV: clean; ESV: clean; NASB: clean)"
+      },
+      {
+        "position": 12,
+        "surface": "יַחְדָּ֖ו",
+        "phrase": "alike",
+        "literal": "together",
+        "source": "H3162 (KJV: alike; ESV: alike; NASB: alike)"
+      },
+      {
+        "position": 13,
+        "surface": "יֹאכְלֶֽ/נּוּ",
+        "phrase": "may eat it",
+        "literal": "may-eat-it",
+        "source": "H398 (KJV: shall eat of them; ESV: may eat of it; NASB: may eat of it)"
+      }
+    ]
+  }
+]

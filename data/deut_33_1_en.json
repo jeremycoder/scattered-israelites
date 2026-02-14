@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֹ֣את",
+        "phrase": "And this",
+        "literal": "and-this",
+        "source": "H2063; KJV/ESV/NASB: 'And this' or 'Now this'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בְּרָכָ֗ה",
+        "phrase": "the blessing",
+        "literal": "the-blessing",
+        "source": "H1293; KJV/ESV/NASB: 'blessing'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV/ESV/NASB: 'wherewith' or 'with which'"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּרַ֥ךְ",
+        "phrase": "he blessed",
+        "literal": "he-blessed",
+        "source": "H1288; KJV/ESV/NASB: 'blessed'"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֛ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV/ESV/NASB: 'Moses'"
+      },
+      {
+        "position": 6,
+        "surface": "אִ֥ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376; KJV/ESV/NASB: 'man'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430; KJV/ESV/NASB: 'of God'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: omitted"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנֵ֣י",
+        "phrase": "children",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'children' or 'sons'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: 'Israel'"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440; KJV/ESV/NASB: 'before'"
+      },
+      {
+        "position": 12,
+        "surface": "מוֹתֽ/וֹ",
+        "phrase": "his death",
+        "literal": "death-his",
+        "source": "H4194; KJV/ESV/NASB: 'his death'"
+      }
+    ]
+  }
+]

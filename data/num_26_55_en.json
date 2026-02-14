@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 55,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַךְ",
+        "phrase": "Nevertheless",
+        "literal": "only",
+        "source": "H389 (KJV: Notwithstanding; ESV: the land shall be divided; NASB: But the land)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/גוֹרָ֕ל",
+        "phrase": "by lot",
+        "literal": "in-lot",
+        "source": "H1486 (KJV: by lot; ESV: by lot; NASB: by lot)"
+      },
+      {
+        "position": 3,
+        "surface": "יֵחָלֵ֖ק",
+        "phrase": "shall be divided",
+        "literal": "it-will-be-apportioned",
+        "source": "H2505 (KJV: shall be divided; ESV: shall be divided; NASB: shall be divided)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776 (KJV: the land; ESV: the land; NASB: the land)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/שְׁמ֥וֹת",
+        "phrase": "according to the names",
+        "literal": "to-names",
+        "source": "H8034 (KJV: according to the names; ESV: according to the names; NASB: according to the names)"
+      },
+      {
+        "position": 7,
+        "surface": "מַטּוֹת",
+        "phrase": "of the tribes",
+        "literal": "tribes",
+        "source": "H4294 (KJV: of the tribes; ESV: of the tribes; NASB: of the tribes)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבֹתָ֖/ם",
+        "phrase": "of their fathers",
+        "literal": "fathers-their",
+        "source": "H1 (KJV: of their fathers; ESV: of their fathers; NASB: of their fathers)"
+      },
+      {
+        "position": 9,
+        "surface": "יִנְחָֽלוּ",
+        "phrase": "they shall inherit",
+        "literal": "they-will-inherit",
+        "source": "H5157 (KJV: they shall inherit; ESV: they shall inherit; NASB: They shall receive their inheritance)"
+      }
+    ]
+  }
+]

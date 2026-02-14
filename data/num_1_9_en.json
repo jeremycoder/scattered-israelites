@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/זְבוּלֻ֕ן",
+        "phrase": "of Zebulun",
+        "literal": "to-Zebulun",
+        "source": "H2074; KJV/ESV/NASB: 'of Zebulun' (tribal designation)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלִיאָ֖ב",
+        "phrase": "Eliab",
+        "literal": "Eliab",
+        "source": "H446; KJV/ESV/NASB: 'Eliab' (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son' (patronymic relation)"
+      },
+      {
+        "position": 4,
+        "surface": "חֵלֹֽן",
+        "phrase": "Helon",
+        "literal": "Helon",
+        "source": "H2497; KJV/ESV/NASB: 'Helon' (proper name)"
+      }
+    ]
+  }
+]

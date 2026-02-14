@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 30,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 2,
+        "surface": "נֵ֛דֶר",
+        "phrase": "vow",
+        "literal": "vow",
+        "source": "H5088 (KJV: vows; ESV: vows; NASB: vows)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/כָל",
+        "phrase": "and every",
+        "literal": "and-all",
+        "source": "H3605 (KJV: or all; ESV: or all; NASB: or all)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁבֻעַ֥ת",
+        "phrase": "oath",
+        "literal": "oath",
+        "source": "H7621 (KJV: bonds; ESV: obligations; NASB: obligations)"
+      },
+      {
+        "position": 5,
+        "surface": "אִסָּ֖ר",
+        "phrase": "obligation",
+        "literal": "binding",
+        "source": "H632 (KJV: bonds; ESV: obligations; NASB: obligations)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/עַנֹּ֣ת",
+        "phrase": "to afflict",
+        "literal": "to-afflict",
+        "source": "H6031 (KJV: afflict; ESV: self-denial; NASB: self-abasement)"
+      },
+      {
+        "position": 7,
+        "surface": "נָ֑פֶשׁ",
+        "phrase": "soul",
+        "literal": "soul",
+        "source": "H5315 (KJV: soul; ESV: self; NASB: soul)"
+      },
+      {
+        "position": 8,
+        "surface": "אִישָׁ֥/הּ",
+        "phrase": "her husband",
+        "literal": "her-husband",
+        "source": "H376 (KJV: her husband; ESV: her husband; NASB: her husband)"
+      },
+      {
+        "position": 9,
+        "surface": "יְקִימֶ֖/נּוּ",
+        "phrase": "shall confirm it",
+        "literal": "shall-cause.to.stand-it",
+        "source": "H6965 (KJV: establisheth; ESV: confirms; NASB: confirms)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אִישָׁ֥/הּ",
+        "phrase": "and her husband",
+        "literal": "and-her-husband",
+        "source": "H376 (KJV: her husband; ESV: her husband; NASB: her husband)"
+      },
+      {
+        "position": 11,
+        "surface": "יְפֵרֶֽ/נּוּ",
+        "phrase": "shall make it void",
+        "literal": "shall-cause.to.break-it",
+        "source": "H6565 (KJV: confirmeth; ESV: nullifies; NASB: makes void)"
+      }
+    ]
+  }
+]

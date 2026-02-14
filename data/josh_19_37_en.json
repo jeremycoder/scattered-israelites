@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/קֶ֥דֶשׁ",
+        "phrase": "and Kedesh",
+        "literal": "and-Kedesh",
+        "source": "H6943; KJV: Kedesh, ESV: Kedesh, NASB: Kedesh"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶדְרֶ֖עִי",
+        "phrase": "and Edrei",
+        "literal": "and-Edrei",
+        "source": "H154; KJV: Edrei, ESV: Edrei, NASB: Edrei"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עֵ֥ין",
+        "phrase": "and En",
+        "literal": "and-spring",
+        "source": "H5877; KJV: Enhazor (compound), ESV: En-hazor (compound), NASB: En-hazor (compound)"
+      },
+      {
+        "position": 4,
+        "surface": "חָצֽוֹר",
+        "phrase": "Hazor",
+        "literal": "Hazor",
+        "source": "H2674; KJV: Hazor, ESV: Hazor, NASB: Hazor"
+      }
+    ]
+  }
+]

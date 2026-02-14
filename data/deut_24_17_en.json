@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תַטֶּ֔ה",
+        "phrase": "you shall pervert",
+        "literal": "you-cause-to-incline",
+        "source": "H5186 (KJV: pervert; ESV: pervert; NASB: pervert)"
+      },
+      {
+        "position": 3,
+        "surface": "מִשְׁפַּ֖ט",
+        "phrase": "justice",
+        "literal": "judgment",
+        "source": "H4941 (KJV: judgment; ESV: justice; NASB: justice)"
+      },
+      {
+        "position": 4,
+        "surface": "גֵּ֣ר",
+        "phrase": "the sojourner",
+        "literal": "sojourner",
+        "source": "H1616 (KJV: stranger; ESV: sojourner; NASB: alien)"
+      },
+      {
+        "position": 5,
+        "surface": "יָת֑וֹם",
+        "phrase": "the fatherless",
+        "literal": "orphan",
+        "source": "H3490 (KJV: fatherless; ESV: fatherless; NASB: orphan)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: nor; ESV: or; NASB: nor)"
+      },
+      {
+        "position": 7,
+        "surface": "תַחֲבֹ֔ל",
+        "phrase": "you shall take in pledge",
+        "literal": "you-take-in-pledge",
+        "source": "H2254 (KJV: take...to pledge; ESV: take...in pledge; NASB: take...in pledge)"
+      },
+      {
+        "position": 8,
+        "surface": "בֶּ֖גֶד",
+        "phrase": "garment",
+        "literal": "garment",
+        "source": "H899 (KJV: raiment; ESV: garment; NASB: garment)"
+      },
+      {
+        "position": 9,
+        "surface": "אַלְמָנָֽה",
+        "phrase": "of the widow",
+        "literal": "widow",
+        "source": "H490 (KJV: widow's; ESV: widow’s; NASB: widow's)"
+      }
+    ]
+  }
+]

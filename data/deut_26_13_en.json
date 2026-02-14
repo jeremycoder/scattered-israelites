@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 26,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אָמַרְתָּ֡",
+        "phrase": "and-you-shall-say",
+        "literal": "and-you-will-say",
+        "source": "H559 (KJV: say; ESV: say; NASB: say)"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/פְנֵי֩",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֨ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: Lord)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֶ֜י/ךָ",
+        "phrase": "your-God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 5,
+        "surface": "בִּעַ֧רְתִּי",
+        "phrase": "I-have-removed",
+        "literal": "I-have-cleared",
+        "source": "H1197 (KJV: brought away; ESV: removed; NASB: removed)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/קֹּ֣דֶשׁ",
+        "phrase": "the-sacred-portion",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: hallowed things; ESV: sacred portion; NASB: sacred portion)"
+      },
+      {
+        "position": 7,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: out of; ESV: out of; NASB: from)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/בַּ֗יִת",
+        "phrase": "the-house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: mine house; ESV: my house; NASB: my house)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/גַ֨ם",
+        "phrase": "and-also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: also; ESV: moreover; NASB: also)"
+      },
+      {
+        "position": 10,
+        "surface": "נְתַתִּ֤י/ו",
+        "phrase": "I-have-given-it",
+        "literal": "I-have-given-it",
+        "source": "H5414 (KJV: given them; ESV: given it; NASB: given it)"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/לֵּוִי֙",
+        "phrase": "to-the-Levite",
+        "literal": "to-the-Levite",
+        "source": "H3881 (KJV: Levite; ESV: Levite; NASB: Levite)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לַ/גֵּר֙",
+        "phrase": "and-to-the-sojourner",
+        "literal": "and-to-the-sojourner",
+        "source": "H1616 (KJV: stranger; ESV: sojourner; NASB: alien)"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/יָּת֣וֹם",
+        "phrase": "to-the-orphan",
+        "literal": "to-the-orphan",
+        "source": "H3490 (KJV: fatherless; ESV: fatherless; NASB: orphan)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/לָ/אַלְמָנָ֔ה",
+        "phrase": "and-to-the-widow",
+        "literal": "and-to-the-widow",
+        "source": "H490 (KJV: widow; ESV: widow; NASB: widow)"
+      },
+      {
+        "position": 15,
+        "surface": "כְּ/כָל",
+        "phrase": "according-to-all",
+        "literal": "as-all",
+        "source": "H3605 (KJV: according to all; ESV: according to all; NASB: according to all)"
+      },
+      {
+        "position": 16,
+        "surface": "מִצְוָתְ/ךָ֖",
+        "phrase": "your-commandment",
+        "literal": "command-your",
+        "source": "H4687 (KJV: thy commandments; ESV: your commandment; NASB: Your commandments)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 18,
+        "surface": "צִוִּיתָ֑/נִי",
+        "phrase": "you-have-commanded-me",
+        "literal": "you-have-commanded-me",
+        "source": "H6680 (KJV: thou hast commanded me; ESV: you have commanded me; NASB: You have commanded me)"
+      },
+      {
+        "position": 19,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 20,
+        "surface": "עָבַ֥רְתִּי",
+        "phrase": "I-have-transgressed",
+        "literal": "I-have-passed",
+        "source": "H5674 (KJV: transgressed; ESV: transgressed; NASB: transgressed)"
+      },
+      {
+        "position": 21,
+        "surface": "מִ/מִּצְוֺתֶ֖י/ךָ",
+        "phrase": "from-your-commandments",
+        "literal": "from-commandments-your",
+        "source": "H4687 (KJV: thy commandments; ESV: your commandments; NASB: Your commandments)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 23,
+        "surface": "שָׁכָֽחְתִּי",
+        "phrase": "I-have-forgotten",
+        "literal": "I-have-forgotten",
+        "source": "H7911 (KJV: forgotten; ESV: forgotten; NASB: forgotten)"
+      }
+    ]
+  }
+]

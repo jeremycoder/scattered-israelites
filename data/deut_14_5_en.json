@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַיָּ֥ל",
+        "phrase": "deer",
+        "literal": "stag",
+        "source": "H354 (KJV: hart; ESV: deer; NASB: deer)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/צְבִ֖י",
+        "phrase": "and gazelle",
+        "literal": "and-gazelle",
+        "source": "H6643 (KJV: roebuck; ESV: gazelle; NASB: gazelle)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יַחְמ֑וּר",
+        "phrase": "and roe deer",
+        "literal": "and-roebuck",
+        "source": "H3180 (KJV: fallow deer; ESV: roe deer; NASB: roebuck)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַקּ֥וֹ",
+        "phrase": "and wild goat",
+        "literal": "and-wild-goat",
+        "source": "H689 (KJV: wild goat; ESV: wild goat; NASB: wild goat)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/דִישֹׁ֖ן",
+        "phrase": "and ibex",
+        "literal": "and-pyarg",
+        "source": "H1788 (KJV: pygarg; ESV: ibex; NASB: ibex)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/תְא֥וֹ",
+        "phrase": "and antelope",
+        "literal": "and-wild-ox",
+        "source": "H8377 (KJV: wild ox; ESV: antelope; NASB: antelope)"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/זָֽמֶר",
+        "phrase": "and mountain sheep",
+        "literal": "and-chamois",
+        "source": "H2169 (KJV: chamois; ESV: mountain sheep; NASB: mountain sheep)"
+      }
+    ]
+  }
+]

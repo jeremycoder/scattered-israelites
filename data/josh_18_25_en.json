@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 18,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "גִּבְע֥וֹן",
+        "phrase": "Gibeon",
+        "literal": "Gibeon",
+        "source": "H1391; KJV/ESV/NASB: Gibeon"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הָֽ/רָמָ֖ה",
+        "phrase": "and Ramah",
+        "literal": "and-the-Ramah",
+        "source": "H7414; KJV/ESV/NASB: and Ramah"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בְאֵרֽוֹת",
+        "phrase": "and Beeroth",
+        "literal": "and-Beeroth",
+        "source": "H881; KJV/ESV/NASB: and Beeroth"
+      }
+    ]
+  }
+]

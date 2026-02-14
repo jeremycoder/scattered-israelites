@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: not translated explicitly, marks object)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֧ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֶ֛י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּירָ֖א",
+        "phrase": "you shall fear",
+        "literal": "you(m.s.)-shall-fear",
+        "source": "H3372 (KJV: fear; ESV: fear; NASB: fear)"
+      },
+      {
+        "position": 5,
+        "surface": "אֹת֣/וֹ",
+        "phrase": "him",
+        "literal": "[direct-object-marker]-him",
+        "source": "H853 (KJV: him; ESV: him; NASB: Him)"
+      },
+      {
+        "position": 6,
+        "surface": "תַעֲבֹ֑ד",
+        "phrase": "you shall serve",
+        "literal": "you(m.s.)-shall-serve",
+        "source": "H5647 (KJV: serve; ESV: serve; NASB: serve)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/ב֣/וֹ",
+        "phrase": "and in him",
+        "literal": "and-in-him",
+        "source": " (KJV: to him; ESV: hold fast to him; NASB: hold fast to Him)"
+      },
+      {
+        "position": 8,
+        "surface": "תִדְבָּ֔ק",
+        "phrase": "you shall cling",
+        "literal": "you(m.s.)-shall-cling",
+        "source": "H1692 (KJV: cleave; ESV: hold fast; NASB: hold fast)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בִ/שְׁמ֖/וֹ",
+        "phrase": "and by his name",
+        "literal": "and-in-name-his",
+        "source": "H8034 (KJV: by his name; ESV: by his name; NASB: in His name)"
+      },
+      {
+        "position": 10,
+        "surface": "תִּשָּׁבֵֽעַ",
+        "phrase": "you shall swear",
+        "literal": "you(m.s.)-shall-swear",
+        "source": "H7650 (KJV: swear; ESV: swear; NASB: take oaths)"
+      }
+    ]
+  }
+]

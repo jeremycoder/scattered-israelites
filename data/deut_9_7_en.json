@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זְכֹר֙",
+        "phrase": "Remember",
+        "literal": "remember!-Impv-2ms",
+        "source": "H2142 (KJV: Remember; ESV: Remember; NASB: Remember)"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408 (KJV: not; ESV: do not; NASB: do not)"
+      },
+      {
+        "position": 3,
+        "surface": "תִּשְׁכַּ֔ח",
+        "phrase": "forget",
+        "literal": "forget!-Impv-2ms",
+        "source": "H7911 (KJV: forget; ESV: forget; NASB: forget)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֧ת",
+        "phrase": "how",
+        "literal": "-Acc",
+        "source": "H853 (KJV: how; ESV: how; NASB: how)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "that-Rel",
+        "source": "H834 (KJV: how; ESV: how; NASB: how)"
+      },
+      {
+        "position": 6,
+        "surface": "הִקְצַ֛פְתָּ",
+        "phrase": "you provoked",
+        "literal": "you-made-angry-Perf-2ms",
+        "source": "H7107 (KJV: provoked; ESV: provoked; NASB: provoked)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "-Acc",
+        "source": "H853 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH-Np",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your-Ncmpc/Sp2ms",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/מִּדְבָּ֑ר",
+        "phrase": "in the wilderness",
+        "literal": "in//the-wilderness-HRd/Ncmsa",
+        "source": "H4057 (KJV: in the wilderness; ESV: in the wilderness; NASB: in the wilderness)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/מִן",
+        "phrase": "from",
+        "literal": "to//from-HR/R",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/יּ֞וֹם",
+        "phrase": "the day",
+        "literal": "the//day-HTd/Ncmsa",
+        "source": "H3117 (KJV: the day; ESV: the day; NASB: the day)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "that-Rel",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 14,
+        "surface": "יָצָ֣אתָ",
+        "phrase": "you went out",
+        "literal": "you-went-out-Perf-2ms",
+        "source": "H3318 (KJV: ye came out; ESV: you went out; NASB: you came)"
+      },
+      {
+        "position": 15,
+        "surface": "מֵ/אֶ֣רֶץ",
+        "phrase": "from the land",
+        "literal": "from//land-HR/Ncbsc",
+        "source": "H776 (KJV: the land; ESV: the land; NASB: the land)"
+      },
+      {
+        "position": 16,
+        "surface": "מִצְרַ֗יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt-Np",
+        "source": "H4714 (KJV: of Egypt; ESV: of Egypt; NASB: of Egypt)"
+      },
+      {
+        "position": 17,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until-R",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 18,
+        "surface": "בֹּֽאֲ/כֶם֙",
+        "phrase": "you came",
+        "literal": "coming-your-Vqc/Sp2mp",
+        "source": "H935 (KJV: ye came; ESV: you came; NASB: you came)"
+      },
+      {
+        "position": 19,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to-R",
+        "source": "H5704 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/מָּק֣וֹם",
+        "phrase": "the place",
+        "literal": "the//place-HTd/Ncmsa",
+        "source": "H4725 (KJV: this place; ESV: this place; NASB: this place)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the//this-HTd/Pdxms",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 22,
+        "surface": "מַמְרִ֥ים",
+        "phrase": "rebelling",
+        "literal": "rebelling-Part-ms",
+        "source": "H4784 (KJV: rebels; ESV: rebelling; NASB: rebellious)"
+      },
+      {
+        "position": 23,
+        "surface": "הֱיִיתֶ֖ם",
+        "phrase": "you were",
+        "literal": "you-were-Perf-2mp",
+        "source": "H1961 (KJV: ye have been; ESV: you have been; NASB: you have been)"
+      },
+      {
+        "position": 24,
+        "surface": "עִם",
+        "phrase": "against",
+        "literal": "with-R",
+        "source": "H5973 (KJV: with; ESV: against; NASB: against)"
+      },
+      {
+        "position": 25,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH-Np",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

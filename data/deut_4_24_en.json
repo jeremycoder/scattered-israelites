@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֚י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588: KJV 'For', ESV 'For', NASB 'For'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֶ֔י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430: KJV 'thy God', ESV 'your God', NASB 'your God'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥שׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784: KJV 'fire', ESV 'fire', NASB 'fire'"
+      },
+      {
+        "position": 5,
+        "surface": "אֹכְלָ֖ה",
+        "phrase": "consuming",
+        "literal": "eating",
+        "source": "H398: KJV 'consuming', ESV 'consuming', NASB 'consuming'"
+      },
+      {
+        "position": 6,
+        "surface": "ה֑וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931: KJV (implied in 'is'), ESV (implied), NASB (implied in 'is')"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֖ל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H410: KJV 'God', ESV 'God', NASB 'God'"
+      },
+      {
+        "position": 8,
+        "surface": "קַנָּֽא",
+        "phrase": "jealous",
+        "literal": "jealous",
+        "source": "H7067: KJV 'jealous', ESV 'jealous', NASB 'jealous'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהֵי/כֶ֖ם",
+        "phrase": "your God",
+        "literal": "gods-your",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 3,
+        "surface": "הִרְבָּ֣ה",
+        "phrase": "has multiplied",
+        "literal": "he-has-multiplied",
+        "source": "H7235 (KJV: hath multiplied; ESV: has multiplied; NASB: has multiplied)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶתְ/כֶ֑ם",
+        "phrase": "you",
+        "literal": "[direct object marker]-you",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִנְּ/כֶ֣ם",
+        "phrase": "and behold you",
+        "literal": "and-behold-you",
+        "source": "H2009 (KJV: and behold ye; ESV: and behold you; NASB: and look)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/יּ֔וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 7,
+        "surface": "כְּ/כוֹכְבֵ֥י",
+        "phrase": "like the stars",
+        "literal": "like-stars",
+        "source": "H3556 (KJV: as the stars; ESV: as the stars; NASB: like the stars)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שָּׁמַ֖יִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: of heaven; ESV: of heaven; NASB: of heaven)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/רֹֽב",
+        "phrase": "for multitude",
+        "literal": "for-multitude",
+        "source": "H7230 (KJV: for multitude; ESV: in number; NASB: in number)"
+      }
+    ]
+  }
+]

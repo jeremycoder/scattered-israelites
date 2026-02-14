@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 30,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "you are",
+        "literal": "he-will-be",
+        "source": "H1961 (KJV: be; ESV: are; NASB: are)"
+      },
+      {
+        "position": 3,
+        "surface": "נִֽדַּחֲ/ךָ֖",
+        "phrase": "driven out",
+        "literal": "driven-you",
+        "source": "H5080 (KJV: driven out; ESV: outcasts; NASB: outcasts)"
+      },
+      {
+        "position": 4,
+        "surface": "בִּ/קְצֵ֣ה",
+        "phrase": "to the end",
+        "literal": "in-end-of",
+        "source": "H7097 (KJV: parts; ESV: uttermost parts; NASB: ends)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׁמָ֑יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: heaven; ESV: heaven; NASB: earth)"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/שָּׁ֗ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033 (KJV: thence; ESV: there; NASB: there)"
+      },
+      {
+        "position": 7,
+        "surface": "יְקַבֶּצְ/ךָ֙",
+        "phrase": "will gather you",
+        "literal": "he-will-gather-you",
+        "source": "H6908 (KJV: gather; ESV: gather; NASB: gather)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֶ֔י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מִ/שָּׁ֖ם",
+        "phrase": "and from there",
+        "literal": "and-from-there",
+        "source": "H8033 (KJV: and from thence; ESV: and from there; NASB: and from there)"
+      },
+      {
+        "position": 11,
+        "surface": "יִקָּחֶֽ/ךָ",
+        "phrase": "he will take you",
+        "literal": "he-will-take-you",
+        "source": "H3947 (KJV: fetch; ESV: take; NASB: bring)"
+      }
+    ]
+  }
+]

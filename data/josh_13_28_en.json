@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֛את",
+        "phrase": "This",
+        "literal": "this-F",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This) - demonstrative pronoun"
+      },
+      {
+        "position": 2,
+        "surface": "נַחֲלַ֥ת",
+        "phrase": "inheritance",
+        "literal": "inheritance-F",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance) - noun"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵי",
+        "phrase": "of the sons",
+        "literal": "sons-MP-construct",
+        "source": "H1121 (KJV: children; ESV: clans; NASB: sons) - noun"
+      },
+      {
+        "position": 4,
+        "surface": "גָ֖ד",
+        "phrase": "of Gad",
+        "literal": "Gad",
+        "source": "H1410 (KJV: Gad; ESV: Gadites; NASB: Gad) - proper name"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מִשְׁפְּחֹתָ֑/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "H4940 (KJV: after their families; ESV: according to their clans; NASB: according to their families) - preposition/noun/suffix"
+      },
+      {
+        "position": 6,
+        "surface": "הֶ/עָרִ֖ים",
+        "phrase": "the cities",
+        "literal": "the-cities-FP",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities) - article/noun"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/חַצְרֵי/הֶֽם",
+        "phrase": "and their villages",
+        "literal": "and-villages-their",
+        "source": "H2691 (KJV: villages; ESV: villages; NASB: villages) - conjunction/noun/suffix"
+      }
+    ]
+  }
+]

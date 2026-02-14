@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: You shall not, NASB: You shall not"
+      },
+      {
+        "position": 2,
+        "surface": "תַחְסֹ֥ם",
+        "phrase": "you shall muzzle",
+        "literal": "you(m.s.)-shall-muzzle",
+        "source": "H2629; KJV: muzzle, ESV: muzzle, NASB: muzzle"
+      },
+      {
+        "position": 3,
+        "surface": "שׁ֖וֹר",
+        "phrase": "ox",
+        "literal": "ox",
+        "source": "H7794; KJV: ox, ESV: ox, NASB: ox"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/דִישֽׁ/וֹ",
+        "phrase": "while treading it out",
+        "literal": "in-threshing-of.him",
+        "source": "H1758; KJV: when he treadeth out [the corn], ESV: while he is threshing, NASB: while he is threshing"
+      }
+    ]
+  }
+]

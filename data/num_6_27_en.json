@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׂמ֥וּ",
+        "phrase": "And they shall put",
+        "literal": "and-they-put",
+        "source": "H7760; KJV: 'And they shall put', ESV: 'So shall they put', NASB: 'So they shall invoke'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמִ֖/י",
+        "phrase": "My name",
+        "literal": "name-my",
+        "source": "H8034; KJV: 'my name', ESV: 'my name', NASB: 'My name'"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921; KJV: 'upon', ESV: 'upon', NASB: 'on'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV: 'the children of', ESV: 'the people of', NASB: 'the sons of'"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: 'Israel', ESV: 'Israel', NASB: 'Israel'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/אֲנִ֖י",
+        "phrase": "and I",
+        "literal": "and-I",
+        "source": "H589; KJV: 'and I', ESV: 'and I', NASB: 'and I'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבָרֲכֵֽ/ם",
+        "phrase": "will bless them",
+        "literal": "I-will-bless-them",
+        "source": "H1288; KJV: 'will bless them', ESV: 'will bless them', NASB: 'will bless them'"
+      }
+    ]
+  }
+]

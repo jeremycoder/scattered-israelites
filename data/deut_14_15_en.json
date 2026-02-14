@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and the",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ֣ת",
+        "phrase": "daughter",
+        "literal": "daughter-of",
+        "source": "H1323 (KJV: daughter; ESV: daughter; NASB: daughter)"
+      },
+      {
+        "position": 3,
+        "surface": "הַֽ/יַּעֲנָ֔ה",
+        "phrase": "of the ostrich",
+        "literal": "the-ostrich",
+        "source": "H3284 (KJV: owl; ESV: ostrich; NASB: ostrich)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/תַּחְמָ֖ס",
+        "phrase": "screech owl",
+        "literal": "the-screech.owl",
+        "source": "H8464 (KJV: night hawk; ESV: nighthawk; NASB: screech owl)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/שָּׁ֑חַף",
+        "phrase": "seagull",
+        "literal": "the-seagull",
+        "source": "H7828 (KJV: cuckow; ESV: gull; NASB: gull)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/נֵּ֖ץ",
+        "phrase": "hawk",
+        "literal": "the-hawk",
+        "source": "H5322 (KJV: hawk; ESV: falcon; NASB: falcon)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/מִינֵֽ/הוּ",
+        "phrase": "after its kind",
+        "literal": "to-kind-of-it",
+        "source": "H4327 (KJV: after his kind; ESV: after their kind; NASB: after its kind)"
+      }
+    ]
+  }
+]

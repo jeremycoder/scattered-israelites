@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֤לֶךְ",
+        "phrase": "king",
+        "literal": "king-of",
+        "source": "H4428; KJV/ESV/NASB: 'The king of'"
+      },
+      {
+        "position": 2,
+        "surface": "דְּבִר֙",
+        "phrase": "Debir",
+        "literal": "Debir",
+        "source": "H1688; KJV/ESV/NASB: 'Debir'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king-of",
+        "source": "H4428; KJV/ESV/NASB: 'The king of'"
+      },
+      {
+        "position": 5,
+        "surface": "גֶּ֖דֶר",
+        "phrase": "Geder",
+        "literal": "Geder",
+        "source": "H1445; KJV/ESV/NASB: 'Geder'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      }
+    ]
+  }
+]

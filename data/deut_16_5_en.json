@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 16,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תוּכַ֖ל",
+        "phrase": "you may",
+        "literal": "you-are-able",
+        "source": "H3201: KJV 'able', ESV 'permitted', NASB 'be able'"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/זְבֹּ֣חַ",
+        "phrase": "to sacrifice",
+        "literal": "to-sacrifice",
+        "source": "H2076: KJV 'kill', ESV 'slaughter', NASB 'sacrifice'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/פָּ֑סַח",
+        "phrase": "Passover",
+        "literal": "the-Passover",
+        "source": "H6453: KJV 'passover', ESV 'Passover', NASB 'Passover'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אַחַ֣ד",
+        "phrase": "in one",
+        "literal": "in-one",
+        "source": "H259: KJV 'any', ESV 'any', NASB 'any'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁעָרֶ֔י/ךָ",
+        "phrase": "of your gates",
+        "literal": "gates-your",
+        "source": "H8179: KJV 'gates', ESV 'towns', NASB 'towns'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834: KJV 'which', ESV 'that', NASB 'which'"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'LORD', ESV 'LORD', NASB 'LORD'"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430: KJV 'God', ESV 'God', NASB 'God'"
+      },
+      {
+        "position": 11,
+        "surface": "נֹתֵ֥ן",
+        "phrase": "is giving",
+        "literal": "giving",
+        "source": "H5414: KJV 'giveth', ESV 'is giving', NASB 'is giving'"
+      },
+      {
+        "position": 12,
+        "surface": "לָֽ/ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": ": KJV (implied), ESV (implied), NASB (implied)"
+      }
+    ]
+  }
+]

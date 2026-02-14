@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צ֥וּר",
+        "phrase": "Rock",
+        "literal": "rock",
+        "source": "H6697 (KJV: Rock; ESV: Rock; NASB: Rock)"
+      },
+      {
+        "position": 2,
+        "surface": "יְלָדְ/ךָ֖",
+        "phrase": "who begot you",
+        "literal": "he-begot/you",
+        "source": "H3205 (KJV: that begat thee; ESV: that bore you; NASB: who begot you)"
+      },
+      {
+        "position": 3,
+        "surface": "תֶּ֑שִׁי",
+        "phrase": "you were unmindful",
+        "literal": "you-are-unmindful",
+        "source": "H7876 (KJV: thou art unmindful; ESV: you were unmindful; NASB: You neglected)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תִּשְׁכַּ֖ח",
+        "phrase": "and you forgot",
+        "literal": "and/you-forgot",
+        "source": "H7911 (KJV: and hast forgotten; ESV: and you forgot; NASB: And forgot)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֥ל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H410 (KJV: God; ESV: the God; NASB: the God)"
+      },
+      {
+        "position": 6,
+        "surface": "מְחֹלְלֶֽ/ךָ",
+        "phrase": "who gave you birth",
+        "literal": "who-gave-birth-to/you",
+        "source": "H2342 (KJV: that formed thee; ESV: who gave you birth; NASB: who gave you birth)"
+      }
+    ]
+  }
+]

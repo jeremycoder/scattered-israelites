@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 21,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֨שֶׁב֙",
+        "phrase": "and dwelt",
+        "literal": "and-he-dwelt",
+        "source": "H3427; KJV 'dwelt', ESV 'lived', NASB 'lived'"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV 'Israel', ESV 'Israel', NASB 'Israel'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/אֶ֖רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "H776; KJV 'in the land', ESV 'in the land', NASB 'in the land'"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֱמֹרִֽי",
+        "phrase": "of the Amorite",
+        "literal": "the-Amorite",
+        "source": "H567; KJV 'of the Amorites', ESV 'of the Amorites', NASB 'of the Amorites'"
+      }
+    ]
+  }
+]

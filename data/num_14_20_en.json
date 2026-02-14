@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 14,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And He said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: 'And the LORD said'; ESV: 'Then the LORD said'; NASB: 'So the LORD said')"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 3,
+        "surface": "סָלַ֖חְתִּי",
+        "phrase": "I have forgiven",
+        "literal": "I-have-forgiven",
+        "source": "H5545 (KJV: 'I have pardoned'; ESV: 'I have pardoned'; NASB: 'I have pardoned')"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ/דְבָרֶֽ/ךָ",
+        "phrase": "according to your word",
+        "literal": "as-word-your",
+        "source": "H1697 (KJV: 'according to thy word'; ESV: 'according to your word'; NASB: 'according to your word')"
+      }
+    ]
+  }
+]

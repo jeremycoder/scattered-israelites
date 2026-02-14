@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: And; ESV: [implied]; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "יַתִּר֙",
+        "phrase": "Jattir",
+        "literal": "Jattir",
+        "source": "H3492 (KJV: Jattir; ESV: Jattir; NASB: Jattir)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְרָשֶׁ֔/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054 (KJV: her suburbs; ESV: its pasturelands; NASB: its pasture lands)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶשְׁתְּמֹ֖עַ",
+        "phrase": "Eshtemoa",
+        "literal": "Eshtemoa",
+        "source": "H851 (KJV: Eshtemoa; ESV: Eshtemoa; NASB: Eshtemoa)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "מִגְרָשֶֽׁ/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054 (KJV: her suburbs; ESV: its pasturelands; NASB: its pasture lands)"
+      }
+    ]
+  }
+]

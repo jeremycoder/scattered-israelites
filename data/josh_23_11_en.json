@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 23,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נִשְׁמַרְתֶּ֥ם",
+        "phrase": "and take heed",
+        "literal": "and-you.shall.keep",
+        "source": "H8104 (shamar: KJV 'Take good heed therefore'; ESV 'Be very careful therefore'; NASB 'take diligent heed')"
+      },
+      {
+        "position": 2,
+        "surface": "מְאֹ֖ד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "H3966 (meod: KJV 'good'; ESV 'very'; NASB 'diligent')"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/נַפְשֹֽׁתֵי/כֶ֑ם",
+        "phrase": "for yourselves",
+        "literal": "to-your.souls",
+        "source": "H5315 (nephesh: KJV 'unto yourselves'; ESV 'to yourselves'; NASB 'to yourselves')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/אַהֲבָ֖ה",
+        "phrase": "to love",
+        "literal": "to-love",
+        "source": "H157 (ahab: KJV 'that ye love'; ESV 'to love'; NASB 'to love')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (et: KJV (implied); ESV (implied); NASB (implied))"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (YHWH: KJV 'the LORD'; ESV 'the LORD'; NASB 'the LORD')"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "gods-your",
+        "source": "H430 (elohim: KJV 'your God'; ESV 'your God'; NASB 'your God')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 23,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2009; KJV/ESV/NASB: 'Behold' or 'Indeed'"
+      },
+      {
+        "position": 2,
+        "surface": "בָרֵ֖ךְ",
+        "phrase": "to bless",
+        "literal": "bless-INF",
+        "source": "H1288; KJV: 'commandment to bless', ESV/NASB: 'received a command to bless'"
+      },
+      {
+        "position": 3,
+        "surface": "לָקָ֑חְתִּי",
+        "phrase": "I have received",
+        "literal": "I-have-taken",
+        "source": "H3947; KJV/ESV/NASB: 'I have received'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בֵרֵ֖ךְ",
+        "phrase": "and he has blessed",
+        "literal": "and-he-blesses",
+        "source": "H1288; KJV: 'he hath blessed', ESV/NASB: 'he has blessed'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV/ESV/NASB: 'and I cannot'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשִׁיבֶֽ/נָּה",
+        "phrase": "I will reverse it",
+        "literal": "I-will-cause-to-return-it",
+        "source": "H7725; KJV: 'I cannot reverse it', ESV/NASB: 'I cannot reverse it'"
+      }
+    ]
+  }
+]

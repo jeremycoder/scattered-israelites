@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בָּרֵ֤ךְ",
+        "phrase": "Bless",
+        "literal": "bless-(impv)-2ms",
+        "source": "H1288: KJV/ESV/NASB 'Bless' (imperative address to YHWH)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV/ESV/NASB 'LORD' (divine name rendered as YHWH)"
+      },
+      {
+        "position": 3,
+        "surface": "חֵיל֔/וֹ",
+        "phrase": "his strength",
+        "literal": "strength-of.him",
+        "source": "H2428: KJV 'substance'; ESV/NASB 'strength' (military force/wealth)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/פֹ֥עַל",
+        "phrase": "and-work",
+        "literal": "and-work",
+        "source": "H6467: KJV/ESV/NASB 'work' (deeds/actions); prefixed 'and-'"
+      },
+      {
+        "position": 5,
+        "surface": "יָדָ֖י/ו",
+        "phrase": "of his hands",
+        "literal": "hands-of.him",
+        "source": "H3027: KJV/ESV/NASB 'hands' (works/power)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּרְצֶ֑ה",
+        "phrase": "accept favorably",
+        "literal": "accept-(impf)-2ms",
+        "source": "H7521: KJV 'accept'; ESV 'accept'; NASB 'accept' (be pleased with)"
+      },
+      {
+        "position": 7,
+        "surface": "מְחַ֨ץ",
+        "phrase": "Smash",
+        "literal": "smash-(impv)-2ms",
+        "source": "H4272: KJV/ESV/NASB 'smite/shatter' (strike/crushed)"
+      },
+      {
+        "position": 8,
+        "surface": "מָתְנַ֧יִם",
+        "phrase": "loins",
+        "literal": "loins-(dual)",
+        "source": "H4975: KJV/ESV/NASB 'loins' (hips/strength)"
+      },
+      {
+        "position": 9,
+        "surface": "קָמָ֛י/ו",
+        "phrase": "those rising against him",
+        "literal": "rise-(ptc)-of.him",
+        "source": "H6965: KJV/ESV/NASB 'rise up against him' (arise as foes)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מְשַׂנְאָ֖י/ו",
+        "phrase": "and his haters",
+        "literal": "and-hate-(ptc)-of.him",
+        "source": "H8130: KJV/ESV/NASB 'hate him' (enemies)"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "that not",
+        "literal": "from-not",
+        "source": "H4480: KJV/ESV/NASB '(so) that not' (preposition with negative force)"
+      },
+      {
+        "position": 12,
+        "surface": "יְקוּמֽוּ/ן",
+        "phrase": "they rise up",
+        "literal": "rise-(impf)-3mp-they",
+        "source": "H6965: KJV/ESV/NASB 'rise' (arise/stand again)"
+      }
+    ]
+  }
+]

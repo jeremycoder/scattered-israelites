@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רְאֵ֗ה",
+        "phrase": "See",
+        "literal": "see!-2ms",
+        "source": "H7200 (KJV: Behold; ESV: See; NASB: See)"
+      },
+      {
+        "position": 2,
+        "surface": "אָנֹכִ֛י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 3,
+        "surface": "נֹתֵ֥ן",
+        "phrase": "am setting",
+        "literal": "giving-masc.sg.part.",
+        "source": "H5414 (KJV: set; ESV: am setting; NASB: am setting)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/פְנֵי/כֶ֖ם",
+        "phrase": "before you",
+        "literal": "to/before-you(pl)",
+        "source": "H6440 (KJV: before you; ESV: before you; NASB: before you)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/יּ֑וֹם",
+        "phrase": "today",
+        "literal": "the/today",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּרָכָ֖ה",
+        "phrase": "a blessing",
+        "literal": "blessing",
+        "source": "H1293 (KJV: a blessing; ESV: a blessing; NASB: a blessing)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/קְלָלָֽה",
+        "phrase": "and a curse",
+        "literal": "and-curse",
+        "source": "H7045 (KJV: and a curse; ESV: a curse; NASB: a curse)"
+      }
+    ]
+  }
+]

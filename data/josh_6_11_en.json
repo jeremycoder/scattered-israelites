@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 6,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּסֵּ֤ב",
+        "phrase": "and he caused to go around",
+        "literal": "and-he-caused-to-go-around",
+        "source": "H5437 (KJV: compassed; ESV: was carried around; NASB: taken around)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲרוֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָה֙",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עִ֔יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 6,
+        "surface": "הַקֵּ֖ף",
+        "phrase": "all around",
+        "literal": "to-go-around",
+        "source": "H5362 (KJV: going about; ESV: circling; NASB: circling)"
+      },
+      {
+        "position": 7,
+        "surface": "פַּ֣עַם",
+        "phrase": "time",
+        "literal": "time",
+        "source": "H6471 (KJV: once; ESV: once; NASB: once)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶחָ֑ת",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: once; ESV: once; NASB: once)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יָּבֹ֨אוּ֙",
+        "phrase": "and they came",
+        "literal": "and-they-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 10,
+        "surface": "הַֽ/מַּחֲנֶ֔ה",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "H4264 (KJV: camp; ESV: camp; NASB: camp)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יָּלִ֖ינוּ",
+        "phrase": "and they lodged",
+        "literal": "and-they-lodged",
+        "source": "H3885 (KJV: lodged; ESV: spent the night; NASB: spent the night)"
+      },
+      {
+        "position": 12,
+        "surface": "בַּֽ/מַּחֲנֶֽה",
+        "phrase": "in the camp",
+        "literal": "in-the-camp",
+        "source": "H4264 (KJV: camp; ESV: camp; NASB: camp)"
+      }
+    ]
+  }
+]

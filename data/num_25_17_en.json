@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 25,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צָר֖וֹר",
+        "phrase": "Harass",
+        "literal": "be-hostile-to",
+        "source": "H6887; KJV: Vex, ESV: Harass, NASB: Be hostile to"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּדְיָנִ֑ים",
+        "phrase": "Midianites",
+        "literal": "the-Midianites",
+        "source": "H4084; KJV: Midianites, ESV: Midianites, NASB: Midianites"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִכִּיתֶ֖ם",
+        "phrase": "and strike",
+        "literal": "and-strike-[you(pl)]",
+        "source": "H5221; KJV: smite, ESV: strike, NASB: strike"
+      },
+      {
+        "position": 5,
+        "surface": "אוֹתָֽ/ם",
+        "phrase": "them",
+        "literal": "[direct-object-marker]-them",
+        "source": "H853; KJV: them, ESV: them, NASB: them"
+      }
+    ]
+  }
+]

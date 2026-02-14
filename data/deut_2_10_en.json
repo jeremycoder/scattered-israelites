@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ/אֵמִ֥ים",
+        "phrase": "the Emim",
+        "literal": "the-Emim",
+        "source": "H368; KJV: Emims, ESV: Emim, NASB: Emim"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/פָנִ֖ים",
+        "phrase": "formerly",
+        "literal": "to-before",
+        "source": "H6440; KJV: in times past, ESV: formerly, NASB: previously"
+      },
+      {
+        "position": 3,
+        "surface": "יָ֣שְׁבוּ",
+        "phrase": "they dwelt",
+        "literal": "they-sat",
+        "source": "H3427; KJV: dwelt, ESV: lived, NASB: lived"
+      },
+      {
+        "position": 4,
+        "surface": "בָ֑/הּ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "-; KJV: therein, ESV: there, NASB: there"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֣ם",
+        "phrase": "a people",
+        "literal": "people",
+        "source": "H5971; KJV: people, ESV: people, NASB: people"
+      },
+      {
+        "position": 6,
+        "surface": "גָּד֥וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419; KJV: great, ESV: great, NASB: great"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/רַ֛ב",
+        "phrase": "and numerous",
+        "literal": "and-many",
+        "source": "H7227; KJV: and many, ESV: and many, NASB: numerous"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/רָ֖ם",
+        "phrase": "and tall",
+        "literal": "and-high",
+        "source": "H7311; KJV: and tall, ESV: and tall, NASB: tall"
+      },
+      {
+        "position": 9,
+        "surface": "כָּ/עֲנָקִֽים",
+        "phrase": "as the Anakim",
+        "literal": "like-the-Anakim",
+        "source": "H6062; KJV: as the Anakims, ESV: as the Anakim, NASB: like the Anakim"
+      }
+    ]
+  }
+]

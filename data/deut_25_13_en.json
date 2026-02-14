@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: shall not have, NASB: shall not have"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "shall be",
+        "literal": "be-(3ms)-FUT",
+        "source": "H1961; KJV: have, ESV: have, NASB: have"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֛",
+        "phrase": "to you",
+        "literal": "to/you-(2ms)",
+        "source": "; KJV: in thy, ESV: in your, NASB: in your"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/כִֽיסְ/ךָ֖",
+        "phrase": "in your bag",
+        "literal": "in/bag/your-(2ms)",
+        "source": "H3599; KJV: in thy bag, ESV: in your bag, NASB: in your bag"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֣בֶן",
+        "phrase": "stone",
+        "literal": "stone",
+        "source": "H68; KJV: weights, ESV: weights, NASB: weights"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אָ֑בֶן",
+        "phrase": "and stone",
+        "literal": "and-stone",
+        "source": "H68; KJV: a great and a small, ESV: a large and a small, NASB: a large and a small"
+      },
+      {
+        "position": 7,
+        "surface": "גְּדוֹלָ֖ה",
+        "phrase": "large",
+        "literal": "large-(fs)",
+        "source": "H1419; KJV: a great, ESV: a large, NASB: a large"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/קְטַנָּֽה",
+        "phrase": "and small",
+        "literal": "and-small-(fs)",
+        "source": "H6996; KJV: and a small, ESV: and a small, NASB: and a small"
+      }
+    ]
+  }
+]

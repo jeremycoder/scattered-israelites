@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פְּקֻדֵי/הֶ֖ם",
+        "phrase": "those numbered of them",
+        "literal": "numbered-of-them",
+        "source": "H6485 (פקד 'to number, muster'); KJV/ESV/NASB: 'those...numbered of them'"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מַטֵּ֣ה",
+        "phrase": "of the tribe",
+        "literal": "to-tribe-of",
+        "source": "H4294 (מטה 'tribe, staff'); KJV/ESV/NASB: 'of the tribe'"
+      },
+      {
+        "position": 3,
+        "surface": "דָ֑ן",
+        "phrase": "of Dan",
+        "literal": "Dan",
+        "source": "H1835 (דן 'Dan'); KJV/ESV/NASB: 'of Dan'"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁנַ֧יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (שנים 'two'); KJV/ESV/NASB: 'two'/'sixty-two' (in compound)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שִׁשִּׁ֛ים",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "H8346 (ששים 'sixty'); KJV/ESV/NASB: 'threescore'/'sixty'/'sixty-two' (in compound)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (אלף 'thousand'); KJV/ESV/NASB: 'thousand'/'sixty-two thousand'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁבַ֥ע",
+        "phrase": "and seven",
+        "literal": "and-seven",
+        "source": "H7651 (שבע 'seven'); KJV/ESV/NASB: 'seven'/'sixty-two thousand and seven'"
+      },
+      {
+        "position": 8,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundred",
+        "source": "H3967 (מאות 'hundred'); KJV/ESV/NASB: 'hundred'/'sixty-two thousand and seven hundred'"
+      }
+    ]
+  }
+]

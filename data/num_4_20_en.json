@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹא",
+        "phrase": "but not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: but; NASB: but)"
+      },
+      {
+        "position": 2,
+        "surface": "יָבֹ֧אוּ",
+        "phrase": "they shall go in",
+        "literal": "they-shall-come-in",
+        "source": "H935 (KJV: go in; ESV: go in; NASB: go in)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/רְא֛וֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "H7200 (KJV: see; ESV: see; NASB: watch)"
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/בַלַּ֥ע",
+        "phrase": "like a swallow",
+        "literal": "like-swallow",
+        "source": "H1104 (KJV: as a common thing; ESV: for a moment; NASB: even for a moment)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/קֹּ֖דֶשׁ",
+        "phrase": "the holy things",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: the holy things; ESV: the holy things; NASB: the holy objects)"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/מֵֽתוּ",
+        "phrase": "and they shall die",
+        "literal": "and-they-shall-die",
+        "source": "H4191 (KJV: and die; ESV: they will die; NASB: they will die)"
+      }
+    ]
+  }
+]

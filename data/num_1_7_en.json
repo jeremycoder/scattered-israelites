@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִֽ/יהוּדָ֕ה",
+        "phrase": "Of Judah",
+        "literal": "to-YHWH-of-Judah",
+        "source": "H3063; KJV/ESV/NASB: 'of Judah' (rendering לִיהוּדָה as tribal designation linked to YHWH)"
+      },
+      {
+        "position": 2,
+        "surface": "נַחְשׁ֖וֹן",
+        "phrase": "Nahshon",
+        "literal": "Nahshon",
+        "source": "H5177; KJV/ESV/NASB: 'Nahshon' (proper name of Judah's prince)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (בֶּן as 'son of' in patronymic construction)"
+      },
+      {
+        "position": 4,
+        "surface": "עַמִּינָדָֽב",
+        "phrase": "Amminadab",
+        "literal": "Amminadab",
+        "source": "H5992; KJV/ESV/NASB: 'Amminadab' (proper name of Nahshon's father)"
+      }
+    ]
+  }
+]

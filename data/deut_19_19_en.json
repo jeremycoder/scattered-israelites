@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 19,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/עֲשִׂ֣יתֶם",
+        "phrase": "you shall do",
+        "literal": "and-you-all-shall-do",
+        "source": "H6213; KJV 'ye', ESV/NASB 'you shall do'"
+      },
+      {
+        "position": 2,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV 'unto him', ESV/NASB 'to him'"
+      },
+      {
+        "position": 3,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834; KJV 'as', ESV/NASB 'as'"
+      },
+      {
+        "position": 4,
+        "surface": "זָמַ֖ם",
+        "phrase": "he plotted",
+        "literal": "he-devised",
+        "source": "H2161; KJV 'thought', ESV 'meant', NASB 'intended'"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/עֲשׂ֣וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213; KJV 'to have done', ESV/NASB 'to do'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אָחִ֑י/ו",
+        "phrase": "to his brother",
+        "literal": "to-brother-his",
+        "source": "H251; KJV 'unto his brother', ESV/NASB 'to his brother'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בִֽעַרְתָּ֥",
+        "phrase": "you shall purge",
+        "literal": "and-you-shall-burn-out",
+        "source": "H1197; KJV 'put...away', ESV/NASB 'purge'"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/רָ֖ע",
+        "phrase": "the evil",
+        "literal": "the-evil",
+        "source": "H7451; KJV 'evil', ESV/NASB 'evil'"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/קִּרְבֶּֽ/ךָ",
+        "phrase": "from your midst",
+        "literal": "from-midst-your",
+        "source": "H7130; KJV 'from the midst of thee', ESV/NASB 'from your midst"
+      }
+    ]
+  }
+]

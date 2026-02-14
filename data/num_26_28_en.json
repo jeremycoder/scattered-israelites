@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "The sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV/NASB: 'sons')"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹסֵ֖ף",
+        "phrase": "Joseph",
+        "literal": "Joseph",
+        "source": "H3130 (KJV/ESV/NASB: 'Joseph')"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מִשְׁפְּחֹתָ֑/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-of-them",
+        "source": "H4940 (KJV: 'families'; ESV: 'clans'; NASB: 'families')"
+      },
+      {
+        "position": 4,
+        "surface": "מְנַשֶּׁ֖ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "H4519 (KJV/ESV/NASB: 'Manasseh')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶפְרָֽיִם",
+        "phrase": "and Ephraim",
+        "literal": "and-Ephraim",
+        "source": "H669 (KJV/ESV/NASB: 'Ephraim')"
+      }
+    ]
+  }
+]

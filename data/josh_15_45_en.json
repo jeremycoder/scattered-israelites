@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עֶקְר֥וֹן",
+        "phrase": "Ekron",
+        "literal": "Ekron",
+        "source": "H6138; KJV: Ekron, ESV: Ekron, NASB: Ekron"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בְנֹתֶ֖י/הָ",
+        "phrase": "and its towns",
+        "literal": "and-towns-of-it",
+        "source": "H1323; KJV: her towns, ESV: her towns, NASB: its towns"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/חֲצֵרֶֽי/הָ",
+        "phrase": "and its villages",
+        "literal": "and-villages-of-it",
+        "source": "H2691; KJV: her villages, ESV: her villages, NASB: its villages"
+      }
+    ]
+  }
+]

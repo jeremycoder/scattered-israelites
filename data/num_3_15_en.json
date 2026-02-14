@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פְּקֹד֙",
+        "phrase": "Number",
+        "literal": "number!(Qal-imp-ms)",
+        "source": "H6485 (KJV: Number; ESV: List; NASB: Number)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵוִ֔י",
+        "phrase": "Levi",
+        "literal": "Levi",
+        "source": "H3878 (KJV: Levi; ESV: Levi; NASB: Levi)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/בֵ֥ית",
+        "phrase": "by the house",
+        "literal": "to/house",
+        "source": "H1004 (KJV: after the house; ESV: by fathers' houses; NASB: by their fathers' households)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבֹתָ֖/ם",
+        "phrase": "of their fathers",
+        "literal": "fathers-of-them",
+        "source": "H1 (KJV: their fathers; ESV: fathers; NASB: fathers')"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/מִשְׁפְּחֹתָ֑/ם",
+        "phrase": "by their families",
+        "literal": "to/families-of-them",
+        "source": "H4940 (KJV: by their families; ESV: by clans; NASB: by their families)"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "H3605 (KJV: every; ESV: every; NASB: every)"
+      },
+      {
+        "position": 9,
+        "surface": "זָכָ֛ר",
+        "phrase": "male",
+        "literal": "male",
+        "source": "H2145 (KJV: male; ESV: male; NASB: male)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/בֶּן",
+        "phrase": "from a son",
+        "literal": "from/son",
+        "source": "H1121 (KJV: from...old; ESV: from...old; NASB: from...old)"
+      },
+      {
+        "position": 11,
+        "surface": "חֹ֥דֶשׁ",
+        "phrase": "of a month",
+        "literal": "month",
+        "source": "H2320 (KJV: a month; ESV: a month; NASB: a month)"
+      },
+      {
+        "position": 12,
+        "surface": "וָ/מַ֖עְלָ/ה",
+        "phrase": "and upward",
+        "literal": "and/upward",
+        "source": "H4605 (KJV: and upward; ESV: and upward; NASB: and upward)"
+      },
+      {
+        "position": 13,
+        "surface": "תִּפְקְדֵֽ/ם",
+        "phrase": "you shall number them",
+        "literal": "you-shall-number!/them",
+        "source": "H6485 (KJV: shalt thou number them; ESV: you shall list; NASB: you shall number)"
+      }
+    ]
+  }
+]

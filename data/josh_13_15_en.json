@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֣ן",
+        "phrase": "And he gave",
+        "literal": "and-he-gave",
+        "source": "H5414 (KJV: gave; ESV: had given; NASB: gave)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מַטֵּ֥ה",
+        "phrase": "to the tribe",
+        "literal": "to-tribe-of",
+        "source": "H4294 (KJV: tribe; ESV: tribe; NASB: tribe)"
+      },
+      {
+        "position": 4,
+        "surface": "בְנֵֽי",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "רְאוּבֵ֖ן",
+        "phrase": "of Reuben",
+        "literal": "Reuben",
+        "source": "H7205 (KJV: Reuben; ESV: Reuben; NASB: Reuben)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מִשְׁפְּחֹתָֽ/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-of-them",
+        "source": "H4940 (KJV: families; ESV: clans; NASB: families)"
+      }
+    ]
+  }
+]

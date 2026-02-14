@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֖וּ",
+        "phrase": "and they were",
+        "literal": "and-they-were",
+        "source": "H1961; KJV: Even those..., ESV: those listed were, NASB: their numbered men were"
+      },
+      {
+        "position": 2,
+        "surface": "פְּקֻדֵי/הֶ֑ם",
+        "phrase": "their numbered ones",
+        "literal": "numbered-of-them",
+        "source": "H6485; KJV: those that were numbered of them, ESV: those listed, NASB: their numbered men"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמֹנַ֣ת",
+        "phrase": "eight",
+        "literal": "eight-of",
+        "source": "H8083; KJV: eight thousand, ESV: 8,580, NASB: 8,580"
+      },
+      {
+        "position": 4,
+        "surface": "אֲלָפִ֔ים",
+        "phrase": "thousand",
+        "literal": "thousands",
+        "source": "H505; KJV: eight thousand, ESV: 8,580, NASB: 8,580"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/חֲמֵ֥שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "H2568; KJV: and five hundred, ESV: 8,580, NASB: 8,580"
+      },
+      {
+        "position": 6,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967; KJV: and five hundred, ESV: 8,580, NASB: 8,580"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁמֹנִֽים",
+        "phrase": "and eighty",
+        "literal": "and-eighties",
+        "source": "H8084; KJV: and fourscore, ESV: 8,580, NASB: 8,580"
+      }
+    ]
+  }
+]

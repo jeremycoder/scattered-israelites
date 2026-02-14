@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שָׁמ֛וֹר",
+        "phrase": "Keep",
+        "literal": "keep!(mp)",
+        "source": "H8104 (KJV: keep; ESV: observe; NASB: observe)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "י֥וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: day; ESV: day; NASB: day)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שַׁבָּ֖ת",
+        "phrase": "the Sabbath",
+        "literal": "the-Sabbath",
+        "source": "H7676 (KJV: sabbath; ESV: sabbath; NASB: sabbath)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/קַדְּשׁ֑/וֹ",
+        "phrase": "to sanctify it",
+        "literal": "to-sanctify/it",
+        "source": "H6942 (KJV: to keep it holy; ESV: to keep it holy; NASB: to keep it holy)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 7,
+        "surface": "צִוְּ/ךָ֖",
+        "phrase": "he commanded you",
+        "literal": "he-commanded/you",
+        "source": "H6680 (KJV: commanded thee; ESV: commanded you; NASB: commanded you)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֶֽי/ךָ",
+        "phrase": "your God",
+        "literal": "God/your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      }
+    ]
+  }
+]

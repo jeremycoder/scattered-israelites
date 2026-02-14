@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲמָ֥ם",
+        "phrase": "Amam",
+        "literal": "Amam",
+        "source": "H538 (KJV: Amam; ESV: Amam; NASB: Amam)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/שְׁמַ֖ע",
+        "phrase": "and Shema",
+        "literal": "and-Shema",
+        "source": "H8090 (KJV: and Shema; ESV: Shema; NASB: and Shema)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מוֹלָדָֽה",
+        "phrase": "and Moladah",
+        "literal": "and-Moladah",
+        "source": "H4137 (KJV: and Moladah; ESV: Moladah; NASB: and Moladah)"
+      }
+    ]
+  }
+]

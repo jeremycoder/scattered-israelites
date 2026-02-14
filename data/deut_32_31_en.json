@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֛י",
+        "phrase": "For",
+        "literal": "that",
+        "source": "H3588 (KJV: For; ESV: For; NASB: Indeed)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 3,
+        "surface": "כְ/צוּרֵ֖/נוּ",
+        "phrase": "like our Rock",
+        "literal": "like-Rock-our",
+        "source": "H6697 (KJV: our Rock; ESV: our Rock; NASB: our Rock)"
+      },
+      {
+        "position": 4,
+        "surface": "צוּרָ֑/ם",
+        "phrase": "their rock",
+        "literal": "Rock-their",
+        "source": "H6697 (KJV: their rock; ESV: their rock; NASB: their rock)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֹיְבֵ֖י/נוּ",
+        "phrase": "and our enemies",
+        "literal": "and-enemies-our",
+        "source": "H341 (KJV: our enemies; ESV: our enemies; NASB: our enemies)"
+      },
+      {
+        "position": 6,
+        "surface": "פְּלִילִֽים",
+        "phrase": "judges",
+        "literal": "judges",
+        "source": "H6414 (KJV: judges; ESV: being judges; NASB: judge this)"
+      }
+    ]
+  }
+]

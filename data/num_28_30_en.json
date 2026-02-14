@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 28,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׂעִ֥יר",
+        "phrase": "male goat",
+        "literal": "goat-of",
+        "source": "H8163; KJV 'goat', ESV 'male goat', NASB 'male goat'"
+      },
+      {
+        "position": 2,
+        "surface": "עִזִּ֖ים",
+        "phrase": "of goats",
+        "literal": "goats",
+        "source": "H5795; KJV 'goats', ESV 'goat', NASB 'goat'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֑ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV 'one', ESV 'one', NASB 'one'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/כַפֵּ֖ר",
+        "phrase": "to make atonement",
+        "literal": "to-atone",
+        "source": "H3722; KJV 'to make an atonement', ESV 'to make atonement', NASB 'for a sin offering'"
+      },
+      {
+        "position": 5,
+        "surface": "עֲלֵי/כֶֽם",
+        "phrase": "for you",
+        "literal": "upon-you",
+        "source": "H5921; KJV 'for you', ESV 'for you', NASB 'for you'"
+      }
+    ]
+  }
+]

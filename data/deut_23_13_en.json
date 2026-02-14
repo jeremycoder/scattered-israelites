@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יָד֙",
+        "phrase": "and a place",
+        "literal": "and-hand",
+        "source": "H3027; KJV 'paddle', ESV 'trowel', NASB 'spade' (noting יָד as 'hand/place', often interpreted as tool)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּהְיֶ֣ה",
+        "phrase": "shall be",
+        "literal": "she-shall-be",
+        "source": "H1961; KJV 'shalt have', ESV 'shall have', NASB 'shall have'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֔",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "; KJV 'upon thy', ESV 'with your', NASB 'among your'"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/ח֖וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "H2351; KJV 'abroad', ESV 'outside', NASB 'outside'"
+      },
+      {
+        "position": 5,
+        "surface": "לַֽ/מַּחֲנֶ֑ה",
+        "phrase": "the camp",
+        "literal": "to-the-camp",
+        "source": "H4264; KJV ' ', ESV ' ', NASB ' ' (contextual 'camp')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יָצָ֥אתָ",
+        "phrase": "and you shall go out",
+        "literal": "and-you-shall-go-out",
+        "source": "H3318; KJV 'goest', ESV 'sit down', NASB 'sit down' (inferred from context)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֖מָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033; KJV 'therewith', ESV 'with it', NASB 'with it'"
+      },
+      {
+        "position": 8,
+        "surface": "חֽוּץ",
+        "phrase": "outside",
+        "literal": "outside",
+        "source": "H2351; KJV 'abroad', ESV 'outside', NASB 'outside"
+      }
+    ]
+  }
+]

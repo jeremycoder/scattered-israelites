@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 17,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and'; ESV/NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֣ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "H8034 (KJV/ESV/NASB: 'name')"
+      },
+      {
+        "position": 3,
+        "surface": "אַהֲרֹ֔ן",
+        "phrase": "of Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV/ESV/NASB: 'Aaron's')"
+      },
+      {
+        "position": 4,
+        "surface": "תִּכְתֹּ֖ב",
+        "phrase": "you shall write",
+        "literal": "you(m.s.)-write",
+        "source": "H3789 (KJV/ESV/NASB: 'write')"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV/ESV/NASB: 'on')"
+      },
+      {
+        "position": 6,
+        "surface": "מַטֵּ֣ה",
+        "phrase": "the staff",
+        "literal": "staff",
+        "source": "H4294 (KJV/ESV/NASB: 'staff'/'rod')"
+      },
+      {
+        "position": 7,
+        "surface": "לֵוִ֑י",
+        "phrase": "of Levi",
+        "literal": "Levi",
+        "source": "H3878 (KJV/ESV/NASB: 'of Levi')"
+      },
+      {
+        "position": 8,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV/ESV/NASB: 'for')"
+      },
+      {
+        "position": 9,
+        "surface": "מַטֶּ֣ה",
+        "phrase": "a staff",
+        "literal": "staff",
+        "source": "H4294 (KJV/ESV/NASB: 'rod'/'staff')"
+      },
+      {
+        "position": 10,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV/ESV/NASB: 'one')"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/רֹ֖אשׁ",
+        "phrase": "for the head",
+        "literal": "to-head",
+        "source": "H7218 (KJV/ESV/NASB: 'for the head')"
+      },
+      {
+        "position": 12,
+        "surface": "בֵּ֥ית",
+        "phrase": "of house",
+        "literal": "house",
+        "source": "H1004 (KJV/ESV/NASB: 'house')"
+      },
+      {
+        "position": 13,
+        "surface": "אֲבוֹתָֽ/ם",
+        "phrase": "of their fathers",
+        "literal": "fathers-their",
+        "source": "H1 (KJV/ESV/NASB: 'of their fathers')"
+      }
+    ]
+  }
+]

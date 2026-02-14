@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 5,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ֠/כָתַב",
+        "phrase": "and shall write",
+        "literal": "and-he-shall-write",
+        "source": "H3789 (KJV: shall write; ESV: shall write; NASB: shall then write)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָלֹ֥ת",
+        "phrase": "the curses",
+        "literal": "the-curses",
+        "source": "H423 (KJV: curses; ESV: curses; NASB: curses)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵ֛לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כֹּהֵ֖ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/סֵּ֑פֶר",
+        "phrase": "on a scroll",
+        "literal": "in-the-scroll",
+        "source": "H5612 (KJV: in a book; ESV: in a book; NASB: on a scroll)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מָחָ֖ה",
+        "phrase": "and he shall blot out",
+        "literal": "and-he-shall-blots-out",
+        "source": "H4229 (KJV: blot them out; ESV: wash them off; NASB: wash them off)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 (KJV: with; ESV: into; NASB: into)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ֥י",
+        "phrase": "water",
+        "literal": "waters-of",
+        "source": "H4325 (KJV: water; ESV: water; NASB: water)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מָּרִֽים",
+        "phrase": "of bitterness",
+        "literal": "the-bitters",
+        "source": "H4751 (KJV: bitter; ESV: bitterness; NASB: bitterness)"
+      }
+    ]
+  }
+]

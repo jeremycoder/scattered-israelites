@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 10,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֞י",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "H1961 (KJV: came to pass; ESV: But at the time; NASB: It came about)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/עֵ֣ת",
+        "phrase": "at the time",
+        "literal": "to-time-of",
+        "source": "H6256 (KJV: at the time; ESV: at the time; NASB: at sunset)"
+      },
+      {
+        "position": 3,
+        "surface": "בּ֣וֹא",
+        "phrase": "of the going down",
+        "literal": "coming",
+        "source": "H935 (KJV: going down; ESV: going down; NASB: sunset)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שֶּׁ֗מֶשׁ",
+        "phrase": "of the sun",
+        "literal": "the-sun",
+        "source": "H8121 (KJV: sun; ESV: sun; NASB: sun)"
+      },
+      {
+        "position": 5,
+        "surface": "צִוָּ֤ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: gave a command)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוֹשֻׁ֨עַ֙",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּֽרִידוּ/ם֙",
+        "phrase": "and they took them down",
+        "literal": "and-they-caused-to-descend-them",
+        "source": "H3381 (KJV: took them down; ESV: took them down; NASB: took them down)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/עַ֣ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "H5921 (KJV: off; ESV: from; NASB: from)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עֵצִ֔ים",
+        "phrase": "the trees",
+        "literal": "the-trees",
+        "source": "H6086 (KJV: trees; ESV: trees; NASB: trees)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יַּ֨שְׁלִכֻ֔/ם",
+        "phrase": "and threw them",
+        "literal": "and-they-threw-them",
+        "source": "H7993 (KJV: cast them; ESV: threw them; NASB: threw them)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: into; NASB: into)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מְּעָרָ֖ה",
+        "phrase": "the cave",
+        "literal": "the-cave",
+        "source": "H4631 (KJV: cave; ESV: cave; NASB: cave)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "wherein",
+        "literal": "which",
+        "source": "H834 (KJV: wherein; ESV: where; NASB: where)"
+      },
+      {
+        "position": 14,
+        "surface": "נֶחְבְּאוּ",
+        "phrase": "they had been hid",
+        "literal": "they-hid-themselves",
+        "source": "H2244 (KJV: been hid; ESV: hidden; NASB: hidden)"
+      },
+      {
+        "position": 15,
+        "surface": "שָׁ֑ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: wherein; ESV: wherein; NASB: where)"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/יָּשִׂ֜מוּ",
+        "phrase": "and they set",
+        "literal": "and-they-placed",
+        "source": "H7760 (KJV: laid; ESV: set; NASB: put)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲבָנִ֤ים",
+        "phrase": "stones",
+        "literal": "stones",
+        "source": "H68 (KJV: stones; ESV: stones; NASB: stones)"
+      },
+      {
+        "position": 18,
+        "surface": "גְּדֹלוֹת֙",
+        "phrase": "large",
+        "literal": "great",
+        "source": "H1419 (KJV: great; ESV: large; NASB: large)"
+      },
+      {
+        "position": 19,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: on; ESV: against; NASB: over)"
+      },
+      {
+        "position": 20,
+        "surface": "פִּ֣י",
+        "phrase": "mouth",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: mouth; ESV: mouth; NASB: mouth)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/מְּעָרָ֔ה",
+        "phrase": "of the cave",
+        "literal": "the-cave",
+        "source": "H4631 (KJV: cave's mouth; ESV: cave; NASB: cave)"
+      },
+      {
+        "position": 22,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: which remain until; ESV: which remain; NASB: to this)"
+      },
+      {
+        "position": 23,
+        "surface": "עֶ֖צֶם",
+        "phrase": "very",
+        "literal": "bone",
+        "source": "H6106 (KJV: very; ESV: very; NASB: very)"
+      },
+      {
+        "position": 24,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: day; ESV: day; NASB: day)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      }
+    ]
+  }
+]

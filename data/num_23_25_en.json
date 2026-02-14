@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 23,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "בָּלָק֙",
+        "phrase": "Balak",
+        "literal": "Balak",
+        "source": "H1111 (KJV: Balak; ESV: Balak; NASB: Balak)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "בִּלְעָ֔ם",
+        "phrase": "Balaam",
+        "literal": "Balaam",
+        "source": "H1109 (KJV: Balaam; ESV: Balaam; NASB: Balaam)"
+      },
+      {
+        "position": 5,
+        "surface": "גַּם",
+        "phrase": "Neither",
+        "literal": "also-even",
+        "source": "H1571 (KJV: neither; ESV: neither; NASB: neither)"
+      },
+      {
+        "position": 6,
+        "surface": "קֹ֖ב",
+        "phrase": "curse",
+        "literal": "curse",
+        "source": "H6895 (KJV: curse; ESV: curse; NASB: curse)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: at all; ESV: at all; NASB: at all)"
+      },
+      {
+        "position": 8,
+        "surface": "תִקֳּבֶ֑/נּוּ",
+        "phrase": "will you curse",
+        "literal": "you-will-curse-him",
+        "source": "H5344 (KJV: curse them; ESV: curse them; NASB: curse them)"
+      },
+      {
+        "position": 9,
+        "surface": "גַּם",
+        "phrase": "nor",
+        "literal": "also-even",
+        "source": "H1571 (KJV: nor; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 10,
+        "surface": "בָּרֵ֖ךְ",
+        "phrase": "bless",
+        "literal": "bless",
+        "source": "H1288 (KJV: bless; ESV: bless; NASB: bless)"
+      },
+      {
+        "position": 11,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: at all; ESV: at all; NASB: at all)"
+      },
+      {
+        "position": 12,
+        "surface": "תְבָרֲכֶֽ/נּוּ",
+        "phrase": "will you bless",
+        "literal": "you-will-bless-him",
+        "source": "H1288 (KJV: bless them; ESV: bless them; NASB: bless them)"
+      }
+    ]
+  }
+]

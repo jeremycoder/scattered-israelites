@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: all, ESV: All, NASB: any"
+      },
+      {
+        "position": 2,
+        "surface": "ע֥וֹף",
+        "phrase": "winged thing",
+        "literal": "flying-creature",
+        "source": "H5775; KJV: fowls, ESV: winged things, NASB: bird"
+      },
+      {
+        "position": 3,
+        "surface": "טָה֖וֹר",
+        "phrase": "clean",
+        "literal": "clean",
+        "source": "H2889; KJV: clean, ESV: clean, NASB: clean"
+      },
+      {
+        "position": 4,
+        "surface": "תֹּאכֵֽלוּ",
+        "phrase": "you may eat",
+        "literal": "you(pl)-eat",
+        "source": "H398; KJV: ye may eat, ESV: you may eat, NASB: You may eat"
+      }
+    ]
+  }
+]

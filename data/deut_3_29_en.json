@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 3,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/נֵּ֣שֶׁב",
+        "phrase": "So we dwelt",
+        "literal": "and-we-dwelt",
+        "source": "H3427 (yāšab: dwell, sit, abide); KJV/ESV/NASB: 'So we abode/remained/stayed'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/גָּ֔יְא",
+        "phrase": "in the valley",
+        "literal": "in-the-valley",
+        "source": "H1516 (gāy': valley); KJV/ESV/NASB: 'in the valley'"
+      },
+      {
+        "position": 3,
+        "surface": "מ֖וּל",
+        "phrase": "opposite",
+        "literal": "opposite",
+        "source": "H4136 (mûl: in front of, opposite); KJV/ESV/NASB: 'over against/opposite'"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֥ית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1047 (part of bêt pə‘ôr: Beth-peor); KJV/ESV/NASB: 'Beth-'"
+      },
+      {
+        "position": 5,
+        "surface": "פְּעֽוֹר",
+        "phrase": "Peor",
+        "literal": "Peor",
+        "source": "H1047 (part of bêt pə‘ôr: Beth-peor); KJV/ESV/NASB: 'Peor'"
+      }
+    ]
+  }
+]

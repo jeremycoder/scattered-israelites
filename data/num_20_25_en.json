@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 20,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קַ֚ח",
+        "phrase": "Take",
+        "literal": "take!",
+        "source": "H3947 (KJV: Take; ESV: Take; NASB: Take)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "אַהֲרֹ֔ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶלְעָזָ֖ר",
+        "phrase": "Eleazar",
+        "literal": "Eleazar",
+        "source": "H499 (KJV: Eleazar; ESV: Eleazar; NASB: Eleazar)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנ֑/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121 (KJV: his son; ESV: his son; NASB: his son)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ֥עַל",
+        "phrase": "and-bring-up",
+        "literal": "and-cause-to-ascend!",
+        "source": "H5927 (KJV: bring; ESV: bring; NASB: bring)"
+      },
+      {
+        "position": 8,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[direct-object]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 9,
+        "surface": "הֹ֥ר",
+        "phrase": "Hor",
+        "literal": "Hor",
+        "source": "H2023 (KJV: Hor; ESV: Hor; NASB: Hor)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/הָֽר",
+        "phrase": "the mountain",
+        "literal": "the-mountain",
+        "source": "H2022 (KJV: mount; ESV: Mount; NASB: Mount)"
+      }
+    ]
+  }
+]

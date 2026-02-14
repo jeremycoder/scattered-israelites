@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ",
+        "phrase": "Do",
+        "literal": "interrogative",
+        "source": "HTi; KJV/ESV/NASB: introductory question particle"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/יְהוָה֙",
+        "phrase": "to-YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 3,
+        "surface": "תִּגְמְלוּ",
+        "phrase": "repay",
+        "literal": "you(pl)-repay",
+        "source": "H1580; KJV: requite, ESV: repay, NASB: repay"
+      },
+      {
+        "position": 4,
+        "surface": "זֹ֔את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063; KJV/ESV/NASB: thus/this"
+      },
+      {
+        "position": 5,
+        "surface": "עַ֥ם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "H5971; KJV/ESV/NASB: people"
+      },
+      {
+        "position": 6,
+        "surface": "נָבָ֖ל",
+        "phrase": "foolish",
+        "literal": "foolish",
+        "source": "H5036; KJV: foolish, ESV: foolish, NASB: foolish"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808; KJV/ESV/NASB: and unwise"
+      },
+      {
+        "position": 8,
+        "surface": "חָכָ֑ם",
+        "phrase": "wise",
+        "literal": "wise",
+        "source": "H2450; KJV: unwise, ESV: unwise, NASB: unwise (negative context)"
+      },
+      {
+        "position": 9,
+        "surface": "הֲ/לוֹ",
+        "phrase": "not-he",
+        "literal": "not-to-him",
+        "source": "H3808; KJV/ESV/NASB: is not he"
+      },
+      {
+        "position": 10,
+        "surface": "הוּא֙",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931; KJV/ESV/NASB: he"
+      },
+      {
+        "position": 11,
+        "surface": "אָבִ֣י/ךָ",
+        "phrase": "father-your",
+        "literal": "father-your",
+        "source": "H1; KJV/ESV/NASB: thy/your father"
+      },
+      {
+        "position": 12,
+        "surface": "קָּנֶ֔/ךָ",
+        "phrase": "bought-you",
+        "literal": "bought-you",
+        "source": "H7069; KJV: bought, ESV: created, NASB: bought"
+      },
+      {
+        "position": 13,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931; KJV/ESV/NASB: he"
+      },
+      {
+        "position": 14,
+        "surface": "עָֽשְׂ/ךָ֖",
+        "phrase": "made-you",
+        "literal": "made-you",
+        "source": "H6213; KJV/ESV/NASB: made"
+      },
+      {
+        "position": 15,
+        "surface": "וַֽ/יְכֹנְנֶֽ/ךָ",
+        "phrase": "and-established-you",
+        "literal": "and-established-you",
+        "source": "H3559; KJV/ESV/NASB: established"
+      }
+    ]
+  }
+]

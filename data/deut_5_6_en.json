@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָֽנֹכִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֶ֔י/ךָ",
+        "phrase": "your God",
+        "literal": "gods-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "who",
+        "literal": "who/which/that",
+        "source": "H834 (KJV: which; ESV: who; NASB: who)"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹצֵאתִ֛י/ךָ",
+        "phrase": "brought-you-out",
+        "literal": "I-caused-to-go-out/you",
+        "source": "H3318 (KJV: have brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from-land",
+        "literal": "from/land",
+        "source": "H776 (KJV: out of the land; ESV: out of the land; NASB: out of the land)"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/בֵּ֥ית",
+        "phrase": "from-house",
+        "literal": "from/house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 9,
+        "surface": "עֲבָדִֽים",
+        "phrase": "slaves",
+        "literal": "slaves",
+        "source": "H5650 (KJV: bondmen; ESV: slavery; NASB: slaves)"
+      }
+    ]
+  }
+]

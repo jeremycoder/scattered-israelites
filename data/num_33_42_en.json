@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV: 'And they departed', ESV: 'They set out', NASB: 'They journeyed'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/צַּלְמֹנָ֑ה",
+        "phrase": "from Zalmonah",
+        "literal": "from-Zalmonah",
+        "source": "H6758; KJV: 'from Zalmonah', ESV: 'from Zalmonah', NASB: 'from Zalmonah'"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: 'and pitched', ESV: 'and camped', NASB: 'and camped'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/פוּנֹֽן",
+        "phrase": "at Punon",
+        "literal": "in-Punon",
+        "source": "H6325; KJV: 'in Punon', ESV: 'at Punon', NASB: 'at Punon'"
+      }
+    ]
+  }
+]

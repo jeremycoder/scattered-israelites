@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֹמַ֣ר",
+        "phrase": "And I said",
+        "literal": "and-I-said",
+        "source": "H559 (KJV: spake; ESV: said; NASB: spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "H413 (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/עֵ֥ת",
+        "phrase": "at the time",
+        "literal": "in-the-time",
+        "source": "H6256 (KJV: at that time; ESV: at that time; NASB: at that time)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/הִ֖וא",
+        "phrase": "that",
+        "literal": "the-that(fs)",
+        "source": "H1931 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "אוּכַ֥ל",
+        "phrase": "I am able",
+        "literal": "I-can",
+        "source": "H3201 (KJV: able; ESV: able; NASB: able)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/בַדִּ֖/י",
+        "phrase": "by myself",
+        "literal": "by-alone-me",
+        "source": "H905 (KJV: myself alone; ESV: by myself; NASB: alone)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׂאֵ֥ת",
+        "phrase": "to bear",
+        "literal": "to-bear",
+        "source": "H5375 (KJV: bear; ESV: bear; NASB: bear)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶתְ/כֶֽם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      }
+    ]
+  }
+]

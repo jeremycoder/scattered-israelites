@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֛את",
+        "phrase": "This",
+        "literal": "this-FEM-SING",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 2,
+        "surface": "נַחֲלַ֥ת",
+        "phrase": "inheritance",
+        "literal": "inheritance-FEM-CONSTRUCT",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵֽי",
+        "phrase": "of the sons",
+        "literal": "sons-MASC-PL-CONSTRUCT",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "זְבוּלֻ֖ן",
+        "phrase": "of Zebulun",
+        "literal": "Zebulun",
+        "source": "H2074 (KJV: Zebulun; ESV: Zebulun; NASB: Zebulun)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מִשְׁפְּחוֹתָ֑/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "H4940 (KJV: families; ESV: families; NASB: families)"
+      },
+      {
+        "position": 6,
+        "surface": "הֶֽ/עָרִ֥ים",
+        "phrase": "the cities",
+        "literal": "the-cities",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חַצְרֵי/הֶֽן",
+        "phrase": "and their villages",
+        "literal": "and-villages-their",
+        "source": "H2691 (KJV: villages; ESV: villages; NASB: villages)"
+      }
+    ]
+  }
+]

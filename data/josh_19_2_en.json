@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "And it was",
+        "literal": "and-it-was",
+        "source": "H1961; KJV: 'And', ESV: 'and', NASB: 'and'"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "; KJV: 'they had', ESV: 'they had', NASB: 'they had'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/נַֽחֲלָתָ֑/ם",
+        "phrase": "in their inheritance",
+        "literal": "in-inheritance-of-them",
+        "source": "H5159; KJV: 'in their inheritance', ESV: 'for their inheritance', NASB: 'for their inheritance'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּאֵֽר",
+        "phrase": "Beersheba",
+        "literal": "well",
+        "source": "H884; KJV: 'Beer-sheba', ESV: 'Beersheba', NASB: 'Beersheba'"
+      },
+      {
+        "position": 5,
+        "surface": "שֶׁ֥בַע",
+        "phrase": "Sheba",
+        "literal": "seven",
+        "source": "H884; KJV: 'Sheba', ESV: 'Sheba', NASB: 'Sheba'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שֶׁ֖בַע",
+        "phrase": "and Sheba",
+        "literal": "and-seven",
+        "source": "H7652; KJV: 'and Sheba', ESV: 'or Sheba', NASB: 'or Sheba'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מוֹלָדָֽה",
+        "phrase": "and Moladah",
+        "literal": "and-Moladah",
+        "source": "H4137; KJV: 'and Moladah', ESV: 'Moladah', NASB: 'Moladah'"
+      }
+    ]
+  }
+]

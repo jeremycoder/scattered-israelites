@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/אָבִ֣י/ו",
+        "phrase": "for his father",
+        "literal": "to-father-his",
+        "source": "H1: KJV 'his father', ESV 'his father', NASB 'his father'"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/לְ/אִמּ֗/וֹ",
+        "phrase": "or for his mother",
+        "literal": "and-to-mother-his",
+        "source": "H517: KJV 'his mother', ESV 'his mother', NASB 'his mother'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/אָחִי/ו֙",
+        "phrase": "for his brother",
+        "literal": "to-brother-his",
+        "source": "H251: KJV 'his brother', ESV 'brother', NASB 'his brother'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/לְ/אַ֣חֹת֔/וֹ",
+        "phrase": "or for his sister",
+        "literal": "and-to-sister-his",
+        "source": "H269: KJV 'his sister', ESV 'sister', NASB 'his sister'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'not', ESV 'Not even', NASB 'not'"
+      },
+      {
+        "position": 6,
+        "surface": "יִטַּמָּ֥א",
+        "phrase": "shall he defile himself",
+        "literal": "he-shall-make-unclean",
+        "source": "H2930: KJV 'make himself unclean', ESV 'make himself unclean', NASB 'make himself unclean'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "for them",
+        "literal": "to-them",
+        "source": "-: KJV implied, ESV implied, NASB implied"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/מֹתָ֑/ם",
+        "phrase": "at their death",
+        "literal": "in-death-their",
+        "source": "H4194: KJV 'when they die', ESV 'if they die', NASB 'when they die'"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֛י",
+        "phrase": "because",
+        "literal": "that",
+        "source": "H3588: KJV 'because', ESV 'because', NASB 'because'"
+      },
+      {
+        "position": 10,
+        "surface": "נֵ֥זֶר",
+        "phrase": "consecration",
+        "literal": "separation",
+        "source": "H5145: KJV 'consecration', ESV 'separation', NASB 'dedication'"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהָ֖י/ו",
+        "phrase": "of his God",
+        "literal": "God-his",
+        "source": "H430: KJV 'his God', ESV 'God', NASB 'his God'"
+      },
+      {
+        "position": 12,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921: KJV 'upon', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 13,
+        "surface": "רֹאשֽׁ/וֹ",
+        "phrase": "his head",
+        "literal": "head-his",
+        "source": "H7218: KJV 'his head', ESV 'his head', NASB 'his head'"
+      }
+    ]
+  }
+]

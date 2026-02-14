@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 7,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַם֙",
+        "phrase": "Moreover",
+        "literal": "and-also",
+        "source": "H1571; KJV: Moreover, ESV: Moreover, NASB: Moreover"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/צִּרְעָ֔ה",
+        "phrase": "hornet",
+        "literal": "the-hornet",
+        "source": "H6880; KJV: the hornet, ESV: hornet, NASB: the hornet"
+      },
+      {
+        "position": 4,
+        "surface": "יְשַׁלַּ֛ח",
+        "phrase": "will send",
+        "literal": "he-will-send",
+        "source": "H7971; KJV: will send, ESV: will send, NASB: will send"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the Lord, NASB: the LORD"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430; KJV: thy God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ֑/ם",
+        "phrase": "among them",
+        "literal": "in-them",
+        "source": "; KJV: among them, ESV: among them, NASB: against them"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV: until, ESV: until, NASB: until"
+      },
+      {
+        "position": 9,
+        "surface": "אֲבֹ֗ד",
+        "phrase": "perish",
+        "literal": "perish",
+        "source": "H6; KJV: be destroyed, ESV: are destroyed, NASB: perish"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/נִּשְׁאָרִ֛ים",
+        "phrase": "those who are left",
+        "literal": "the-left-ones",
+        "source": "H7604; KJV: they that are left, ESV: those who are left, NASB: those who are left"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הַ/נִּסְתָּרִ֖ים",
+        "phrase": "and those who hide themselves",
+        "literal": "and-the-hidden-ones",
+        "source": "H5641; KJV: hide themselves, ESV: hide themselves, NASB: hide themselves"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/פָּנֶֽי/ךָ",
+        "phrase": "from before you",
+        "literal": "from-face-your",
+        "source": "H6440; KJV: from thee, ESV: from you, NASB: from you"
+      }
+    ]
+  }
+]

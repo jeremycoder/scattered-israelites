@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "shall be",
+        "literal": "he-will-be",
+        "source": "H1961 (KJV: have; ESV: have; NASB: have)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֛",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: in thine; ESV: in your; NASB: in your)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/בֵיתְ/ךָ֖",
+        "phrase": "in your house",
+        "literal": "in-house-your",
+        "source": "H1004 (KJV: in thine house; ESV: in your house; NASB: in your house)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵיפָ֣ה",
+        "phrase": "ephah",
+        "literal": "ephah",
+        "source": "H374 (KJV: measures; ESV: measures; NASB: measures)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵיפָ֑ה",
+        "phrase": "and ephah",
+        "literal": "and-ephah",
+        "source": "H374 (KJV: a great; ESV: a large; NASB: a large)"
+      },
+      {
+        "position": 7,
+        "surface": "גְּדוֹלָ֖ה",
+        "phrase": "large",
+        "literal": "great-FEM-SING",
+        "source": "H1419 (KJV: a great; ESV: a large; NASB: a large)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/קְטַנָּֽה",
+        "phrase": "and small",
+        "literal": "and-small-FEM-SING",
+        "source": "H6996 (KJV: a small; ESV: a small; NASB: a small)"
+      }
+    ]
+  }
+]

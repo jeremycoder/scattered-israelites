@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "When",
+        "literal": "if",
+        "source": "H3588 (KJV: When; ESV: When; NASB: When)"
+      },
+      {
+        "position": 2,
+        "surface": "תִבְצֹר֙",
+        "phrase": "you gather",
+        "literal": "you-will-gather",
+        "source": "H1219 (KJV: gatherest; ESV: gather; NASB: gather)"
+      },
+      {
+        "position": 3,
+        "surface": "כַּרְמְ/ךָ֔",
+        "phrase": "the grapes of your vineyard",
+        "literal": "vineyard-your",
+        "source": "H3754 (KJV: grapes of thy vineyard; ESV: grapes of your vineyard; NASB: grapes of your vineyard)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "you shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "תְעוֹלֵ֖ל",
+        "phrase": "go over",
+        "literal": "you-will-go-over",
+        "source": "H5953 (KJV: glean; ESV: strip; NASB: go over)"
+      },
+      {
+        "position": 6,
+        "surface": "אַחֲרֶ֑י/ךָ",
+        "phrase": "it again",
+        "literal": "after-you",
+        "source": "H310 (KJV: after thee; ESV: afterward; NASB: again)"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/גֵּ֛ר",
+        "phrase": "for the alien",
+        "literal": "to-the-sojourner",
+        "source": "H1616 (KJV: stranger; ESV: sojourner; NASB: alien)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/יָּת֥וֹם",
+        "phrase": "for the orphan",
+        "literal": "to-the-orphan",
+        "source": "H3490 (KJV: fatherless; ESV: fatherless; NASB: orphan)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לָ/אַלְמָנָ֖ה",
+        "phrase": "and for the widow",
+        "literal": "and-to-the-widow",
+        "source": "H490 (KJV: widow; ESV: widow; NASB: widow)"
+      },
+      {
+        "position": 10,
+        "surface": "יִהְיֶֽה",
+        "phrase": "it shall be",
+        "literal": "it-will-be",
+        "source": "H1961 (KJV: it shall be; ESV: It shall be; NASB: it shall be)"
+      }
+    ]
+  }
+]

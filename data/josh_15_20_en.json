@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֗את",
+        "phrase": "This",
+        "literal": "this-FS",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 2,
+        "surface": "נַחֲלַ֛ת",
+        "phrase": "inheritance",
+        "literal": "inheritance-FSC",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֥ה",
+        "phrase": "tribe",
+        "literal": "tribe/staff-MSC",
+        "source": "H4294 (KJV: tribe; ESV: tribe; NASB: tribe)"
+      },
+      {
+        "position": 4,
+        "surface": "בְנֵי",
+        "phrase": "of the sons",
+        "literal": "sons-of-MPC",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוּדָ֖ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מִשְׁפְּחֹתָֽ/ם",
+        "phrase": "for their clans",
+        "literal": "to-clans-their-FPC-3MP",
+        "source": "H4940 (KJV: families; ESV: clans; NASB: families)"
+      }
+    ]
+  }
+]

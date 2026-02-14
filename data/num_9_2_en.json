@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 9,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יַעֲשׂ֧וּ",
+        "phrase": "let them keep",
+        "literal": "and-they-shall-do",
+        "source": "H6213 (KJV: keep; ESV: keep; NASB: observe)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "children of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children of; ESV: people of; NASB: sons of)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/פָּ֖סַח",
+        "phrase": "the Passover",
+        "literal": "the-Passover",
+        "source": "H6453 (KJV: passover; ESV: Passover; NASB: Passover)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/מוֹעֲדֽ/וֹ",
+        "phrase": "at its appointed time",
+        "literal": "in-appointment-of-it",
+        "source": "H4150 (KJV: his appointed season; ESV: its appointed time; NASB: its appointed time)"
+      }
+    ]
+  }
+]

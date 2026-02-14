@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָמַ֖רְתִּי",
+        "phrase": "I said",
+        "literal": "I-said",
+        "source": "H559; KJV: 'I said', ESV: 'I would have said', NASB: 'I would say'"
+      },
+      {
+        "position": 2,
+        "surface": "אַפְאֵי/הֶ֑ם",
+        "phrase": "I will scatter them",
+        "literal": "I-will-scatter-them",
+        "source": "H6284; KJV: 'I would scatter them', ESV: 'I would have blown them away', NASB: 'I would have said, “I will cut them to pieces”'"
+      },
+      {
+        "position": 3,
+        "surface": "אַשְׁבִּ֥יתָה",
+        "phrase": "I will make cease",
+        "literal": "I-will-make-cease",
+        "source": "H7673; KJV: 'I would make the remembrance of them to cease', ESV: 'I would make their remembrance cease', NASB: 'I will make the memory of them to cease'"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/אֱנ֖וֹשׁ",
+        "phrase": "from man",
+        "literal": "from-man",
+        "source": "H582; KJV: 'from among men', ESV: 'from humankind', NASB: 'from mankind'"
+      },
+      {
+        "position": 5,
+        "surface": "זִכְרָֽ/ם",
+        "phrase": "their memory",
+        "literal": "memory-of-them",
+        "source": "H2143; KJV: 'them', ESV: 'from them', NASB: 'from them"
+      }
+    ]
+  }
+]

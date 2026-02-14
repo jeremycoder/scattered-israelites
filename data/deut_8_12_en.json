@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "H6435 (KJV: Lest; ESV: lest; NASB: lest)"
+      },
+      {
+        "position": 2,
+        "surface": "תֹּאכַ֖ל",
+        "phrase": "you eat",
+        "literal": "you-eat",
+        "source": "H398 (KJV: when thou hast eaten; ESV: you have eaten; NASB: you have eaten)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שָׂבָ֑עְתָּ",
+        "phrase": "and are satisfied",
+        "literal": "and-you-are-satisfied",
+        "source": "H7646 (KJV: and art full; ESV: and are full; NASB: and are satisfied)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בָתִּ֥ים",
+        "phrase": "and houses",
+        "literal": "and-houses",
+        "source": "H1004 (KJV: houses; ESV: houses; NASB: houses)"
+      },
+      {
+        "position": 5,
+        "surface": "טוֹבִ֛ים",
+        "phrase": "good",
+        "literal": "good",
+        "source": "H2896 (KJV: goodly; ESV: good; NASB: fine)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּבְנֶ֖ה",
+        "phrase": "you build",
+        "literal": "you-build",
+        "source": "H1129 (KJV: hast built; ESV: have built; NASB: have built)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/יָשָֽׁבְתָּ",
+        "phrase": "and dwell",
+        "literal": "and-you-dwell",
+        "source": "H3427 (KJV: dwelt therein; ESV: live in them; NASB: live in them)"
+      }
+    ]
+  }
+]

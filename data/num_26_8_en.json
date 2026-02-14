@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֥י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: 'And the sons'; ESV: 'the sons'; NASB: 'the sons')"
+      },
+      {
+        "position": 2,
+        "surface": "פַלּ֖וּא",
+        "phrase": "Pallu",
+        "literal": "Pallu",
+        "source": "H6396 (KJV: 'Pallu'; ESV: 'Pallu'; NASB: 'Pallu')"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִיאָֽב",
+        "phrase": "Eliab",
+        "literal": "Eliab",
+        "source": "H446 (KJV: 'Eliab'; ESV: 'Eliab'; NASB: 'Eliab')"
+      }
+    ]
+  }
+]

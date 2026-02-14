@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 24,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מַה",
+        "phrase": "How",
+        "literal": "how",
+        "source": "H4100; KJV/ESV/NASB: 'How' (interrogative adverb introducing the exclamation of beauty)"
+      },
+      {
+        "position": 2,
+        "surface": "טֹּ֥בוּ",
+        "phrase": "goodly are",
+        "literal": "good-PL",
+        "source": "H2895; KJV: 'goodly'; ESV: 'fair'; NASB: 'beautiful' (adjective used predicatively)"
+      },
+      {
+        "position": 3,
+        "surface": "אֹהָלֶ֖י/ךָ",
+        "phrase": "your tents",
+        "literal": "tents-your",
+        "source": "H168; KJV: 'thy tents'; ESV/NASB: 'your tents' (plural construct + 2ms suffix)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲקֹ֑ב",
+        "phrase": "O Jacob",
+        "literal": "Jacob",
+        "source": "H3290; KJV/ESV/NASB: 'O Jacob' / 'Jacob' (proper name in vocative)"
+      },
+      {
+        "position": 5,
+        "surface": "מִשְׁכְּנֹתֶ֖י/ךָ",
+        "phrase": "your dwellings",
+        "literal": "dwellings-your",
+        "source": "H4908; KJV: 'thy tabernacles'; ESV: 'your dwellings'; NASB: 'your dwellings' (plural construct + 2ms suffix)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "O Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: 'O Israel' / 'Israel' (proper name in vocative)"
+      }
+    ]
+  }
+]

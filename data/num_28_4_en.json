@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 28,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "direct-object-marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כֶּ֥בֶשׂ",
+        "phrase": "the lamb",
+        "literal": "the-lamb",
+        "source": "H3532 (KJV: the lamb; ESV: the lamb; NASB: the lamb)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֖ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 4,
+        "surface": "תַּעֲשֶׂ֣ה",
+        "phrase": "you shall offer",
+        "literal": "you-shall-make/offer",
+        "source": "H6213 (KJV: thou shalt offer; ESV: you shall offer; NASB: you shall offer)"
+      },
+      {
+        "position": 5,
+        "surface": "בַ/בֹּ֑קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: in the morning; ESV: in the morning; NASB: in the morning)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and [direct-object-marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and the; ESV: and the; NASB: and the)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כֶּ֣בֶשׂ",
+        "phrase": "the lamb",
+        "literal": "the-lamb",
+        "source": "H3532 (KJV: lamb; ESV: lamb; NASB: lamb)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שֵּׁנִ֔י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: the other; ESV: the second; NASB: the second)"
+      },
+      {
+        "position": 9,
+        "surface": "תַּעֲשֶׂ֖ה",
+        "phrase": "you shall offer",
+        "literal": "you-shall-make/offer",
+        "source": "H6213 (KJV: thou shalt offer; ESV: you shall offer; NASB: you shall offer)"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996 (KJV: at even; ESV: between; NASB: between)"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/עַרְבָּֽיִם",
+        "phrase": "the evenings",
+        "literal": "the-evenings",
+        "source": "H6153 (KJV: the evenings; ESV: the evenings; NASB: the evenings)"
+      }
+    ]
+  }
+]

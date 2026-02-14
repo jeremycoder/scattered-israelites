@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תָּמִ֣ים",
+        "phrase": "blameless",
+        "literal": "complete",
+        "source": "H8549; KJV: perfect, ESV: blameless, NASB: blameless"
+      },
+      {
+        "position": 2,
+        "surface": "תִּֽהְיֶ֔ה",
+        "phrase": "you shall be",
+        "literal": "you-be",
+        "source": "H1961; KJV: shalt be, ESV: shall be, NASB: shall be"
+      },
+      {
+        "position": 3,
+        "surface": "עִ֖ם",
+        "phrase": "before",
+        "literal": "with",
+        "source": "H5973; KJV: with, ESV: before, NASB: before"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD, ESV: LORD, NASB: LORD"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֶֽי/ךָ",
+        "phrase": "your God",
+        "literal": "gods-your",
+        "source": "H430; KJV: thy God, ESV: your God, NASB: your God"
+      }
+    ]
+  }
+]

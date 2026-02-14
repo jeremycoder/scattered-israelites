@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֥את",
+        "phrase": "These",
+        "literal": "this-FEM_SING",
+        "source": "H2063 (KJV: These; ESV: These; NASB: These)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בְּהֵמָ֖ה",
+        "phrase": "are the animals",
+        "literal": "the-beast",
+        "source": "H929 (KJV: beasts; ESV: animals; NASB: animals)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 4,
+        "surface": "תֹּאכֵ֑לוּ",
+        "phrase": "you may eat",
+        "literal": "you(pl)_eat",
+        "source": "H398 (KJV: ye shall eat; ESV: you may eat; NASB: you shall eat)"
+      },
+      {
+        "position": 5,
+        "surface": "שׁ֕וֹר",
+        "phrase": "ox",
+        "literal": "ox",
+        "source": "H7794 (KJV: ox; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׂ֥ה",
+        "phrase": "sheep",
+        "literal": "flock-animal",
+        "source": "H7716 (KJV: sheep; ESV: sheep; NASB: sheep)"
+      },
+      {
+        "position": 7,
+        "surface": "כְשָׂבִ֖ים",
+        "phrase": "lambs",
+        "literal": "lambs",
+        "source": "H3775 (KJV: lambs; ESV: lambs; NASB: lambs)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/שֵׂ֥ה",
+        "phrase": "and sheep",
+        "literal": "and-flock-animal",
+        "source": "H7716 (KJV: and sheep; ESV: and goats; NASB: and goats)"
+      },
+      {
+        "position": 9,
+        "surface": "עִזִּֽים",
+        "phrase": "goats",
+        "literal": "goats",
+        "source": "H5795 (KJV: goats; ESV: goats; NASB: goats)"
+      }
+    ]
+  }
+]

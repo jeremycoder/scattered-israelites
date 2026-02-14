@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 56,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָ֗ה",
+        "phrase": "And it will be",
+        "literal": "and-it-will-be",
+        "source": "H1961; KJV: 'Moreover it shall come to pass', ESV: 'And', NASB: 'Then'"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that-which",
+        "source": "H834; KJV: 'that', ESV: 'as', NASB: 'as'"
+      },
+      {
+        "position": 3,
+        "surface": "דִּמִּ֛יתִי",
+        "phrase": "I had thought",
+        "literal": "I-devised",
+        "source": "H1819; KJV: 'I thought', ESV: 'I had planned', NASB: 'I had intended'"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/עֲשׂ֥וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213; KJV: 'to do', ESV: 'to do', NASB: 'to do'"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "; KJV: 'unto them', ESV: 'to them', NASB: 'to them'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶֽעֱשֶׂ֥ה",
+        "phrase": "I will do",
+        "literal": "I-will-do",
+        "source": "H6213; KJV: 'I will do', ESV: 'I will do', NASB: 'I will do'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/כֶֽם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "; KJV: 'unto you', ESV: 'to you', NASB: 'to you'"
+      }
+    ]
+  }
+]

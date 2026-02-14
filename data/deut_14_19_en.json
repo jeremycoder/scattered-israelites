@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כֹל֙",
+        "phrase": "And all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 2,
+        "surface": "שֶׁ֣רֶץ",
+        "phrase": "swarming thing",
+        "literal": "swarmer",
+        "source": "H8318 (KJV: 'creeping'; ESV: 'winged insect'; NASB: 'winged swarming thing')"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/ע֔וֹף",
+        "phrase": "of the flying creature",
+        "literal": "the-flying-creature",
+        "source": "H5775 (KJV: 'that flieth'; ESV: 'winged'; NASB: 'winged')"
+      },
+      {
+        "position": 4,
+        "surface": "טָמֵ֥א",
+        "phrase": "unclean",
+        "literal": "unclean",
+        "source": "H2931 (KJV: 'unclean'; ESV: 'unclean'; NASB: 'unclean')"
+      },
+      {
+        "position": 5,
+        "surface": "ה֖וּא",
+        "phrase": "it is",
+        "literal": "it",
+        "source": "H1931 (KJV: '(is)'; ESV: '(is)'; NASB: '(is)')"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: 'unto you'; ESV: 'to you'; NASB: 'to you')"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֖א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 8,
+        "surface": "יֵאָכֵֽלוּ",
+        "phrase": "shall be eaten",
+        "literal": "they-shall-be-eaten",
+        "source": "H398 (KJV: 'be eaten'; ESV: 'be eaten'; NASB: 'be eaten')"
+      }
+    ]
+  }
+]

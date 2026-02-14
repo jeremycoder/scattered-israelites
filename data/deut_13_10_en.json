@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 13,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "because",
+        "literal": "that",
+        "source": "H3588 (KJV: for; ESV: because; NASB: because)"
+      },
+      {
+        "position": 2,
+        "surface": "הָרֹג֙",
+        "phrase": "killing",
+        "literal": "killing",
+        "source": "H2026 (KJV: thou shalt kill; ESV: You shall kill; NASB: you shall kill)"
+      },
+      {
+        "position": 3,
+        "surface": "תַּֽהַרְגֶ֔/נּוּ",
+        "phrase": "you shall kill him",
+        "literal": "you-shall-kill/him",
+        "source": "H2026 (KJV: surely kill him; ESV: surely kill him; NASB: surely kill him)"
+      },
+      {
+        "position": 4,
+        "surface": "יָֽדְ/קָ֛",
+        "phrase": "your hand",
+        "literal": "hand/your",
+        "source": "H3027 (KJV: thy hand; ESV: your hand; NASB: your hand)"
+      },
+      {
+        "position": 5,
+        "surface": "תִּֽהְיֶה",
+        "phrase": "shall be",
+        "literal": "shall-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: shall be)"
+      },
+      {
+        "position": 6,
+        "surface": "בּ֥/וֹ",
+        "phrase": "in him",
+        "literal": "in/him",
+        "source": " (KJV: upon him; ESV: against him; NASB: against him)"
+      },
+      {
+        "position": 7,
+        "surface": "בָ/רִֽאשׁוֹנָ֖ה",
+        "phrase": "first",
+        "literal": "the/first",
+        "source": "H7223 (KJV: the first; ESV: the first; NASB: first)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/הֲמִית֑/וֹ",
+        "phrase": "to put him to death",
+        "literal": "to/put-to-death/him",
+        "source": "H4191 (KJV: to put him to death; ESV: to put him to death; NASB: to put him to death)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/יַ֥ד",
+        "phrase": "and hand",
+        "literal": "and/hand",
+        "source": "H3027 (KJV: the hand; ESV: hand; NASB: hand)"
+      },
+      {
+        "position": 10,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the/people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּ/אַחֲרֹנָֽה",
+        "phrase": "last",
+        "literal": "the/last",
+        "source": "H314 (KJV: afterward; ESV: afterward; NASB: afterward)"
+      }
+    ]
+  }
+]

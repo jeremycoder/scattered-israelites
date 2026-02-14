@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/חָצ֤וֹר",
+        "phrase": "and Hazor",
+        "literal": "and-Hazor",
+        "source": "H2675; KJV: Hazor, ESV: Hazor-hadattah, NASB: Hazor-hadattah"
+      },
+      {
+        "position": 2,
+        "surface": "חֲדַתָּה֙",
+        "phrase": "Hadattah",
+        "literal": "new",
+        "source": "H2675; KJV: Hadattah, ESV: hadattah, NASB: hadattah"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/קְרִיּ֔וֹת",
+        "phrase": "and Kerioth",
+        "literal": "and-Kerioth",
+        "source": "H7152; KJV: Kerioth, ESV: Kerioth-hezron, NASB: Kerioth-hezron"
+      },
+      {
+        "position": 4,
+        "surface": "חֶצְר֖וֹן",
+        "phrase": "Hezron",
+        "literal": "Hezron",
+        "source": "H2696; KJV: Hezron, ESV: hezron, NASB: Hezron"
+      },
+      {
+        "position": 5,
+        "surface": "הִ֥יא",
+        "phrase": "which is",
+        "literal": "she-is",
+        "source": "H1931; KJV: which is, ESV: that is, NASB: which is"
+      },
+      {
+        "position": 6,
+        "surface": "חָצֽוֹר",
+        "phrase": "Hazor",
+        "literal": "Hazor",
+        "source": "H2674; KJV: Hazor, ESV: Hazor, NASB: Hazor"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 25,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לָ/כֵ֖ן",
+        "phrase": "Therefore",
+        "literal": "therefore",
+        "source": "H3651; KJV: Wherefore, ESV: Therefore, NASB: Therefore"
+      },
+      {
+        "position": 2,
+        "surface": "אֱמֹ֑ר",
+        "phrase": "say",
+        "literal": "say",
+        "source": "H559; KJV: say, ESV: say, NASB: say"
+      },
+      {
+        "position": 3,
+        "surface": "הִנְנִ֨/י",
+        "phrase": "Behold I",
+        "literal": "behold-I",
+        "source": "H2005; KJV: Behold, ESV: Behold I, NASB: Behold"
+      },
+      {
+        "position": 4,
+        "surface": "נֹתֵ֥ן",
+        "phrase": "give",
+        "literal": "giving",
+        "source": "H5414; KJV: I give, ESV: I give, NASB: I give"
+      },
+      {
+        "position": 5,
+        "surface": "ל֛/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV: unto him, ESV: to him, NASB: him"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: [implied], ESV: [implied], NASB: [implied]"
+      },
+      {
+        "position": 7,
+        "surface": "בְּרִיתִ֖/י",
+        "phrase": "my covenant",
+        "literal": "covenant-my",
+        "source": "H1285; KJV: my covenant, ESV: my covenant, NASB: My covenant"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁלֽוֹם",
+        "phrase": "of peace",
+        "literal": "peace",
+        "source": "H7965; KJV: of peace, ESV: of peace, NASB: of peace"
+      }
+    ]
+  }
+]

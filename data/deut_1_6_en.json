@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֧ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'The LORD'"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהֵ֛י/נוּ",
+        "phrase": "our God",
+        "literal": "God-our",
+        "source": "H430; KJV/ESV/NASB: 'our God'"
+      },
+      {
+        "position": 3,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "spoke",
+        "literal": "spoke",
+        "source": "H1696; KJV/ESV/NASB: 'spake/spoke'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלֵ֖י/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "H413; KJV/ESV/NASB: 'unto us'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/חֹרֵ֣ב",
+        "phrase": "at Horeb",
+        "literal": "in-Horeb",
+        "source": "H2722; KJV/ESV/NASB: 'in Horeb'"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV/ESV/NASB: 'saying'"
+      },
+      {
+        "position": 7,
+        "surface": "רַב",
+        "phrase": "enough",
+        "literal": "much",
+        "source": "H7227; KJV/ESV/NASB: 'long enough'"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/כֶ֥ם",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "; KJV/ESV/NASB: 'ye'/'you'"
+      },
+      {
+        "position": 9,
+        "surface": "שֶׁ֖בֶת",
+        "phrase": "dwelling",
+        "literal": "dwelling",
+        "source": "H3427; KJV/ESV/NASB: 'dwelt/stayed'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/הָ֥ר",
+        "phrase": "in the mountain",
+        "literal": "in-the-mountain",
+        "source": "H2022; KJV/ESV/NASB: 'in this mount/mountain'"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088; KJV/ESV/NASB: 'this'"
+      }
+    ]
+  }
+]

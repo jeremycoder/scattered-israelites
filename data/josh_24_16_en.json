@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַן",
+        "phrase": "And answered",
+        "literal": "and-he-answered",
+        "source": "H6030; KJV: answered, ESV: answered, NASB: answered"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עָם֙",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971; KJV: the people, ESV: the people, NASB: the people"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּ֔אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: and said, ESV: and said, NASB: and said"
+      },
+      {
+        "position": 4,
+        "surface": "חָלִ֣ילָ/ה",
+        "phrase": "Far be it",
+        "literal": "far-be-it",
+        "source": "H2486; KJV: God forbid, ESV: Far be it, NASB: Far be it"
+      },
+      {
+        "position": 5,
+        "surface": "לָּ֔/נוּ",
+        "phrase": "from us",
+        "literal": "to-us",
+        "source": "; KJV: from us, ESV: from us, NASB: from us"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/עֲזֹ֖ב",
+        "phrase": "to forsake",
+        "literal": "from-forsaking",
+        "source": "H5800; KJV: forsake, ESV: forsake, NASB: forsake"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: [implied], ESV: [implied], NASB: [implied]"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/עֲבֹ֖ד",
+        "phrase": "to serve",
+        "literal": "to-serve",
+        "source": "H5647; KJV: serve, ESV: serve, NASB: serve"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהִ֥ים",
+        "phrase": "gods",
+        "literal": "gods",
+        "source": "H430; KJV: gods, ESV: gods, NASB: gods"
+      },
+      {
+        "position": 11,
+        "surface": "אֲחֵרִֽים",
+        "phrase": "other",
+        "literal": "others",
+        "source": "H312; KJV: other, ESV: other, NASB: other"
+      }
+    ]
+  }
+]

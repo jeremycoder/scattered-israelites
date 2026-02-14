@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 52,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲרַ֥ב",
+        "phrase": "Arab",
+        "literal": "Arab",
+        "source": "H694 (KJV: Arab; ESV: Arab; NASB: Arab)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/רוּמָ֖ה",
+        "phrase": "and Dumah",
+        "literal": "and-Dumah",
+        "source": "H1746 (KJV: and Dumah; ESV: Dumah; NASB: and Dumah)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶשְׁעָֽן",
+        "phrase": "and Eshan",
+        "literal": "and-Eshan",
+        "source": "H824 (KJV: and Eshean; ESV: Eshan; NASB: and Eshan)"
+      }
+    ]
+  }
+]

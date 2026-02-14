@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 2,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/צְבָא֖/וֹ",
+        "phrase": "and his army",
+        "literal": "and-army-his",
+        "source": "H6635 (KJV: host; ESV: company; NASB: army)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/פְקֻדֵי/הֶ֑ם",
+        "phrase": "and those numbered of them",
+        "literal": "and-numbered-of-them",
+        "source": "H6485 (KJV: those that were numbered; ESV: as listed; NASB: their numbered men)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁנַ֧יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV/ESV/NASB: two)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁלֹשִׁ֛ים",
+        "phrase": "and thirty",
+        "literal": "and-thirty",
+        "source": "H7970 (KJV/ESV/NASB: thirty)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV/ESV/NASB: thousand)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מָאתָֽיִם",
+        "phrase": "and two hundred",
+        "literal": "and-two-hundred",
+        "source": "H3967 (KJV/ESV/NASB: two hundred)"
+      }
+    ]
+  }
+]

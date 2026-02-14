@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 20,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָ/מָ֤ה",
+        "phrase": "and-why",
+        "literal": "and-to-why",
+        "source": "H4100 (KJV: why; ESV: why; NASB: why)"
+      },
+      {
+        "position": 2,
+        "surface": "הֲבֵאתֶם֙",
+        "phrase": "have-you-brought",
+        "literal": "have-you(pl.)-brought",
+        "source": "H935 (KJV: have ye brought up; ESV: have you brought; NASB: have you brought)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "קְהַ֣ל",
+        "phrase": "assembly",
+        "literal": "assembly",
+        "source": "H6951 (KJV: congregation; ESV: assembly; NASB: assembly)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD's; ESV: the LORD's; NASB: the LORD's)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: into; NASB: into)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּדְבָּ֖ר",
+        "phrase": "the-wilderness",
+        "literal": "the-wilderness",
+        "source": "H4057 (KJV: this wilderness; ESV: this wilderness; NASB: this wilderness)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/מ֣וּת",
+        "phrase": "to-die",
+        "literal": "to-die",
+        "source": "H4191 (KJV: that we...should die; ESV: that we should die; NASB: for us...to die)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: here; NASB: here)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲנַ֖חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "H587 (KJV: we; ESV: we; NASB: us)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בְעִירֵֽ/נוּ",
+        "phrase": "and-our-livestock",
+        "literal": "and-in-livestock-our",
+        "source": "H1165 (KJV: our cattle; ESV: our cattle; NASB: our beasts)"
+      }
+    ]
+  }
+]

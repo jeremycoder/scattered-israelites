@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "They set out",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (KJV: removed; ESV/NIV: set out/journeyed; NASB: journeyed)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/דִּיבֹ֣ן",
+        "phrase": "from Dibon",
+        "literal": "from-Dibon",
+        "source": "H1769 (KJV/ESV/NASB: Dibon/Dibon-gad)"
+      },
+      {
+        "position": 3,
+        "surface": "גָּ֑ד",
+        "phrase": "Gad",
+        "literal": "Gad",
+        "source": "H1410 (KJV/ESV/NASB: Gad/Dibon-gad)"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and camped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (KJV: encamped; ESV/NASB: camped)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/עַלְמֹ֥ן",
+        "phrase": "at Almon",
+        "literal": "in-Almon",
+        "source": "H5963 (KJV/ESV/NASB: Almondiblathaim/Almon Diblathaim)"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבְלָתָֽיְמָ/ה",
+        "phrase": "Diblathaim",
+        "literal": "Diblathaim",
+        "source": "H5963 (KJV/ESV/NASB: Almondiblathaim/Almon Diblathaim)"
+      }
+    ]
+  }
+]

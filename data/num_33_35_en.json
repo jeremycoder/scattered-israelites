@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (nasa`: KJV 'journeyed'; ESV 'set out'; NASB 'journeyed')"
+      },
+      {
+        "position": 2,
+        "surface": "מֵֽ/עַבְרֹנָ֑ה",
+        "phrase": "from Abronah",
+        "literal": "from-Abronah",
+        "source": "H5684 (KJV 'Abronah'; ESV 'Abronah'; NASB 'Abronah')"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and camped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (chanah: KJV 'pitched'; ESV 'camped'; NASB 'camped')"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/עֶצְי֥וֹן",
+        "phrase": "at Ezion",
+        "literal": "in-Ezion",
+        "source": "H6100 (KJV 'Eziongeber'; ESV 'Ezion-geber'; NASB 'Ezion-geber')"
+      },
+      {
+        "position": 5,
+        "surface": "גָּֽבֶר",
+        "phrase": "geber",
+        "literal": "geber",
+        "source": "H6100 (KJV 'Eziongeber'; ESV 'Ezion-geber'; NASB 'Ezion-geber')"
+      }
+    ]
+  }
+]

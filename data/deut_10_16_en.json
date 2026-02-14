@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מַלְתֶּ֕ם",
+        "phrase": "Circumcise",
+        "literal": "and-circumcise-yourselves",
+        "source": "H4135; KJV/ESV/NASB: 'Circumcise' (imperative)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: untranslated"
+      },
+      {
+        "position": 3,
+        "surface": "עָרְלַ֣ת",
+        "phrase": "foreskin",
+        "literal": "foreskin",
+        "source": "H6190; KJV/ESV/NASB: 'foreskin'"
+      },
+      {
+        "position": 4,
+        "surface": "לְבַבְ/כֶ֑ם",
+        "phrase": "of your heart",
+        "literal": "of-heart/your",
+        "source": "H3824; KJV/ESV/NASB: 'of your heart'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עָ֨רְפְּ/כֶ֔ם",
+        "phrase": "and your neck",
+        "literal": "and-neck/your",
+        "source": "H6203; KJV/ESV/NASB: 'neck' (in 'stiffnecked')"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: 'no/not'"
+      },
+      {
+        "position": 7,
+        "surface": "תַקְשׁ֖וּ",
+        "phrase": "harden",
+        "literal": "you-shall-make-hard",
+        "source": "H7185; KJV/ESV/NASB: 'be stiffnecked/stubborn'"
+      },
+      {
+        "position": 8,
+        "surface": "עֽוֹד",
+        "phrase": "anymore",
+        "literal": "still/anymore",
+        "source": "H5750; KJV/ESV/NASB: 'more/no longer'"
+      }
+    ]
+  }
+]

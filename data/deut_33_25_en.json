@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּרְזֶ֥ל",
+        "phrase": "iron",
+        "literal": "in-iron",
+        "source": "H1270; KJV: iron, ESV: iron, NASB: iron"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/נְחֹ֖שֶׁת",
+        "phrase": "and bronze",
+        "literal": "and-bronze",
+        "source": "H5178; KJV: brass, ESV: bronze, NASB: bronze"
+      },
+      {
+        "position": 3,
+        "surface": "מִנְעָלֶ֑י/ךָ",
+        "phrase": "your bars",
+        "literal": "bars-your",
+        "source": "H4515; KJV: shoes, ESV: bars, NASB: bars"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/כְ/יָמֶ֖י/ךָ",
+        "phrase": "as your days",
+        "literal": "and-as-days-your",
+        "source": "H3117; KJV: as thy days, ESV: as your days, NASB: as your days"
+      },
+      {
+        "position": 5,
+        "surface": "דָּבְאֶֽ/ךָ",
+        "phrase": "so your strength",
+        "literal": "rest-your",
+        "source": "H1679; KJV: thy strength, ESV: your strength, NASB: your strength"
+      }
+    ]
+  }
+]

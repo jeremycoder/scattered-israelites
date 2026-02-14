@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (KJV: departed; ESV/NASB: set out/journeyed)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/אֹבֹ֑ת",
+        "phrase": "from Oboth",
+        "literal": "from-Oboth",
+        "source": "H88 (KJV/ESV/NASB: Oboth)"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֛וּ",
+        "phrase": "and encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (KJV: pitched; ESV/NASB: encamped/camped)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/עִיֵּ֥י",
+        "phrase": "at Iye-",
+        "literal": "in-Iye",
+        "source": "H5863 (KJV/ESV/NASB: Ije-abarim/Iye Abarim)"
+      },
+      {
+        "position": 5,
+        "surface": "הָעֲבָרִ֖ים",
+        "phrase": "abarim",
+        "literal": "the-passages",
+        "source": "H5863 (KJV/ESV/NASB: Abarim/abarim)"
+      },
+      {
+        "position": 6,
+        "surface": "בִּ/גְב֥וּל",
+        "phrase": "on the border",
+        "literal": "in-border",
+        "source": "H1366 (KJV/ESV/NASB: border)"
+      },
+      {
+        "position": 7,
+        "surface": "מוֹאָֽב",
+        "phrase": "of Moab",
+        "literal": "Moab",
+        "source": "H4124 (KJV/ESV/NASB: Moab)"
+      }
+    ]
+  }
+]

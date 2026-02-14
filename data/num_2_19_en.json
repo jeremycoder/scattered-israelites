@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 2,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/צְבָא֖/וֹ",
+        "phrase": "and his host",
+        "literal": "and-host-his",
+        "source": "H6635 (KJV: host; ESV: division; NASB: division)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/פְקֻדֵי/הֶ֑ם",
+        "phrase": "and those numbered of them",
+        "literal": "and-numbered-of-them",
+        "source": "H6485 (KJV: those that were numbered of them; ESV: those numbered in it; NASB: those who were numbered of them)"
+      },
+      {
+        "position": 3,
+        "surface": "אַרְבָּעִ֥ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "H705 (KJV: forty; ESV: forty; NASB: forty)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: thousand; ESV: thousand; NASB: thousand)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/חֲמֵ֥שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "H2568 (KJV: and five; ESV: and five; NASB: and five)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967 (KJV: hundred; ESV: hundred; NASB: hundred)"
+      }
+    ]
+  }
+]

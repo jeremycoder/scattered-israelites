@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'The LORD'"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהֵ֗י/נוּ",
+        "phrase": "our God",
+        "literal": "gods-our",
+        "source": "H430; KJV/ESV/NASB: 'our God'"
+      },
+      {
+        "position": 3,
+        "surface": "כָּרַ֥ת",
+        "phrase": "made",
+        "literal": "cut",
+        "source": "H3772; KJV/ESV/NASB: 'made'"
+      },
+      {
+        "position": 4,
+        "surface": "עִמָּ֛/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "H5973; KJV/ESV/NASB: 'with us'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּרִ֖ית",
+        "phrase": "covenant",
+        "literal": "covenant",
+        "source": "H1285; KJV/ESV/NASB: 'covenant'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/חֹרֵֽב",
+        "phrase": "at Horeb",
+        "literal": "in-Horeb",
+        "source": "H2722; KJV/ESV/NASB: 'in/at Horeb'"
+      }
+    ]
+  }
+]

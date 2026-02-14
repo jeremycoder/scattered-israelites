@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 12,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַל",
+        "phrase": "let not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: 'not' or 'let not' in prohibitive construction"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֥א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994; KJV/ESV/NASB: 'I pray' or 'please'"
+      },
+      {
+        "position": 3,
+        "surface": "תְהִ֖י",
+        "phrase": "be",
+        "literal": "be-she",
+        "source": "H1961; KJV/ESV/NASB: 'be'"
+      },
+      {
+        "position": 4,
+        "surface": "כַּ/מֵּ֑ת",
+        "phrase": "like-the-dead-one",
+        "literal": "like-the-dead-one",
+        "source": "H4191; KJV/ESV/NASB: 'as one dead' or 'like a dead one'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV/ESV/NASB: 'of whom' or 'whose'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/צֵאת/וֹ֙",
+        "phrase": "in-coming-out-his",
+        "literal": "in-coming-out-his",
+        "source": "H3318; KJV/ESV/NASB: 'when he cometh out' or 'when he comes out'"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/רֶ֣חֶם",
+        "phrase": "from-womb",
+        "literal": "from-womb",
+        "source": "H7358; KJV/ESV/NASB: 'mother's womb'"
+      },
+      {
+        "position": 8,
+        "surface": "אִמּ֔/וֹ",
+        "phrase": "mother-his",
+        "literal": "mother-his",
+        "source": "H517; KJV/ESV/NASB: 'his mother's'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֵּאָכֵ֖ל",
+        "phrase": "and-it-was-eaten",
+        "literal": "and-it-was-eaten",
+        "source": "H398; KJV/ESV/NASB: 'is half consumed' or 'half eaten away'"
+      },
+      {
+        "position": 10,
+        "surface": "חֲצִ֥י",
+        "phrase": "half",
+        "literal": "half",
+        "source": "H2677; KJV/ESV/NASB: 'half'"
+      },
+      {
+        "position": 11,
+        "surface": "בְשָׂרֽ/וֹ",
+        "phrase": "flesh-his",
+        "literal": "flesh-his",
+        "source": "H1320; KJV/ESV/NASB: 'flesh'"
+      }
+    ]
+  }
+]

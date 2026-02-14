@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָתַתִּ֛י",
+        "phrase": "And I will give",
+        "literal": "and-I-will-give",
+        "source": "H5414; KJV: 'And I will', ESV: 'And I will', NASB: 'I will'"
+      },
+      {
+        "position": 2,
+        "surface": "עֵ֥שֶׂב",
+        "phrase": "grass",
+        "literal": "grass",
+        "source": "H6212; KJV: 'grass', ESV: 'grass', NASB: 'grass'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/שָׂדְ/ךָ֖",
+        "phrase": "in your field",
+        "literal": "in-field-your",
+        "source": "H7704; KJV: 'in thy fields', ESV: 'in your fields', NASB: 'in your field'"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/בְהֶמְתֶּ֑/ךָ",
+        "phrase": "for your livestock",
+        "literal": "for-livestock-your",
+        "source": "H929; KJV: 'for thy cattle', ESV: 'for your cattle', NASB: 'for your livestock'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָכַלְתָּ֖",
+        "phrase": "and you will eat",
+        "literal": "and-you-will-eat",
+        "source": "H398; KJV: 'and thou shalt eat', ESV: 'and you shall eat', NASB: 'and you will eat'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שָׂבָֽעְתָּ",
+        "phrase": "and you will be satisfied",
+        "literal": "and-you-will-be-satisfied",
+        "source": "H7646; KJV: 'and be satisfied', ESV: 'and be full', NASB: 'and be satisfied"
+      }
+    ]
+  }
+]

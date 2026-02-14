@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בִקַּשְׁתֶּ֥ם",
+        "phrase": "and you will seek",
+        "literal": "and-you(pl)-will-seek",
+        "source": "H1245; KJV: seek, ESV: seek, NASB: seek"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁ֛ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033; KJV: thence, ESV: there, NASB: there"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your(sg)",
+        "source": "H430; KJV: thy God, ESV: your God, NASB: your God"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מָצָ֑אתָ",
+        "phrase": "and you will find",
+        "literal": "and-you(sg)-will-find",
+        "source": "H4672; KJV: find, ESV: find, NASB: find"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV: if, ESV: if, NASB: if"
+      },
+      {
+        "position": 8,
+        "surface": "תִדְרְשֶׁ֔/נּוּ",
+        "phrase": "you seek him",
+        "literal": "you(sg)-will-seek-him",
+        "source": "H1875; KJV: seek, ESV: search after him, NASB: search for Him"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/כָל",
+        "phrase": "with all",
+        "literal": "in-all",
+        "source": "H3605; KJV: all, ESV: all, NASB: all"
+      },
+      {
+        "position": 10,
+        "surface": "לְבָבְ/ךָ֖",
+        "phrase": "your heart",
+        "literal": "heart-your(sg)",
+        "source": "H3824; KJV: thy heart, ESV: your heart, NASB: your heart"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/בְ/כָל",
+        "phrase": "and with all",
+        "literal": "and-in-all",
+        "source": "H3605; KJV: and with all, ESV: and with all, NASB: and with all"
+      },
+      {
+        "position": 12,
+        "surface": "נַפְשֶֽׁ/ךָ",
+        "phrase": "your soul",
+        "literal": "soul-your(sg)",
+        "source": "H5315; KJV: thy soul, ESV: your soul, NASB: your soul"
+      }
+    ]
+  }
+]

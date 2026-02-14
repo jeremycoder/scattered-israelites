@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/קָּאָ֥ת",
+        "phrase": "and the pelican",
+        "literal": "and-the-qāʾāt",
+        "source": "H6893 (KJV: pelican; ESV: desert owl; NASB: pelican)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/רָחָ֖מָ/ה",
+        "phrase": "the vulture",
+        "literal": "the-rāḥāmāh",
+        "source": "H7360 (KJV: gier-eagle; ESV: osprey; NASB: carrion vulture)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׁלָֽךְ",
+        "phrase": "the cormorant",
+        "literal": "the-šālāk",
+        "source": "H7994 (KJV: cormorant; ESV: cormorant; NASB: cormorant)"
+      }
+    ]
+  }
+]

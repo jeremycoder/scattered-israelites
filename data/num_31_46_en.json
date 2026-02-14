@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נֶ֣פֶשׁ",
+        "phrase": "and souls",
+        "literal": "and-soul",
+        "source": "H5315; KJV: 'persons', ESV: 'persons', NASB: 'persons'"
+      },
+      {
+        "position": 2,
+        "surface": "אָדָ֔ם",
+        "phrase": "of man",
+        "literal": "man",
+        "source": "H120; KJV: 'persons', ESV: 'persons', NASB: 'persons'"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁשָּׁ֥ה",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337; KJV: 'sixteen', ESV: 'sixteen', NASB: 'sixteen'"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֖ר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV: 'sixteen', ESV: 'sixteen', NASB: 'sixteen'"
+      },
+      {
+        "position": 5,
+        "surface": "אָֽלֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV: 'sixteen thousand', ESV: 'sixteen thousand', NASB: 'sixteen thousand'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/נַ֨פְתָּלִ֔י",
+        "phrase": "of Naphtali",
+        "literal": "to/for-Naphtali",
+        "source": "H5321; KJV/ESV/NASB: 'of Naphtali'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחִירַ֖ע",
+        "phrase": "Ahira",
+        "literal": "Ahira",
+        "source": "H299; KJV/ESV/NASB: 'Ahira'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'the son'"
+      },
+      {
+        "position": 4,
+        "surface": "עֵינָֽן",
+        "phrase": "Enan",
+        "literal": "Enan",
+        "source": "H5881; KJV/ESV/NASB: 'Enan'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַ֨ל",
+        "phrase": "and over",
+        "literal": "and-over",
+        "source": "H5921; KJV 'and', ESV/NIV 'over', NASB 'over'"
+      },
+      {
+        "position": 2,
+        "surface": "צְבָ֔א",
+        "phrase": "the host",
+        "literal": "host-of",
+        "source": "H6635; KJV 'host', ESV 'host', NASB 'host'"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֖ה",
+        "phrase": "the tribe",
+        "literal": "tribe-of",
+        "source": "H4294; KJV 'tribe', ESV 'tribe', NASB 'tribe'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV 'children', ESV 'sons', NASB 'sons'"
+      },
+      {
+        "position": 5,
+        "surface": "נַפְתָּלִ֑י",
+        "phrase": "Naphtali",
+        "literal": "Naphtali",
+        "source": "H5321; KJV/ESV/NASB 'Naphtali'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲחִירַ֖ע",
+        "phrase": "Ahira",
+        "literal": "Ahira",
+        "source": "H299; KJV/ESV/NASB 'Ahira'"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son",
+        "source": "H1121; KJV 'son', ESV 'son', NASB 'son'"
+      },
+      {
+        "position": 8,
+        "surface": "עֵינָֽן",
+        "phrase": "Enan",
+        "literal": "Enan",
+        "source": "H5881; KJV/ESV/NASB 'Enan'"
+      }
+    ]
+  }
+]

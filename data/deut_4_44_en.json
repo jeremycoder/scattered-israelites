@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֹ֖את",
+        "phrase": "And this",
+        "literal": "and-this",
+        "source": "H2063; KJV: 'this', ESV: 'This', NASB: 'this'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תּוֹרָ֑ה",
+        "phrase": "the law",
+        "literal": "the-law",
+        "source": "H8451; KJV: 'the law', ESV: 'the law', NASB: 'the law'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'which', NASB: 'which'"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂ֣ם",
+        "phrase": "set",
+        "literal": "he-put",
+        "source": "H7760; KJV: 'set', ESV: 'set', NASB: 'set'"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: 'Moses', ESV: 'Moses', NASB: 'Moses'"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440; KJV: 'before', ESV: 'before', NASB: 'before'"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV: 'children', ESV: 'sons', NASB: 'sons'"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: 'Israel', ESV: 'Israel', NASB: 'Israel'"
+      }
+    ]
+  }
+]

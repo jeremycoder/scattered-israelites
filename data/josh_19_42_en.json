@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שַֽׁעֲלַבִּ֥ין",
+        "phrase": "and Shaalabbin",
+        "literal": "and-Shaalabbin",
+        "source": "H8169; KJV: Shaalabbin, ESV: Shaalabbin, NASB: Shaalabbin"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אַיָּל֖וֹן",
+        "phrase": "and Aijalon",
+        "literal": "and-Aijalon",
+        "source": "H357; KJV: Ajalon, ESV: Aijalon, NASB: Aijalon"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יִתְלָֽה",
+        "phrase": "and Ithlah",
+        "literal": "and-Ithlah",
+        "source": "H3494; KJV: Jethlah, ESV: Ithlah, NASB: Ithlah"
+      }
+    ]
+  }
+]

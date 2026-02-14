@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 24,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: Nevertheless; ESV: Nevertheless; NASB: Nevertheless)"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: the; ESV: Kain; NASB: Kain)"
+      },
+      {
+        "position": 3,
+        "surface": "יִהְיֶ֖ה",
+        "phrase": "it-will-be",
+        "literal": "it-will-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: will be)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בָ֣עֵֽר",
+        "phrase": "for-burning",
+        "literal": "to-burn",
+        "source": "H1197 (KJV: wasted; ESV: burned; NASB: consumed)"
+      },
+      {
+        "position": 5,
+        "surface": "קָ֑יִן",
+        "phrase": "Kain",
+        "literal": "Kain",
+        "source": "H7014 (KJV: Kenite; ESV: Kain; NASB: Kain)"
+      },
+      {
+        "position": 6,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: when; NASB: How long)"
+      },
+      {
+        "position": 7,
+        "surface": "מָ֖ה",
+        "phrase": "how-long",
+        "literal": "what",
+        "source": "H4100 (KJV: shall; ESV: How long; NASB: How long)"
+      },
+      {
+        "position": 8,
+        "surface": "אַשּׁ֥וּר",
+        "phrase": "Asshur",
+        "literal": "Asshur",
+        "source": "H804 (KJV: Asshur; ESV: Asshur; NASB: Asshur)"
+      },
+      {
+        "position": 9,
+        "surface": "תִּשְׁבֶּֽ/ךָּ",
+        "phrase": "takes-you-captive",
+        "literal": "she-carries-you-away",
+        "source": "H7617 (KJV: carry thee away captive; ESV: takes you away captive; NASB: keep you captive)"
+      }
+    ]
+  }
+]

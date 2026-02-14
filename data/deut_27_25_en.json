@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָרוּר֙",
+        "phrase": "Cursed [be]",
+        "literal": "cursed",
+        "source": "H779 (KJV: Cursed be he; ESV: Cursed be; NASB: Cursed is he)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹקֵ֣חַ",
+        "phrase": "[is] the one who takes",
+        "literal": "taking",
+        "source": "H3947 (KJV: taketh; ESV: takes; NASB: accepts)"
+      },
+      {
+        "position": 3,
+        "surface": "שֹׁ֔חַד",
+        "phrase": "a bribe",
+        "literal": "bribe",
+        "source": "H7810 (KJV: reward; ESV: bribe; NASB: bribe)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/הַכּ֥וֹת",
+        "phrase": "to strike",
+        "literal": "to-strike",
+        "source": "H5221 (KJV: to slay; ESV: to shed; NASB: to strike down)"
+      },
+      {
+        "position": 5,
+        "surface": "נֶ֖פֶשׁ",
+        "phrase": "a person",
+        "literal": "soul/person",
+        "source": "H5315 (KJV: person; ESV: person; NASB: person)"
+      },
+      {
+        "position": 6,
+        "surface": "דָּ֣ם",
+        "phrase": "of blood",
+        "literal": "blood",
+        "source": "H1818 (KJV: innocent; ESV: innocent; NASB: innocent)"
+      },
+      {
+        "position": 7,
+        "surface": "נָקִ֑י",
+        "phrase": "innocent",
+        "literal": "innocent",
+        "source": "H5355 (KJV: innocent; ESV: innocent; NASB: innocent)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אָמַ֥ר",
+        "phrase": "And shall say",
+        "literal": "and-he-says",
+        "source": "H559 (KJV: shall say; ESV: shall say; NASB: shall say)"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "All",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 11,
+        "surface": "אָמֵֽן",
+        "phrase": "Amen",
+        "literal": "amen",
+        "source": "H543 (KJV: Amen; ESV: Amen; NASB: Amen)"
+      }
+    ]
+  }
+]

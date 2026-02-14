@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and you shall not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: shalt thou bear; ESV: bear; NASB: bear)"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲנֶ֥ה",
+        "phrase": "answer",
+        "literal": "you(m.s.)-answer",
+        "source": "H6030 (KJV: bear; ESV: bear; NASB: bear)"
+      },
+      {
+        "position": 3,
+        "surface": "בְ/רֵֽעֲ/ךָ֖",
+        "phrase": "against your neighbor",
+        "literal": "in-neighbor-your",
+        "source": "H7453 (KJV: against thy neighbour; ESV: against your neighbor; NASB: against your neighbor)"
+      },
+      {
+        "position": 4,
+        "surface": "עֵ֥ד",
+        "phrase": "witness",
+        "literal": "witness",
+        "source": "H5707 (KJV: witness; ESV: witness; NASB: witness)"
+      },
+      {
+        "position": 5,
+        "surface": "שָֽׁוְא",
+        "phrase": "false",
+        "literal": "falsehood",
+        "source": "H7723 (KJV: false; ESV: false; NASB: false)"
+      }
+    ]
+  }
+]

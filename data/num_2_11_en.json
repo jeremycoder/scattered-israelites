@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 2,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/צְבָא֖/וֹ",
+        "phrase": "and his army",
+        "literal": "and-army-his",
+        "source": "H6635; KJV: 'and his host', ESV: 'his host', NASB: 'his army'"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/פְקֻדָ֑י/ו",
+        "phrase": "and his numbered ones",
+        "literal": "and-numbered-his",
+        "source": "H6485; KJV: 'and those that were numbered thereof', ESV: 'those numbered of it', NASB: 'their numbered men'"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁשָּׁ֧ה",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337; KJV/ESV/NASB: 'six' (in 'forty and six')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַרְבָּעִ֛ים",
+        "phrase": "and forty",
+        "literal": "and-forty",
+        "source": "H705; KJV/ESV/NASB: 'forty' (in 'forty and six')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV/ESV/NASB: 'thousand' (in 'forty and six thousand')"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/חֲמֵ֥שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "H2568; KJV/ESV/NASB: 'five' (in 'five hundred')"
+      },
+      {
+        "position": 7,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundreds",
+        "literal": "hundreds",
+        "source": "H3967; KJV/ESV/NASB: 'hundred' (in 'five hundred')"
+      }
+    ]
+  }
+]

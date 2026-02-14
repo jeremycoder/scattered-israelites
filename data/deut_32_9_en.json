@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֛י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: But; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "חֵ֥לֶק",
+        "phrase": "portion",
+        "literal": "portion",
+        "source": "H2506 (KJV: portion; ESV: portion; NASB: portion)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהֹוָ֖ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD'S; ESV: LORD's; NASB: LORD'S)"
+      },
+      {
+        "position": 4,
+        "surface": "עַמּ֑/וֹ",
+        "phrase": "his people",
+        "literal": "people-his",
+        "source": "H5971 (KJV: his people; ESV: his people; NASB: His people)"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290 (KJV: Jacob; ESV: Jacob; NASB: Jacob)"
+      },
+      {
+        "position": 6,
+        "surface": "חֶ֥בֶל",
+        "phrase": "the lot",
+        "literal": "measuring-line",
+        "source": "H2256 (KJV: lot; ESV: allotted; NASB: allotment)"
+      },
+      {
+        "position": 7,
+        "surface": "נַחֲלָתֽ/וֹ",
+        "phrase": "of his inheritance",
+        "literal": "inheritance-his",
+        "source": "H5159 (KJV: of his inheritance; ESV: his allotted heritage; NASB: of His inheritance)"
+      }
+    ]
+  }
+]

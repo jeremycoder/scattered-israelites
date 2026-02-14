@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 29,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808; KJV/ESV/NASB: 'not' or 'nor' in negative phrases[1]"
+      },
+      {
+        "position": 2,
+        "surface": "אִתְּ/כֶ֖ם",
+        "phrase": "with-you",
+        "literal": "with-you(pl)",
+        "source": "H854; KJV/ESV/NASB: 'with you'[1]"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/בַדְּ/כֶ֑ם",
+        "phrase": "alone-you",
+        "literal": "to/alone-you(pl)",
+        "source": "H905; KJV/ESV/NASB: 'alone' or 'only'[1]"
+      },
+      {
+        "position": 4,
+        "surface": "אָנֹכִ֗י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595; KJV/ESV/NASB: 'I'[1]"
+      },
+      {
+        "position": 5,
+        "surface": "כֹּרֵת֙",
+        "phrase": "cutting",
+        "literal": "cutting",
+        "source": "H3772; KJV/ESV/NASB: 'make' (covenant)[1]"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: '(direct object marker)'[1]"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/בְּרִ֣ית",
+        "phrase": "the-covenant",
+        "literal": "the/covenant",
+        "source": "H1285; KJV/ESV/NASB: 'the covenant'[1]"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֹּ֔את",
+        "phrase": "this",
+        "literal": "the/this",
+        "source": "H2063; KJV/ESV/NASB: 'this'[1]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[et]",
+        "literal": "and/[et]",
+        "source": "H853; KJV/ESV/NASB: 'and' (with direct object marker)[1]"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָלָ֖ה",
+        "phrase": "the-oath",
+        "literal": "the/oath",
+        "source": "H423; KJV/ESV/NASB: 'oath'[1]"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/זֹּֽאת",
+        "phrase": "this",
+        "literal": "the/this",
+        "source": "H2063; KJV/ESV/NASB: 'this'[1]"
+      }
+    ]
+  }
+]

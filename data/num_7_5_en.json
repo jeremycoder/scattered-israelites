@@ -1,0 +1,116 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 7,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קַ֚ח",
+        "phrase": "Take",
+        "literal": "take-(impv-2ms)",
+        "source": "H3947 (KJV: Take; ESV: Accept; NASB: Accept)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵֽ/אִתָּ֔/ם",
+        "phrase": "from-them",
+        "literal": "from-with-them",
+        "source": "H854 (KJV: of them; ESV: from them; NASB: from them)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הָי֕וּ",
+        "phrase": "and-they-shall-be",
+        "literal": "and-they-will-be-(perf-3cp)",
+        "source": "H1961 (KJV: that they may be; ESV: that they may be; NASB: that they may be)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/עֲבֹ֕ד",
+        "phrase": "for-serving",
+        "literal": "to-serve-(inf-const)",
+        "source": "H5647 (KJV: to do the service; ESV: in the service; NASB: in the service)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct-object-marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "עֲבֹדַ֖ת",
+        "phrase": "service-of",
+        "literal": "service-of-(fs-construct)",
+        "source": "H5656 (KJV: of the service; ESV: of the service; NASB: of the service)"
+      },
+      {
+        "position": 7,
+        "surface": "אֹ֣הֶל",
+        "phrase": "tent-of",
+        "literal": "tent-of-(ms-construct)",
+        "source": "H168 (KJV: tabernacle; ESV: tent; NASB: tent)"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹעֵ֑ד",
+        "phrase": "meeting",
+        "literal": "meeting-(ms-absolute)",
+        "source": "H4150 (KJV: of the congregation; ESV: of meeting; NASB: of meeting)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/נָתַתָּ֤ה",
+        "phrase": "and-you-shall-give",
+        "literal": "and-you-will-give-(perf-2ms)",
+        "source": "H5414 (KJV: thou shalt give; ESV: give; NASB: you shall give)"
+      },
+      {
+        "position": 10,
+        "surface": "אוֹתָ/ם֙",
+        "phrase": "them",
+        "literal": "[dom]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to-(prep)",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/לְוִיִּ֔ם",
+        "phrase": "the-Levites",
+        "literal": "the-Levites-(mp-absolute)",
+        "source": "H3881 (KJV: the Levites; ESV: the Levites; NASB: the Levites)"
+      },
+      {
+        "position": 13,
+        "surface": "אִ֖ישׁ",
+        "phrase": "man",
+        "literal": "man-(ms-absolute)",
+        "source": "H376 (KJV: every man; ESV: each man; NASB: each man)"
+      },
+      {
+        "position": 14,
+        "surface": "כְּ/פִ֥י",
+        "phrase": "according-to-mouth-of",
+        "literal": "as-mouth-of-(ms-construct)",
+        "source": "H6310 (KJV: according to; ESV: according to; NASB: according to)"
+      },
+      {
+        "position": 15,
+        "surface": "עֲבֹדָתֽ/וֹ",
+        "phrase": "his-service",
+        "literal": "service-his-(fs-construct-3ms)",
+        "source": "H5656 (KJV: his service; ESV: his service; NASB: his service)"
+      }
+    ]
+  }
+]

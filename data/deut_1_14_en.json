@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/תַּעֲנ֖וּ",
+        "phrase": "and you answered",
+        "literal": "and-you_answered",
+        "source": "H6030 (KJV: answered; ESV: answered; NASB: answered)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתִ֑/י",
+        "phrase": "me",
+        "literal": "me-(direct object)",
+        "source": "H853 (KJV: me; ESV: me; NASB: me)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תֹּ֣אמְר֔וּ",
+        "phrase": "and said",
+        "literal": "and-you_said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 4,
+        "surface": "טֽוֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "H2896 (KJV: good; ESV: good; NASB: good)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/דָּבָ֥ר",
+        "phrase": "the thing",
+        "literal": "the-word/matter",
+        "source": "H1697 (KJV: thing; ESV: thing; NASB: thing)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 7,
+        "surface": "דִּבַּ֖רְתָּ",
+        "phrase": "you have spoken",
+        "literal": "you_spoke",
+        "source": "H1696 (KJV: spoken; ESV: spoken; NASB: said)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/עֲשֽׂוֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213 (KJV: to do; ESV: to do; NASB: to do)"
+      }
+    ]
+  }
+]

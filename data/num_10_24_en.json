@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַ֨ל",
+        "phrase": "And over",
+        "literal": "and-upon",
+        "source": "H5921; KJV/ESV/NASB: 'over'/'over'/'over'"
+      },
+      {
+        "position": 2,
+        "surface": "צְבָ֔א",
+        "phrase": "the host",
+        "literal": "host",
+        "source": "H6635; KJV: 'army', ESV: 'host', NASB: 'host'"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֖ה",
+        "phrase": "of the tribe",
+        "literal": "tribe",
+        "source": "H4294; KJV: 'tribe', ESV: 'tribe', NASB: 'tribe'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'children'/'sons'/'sons'"
+      },
+      {
+        "position": 5,
+        "surface": "בִנְיָמִ֑ן",
+        "phrase": "of Benjamin",
+        "literal": "Benjamin",
+        "source": "H1144; KJV/ESV/NASB: 'Benjamin'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבִידָ֖ן",
+        "phrase": "Abidan",
+        "literal": "Abidan",
+        "source": "H27; KJV/ESV/NASB: 'Abidan'"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 8,
+        "surface": "גִּדְעוֹנִֽי",
+        "phrase": "of Gideoni",
+        "literal": "Gideoni",
+        "source": "H1441; KJV/ESV/NASB: 'Gideoni'"
+      }
+    ]
+  }
+]

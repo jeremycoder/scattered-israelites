@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853; KJV 'Balaam also', ESV 'Balaam', NASB 'Balaam'"
+      },
+      {
+        "position": 2,
+        "surface": "בִּלְעָ֥ם",
+        "phrase": "Balaam",
+        "literal": "Balaam",
+        "source": "H1109; KJV 'Balaam', ESV 'Balaam', NASB 'Balaam'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son-of",
+        "literal": "son",
+        "source": "H1121; KJV 'the son', ESV 'the son', NASB 'the son'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּע֖וֹר",
+        "phrase": "Beor",
+        "literal": "Beor",
+        "source": "H1160; KJV 'of Beor', ESV 'of Beor', NASB 'of Beor'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/קּוֹסֵ֑ם",
+        "phrase": "the diviner",
+        "literal": "the-diviner",
+        "source": "H7080; KJV 'the soothsayer', ESV 'the soothsayer', NASB 'the diviner'"
+      },
+      {
+        "position": 6,
+        "surface": "הָרְג֧וּ",
+        "phrase": "they-killed",
+        "literal": "they-killed",
+        "source": "H2026; KJV 'did...slay', ESV 'have...slain', NASB 'killed'"
+      },
+      {
+        "position": 7,
+        "surface": "בְנֵֽי",
+        "phrase": "sons-of",
+        "literal": "sons-of",
+        "source": "H1121; KJV 'the children', ESV 'the sons', NASB 'The sons'"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵ֛ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV 'of Israel', ESV 'of Israel', NASB 'of Israel'"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/חֶ֖רֶב",
+        "phrase": "with-the-sword",
+        "literal": "in-the-sword",
+        "source": "H2719; KJV 'with the sword', ESV 'with the sword', NASB 'with the sword'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "among",
+        "literal": "to",
+        "source": "H413; KJV 'among them', ESV 'among', NASB 'among'"
+      },
+      {
+        "position": 11,
+        "surface": "חַלְלֵי/הֶֽם",
+        "phrase": "their-slain",
+        "literal": "slain-of-them",
+        "source": "H2491; KJV 'that were slain by them', ESV 'their slain', NASB 'their slain'"
+      }
+    ]
+  }
+]

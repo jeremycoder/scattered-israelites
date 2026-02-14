@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 14,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַֽל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: 'not' or 'do not' (negative particle)"
+      },
+      {
+        "position": 2,
+        "surface": "תַּעֲל֔וּ",
+        "phrase": "go up",
+        "literal": "go up",
+        "source": "H5927; KJV: 'Go not up'; ESV: 'Go up'; NASB: 'Go up' (Qal jussive 2mp)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֛י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV/ESV/NASB: 'for' or 'because' (causal particle)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ין",
+        "phrase": "there is not",
+        "literal": "not-is",
+        "source": "H369; KJV/ESV/NASB: 'is not' (negative existential)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD' (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/קִרְבְּ/כֶ֑ם",
+        "phrase": "among you",
+        "literal": "in-midst-your",
+        "source": "H7130; KJV: 'among you'; ESV: 'among you'; NASB: 'among you' (preposition + noun + suffix)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹא֙",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV/ESV/NASB: 'neither' or 'nor' (conjunction + negative)"
+      },
+      {
+        "position": 8,
+        "surface": "תִּנָּ֣גְפ֔וּ",
+        "phrase": "you will be defeated",
+        "literal": "you-will-be-struck down",
+        "source": "H5062; KJV: 'be smitten'; ESV: 'be defeated'; NASB: 'be struck down' (Niphal imperfect 2mp)"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440; KJV/ESV/NASB: 'before' (preposition + noun)"
+      },
+      {
+        "position": 10,
+        "surface": "אֹיְבֵי/כֶֽם",
+        "phrase": "your enemies",
+        "literal": "enemies-your",
+        "source": "H341; KJV: 'your enemies'; ESV: 'your enemies'; NASB: 'your enemies' (Qal participle + suffix)"
+      }
+    ]
+  }
+]

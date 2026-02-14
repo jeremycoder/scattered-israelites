@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 21,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588 (KJV: And if; ESV: And if; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶ֣ה",
+        "phrase": "there is",
+        "literal": "he-is",
+        "source": "H1961 (KJV: have; ESV: is; NASB: is)"
+      },
+      {
+        "position": 3,
+        "surface": "בְ/אִ֗ישׁ",
+        "phrase": "in a man",
+        "literal": "in-man",
+        "source": "H376 (KJV: a man; ESV: someone; NASB: a man)"
+      },
+      {
+        "position": 4,
+        "surface": "חֵ֛טְא",
+        "phrase": "sin",
+        "literal": "sin",
+        "source": "H2399 (KJV: sin; ESV: crime; NASB: sin)"
+      },
+      {
+        "position": 5,
+        "surface": "מִשְׁפַּט",
+        "phrase": "judgment",
+        "literal": "judgment",
+        "source": "H4941 (KJV: worthy; ESV: punishable; NASB: deserving)"
+      },
+      {
+        "position": 6,
+        "surface": "מָ֖וֶת",
+        "phrase": "of death",
+        "literal": "death",
+        "source": "H4194 (KJV: of death; ESV: by death; NASB: of death)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הוּמָ֑ת",
+        "phrase": "and he is put to death",
+        "literal": "and-he-is-put-to-death",
+        "source": "H4191 (KJV: he be to be put to death; ESV: is executed; NASB: is put to death)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/תָלִ֥יתָ",
+        "phrase": "and you hang",
+        "literal": "and-you-hang",
+        "source": "H8518 (KJV: thou hang; ESV: you hang; NASB: you hang)"
+      },
+      {
+        "position": 9,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "H853 (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: on; ESV: on; NASB: on)"
+      },
+      {
+        "position": 11,
+        "surface": "עֵֽץ",
+        "phrase": "a tree",
+        "literal": "tree",
+        "source": "H6086 (KJV: a tree; ESV: a tree; NASB: a tree)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 12,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808: KJV 'not', ESV 'not', NASB 'not'"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲשׂ֣וּ/ן",
+        "phrase": "shall you do",
+        "literal": "you(pl)-will-do",
+        "source": "H6213: KJV 'do', ESV 'act', NASB 'do'"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֔ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651: KJV 'so', ESV 'like this', NASB 'so'"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/יהוָ֖ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068: KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "your God",
+        "literal": "gods-of-you(pl)",
+        "source": "H430: KJV 'your God', ESV 'your God', NASB 'your God'"
+      }
+    ]
+  }
+]

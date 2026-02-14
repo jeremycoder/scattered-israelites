@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֥ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535; KJV/ESV/NASB: 'only'/'only'/'only'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בְּהֵמָ֖ה",
+        "phrase": "the livestock",
+        "literal": "the-livestock",
+        "source": "H929; KJV: 'cattle', ESV: 'livestock', NASB: 'animals'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּזַ֣זְנוּ",
+        "phrase": "we took as spoil",
+        "literal": "we-spoiled",
+        "source": "H962; KJV: 'we took for a prey', ESV: 'we took as spoil', NASB: 'we took as our booty'"
+      },
+      {
+        "position": 4,
+        "surface": "לָ֑/נוּ",
+        "phrase": "for ourselves",
+        "literal": "to-us",
+        "source": "; KJV: 'unto ourselves', ESV: 'for ourselves', NASB: '(implied for ourselves)'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/שְׁלַ֥ל",
+        "phrase": "and spoil",
+        "literal": "and-spoil",
+        "source": "H7998; KJV: 'spoil', ESV: 'plunder', NASB: 'spoil'"
+      },
+      {
+        "position": 6,
+        "surface": "הֶ/עָרִ֖ים",
+        "phrase": "of the cities",
+        "literal": "of-the-cities",
+        "source": "H5892; KJV: 'of the cities', ESV: 'of the cities', NASB: 'of the cities'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'that', NASB: 'which'"
+      },
+      {
+        "position": 8,
+        "surface": "לָכָֽדְנוּ",
+        "phrase": "we had captured",
+        "literal": "we-captured",
+        "source": "H3920; KJV: 'we took', ESV: 'we captured', NASB: 'we had captured"
+      }
+    ]
+  }
+]

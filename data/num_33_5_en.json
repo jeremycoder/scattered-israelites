@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֥וּ",
+        "phrase": "and they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (KJV: removed; ESV/NASB: set out/journeyed)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵֽי",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV/NASB: sons)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV/ESV/NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/רַעְמְסֵ֑ס",
+        "phrase": "from Rameses",
+        "literal": "from-Rameses",
+        "source": "H7486 (KJV/ESV/NASB: Rameses)"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (KJV: pitched; ESV/NASB: camped)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/סֻכֹּֽת",
+        "phrase": "at Succoth",
+        "literal": "in-Succoth",
+        "source": "H5523 (KJV/ESV/NASB: Succoth)"
+      }
+    ]
+  }
+]

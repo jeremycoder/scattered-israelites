@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 7,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ֥ף",
+        "phrase": "one gold dish",
+        "literal": "palm-bowl",
+        "source": "H3709 (KJV: spoon; ESV: dish; NASB: pan)"
+      },
+      {
+        "position": 2,
+        "surface": "אַחַ֛ת",
+        "phrase": "one",
+        "literal": "one-FEM",
+        "source": "H259 (KJV: [one]; ESV: [one]; NASB: [one])"
+      },
+      {
+        "position": 3,
+        "surface": "עֲשָׂרָ֥ה",
+        "phrase": "ten shekels",
+        "literal": "ten-MASC",
+        "source": "H6235 (KJV: ten; ESV: ten; NASB: ten)"
+      },
+      {
+        "position": 4,
+        "surface": "זָהָ֖ב",
+        "phrase": "of gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 5,
+        "surface": "מְלֵאָ֥ה",
+        "phrase": "filled",
+        "literal": "full-FEM",
+        "source": "H4392 (KJV: full; ESV: full; NASB: full)"
+      },
+      {
+        "position": 6,
+        "surface": "קְטֹֽרֶת",
+        "phrase": "with incense",
+        "literal": "incense",
+        "source": "H7004 (KJV: incense; ESV: incense; NASB: incense)"
+      }
+    ]
+  }
+]

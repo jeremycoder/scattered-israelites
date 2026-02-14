@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H3588 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "יִהְיֶה֙",
+        "phrase": "there is",
+        "literal": "he-is",
+        "source": "H1961 (KJV: be; ESV: there is; NASB: there is)"
+      },
+      {
+        "position": 3,
+        "surface": "נער",
+        "phrase": "young",
+        "literal": "young-woman",
+        "source": "H5291 (KJV: damsel; ESV: young woman; NASB: young lady)"
+      },
+      {
+        "position": 4,
+        "surface": "נַעֲרָ֣ה",
+        "phrase": "young woman",
+        "literal": "young-woman",
+        "source": "H5291 (KJV: damsel; ESV: virgin; NASB: young lady)"
+      },
+      {
+        "position": 5,
+        "surface": "בְתוּלָ֔ה",
+        "phrase": "virgin",
+        "literal": "virgin",
+        "source": "H1330 (KJV: virgin; ESV: virgin; NASB: virgin)"
+      },
+      {
+        "position": 6,
+        "surface": "מְאֹרָשָׂ֖ה",
+        "phrase": "betrothed",
+        "literal": "betrothed-fs",
+        "source": "H781 (KJV: betrothed; ESV: betrothed; NASB: betrothed)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/אִ֑ישׁ",
+        "phrase": "to a man",
+        "literal": "to/man",
+        "source": "H376 (KJV: unto an husband; ESV: to a man; NASB: to a man)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מְצָאָ֥/הּ",
+        "phrase": "and finds her",
+        "literal": "and-finds/her",
+        "source": "H4672 (KJV: find her; ESV: meets her; NASB: finds her)"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֛ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: a man; NASB: a man)"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/עִ֖יר",
+        "phrase": "in the city",
+        "literal": "in/the-city",
+        "source": "H5892 (KJV: in the city; ESV: in the city; NASB: in the city)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שָׁכַ֥ב",
+        "phrase": "and lies",
+        "literal": "and-lies",
+        "source": "H7901 (KJV: lie; ESV: lies; NASB: lies)"
+      },
+      {
+        "position": 12,
+        "surface": "עִמָּֽ/הּ",
+        "phrase": "with her",
+        "literal": "with/her",
+        "source": "H5973 (KJV: with her; ESV: with her; NASB: with her)"
+      }
+    ]
+  }
+]

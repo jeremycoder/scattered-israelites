@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 56,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "according to",
+        "literal": "upon",
+        "source": "H5921 (KJV: according; ESV: according; NASB: according to)"
+      },
+      {
+        "position": 2,
+        "surface": "פִּי֙",
+        "phrase": "the mouth of",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: mouth; ESV: mouth; NASB: mouth)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/גּוֹרָ֔ל",
+        "phrase": "the lot",
+        "literal": "the-lot",
+        "source": "H1486 (KJV: lot; ESV: lot; NASB: lot)"
+      },
+      {
+        "position": 4,
+        "surface": "תֵּחָלֵ֖ק",
+        "phrase": "shall be divided",
+        "literal": "shall-be-divided",
+        "source": "H2505 (KJV: divide; ESV: divided; NASB: divided)"
+      },
+      {
+        "position": 5,
+        "surface": "נַחֲלָת֑/וֹ",
+        "phrase": "his inheritance",
+        "literal": "inheritance-his",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996 (KJV: between; ESV: between; NASB: between)"
+      },
+      {
+        "position": 7,
+        "surface": "רַ֖ב",
+        "phrase": "the many",
+        "literal": "many",
+        "source": "H7227 (KJV: many; ESV: larger; NASB: larger)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/מְעָֽט",
+        "phrase": "the few",
+        "literal": "to-few",
+        "source": "H4592 (KJV: few; ESV: smaller; NASB: smaller)"
+      }
+    ]
+  }
+]

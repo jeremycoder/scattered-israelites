@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H3588 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "יִקַּ֥ח",
+        "phrase": "a man takes",
+        "literal": "he-takes",
+        "source": "H3947 (KJV: take; ESV: takes; NASB: takes)"
+      },
+      {
+        "position": 3,
+        "surface": "אִ֖ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 4,
+        "surface": "אִשָּׁ֑ה",
+        "phrase": "a wife",
+        "literal": "woman",
+        "source": "H802 (KJV: wife; ESV: wife; NASB: wife)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בָ֥א",
+        "phrase": "and goes in to",
+        "literal": "and-comes",
+        "source": "H935 (KJV: go in; ESV: goes in to; NASB: goes in to)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלֶ֖י/הָ",
+        "phrase": "her",
+        "literal": "to-her",
+        "source": "H413 (KJV: unto her; ESV: her; NASB: her)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׂנֵאָֽ/הּ",
+        "phrase": "and hates her",
+        "literal": "and-hates-her",
+        "source": "H8130 (KJV: hate; ESV: hates; NASB: hates)"
+      }
+    ]
+  }
+]

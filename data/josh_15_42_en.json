@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִבְנָ֥ה",
+        "phrase": "Libnah",
+        "literal": "Libnah",
+        "source": "H3841 (KJV: Libnah; ESV: Libnah; NASB: Libnah)"
+      },
+      {
+        "position": 2,
+        "surface": "וָ/עֶ֖תֶר",
+        "phrase": "and Ether",
+        "literal": "and-Ether",
+        "source": "H6281 (KJV: and Ether; ESV: Ether; NASB: and Ether)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עָשָֽׁן",
+        "phrase": "and Ashan",
+        "literal": "and-Ashan",
+        "source": "H6228 (KJV: and Ashan; ESV: Ashan; NASB: and Ashan)"
+      }
+    ]
+  }
+]

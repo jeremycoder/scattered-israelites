@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתָּ֡ה",
+        "phrase": "and-you",
+        "literal": "and-you",
+        "source": "H859 (KJV: thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 2,
+        "surface": "הַפְקֵ֣ד",
+        "phrase": "appoint",
+        "literal": "appoint",
+        "source": "H6485 (KJV: appoint; ESV: appoint; NASB: appoint)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/לְוִיִּם֩",
+        "phrase": "the-Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 6,
+        "surface": "מִשְׁכַּ֨ן",
+        "phrase": "tabernacle",
+        "literal": "dwelling-place",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עֵדֻ֜ת",
+        "phrase": "the-testimony",
+        "literal": "the-testimony",
+        "source": "H5715 (KJV: testimony; ESV: testimony; NASB: testimony)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/עַ֣ל",
+        "phrase": "and-over",
+        "literal": "and-upon",
+        "source": "H5921 (KJV: and over; ESV: and over; NASB: and over)"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 10,
+        "surface": "כֵּלָי/ו֮",
+        "phrase": "its-vessels",
+        "literal": "vessels-of-it",
+        "source": "H3627 (KJV: furniture; ESV: furnishings; NASB: furnishings)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/עַ֣ל",
+        "phrase": "and-over",
+        "literal": "and-upon",
+        "source": "H5921 (KJV: and over; ESV: and over; NASB: and over)"
+      },
+      {
+        "position": 12,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 14,
+        "surface": "ל/וֹ֒",
+        "phrase": "to-it",
+        "literal": "to-it",
+        "source": " (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 15,
+        "surface": "הֵ֜מָּה",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 (KJV: they; ESV: they; NASB: they)"
+      },
+      {
+        "position": 16,
+        "surface": "יִשְׂא֤וּ",
+        "phrase": "shall-bear",
+        "literal": "they-shall-bear",
+        "source": "H5375 (KJV: bear; ESV: carry; NASB: carry)"
+      },
+      {
+        "position": 17,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/מִּשְׁכָּן֙",
+        "phrase": "the-tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 20,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 21,
+        "surface": "כֵּלָ֔י/ו",
+        "phrase": "its-vessels",
+        "literal": "vessels-of-it",
+        "source": "H3627 (KJV: furniture; ESV: furnishings; NASB: furnishings)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/הֵ֖ם",
+        "phrase": "and-they",
+        "literal": "and-they",
+        "source": "H1992 (KJV: and they; ESV: and they; NASB: and they)"
+      },
+      {
+        "position": 23,
+        "surface": "יְשָׁרְתֻ֑/הוּ",
+        "phrase": "shall-minister-to-it",
+        "literal": "they-shall-serve-it",
+        "source": "H8334 (KJV: minister; ESV: minister; NASB: minister)"
+      },
+      {
+        "position": 24,
+        "surface": "וְ/סָבִ֥יב",
+        "phrase": "and-around",
+        "literal": "and-around",
+        "source": "H5439 (KJV: round about; ESV: around; NASB: around)"
+      },
+      {
+        "position": 25,
+        "surface": "לַ/מִּשְׁכָּ֖ן",
+        "phrase": "to-the-tabernacle",
+        "literal": "to-the-tabernacle",
+        "source": "H4908 (KJV: tabernacle; ESV: tabernacle; NASB: tabernacle)"
+      },
+      {
+        "position": 26,
+        "surface": "יַחֲנֽוּ",
+        "phrase": "they-shall-encamp",
+        "literal": "they-shall-encamp",
+        "source": "H2583 (KJV: encamp; ESV: encamp; NASB: encamp)"
+      }
+    ]
+  }
+]

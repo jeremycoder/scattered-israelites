@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֵ/עֲרֹעֵ֞ר",
+        "phrase": "from Aroer",
+        "literal": "from-Aroer",
+        "source": "H6177; KJV/NIV/ESV/NASB: 'Aroer' (proper name, southern boundary city)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "which",
+        "literal": "which-is",
+        "source": "H834; KJV/ESV/NASB: 'which' (relative pronoun)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921; KJV/ESV/NASB: 'on/upon' (preposition indicating position)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׂפַת",
+        "phrase": "the rim of",
+        "literal": "lip-of",
+        "source": "H8193; KJV: 'brink', ESV/NASB: 'rim/edge' (edge or bank)"
+      },
+      {
+        "position": 5,
+        "surface": "נַ֧חַל",
+        "phrase": "the valley",
+        "literal": "wadi-of",
+        "source": "H5158; KJV/ESV/NASB: 'brook/valley/river' (torrent bed or wadi)"
+      },
+      {
+        "position": 6,
+        "surface": "אַרְנֹ֛ן",
+        "phrase": "Arnon",
+        "literal": "Arnon",
+        "source": "H769; KJV/ESV/NASB: 'Arnon' (proper name of river/valley)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עַד",
+        "phrase": "even to",
+        "literal": "and-to",
+        "source": "H5704; KJV/ESV/NASB: 'even unto/and to' (preposition with conjunction, 'as far as')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ֥ר",
+        "phrase": "Mount",
+        "literal": "the-mountain",
+        "source": "H2022; KJV/ESV/NASB: 'mount/mountain' (definite noun)"
+      },
+      {
+        "position": 9,
+        "surface": "שִׂיאֹ֖ן",
+        "phrase": "Sion",
+        "literal": "Sion",
+        "source": "H7865; KJV: 'Sion', ESV/NASB: 'Sirion' (alternative name for Hermon)"
+      },
+      {
+        "position": 10,
+        "surface": "ה֥וּא",
+        "phrase": "that is",
+        "literal": "it",
+        "source": "H1931; KJV/ESV/NASB: 'which is/the same is/that is' (pronoun, appositional)"
+      },
+      {
+        "position": 11,
+        "surface": "חֶרְמֽוֹן",
+        "phrase": "Hermon",
+        "literal": "Hermon",
+        "source": "H2768; KJV/ESV/NASB: 'Hermon' (proper name of mountain)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֥את",
+        "phrase": "This",
+        "literal": "this-F",
+        "source": "H2063; KJV/ESV/NASB: 'This' (feminine demonstrative pronoun referring to the land)."
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the land",
+        "literal": "the-land",
+        "source": "H776; KJV/ESV/NASB: 'the land' (article + earth/land)."
+      },
+      {
+        "position": 3,
+        "surface": "הַ/נִּשְׁאָ֑רֶת",
+        "phrase": "that remains",
+        "literal": "the-remaining-F",
+        "source": "H7604; KJV: 'that yet remaineth', ESV/NASB: 'that remains' (feminine participle of 'remain/leftover')."
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV/ESV/NASB: 'all' (whole/every)."
+      },
+      {
+        "position": 5,
+        "surface": "גְּלִיל֥וֹת",
+        "phrase": "the regions",
+        "literal": "circuits",
+        "source": "H1552; KJV: 'coasts', ESV/NASB: 'regions' (plural of 'circuit/district')."
+      },
+      {
+        "position": 6,
+        "surface": "הַ/פְּלִשְׁתִּ֖ים",
+        "phrase": "of the Philistines",
+        "literal": "the-Philistines",
+        "source": "H6430; KJV/ESV/NASB: 'the Philistines' (article + Philistines)."
+      },
+      {
+        "position": 7,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605; KJV/ESV/NASB: 'and all' (waw + whole/every)."
+      },
+      {
+        "position": 8,
+        "surface": "הַ/גְּשׁוּרִֽי",
+        "phrase": "the Geshurites",
+        "literal": "the-Geshurite",
+        "source": "H1651; KJV/ESV/NASB: 'the Geshurites' (article + Geshurite, collective)."
+      }
+    ]
+  }
+]

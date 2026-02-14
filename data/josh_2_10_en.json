@@ -1,0 +1,193 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֣י",
+        "phrase": "For",
+        "literal": "that",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁמַ֗עְנוּ",
+        "phrase": "we have heard",
+        "literal": "we-have-heard",
+        "source": "H8085 (KJV: have heard; ESV: have heard; NASB: have heard)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֠ת",
+        "phrase": "how",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: how; ESV: how; NASB: how)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹבִ֨ישׁ",
+        "phrase": "dried up",
+        "literal": "he-caused-to-dry-up",
+        "source": "H3001 (KJV: dried up; ESV: dried up; NASB: dried up)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: the; ESV: the; NASB: the)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ֤י",
+        "phrase": "the waters of",
+        "literal": "waters-of",
+        "source": "H4325 (KJV: water; ESV: water; NASB: waters)"
+      },
+      {
+        "position": 9,
+        "surface": "ים",
+        "phrase": "Sea",
+        "literal": "sea",
+        "source": "H3220 (KJV: of the Red; ESV: of the Red; NASB: of the Red)"
+      },
+      {
+        "position": 10,
+        "surface": "סוּף֙",
+        "phrase": "of Reeds",
+        "literal": "Reeds",
+        "source": "H5488 (KJV: sea; ESV: Sea; NASB: Sea)"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/פְּנֵי/כֶ֔ם",
+        "phrase": "before you",
+        "literal": "from/before-you",
+        "source": "H6440 (KJV: before you; ESV: before you; NASB: before you)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/צֵאתְ/כֶ֖ם",
+        "phrase": "when you came out",
+        "literal": "in/going-out-your",
+        "source": "H3318 (KJV: when ye came out; ESV: when you came out; NASB: when you came out)"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from/Egypt",
+        "source": "H4714 (KJV: of Egypt; ESV: from Egypt; NASB: from Egypt)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/אֲשֶׁ֣ר",
+        "phrase": "and how",
+        "literal": "and-which",
+        "source": "H834 (KJV: and what; ESV: and what; NASB: and what)"
+      },
+      {
+        "position": 15,
+        "surface": "עֲשִׂיתֶ֡ם",
+        "phrase": "you did",
+        "literal": "you-did",
+        "source": "H6213 (KJV: ye did; ESV: you did; NASB: you did)"
+      },
+      {
+        "position": 16,
+        "surface": "לִ/שְׁנֵי֩",
+        "phrase": "to the two",
+        "literal": "to/two",
+        "source": "H8147 (KJV: unto the two; ESV: to the two; NASB: to the two)"
+      },
+      {
+        "position": 17,
+        "surface": "מַלְכֵ֨י",
+        "phrase": "kings of",
+        "literal": "kings-of",
+        "source": "H4428 (KJV: kings; ESV: kings; NASB: kings)"
+      },
+      {
+        "position": 18,
+        "surface": "הָ/אֱמֹרִ֜י",
+        "phrase": "the Amorites",
+        "literal": "the/Amorite",
+        "source": "H567 (KJV: of the Amorites; ESV: of the Amorites; NASB: of the Amorites)"
+      },
+      {
+        "position": 19,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "who were",
+        "literal": "which",
+        "source": "H834 (KJV: who; ESV: who; NASB: who)"
+      },
+      {
+        "position": 20,
+        "surface": "בְּ/עֵ֤בֶר",
+        "phrase": "on the other side of",
+        "literal": "in/beyond",
+        "source": "H5676 (KJV: on the other side; ESV: on the other side; NASB: on the other side)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/יַּרְדֵּן֙",
+        "phrase": "the Jordan",
+        "literal": "the/Jordan",
+        "source": "H3383 (KJV: of Jordan; ESV: of the Jordan; NASB: of the Jordan)"
+      },
+      {
+        "position": 22,
+        "surface": "לְ/סִיחֹ֣ן",
+        "phrase": "to Sihon",
+        "literal": "to/Sihon",
+        "source": "H5511 (KJV: Sihon; ESV: Sihon; NASB: Sihon)"
+      },
+      {
+        "position": 23,
+        "surface": "וּ/לְ/ע֔וֹג",
+        "phrase": "and to Og",
+        "literal": "and-to/Og",
+        "source": "H5747 (KJV: and Og; ESV: and Og; NASB: and Og)"
+      },
+      {
+        "position": 24,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "H834 (KJV: whom; ESV: whom; NASB: whom)"
+      },
+      {
+        "position": 25,
+        "surface": "הֶחֱרַמְתֶּ֖ם",
+        "phrase": "you utterly destroyed",
+        "literal": "you-devoted-to-destruction",
+        "source": "H2763 (KJV: utterly destroyed; ESV: devoted to destruction; NASB: utterly destroyed)"
+      },
+      {
+        "position": 26,
+        "surface": "אוֹתָֽ/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      }
+    ]
+  }
+]

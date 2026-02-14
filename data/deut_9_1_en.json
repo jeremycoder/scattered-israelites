@@ -1,0 +1,130 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׁמַ֣ע",
+        "phrase": "Hear",
+        "literal": "hear!-Imp-2ms",
+        "source": "H8085 (KJV: Hear; ESV: Hear; NASB: Hear)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֗ל",
+        "phrase": "O Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: O Israel; ESV: O Israel; NASB: O Israel)"
+      },
+      {
+        "position": 3,
+        "surface": "אַתָּ֨ה",
+        "phrase": "you",
+        "literal": "you-2ms",
+        "source": "H859 (KJV: Thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 4,
+        "surface": "עֹבֵ֤ר",
+        "phrase": "are crossing",
+        "literal": "crossing-Ptc-ms",
+        "source": "H5674 (KJV: to pass over; ESV: to cross over; NASB: to cross)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/יּוֹם֙",
+        "phrase": "today",
+        "literal": "the/day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "over",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יַּרְדֵּ֔ן",
+        "phrase": "the Jordan",
+        "literal": "the/Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/בֹא֙",
+        "phrase": "to go",
+        "literal": "to/enter-Inf",
+        "source": "H935 (KJV: to go; ESV: to go; NASB: to go)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/רֶ֣שֶׁת",
+        "phrase": "to dispossess",
+        "literal": "to/possess-Inf",
+        "source": "H3423 (KJV: to possess; ESV: to dispossess; NASB: to dispossess)"
+      },
+      {
+        "position": 10,
+        "surface": "גּוֹיִ֔ם",
+        "phrase": "nations",
+        "literal": "nations-mp",
+        "source": "H1471 (KJV: nations; ESV: nations; NASB: nations)"
+      },
+      {
+        "position": 11,
+        "surface": "גְּדֹלִ֥ים",
+        "phrase": "greater",
+        "literal": "great-mp",
+        "source": "H1419 (KJV: greater; ESV: greater; NASB: greater)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/עֲצֻמִ֖ים",
+        "phrase": "and mightier",
+        "literal": "and/mighty-mp",
+        "source": "H6099 (KJV: mightier; ESV: mightier; NASB: mightier)"
+      },
+      {
+        "position": 13,
+        "surface": "מִמֶּ֑/ךָּ",
+        "phrase": "than you",
+        "literal": "than/you-2ms",
+        "source": "H4480 (KJV: than thou; ESV: than you; NASB: than you)"
+      },
+      {
+        "position": 14,
+        "surface": "עָרִ֛ים",
+        "phrase": "cities",
+        "literal": "cities-fp",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 15,
+        "surface": "גְּדֹלֹ֥ת",
+        "phrase": "great",
+        "literal": "great-fp",
+        "source": "H1419 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 16,
+        "surface": "וּ/בְצֻרֹ֖ת",
+        "phrase": "and fortified",
+        "literal": "and/fortified-fp",
+        "source": "H1219 (KJV: fenced; ESV: fortified; NASB: fortified)"
+      },
+      {
+        "position": 17,
+        "surface": "בַּ/שָּׁמָֽיִם",
+        "phrase": "to the heavens",
+        "literal": "in-the/heavens",
+        "source": "H8064 (KJV: in heaven; ESV: up to the heavens; NASB: up to heaven)"
+      }
+    ]
+  }
+]

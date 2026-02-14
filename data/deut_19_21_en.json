@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 19,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: no; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תָח֖וֹס",
+        "phrase": "you-shall-pity",
+        "literal": "you-shall-pity",
+        "source": "H2347 (KJV: pity; ESV: pity; NASB: show pity)"
+      },
+      {
+        "position": 3,
+        "surface": "עֵינֶ֑/ךָ",
+        "phrase": "your-eye",
+        "literal": "eye-your",
+        "source": "H5869 (KJV: thine eye; ESV: your eye; NASB: your eye)"
+      },
+      {
+        "position": 4,
+        "surface": "נֶ֣פֶשׁ",
+        "phrase": "life",
+        "literal": "life",
+        "source": "H5315 (KJV: life; ESV: life; NASB: life)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/נֶ֗פֶשׁ",
+        "phrase": "for-life",
+        "literal": "in-life",
+        "source": "H5315 (KJV: for life; ESV: for life; NASB: for life)"
+      },
+      {
+        "position": 6,
+        "surface": "עַ֤יִן",
+        "phrase": "eye",
+        "literal": "eye",
+        "source": "H5869 (KJV: eye; ESV: eye; NASB: eye)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/עַ֨יִן֙",
+        "phrase": "for-eye",
+        "literal": "in-eye",
+        "source": "H5869 (KJV: for eye; ESV: for eye; NASB: for eye)"
+      },
+      {
+        "position": 8,
+        "surface": "שֵׁ֣ן",
+        "phrase": "tooth",
+        "literal": "tooth",
+        "source": "H8127 (KJV: tooth; ESV: tooth; NASB: tooth)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/שֵׁ֔ן",
+        "phrase": "for-tooth",
+        "literal": "in-tooth",
+        "source": "H8127 (KJV: for tooth; ESV: for tooth; NASB: for tooth)"
+      },
+      {
+        "position": 10,
+        "surface": "יָ֥ד",
+        "phrase": "hand",
+        "literal": "hand",
+        "source": "H3027 (KJV: hand; ESV: hand; NASB: hand)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/יָ֖ד",
+        "phrase": "for-hand",
+        "literal": "in-hand",
+        "source": "H3027 (KJV: for hand; ESV: for hand; NASB: for hand)"
+      },
+      {
+        "position": 12,
+        "surface": "רֶ֥גֶל",
+        "phrase": "foot",
+        "literal": "foot",
+        "source": "H7272 (KJV: foot; ESV: foot; NASB: foot)"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/רָֽגֶל",
+        "phrase": "for-foot",
+        "literal": "in-foot",
+        "source": "H7272 (KJV: for foot; ESV: for foot; NASB: for foot)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֗את",
+        "phrase": "This",
+        "literal": "this-FEM_SING",
+        "source": "H2063 (KJV: This; ESV: This; NASB: This)"
+      },
+      {
+        "position": 2,
+        "surface": "נַחֲלַ֛ת",
+        "phrase": "inheritance",
+        "literal": "inheritance-FEM_CONSTRUCT",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֥ה",
+        "phrase": "of the tribe",
+        "literal": "tribe-MASC_SING_CONSTRUCT",
+        "source": "H4294 (KJV: tribe; ESV: tribe; NASB: tribe)"
+      },
+      {
+        "position": 4,
+        "surface": "בְנֵי",
+        "phrase": "of the sons",
+        "literal": "sons-MASC_PL_CONSTRUCT",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "דָ֖ן",
+        "phrase": "of Dan",
+        "literal": "Dan",
+        "source": "H1835 (KJV: Dan; ESV: Dan; NASB: Dan)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מִשְׁפְּחֹתָ֑/ם",
+        "phrase": "according to their families",
+        "literal": "to-families_their",
+        "source": "H4940 (KJV: families; ESV: families; NASB: families)"
+      },
+      {
+        "position": 7,
+        "surface": "הֶֽ/עָרִ֥ים",
+        "phrase": "the cities",
+        "literal": "the-cities",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/חַצְרֵי/הֶֽן",
+        "phrase": "and their villages",
+        "literal": "and-villages-their",
+        "source": "H2691 (KJV: villages; ESV: villages; NASB: villages)"
+      }
+    ]
+  }
+]

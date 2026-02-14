@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 21,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִ/שָּׁ֖ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033; KJV/ESV/NASB: 'from thence/there' (indicating departure point)"
+      },
+      {
+        "position": 2,
+        "surface": "נָסָ֑עוּ",
+        "phrase": "they journeyed",
+        "literal": "they-set-out",
+        "source": "H5265; KJV: 'removed', ESV/NASB: 'set out/journeyed' (3p plural qal perfect)"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: 'pitched', ESV/NASB: 'encamped/camped' (waw-consecutive qal 3mp)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/נַ֥חַל",
+        "phrase": "in the wadi",
+        "literal": "in-wadi",
+        "source": "H5158; KJV: 'valley', ESV/NASB: 'wadi/valley' (preposition + construct noun)"
+      },
+      {
+        "position": 5,
+        "surface": "זָֽרֶד",
+        "phrase": "Zered",
+        "literal": "Zered",
+        "source": "H2218; KJV: 'Zared', ESV/NASB: 'Zered' (proper noun, brook/wadi name)"
+      }
+    ]
+  }
+]

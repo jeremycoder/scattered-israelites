@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְשַׁלַּ֤ח",
+        "phrase": "Then Joshua sent",
+        "literal": "and-he-sent-away",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֨עַ֙",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֖ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376 (KJV: every man; ESV: each; NASB: each man)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/נַחֲלָתֽ/וֹ",
+        "phrase": "to his inheritance",
+        "literal": "to-inheritance-his",
+        "source": "H5159 (KJV: his inheritance; ESV: his inheritance; NASB: his inheritance)"
+      }
+    ]
+  }
+]

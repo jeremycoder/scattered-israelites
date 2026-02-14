@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תַעֲשֹׁ֥ק",
+        "phrase": "you shall oppress",
+        "literal": "you-shall-oppress",
+        "source": "H6231 (KJV: oppress; ESV: oppress; NASB: oppress)"
+      },
+      {
+        "position": 3,
+        "surface": "שָׂכִ֖יר",
+        "phrase": "hired servant",
+        "literal": "hired-man",
+        "source": "H7916 (KJV: hired servant; ESV: hired servant; NASB: hired servant)"
+      },
+      {
+        "position": 4,
+        "surface": "עָנִ֣י",
+        "phrase": "poor",
+        "literal": "poor",
+        "source": "H6041 (KJV: poor; ESV: poor; NASB: poor)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶבְי֑וֹן",
+        "phrase": "and needy",
+        "literal": "and-needy",
+        "source": "H34 (KJV: needy; ESV: needy; NASB: needy)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אַחֶ֕י/ךָ",
+        "phrase": "from your brothers",
+        "literal": "from-brothers-your",
+        "source": "H251 (KJV: of thy brethren; ESV: of your countrymen; NASB: of your countrymen)"
+      },
+      {
+        "position": 7,
+        "surface": "א֧וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/גֵּרְ/ךָ֛",
+        "phrase": "from your stranger",
+        "literal": "from-stranger-your",
+        "source": "H1616 (KJV: of thy stranger; ESV: of your aliens; NASB: of your sojourners)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: [he] be; ESV: he is; NASB: he is)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אַרְצְ/ךָ֖",
+        "phrase": "in your land",
+        "literal": "in-land-your",
+        "source": "H776 (KJV: in thy land; ESV: in your land; NASB: in your land)"
+      },
+      {
+        "position": 11,
+        "surface": "בִּ/שְׁעָרֶֽי/ךָ",
+        "phrase": "in your gates",
+        "literal": "in-gates-your",
+        "source": "H8179 (KJV: within thy gates; ESV: in your towns; NASB: within your towns)"
+      }
+    ]
+  }
+]

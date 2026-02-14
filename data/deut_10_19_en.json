@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲהַבְתֶּ֖ם",
+        "phrase": "you shall love",
+        "literal": "and-you-all-love",
+        "source": "H157 (KJV: Love ye; ESV: Love; NASB: show your love)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/גֵּ֑ר",
+        "phrase": "the stranger",
+        "literal": "the-sojourner",
+        "source": "H1616 (KJV: the stranger; ESV: the sojourner; NASB: the alien)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 5,
+        "surface": "גֵרִ֥ים",
+        "phrase": "strangers",
+        "literal": "sojourners",
+        "source": "H1616 (KJV: strangers; ESV: sojourners; NASB: aliens)"
+      },
+      {
+        "position": 6,
+        "surface": "הֱיִיתֶ֖ם",
+        "phrase": "you were",
+        "literal": "you-all-were",
+        "source": "H1961 (KJV: ye were; ESV: you were; NASB: you were)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/אֶ֥רֶץ",
+        "phrase": "in the land",
+        "literal": "in-land",
+        "source": "H776 (KJV: in the land; ESV: in the land; NASB: in the land)"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: of Egypt; ESV: of Egypt; NASB: of Egypt)"
+      }
+    ]
+  }
+]

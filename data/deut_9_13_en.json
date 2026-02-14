@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and He said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: spake; ESV/NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV/NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלַ֣/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV/ESV/NASB: unto me)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV/NASB: saying)"
+      },
+      {
+        "position": 5,
+        "surface": "רָאִ֨יתִי֙",
+        "phrase": "I have seen",
+        "literal": "I-have-seen",
+        "source": "H7200 (KJV/ESV/NASB: I have seen)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עָ֣ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV/ESV: this people; NASB: the people)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV/ESV/NASB: this)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV: behold; ESV/NASB: behold)"
+      },
+      {
+        "position": 10,
+        "surface": "עַם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "H5971 (KJV/ESV/NASB: [people])"
+      },
+      {
+        "position": 11,
+        "surface": "קְשֵׁה",
+        "phrase": "stiff",
+        "literal": "stiff",
+        "source": "H7186 (KJV: stiffnecked; ESV: stubborn; NASB: stubborn)"
+      },
+      {
+        "position": 12,
+        "surface": "עֹ֖רֶף",
+        "phrase": "neck",
+        "literal": "neck",
+        "source": "H6203 (KJV: stiffnecked; ESV/NASB: stiff-necked/stubborn)"
+      },
+      {
+        "position": 13,
+        "surface": "הֽוּא",
+        "phrase": "it",
+        "literal": "it",
+        "source": "H1931 (KJV/ESV/NASB: it is)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 3,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֖א",
+        "phrase": "you shall not fear",
+        "literal": "not",
+        "source": "H3808; KJV 'Ye shall not', ESV 'You shall not', NASB 'Do not'"
+      },
+      {
+        "position": 2,
+        "surface": "תְִּירָא֑וּ/ם",
+        "phrase": "fear them",
+        "literal": "you(pl)-fear-them",
+        "source": "H3372; KJV 'fear them', ESV 'fear them', NASB 'fear them'"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֚י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV 'LORD', ESV 'Lord', NASB 'LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹֽהֵי/כֶ֔ם",
+        "phrase": "your God",
+        "literal": "God-your(pl)",
+        "source": "H430; KJV 'your God', ESV 'your God', NASB 'your God'"
+      },
+      {
+        "position": 6,
+        "surface": "ה֖וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931; KJV 'he', ESV 'it is', NASB 'is the one'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/נִּלְחָ֥ם",
+        "phrase": "fighting",
+        "literal": "the-fighting",
+        "source": "H3898; KJV 'fight', ESV 'fights', NASB 'fighting'"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/כֶֽם",
+        "phrase": "for you",
+        "literal": "to-you(pl)",
+        "source": "; KJV 'for you', ESV 'for you', NASB 'for you'"
+      }
+    ]
+  }
+]

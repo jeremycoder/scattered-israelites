@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֹ֗את",
+        "phrase": "This",
+        "literal": "this-F",
+        "source": "H2063; KJV: This, ESV: This, NASB: This"
+      },
+      {
+        "position": 2,
+        "surface": "נַחֲלַ֛ת",
+        "phrase": "inheritance",
+        "literal": "inheritance-F",
+        "source": "H5159; KJV: inheritance, ESV: inheritance, NASB: inheritance"
+      },
+      {
+        "position": 3,
+        "surface": "מַטֵּ֥ה",
+        "phrase": "of the tribe",
+        "literal": "tribe-M",
+        "source": "H4294; KJV: tribe, ESV: tribe, NASB: tribe"
+      },
+      {
+        "position": 4,
+        "surface": "בְנֵֽי",
+        "phrase": "of the sons of",
+        "literal": "sons-M-of",
+        "source": "H1121; KJV: children, ESV: people, NASB: sons"
+      },
+      {
+        "position": 5,
+        "surface": "נַפְתָּלִ֖י",
+        "phrase": "Naphtali",
+        "literal": "Naphtali",
+        "source": "H5321; KJV: Naphtali, ESV: Naphtali, NASB: Naphtali"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מִשְׁפְּחֹתָ֑/ם",
+        "phrase": "according to their families",
+        "literal": "to-families-their",
+        "source": "H4940; KJV: families, ESV: clans, NASB: families"
+      },
+      {
+        "position": 7,
+        "surface": "הֶ/עָרִ֖ים",
+        "phrase": "the cities",
+        "literal": "the-cities",
+        "source": "H5892; KJV: cities, ESV: cities, NASB: cities"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/חַצְרֵי/הֶֽן",
+        "phrase": "and their villages",
+        "literal": "and-villages-their",
+        "source": "H2691; KJV: villages, ESV: villages, NASB: villages"
+      }
+    ]
+  }
+]

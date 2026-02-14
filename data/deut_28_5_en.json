@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בָּר֥וּךְ",
+        "phrase": "Blessed",
+        "literal": "blessed",
+        "source": "H1288; KJV/ESV/NASB: 'Blessed' (Deut 28:5)"
+      },
+      {
+        "position": 2,
+        "surface": "טַנְאֲ/ךָ֖",
+        "phrase": "your basket",
+        "literal": "basket-your",
+        "source": "H2935; KJV: 'thy basket', ESV/NASB: 'your basket'/'kneading bowl' (Deut 28:5)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מִשְׁאַרְתֶּֽ/ךָ",
+        "phrase": "and your kneading bowl",
+        "literal": "and-remainder-your",
+        "source": "H4863; KJV: 'thy store' (or dough/kneadingtroughs), ESV/NASB: 'your kneading bowl' (Deut 28:5)"
+      }
+    ]
+  }
+]

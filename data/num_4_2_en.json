@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נָשֹׂ֗א",
+        "phrase": "Take",
+        "literal": "lift",
+        "source": "H5375 (KJV: Take; ESV: Take; NASB: Take) a census"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "רֹאשׁ֙",
+        "phrase": "sum",
+        "literal": "head",
+        "source": "H7218 (KJV: sum; ESV: census; NASB: census)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "קְהָ֔ת",
+        "phrase": "of Kohath",
+        "literal": "Kohath",
+        "source": "H6955 (KJV: Kohath; ESV: Kohath; NASB: Kohath)"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/תּ֖וֹךְ",
+        "phrase": "from among",
+        "literal": "from/amidst",
+        "source": "H8432 (KJV: among; ESV: among; NASB: among)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 8,
+        "surface": "לֵוִ֑י",
+        "phrase": "of Levi",
+        "literal": "Levi",
+        "source": "H3878 (KJV: Levi; ESV: Levi; NASB: Levi)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/מִשְׁפְּחֹתָ֖/ם",
+        "phrase": "by their families",
+        "literal": "to/families-of/them",
+        "source": "H4940 (KJV: families; ESV: clans; NASB: families)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/בֵ֥ית",
+        "phrase": "by the house",
+        "literal": "to/house-of",
+        "source": "H1004 (KJV: houses; ESV: fathers' houses; NASB: fathers' houses)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲבֹתָֽ/ם",
+        "phrase": "of their fathers",
+        "literal": "fathers-of/them",
+        "source": "H1 (KJV: fathers; ESV: fathers; NASB: fathers)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 27,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּקְרֵ֥ב",
+        "phrase": "and brought",
+        "literal": "and-he-caused-to-draw-near",
+        "source": "H7126: KJV 'brought', ESV 'brought', NASB 'brought' (all render as 'brought their case')"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֛ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872: KJV 'Moses', ESV 'Moses', NASB 'Moses'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "[direct-object-marker]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied in 'their case')"
+      },
+      {
+        "position": 4,
+        "surface": "מִשְׁפָּטָ֖/",
+        "phrase": "case",
+        "literal": "judgment-of-them",
+        "source": "H4941: KJV 'cause', ESV 'case', NASB 'case'"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440: KJV 'before', ESV 'before', NASB 'before'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      }
+    ]
+  }
+]

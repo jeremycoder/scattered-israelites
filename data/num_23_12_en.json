@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 23,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַן",
+        "phrase": "And he answered",
+        "literal": "and-he-answered",
+        "source": "H6030; KJV: And he answered, ESV: And he answered, NASB: He replied"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: and said, ESV: and said, NASB: (implied in replied)"
+      },
+      {
+        "position": 3,
+        "surface": "הֲ/לֹ֗א",
+        "phrase": "Must I not",
+        "literal": "not-Q",
+        "source": "H3808; KJV: Must I not, ESV: Must I not, NASB: Must I not"
+      },
+      {
+        "position": 4,
+        "surface": "אֵת֩",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that which",
+        "literal": "which",
+        "source": "H834; KJV: that which, ESV: what, NASB: what"
+      },
+      {
+        "position": 6,
+        "surface": "יָשִׂ֤ים",
+        "phrase": "puts",
+        "literal": "he-puts/places",
+        "source": "H7760; KJV: hath put, ESV: puts, NASB: puts"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the Lord, NASB: the Lord"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/פִ֔/י",
+        "phrase": "in my mouth",
+        "literal": "in-mouth-my",
+        "source": "H6310; KJV: in my mouth, ESV: in my mouth, NASB: in my mouth"
+      },
+      {
+        "position": 9,
+        "surface": "אֹת֥/וֹ",
+        "phrase": "it",
+        "literal": "[accusative-marker]-it",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶשְׁמֹ֖ר",
+        "phrase": "take heed to",
+        "literal": "I-will-keep/guard",
+        "source": "H8104; KJV: take heed, ESV: take care, NASB: be careful"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/דַבֵּֽר",
+        "phrase": "to speak",
+        "literal": "to-speak",
+        "source": "H1696; KJV: to speak, ESV: to speak, NASB: to speak"
+      }
+    ]
+  }
+]

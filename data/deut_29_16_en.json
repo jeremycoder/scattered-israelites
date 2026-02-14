@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 29,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּרְאוּ֙",
+        "phrase": "and you saw",
+        "literal": "and-you-saw",
+        "source": "H7200; KJV: 'saw', ESV: 'saw', NASB: 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: '(their)', ESV: '(their)', NASB: '(their)'"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁקּ֣וּצֵי/הֶ֔ם",
+        "phrase": "abominations",
+        "literal": "abominations-of-them",
+        "source": "H8251; KJV: 'abominations', ESV: 'detestable things', NASB: 'detestable idols'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and their",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV: 'and their', ESV: 'and their', NASB: 'and their'"
+      },
+      {
+        "position": 5,
+        "surface": "גִּלֻּלֵי/הֶ֑ם",
+        "phrase": "idols",
+        "literal": "idols-of-them",
+        "source": "H1544; KJV: 'images', ESV: 'idols', NASB: 'idols'"
+      },
+      {
+        "position": 6,
+        "surface": "עֵ֣ץ",
+        "phrase": "wood",
+        "literal": "wood",
+        "source": "H6086; KJV: 'wood', ESV: 'wood', NASB: 'wood'"
+      },
+      {
+        "position": 7,
+        "surface": "וָ/אֶ֔בֶן",
+        "phrase": "and stone",
+        "literal": "and-stone",
+        "source": "H68; KJV: 'and stone', ESV: 'and stone', NASB: 'and stone'"
+      },
+      {
+        "position": 8,
+        "surface": "כֶּ֥סֶף",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701; KJV: 'silver', ESV: 'silver', NASB: 'silver'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/זָהָ֖ב",
+        "phrase": "and gold",
+        "literal": "and-gold",
+        "source": "H2091; KJV: 'and gold', ESV: 'and gold', NASB: 'and gold'"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'which', NASB: 'which'"
+      },
+      {
+        "position": 11,
+        "surface": "עִמָּ/הֶֽם",
+        "phrase": "were with them",
+        "literal": "with-them",
+        "source": "H5973; KJV: 'were among them', ESV: 'were among them', NASB: 'were among them'"
+      }
+    ]
+  }
+]

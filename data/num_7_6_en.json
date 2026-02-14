@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 7,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֣ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947 (KJV: took; ESV/NASB: took)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV/ESV/NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֲגָלֹ֖ת",
+        "phrase": "carts",
+        "literal": "the-carts",
+        "source": "H5699 (KJV: wagons; ESV/NASB: carts/wagons)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: and [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/בָּקָ֑ר",
+        "phrase": "oxen",
+        "literal": "the-cattle",
+        "source": "H1241 (KJV/ESV/NASB: oxen)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֵּ֥ן",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "H5414 (KJV/ESV/NASB: gave)"
+      },
+      {
+        "position": 8,
+        "surface": "אוֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[direct-object-marker]-them",
+        "source": "H853 (KJV/ESV/NASB: them)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV/ESV/NASB: to/unto)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/לְוִיִּֽם",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV/ESV/NASB: the Levites)"
+      }
+    ]
+  }
+]

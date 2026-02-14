@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 5,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִ֥ישׁ",
+        "phrase": "and every man",
+        "literal": "and-man",
+        "source": "H376; KJV: 'every man's', ESV: 'every man's', NASB: 'every man's'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 3,
+        "surface": "קֳדָשָׁ֖י/ו",
+        "phrase": "his holy things",
+        "literal": "holy.things-his",
+        "source": "H6944; KJV: 'hallowed things', ESV: 'holy gifts', NASB: 'holy gifts'"
+      },
+      {
+        "position": 4,
+        "surface": "ל֣/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV/ESV/NASB: 'his'"
+      },
+      {
+        "position": 5,
+        "surface": "יִהְי֑וּ",
+        "phrase": "shall be",
+        "literal": "they-will.be",
+        "source": "H1961; KJV: 'shall be', ESV: 'shall be', NASB: 'shall be'"
+      },
+      {
+        "position": 6,
+        "surface": "אִ֛ישׁ",
+        "phrase": "any man",
+        "literal": "man",
+        "source": "H376; KJV: 'any man', ESV: 'any man', NASB: 'any man'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "whatever",
+        "literal": "which",
+        "source": "H834; KJV: 'whatsoever', ESV: 'whatever', NASB: 'whatever'"
+      },
+      {
+        "position": 8,
+        "surface": "יִתֵּ֥ן",
+        "phrase": "gives",
+        "literal": "he-gives",
+        "source": "H5414; KJV: 'giveth', ESV: 'gives', NASB: 'gives'"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/כֹּהֵ֖ן",
+        "phrase": "to the priest",
+        "literal": "to-the-priest",
+        "source": "H3548; KJV: 'the priest', ESV: 'the priest', NASB: 'the priest'"
+      },
+      {
+        "position": 10,
+        "surface": "ל֥/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV/ESV/NASB: 'his'"
+      },
+      {
+        "position": 11,
+        "surface": "יִהְיֶֽה",
+        "phrase": "it shall be",
+        "literal": "it-will.be",
+        "source": "H1961; KJV: 'it shall be', ESV: 'it becomes', NASB: 'it becomes'"
+      }
+    ]
+  }
+]

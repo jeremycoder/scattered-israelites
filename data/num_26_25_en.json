@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֛לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428; KJV/ESV/NASB: 'These'"
+      },
+      {
+        "position": 2,
+        "surface": "מִשְׁפְּחֹ֥ת",
+        "phrase": "families",
+        "literal": "families",
+        "source": "H4940; KJV/ESV/NASB: 'families' or 'clans'"
+      },
+      {
+        "position": 3,
+        "surface": "יִשָּׂשכָ֖ר",
+        "phrase": "of Issachar",
+        "literal": "Issachar",
+        "source": "H3485; KJV/ESV/NASB: 'Issachar'"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/פְקֻדֵי/הֶ֑ם",
+        "phrase": "according to those numbered of them",
+        "literal": "to-numbered-of-them",
+        "source": "H6485; KJV: 'according to those that were numbered of them', ESV/NASB: 'according to those who were numbered of them'"
+      },
+      {
+        "position": 5,
+        "surface": "אַרְבָּעָ֧ה",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702; KJV/ESV/NASB: part of '64,300' (four [thousand...])"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁשִּׁ֛ים",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "H8346; KJV/ESV/NASB: part of '64,300' ('threescore and four', 'sixty-four')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV/ESV/NASB: part of '64,300' ('thousand')"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/שְׁלֹ֥שׁ",
+        "phrase": "and three",
+        "literal": "and-three",
+        "source": "H7969; KJV/ESV/NASB: part of '64,300' ('and three')"
+      },
+      {
+        "position": 9,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967; KJV/ESV/NASB: part of '64,300' ('hundred' or 'three hundred')"
+      }
+    ]
+  }
+]

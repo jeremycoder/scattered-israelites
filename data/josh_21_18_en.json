@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (untranslated marker before Anathoth) [1][5]"
+      },
+      {
+        "position": 2,
+        "surface": "עֲנָתוֹת֙",
+        "phrase": "Anathoth",
+        "literal": "Anathoth",
+        "source": "H6068; KJV: Anathoth, ESV: Anathoth, NASB: Anathoth [1][5]"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (untranslated marker before pasturelands) [1][5]"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְרָשֶׁ֔/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-of-it",
+        "source": "H4054; KJV: her suburbs, ESV: its pasturelands, NASB: its pasturelands [1][5]"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (untranslated marker before Almon) [1][5]"
+      },
+      {
+        "position": 6,
+        "surface": "עַלְמ֖וֹן",
+        "phrase": "Almon",
+        "literal": "Almon",
+        "source": "H5960; KJV: Almon, ESV: Almon, NASB: Almon [1][5]"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (untranslated marker before pasturelands) [1][5]"
+      },
+      {
+        "position": 8,
+        "surface": "מִגְרָשֶׁ֑/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-of-it",
+        "source": "H4054; KJV: her suburbs, ESV: its pasturelands, NASB: its pasturelands [1][5]"
+      },
+      {
+        "position": 9,
+        "surface": "עָרִ֖ים",
+        "phrase": "cities",
+        "literal": "cities",
+        "source": "H5892; KJV/ESV/NASB: cities [1][5]"
+      },
+      {
+        "position": 10,
+        "surface": "אַרְבַּֽע",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702; KJV/ESV/NASB: four [1][5]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶ֤רֶץ",
+        "phrase": "a land",
+        "literal": "land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 2,
+        "surface": "חִטָּה֙",
+        "phrase": "of wheat",
+        "literal": "wheat",
+        "source": "H2406 (KJV: wheat; ESV: wheat; NASB: wheat)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/שְׂעֹרָ֔ה",
+        "phrase": "and barley",
+        "literal": "and-barley",
+        "source": "H8184 (KJV: barley; ESV: barley; NASB: barley)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/גֶ֥פֶן",
+        "phrase": "vines",
+        "literal": "and-vine",
+        "source": "H1612 (KJV: vine; ESV: vines; NASB: grapevines)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/תְאֵנָ֖ה",
+        "phrase": "fig trees",
+        "literal": "and-fig",
+        "source": "H8384 (KJV: fig trees; ESV: fig trees; NASB: fig trees)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/רִמּ֑וֹן",
+        "phrase": "pomegranates",
+        "literal": "and-pomegranate",
+        "source": "H7416 (KJV: pomegranates; ESV: pomegranates; NASB: pomegranates)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶֽרֶץ",
+        "phrase": "a land",
+        "literal": "land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 8,
+        "surface": "זֵ֥ית",
+        "phrase": "olive trees",
+        "literal": "olive",
+        "source": "H2132 (KJV: olive trees; ESV: olive trees; NASB: olive trees)"
+      },
+      {
+        "position": 9,
+        "surface": "שֶׁ֖מֶן",
+        "phrase": "and honey",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil; ESV: honey (context); NASB: honey (context, oil olive)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/דְבָֽשׁ",
+        "phrase": "and honey",
+        "literal": "and-honey",
+        "source": "H1706 (KJV: honey; ESV: honey; NASB: honey)"
+      }
+    ]
+  }
+]

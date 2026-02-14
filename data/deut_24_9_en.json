@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זָכ֕וֹר",
+        "phrase": "Remember",
+        "literal": "remember!-Imp-m.s.",
+        "source": "H2142: KJV 'Remember', ESV 'Remember', NASB 'Remember'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֧ת",
+        "phrase": "what",
+        "literal": "[direct object marker]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834: KJV 'what', ESV 'what', NASB 'what'"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֛ה",
+        "phrase": "did",
+        "literal": "he-did",
+        "source": "H6213: KJV 'did', ESV 'did', NASB 'did'"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430: KJV 'thy God', ESV 'your God', NASB 'your God'"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/מִרְיָ֑ם",
+        "phrase": "to Miriam",
+        "literal": "to-Miriam",
+        "source": "H4813: KJV 'Miriam', ESV 'Miriam', NASB 'Miriam'"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/דֶּ֖רֶךְ",
+        "phrase": "on the way",
+        "literal": "in-the-way",
+        "source": "H1870: KJV 'by the way', ESV 'on the way', NASB 'on the way'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/צֵאתְ/כֶ֥ם",
+        "phrase": "as you came out",
+        "literal": "in-going-out-your",
+        "source": "H3318: KJV 'after that ye were come forth', ESV 'as you came out', NASB 'as you came out'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/מִּצְרָֽיִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "H4714: KJV 'out of Egypt', ESV 'of Egypt', NASB 'of Egypt"
+      }
+    ]
+  }
+]

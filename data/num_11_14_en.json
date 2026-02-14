@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 11,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: [implied in 'am not'], NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "אוּכַ֤ל",
+        "phrase": "am able",
+        "literal": "be.able-1cs",
+        "source": "H3201; KJV: am able, ESV: able, NASB: am able"
+      },
+      {
+        "position": 3,
+        "surface": "אָנֹכִי֙",
+        "phrase": "I",
+        "literal": "I-1cs",
+        "source": "H595; KJV: I, ESV: I, NASB: I"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בַדִּ֔/י",
+        "phrase": "alone",
+        "literal": "to/alone/my",
+        "source": "H905; KJV: alone, ESV: alone, NASB: alone"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/שֵׂ֖את",
+        "phrase": "to carry",
+        "literal": "to/carry.inf",
+        "source": "H5375; KJV: bear, ESV: carry, NASB: carry"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: [implied], ESV: [implied], NASB: [implied]"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: all, ESV: all, NASB: all"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עָ֣ם",
+        "phrase": "the people",
+        "literal": "the/people",
+        "source": "H5971; KJV: this people, ESV: this people, NASB: this people"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the/this",
+        "source": "H2088; KJV: this, ESV: this, NASB: this"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֥י",
+        "phrase": "because",
+        "literal": "that",
+        "source": "H3588; KJV: because, ESV: [implied], NASB: because"
+      },
+      {
+        "position": 11,
+        "surface": "כָבֵ֖ד",
+        "phrase": "heavy",
+        "literal": "heavy-ms",
+        "source": "H3515; KJV: too heavy, ESV: too heavy, NASB: too burdensome"
+      },
+      {
+        "position": 12,
+        "surface": "מִמֶּֽ/נִּי",
+        "phrase": "for me",
+        "literal": "from/me",
+        "source": "H4480; KJV: for me, ESV: for me, NASB: for me"
+      }
+    ]
+  }
+]

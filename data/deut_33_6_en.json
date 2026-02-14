@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְחִ֥י",
+        "phrase": "Let (him) live",
+        "literal": "let-him-live",
+        "source": "H2421: KJV 'Let Reuben live'; ESV 'Let Reuben live'; NASB 'May Reuben live'"
+      },
+      {
+        "position": 2,
+        "surface": "רְאוּבֵ֖ן",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "H7205: KJV 'Reuben'; ESV 'Reuben'; NASB 'Reuben'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַל",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H408: KJV 'and let not'; ESV 'and not'; NASB 'nor'"
+      },
+      {
+        "position": 4,
+        "surface": "יָמֹ֑ת",
+        "phrase": "die",
+        "literal": "die",
+        "source": "H4191: KJV 'die'; ESV 'die'; NASB 'die'"
+      },
+      {
+        "position": 5,
+        "surface": "וִ/יהִ֥י",
+        "phrase": "and-let-be",
+        "literal": "and-let-be",
+        "source": "H1961: KJV 'and let'; ESV 'but let'; NASB 'nor his men be'"
+      },
+      {
+        "position": 6,
+        "surface": "מְתָ֖י/ו",
+        "phrase": "his-men",
+        "literal": "men-his",
+        "source": "H4962: KJV 'his men'; ESV 'his men'; NASB 'his men'"
+      },
+      {
+        "position": 7,
+        "surface": "מִסְפָּֽר",
+        "phrase": "a-number",
+        "literal": "a-number",
+        "source": "H4557: KJV 'few'; ESV 'few'; NASB 'few'"
+      }
+    ]
+  }
+]

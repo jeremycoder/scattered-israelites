@@ -1,0 +1,179 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בִ/שְׁלֹ֨חַ",
+        "phrase": "and-when-he-sent",
+        "literal": "and-in-sending",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶתְ/כֶ֗ם",
+        "phrase": "you",
+        "literal": "obj-marker-you(pl.)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/קָּדֵ֤שׁ",
+        "phrase": "from Kadesh",
+        "literal": "from-Kadesh",
+        "source": "H6947 (KJV: Kadeshbarnea; ESV: Kadesh-barnea; NASB: Kadesh-barnea)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּרְנֵ֨עַ֙",
+        "phrase": "Barnea",
+        "literal": "Barnea",
+        "source": "H6947 (KJV: Kadeshbarnea; ESV: Kadesh-barnea; NASB: Kadesh-barnea)"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 7,
+        "surface": "עֲלוּ֙",
+        "phrase": "Go up",
+        "literal": "go-up(pl.)",
+        "source": "H5927 (KJV: Go up; ESV: Go up; NASB: Go up)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/רְשׁ֣וּ",
+        "phrase": "and possess",
+        "literal": "and-possess(pl.)",
+        "source": "H3423 (KJV: possess; ESV: possess; NASB: possess)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "obj-marker",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 12,
+        "surface": "נָתַ֖תִּי",
+        "phrase": "I have given",
+        "literal": "I-have-given",
+        "source": "H5414 (KJV: I have given; ESV: I have given; NASB: I have given)"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you(pl.)",
+        "source": " (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/תַּמְר֗וּ",
+        "phrase": "but you rebelled",
+        "literal": "and-you-rebelled(pl.)",
+        "source": "H4784 (KJV: rebelled; ESV: rebelled; NASB: rebelled)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "against",
+        "literal": "obj-marker",
+        "source": "H853 (KJV: -; ESV: against; NASB: against)"
+      },
+      {
+        "position": 16,
+        "surface": "פִּ֤י",
+        "phrase": "the mouth of",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: mouth; ESV: command; NASB: command)"
+      },
+      {
+        "position": 17,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 18,
+        "surface": "אֱלֹ֣הֵי/כֶ֔ם",
+        "phrase": "your God",
+        "literal": "God-of-you(pl.)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 20,
+        "surface": "הֶֽאֱמַנְתֶּם֙",
+        "phrase": "did you believe",
+        "literal": "you-believed(pl.)",
+        "source": "H539 (KJV: believed; ESV: believe; NASB: believe)"
+      },
+      {
+        "position": 21,
+        "surface": "ל֔/וֹ",
+        "phrase": "in Him",
+        "literal": "to-him",
+        "source": " (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 23,
+        "surface": "שְׁמַעְתֶּ֖ם",
+        "phrase": "did you obey",
+        "literal": "you-heard(pl.)",
+        "source": "H8085 (KJV: hearkened; ESV: obey; NASB: obey)"
+      },
+      {
+        "position": 24,
+        "surface": "בְּ/קֹלֽ/וֹ",
+        "phrase": "to His voice",
+        "literal": "in-voice-of-him",
+        "source": "H6963 (KJV: his voice; ESV: his voice; NASB: His voice)"
+      }
+    ]
+  }
+]

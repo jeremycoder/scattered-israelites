@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֤ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/לְוִיִּ֔ם",
+        "phrase": "Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      },
+      {
+        "position": 5,
+        "surface": "נֹ֥שְׂאֵ֛י",
+        "phrase": "who carried",
+        "literal": "carriers-of",
+        "source": "H5375 (KJV: bare; ESV: carried; NASB: carried)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲר֥וֹן",
+        "phrase": "ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּרִית",
+        "phrase": "of the covenant",
+        "literal": "covenant",
+        "source": "H1285 (KJV: covenant; ESV: covenant; NASB: covenant)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD's; ESV: the LORD's; NASB: the LORD's)"
+      },
+      {
+        "position": 9,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      }
+    ]
+  }
+]

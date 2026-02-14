@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בָקָ֕ר",
+        "phrase": "and cattle",
+        "literal": "and-cattle",
+        "source": "H1241; KJV: beeves/oxen, ESV: cattle, NASB: cattle"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁנַ֥יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV: (implied in seventy-two), ESV: (implied in seventy-two), NASB: (implied in seventy-two)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שִׁבְעִ֖ים",
+        "phrase": "and seventy",
+        "literal": "and-seventy",
+        "source": "H7657; KJV: threescore and twelve (with two), ESV: seventy-two, NASB: 72"
+      },
+      {
+        "position": 4,
+        "surface": "אָֽלֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV: thousand, ESV: thousand, NASB: thousand"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תַחֲרֹ֥שׁ",
+        "phrase": "you shall plow",
+        "literal": "you(m.s.)-shall-plow",
+        "source": "H2790; KJV: plow, ESV: plow, NASB: plow"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/שׁוֹר",
+        "phrase": "with ox",
+        "literal": "in-with ox",
+        "source": "H7794; KJV: with an ox, ESV: with an ox, NASB: with an ox"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בַ/חֲמֹ֖ר",
+        "phrase": "and with a donkey",
+        "literal": "and-in-the donkey",
+        "source": "H2543; KJV: and an ass, ESV: and a donkey, NASB: and a donkey"
+      },
+      {
+        "position": 5,
+        "surface": "יַחְדָּֽו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "H3162; KJV: together, ESV: together, NASB: together"
+      }
+    ]
+  }
+]

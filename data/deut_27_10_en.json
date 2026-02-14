@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁ֣מַעְתָּ֔",
+        "phrase": "and you shall obey",
+        "literal": "and-you-shall-hear",
+        "source": "H8085 (KJV: obey; ESV: obey; NASB: obey)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/ק֖וֹל",
+        "phrase": "the voice of",
+        "literal": "in-voice-of",
+        "source": "H6963 (KJV: the voice; ESV: the voice; NASB: the voice)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֶ֑י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עָשִׂ֤יתָ",
+        "phrase": "and you shall do",
+        "literal": "and-you-shall-do",
+        "source": "H6213 (KJV: do; ESV: keeping; NASB: do)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "מִצְוֺתָ/ו֙",
+        "phrase": "his commandments",
+        "literal": "commandments-his",
+        "source": "H4687 (KJV: his commandments; ESV: his commandments; NASB: His commandments)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "חֻקָּ֔י/ו",
+        "phrase": "his statutes",
+        "literal": "statutes-his",
+        "source": "H2706 (KJV: his statutes; ESV: his statutes; NASB: His statutes)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֛ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 11,
+        "surface": "אָנֹכִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 12,
+        "surface": "מְצַוְּ/ךָ֖",
+        "phrase": "command you",
+        "literal": "command-you",
+        "source": "H6680 (KJV: command; ESV: command; NASB: command)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today",
+        "literal": "the-today",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      }
+    ]
+  }
+]

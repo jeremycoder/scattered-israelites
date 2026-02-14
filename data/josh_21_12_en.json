@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-Acc",
+        "source": "H853 (KJV: the fields; ESV: the fields; NASB: the fields)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׂדֵ֥ה",
+        "phrase": "the field",
+        "literal": "field-of",
+        "source": "H7704 (KJV: fields; ESV: fields; NASB: fields)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עִ֖יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-Acc",
+        "source": "H853 (KJV: and the villages; ESV: and its villages; NASB: and its villages)"
+      },
+      {
+        "position": 5,
+        "surface": "חֲצֵרֶ֑י/הָ",
+        "phrase": "its villages",
+        "literal": "courts-of-her",
+        "source": "H2691 (KJV: villages thereof; ESV: villages; NASB: villages)"
+      },
+      {
+        "position": 6,
+        "surface": "נָֽתְנ֛וּ",
+        "phrase": "they gave",
+        "literal": "they-gave",
+        "source": "H5414 (KJV: gave they; ESV: had been given; NASB: they gave)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/כָלֵ֥ב",
+        "phrase": "to Caleb",
+        "literal": "to-Caleb",
+        "source": "H3612 (KJV: to Caleb; ESV: to Caleb; NASB: to Caleb)"
+      },
+      {
+        "position": 8,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 9,
+        "surface": "יְפֻנֶּ֖ה",
+        "phrase": "of Jephunneh",
+        "literal": "Jephunneh",
+        "source": "H3312 (KJV: of Jephunneh; ESV: of Jephunneh; NASB: of Jephunneh)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/אֲחֻזָּתֽ/וֹ",
+        "phrase": "as his possession",
+        "literal": "in-possession-his",
+        "source": "H272 (KJV: for his possession; ESV: as his possession; NASB: as his possession)"
+      }
+    ]
+  }
+]

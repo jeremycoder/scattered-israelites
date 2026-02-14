@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 30,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִשָּׁ֕ה",
+        "phrase": "and (if) a woman",
+        "literal": "and-woman",
+        "source": "H802 (KJV: 'her'; ESV/NASB: 'woman')"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H3588 (KJV/ESV/NASB: 'if')"
+      },
+      {
+        "position": 3,
+        "surface": "תִדֹּ֥ר",
+        "phrase": "she vows",
+        "literal": "she-vows",
+        "source": "H5087 (KJV/ESV/NASB: 'vow')"
+      },
+      {
+        "position": 4,
+        "surface": "נֶ֖דֶר",
+        "phrase": "a vow",
+        "literal": "vow",
+        "source": "H5088 (KJV/ESV/NASB: 'vow')"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/יהוָ֑ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV/ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָסְרָ֥ה",
+        "phrase": "and she binds",
+        "literal": "and-she-binds",
+        "source": "H631 (KJV/ESV/NASB: 'bound')"
+      },
+      {
+        "position": 7,
+        "surface": "אִסָּ֛ר",
+        "phrase": "a binding",
+        "literal": "binding",
+        "source": "H632 (KJV/ESV/NASB: 'bond')"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/בֵ֥ית",
+        "phrase": "in (the) house",
+        "literal": "in-house",
+        "source": "H1004 (KJV/ESV/NASB: 'house')"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִ֖י/הָ",
+        "phrase": "of her father",
+        "literal": "father-her",
+        "source": "H1 (KJV/ESV/NASB: 'father')"
+      },
+      {
+        "position": 10,
+        "surface": "בִּ/נְעֻרֶֽי/הָ",
+        "phrase": "in her youth",
+        "literal": "in-youth-her",
+        "source": "H5271 (KJV/ESV/NASB: 'youth')"
+      }
+    ]
+  }
+]

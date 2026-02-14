@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 18,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בֵ֧ית",
+        "phrase": "and Beth",
+        "literal": "and-house",
+        "source": "H1026; KJV/ESV/NASB: Beth-arabah (first element 'Beth')"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽעֲרָבָ֛ה",
+        "phrase": "arabah",
+        "literal": "the-arabah",
+        "source": "H1026; KJV: Arabah, ESV/NASB: arabah (in Beth-arabah)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/צְמָרַ֖יִם",
+        "phrase": "and Zemaraim",
+        "literal": "and-Zemaraim",
+        "source": "H6787; KJV/ESV/NASB: Zemaraim"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בֵֽית",
+        "phrase": "and Beth",
+        "literal": "and-house",
+        "source": "H1008; KJV/ESV/NASB: Bethel (first element 'Beth')"
+      },
+      {
+        "position": 5,
+        "surface": "אֵֽל",
+        "phrase": "el",
+        "literal": "God",
+        "source": "H1008; KJV/ESV/NASB: Bethel (second element 'el')"
+      }
+    ]
+  }
+]

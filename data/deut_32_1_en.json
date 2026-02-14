@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַאֲזִ֥ינוּ",
+        "phrase": "Give ear",
+        "literal": "give-ear!",
+        "source": "H238 (KJV: Give ear; ESV: Give ear; NASB: Give ear)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שָּׁמַ֖יִם",
+        "phrase": "O heavens",
+        "literal": "the/heavens",
+        "source": "H8064 (KJV: O ye heavens; ESV: O heavens; NASB: O heavens)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/אֲדַבֵּ֑רָה",
+        "phrase": "and I will speak",
+        "literal": "and-I-will-speak",
+        "source": "H1696 (KJV: and I will speak; ESV: and let me speak; NASB: and let me speak)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/תִשְׁמַ֥ע",
+        "phrase": "and hear",
+        "literal": "and-hear",
+        "source": "H8085 (KJV: and hear; ESV: let the earth hear; NASB: And let the earth hear)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "O earth",
+        "literal": "the/earth",
+        "source": "H776 (KJV: O earth; ESV: O earth; NASB: O earth)"
+      },
+      {
+        "position": 6,
+        "surface": "אִמְרֵי",
+        "phrase": "the words",
+        "literal": "words-of",
+        "source": "H561 (KJV: the words; ESV: the words; NASB: the words)"
+      },
+      {
+        "position": 7,
+        "surface": "פִֽ/י",
+        "phrase": "of my mouth",
+        "literal": "mouth/my",
+        "source": "H6310 (KJV: of my mouth; ESV: of my mouth; NASB: of my mouth)"
+      }
+    ]
+  }
+]

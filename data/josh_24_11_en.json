@@ -1,0 +1,151 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 24,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּעַבְר֣וּ",
+        "phrase": "and-you-crossed",
+        "literal": "and-you(pl)-crossed",
+        "source": "H5674 (KJV: went over; ESV: went over; NASB: crossed)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יַּרְדֵּן֮",
+        "phrase": "the-Jordan",
+        "literal": "the-Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תָּבֹ֣אוּ",
+        "phrase": "and-you-came",
+        "literal": "and-you(pl)-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 6,
+        "surface": "יְרִיחוֹ֒",
+        "phrase": "Jericho",
+        "literal": "Jericho",
+        "source": "H3405 (KJV: Jericho; ESV: Jericho; NASB: Jericho)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּלָּחֲמ֣וּ",
+        "phrase": "and-they-fought",
+        "literal": "and-they-fought",
+        "source": "H3898 (KJV: fought; ESV: fought; NASB: fought)"
+      },
+      {
+        "position": 8,
+        "surface": "בָ/כֶ֣ם",
+        "phrase": "against-you",
+        "literal": "in-you(pl)",
+        "source": "- (KJV: against you; ESV: against you; NASB: against you)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּעֲלֵֽי",
+        "phrase": "lords-of",
+        "literal": "lords-of",
+        "source": "H1167 (KJV: men of; ESV: citizens of; NASB: citizens of)"
+      },
+      {
+        "position": 10,
+        "surface": "יְ֠רִיחוֹ",
+        "phrase": "Jericho",
+        "literal": "Jericho",
+        "source": "H3405 (KJV: Jericho; ESV: Jericho; NASB: Jericho)"
+      },
+      {
+        "position": 11,
+        "surface": "הָֽ/אֱמֹרִ֨י",
+        "phrase": "the-Amorite",
+        "literal": "the-Amorite",
+        "source": "H567 (KJV: Amorites; ESV: Amorites; NASB: Amorite)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הַ/פְּרִזִּ֜י",
+        "phrase": "and-the-Perizzite",
+        "literal": "and-the-Perizzite",
+        "source": "H6522 (KJV: Perizzites; ESV: Perizzites; NASB: Perizzite)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הַֽ/כְּנַעֲנִ֗י",
+        "phrase": "and-the-Canaanite",
+        "literal": "and-the-Canaanite",
+        "source": "H3669 (KJV: Canaanites; ESV: Canaanites; NASB: Canaanite)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/הַֽ/חִתִּי֙",
+        "phrase": "and-the-Hittite",
+        "literal": "and-the-Hittite",
+        "source": "H2850 (KJV: Hittites; ESV: Hittites; NASB: Hittite)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/הַ/גִּרְגָּשִׁ֔י",
+        "phrase": "and-the-Girgashite",
+        "literal": "and-the-Girgashite",
+        "source": "H1622 (KJV: Girgashites; ESV: Girgashites; NASB: Girgashite)"
+      },
+      {
+        "position": 16,
+        "surface": "הַֽ/חִוִּ֖י",
+        "phrase": "the-Hivite",
+        "literal": "the-Hivite",
+        "source": "H2340 (KJV: Hivites; ESV: Hivites; NASB: Hivite)"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/הַ/יְבוּסִ֑י",
+        "phrase": "and-the-Jebusite",
+        "literal": "and-the-Jebusite",
+        "source": "H2983 (KJV: Jebusites; ESV: Jebusites; NASB: Jebusite)"
+      },
+      {
+        "position": 18,
+        "surface": "וָ/אֶתֵּ֥ן",
+        "phrase": "and-I-gave",
+        "literal": "and-I-gave",
+        "source": "H5414 (KJV: delivered; ESV: gave; NASB: gave)"
+      },
+      {
+        "position": 19,
+        "surface": "אוֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[dom]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 20,
+        "surface": "בְּ/יֶדְ/כֶֽם",
+        "phrase": "into-your-hand",
+        "literal": "in-hand-your(pl)",
+        "source": "H3027 (KJV: hand; ESV: hand; NASB: hand)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they set out",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (KJV: took their journey; ESV: set out; NASB: moved out)"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ/רִאשֹׁנָ֑ה",
+        "phrase": "the first time",
+        "literal": "in-first-the",
+        "source": "H7223 (KJV: first; ESV: this first time; NASB: for the first time)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "according to",
+        "literal": "upon",
+        "source": "H5921 (KJV: according to; ESV: at the; NASB: according to)"
+      },
+      {
+        "position": 4,
+        "surface": "פִּ֥י",
+        "phrase": "the command of",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: commandment; ESV: command; NASB: commandment)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD’s; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/יַד",
+        "phrase": "by the hand of",
+        "literal": "in-hand-of",
+        "source": "H3027 (KJV: by the hand of; ESV: through; NASB: through)"
+      },
+      {
+        "position": 7,
+        "surface": "מֹשֶֽׁה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      }
+    ]
+  }
+]

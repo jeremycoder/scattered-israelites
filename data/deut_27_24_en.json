@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֕וּר",
+        "phrase": "Cursed [be]",
+        "literal": "cursed",
+        "source": "H779 (KJV: Cursed be; ESV: Cursed be; NASB: Cursed is)"
+      },
+      {
+        "position": 2,
+        "surface": "מַכֵּ֥ה",
+        "phrase": "he who strikes",
+        "literal": "striking",
+        "source": "H5221 (KJV: smiteth; ESV: strikes down; NASB: strikes)"
+      },
+      {
+        "position": 3,
+        "surface": "רֵעֵ֖/הוּ",
+        "phrase": "his neighbor",
+        "literal": "neighbor-his",
+        "source": "H7453 (KJV: neighbour; ESV: neighbor; NASB: neighbor)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/סָּ֑תֶר",
+        "phrase": "in secret",
+        "literal": "in-secret",
+        "source": "H5643 (KJV: secretly; ESV: in secret; NASB: in secret)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָמַ֥ר",
+        "phrase": "and shall say",
+        "literal": "and-he-says",
+        "source": "H559 (KJV: And all...shall say; ESV: And all...shall say; NASB: And all...shall say)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 8,
+        "surface": "אָמֵֽן",
+        "phrase": "Amen",
+        "literal": "amen",
+        "source": "H543 (KJV: Amen; ESV: Amen; NASB: Amen)"
+      }
+    ]
+  }
+]

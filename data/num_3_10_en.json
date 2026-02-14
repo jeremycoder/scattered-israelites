@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[obj]",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "אַהֲרֹ֤ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: 'Aaron'; ESV: 'Aaron'; NASB: 'Aaron')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[obj]",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָי/ו֙",
+        "phrase": "his-sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: 'his sons'; ESV: 'his sons'; NASB: 'his sons')"
+      },
+      {
+        "position": 5,
+        "surface": "תִּפְקֹ֔ד",
+        "phrase": "you-shall-appoint",
+        "literal": "you-shall-appoint",
+        "source": "H6485 (KJV: 'appoint'; ESV: 'appoint'; NASB: 'appoint')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שָׁמְר֖וּ",
+        "phrase": "and-they-shall-keep",
+        "literal": "and-they-shall-keep",
+        "source": "H8104 (KJV: 'shall keep'; ESV: 'shall guard'; NASB: 'may keep')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[obj]",
+        "source": "H853 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 8,
+        "surface": "כְּהֻנָּתָ֑/ם",
+        "phrase": "their-priesthood",
+        "literal": "priesthood-their",
+        "source": "H3550 (KJV: 'their priesthood'; ESV: 'their priesthood'; NASB: 'their priesthood')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/זָּ֥ר",
+        "phrase": "and-the-outsider",
+        "literal": "and-the-stranger",
+        "source": "H2114 (KJV: 'stranger'; ESV: 'outsider'; NASB: 'layman')"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/קָּרֵ֖ב",
+        "phrase": "the-[one]-who-approaches",
+        "literal": "the-approaching",
+        "source": "H7126 (KJV: 'comes nigh'; ESV: 'comes near'; NASB: 'comes near')"
+      },
+      {
+        "position": 11,
+        "surface": "יוּמָֽת",
+        "phrase": "he-shall-be-put-to-death",
+        "literal": "he-shall-be-put-to-death",
+        "source": "H4191 (KJV: 'be put to death'; ESV: 'be put to death'; NASB: 'be put to death')"
+      }
+    ]
+  }
+]

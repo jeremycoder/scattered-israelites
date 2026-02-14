@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/אָשֵׁ֕ר",
+        "phrase": "of Asher",
+        "literal": "to-Asher",
+        "source": "H836; KJV/ESV/NASB: 'of Asher' (tribal designation)"
+      },
+      {
+        "position": 2,
+        "surface": "פַּגְעִיאֵ֖ל",
+        "phrase": "Pagiel",
+        "literal": "Pagiel",
+        "source": "H6295; KJV/ESV/NASB: 'Pagiel' (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (genitive relation)"
+      },
+      {
+        "position": 4,
+        "surface": "עָכְרָֽן",
+        "phrase": "Ocran",
+        "literal": "Ocran",
+        "source": "H5918; KJV/ESV/NASB: 'Ocran' (proper name)"
+      }
+    ]
+  }
+]

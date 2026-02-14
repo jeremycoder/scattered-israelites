@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַתָּ֗ה",
+        "phrase": "Now",
+        "literal": "now",
+        "source": "H6258; KJV: Now, ESV: Now, NASB: Now"
+      },
+      {
+        "position": 2,
+        "surface": "קֻ֛מוּ",
+        "phrase": "arise",
+        "literal": "arise!-2mp",
+        "source": "H6965; KJV: rise up, ESV: rise up, NASB: arise"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עִבְר֥וּ",
+        "phrase": "and cross over",
+        "literal": "and-cross_over!-2mp",
+        "source": "H5674; KJV: and get you over, ESV: and go over, NASB: and cross over"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "yourselves",
+        "literal": "to-you-2mp",
+        "source": "; KJV: you (implied), ESV: (yourselves implied), NASB: yourselves"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct_object_marker",
+        "source": "H853; KJV: (implied), ESV: the, NASB: the"
+      },
+      {
+        "position": 6,
+        "surface": "נַ֣חַל",
+        "phrase": "brook",
+        "literal": "brook",
+        "source": "H5158; KJV: brook, ESV: brook, NASB: brook"
+      },
+      {
+        "position": 7,
+        "surface": "זָ֑רֶד",
+        "phrase": "Zered",
+        "literal": "Zered",
+        "source": "H2218; KJV: Zered, ESV: Zered, NASB: Zered"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/נַּעֲבֹ֖ר",
+        "phrase": "and we crossed over",
+        "literal": "and-we-crossed_over",
+        "source": "H5674; KJV: And we went over, ESV: So we went over, NASB: So we crossed over"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct_object_marker",
+        "source": "H853; KJV: (implied), ESV: the, NASB: the"
+      },
+      {
+        "position": 10,
+        "surface": "נַ֥חַל",
+        "phrase": "brook",
+        "literal": "brook",
+        "source": "H5158; KJV: brook, ESV: brook, NASB: brook"
+      },
+      {
+        "position": 11,
+        "surface": "זָֽרֶד",
+        "phrase": "Zered",
+        "literal": "Zered",
+        "source": "H2218; KJV: Zered, ESV: Zered, NASB: Zered"
+      }
+    ]
+  }
+]

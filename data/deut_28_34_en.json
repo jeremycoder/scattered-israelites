@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיִ֖יתָ",
+        "phrase": "and you shall be",
+        "literal": "and-you-will-be",
+        "source": "H1961; KJV: 'so that thou shalt be', ESV: 'so that you shall be', NASB: 'so that you shall be'"
+      },
+      {
+        "position": 2,
+        "surface": "מְשֻׁגָּ֑ע",
+        "phrase": "mad",
+        "literal": "driven-mad",
+        "source": "H7696; KJV: 'mad', ESV: 'driven mad', NASB: 'driven mad'"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/מַּרְאֵ֥ה",
+        "phrase": "from the sight",
+        "literal": "from-sight-of",
+        "source": "H4758; KJV: 'for the sight', ESV: 'by the sight', NASB: 'by the sight'"
+      },
+      {
+        "position": 4,
+        "surface": "עֵינֶ֖י/ךָ",
+        "phrase": "of your eyes",
+        "literal": "eyes-of-you",
+        "source": "H5869; KJV: 'thine eyes', ESV: 'your eyes', NASB: 'your eyes'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV: 'which', ESV: 'that', NASB: 'what'"
+      },
+      {
+        "position": 6,
+        "surface": "תִּרְאֶֽה",
+        "phrase": "you shall see",
+        "literal": "you-will-see",
+        "source": "H7200; KJV: 'thou shalt see', ESV: 'you shall see', NASB: 'you see'"
+      }
+    ]
+  }
+]

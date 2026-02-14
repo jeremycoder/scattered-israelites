@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 23,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֖ל",
+        "phrase": "God",
+        "literal": "god",
+        "source": "H410 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 2,
+        "surface": "מוֹצִיאָ֣/ם",
+        "phrase": "brought them out",
+        "literal": "bringing-out/them",
+        "source": "H3318 (KJV: brought ... out; ESV: brings ... out; NASB: brings ... out)"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from/Egypt",
+        "source": "H4714 (KJV: out of Egypt; ESV: out of Egypt; NASB: out of Egypt)"
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/תוֹעֲפֹ֥ת",
+        "phrase": "like the strength",
+        "literal": "like/strength",
+        "source": "H8443 (KJV: as it were the strength; ESV: like the horns; NASB: like the horns)"
+      },
+      {
+        "position": 5,
+        "surface": "רְאֵ֖ם",
+        "phrase": "of a wild ox",
+        "literal": "wild-ox",
+        "source": "H7214 (KJV: an unicorn; ESV: a wild ox; NASB: a wild ox)"
+      },
+      {
+        "position": 6,
+        "surface": "לֽ/וֹ",
+        "phrase": "for him",
+        "literal": "for/him",
+        "source": " (KJV: he hath; ESV: for them; NASB: for them)"
+      }
+    ]
+  }
+]

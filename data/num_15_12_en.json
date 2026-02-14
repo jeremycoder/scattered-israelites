@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 15,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ/מִּסְפָּ֖ר",
+        "phrase": "according to the number",
+        "literal": "as-number",
+        "source": "H4557 (KJV: 'according to the number'; ESV: 'according to the number'; NASB: 'according to the number')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: 'that'; ESV: 'that'; NASB: 'that')"
+      },
+      {
+        "position": 3,
+        "surface": "תַּעֲשׂ֑וּ",
+        "phrase": "you shall make",
+        "literal": "you(pl)-shall-make",
+        "source": "H6213 (KJV: 'ye shall do'; ESV: 'you prepare'; NASB: 'you shall do')"
+      },
+      {
+        "position": 4,
+        "surface": "כָּ֛כָה",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3602 (KJV: 'so'; ESV: 'so'; NASB: 'so')"
+      },
+      {
+        "position": 5,
+        "surface": "תַּעֲשׂ֥וּ",
+        "phrase": "you shall make",
+        "literal": "you(pl)-shall-make",
+        "source": "H6213 (KJV: 'ye shall do'; ESV: 'you shall do'; NASB: 'you shall do')"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/אֶחָ֖ד",
+        "phrase": "for each one",
+        "literal": "to-the-one",
+        "source": "H259 (KJV: 'for one'; ESV: 'for everyone'; NASB: 'for each')"
+      },
+      {
+        "position": 7,
+        "surface": "כְּ/מִסְפָּרָֽ/ם",
+        "phrase": "according to their number",
+        "literal": "as-number-of-them",
+        "source": "H4557 (KJV: 'according to the number'; ESV: 'according to their number'; NASB: 'according to their number')"
+      }
+    ]
+  }
+]

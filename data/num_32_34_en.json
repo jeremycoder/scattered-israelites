@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 32,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּבְנ֣וּ",
+        "phrase": "and they built",
+        "literal": "and-they-built",
+        "source": "H1129; KJV/ESV/NASB: 'built' (verb for sons of Gad building cities)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'the children of' or 'sons of' Gad"
+      },
+      {
+        "position": 3,
+        "surface": "גָ֔ד",
+        "phrase": "Gad",
+        "literal": "Gad",
+        "source": "H1410; KJV/ESV/NASB: 'Gad' (proper name of tribe)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: '' (untranslated direct object marker before Dibon)"
+      },
+      {
+        "position": 5,
+        "surface": "דִּיבֹ֖ן",
+        "phrase": "Dibon",
+        "literal": "Dibon",
+        "source": "H1769; KJV/ESV/NASB: 'Dibon' (city name)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853; KJV/ESV/NASB: 'and' (with untranslated et before Ataroth)"
+      },
+      {
+        "position": 7,
+        "surface": "עֲטָרֹ֑ת",
+        "phrase": "Ataroth",
+        "literal": "Ataroth",
+        "source": "H5852; KJV/ESV/NASB: 'Ataroth' or 'Atroth' (city name)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853; KJV/ESV/NASB: 'and' (with untranslated et before Aroer)"
+      },
+      {
+        "position": 9,
+        "surface": "עֲרֹעֵֽר",
+        "phrase": "Aroer",
+        "literal": "Aroer",
+        "source": "H6177; KJV/ESV/NASB: 'Aroer' (city name)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִשְׁפְּחֹ֖ת",
+        "phrase": "families",
+        "literal": "family-of",
+        "source": "H4940; KJV: families, ESV: clans, NASB: families"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/גֵּרְשֻׁנִּ֑י",
+        "phrase": "of the Gershonites",
+        "literal": "the-Gershonite",
+        "source": "H1649; KJV: Gershonites, ESV: Gershonites, NASB: Gershonites"
+      },
+      {
+        "position": 3,
+        "surface": "אַחֲרֵ֧י",
+        "phrase": "behind",
+        "literal": "behind",
+        "source": "H310; KJV: behind, ESV: behind, NASB: behind"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מִּשְׁכָּ֛ן",
+        "phrase": "the tabernacle",
+        "literal": "the-tabernacle",
+        "source": "H4908; KJV: tabernacle, ESV: tabernacle, NASB: tabernacle"
+      },
+      {
+        "position": 5,
+        "surface": "יַחֲנ֖וּ",
+        "phrase": "shall camp",
+        "literal": "they-camp",
+        "source": "H2583; KJV: shall pitch, ESV: were to camp, NASB: were to camp"
+      },
+      {
+        "position": 6,
+        "surface": "יָֽמָּ/ה",
+        "phrase": "westward",
+        "literal": "sea-ward",
+        "source": "H3220; KJV: westward, ESV: on the west, NASB: westward"
+      }
+    ]
+  }
+]

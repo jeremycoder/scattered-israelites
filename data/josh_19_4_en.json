@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶלְתּוֹלַ֥ד",
+        "phrase": "and Eltolad",
+        "literal": "and-Eltolad",
+        "source": "H513 (KJV: Eltolad; ESV: Eltolad; NASB: Eltolad)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בְת֖וּל",
+        "phrase": "and Bethul",
+        "literal": "and-Bethul",
+        "source": "H1329 (KJV: Bethul; ESV: Bethul; NASB: Bethul)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/חָרְמָֽה",
+        "phrase": "and Hormah",
+        "literal": "and-Hormah",
+        "source": "H2767 (KJV: Hormah; ESV: Hormah; NASB: Hormah)"
+      }
+    ]
+  }
+]

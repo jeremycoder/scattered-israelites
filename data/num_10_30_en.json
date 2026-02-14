@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: 'And he said'; ESV: 'But he said'; NASB: 'But he said')"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: 'unto him'; ESV: 'to him'; NASB: 'to him')"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "No",
+        "literal": "not",
+        "source": "H3808 (KJV: 'I will not go'; ESV: 'I will not go'; NASB: 'I will not come')"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלֵ֑ךְ",
+        "phrase": "I will go",
+        "literal": "I-will-go",
+        "source": "H3212 (KJV: 'I will not go'; ESV: 'I will not go'; NASB: 'I will not come')"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֧י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: 'but'; ESV: 'I will depart'; NASB: 'but rather')"
+      },
+      {
+        "position": 6,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: 'but'; ESV: 'I will depart'; NASB: 'but rather')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'to'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 8,
+        "surface": "אַרְצִ֛/י",
+        "phrase": "my land",
+        "literal": "land-my",
+        "source": "H776 (KJV: 'mine own land'; ESV: 'my own land'; NASB: 'my own land')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "H413 (KJV: 'and to'; ESV: 'and to'; NASB: 'and')"
+      },
+      {
+        "position": 10,
+        "surface": "מוֹלַדְתִּ֖/י",
+        "phrase": "my kindred",
+        "literal": "birthplace-my",
+        "source": "H4138 (KJV: 'my kindred'; ESV: 'my kindred'; NASB: 'relatives')"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלֵֽךְ",
+        "phrase": "I will go",
+        "literal": "I-will-go",
+        "source": "H3212 (KJV: 'I will depart'; ESV: 'will depart'; NASB: 'will go')"
+      }
+    ]
+  }
+]

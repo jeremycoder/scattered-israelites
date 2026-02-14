@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/חֹבֵ֖ר",
+        "phrase": "or one who casts",
+        "literal": "and-casting-spells",
+        "source": "H2266; KJV: charmer, ESV: charmer, NASB: casts a spell"
+      },
+      {
+        "position": 2,
+        "surface": "חָ֑בֶר",
+        "phrase": "a spell",
+        "literal": "spell",
+        "source": "H2267; KJV: (implied in charmer), ESV: (implied in charmer), NASB: spell"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שֹׁאֵ֥ל",
+        "phrase": "or a consulter",
+        "literal": "and-consulting",
+        "source": "H7592; KJV: consulter, ESV: medium, NASB: medium"
+      },
+      {
+        "position": 4,
+        "surface": "אוֹב֙",
+        "phrase": "with familiar spirits",
+        "literal": "familiar-spirit",
+        "source": "H178; KJV: familiar spirits, ESV: medium, NASB: medium"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יִדְּעֹנִ֔י",
+        "phrase": "or a wizard",
+        "literal": "and-knowing-one",
+        "source": "H3049; KJV: wizard, ESV: necromancer, NASB: spiritist"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/דֹרֵ֖שׁ",
+        "phrase": "or one who inquires",
+        "literal": "and-inquiring",
+        "source": "H1875; KJV: necromancer, ESV: inquires, NASB: calls up"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "of",
+        "literal": "to",
+        "source": "H413; KJV: (implied), ESV: of, NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מֵּתִֽים",
+        "phrase": "the dead",
+        "literal": "the-dead",
+        "source": "H4191; KJV: dead, ESV: dead, NASB: dead"
+      }
+    ]
+  }
+]

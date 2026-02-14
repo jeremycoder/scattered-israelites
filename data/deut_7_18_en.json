@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 7,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תִירָ֖א",
+        "phrase": "you shall fear",
+        "literal": "you-will-fear",
+        "source": "H3372 (KJV: be afraid; ESV: be afraid; NASB: be afraid)"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/הֶ֑ם",
+        "phrase": "from them",
+        "literal": "from-them",
+        "source": " (KJV: of them; ESV: of them; NASB: of them)"
+      },
+      {
+        "position": 4,
+        "surface": "זָכֹ֣ר",
+        "phrase": "remember",
+        "literal": "remember-(inf.abs)",
+        "source": "H2142 (KJV: well remember; ESV: remember; NASB: well remember)"
+      },
+      {
+        "position": 5,
+        "surface": "תִּזְכֹּ֗ר",
+        "phrase": "you shall remember",
+        "literal": "you-will-remember",
+        "source": "H2142 (KJV: shalt well remember; ESV: you shall remember; NASB: you shall well remember)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֤ת",
+        "phrase": "what",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: -; ESV: what; NASB: what)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 8,
+        "surface": "עָשָׂה֙",
+        "phrase": "did",
+        "literal": "he-did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 10,
+        "surface": "אֱלֹהֶ֔י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/פַרְעֹ֖ה",
+        "phrase": "to Pharaoh",
+        "literal": "to-Pharaoh",
+        "source": "H6547 (KJV: unto Pharaoh; ESV: to Pharaoh; NASB: to Pharaoh)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/לְ/כָל",
+        "phrase": "and to all",
+        "literal": "and-to-all",
+        "source": "H3605 (KJV: and unto all; ESV: and to all; NASB: and to all)"
+      },
+      {
+        "position": 13,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      }
+    ]
+  }
+]

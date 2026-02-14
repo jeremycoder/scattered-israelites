@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֤לֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 (KJV: 'The king'; ESV/NASB: 'the king')"
+      },
+      {
+        "position": 2,
+        "surface": "יַרְמוּת֙",
+        "phrase": "Jarmuth",
+        "literal": "Jarmuth",
+        "source": "H3412 (KJV/ESV/NASB: 'Jarmuth')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV/ESV/NASB: 'one')"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "the king of",
+        "literal": "king-of",
+        "source": "H4428 (KJV: 'the king'; ESV/NASB: 'the king')"
+      },
+      {
+        "position": 5,
+        "surface": "לָכִ֖ישׁ",
+        "phrase": "Lachish",
+        "literal": "Lachish",
+        "source": "H3923 (KJV/ESV/NASB: 'Lachish')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV/ESV/NASB: 'one')"
+      }
+    ]
+  }
+]

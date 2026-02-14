@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 8,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִ/בֶּן֙",
+        "phrase": "and-from-a-son",
+        "literal": "and-from-son-of",
+        "source": "H1121; KJV 'from the age', ESV 'at the age of', NASB 'at the age of'"
+      },
+      {
+        "position": 2,
+        "surface": "חֲמִשִּׁ֣ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572; KJV 'fifty years', ESV 'fifty', NASB 'fifty years'"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "year",
+        "literal": "year",
+        "source": "H8141; KJV 'years', ESV 'years', NASB 'years'"
+      },
+      {
+        "position": 4,
+        "surface": "יָשׁ֖וּב",
+        "phrase": "he-shall-return",
+        "literal": "he-will-return",
+        "source": "H7725; KJV 'they shall cease', ESV 'they shall retire', NASB 'they shall retire'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/צְּבָ֣א",
+        "phrase": "from-the-host/army",
+        "literal": "from-host-of",
+        "source": "H6635; KJV 'waiting upon the service', ESV 'service in the work', NASB 'service in the work'"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עֲבֹדָ֑ה",
+        "phrase": "of-the-service",
+        "literal": "the-service",
+        "source": "H5656; KJV 'thereof', ESV 'the work', NASB 'the work'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808; KJV 'and shall serve', ESV 'will serve', NASB 'not work'"
+      },
+      {
+        "position": 8,
+        "surface": "יַעֲבֹ֖ד",
+        "phrase": "he-shall-serve",
+        "literal": "he-will-serve",
+        "source": "H5647; KJV 'no more', ESV 'no longer', NASB 'any more'"
+      },
+      {
+        "position": 9,
+        "surface": "עֽוֹד",
+        "phrase": "anymore",
+        "literal": "still/anymore",
+        "source": "H5750; KJV 'no more', ESV 'no longer', NASB 'any more"
+      }
+    ]
+  }
+]

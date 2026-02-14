@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֥וּ",
+        "phrase": "and they were",
+        "literal": "and-they-were",
+        "source": "H1961; KJV: Even those..., ESV: those listed..., NASB: Their numbered men... (all render as 'even those that were' or 'those listed' introducing the total)"
+      },
+      {
+        "position": 2,
+        "surface": "פְקֻדֵי/הֶ֖ם",
+        "phrase": "their numbered ones",
+        "literal": "numbered-of-them",
+        "source": "H6485; KJV: those that were numbered of them, ESV: those listed, NASB: Their numbered men (focus on 'numbered' or 'listed'/'registered')"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מִשְׁפְּחֹתָ֑/ם",
+        "phrase": "by their families",
+        "literal": "to-families-of-them",
+        "source": "H4940; KJV: after their families, ESV: by clans, NASB: by their families (consistent 'families' or 'clans')"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁלֹ֥שֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969; KJV: three, ESV: 3, NASB: 3 (all 'three')"
+      },
+      {
+        "position": 5,
+        "surface": "אֲלָפִ֖ים",
+        "phrase": "thousand",
+        "literal": "thousands",
+        "source": "H505; KJV: thousand, ESV: thousand, NASB: thousand (dual form as 'thousand' in context, all 'thousand')"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מָאתָֽיִם",
+        "phrase": "and two hundred",
+        "literal": "and-two-hundred",
+        "source": "H3967; KJV: and two hundred, ESV: two hundred, NASB: two hundred (all 'two hundred')"
+      }
+    ]
+  }
+]

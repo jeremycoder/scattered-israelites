@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִשָּׁ֣מֶר",
+        "phrase": "beware",
+        "literal": "watch-yourself",
+        "source": "H8104 (KJV: beware; ESV: take care; NASB: watch yourself)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/ךָ֔",
+        "phrase": "yourself",
+        "literal": "to-you",
+        "source": ""
+      },
+      {
+        "position": 3,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "H6435 (KJV: lest; ESV: lest; NASB: that)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁכַּ֖ח",
+        "phrase": "you forget",
+        "literal": "you-forget",
+        "source": "H7911 (KJV: thou forget; ESV: you forget; NASB: you do not forget)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: which; ESV: who; NASB: who)"
+      },
+      {
+        "position": 8,
+        "surface": "הוֹצִֽיאֲ/ךָ֛",
+        "phrase": "brought you out",
+        "literal": "he-brought-out-you",
+        "source": "H3318 (KJV: brought thee forth; ESV: brought you out; NASB: brought you)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from the land",
+        "literal": "from-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/בֵּ֥ית",
+        "phrase": "from the house",
+        "literal": "from-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 12,
+        "surface": "עֲבָדִֽים",
+        "phrase": "of slavery",
+        "literal": "slaves",
+        "source": "H5650 (KJV: bondage; ESV: slavery; NASB: slavery)"
+      }
+    ]
+  }
+]

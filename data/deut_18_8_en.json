@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֵ֥לֶק",
+        "phrase": "portion",
+        "literal": "portion",
+        "source": "H2506 - KJV: portions; ESV: portions; NASB: portions"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/חֵ֖לֶק",
+        "phrase": "like portion",
+        "literal": "like-portion",
+        "source": "H2506 - KJV: like portions; ESV: equal portions; NASB: equal portions"
+      },
+      {
+        "position": 3,
+        "surface": "יֹאכֵ֑לוּ",
+        "phrase": "they shall eat",
+        "literal": "they-eat",
+        "source": "H398 - KJV: to eat; ESV: to eat; NASB: eat"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בַ֥ד",
+        "phrase": "besides",
+        "literal": "to-apart",
+        "source": "H905 - KJV: beside; ESV: besides; NASB: except"
+      },
+      {
+        "position": 5,
+        "surface": "מִמְכָּרָ֖י/ו",
+        "phrase": "his sales",
+        "literal": "from-sales-his",
+        "source": "H4465 - KJV: sale of his patrimony; ESV: sale of his patrimony; NASB: sale of their fathers' estates"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "with",
+        "literal": "upon",
+        "source": "H5921 - KJV: (implied); ESV: (implied); NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אָבֽוֹת",
+        "phrase": "the fathers",
+        "literal": "the-fathers",
+        "source": "H1 - KJV: his patrimony; ESV: his patrimony; NASB: their fathers' estates"
+      }
+    ]
+  }
+]

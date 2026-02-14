@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 16,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בִשַּׁלְתָּ֙",
+        "phrase": "and you shall boil",
+        "literal": "and-you-boil",
+        "source": "H1310 (KJV: roast; ESV/NASB: cook/roast)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אָ֣כַלְתָּ֔",
+        "phrase": "and eat",
+        "literal": "and-eat",
+        "source": "H398 (KJV/ESV/NASB: eat)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/מָּק֕וֹם",
+        "phrase": "in the place",
+        "literal": "in-the-place",
+        "source": "H4725 (KJV/ESV/NASB: place)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV/ESV/NASB: which)"
+      },
+      {
+        "position": 5,
+        "surface": "יִבְחַ֛ר",
+        "phrase": "he chooses",
+        "literal": "he-chooses",
+        "source": "H977 (KJV/ESV/NASB: choose)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV/NASB: LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV/ESV/NASB: God)"
+      },
+      {
+        "position": 8,
+        "surface": "בּ֑/וֹ",
+        "phrase": "it",
+        "literal": "in-it",
+        "source": ""
+      },
+      {
+        "position": 9,
+        "surface": "וּ/פָנִ֣יתָ",
+        "phrase": "and you shall turn",
+        "literal": "and-you-turn",
+        "source": "H6437 (KJV/ESV/NASB: turn)"
+      },
+      {
+        "position": 10,
+        "surface": "בַ/בֹּ֔קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV/ESV/NASB: morning)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הָלַכְתָּ֖",
+        "phrase": "and go",
+        "literal": "and-go",
+        "source": "H1980 (KJV/ESV/NASB: go)"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/אֹהָלֶֽי/ךָ",
+        "phrase": "to your tents",
+        "literal": "to-tents-your",
+        "source": "H168 (KJV/ESV/NASB: tents)"
+      }
+    ]
+  }
+]

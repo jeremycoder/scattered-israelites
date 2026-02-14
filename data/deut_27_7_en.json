@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זָבַחְתָּ֥",
+        "phrase": "and you shall sacrifice",
+        "literal": "and-you-shall-sacrifice",
+        "source": "H2076 (KJV: offer; ESV/NASB: sacrifice)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלָמִ֖ים",
+        "phrase": "peace offerings",
+        "literal": "peace-offerings",
+        "source": "H8002 (KJV: peace offerings; ESV: peace offerings; NASB: peace offerings)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אָכַ֣לְתָּ",
+        "phrase": "and you shall eat",
+        "literal": "and-you-shall-eat",
+        "source": "H398 (KJV: eat; ESV/NASB: eat)"
+      },
+      {
+        "position": 4,
+        "surface": "שָּׁ֑ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV/ESV/NASB: there)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שָׂ֣מַחְתָּ֔",
+        "phrase": "and you shall rejoice",
+        "literal": "and-you-shall-rejoice",
+        "source": "H8055 (KJV: rejoice; ESV: rejoice; NASB: rejoice)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV/ESV/NASB: before)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV/NASB: the LORD)"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהֶֽי/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV/ESV/NASB: thy/your God)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV: departed, ESV/NASB: journeyed"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/דָּפְקָ֑ה",
+        "phrase": "from Dophkah",
+        "literal": "from-Dophkah",
+        "source": "H1850; KJV/ESV/NASB: Dophkah"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: encamped, ESV/NASB: camped"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אָלֽוּשׁ",
+        "phrase": "at Alush",
+        "literal": "in-Alush",
+        "source": "H442; KJV: Alush, ESV/NASB: Alush"
+      }
+    ]
+  }
+]

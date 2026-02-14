@@ -1,0 +1,158 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 6,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עָם֩",
+        "phrase": "the-people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 3,
+        "surface": "צִוָּ֨ה",
+        "phrase": "had-commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: had commanded; ESV: had commanded; NASB: commanded)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוֹשֻׁ֜עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "תָרִ֨יעוּ֙",
+        "phrase": "you-shall-shout",
+        "literal": "you-shall-shout",
+        "source": "H7321 (KJV: shout; ESV: shout; NASB: shout)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לֹֽא",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: nor; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 9,
+        "surface": "תַשְׁמִ֣יעוּ",
+        "phrase": "you-shall-make-heard",
+        "literal": "you-shall-cause-to-hear",
+        "source": "H8085 (KJV: make any noise; ESV: let your voice be heard; NASB: let your voice be heard)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "OBJ",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "קוֹלְ/כֶ֔ם",
+        "phrase": "your-voice",
+        "literal": "voice-your",
+        "source": "H6963 (KJV: your voice; ESV: your voice; NASB: your voice)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לֹא",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 13,
+        "surface": "יֵצֵ֥א",
+        "phrase": "shall-go-out",
+        "literal": "it-shall-go-out",
+        "source": "H3318 (KJV: proceed; ESV: come out; NASB: proceed)"
+      },
+      {
+        "position": 14,
+        "surface": "מִ/פִּי/כֶ֖ם",
+        "phrase": "from-your-mouth",
+        "literal": "from-mouth-your",
+        "source": "H6310 (KJV: out of your mouth; ESV: out of your mouth; NASB: out of your mouth)"
+      },
+      {
+        "position": 15,
+        "surface": "דָּבָ֑ר",
+        "phrase": "word",
+        "literal": "word",
+        "source": "H1697 (KJV: word; ESV: word; NASB: word)"
+      },
+      {
+        "position": 16,
+        "surface": "עַ֠ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 17,
+        "surface": "י֣וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: the day; ESV: the day; NASB: the day)"
+      },
+      {
+        "position": 18,
+        "surface": "אָמְרִ֧/י",
+        "phrase": "I-say",
+        "literal": "I-say",
+        "source": "H559 (KJV: I bid; ESV: I tell; NASB: I tell)"
+      },
+      {
+        "position": 19,
+        "surface": "אֲלֵי/כֶ֛ם",
+        "phrase": "to-you",
+        "literal": "to-you",
+        "source": "H413 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 20,
+        "surface": "הָרִיעוּ",
+        "phrase": "Shout!",
+        "literal": "shout!",
+        "source": "H7321 (KJV: shout; ESV: Shout; NASB: Shout)"
+      },
+      {
+        "position": 21,
+        "surface": "וַ/הֲרִיעֹתֶֽם",
+        "phrase": "then-you-shall-shout",
+        "literal": "and-you-shall-shout",
+        "source": "H7321 (KJV: then shall ye shout; ESV: Then you shall shout; NASB: Then you shall shout)"
+      }
+    ]
+  }
+]

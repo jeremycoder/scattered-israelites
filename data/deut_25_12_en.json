@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/קַצֹּתָ֖ה",
+        "phrase": "you shall cut off her",
+        "literal": "and-you_must_cut_off-her",
+        "source": "H7112 (qatsats: KJV 'cut off', ESV 'cut off', NASB 'cut off')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct_object]-",
+        "source": "H853 (KJV 'her', ESV 'her', NASB 'her')"
+      },
+      {
+        "position": 3,
+        "surface": "כַּפָּ֑/הּ",
+        "phrase": "her palm",
+        "literal": "palm-her",
+        "source": "H3709 (kaph: KJV 'hand', ESV 'hand', NASB 'hand')"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV 'not', ESV 'not', NASB 'not')"
+      },
+      {
+        "position": 5,
+        "surface": "תָח֖וֹס",
+        "phrase": "shall you spare",
+        "literal": "you_must_pity",
+        "source": "H2347 (chasah: KJV 'pity', ESV 'show pity', NASB 'pity')"
+      },
+      {
+        "position": 6,
+        "surface": "עֵינֶֽ/ךָ",
+        "phrase": "your eye",
+        "literal": "eye-your",
+        "source": "H5869 (ayin: KJV 'thine eye', ESV 'your eye', NASB 'your eye')"
+      }
+    ]
+  }
+]

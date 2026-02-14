@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 22,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְבָרְכֵ֖/ם",
+        "phrase": "and blessed them",
+        "literal": "and-he-blessed-them",
+        "source": "H1288 (KJV: blessed; ESV: blessed; NASB: blessed)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֑עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יְשַׁלְּחֵ֔/ם",
+        "phrase": "and sent them away",
+        "literal": "and-he-sent-them-away",
+        "source": "H7971 (KJV: sent them away; ESV: sent them away; NASB: sent them away)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּלְכ֖וּ",
+        "phrase": "and they went",
+        "literal": "and-they-went",
+        "source": "H3212 (KJV: they went; ESV: they went; NASB: they went)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 6,
+        "surface": "אָהֳלֵי/הֶֽם",
+        "phrase": "their tents",
+        "literal": "tents-of-them",
+        "source": "H168 (KJV: their tents; ESV: their tents; NASB: their tents)"
+      }
+    ]
+  }
+]

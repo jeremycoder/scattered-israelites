@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶלְתְּקֵ֥ה",
+        "phrase": "and Eltekeh",
+        "literal": "and-Eltekeh",
+        "source": "H514 (KJV: Eltekeh; ESV: Eltekeh; NASB: Eltekeh)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/גִבְּתוֹן",
+        "phrase": "and Gibbethon",
+        "literal": "and-Gibbethon",
+        "source": "H1405 (KJV: Gibbethon; ESV: Gibbethon; NASB: Gibbethon)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בַעֲלָֽת",
+        "phrase": "and Baalath",
+        "literal": "and-Baalath",
+        "source": "H1191 (KJV: Baalath; ESV: Baalath; NASB: Baalath)"
+      }
+    ]
+  }
+]

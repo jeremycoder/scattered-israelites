@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'when'; NASB: 'It came about')"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/כַלּ֣וֹת",
+        "phrase": "when finishing",
+        "literal": "as-when-completing",
+        "source": "H3615 (KJV: 'had made an end'; ESV: 'had finished'; NASB: 'finished')"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֗ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: 'Moses'; ESV: 'Moses'; NASB: 'Moses')"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/כְתֹּ֛ב",
+        "phrase": "to write",
+        "literal": "to-write",
+        "source": "H3789 (KJV: 'writing'; ESV: 'writing'; NASB: 'writing')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבְרֵ֥י",
+        "phrase": "the words",
+        "literal": "words-of",
+        "source": "H1697 (KJV: 'the words'; ESV: 'the words'; NASB: 'the words')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תּוֹרָֽה",
+        "phrase": "of the law",
+        "literal": "the-law",
+        "source": "H8451 (KJV: 'this law'; ESV: 'this law'; NASB: 'this law')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֹּ֖את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'in'; ESV: 'in'; NASB: 'in')"
+      },
+      {
+        "position": 10,
+        "surface": "סֵ֑פֶר",
+        "phrase": "a book",
+        "literal": "book",
+        "source": "H5612 (KJV: 'a book'; ESV: 'a book'; NASB: 'a book')"
+      },
+      {
+        "position": 11,
+        "surface": "עַ֖ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'to the very end'; NASB: 'until they were complete')"
+      },
+      {
+        "position": 12,
+        "surface": "תֻּמָּֽ/ם",
+        "phrase": "they were finished",
+        "literal": "their-completeness",
+        "source": "H8552 (KJV: 'they were finished'; ESV: 'to the very end'; NASB: 'they were complete')"
+      }
+    ]
+  }
+]

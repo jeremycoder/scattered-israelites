@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 10,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/הַקְהִ֖יל",
+        "phrase": "when assembling",
+        "literal": "and-in-convening",
+        "source": "H6950 (KJV: 'when the congregation'; ESV/NASB: 'to gather the assembly')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: 'the')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קָּהָ֑ל",
+        "phrase": "the assembly",
+        "literal": "the-congregation",
+        "source": "H6951 (KJV: 'congregation'; ESV: 'congregation'; NASB: 'congregation')"
+      },
+      {
+        "position": 4,
+        "surface": "תִּתְקְע֖וּ",
+        "phrase": "you shall blow",
+        "literal": "you(pl)-shall-blow",
+        "source": "H8628 (KJV/ESV/NASB: 'blow')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "but not",
+        "literal": "and-not",
+        "source": "H3808 (KJV/ESV/NASB: 'not')"
+      },
+      {
+        "position": 6,
+        "surface": "תָרִֽיעוּ",
+        "phrase": "you shall sound an alarm",
+        "literal": "you(pl)-shall-sound-alarm",
+        "source": "H7321 (KJV: 'sound an alarm'; ESV: 'sound an alarm'; NASB: 'sound a blast')"
+      }
+    ]
+  }
+]

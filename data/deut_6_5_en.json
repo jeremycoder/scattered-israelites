@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אָ֣הַבְתָּ֔",
+        "phrase": "and you shall love",
+        "literal": "and-you(love)(2ms)",
+        "source": "H157 (KJV: love; ESV: love; NASB: love)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֶ֑י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your(2ms)",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/כָל",
+        "phrase": "with all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: with all; ESV: with all; NASB: with all)"
+      },
+      {
+        "position": 6,
+        "surface": "לְבָבְ/ךָ֥",
+        "phrase": "your heart",
+        "literal": "heart-your(2ms)",
+        "source": "H3824 (KJV: thine heart; ESV: your heart; NASB: your heart)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בְ/כָל",
+        "phrase": "and with all",
+        "literal": "and-in-all",
+        "source": "H3605 (KJV: and with all; ESV: and with all; NASB: and with all)"
+      },
+      {
+        "position": 8,
+        "surface": "נַפְשְׁ/ךָ֖",
+        "phrase": "your soul",
+        "literal": "soul-your(2ms)",
+        "source": "H5315 (KJV: thy soul; ESV: your soul; NASB: your soul)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְ/כָל",
+        "phrase": "and with all",
+        "literal": "and-in-all",
+        "source": "H3605 (KJV: and with all; ESV: and with all; NASB: and with all)"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֹדֶֽ/ךָ",
+        "phrase": "your might",
+        "literal": "might-your(2ms)",
+        "source": "H3966 (KJV: thy might; ESV: your might; NASB: your might)"
+      }
+    ]
+  }
+]

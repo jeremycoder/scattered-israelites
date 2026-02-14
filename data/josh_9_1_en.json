@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 9,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: As soon as; NASB: Now it came about)"
+      },
+      {
+        "position": 2,
+        "surface": "כִ/שְׁמֹ֣עַ",
+        "phrase": "when they heard",
+        "literal": "when-hearing",
+        "source": "H8085 (KJV: when they heard; ESV: heard of; NASB: heard)"
+      },
+      {
+        "position": 3,
+        "surface": "כָּֽל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מְּלָכִ֡ים",
+        "phrase": "the kings",
+        "literal": "the-kings",
+        "source": "H4428 (KJV: kings; ESV: kings; NASB: kings)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: which; ESV: who; NASB: who)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עֵ֨בֶר",
+        "phrase": "beyond",
+        "literal": "in-crossing-over",
+        "source": "H5676 (KJV: beyond Jordan; ESV: beyond the Jordan; NASB: beyond the Jordan)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יַּרְדֵּ֜ן",
+        "phrase": "the Jordan",
+        "literal": "the-Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      },
+      {
+        "position": 8,
+        "surface": "בָּ/הָ֣ר",
+        "phrase": "in the hill country",
+        "literal": "in-the-mountain",
+        "source": "H2022 (KJV: hills; ESV: hill country; NASB: hill country)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בַ/שְּׁפֵלָ֗ה",
+        "phrase": "and in the lowland",
+        "literal": "and-in-the-lowland",
+        "source": "H8219 (KJV: valleys; ESV: lowland; NASB: lowland)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְ/כֹל֙",
+        "phrase": "and in all",
+        "literal": "and-in-all",
+        "source": "H3605 (KJV: in all; ESV: all along; NASB: on all)"
+      },
+      {
+        "position": 11,
+        "surface": "ח֚וֹף",
+        "phrase": "coast",
+        "literal": "coast",
+        "source": "H2348 (KJV: coasts; ESV: coast; NASB: coast)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/יָּ֣ם",
+        "phrase": "of the sea",
+        "literal": "the-sea",
+        "source": "H3220 (KJV: sea; ESV: Sea; NASB: Sea)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/גָּד֔וֹל",
+        "phrase": "the Great",
+        "literal": "the-great",
+        "source": "H1419 (KJV: great; ESV: Great; NASB: great)"
+      },
+      {
+        "position": 14,
+        "surface": "אֶל",
+        "phrase": "toward",
+        "literal": "to",
+        "source": "H413 (KJV: toward; ESV: toward; NASB: toward)"
+      },
+      {
+        "position": 15,
+        "surface": "מ֖וּל",
+        "phrase": "opposite",
+        "literal": "opposite",
+        "source": "H4136 (KJV: over against; ESV: toward; NASB: toward)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/לְּבָנ֑וֹן",
+        "phrase": "Lebanon",
+        "literal": "the-Lebanon",
+        "source": "H3844 (KJV: Lebanon; ESV: Lebanon; NASB: Lebanon)"
+      },
+      {
+        "position": 17,
+        "surface": "הַֽ/חִתִּי֙",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "H2850 (KJV: Hittites; ESV: Hittites; NASB: Hittite)"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/הָ֣/אֱמֹרִ֔י",
+        "phrase": "and the Amorite",
+        "literal": "and-the-Amorite",
+        "source": "H567 (KJV: Amorite; ESV: Amorites; NASB: Amorite)"
+      },
+      {
+        "position": 19,
+        "surface": "הַֽ/כְּנַעֲנִי֙",
+        "phrase": "the Canaanite",
+        "literal": "the-Canaanite",
+        "source": "H3669 (KJV: Canaanite; ESV: Canaanites; NASB: Canaanite)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/פְּרִזִּ֔י",
+        "phrase": "the Perizzite",
+        "literal": "the-Perizzite",
+        "source": "H6522 (KJV: Perizzite; ESV: Perizzites; NASB: Perizzite)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/חִוִּ֖י",
+        "phrase": "the Hivite",
+        "literal": "the-Hivite",
+        "source": "H2340 (KJV: Hivite; ESV: Hivites; NASB: Hivite)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/הַ/יְבוּסִֽי",
+        "phrase": "and the Jebusite",
+        "literal": "and-the-Jebusite",
+        "source": "H2983 (KJV: Jebusite; ESV: Jebusites; NASB: Jebusite)"
+      }
+    ]
+  }
+]

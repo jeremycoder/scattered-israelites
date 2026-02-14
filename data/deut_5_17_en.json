@@ -1,0 +1,25 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֖א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not (You shall not murder), NASB: not (You shall not murder)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּרְצָֽח",
+        "phrase": "murder",
+        "literal": "you-will-murder",
+        "source": "H7523; KJV: kill (Thou shalt not kill), ESV: murder (You shall not murder), NASB: murder (You shall not murder)"
+      }
+    ]
+  }
+]

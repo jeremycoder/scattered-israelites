@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/חֲצַ֥ר",
+        "phrase": "and Hazar",
+        "literal": "and-village",
+        "source": "H2705; KJV: Hazarshual, ESV: Hazar-shual, NASB: Hazar-shual"
+      },
+      {
+        "position": 2,
+        "surface": "שׁוּעָ֛ל",
+        "phrase": "Shual",
+        "literal": "fox",
+        "source": "H2705; KJV: Hazarshual, ESV: Hazar-shual, NASB: Hazar-shual"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בָלָ֖ה",
+        "phrase": "and Balah",
+        "literal": "and-Balah",
+        "source": "H1088; KJV: Balah, ESV: Balah, NASB: Balah"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/עָֽצֶם",
+        "phrase": "and Ezem",
+        "literal": "and-bone",
+        "source": "H6107; KJV: Azem, ESV: Ezem, NASB: Ezem"
+      }
+    ]
+  }
+]

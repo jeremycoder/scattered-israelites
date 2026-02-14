@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הוֹרִ֧ישׁ",
+        "phrase": "and-will-drive-out",
+        "literal": "and-he-will-disinherit",
+        "source": "H3423 (KJV: drive out; ESV: drive out; NASB: drive out)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גּוֹיִ֥ם",
+        "phrase": "the-nations",
+        "literal": "the-nations",
+        "source": "H1471 (KJV: nations; ESV: nations; NASB: nations)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/לִּ/פְנֵי/כֶ֑ם",
+        "phrase": "from-before-you",
+        "literal": "from-before-you(pl)",
+        "source": "H6440 (KJV: from before you; ESV: before you; NASB: from before you)"
+      },
+      {
+        "position": 8,
+        "surface": "וִֽ/ירִשְׁתֶּ֣ם",
+        "phrase": "and-you(pl)-shall-dispossess",
+        "literal": "and-you(pl)-shall-inherit",
+        "source": "H3423 (KJV: ye shall possess; ESV: you will dispossess; NASB: you will dispossess)"
+      },
+      {
+        "position": 9,
+        "surface": "גּוֹיִ֔ם",
+        "phrase": "nations",
+        "literal": "nations",
+        "source": "H1471 (KJV: nations; ESV: nations; NASB: nations)"
+      },
+      {
+        "position": 10,
+        "surface": "גְּדֹלִ֥ים",
+        "phrase": "greater",
+        "literal": "great-[mp]",
+        "source": "H1419 (KJV: greater; ESV: greater; NASB: greater)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/עֲצֻמִ֖ים",
+        "phrase": "and-stronger",
+        "literal": "and-strong-[mp]",
+        "source": "H6099 (KJV: mightier; ESV: mightier; NASB: mightier)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/כֶּֽם",
+        "phrase": "than-you(pl)",
+        "literal": "from-you(pl)",
+        "source": "H4480 (KJV: than yourselves; ESV: than you; NASB: than you)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they set out",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (journeyed/set out/departed; KJV: went, ESV: set out, NASB: set out)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/מִּתְקָ֑ה",
+        "phrase": "from Mithkah",
+        "literal": "from-Mithkah",
+        "source": "H4989 (Mithkah; KJV: Mithcah, ESV: Mithkah, NASB: Mithkah)"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and camped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (encamped/camped/pitched; KJV: pitched, ESV: camped, NASB: encamped)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/חַשְׁמֹנָֽה",
+        "phrase": "at Hashmonah",
+        "literal": "in-Hashmonah",
+        "source": "H2832 (Hashmonah; KJV: Hashmonah, ESV: Hashmonah, NASB: Hashmonah)"
+      }
+    ]
+  }
+]

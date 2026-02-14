@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 6,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוֹשֻׁ֔עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 5,
+        "surface": "רְאֵה֙",
+        "phrase": "See",
+        "literal": "see",
+        "source": "H7200 (KJV: See; ESV: See; NASB: See)"
+      },
+      {
+        "position": 6,
+        "surface": "נָתַ֣תִּי",
+        "phrase": "I have given",
+        "literal": "I-have-given",
+        "source": "H5414 (KJV: I have given; ESV: I have given; NASB: I have given)"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/יָֽדְ/ךָ֔",
+        "phrase": "into your hand",
+        "literal": "in-hand-your",
+        "source": "H3027 (KJV: into thine hand; ESV: into your hand; NASB: into your hand)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "יְרִיח֖וֹ",
+        "phrase": "Jericho",
+        "literal": "Jericho",
+        "source": "H3405 (KJV: Jericho; ESV: Jericho; NASB: Jericho)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: and [implied]; ESV: with [implied]; NASB: with [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "מַלְכָּ֑/הּ",
+        "phrase": "its king",
+        "literal": "king-its",
+        "source": "H4428 (KJV: the king thereof; ESV: its king; NASB: its king)"
+      },
+      {
+        "position": 12,
+        "surface": "גִּבּוֹרֵ֖י",
+        "phrase": "mighty men",
+        "literal": "mighty-men",
+        "source": "H1368 (KJV: mighty men; ESV: mighty men; NASB: valiant warriors)"
+      },
+      {
+        "position": 13,
+        "surface": "הֶ/חָֽיִל",
+        "phrase": "of the valor",
+        "literal": "the-valor",
+        "source": "H2428 (KJV: of valour; ESV: of valor; NASB: warriors)"
+      }
+    ]
+  }
+]

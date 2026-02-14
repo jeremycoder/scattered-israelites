@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 34,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נֶּ֗גֶב",
+        "phrase": "Negeb",
+        "literal": "the-southland",
+        "source": "H5045 (KJV: south; ESV: Negeb; NASB: Negev)"
+      },
+      {
+        "position": 3,
+        "surface": "וְֽ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כִּכָּ֞ר",
+        "phrase": "Plain",
+        "literal": "the-plain",
+        "source": "H3603 (KJV: plain; ESV: Plain; NASB: valley)"
+      },
+      {
+        "position": 5,
+        "surface": "בִּקְעַ֧ת",
+        "phrase": "valley",
+        "literal": "valley-of",
+        "source": "H1237 (KJV: valley; ESV: Valley; NASB: valley)"
+      },
+      {
+        "position": 6,
+        "surface": "יְרֵח֛וֹ",
+        "phrase": "of Jericho",
+        "literal": "Jericho",
+        "source": "H3405 (KJV: Jericho; ESV: Jericho; NASB: Jericho)"
+      },
+      {
+        "position": 7,
+        "surface": "עִ֥יר",
+        "phrase": "the city",
+        "literal": "city-of",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/תְּמָרִ֖ים",
+        "phrase": "of palm trees",
+        "literal": "the-palms",
+        "source": "H8558 (KJV: palm trees; ESV: palm trees; NASB: palm trees)"
+      },
+      {
+        "position": 9,
+        "surface": "עַד",
+        "phrase": "as far as",
+        "literal": "until",
+        "source": "H5704 (KJV: unto; ESV: as far as; NASB: as far as)"
+      },
+      {
+        "position": 10,
+        "surface": "צֹֽעַר",
+        "phrase": "Zoar",
+        "literal": "Zoar",
+        "source": "H6820 (KJV: Zoar; ESV: Zoar; NASB: Zoar)"
+      }
+    ]
+  }
+]

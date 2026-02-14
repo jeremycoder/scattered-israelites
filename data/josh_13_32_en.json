@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֕לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 3,
+        "surface": "נִחַ֥ל",
+        "phrase": "distributed",
+        "literal": "caused-to-inherit",
+        "source": "H5157 (KJV: did distribute; ESV: distributed; NASB: apportioned)"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/עַֽרְב֣וֹת",
+        "phrase": "in the plains of",
+        "literal": "in-plains-of",
+        "source": "H6160 (KJV: in the plains; ESV: in the plains; NASB: in the plains)"
+      },
+      {
+        "position": 6,
+        "surface": "מוֹאָ֑ב",
+        "phrase": "Moab",
+        "literal": "Moab",
+        "source": "H4124 (KJV: of Moab; ESV: of Moab; NASB: of Moab)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/עֵ֛בֶר",
+        "phrase": "on the other side of",
+        "literal": "from-side-of",
+        "source": "H5676 (KJV: on the other side; ESV: beyond; NASB: beyond)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/יַרְדֵּ֥ן",
+        "phrase": "the Jordan",
+        "literal": "to-Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: the Jordan; NASB: the Jordan)"
+      },
+      {
+        "position": 9,
+        "surface": "יְרִיח֖וֹ",
+        "phrase": "Jericho",
+        "literal": "Jericho",
+        "source": "H3405 (KJV: by Jericho; ESV: east of Jericho; NASB: at Jericho)"
+      },
+      {
+        "position": 10,
+        "surface": "מִזְרָֽחָ/ה",
+        "phrase": "eastward",
+        "literal": "eastward",
+        "source": "H4217 (KJV: eastward; ESV: east; NASB: to the east)"
+      }
+    ]
+  }
+]

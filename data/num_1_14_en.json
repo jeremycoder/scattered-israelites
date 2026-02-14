@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/גָ֕ד",
+        "phrase": "for Gad",
+        "literal": "to-Gad",
+        "source": "H1410; KJV/ESV/NASB: 'of Gad' (referring to the tribe of Gad)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶלְיָסָ֖ף",
+        "phrase": "Eliasaph",
+        "literal": "Eliasaph",
+        "source": "H460; KJV/ESV/NASB: 'Eliasaph'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 4,
+        "surface": "דְּעוּאֵֽל",
+        "phrase": "Deuel",
+        "literal": "Deuel",
+        "source": "H1845; KJV: 'Deuel', ESV/NASB: 'Reuel'"
+      }
+    ]
+  }
+]

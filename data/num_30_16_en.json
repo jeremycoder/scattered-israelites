@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 30,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "and-if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'But if'; ESV: 'but if'; NASB: 'But if')"
+      },
+      {
+        "position": 2,
+        "surface": "הָפֵ֥ר",
+        "phrase": "he-nullifies",
+        "literal": "he-nullifies",
+        "source": "H6565 (KJV: 'make...void'; ESV: 'nullifies'; NASB: 'indeed nullifies')"
+      },
+      {
+        "position": 3,
+        "surface": "יָפֵ֛ר",
+        "phrase": "he-nullifies",
+        "literal": "he-nullifies",
+        "source": "H6565 (KJV: 'make...void'; ESV: 'them'; NASB: 'them')"
+      },
+      {
+        "position": 4,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "obj.marker-them",
+        "source": "H853 (KJV: 'them'; ESV: 'them'; NASB: 'them')"
+      },
+      {
+        "position": 5,
+        "surface": "אַחֲרֵ֣י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 (KJV: 'after'; ESV: 'after'; NASB: 'after')"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁמְע֑/וֹ",
+        "phrase": "hearing-them",
+        "literal": "hearing-his",
+        "source": "H8085 (KJV: 'he hath heard'; ESV: 'he hears'; NASB: 'he hears')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/נָשָׂ֖א",
+        "phrase": "and-he-bears",
+        "literal": "and-he-bears",
+        "source": "H5375 (KJV: 'shall bear'; ESV: 'he shall bear'; NASB: 'he shall bear')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "obj.marker",
+        "literal": "obj.marker",
+        "source": "H853 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 9,
+        "surface": "עֲוֺנָֽ/הּ",
+        "phrase": "her-iniquity",
+        "literal": "iniquity-her",
+        "source": "H5771 (KJV: 'her iniquity'; ESV: 'her iniquity'; NASB: 'her iniquity')"
+      }
+    ]
+  }
+]

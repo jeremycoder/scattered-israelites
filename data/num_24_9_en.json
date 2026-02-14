@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 24,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כָּרַ֨ע",
+        "phrase": "He crouches",
+        "literal": "he-crouched",
+        "source": "H3766: KJV 'couched', ESV 'crouched', NASB 'couches'"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁכַ֧ב",
+        "phrase": "he lies down",
+        "literal": "he-lay-down",
+        "source": "H7901: KJV 'lay down', ESV 'lay down', NASB 'lies down'"
+      },
+      {
+        "position": 3,
+        "surface": "כַּ/אֲרִ֛י",
+        "phrase": "like a lion",
+        "literal": "like/lion",
+        "source": "H738: KJV 'as a lion', ESV 'like a lion', NASB 'as a lion'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/כְ/לָבִ֖יא",
+        "phrase": "and like a lioness",
+        "literal": "and/like/lioness",
+        "source": "H3833: KJV 'as a great lion', ESV 'like a lioness', NASB 'as a lion'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ֣י",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H4310: KJV 'who', ESV 'who', NASB 'who'"
+      },
+      {
+        "position": 6,
+        "surface": "יְקִימֶ֑/נּוּ",
+        "phrase": "will rouse him",
+        "literal": "will-raise-up/him",
+        "source": "H6965: KJV 'stir him up', ESV 'rouse him up', NASB 'rouse him'"
+      },
+      {
+        "position": 7,
+        "surface": "מְבָרֲכֶ֣י/ךָ",
+        "phrase": "those who bless you",
+        "literal": "blessing-you",
+        "source": "H1288: KJV 'he that blesseth thee', ESV 'those who bless you', NASB 'everyone who blesses you'"
+      },
+      {
+        "position": 8,
+        "surface": "בָר֔וּךְ",
+        "phrase": "will be blessed",
+        "literal": "blessed",
+        "source": "H1288: KJV 'Blessed', ESV 'Blessed', NASB 'Blessed'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֹרְרֶ֖י/ךָ",
+        "phrase": "those who curse you",
+        "literal": "and/cursing-you",
+        "source": "H779: KJV 'he that curseth thee', ESV 'those who curse you', NASB 'everyone who curses you'"
+      },
+      {
+        "position": 10,
+        "surface": "אָרֽוּר",
+        "phrase": "will be cursed",
+        "literal": "cursed",
+        "source": "H779: KJV 'cursed', ESV 'cursed', NASB 'cursed"
+      }
+    ]
+  }
+]

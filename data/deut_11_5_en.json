@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲשֶׁ֥ר",
+        "phrase": "and what",
+        "literal": "and-which",
+        "source": "H834 (KJV: 'which'; ESV: 'what'; NASB: 'what')"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂ֛ה",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "H6213 (KJV: 'did'; ESV: 'did'; NASB: 'did')"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": " (KJV: 'unto you'; ESV: 'for you'; NASB: 'for you')"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/מִּדְבָּ֑ר",
+        "phrase": "in the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057 (KJV: 'wilderness'; ESV: 'wilderness'; NASB: 'wilderness')"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: 'until'; ESV: 'before'; NASB: 'until')"
+      },
+      {
+        "position": 6,
+        "surface": "בֹּאֲ/כֶ֖ם",
+        "phrase": "you came",
+        "literal": "come-you(pl)",
+        "source": "H935 (KJV: 'ye came'; ESV: 'you reached'; NASB: 'you came')"
+      },
+      {
+        "position": 7,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H5704 (KJV: 'unto'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מָּק֥וֹם",
+        "phrase": "the place",
+        "literal": "the-place",
+        "source": "H4725 (KJV: 'place'; ESV: 'place'; NASB: 'place')"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/לֹא",
+        "phrase": "Is it not",
+        "literal": "not-yes",
+        "source": "H3808 - KJV: 'Is it not'; ESV: 'Is not'; NASB: 'Is it not'"
+      },
+      {
+        "position": 2,
+        "surface": "ה֖וּא",
+        "phrase": "it",
+        "literal": "he/it",
+        "source": "H1931 - KJV: 'laid up'; ESV: 'laid up'; NASB: 'stored up' (refers to the matter)"
+      },
+      {
+        "position": 3,
+        "surface": "כָּמֻ֣ס",
+        "phrase": "stored up",
+        "literal": "stored-up",
+        "source": "H3647 - KJV: 'laid up'; ESV: 'laid up'; NASB: 'stored up'"
+      },
+      {
+        "position": 4,
+        "surface": "עִמָּ/דִ֑י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "H5978 - KJV: 'with me'; ESV: 'with me'; NASB: 'with Me'"
+      },
+      {
+        "position": 5,
+        "surface": "חָתֻ֖ם",
+        "phrase": "sealed",
+        "literal": "sealed",
+        "source": "H2856 - KJV: 'sealed'; ESV: 'sealed'; NASB: 'sealed'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/אוֹצְרֹתָֽ/י",
+        "phrase": "in my treasuries",
+        "literal": "in-treasuries-my",
+        "source": "H214 - KJV: 'in my treasures'; ESV: 'in my treasuries'; NASB: 'in My treasuries'"
+      }
+    ]
+  }
+]

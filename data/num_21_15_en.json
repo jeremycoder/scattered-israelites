@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 21,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶ֨שֶׁד֙",
+        "phrase": "and the slope",
+        "literal": "and-slope",
+        "source": "H793: KJV 'at the stream', ESV 'slope', NASB 'slope'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נְּחָלִ֔ים",
+        "phrase": "of the wadis",
+        "literal": "the-wadis",
+        "source": "H5158: KJV 'brooks', ESV 'valleys', NASB 'wadis'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834: KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 4,
+        "surface": "נָטָ֖ה",
+        "phrase": "extends",
+        "literal": "extends",
+        "source": "H5186: KJV 'goeth down', ESV 'extends', NASB 'extends'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/שֶׁ֣בֶת",
+        "phrase": "to the seat",
+        "literal": "to-sitting",
+        "source": "H3427: KJV 'dwelling', ESV 'seat', NASB 'site'"
+      },
+      {
+        "position": 6,
+        "surface": "עָ֑ר",
+        "phrase": "of Ar",
+        "literal": "Ar",
+        "source": "H6144: KJV 'Ar', ESV 'Ar', NASB 'Ar'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/נִשְׁעַ֖ן",
+        "phrase": "and leans",
+        "literal": "and-leans",
+        "source": "H8172: KJV 'lieth', ESV 'leans', NASB 'leans'"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/גְב֥וּל",
+        "phrase": "to the border",
+        "literal": "to-border",
+        "source": "H1366: KJV 'border', ESV 'border', NASB 'border'"
+      },
+      {
+        "position": 9,
+        "surface": "מוֹאָֽב",
+        "phrase": "of Moab",
+        "literal": "Moab",
+        "source": "H4124: KJV 'Moab', ESV 'Moab', NASB 'Moab'"
+      }
+    ]
+  }
+]

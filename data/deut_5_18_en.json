@@ -1,0 +1,25 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "Neither",
+        "literal": "and-not",
+        "source": "H3808; KJV: Neither, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תִּנְאָֽף",
+        "phrase": "shall you commit adultery",
+        "literal": "you(m.s.)-shall-adulterate",
+        "source": "H5003; KJV: commit adultery, ESV: commit adultery, NASB: commit adultery"
+      }
+    ]
+  }
+]

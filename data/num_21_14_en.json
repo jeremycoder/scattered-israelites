@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 21,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "Therefore",
+        "literal": "on",
+        "source": "H5921: KJV 'Wherefore', ESV 'Therefore', NASB 'Therefore'"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּן֙",
+        "phrase": "it is said",
+        "literal": "thus",
+        "source": "H3651: KJV 'it is said', ESV 'it is said', NASB 'it is said'"
+      },
+      {
+        "position": 3,
+        "surface": "יֵֽאָמַ֔ר",
+        "phrase": "it is said",
+        "literal": "it-is-said",
+        "source": "H559: KJV 'it is said', ESV 'it is said', NASB 'it is said'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/סֵ֖פֶר",
+        "phrase": "in the book",
+        "literal": "in/book-of",
+        "source": "H5612: KJV 'in the book', ESV 'in the Book', NASB 'in the Book'"
+      },
+      {
+        "position": 5,
+        "surface": "מִלְחֲמֹ֣ת",
+        "phrase": "of the wars",
+        "literal": "wars-of",
+        "source": "H4421: KJV 'of the wars', ESV 'of the Wars', NASB 'of the Wars'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'of the LORD', ESV 'of the LORD', NASB 'of the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "וָהֵ֣ב",
+        "phrase": "Waheb",
+        "literal": "Waheb",
+        "source": "H2052: KJV 'What he did', ESV 'Waheb', NASB 'Waheb'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/סוּפָ֔ה",
+        "phrase": "in Suphah",
+        "literal": "in/Suphah",
+        "source": "H5492: KJV 'in the Red sea', ESV 'in Suphah', NASB 'in Suphah'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and/[et]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/נְּחָלִ֖ים",
+        "phrase": "the wadis",
+        "literal": "the/wadis",
+        "source": "H5158: KJV 'brooks', ESV 'valleys', NASB 'wadis'"
+      },
+      {
+        "position": 12,
+        "surface": "אַרְנֽוֹן",
+        "phrase": "Arnon",
+        "literal": "Arnon",
+        "source": "H769: KJV 'Arnon', ESV 'Arnon', NASB 'Arnon'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV: removed, ESV: set out, NASB: journeyed"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/אֵילִ֑ם",
+        "phrase": "from Elim",
+        "literal": "from-Elim",
+        "source": "H362; KJV: from Elim, ESV: from Elim, NASB: from Elim"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: encamped, ESV: camped, NASB: camped"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "H5921; KJV: by, ESV: by, NASB: by"
+      },
+      {
+        "position": 5,
+        "surface": "יַם",
+        "phrase": "the sea",
+        "literal": "sea-of",
+        "source": "H3220; KJV: Red sea, ESV: Red Sea, NASB: Red Sea"
+      },
+      {
+        "position": 6,
+        "surface": "סֽוּף",
+        "phrase": "of Reed",
+        "literal": "Reed",
+        "source": "H5488; KJV: Red sea, ESV: Red Sea, NASB: Red Sea"
+      }
+    ]
+  }
+]

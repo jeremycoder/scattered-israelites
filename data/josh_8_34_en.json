@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 8,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַֽחֲרֵי",
+        "phrase": "And afterward",
+        "literal": "and-after",
+        "source": "H310 (KJV: afterward; ESV: afterward; NASB: afterward)"
+      },
+      {
+        "position": 2,
+        "surface": "כֵ֗ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: so; NASB: so)"
+      },
+      {
+        "position": 3,
+        "surface": "קָרָא֙",
+        "phrase": "he read",
+        "literal": "he-read",
+        "source": "H7121 (KJV: he read; ESV: he read; NASB: he read)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבְרֵ֣י",
+        "phrase": "the words",
+        "literal": "words-of",
+        "source": "H1697 (KJV: words; ESV: words; NASB: words)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תּוֹרָ֔ה",
+        "phrase": "of the law",
+        "literal": "the-law",
+        "source": "H8451 (KJV: law; ESV: law; NASB: law)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/בְּרָכָ֖ה",
+        "phrase": "the blessing",
+        "literal": "the-blessing",
+        "source": "H1293 (KJV: blessings; ESV: blessing; NASB: blessing)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/קְּלָלָ֑ה",
+        "phrase": "and the curse",
+        "literal": "and-the-curse",
+        "source": "H7045 (KJV: cursings; ESV: curse; NASB: curse)"
+      },
+      {
+        "position": 10,
+        "surface": "כְּ/כָל",
+        "phrase": "according to all",
+        "literal": "as-all",
+        "source": "H3605 (KJV: according to all; ESV: according to all; NASB: according to all)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/כָּת֖וּב",
+        "phrase": "that is written",
+        "literal": "the-written",
+        "source": "H3789 (KJV: written; ESV: written; NASB: written)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/סֵ֥פֶר",
+        "phrase": "in the book",
+        "literal": "in-book",
+        "source": "H5612 (KJV: book; ESV: Book; NASB: book)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/תּוֹרָֽה",
+        "phrase": "of the law",
+        "literal": "the-law",
+        "source": "H8451 (KJV: law; ESV: Law; NASB: law)"
+      }
+    ]
+  }
+]

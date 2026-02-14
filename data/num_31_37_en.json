@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֛י",
+        "phrase": "And it was",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And', ESV 'And', NASB 'Now' (wayhi as narrative conjunction introducing the event)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֥כֶס",
+        "phrase": "the tribute",
+        "literal": "the-tribute",
+        "source": "H4371: KJV 'LORD's tribute', ESV 'tribute to the Lord', NASB 'LORD's tribute' (hammeḵes as the levy or tax)"
+      },
+      {
+        "position": 3,
+        "surface": "לַֽ/יהוָ֖ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068: KJV 'the LORD's', ESV 'the Lord', NASB 'the LORD' (lə-YHWH, dative of YHWH)"
+      },
+      {
+        "position": 4,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480: KJV 'of', ESV 'from', NASB 'of' (min as partitive preposition)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/צֹּ֑אן",
+        "phrase": "the sheep",
+        "literal": "the-flock",
+        "source": "H6629: KJV 'the sheep', ESV 'the sheep', NASB 'the sheep' (haṣṣōʾn as small cattle, sheep/goats)"
+      },
+      {
+        "position": 6,
+        "surface": "שֵׁ֥שׁ",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337: KJV 'six', ESV 'six', NASB 'six' (šēš as cardinal number)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵא֖וֹת",
+        "phrase": "hundreds",
+        "literal": "hundreds",
+        "source": "H3967: KJV 'hundred', ESV 'hundred', NASB 'hundred' (mēʾôt as hundreds, distributive)"
+      },
+      {
+        "position": 8,
+        "surface": "חָמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568: KJV 'and five', ESV 'and five', NASB 'and five' (ḥāmēš as five)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שִׁבְעִֽים",
+        "phrase": "and seventy",
+        "literal": "and-seventy",
+        "source": "H7657: KJV 'and threescore and fifteen' (total), ESV 'seventy-five', NASB 'seventy-five' (wəšiḇʿîm part of the total 675)"
+      }
+    ]
+  }
+]

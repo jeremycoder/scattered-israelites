@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פְּקֻדֵי/הֶ֖ם",
+        "phrase": "those numbered of them",
+        "literal": "numbered-of-them",
+        "source": "H6485 (KJV: 'Those that were numbered of them'; ESV: 'those listed of'; NASB: 'their numbered men')"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מַטֵּ֣ה",
+        "phrase": "of the tribe",
+        "literal": "to-tribe-of",
+        "source": "H4294 (KJV: 'even of the tribe'; ESV: 'of the tribe'; NASB: 'of the tribe')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶפְרָ֑יִם",
+        "phrase": "Ephraim",
+        "literal": "Ephraim",
+        "source": "H669 (KJV: 'Ephraim'; ESV: 'Ephraim'; NASB: 'Ephraim')"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבָּעִ֥ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "H705 (KJV: 'forty thousand'; ESV: '40,500'; NASB: '40,500')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: 'forty thousand'; ESV: '40,500'; NASB: '40,500')"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/חֲמֵ֥שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "H2568 (KJV: 'and five hundred'; ESV: '40,500'; NASB: '40,500')"
+      },
+      {
+        "position": 7,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967 (KJV: 'five hundred'; ESV: '40,500'; NASB: '40,500')"
+      }
+    ]
+  }
+]

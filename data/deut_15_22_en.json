@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּ/שְׁעָרֶ֖י/ךָ",
+        "phrase": "within your gates",
+        "literal": "in-gates-your",
+        "source": "H8179; KJV 'within thy gates', ESV 'within your towns', NASB 'within your gates'"
+      },
+      {
+        "position": 2,
+        "surface": "תֹּאכֲלֶ֑/נּוּ",
+        "phrase": "you shall eat it",
+        "literal": "you-will-eat-it",
+        "source": "H398; KJV 'Thou shalt eat it', ESV 'You shall eat it', NASB 'You shall eat it'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/טָּמֵ֤א",
+        "phrase": "the unclean",
+        "literal": "the-unclean",
+        "source": "H2931; KJV 'the unclean', ESV 'The unclean', NASB 'the unclean'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הַ/טָּהוֹר֙",
+        "phrase": "and the clean",
+        "literal": "and-the-clean",
+        "source": "H2889; KJV 'and the clean person', ESV 'and the clean', NASB 'and the clean'"
+      },
+      {
+        "position": 5,
+        "surface": "יַחְדָּ֔ו",
+        "phrase": "alike",
+        "literal": "together",
+        "source": "H3162; KJV 'alike', ESV 'alike', NASB 'alike'"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/צְּבִ֖י",
+        "phrase": "as the gazelle",
+        "literal": "as-the-gazelle",
+        "source": "H6643; KJV 'as the roebuck', ESV 'as though it were a gazelle', NASB 'as a gazelle'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/כָ/אַיָּֽל",
+        "phrase": "and as the deer",
+        "literal": "and-as-the-deer",
+        "source": "H354; KJV 'and as the hart', ESV 'or a deer', NASB 'or a deer'"
+      }
+    ]
+  }
+]

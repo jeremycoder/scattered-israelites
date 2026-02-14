@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/דָ֕ן",
+        "phrase": "for Dan",
+        "literal": "to-Dan",
+        "source": "H1835 (KJV: 'of Dan'; ESV: 'of Dan'; NASB: 'of Dan')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחִיעֶ֖זֶר",
+        "phrase": "Ahiezer",
+        "literal": "brother-of-help",
+        "source": "H295 (KJV: 'Ahiezer'; ESV: 'Ahiezer'; NASB: 'Ahiezer')"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: 'the son of'; ESV: 'the son of'; NASB: 'the son of')"
+      },
+      {
+        "position": 4,
+        "surface": "עַמִּֽישַׁדָּֽי",
+        "phrase": "Ammishaddai",
+        "literal": "people-of-Shaddai",
+        "source": "H5996 (KJV: 'Ammishaddai'; ESV: 'Ammishaddai'; NASB: 'Ammishaddai')"
+      }
+    ]
+  }
+]

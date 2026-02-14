@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 15,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֵ/רֵאשִׁית֙",
+        "phrase": "from the first",
+        "literal": "from-beginning-of",
+        "source": "H7225 (KJV: 'of the first'; ESV: 'of the first'; NASB: 'of the first')"
+      },
+      {
+        "position": 2,
+        "surface": "עֲרִסֹ֣תֵי/כֶ֔ם",
+        "phrase": "of your dough",
+        "literal": "doughs-of-you",
+        "source": "H6182 (KJV: 'dough'; ESV: 'dough'; NASB: 'dough')"
+      },
+      {
+        "position": 3,
+        "surface": "תִּתְּנ֥וּ",
+        "phrase": "you shall give",
+        "literal": "you(pl)-shall-give",
+        "source": "H5414 (KJV: 'ye shall give'; ESV: 'you shall give'; NASB: 'you shall give')"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/יהוָ֖ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 5,
+        "surface": "תְּרוּמָ֑ה",
+        "phrase": "a contribution",
+        "literal": "contribution",
+        "source": "H8641 (KJV: 'heave offering'; ESV: 'contribution'; NASB: 'contribution')"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/דֹרֹ֖תֵי/כֶֽם",
+        "phrase": "throughout your generations",
+        "literal": "to-generations-of-you",
+        "source": "H1755 (KJV: 'generations'; ESV: 'generations'; NASB: 'generations')"
+      }
+    ]
+  }
+]

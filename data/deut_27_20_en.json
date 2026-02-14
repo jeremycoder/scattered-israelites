@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֗וּר",
+        "phrase": "Cursed [be he]",
+        "literal": "cursed",
+        "source": "H779 (KJV: Cursed be he; ESV: Cursed be anyone; NASB: Cursed is he)"
+      },
+      {
+        "position": 2,
+        "surface": "שֹׁכֵב֙",
+        "phrase": "who lies",
+        "literal": "lying",
+        "source": "H7901 (KJV: lieth; ESV: lies; NASB: lies)"
+      },
+      {
+        "position": 3,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV/ESV/NASB: with)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֣שֶׁת",
+        "phrase": "wife",
+        "literal": "wife-of",
+        "source": "H802 (KJV/ESV/NASB: wife)"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֔י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV/ESV/NASB: his father's)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֥י",
+        "phrase": "because",
+        "literal": "that",
+        "source": "H3588 (KJV/ESV/NASB: because)"
+      },
+      {
+        "position": 7,
+        "surface": "גִלָּ֖ה",
+        "phrase": "he has uncovered",
+        "literal": "he-uncovered",
+        "source": "H1540 (KJV/NASB: uncovereth; ESV: uncovered)"
+      },
+      {
+        "position": 8,
+        "surface": "כְּנַ֣ף",
+        "phrase": "skirt",
+        "literal": "skirt/wing",
+        "source": "H3671 (KJV/NASB: skirt; ESV: nakedness)"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV/ESV/NASB: his father's)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אָמַ֥ר",
+        "phrase": "And shall say",
+        "literal": "and-he-says",
+        "source": "H559 (KJV/ESV/NASB: shall say)"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV/ESV/NASB: all)"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV/ESV/NASB: the people)"
+      },
+      {
+        "position": 13,
+        "surface": "אָמֵֽן",
+        "phrase": "Amen",
+        "literal": "amen",
+        "source": "H543 (KJV/ESV/NASB: Amen)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּכְתֹּ֨ב",
+        "phrase": "and wrote",
+        "literal": "and-he-wrote",
+        "source": "H3789 (KJV: wrote; ESV: wrote down; NASB: wrote)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֜ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [their]; ESV: [their]; NASB: [their])"
+      },
+      {
+        "position": 4,
+        "surface": "מוֹצָאֵי/הֶ֛ם",
+        "phrase": "their starting places",
+        "literal": "goings-out-of-them",
+        "source": "H4161 (KJV: goings out; ESV: starting places; NASB: starting places)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/מַסְעֵי/הֶ֖ם",
+        "phrase": "according to their journeys",
+        "literal": "according-to-journeys-of-them",
+        "source": "H4550 (KJV: according to their journeys; ESV: for their journeys; NASB: according to their journeys)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "upon",
+        "source": "H5921 (KJV: by; ESV: by; NASB: by)"
+      },
+      {
+        "position": 7,
+        "surface": "פִּ֣י",
+        "phrase": "mouth",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: commandment; ESV: commandment; NASB: command)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֵ֥לֶּה",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "H428 (KJV: and these; ESV: and these; NASB: and these)"
+      },
+      {
+        "position": 10,
+        "surface": "מַסְעֵי/הֶ֖ם",
+        "phrase": "their journeys",
+        "literal": "journeys-of-them",
+        "source": "H4550 (KJV: journeys; ESV: journeys; NASB: journeys)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/מוֹצָאֵי/הֶֽם",
+        "phrase": "according to their starting places",
+        "literal": "according-to-goings-out-of-them",
+        "source": "H4161 (KJV: goings out; ESV: starting places; NASB: starting places)"
+      }
+    ]
+  }
+]

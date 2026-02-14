@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 60,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הֵשִׁ֣יב",
+        "phrase": "and He will bring back",
+        "literal": "and-he-will-bring-back",
+        "source": "H7725 (shuv: to turn back); KJV: 'bring...vpon thee', ESV: 'bring...on you', NASB: 'bring...on you'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/ךָ֗",
+        "phrase": "upon you",
+        "literal": "in/on-you",
+        "source": "(preposition + pronoun); KJV: 'vpon thee', ESV: 'on you', NASB: 'on you'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֚ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 ('et: direct object marker); KJV/ESV/NASB: not translated (untranslated marker)"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (kol: all, every); KJV: 'all', ESV: 'all', NASB: 'all'"
+      },
+      {
+        "position": 5,
+        "surface": "מַדְוֵ֣ה",
+        "phrase": "diseases",
+        "literal": "diseases",
+        "source": "H4064 (madveh: sickness, disease); KJV: 'diseases', ESV: 'diseases', NASB: 'diseases'"
+      },
+      {
+        "position": 6,
+        "surface": "מִצְרַ֔יִם",
+        "phrase": "of Egypt",
+        "literal": "of-Egypt",
+        "source": "H4714 (Mitsrayim: Egypt); KJV: 'of Egypt', ESV: 'of Egypt', NASB: 'of Egypt'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (asher: relative pronoun); KJV: 'of which', ESV: 'of which', NASB: 'which'"
+      },
+      {
+        "position": 8,
+        "surface": "יָגֹ֖רְתָּ",
+        "phrase": "you dreaded",
+        "literal": "you-were-afraid",
+        "source": "H3025? (yagor: to fear, dread; note: likely yagor from yare'; morph suggests qal perfect 2ms); KJV: 'thou wast afraid', ESV: 'you were afraid', NASB: 'you were afraid'"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/פְּנֵי/הֶ֑ם",
+        "phrase": "from their presence",
+        "literal": "from/before/face-of-them",
+        "source": "H6440 (paniym: face, presence); KJV: 'from them', ESV: 'from them', NASB: 'from them'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/דָבְק֖וּ",
+        "phrase": "and they will cling",
+        "literal": "and-they-will-cleave",
+        "source": "H1692 (dabaq: to cling, cleave); KJV: 'they shall cleave', ESV/NASB: 'they shall cling'"
+      },
+      {
+        "position": 11,
+        "surface": "בָּֽ/ךְ",
+        "phrase": "to you",
+        "literal": "in/on-you",
+        "source": "(preposition + pronoun, fem form but context masc); KJV: 'vnto thee', ESV/NASB: 'to you'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אָמַ֖ר",
+        "phrase": "And he will say",
+        "literal": "and-he-says",
+        "source": "H559 (KJV: 'And he shall say'; ESV: 'then he will say'; NASB: 'And He will say')"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֣י",
+        "phrase": "Where",
+        "literal": "where",
+        "source": "H335 (KJV: 'Where'; ESV: 'Where'; NASB: 'Where')"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֵ֑י/מוֹ",
+        "phrase": "are their gods",
+        "literal": "gods-his",
+        "source": "H430 (KJV: 'are their gods'; ESV: 'are their gods'; NASB: 'are their gods')"
+      },
+      {
+        "position": 4,
+        "surface": "צ֖וּר",
+        "phrase": "rock",
+        "literal": "rock",
+        "source": "H6697 (KJV: 'their rock'; ESV: 'their rock'; NASB: 'their rock')"
+      },
+      {
+        "position": 5,
+        "surface": "חָסָ֥יוּ",
+        "phrase": "in whom they took refuge",
+        "literal": "they-sought-refuge",
+        "source": "H2620 (KJV: 'in whom they trusted'; ESV: 'in whom they took refuge'; NASB: 'in whom they took refuge')"
+      },
+      {
+        "position": 6,
+        "surface": "בֽ/וֹ",
+        "phrase": "in it",
+        "literal": "in-him",
+        "source": " (KJV: '(implied)'; ESV: '(implied)'; NASB: '(implied)')"
+      }
+    ]
+  }
+]

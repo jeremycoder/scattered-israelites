@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֣ו",
+        "phrase": "Then commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֔עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "שֹׁטְרֵ֥י",
+        "phrase": "officers",
+        "literal": "officers-of",
+        "source": "H7860 (KJV: officers; ESV: officers; NASB: officers)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "of the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: people; ESV: people; NASB: people)"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: [implied]; NASB: saying)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 2,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/צְבָא֖/וֹ",
+        "phrase": "and his army",
+        "literal": "and-host-his",
+        "source": "H6635 (KJV: host; ESV: company; NASB: army)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/פְקֻדֵי/הֶ֑ם",
+        "phrase": "and their numbered ones",
+        "literal": "and-numbered-of-them",
+        "source": "H6485 (KJV: those that were numbered of them; ESV: as listed; NASB: their numbered men)"
+      },
+      {
+        "position": 3,
+        "surface": "חֲמִשָּׁ֧ה",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV/ESV/NASB: five)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁלֹשִׁ֛ים",
+        "phrase": "and thirty",
+        "literal": "and-thirty",
+        "source": "H7970 (KJV/ESV/NASB: thirty)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV/ESV/NASB: thousand)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אַרְבַּ֥ע",
+        "phrase": "and four",
+        "literal": "and-four",
+        "source": "H702 (KJV/ESV/NASB: four)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967 (KJV/ESV/NASB: hundred)"
+      }
+    ]
+  }
+]

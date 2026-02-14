@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ֣/חֲסִידָ֔ה",
+        "phrase": "and the stork",
+        "literal": "and-the-stork",
+        "source": "H2624; KJV: stork, ESV: stork, NASB: stork"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הָ/אֲנָפָ֖ה",
+        "phrase": "and the heron",
+        "literal": "and-the-heron",
+        "source": "H601; KJV: heron, ESV: heron, NASB: heron"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מִינָ֑/הּ",
+        "phrase": "according to its kind",
+        "literal": "to-kind-of-her",
+        "source": "H4327; KJV: after her kind, ESV: in their kinds, NASB: in their kinds"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הַ/דּוּכִיפַ֖ת",
+        "phrase": "and the hoopoe",
+        "literal": "and-the-hoopoe",
+        "source": "H1744; KJV: lapwing, ESV: hoopoe, NASB: hoopoe"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הָ/עֲטַלֵּֽף",
+        "phrase": "and the bat",
+        "literal": "and-the-bat",
+        "source": "H5847; KJV: bat, ESV: bat, NASB: bat"
+      }
+    ]
+  }
+]

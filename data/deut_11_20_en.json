@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/כְתַבְתָּ֛/ם",
+        "phrase": "and you shall write them",
+        "literal": "and-you-shall-write-them",
+        "source": "H3789 (KJV: 'write them'; ESV: 'write them'; NASB: 'write them')"
+      },
+      {
+        "position": 2,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 3,
+        "surface": "מְזוּז֥וֹת",
+        "phrase": "the doorposts",
+        "literal": "doorposts",
+        "source": "H4201 (KJV: 'door posts'; ESV: 'doorposts'; NASB: 'doorposts')"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּיתֶ֖/ךָ",
+        "phrase": "of your house",
+        "literal": "house-your",
+        "source": "H1004 (KJV: 'thine house'; ESV: 'your house'; NASB: 'your house')"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בִ/שְׁעָרֶֽי/ךָ",
+        "phrase": "and on your gates",
+        "literal": "and-in-gates-your",
+        "source": "H8179 (KJV: 'thy gates'; ESV: 'your gates'; NASB: 'your gates')"
+      }
+    ]
+  }
+]

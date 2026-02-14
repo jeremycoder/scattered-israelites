@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "פְּקֻדֵי/הֶ֖ם",
+        "phrase": "those numbered of them",
+        "literal": "numbered-of-them",
+        "source": "H6485; KJV: 'those that were numbered of them', ESV: 'those listed of them', NASB: 'their numbered men'"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מַטֵּ֣ה",
+        "phrase": "of the tribe",
+        "literal": "to-tribe-of",
+        "source": "H4294; KJV: 'even of the tribe', ESV: 'of the tribe', NASB: 'of the tribe'"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁמְע֑וֹן",
+        "phrase": "of Simeon",
+        "literal": "Simeon",
+        "source": "H8095; KJV: 'of Simeon', ESV: 'of Simeon', NASB: 'of Simeon'"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁעָ֧ה",
+        "phrase": "nine",
+        "literal": "nine",
+        "source": "H8672; KJV: 'nine', ESV: 'fifty-nine', NASB: '59'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/חֲמִשִּׁ֛ים",
+        "phrase": "and fifty",
+        "literal": "and-fifty",
+        "source": "H2572; KJV: 'fifty', ESV: 'fifty-nine', NASB: '59'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV: 'thousand', ESV: '59,300', NASB: '59,300'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁלֹ֥שׁ",
+        "phrase": "and three",
+        "literal": "and-three",
+        "source": "H7969; KJV: 'three', ESV: '59,300', NASB: '59,300'"
+      },
+      {
+        "position": 8,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967; KJV: 'hundred', ESV: '59,300', NASB: '59,300'"
+      }
+    ]
+  }
+]

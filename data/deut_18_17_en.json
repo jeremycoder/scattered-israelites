@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלָ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: to me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 4,
+        "surface": "הֵיטִ֖יבוּ",
+        "phrase": "they have done well",
+        "literal": "they-have-done-well",
+        "source": "H3190 (KJV: well spoken; ESV: right; NASB: right)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that which",
+        "literal": "that-which",
+        "source": "H834 (KJV: that which; ESV: what; NASB: what)"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבֵּֽרוּ",
+        "phrase": "they have spoken",
+        "literal": "they-spoke",
+        "source": "H1696 (KJV: spoken; ESV: spoken; NASB: spoken)"
+      }
+    ]
+  }
+]

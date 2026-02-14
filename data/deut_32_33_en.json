@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֲמַ֥ת",
+        "phrase": "poison",
+        "literal": "venom-of",
+        "source": "H2534; KJV/ESV/NASB: 'poison' or 'venom'"
+      },
+      {
+        "position": 2,
+        "surface": "תַּנִּינִ֖ם",
+        "phrase": "of serpents",
+        "literal": "dragons-of-them",
+        "source": "H8577; KJV: 'dragons', ESV/NASB: 'serpents'"
+      },
+      {
+        "position": 3,
+        "surface": "יֵינָ֑/ם",
+        "phrase": "their wine",
+        "literal": "wine-of-them",
+        "source": "H3196; KJV/ESV/NASB: 'wine'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/רֹ֥אשׁ",
+        "phrase": "and head",
+        "literal": "and-head",
+        "source": "H7219; KJV/ESV/NASB: 'head' or 'poison'"
+      },
+      {
+        "position": 5,
+        "surface": "פְּתָנִ֖ים",
+        "phrase": "of asps",
+        "literal": "asps-of",
+        "source": "H6620; KJV/ESV/NASB: 'asps'"
+      },
+      {
+        "position": 6,
+        "surface": "אַכְזָֽר",
+        "phrase": "cruel",
+        "literal": "cruel",
+        "source": "H393; KJV: 'cruel', ESV/NASB: 'cruel' or 'deadly'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַ֤ם",
+        "phrase": "Moreover",
+        "literal": "and-also",
+        "source": "H1571; KJV: Moreover, ESV: For indeed, NASB: the hand of the LORD was against them"
+      },
+      {
+        "position": 2,
+        "surface": "יַד",
+        "phrase": "hand",
+        "literal": "hand",
+        "source": "H3027; KJV: hand, ESV: hand, NASB: hand"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD, ESV: LORD, NASB: LORD"
+      },
+      {
+        "position": 4,
+        "surface": "הָ֣יְתָה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "H1961; KJV: was, ESV: was, NASB: was"
+      },
+      {
+        "position": 5,
+        "surface": "בָּ֔/ם",
+        "phrase": "against them",
+        "literal": "in-them",
+        "source": "; KJV: against them, ESV: against them, NASB: against them"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/הֻמָּ֖/ם",
+        "phrase": "to destroy them",
+        "literal": "to-destroy-them",
+        "source": "H2000; KJV: to destroy them, ESV: to destroy them, NASB: to destroy them"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/קֶּ֣רֶב",
+        "phrase": "from the midst",
+        "literal": "from-midst",
+        "source": "H7130; KJV: from among, ESV: from among, NASB: from among"
+      },
+      {
+        "position": 8,
+        "surface": "הַֽ/מַּחֲנֶ֑ה",
+        "phrase": "of the camp",
+        "literal": "the-camp",
+        "source": "H4264; KJV: the host/camp, ESV: the camp, NASB: the camp"
+      },
+      {
+        "position": 9,
+        "surface": "עַ֖ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV: until, ESV: until, NASB: until"
+      },
+      {
+        "position": 10,
+        "surface": "תֻּמָּֽ/ם",
+        "phrase": "they were all perished",
+        "literal": "they-were-consumed",
+        "source": "H8552; KJV: they were consumed, ESV: they were consumed, NASB: they had all perished"
+      }
+    ]
+  }
+]

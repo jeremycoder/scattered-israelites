@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֥וּר",
+        "phrase": "Cursed",
+        "literal": "cursed",
+        "source": "H779 (KJV: Cursed; ESV: Cursed; NASB: Cursed)"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859 (KJV: thou be; ESV: shall you be; NASB: shall you be)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/עִ֑יר",
+        "phrase": "in the city",
+        "literal": "in-the city",
+        "source": "H5892 (KJV: in the city; ESV: in the city; NASB: in the city)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אָר֥וּר",
+        "phrase": "and cursed",
+        "literal": "and-cursed",
+        "source": "H779 (KJV: and cursed; ESV: and cursed; NASB: and cursed)"
+      },
+      {
+        "position": 5,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859 (KJV: thou be; ESV: shall you be; NASB: shall you be)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/שָּׂדֶֽה",
+        "phrase": "in the field",
+        "literal": "in-the field",
+        "source": "H7704 (KJV: in the field; ESV: in the field; NASB: in the country)"
+      }
+    ]
+  }
+]

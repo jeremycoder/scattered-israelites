@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֵ֖ךְ",
+        "phrase": "Go",
+        "literal": "go-you_(sg)",
+        "source": "H3212; KJV: 'Go', ESV: 'Go', NASB: 'Go'"
+      },
+      {
+        "position": 2,
+        "surface": "אֱמֹ֣ר",
+        "phrase": "say",
+        "literal": "say-you_(sg)",
+        "source": "H559; KJV: 'say', ESV: 'say', NASB: 'say'"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/הֶ֑ם",
+        "phrase": "to-them",
+        "literal": "to-them",
+        "source": "; KJV: 'to them', ESV: 'to them', NASB: 'to them'"
+      },
+      {
+        "position": 4,
+        "surface": "שׁ֥וּבוּ",
+        "phrase": "Return",
+        "literal": "return-you_(pl)",
+        "source": "H7725; KJV: 'Return', ESV: 'Return', NASB: 'Return'"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to-you_(pl)",
+        "literal": "to-you_(pl)",
+        "source": "; KJV: 'ye', ESV: 'your', NASB: 'your'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אָהֳלֵי/כֶֽם",
+        "phrase": "to-tents-your_(pl)",
+        "literal": "to-tents-your_(pl)",
+        "source": "H168; KJV: 'tents', ESV: 'tents', NASB: 'tents'"
+      }
+    ]
+  }
+]

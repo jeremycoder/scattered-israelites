@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/יִ֨שָּׂשכָ֔ר",
+        "phrase": "of Issachar",
+        "literal": "to/for-Issachar",
+        "source": "H3485 (KJV: Of Issachar; ESV: from Issachar; NASB: of Issachar)"
+      },
+      {
+        "position": 2,
+        "surface": "נְתַנְאֵ֖ל",
+        "phrase": "Nethanel",
+        "literal": "Nethanel",
+        "source": "H5417 (KJV: Nethaneel; ESV: Nethanel; NASB: Nethanel)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121 (KJV: the son; ESV: the son; NASB: the son)"
+      },
+      {
+        "position": 4,
+        "surface": "צוּעָֽר",
+        "phrase": "Zuar",
+        "literal": "Zuar",
+        "source": "H6686 (KJV: of Zuar; ESV: of Zuar; NASB: of Zuar)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּי֩",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁמֹ֨ר",
+        "phrase": "you-will-keep",
+        "literal": "keep!-impf",
+        "source": "H8104 (KJV: diligently keep; ESV: be careful; NASB: are careful)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁמְר֜וּ/ן",
+        "phrase": "you-keep",
+        "literal": "you(pl)-keep-impf",
+        "source": "H8104 (KJV: keep; ESV: to do; NASB: to keep)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[dom]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּצְוָ֣ה",
+        "phrase": "the-commandment",
+        "literal": "the-commandment",
+        "source": "H4687 (KJV: this commandment; ESV: this commandment; NASB: this commandment)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֹּ֗את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 10,
+        "surface": "אָנֹכִ֛י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 11,
+        "surface": "מְצַוֶּ֥ה",
+        "phrase": "command",
+        "literal": "command-ptcp",
+        "source": "H6680 (KJV: command; ESV: command; NASB: commanding)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "[dom]-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/עֲשֹׂתָ֑/הּ",
+        "phrase": "to-do-it",
+        "literal": "to-do-her",
+        "source": "H6213 (KJV: to do; ESV: to do; NASB: to do)"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/אַהֲבָ֞ה",
+        "phrase": "to-love",
+        "literal": "to-love-inf",
+        "source": "H157 (KJV: to love; ESV: loving; NASB: to love)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[dom]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 16,
+        "surface": "יְהוָ֧ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 17,
+        "surface": "אֱלֹהֵי/כֶ֛ם",
+        "phrase": "God-your",
+        "literal": "God-your(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 18,
+        "surface": "לָ/לֶ֥כֶת",
+        "phrase": "to-walk",
+        "literal": "to-walk-inf",
+        "source": "H3212 (KJV: walk; ESV: walking; NASB: walk)"
+      },
+      {
+        "position": 19,
+        "surface": "בְּ/כָל",
+        "phrase": "in-all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: in all; ESV: in all; NASB: in all)"
+      },
+      {
+        "position": 20,
+        "surface": "דְּרָכָ֖י/ו",
+        "phrase": "his-ways",
+        "literal": "ways-his",
+        "source": "H1870 (KJV: his ways; ESV: his ways; NASB: His ways)"
+      },
+      {
+        "position": 21,
+        "surface": "וּ/לְ/דָבְקָה",
+        "phrase": "and-to-cleave",
+        "literal": "and-to-cleave-inf",
+        "source": "H1692 (KJV: cleave; ESV: holding fast; NASB: hold fast)"
+      },
+      {
+        "position": 22,
+        "surface": "בֽ/וֹ",
+        "phrase": "to-him",
+        "literal": "in-him",
+        "source": "- (KJV: to him; ESV: to him; NASB: to Him)"
+      }
+    ]
+  }
+]

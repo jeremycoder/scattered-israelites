@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֤לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428; KJV/ESV/NASB: 'the king'"
+      },
+      {
+        "position": 2,
+        "surface": "יְרוּשָׁלִַ֨ם֙",
+        "phrase": "of Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389; KJV/ESV/NASB: 'Jerusalem'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428; KJV/ESV/NASB: 'the king'"
+      },
+      {
+        "position": 5,
+        "surface": "חֶבְר֖וֹן",
+        "phrase": "of Hebron",
+        "literal": "Hebron",
+        "source": "H2275; KJV/ESV/NASB: 'Hebron'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      }
+    ]
+  }
+]

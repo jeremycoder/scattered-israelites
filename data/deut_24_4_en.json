@@ -1,0 +1,214 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "יוּכַ֣ל",
+        "phrase": "he-may-be-able",
+        "literal": "he-is-able",
+        "source": "H3201 (KJV: may not; ESV: may not; NASB: is not allowed)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּעְלָ֣/הּ",
+        "phrase": "her-husband",
+        "literal": "husband-of-her",
+        "source": "H1167 (KJV: husband; ESV: husband; NASB: husband)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רִאשׁ֣וֹן",
+        "phrase": "the-first",
+        "literal": "the-first",
+        "source": "H7223 (KJV: former; ESV: former; NASB: former)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶֽׁר",
+        "phrase": "who",
+        "literal": "who/which",
+        "source": "H834 (KJV: which; ESV: who; NASB: who)"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁ֠לְּחָ/הּ",
+        "phrase": "sent-her-away",
+        "literal": "sent-away-her",
+        "source": "H7971 (KJV: sent her away; ESV: sent her away; NASB: sent her away)"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/שׁ֨וּב",
+        "phrase": "to-return",
+        "literal": "to-return",
+        "source": "H7725 (KJV: take her again; ESV: take her again; NASB: take her again)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/קַחְתָּ֜/הּ",
+        "phrase": "to-take-her",
+        "literal": "to-take-her",
+        "source": "H3947 (KJV: take her again; ESV: take her again; NASB: take her again)"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/הְי֧וֹת",
+        "phrase": "to-be",
+        "literal": "to-be",
+        "source": "H1961 (KJV: to be his wife; ESV: to be his wife; NASB: to be his wife)"
+      },
+      {
+        "position": 10,
+        "surface": "ל֣/וֹ",
+        "phrase": "to-him",
+        "literal": "to-him",
+        "source": " (KJV: his; ESV: his; NASB: his)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/אִשָּׁ֗ה",
+        "phrase": "(as)-wife",
+        "literal": "to-wife",
+        "source": "H802 (KJV: wife; ESV: wife; NASB: wife)"
+      },
+      {
+        "position": 12,
+        "surface": "אַחֲרֵי֙",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 (KJV: after; ESV: after; NASB: after)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "who/that",
+        "source": "H834 (KJV: that; ESV: after; NASB: since)"
+      },
+      {
+        "position": 14,
+        "surface": "הֻטַּמָּ֔אָה",
+        "phrase": "she-has-been-defiled",
+        "literal": "she-has-been-defiled",
+        "source": "H2930 (KJV: defiled; ESV: defiled; NASB: defiled)"
+      },
+      {
+        "position": 15,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 16,
+        "surface": "תוֹעֵבָ֥ה",
+        "phrase": "abomination",
+        "literal": "abomination",
+        "source": "H8441 (KJV: abomination; ESV: abomination; NASB: abomination)"
+      },
+      {
+        "position": 17,
+        "surface": "הִ֖וא",
+        "phrase": "it",
+        "literal": "it/she",
+        "source": "H1931 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 18,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 19,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: and thou shalt not; ESV: And you shall not; NASB: and you shall not)"
+      },
+      {
+        "position": 21,
+        "surface": "תַחֲטִיא֙",
+        "phrase": "you-shall-cause-to-sin",
+        "literal": "you-cause-to-sin",
+        "source": "H2398 (KJV: cause...to sin; ESV: bring sin; NASB: bring sin)"
+      },
+      {
+        "position": 22,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 23,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the-land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 24,
+        "surface": "אֲשֶׁ֙ר",
+        "phrase": "which",
+        "literal": "who/which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 25,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 26,
+        "surface": "אֱלֹהֶ֔י/ךָ",
+        "phrase": "your-God",
+        "literal": "God-of-you",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 27,
+        "surface": "נֹתֵ֥ן",
+        "phrase": "is-giving",
+        "literal": "giving",
+        "source": "H5414 (KJV: giveth; ESV: is giving; NASB: gives)"
+      },
+      {
+        "position": 28,
+        "surface": "לְ/ךָ֖",
+        "phrase": "to-you",
+        "literal": "to-you",
+        "source": " (KJV: thee; ESV: you; NASB: you)"
+      },
+      {
+        "position": 29,
+        "surface": "נַחֲלָֽה",
+        "phrase": "inheritance",
+        "literal": "inheritance",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      }
+    ]
+  }
+]

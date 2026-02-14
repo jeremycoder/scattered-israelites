@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛לֶּה",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "H428 (KJV: 'These also are'; ESV: 'These are'; NASB: 'Now these are')"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְדֹ֥ת",
+        "phrase": "generations",
+        "literal": "generations",
+        "source": "H8435 (KJV: 'generations'; ESV: 'generations'; NASB: 'records of the generations')"
+      },
+      {
+        "position": 3,
+        "surface": "אַהֲרֹ֖ן",
+        "phrase": "of Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: 'of Aaron'; ESV: 'of Aaron'; NASB: 'of Aaron')"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מֹשֶׁ֑ה",
+        "phrase": "and Moses",
+        "literal": "and-Moses",
+        "source": "H4872 (KJV: 'and Moses'; ESV: 'and Moses'; NASB: 'and Moses')"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/י֗וֹם",
+        "phrase": "in the day",
+        "literal": "in-day",
+        "source": "H3117 (KJV: 'in the day'; ESV: 'at the time'; NASB: 'at the time')"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבֶּ֧ר",
+        "phrase": "spoke",
+        "literal": "spoke",
+        "source": "H1696 (KJV: 'spake'; ESV: 'spoke'; NASB: 'spoke')"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the Lord'; NASB: 'the LORD')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "[direct object marker]",
+        "source": "H854 (KJV: implied; ESV: 'with'; NASB: implied in 'spoke with')"
+      },
+      {
+        "position": 9,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: 'Moses'; ESV: 'Moses'; NASB: 'Moses')"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/הַ֥ר",
+        "phrase": "on the mountain",
+        "literal": "in-the-mountain",
+        "source": "H2022 (KJV: 'in mount'; ESV: 'on Mount'; NASB: 'on Mount')"
+      },
+      {
+        "position": 11,
+        "surface": "סִינָֽי",
+        "phrase": "Sinai",
+        "literal": "Sinai",
+        "source": "H5514 (KJV: 'Sinai'; ESV: 'Sinai'; NASB: 'Sinai')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֵ/אֵ֗ת",
+        "phrase": "from",
+        "literal": "from-with",
+        "source": "H854 (KJV: 'of'; ESV: 'from'; NASB: 'from')"
+      },
+      {
+        "position": 2,
+        "surface": "בְּכ֛וֹר",
+        "phrase": "firstborn",
+        "literal": "the-firstborn",
+        "source": "H1060 (KJV: 'firstborn'; ESV: 'firstborn'; NASB: 'firstborn')"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֥י",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: 'children'; ESV: 'sons'; NASB: 'sons')"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: 'Israel'; ESV: 'Israel'; NASB: 'Israel')"
+      },
+      {
+        "position": 5,
+        "surface": "לָקַ֣ח",
+        "phrase": "he took",
+        "literal": "he-has-taken",
+        "source": "H3947 (KJV: 'took'; ESV: 'collected'; NASB: 'took')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כָּ֑סֶף",
+        "phrase": "silver",
+        "literal": "the-silver",
+        "source": "H3701 (KJV: 'money'; ESV: 'silver'; NASB: 'silver')"
+      },
+      {
+        "position": 8,
+        "surface": "חֲמִשָּׁ֨ה",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV: 'five'; ESV: 'five'; NASB: 'five')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שִׁשִּׁ֜ים",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "H8346 (KJV: 'threescore'; ESV: 'sixty'; NASB: 'sixty')"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/שְׁלֹ֥שׁ",
+        "phrase": "and three",
+        "literal": "and-three",
+        "source": "H7969 (KJV: 'three'; ESV: 'three'; NASB: 'three')"
+      },
+      {
+        "position": 11,
+        "surface": "מֵא֛וֹת",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967 (KJV: 'hundred'; ESV: 'hundred'; NASB: 'hundred')"
+      },
+      {
+        "position": 12,
+        "surface": "וָ/אֶ֖לֶף",
+        "phrase": "and thousand",
+        "literal": "and-thousand",
+        "source": "H505 (KJV: 'thousand'; ESV: 'thousand'; NASB: 'thousand')"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/שֶׁ֥קֶל",
+        "phrase": "by shekel",
+        "literal": "in-shekel-of",
+        "source": "H8255 (KJV: 'shekel'; ESV: 'shekel'; NASB: 'shekel')"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/קֹּֽדֶשׁ",
+        "phrase": "of the sanctuary",
+        "literal": "the-holy",
+        "source": "H6944 (KJV: 'sanctuary'; ESV: 'sanctuary'; NASB: 'sanctuary')"
+      }
+    ]
+  }
+]

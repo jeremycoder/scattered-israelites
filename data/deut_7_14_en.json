@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 7,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בָּר֥וּךְ",
+        "phrase": "blessed",
+        "literal": "blessed",
+        "source": "H1288 (KJV: blessed; ESV: blessed; NASB: blessed)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּֽהְיֶ֖ה",
+        "phrase": "you-shall-be",
+        "literal": "you-will-be",
+        "source": "H1961 (KJV: shalt be; ESV: shall be; NASB: shall be)"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/כָּל",
+        "phrase": "above all",
+        "literal": "from-all",
+        "source": "H3605 (KJV: above all; ESV: above all; NASB: above all)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עַמִּ֑ים",
+        "phrase": "the peoples",
+        "literal": "the-peoples",
+        "source": "H5971 (KJV: people; ESV: peoples; NASB: peoples)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: no)"
+      },
+      {
+        "position": 6,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "will-be",
+        "literal": "will-be",
+        "source": "H1961 (KJV: be; ESV: be; NASB: be)"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/ךָ֛",
+        "phrase": "among you",
+        "literal": "in-you",
+        "source": " (KJV: among you; ESV: among you; NASB: among you)"
+      },
+      {
+        "position": 8,
+        "surface": "עָקָ֥ר",
+        "phrase": "barren-male",
+        "literal": "barren-male",
+        "source": "H6135 (KJV: male barren; ESV: male barren; NASB: male barren)"
+      },
+      {
+        "position": 9,
+        "surface": "וַֽ/עֲקָרָ֖ה",
+        "phrase": "or barren-female",
+        "literal": "and-barren-female",
+        "source": "H6135 (KJV: female barren; ESV: female barren; NASB: female barren)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בִ/בְהֶמְתֶּֽ/ךָ",
+        "phrase": "or among your livestock",
+        "literal": "and-in-livestock-your",
+        "source": "H929 (KJV: among your cattle; ESV: among your livestock; NASB: among your cattle)"
+      }
+    ]
+  }
+]

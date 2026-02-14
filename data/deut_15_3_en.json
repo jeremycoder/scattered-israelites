@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נָּכְרִ֖י",
+        "phrase": "the foreigner",
+        "literal": "the-foreigner",
+        "source": "H5237; KJV: 'a foreigner', ESV: 'a foreigner', NASB: 'a foreigner'"
+      },
+      {
+        "position": 3,
+        "surface": "תִּגֹּ֑שׂ",
+        "phrase": "you may exact",
+        "literal": "you-may-exact",
+        "source": "H5065; KJV: 'thou mayest exact it again', ESV: 'you may exact it', NASB: 'you may exact it'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/אֲשֶׁ֨ר",
+        "phrase": "but whatever",
+        "literal": "and-which",
+        "source": "H834; KJV: 'but that which', ESV: 'but whatever', NASB: 'but whatever'"
+      },
+      {
+        "position": 5,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "is",
+        "literal": "is",
+        "source": "H1961; KJV: 'is thine', ESV: 'of yours is', NASB: 'of yours is'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/ךָ֛",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "''; KJV: 'thine', ESV: 'yours', NASB: 'yours'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H854; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251; KJV: 'thy brother', ESV: 'your brother', NASB: 'your brother'"
+      },
+      {
+        "position": 9,
+        "surface": "תַּשְׁמֵ֥ט",
+        "phrase": "you shall release",
+        "literal": "you-shall-release",
+        "source": "H8058; KJV: 'shall release', ESV: 'shall release', NASB: 'shall release'"
+      },
+      {
+        "position": 10,
+        "surface": "יָדֶֽ/ךָ",
+        "phrase": "your hand",
+        "literal": "hand-your",
+        "source": "H3027; KJV: 'thine hand', ESV: 'your hand', NASB: 'your hand'"
+      }
+    ]
+  }
+]

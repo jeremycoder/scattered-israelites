@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: not, NASB: not"
+      },
+      {
+        "position": 2,
+        "surface": "תַשִּׁ֣יךְ",
+        "phrase": "you shall lend",
+        "literal": "you-shall-lend",
+        "source": "H5391; KJV: lend upon usury, ESV: charge...interest, NASB: charge interest"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/אָחִ֔י/ךָ",
+        "phrase": "to your brother",
+        "literal": "to-brother-your",
+        "source": "H251; KJV: thy brother, ESV: your brother, NASB: your countryman"
+      },
+      {
+        "position": 4,
+        "surface": "נֶ֥שֶׁךְ",
+        "phrase": "interest",
+        "literal": "interest",
+        "source": "H5392; KJV: usury, ESV: interest, NASB: interest"
+      },
+      {
+        "position": 5,
+        "surface": "כֶּ֖סֶף",
+        "phrase": "of silver",
+        "literal": "silver",
+        "source": "H3701; KJV: money, ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "נֶ֣שֶׁךְ",
+        "phrase": "interest",
+        "literal": "interest",
+        "source": "H5392; KJV: usury, ESV: interest, NASB: interest"
+      },
+      {
+        "position": 7,
+        "surface": "אֹ֑כֶל",
+        "phrase": "of food",
+        "literal": "food",
+        "source": "H400; KJV: victuals, ESV: food, NASB: food"
+      },
+      {
+        "position": 8,
+        "surface": "נֶ֕שֶׁךְ",
+        "phrase": "interest",
+        "literal": "interest",
+        "source": "H5392; KJV: usury, ESV: interest, NASB: interest"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605; KJV: any thing, ESV: anything, NASB: anything"
+      },
+      {
+        "position": 10,
+        "surface": "דָּבָ֖ר",
+        "phrase": "thing",
+        "literal": "thing",
+        "source": "H1697; KJV: thing, ESV: item, NASB: thing"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834; KJV: that, ESV: that, NASB: that"
+      },
+      {
+        "position": 12,
+        "surface": "יִשָּֽׁךְ",
+        "phrase": "is lent",
+        "literal": "he-lends",
+        "source": "H5391; KJV: lent on usury, ESV: be taken, NASB: be taken"
+      }
+    ]
+  }
+]

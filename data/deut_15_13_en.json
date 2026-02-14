@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִֽי",
+        "phrase": "And when",
+        "literal": "and-if",
+        "source": "H3588; KJV: 'And when', ESV: 'And when', NASB: 'When'"
+      },
+      {
+        "position": 2,
+        "surface": "תְשַׁלְּחֶ֥/נּוּ",
+        "phrase": "you send him",
+        "literal": "you-send-him",
+        "source": "H7971; KJV: 'thou lettest him go', ESV: 'you let him go', NASB: 'you set him free'"
+      },
+      {
+        "position": 3,
+        "surface": "חָפְשִׁ֖י",
+        "phrase": "free",
+        "literal": "free",
+        "source": "H2670; KJV: 'free', ESV: 'free', NASB: 'free'"
+      },
+      {
+        "position": 4,
+        "surface": "מֵֽ/עִמָּ֑/ךְ",
+        "phrase": "from with you",
+        "literal": "from-with-you",
+        "source": "H5973; KJV: 'from thee', ESV: 'from you', NASB: 'from you'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'not', ESV: 'not', NASB: 'not'"
+      },
+      {
+        "position": 6,
+        "surface": "תְשַׁלְּחֶ֖/נּוּ",
+        "phrase": "you shall send him",
+        "literal": "you-send-him",
+        "source": "H7971; KJV: 'send him away', ESV: 'send him away', NASB: 'send him away'"
+      },
+      {
+        "position": 7,
+        "surface": "רֵיקָֽם",
+        "phrase": "empty-handed",
+        "literal": "empty-handed",
+        "source": "H7387; KJV: 'empty', ESV: 'empty-handed', NASB: 'empty-handed'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/חֲמֹרִ֕ים",
+        "phrase": "and donkeys",
+        "literal": "and-donkeys",
+        "source": "H2543; KJV: 'asses', ESV: 'donkeys', NASB: 'donkeys'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶחָ֥ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV: 'one', ESV: 'one', NASB: 'one'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שִׁשִּׁ֖ים",
+        "phrase": "and sixty",
+        "literal": "and-sixty",
+        "source": "H8346; KJV: 'threescore', ESV: 'sixty', NASB: 'sixty'"
+      },
+      {
+        "position": 4,
+        "surface": "אָֽלֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV: 'thousand', ESV: 'thousand', NASB: 'thousand'"
+      }
+    ]
+  }
+]

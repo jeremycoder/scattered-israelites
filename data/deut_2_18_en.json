@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַתָּ֨ה",
+        "phrase": "you",
+        "literal": "you-(2ms)",
+        "source": "H859; KJV: Thou art, ESV: you are, NASB: you shall"
+      },
+      {
+        "position": 2,
+        "surface": "עֹבֵ֥ר",
+        "phrase": "are crossing",
+        "literal": "crossing-(qal-active-participle-ms)",
+        "source": "H5674; KJV: to pass over, ESV: to cross, NASB: shall cross over"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יּ֛וֹם",
+        "phrase": "today",
+        "literal": "the/today",
+        "source": "H3117; KJV: this day, ESV: Today, NASB: Today"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "past",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied in through), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "גְּב֥וּל",
+        "phrase": "border",
+        "literal": "border-(construct)",
+        "source": "H1366; KJV: coast, ESV: border, NASB: border"
+      },
+      {
+        "position": 6,
+        "surface": "מוֹאָ֖ב",
+        "phrase": "of Moab",
+        "literal": "Moab",
+        "source": "H4124; KJV: of Moab, ESV: of Moab, NASB: of Moab"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[at]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied in through), ESV: (implied at), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "עָֽר",
+        "phrase": "Ar",
+        "literal": "Ar",
+        "source": "H6144; KJV: Ar, ESV: Ar, NASB: Ar"
+      }
+    ]
+  }
+]

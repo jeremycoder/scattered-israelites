@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 26,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שֵׁ֥ם",
+        "phrase": "And the name",
+        "literal": "and-name",
+        "source": "H8034; KJV: 'the name of', ESV: 'the name of', NASB: 'the name of'"
+      },
+      {
+        "position": 2,
+        "surface": "בַּת",
+        "phrase": "of the daughter",
+        "literal": "daughter-of",
+        "source": "H1323; KJV: 'the daughter of', ESV: 'the daughter of', NASB: 'the daughter of'"
+      },
+      {
+        "position": 3,
+        "surface": "אָשֵׁ֖ר",
+        "phrase": "of Asher",
+        "literal": "Asher",
+        "source": "H836; KJV: 'Asher', ESV: 'Asher', NASB: 'Asher'"
+      },
+      {
+        "position": 4,
+        "surface": "שָֽׂרַח",
+        "phrase": "was Serah",
+        "literal": "Serah",
+        "source": "H8294; KJV: 'Sarah', ESV: 'Serah', NASB: 'Serah'"
+      }
+    ]
+  }
+]

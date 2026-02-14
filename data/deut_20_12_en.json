@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: does not; NASB: does not)"
+      },
+      {
+        "position": 3,
+        "surface": "תַשְׁלִים֙",
+        "phrase": "makes peace",
+        "literal": "she-will-make-peace",
+        "source": "H7999 (KJV: make peace; ESV: make peace; NASB: make peace)"
+      },
+      {
+        "position": 4,
+        "surface": "עִמָּ֔/ךְ",
+        "phrase": "with you",
+        "literal": "with-you(fs)",
+        "source": "H5973 (KJV: with thee; ESV: with you; NASB: with you)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עָשְׂתָ֥ה",
+        "phrase": "but makes",
+        "literal": "and-she-makes",
+        "source": "H6213 (KJV: will make; ESV: makes; NASB: makes)"
+      },
+      {
+        "position": 6,
+        "surface": "עִמְּ/ךָ֖",
+        "phrase": "against you",
+        "literal": "with-you(ms)",
+        "source": "H5973 (KJV: against thee; ESV: against you; NASB: against you)"
+      },
+      {
+        "position": 7,
+        "surface": "מִלְחָמָ֑ה",
+        "phrase": "war",
+        "literal": "war",
+        "source": "H4421 (KJV: war; ESV: war; NASB: war)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/צַרְתָּ֖",
+        "phrase": "then you shall besiege",
+        "literal": "and-you-shall-besiege",
+        "source": "H6696 (KJV: thou shalt besiege; ESV: you shall besiege; NASB: you shall besiege)"
+      },
+      {
+        "position": 9,
+        "surface": "עָלֶֽי/הָּ",
+        "phrase": "it",
+        "literal": "upon-her",
+        "source": "H5921 (KJV: it; ESV: it; NASB: it)"
+      }
+    ]
+  }
+]

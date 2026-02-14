@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/עֲנָ֥ב",
+        "phrase": "and Anab",
+        "literal": "and-Anab",
+        "source": "H6024; KJV: And Anab, ESV: Anab, NASB: and Anab"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶשְׁתְּמֹ֖ה",
+        "phrase": "and Eshtemoh",
+        "literal": "and-Eshtemoh",
+        "source": "H851; KJV: and Eshtemoh, ESV: Eshtemoh, NASB: and Eshtemoh"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עָנִֽים",
+        "phrase": "and Anim",
+        "literal": "and-Anim",
+        "source": "H6044; KJV: and Anim, ESV: Anim, NASB: and Anim"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֧י",
+        "phrase": "For",
+        "literal": "that-for",
+        "source": "H3588 (KJV: 'For'; ESV: 'For'; NASB: 'For')"
+      },
+      {
+        "position": 2,
+        "surface": "תוֹעֲבַ֛ת",
+        "phrase": "abomination",
+        "literal": "abomination-of",
+        "source": "H8441 (KJV: 'abomination'; ESV: 'abomination'; NASB: 'abomination')"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֶ֖י/ךָ",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: 'thy God'; ESV: 'your God'; NASB: 'your God')"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 6,
+        "surface": "עֹ֣שֵׂה",
+        "phrase": "who does",
+        "literal": "doing",
+        "source": "H6213 (KJV: 'do'; ESV: 'do'; NASB: 'do')"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֑לֶּה",
+        "phrase": "these things",
+        "literal": "these",
+        "source": "H428 (KJV: 'such things'; ESV: 'such things'; NASB: 'such things')"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּ֖ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 9,
+        "surface": "עֹ֥שֵׂה",
+        "phrase": "who does",
+        "literal": "doing",
+        "source": "H6213 (KJV: 'do'; ESV: 'act'; NASB: 'behave')"
+      },
+      {
+        "position": 10,
+        "surface": "עָֽוֶל",
+        "phrase": "injustice",
+        "literal": "injustice",
+        "source": "H5766 (KJV: 'unrighteously'; ESV: 'dishonestly'; NASB: 'unrighteously')"
+      }
+    ]
+  }
+]

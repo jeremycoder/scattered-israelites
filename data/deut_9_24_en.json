@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מַמְרִ֥ים",
+        "phrase": "rebellious",
+        "literal": "rebelling-ones",
+        "source": "H4784; KJV:rebellious, ESV:rebellious, NASB:rebellious"
+      },
+      {
+        "position": 2,
+        "surface": "הֱיִיתֶ֖ם",
+        "phrase": "you have been",
+        "literal": "you-have-been",
+        "source": "H1961; KJV:have been, ESV:have been, NASB:have been"
+      },
+      {
+        "position": 3,
+        "surface": "עִם",
+        "phrase": "against",
+        "literal": "with",
+        "source": "H5973; KJV:against, ESV:against, NASB:against"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV:LORD, ESV:LORD, NASB:LORD"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/יּ֖וֹם",
+        "phrase": "from day",
+        "literal": "from/day",
+        "source": "H3117; KJV:the day, ESV:the day, NASB:the day"
+      },
+      {
+        "position": 6,
+        "surface": "דַּעְתִּ֥/י",
+        "phrase": "I knew",
+        "literal": "knowing-my",
+        "source": "H3045; KJV:I knew, ESV:I knew, NASB:I knew"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתְ/כֶֽם",
+        "phrase": "you",
+        "literal": "obj-marker/you",
+        "source": "H853; KJV:you, ESV:you, NASB:you"
+      }
+    ]
+  }
+]

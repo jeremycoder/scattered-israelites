@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַתָּה֙",
+        "phrase": "You",
+        "literal": "you-(mp2s)",
+        "source": "H859 (KJV: thee; ESV: you; NASB: you)"
+      },
+      {
+        "position": 2,
+        "surface": "הָרְאֵ֣תָ",
+        "phrase": "have been shown",
+        "literal": "you-were-shown-(mp2s)",
+        "source": "H7200 (KJV: shewed; ESV: shown; NASB: shown)"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/דַ֔עַת",
+        "phrase": "to know",
+        "literal": "to/know-(qc)",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "ה֣וּא",
+        "phrase": "He",
+        "literal": "he-(p3ms)",
+        "source": "H1931 (KJV: he; ESV: he; NASB: He)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֱלֹהִ֑ים",
+        "phrase": "is God",
+        "literal": "the/God-(cmpa)",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵ֥ין",
+        "phrase": "there is not",
+        "literal": "not",
+        "source": "H369 (KJV: none; ESV: no; NASB: no)"
+      },
+      {
+        "position": 9,
+        "surface": "ע֖וֹד",
+        "phrase": "other",
+        "literal": "still/other",
+        "source": "H5750 (KJV: else; ESV: other; NASB: other)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/לְ/בַדּֽ/וֹ",
+        "phrase": "besides Him",
+        "literal": "from/apart-from/him-(sp3ms)",
+        "source": "H905 (KJV: beside him; ESV: besides him; NASB: besides Him)"
+      }
+    ]
+  }
+]

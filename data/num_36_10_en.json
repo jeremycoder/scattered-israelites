@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 36,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּ/אֲשֶׁ֛ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834; KJV/ESV/NASB: 'as' or 'even as' (relative particle introducing manner)"
+      },
+      {
+        "position": 2,
+        "surface": "צִוָּ֥ה",
+        "phrase": "commanded",
+        "literal": "he-commanded",
+        "source": "H6680; KJV/ESV/NASB: 'commanded' (Piel perfect 3ms, intensive command)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the LORD', NASB: 'the LORD' (proper name of God)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]-",
+        "source": "H853; KJV/ESV/NASB: '' (untranslated marker for accusative)"
+      },
+      {
+        "position": 5,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV/ESV/NASB: 'Moses' (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "כֵּ֥ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651; KJV/ESV/NASB: 'so' or 'thus' (adverb of manner)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשׂ֖וּ",
+        "phrase": "did",
+        "literal": "they-did",
+        "source": "H6213; KJV/ESV/NASB: 'did' (Qal perfect 3cp)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּנ֥וֹת",
+        "phrase": "daughters",
+        "literal": "daughters-of",
+        "source": "H1323; KJV/ESV/NASB: 'daughters' (construct plural)"
+      },
+      {
+        "position": 9,
+        "surface": "צְלָפְחָֽד",
+        "phrase": "Zelophehad",
+        "literal": "Zelophehad",
+        "source": "H6765; KJV/ESV/NASB: 'Zelophehad' (proper name)"
+      }
+    ]
+  }
+]

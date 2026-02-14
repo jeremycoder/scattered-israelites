@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 8,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֶקַּח֙",
+        "phrase": "and I have taken",
+        "literal": "and-I-take",
+        "source": "H3947 (KJV: took; ESV: taken; NASB: taken)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/לְוִיִּ֔ם",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      },
+      {
+        "position": 4,
+        "surface": "תַּ֥חַת",
+        "phrase": "instead of",
+        "literal": "in-place-of",
+        "source": "H8478 (KJV: place; ESV: instead; NASB: place)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּכ֖וֹר",
+        "phrase": "firstborn",
+        "literal": "firstborn",
+        "source": "H1060 (KJV: firstborn; ESV: firstborn; NASB: firstborn)"
+      },
+      {
+        "position": 7,
+        "surface": "בִּ/בְנֵ֥י",
+        "phrase": "of the sons of",
+        "literal": "in-sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      }
+    ]
+  }
+]

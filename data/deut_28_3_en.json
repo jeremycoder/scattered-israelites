@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בָּר֥וּךְ",
+        "phrase": "Blessed",
+        "literal": "blessed",
+        "source": "H1288; KJV: Blessed shalt thou be, ESV: Blessed shall you be, NASB: Blessed shall you be"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859; KJV: thou be, ESV: you be, NASB: you be"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ/עִ֑יר",
+        "phrase": "in the city",
+        "literal": "in-the-city",
+        "source": "H5892; KJV: in the citie, ESV: in the city, NASB: in the city"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בָר֥וּךְ",
+        "phrase": "and blessed",
+        "literal": "and-blessed",
+        "source": "H1288; KJV: and blessed, ESV: and blessed shall you be, NASB: and blessed shall you be"
+      },
+      {
+        "position": 5,
+        "surface": "אַתָּ֖ה",
+        "phrase": "shall you be",
+        "literal": "you",
+        "source": "H859; KJV: thou be, ESV: you be, NASB: you be"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/שָּׂדֶֽה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704; KJV: in the fielde, ESV: in the field, NASB: in the field"
+      }
+    ]
+  }
+]

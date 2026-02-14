@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שַׁלֵּ֤חַ",
+        "phrase": "send away",
+        "literal": "send_away-INF",
+        "source": "H7971 (KJV: let...go; ESV: let...go; NASB: let...go)"
+      },
+      {
+        "position": 2,
+        "surface": "תְּשַׁלַּח֙",
+        "phrase": "you shall send",
+        "literal": "you_may_send-2ms",
+        "source": "H7971 (KJV: the dam go; ESV: the mother go; NASB: the mother go)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct_object]",
+        "source": "H853 (KJV/ESV/NASB: [untranslated])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֵ֔ם",
+        "phrase": "the mother",
+        "literal": "the/mother",
+        "source": "H517 (KJV: dam; ESV/NASB: mother)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and/[direct_object]",
+        "source": "H853 (KJV/ESV/NASB: [untranslated]; and)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/בָּנִ֖ים",
+        "phrase": "the young",
+        "literal": "the/sons",
+        "source": "H1121 (KJV: young; ESV/NASB: young)"
+      },
+      {
+        "position": 7,
+        "surface": "תִּֽקַּֽח",
+        "phrase": "you shall take",
+        "literal": "you_may_take-2ms",
+        "source": "H3947 (KJV/ESV/NASB: take)"
+      },
+      {
+        "position": 8,
+        "surface": "לָ֑/ךְ",
+        "phrase": "for yourself",
+        "literal": "to/you-fs",
+        "source": " (KJV/ESV/NASB: to thee/for yourself)"
+      },
+      {
+        "position": 9,
+        "surface": "לְמַ֨עַן֙",
+        "phrase": "so that",
+        "literal": "for_purpose_that",
+        "source": "H4616 (KJV/ESV/NASB: that)"
+      },
+      {
+        "position": 10,
+        "surface": "יִ֣יטַב",
+        "phrase": "it may be well",
+        "literal": "it_may_be_good-3ms",
+        "source": "H3190 (KJV: it may be well; ESV/NASB: it may be well)"
+      },
+      {
+        "position": 11,
+        "surface": "לָ֔/ךְ",
+        "phrase": "with you",
+        "literal": "to/you-fs",
+        "source": " (KJV/ESV/NASB: with thee)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/הַאֲרַכְתָּ֖",
+        "phrase": "and you shall lengthen",
+        "literal": "and/you_lengthen-2ms",
+        "source": "H748 (KJV/ESV/NASB: prolong/thou mayest prolong)"
+      },
+      {
+        "position": 13,
+        "surface": "יָמִֽים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV/ESV/NASB: days)"
+      }
+    ]
+  }
+]

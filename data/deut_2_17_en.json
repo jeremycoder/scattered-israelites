@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 2,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֥ר",
+        "phrase": "and-spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696; KJV 'spoke', ESV 'spoke', NASB 'spoke'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV 'LORD', ESV 'LORD', NASB 'LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלַ֥/י",
+        "phrase": "to-me",
+        "literal": "to-me",
+        "source": "H413; KJV 'me', ESV 'me', NASB 'me'"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV 'saying', ESV 'saying', NASB 'saying'"
+      }
+    ]
+  }
+]

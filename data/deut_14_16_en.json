@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (implied, not translated)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כּ֥וֹס",
+        "phrase": "the falcon",
+        "literal": "the-falcon",
+        "source": "H3563; KJV: swan; ESV: little owl; NASB: falcon"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (implied, not translated)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יַּנְשׁ֖וּף",
+        "phrase": "the great owl",
+        "literal": "the-great-owl",
+        "source": "H3244; KJV: night hawk; ESV: short-eared owl; NASB: long-eared owl"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/תִּנְשָֽׁמֶת",
+        "phrase": "and the white owl",
+        "literal": "and-the-swan/owl",
+        "source": "H8580; KJV: swan; ESV: barn owl; NASB: white owl"
+      }
+    ]
+  }
+]

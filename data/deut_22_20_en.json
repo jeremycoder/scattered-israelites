@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "But if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'But if'; ESV: 'But if'; NASB: 'But if')"
+      },
+      {
+        "position": 2,
+        "surface": "אֱמֶ֣ת",
+        "phrase": "truth",
+        "literal": "truth",
+        "source": "H571 (KJV: 'truth'; ESV: 'the charge'; NASB: 'the claim')"
+      },
+      {
+        "position": 3,
+        "surface": "הָיָ֔ה",
+        "phrase": "be",
+        "literal": "has-been",
+        "source": "H1961 (KJV: 'be true'; ESV: 'is true'; NASB: 'is true')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/דָּבָ֖ר",
+        "phrase": "the matter",
+        "literal": "the-word",
+        "source": "H1697 (KJV: 'this thing'; ESV: 'this charge'; NASB: 'this claim')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 6,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 7,
+        "surface": "נִמְצְא֥וּ",
+        "phrase": "were found",
+        "literal": "were-found",
+        "source": "H4672 (KJV: 'were found'; ESV: 'were found'; NASB: 'are found')"
+      },
+      {
+        "position": 8,
+        "surface": "בְתוּלִ֖ים",
+        "phrase": "virginity",
+        "literal": "virginities",
+        "source": "H1331 (KJV: 'virginity'; ESV: 'virginity'; NASB: 'evidence of virginity')"
+      },
+      {
+        "position": 9,
+        "surface": "ל/נער",
+        "phrase": "for the girl",
+        "literal": "to-girl",
+        "source": "H5291 (KJV: 'in the damsel'; ESV: 'for the young woman'; NASB: 'for the young woman')"
+      },
+      {
+        "position": 10,
+        "surface": "לַֽ/נַּעֲרָֽה",
+        "phrase": "for the young woman",
+        "literal": "to-the-young-woman",
+        "source": "H5291 (KJV: 'in the damsel'; ESV: 'for the young woman'; NASB: 'for the young woman')"
+      }
+    ]
+  }
+]

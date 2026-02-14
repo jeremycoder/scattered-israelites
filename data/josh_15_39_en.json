@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לָכִ֥ישׁ",
+        "phrase": "Lachish",
+        "literal": "Lachish",
+        "source": "H3923; KJV: Lachish, ESV: Lachish, NASB: Lachish"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בָצְקַ֖ת",
+        "phrase": "and Bozkath",
+        "literal": "and-Bozkath",
+        "source": "H1218; KJV: and Bozkath, ESV: Bozkath, NASB: and Bozkath"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עֶגְלֽוֹן",
+        "phrase": "and Eglon",
+        "literal": "and-Eglon",
+        "source": "H5700; KJV: and Eglon, ESV: Eglon, NASB: Eglon"
+      }
+    ]
+  }
+]

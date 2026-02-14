@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/שִׁמְע֕וֹן",
+        "phrase": "Of Simeon",
+        "literal": "to/for-Simeon",
+        "source": "H8095; KJV/ESV/NASB: 'of Simeon'/'For Simeon'/'of Simeon'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֻמִיאֵ֖ל",
+        "phrase": "Shelumiel",
+        "literal": "Shelumiel",
+        "source": "H8017; KJV/ESV/NASB: 'Shelumiel'/'Shelumiel'/'Shelumiel'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son'/'son'/'son'"
+      },
+      {
+        "position": 4,
+        "surface": "צוּרִֽישַׁדָּֽי",
+        "phrase": "Zurishaddai",
+        "literal": "Zurishaddai",
+        "source": "H6701; KJV/ESV/NASB: 'Zurishaddai'/'Zurishaddai'/'Zurishaddai'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV/ESV/NASB: 'journeyed' or 'set out' from Bene-jaakan[1][3][5]"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/בְּנֵ֣י",
+        "phrase": "from",
+        "literal": "from-sons-of",
+        "source": "H1142; KJV/ESV/NASB: 'from Bene-jaakan' (preposition + construct)[1][3][5]"
+      },
+      {
+        "position": 3,
+        "surface": "יַעֲקָ֑ן",
+        "phrase": "Bene-jaakan",
+        "literal": "Jaakan",
+        "source": "H1142; KJV: 'sons of Jakan', ESV/NASB: 'Bene-jaakan'[1][3][5]"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and camped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV/ESV/NASB: 'camped' or 'pitched'[1][3][5]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/חֹ֥ר",
+        "phrase": "at",
+        "literal": "in-Hor",
+        "source": "H2735; KJV/ESV/NASB: 'Hor-' (preposition + construct, 'cave' or 'mountain')[1][3][5]"
+      },
+      {
+        "position": 6,
+        "surface": "הַגִּדְגָּֽד",
+        "phrase": "Haggidgad",
+        "literal": "the-Gidgad",
+        "source": "H2735; KJV: 'Gidgad', ESV/NASB: 'Haggidgad'[1][3][5]"
+      }
+    ]
+  }
+]

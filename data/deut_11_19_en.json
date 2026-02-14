@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לִמַּדְתֶּ֥ם",
+        "phrase": "And you shall teach",
+        "literal": "and-you-all-shall-teach",
+        "source": "H3925 (KJV: teach; ESV: teach; NASB: teach)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵי/כֶ֖ם",
+        "phrase": "your children",
+        "literal": "sons-your",
+        "source": "H1121 (KJV: your children; ESV: your children; NASB: your sons)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/דַבֵּ֣ר",
+        "phrase": "to speak",
+        "literal": "to-speak",
+        "source": "H1696 (KJV: talking; ESV: talking; NASB: talking)"
+      },
+      {
+        "position": 6,
+        "surface": "בָּ֑/ם",
+        "phrase": "of them",
+        "literal": "in-them",
+        "source": " (KJV: of them; ESV: of them; NASB: of them)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/שִׁבְתְּ/ךָ֤",
+        "phrase": "when you sit",
+        "literal": "in-sitting-your",
+        "source": "H3427 (KJV: when thou sittest; ESV: when you are sitting; NASB: when you sit)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/בֵיתֶ֨/ךָ֙",
+        "phrase": "in your house",
+        "literal": "in-house-your",
+        "source": "H1004 (KJV: in thine house; ESV: in your house; NASB: in your house)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְ/לֶכְתְּ/ךָ֣",
+        "phrase": "and when you walk",
+        "literal": "and-in-going-your",
+        "source": "H3212 (KJV: when thou walkest; ESV: when you are walking; NASB: when you walk)"
+      },
+      {
+        "position": 10,
+        "surface": "בַ/דֶּ֔רֶךְ",
+        "phrase": "on the way",
+        "literal": "on-the-way",
+        "source": "H1870 (KJV: by the way; ESV: by the way; NASB: along the road)"
+      },
+      {
+        "position": 11,
+        "surface": "וּֽ/בְ/שָׁכְבְּ/ךָ֖",
+        "phrase": "and when you lie down",
+        "literal": "and-in-lying-your",
+        "source": "H7901 (KJV: when thou liest down; ESV: when you lie down; NASB: when you lie down)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/בְ/קוּמֶֽ/ךָ",
+        "phrase": "and when you rise",
+        "literal": "and-in-rising-your",
+        "source": "H6965 (KJV: when thou risest up; ESV: when you rise; NASB: when you rise up)"
+      }
+    ]
+  }
+]

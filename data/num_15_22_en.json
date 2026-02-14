@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 15,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כִ֣י",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H3588 (KJV: 'And if'; ESV: 'if'; NASB: 'if')"
+      },
+      {
+        "position": 2,
+        "surface": "תִשְׁגּ֔וּ",
+        "phrase": "you err",
+        "literal": "you(pl)-err",
+        "source": "H7686 (KJV: 'err'; ESV: 'unintentionally fail'; NASB: 'sin unintentionally')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'and not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 4,
+        "surface": "תַעֲשׂ֔וּ",
+        "phrase": "you do",
+        "literal": "you(pl)-do",
+        "source": "H6213 (KJV: 'observe'; ESV: 'keep'; NASB: 'observe')"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֥ת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'any'; NASB: 'all')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּצְוֺ֖ת",
+        "phrase": "the commandments",
+        "literal": "the-commands",
+        "source": "H4687 (KJV: 'commandments'; ESV: 'commands'; NASB: 'commands')"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֵ֑לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: 'these'; ESV: 'these'; NASB: 'these')"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'the Lord gave'; NASB: 'the Lord has commanded')"
+      },
+      {
+        "position": 10,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "he spoke",
+        "literal": "he-spoke",
+        "source": "H1696 (KJV: 'spoken'; ESV: 'gave'; NASB: 'has spoken')"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the Lord'; NASB: 'the LORD')"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'unto'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 13,
+        "surface": "מֹשֶֽׁה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: 'Moses'; ESV: 'Moses'; NASB: 'Moses')"
+      }
+    ]
+  }
+]

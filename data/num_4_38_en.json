@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 4,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/פְקוּדֵ֖י",
+        "phrase": "and those numbered",
+        "literal": "and-numbered",
+        "source": "H6485 (KJV: numbered; ESV: numbered; NASB: numbered)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 3,
+        "surface": "גֵרְשׁ֑וֹן",
+        "phrase": "Gershon",
+        "literal": "Gershon",
+        "source": "H1648 (KJV: Gershon; ESV: Gershon; NASB: Gershon)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/מִשְׁפְּחוֹתָ֖/ם",
+        "phrase": "by their clans",
+        "literal": "to-clans-of-them",
+        "source": "H4940 (KJV: families; ESV: clans; NASB: families)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/בֵ֥ית",
+        "phrase": "and by the house of",
+        "literal": "and-to-house-of",
+        "source": "H1004 (KJV: by...houses; ESV: by...houses; NASB: by...households)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבֹתָֽ/ם",
+        "phrase": "their fathers",
+        "literal": "fathers-of-them",
+        "source": "H1 (KJV: fathers'; ESV: fathers'; NASB: fathers')"
+      }
+    ]
+  }
+]

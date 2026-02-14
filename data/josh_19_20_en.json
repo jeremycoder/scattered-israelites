@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָֽ/רַבִּ֥ית",
+        "phrase": "and Rabbith",
+        "literal": "and-the-Rabbith",
+        "source": "H7245 (KJV: Rabbith; ESV: Rabbith; NASB: Rabbith)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/קִשְׁי֖וֹן",
+        "phrase": "and Kishion",
+        "literal": "and-Kishion",
+        "source": "H7191 (KJV: Kishion; ESV: Kishion; NASB: Kishion)"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/אָֽבֶץ",
+        "phrase": "and Ebez",
+        "literal": "and-Ebez",
+        "source": "H77 (KJV: Abez; ESV: Ebez; NASB: Ebez)"
+      }
+    ]
+  }
+]

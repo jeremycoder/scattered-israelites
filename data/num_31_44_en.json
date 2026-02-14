@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בָקָ֕ר",
+        "phrase": "and cattle",
+        "literal": "and-cattle",
+        "source": "H1241 (KJV: beeves; ESV: cattle; NASB: cattle)"
+      },
+      {
+        "position": 2,
+        "surface": "שִׁשָּׁ֥ה",
+        "phrase": "six",
+        "literal": "six",
+        "source": "H8337 (KJV: six; ESV: six; NASB: six)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/שְׁלֹשִׁ֖ים",
+        "phrase": "and thirty",
+        "literal": "and-thirty",
+        "source": "H7970 (KJV: thirty; ESV: thirty; NASB: thirty)"
+      },
+      {
+        "position": 4,
+        "surface": "אָֽלֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: thousand; ESV: thousand; NASB: thousand)"
+      }
+    ]
+  }
+]

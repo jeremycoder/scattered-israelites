@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: shall not, NASB: shall not"
+      },
+      {
+        "position": 2,
+        "surface": "תֹאכַ֖ל",
+        "phrase": "you shall eat",
+        "literal": "you-eat",
+        "source": "H398; KJV: eat, ESV: eat, NASB: eat"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605; KJV: any, ESV: any, NASB: any"
+      },
+      {
+        "position": 4,
+        "surface": "תּוֹעֵבָֽה",
+        "phrase": "abomination",
+        "literal": "abomination",
+        "source": "H8441; KJV: abominable thing, ESV: abomination, NASB: detestable thing"
+      }
+    ]
+  }
+]

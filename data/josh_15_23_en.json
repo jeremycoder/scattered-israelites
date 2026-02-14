@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/קֶ֥דֶשׁ",
+        "phrase": "and Kedesh",
+        "literal": "and-Kedesh",
+        "source": "H6943; KJV/ESV/NASB: 'Kedesh' (proper name, sanctuary)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/חָצ֖וֹר",
+        "phrase": "and Hazor",
+        "literal": "and-Hazor",
+        "source": "H2674; KJV/ESV/NASB: 'Hazor' (proper name, enclosure)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יִתְנָֽן",
+        "phrase": "and Ithnan",
+        "literal": "and-Ithnan",
+        "source": "H3497; KJV/ESV/NASB: 'Ithnan' (proper name, obscure)"
+      }
+    ]
+  }
+]

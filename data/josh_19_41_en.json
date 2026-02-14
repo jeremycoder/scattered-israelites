@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And it was",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And the coast'; ESV: 'And the territory'; NASB: 'The territory')"
+      },
+      {
+        "position": 2,
+        "surface": "גְּב֣וּל",
+        "phrase": "the border",
+        "literal": "border",
+        "source": "H1366 (KJV: 'coast'; ESV: 'territory'; NASB: 'territory')"
+      },
+      {
+        "position": 3,
+        "surface": "נַחֲלָתָ֑/ם",
+        "phrase": "of their inheritance",
+        "literal": "inheritance-of-them",
+        "source": "H5159 (KJV: 'of their inheritance'; ESV: 'of its inheritance'; NASB: 'of their inheritance')"
+      },
+      {
+        "position": 4,
+        "surface": "צָרְעָ֥ה",
+        "phrase": "Zorah",
+        "literal": "Zorah",
+        "source": "H6881 (KJV: 'Zorah'; ESV: 'Zorah'; NASB: 'Zorah')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶשְׁתָּא֖וֹל",
+        "phrase": "and Eshtaol",
+        "literal": "and-Eshtaol",
+        "source": "H847 (KJV: 'and Eshtaol'; ESV: 'Eshtaol'; NASB: 'and Eshtaol')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עִ֥יר",
+        "phrase": "and Ir",
+        "literal": "and-city",
+        "source": "H5892 (KJV: 'Ir-shemesh'; ESV: 'Ir-shemesh'; NASB: 'Ir-shemesh')"
+      },
+      {
+        "position": 7,
+        "surface": "שָֽׁמֶשׁ",
+        "phrase": "shemesh",
+        "literal": "sun",
+        "source": "H8121 (KJV: 'Irshemesh'; ESV: 'Ir-shemesh'; NASB: 'Ir-shemesh')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV: 'departed', ESV: 'departed', NASB: 'journeyed'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/פּוּנֹ֑ן",
+        "phrase": "from Punon",
+        "literal": "from-Punon",
+        "source": "H6325; KJV: 'Punon', ESV: 'Punon', NASB: 'Punon'"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: 'pitched', ESV: 'camped', NASB: 'camped'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אֹבֹֽת",
+        "phrase": "at Oboth",
+        "literal": "in/at-Oboth",
+        "source": "H88; KJV: 'Oboth', ESV: 'Oboth', NASB: 'Oboth'"
+      }
+    ]
+  }
+]

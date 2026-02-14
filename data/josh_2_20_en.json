@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "And if",
+        "literal": "and-if",
+        "source": "H518 (KJV: And if; ESV: But if; NASB: But if)"
+      },
+      {
+        "position": 2,
+        "surface": "תַּגִּ֖ידִי",
+        "phrase": "you tell",
+        "literal": "you_(fem.sg.)-cause-to-be-known",
+        "source": "H5046 (KJV: utter; ESV: tell; NASB: tell)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "דְּבָרֵ֣/נוּ",
+        "phrase": "our matter",
+        "literal": "word-our",
+        "source": "H1697 (KJV: business; ESV: business; NASB: business)"
+      },
+      {
+        "position": 5,
+        "surface": "זֶ֑ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הָיִ֣ינוּ",
+        "phrase": "then we will be",
+        "literal": "and-we-will-be",
+        "source": "H1961 (KJV: then we will be; ESV: then we shall be; NASB: then we shall be)"
+      },
+      {
+        "position": 7,
+        "surface": "נְקִיִּ֔ם",
+        "phrase": "guiltless",
+        "literal": "innocent",
+        "source": "H5355 (KJV: quit; ESV: guiltless; NASB: free)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/שְּׁבֻעָתֵ֖/ךְ",
+        "phrase": "from your oath",
+        "literal": "from-oath-your",
+        "source": "H7621 (KJV: of thine oath; ESV: with respect to your oath; NASB: from the oath)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 10,
+        "surface": "הִשְׁבַּעְתָּֽ/נוּ",
+        "phrase": "you made us swear",
+        "literal": "you-caused-to-swear-us",
+        "source": "H7650 (KJV: thou hast made us to swear; ESV: you have made us swear; NASB: you have made us swear)"
+      }
+    ]
+  }
+]

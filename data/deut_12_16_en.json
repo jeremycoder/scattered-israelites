@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 12,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֥ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535 (KJV: Only; ESV: Only; NASB: Only)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דָּ֖ם",
+        "phrase": "the blood",
+        "literal": "the-blood",
+        "source": "H1818 (KJV: the blood; ESV: the blood; NASB: the blood)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 4,
+        "surface": "תֹאכֵ֑לוּ",
+        "phrase": "shall you eat",
+        "literal": "you(pl)-shall-eat",
+        "source": "H398 (KJV: ye shall ... eat; ESV: shall ... eat; NASB: shall ... eat)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֥רֶץ",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "H776 (KJV: the earth; ESV: the earth; NASB: the ground)"
+      },
+      {
+        "position": 7,
+        "surface": "תִּשְׁפְּכֶ֖/נּוּ",
+        "phrase": "you shall pour it",
+        "literal": "you-shall-pour-it",
+        "source": "H8210 (KJV: ye shall pour it; ESV: you shall pour it; NASB: you are to pour it)"
+      },
+      {
+        "position": 8,
+        "surface": "כַּ/מָּֽיִם",
+        "phrase": "like water",
+        "literal": "like-water",
+        "source": "H4325 (KJV: as water; ESV: like water; NASB: like water)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 14,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְבָרְכֵ֖/הוּ",
+        "phrase": "and blessed him",
+        "literal": "and-he-blessed-him",
+        "source": "H1288; KJV: blessed, ESV: blessed, NASB: blessed"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשֻׁ֑עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091; KJV: Joshua, ESV: Joshua, NASB: Joshua"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּתֵּ֧ן",
+        "phrase": "and gave",
+        "literal": "and-he-gave",
+        "source": "H5414; KJV: gave, ESV: gave, NASB: gave"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "חֶבְר֛וֹן",
+        "phrase": "Hebron",
+        "literal": "Hebron",
+        "source": "H2275; KJV: Hebron, ESV: Hebron, NASB: Hebron"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/כָלֵ֥ב",
+        "phrase": "to Caleb",
+        "literal": "to-Caleb",
+        "source": "H3612; KJV: Caleb, ESV: Caleb, NASB: Caleb"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV: son, ESV: son, NASB: son"
+      },
+      {
+        "position": 8,
+        "surface": "יְפֻנֶּ֖ה",
+        "phrase": "Jephunneh",
+        "literal": "Jephunneh",
+        "source": "H3312; KJV: Jephunneh, ESV: Jephunneh, NASB: Jephunneh"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/נַחֲלָֽה",
+        "phrase": "for an inheritance",
+        "literal": "for-inheritance",
+        "source": "H5159; KJV: inheritance, ESV: inheritance, NASB: inheritance"
+      }
+    ]
+  }
+]

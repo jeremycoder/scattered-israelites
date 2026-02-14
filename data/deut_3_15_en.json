@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 3,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/לְ/מָכִ֖יר",
+        "phrase": "to Machir",
+        "literal": "and-to-Machir",
+        "source": "H4353; KJV/ESV/NASB: 'unto Machir' or 'to Machir'"
+      },
+      {
+        "position": 2,
+        "surface": "נָתַ֥תִּי",
+        "phrase": "I gave",
+        "literal": "I-have-given",
+        "source": "H5414; KJV/ESV/NASB: 'I gave'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/גִּלְעָֽד",
+        "phrase": "the Gilead",
+        "literal": "the-Gilead",
+        "source": "H1568; KJV/ESV/NASB: 'Gilead'"
+      }
+    ]
+  }
+]

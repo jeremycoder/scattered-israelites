@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הוֹדַעְתֶּ֖ם",
+        "phrase": "then you shall let know",
+        "literal": "and-you-all-cause-to-know",
+        "source": "H3045 (KJV: let...know; ESV: let...know; NASB: inform)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵי/כֶ֣ם",
+        "phrase": "your children",
+        "literal": "sons-of-you-all",
+        "source": "H1121 (KJV: your children; ESV: your children; NASB: your children)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/יַּבָּשָׁה֙",
+        "phrase": "on dry ground",
+        "literal": "in-the-dry-ground",
+        "source": "H3004 (KJV: on dry land; ESV: on dry ground; NASB: on dry ground)"
+      },
+      {
+        "position": 6,
+        "surface": "עָבַ֣ר",
+        "phrase": "crossed",
+        "literal": "he-crossed",
+        "source": "H5674 (KJV: came over; ESV: passed over; NASB: crossed)"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יַּרְדֵּ֖ן",
+        "phrase": "the Jordan",
+        "literal": "the-Jordan",
+        "source": "H3383 (KJV: this Jordan; ESV: this Jordan; NASB: this Jordan)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      }
+    ]
+  }
+]

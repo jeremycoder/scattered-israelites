@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צַוֵּה֙",
+        "phrase": "Command",
+        "literal": "command-(impv-2ms)",
+        "source": "H6680 (KJV: Command; ESV: Command; NASB: Command)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כֹּ֣הֲנִ֔ים",
+        "phrase": "priests",
+        "literal": "the/priests-(ncmp-abs)",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 4,
+        "surface": "נֹשְׂאֵ֖י",
+        "phrase": "who carry",
+        "literal": "bear-(qal-act-part-mp)",
+        "source": "H5375 (KJV: bear; ESV: carry; NASB: carry)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲר֣וֹן",
+        "phrase": "ark",
+        "literal": "ark-(ncbs-const)",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עֵד֑וּת",
+        "phrase": "of the testimony",
+        "literal": "the/testimony-(ncfs-abs)",
+        "source": "H5715 (KJV: testimony; ESV: testimony; NASB: testimony)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/יַעֲל֖וּ",
+        "phrase": "that they come up",
+        "literal": "and/they-shall-ascend-(qal-impf-3mp)",
+        "source": "H5927 (KJV: come up; ESV: come up; NASB: come up)"
+      },
+      {
+        "position": 8,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: out of; ESV: from; NASB: from)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יַּרְדֵּֽן",
+        "phrase": "the Jordan",
+        "literal": "the/Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      }
+    ]
+  }
+]

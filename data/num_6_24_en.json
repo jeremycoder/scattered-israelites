@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 6,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְבָרֶכְ/ךָ֥",
+        "phrase": "bless you",
+        "literal": "may-he-bless-you",
+        "source": "H1288 (KJV: bless thee; ESV/NASB: bless you)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: The LORD; ESV/NASB: The LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/יִשְׁמְרֶֽ/ךָ",
+        "phrase": "and keep you",
+        "literal": "and-may-he-keep-you",
+        "source": "H8104 (KJV: and keep thee; ESV/NASB: and keep you)"
+      }
+    ]
+  }
+]

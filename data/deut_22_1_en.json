@@ -1,0 +1,109 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹֽא",
+        "phrase": "you shall not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: ignore; NASB: see)"
+      },
+      {
+        "position": 2,
+        "surface": "תִרְאֶה֩",
+        "phrase": "see",
+        "literal": "you-see",
+        "source": "H7200 (KJV: see; ESV: see; NASB: see)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "שׁ֨וֹר",
+        "phrase": "ox",
+        "literal": "ox",
+        "source": "H7794 (KJV: ox; ESV: ox; NASB: ox)"
+      },
+      {
+        "position": 5,
+        "surface": "אָחִ֜י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251 (KJV: brother's; ESV: brother's; NASB: countryman's)"
+      },
+      {
+        "position": 6,
+        "surface": "א֤וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 8,
+        "surface": "שֵׂי/וֹ֙",
+        "phrase": "his sheep",
+        "literal": "sheep-his",
+        "source": "H7716 (KJV: sheep; ESV: sheep; NASB: sheep)"
+      },
+      {
+        "position": 9,
+        "surface": "נִדָּחִ֔ים",
+        "phrase": "straying",
+        "literal": "driven-away",
+        "source": "H5080 (KJV: go astray; ESV: straying away; NASB: straying away)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הִתְעַלַּמְתָּ֖",
+        "phrase": "and hide yourself",
+        "literal": "and-you-hide-yourself",
+        "source": "H5956 (KJV: hide thyself; ESV: pay no attention; NASB: ignore)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/הֶ֑ם",
+        "phrase": "from them",
+        "literal": "from-them",
+        "source": "- (KJV: from them; ESV: to them; NASB: it)"
+      },
+      {
+        "position": 12,
+        "surface": "הָשֵׁ֥ב",
+        "phrase": "bring back",
+        "literal": "return",
+        "source": "H7725 (KJV: bring; ESV: bring; NASB: return)"
+      },
+      {
+        "position": 13,
+        "surface": "תְּשִׁיבֵ֖/ם",
+        "phrase": "you shall return them",
+        "literal": "you-shall-return-them",
+        "source": "H7725 (KJV: bring again; ESV: bring back; NASB: return)"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/אָחִֽי/ךָ",
+        "phrase": "to your brother",
+        "literal": "to-brother-your",
+        "source": "H251 (KJV: unto thy brother; ESV: to your countryman; NASB: to your countryman)"
+      }
+    ]
+  }
+]

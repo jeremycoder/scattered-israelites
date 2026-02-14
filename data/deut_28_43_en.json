@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/גֵּר֙",
+        "phrase": "the sojourner",
+        "literal": "the-sojourner",
+        "source": "H1616 (KJV: stranger; ESV: sojourner; NASB: alien)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who/that",
+        "source": "H834 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/קִרְבְּ/ךָ֔",
+        "phrase": "in your midst",
+        "literal": "in-midst/your",
+        "source": "H7130 (KJV: within thee; ESV: among you; NASB: in your midst)"
+      },
+      {
+        "position": 4,
+        "surface": "יַעֲלֶ֥ה",
+        "phrase": "shall rise",
+        "literal": "he-shall-ascend",
+        "source": "H5927 (KJV: shall get up; ESV: shall rise; NASB: shall ascend)"
+      },
+      {
+        "position": 5,
+        "surface": "עָלֶ֖י/ךָ",
+        "phrase": "above you",
+        "literal": "upon/you",
+        "source": "H5921 (KJV: above thee; ESV: above you; NASB: over you)"
+      },
+      {
+        "position": 6,
+        "surface": "מַ֣עְלָ/ה",
+        "phrase": "higher",
+        "literal": "upward",
+        "source": "H4605 (KJV: higher; ESV: higher; NASB: higher)"
+      },
+      {
+        "position": 7,
+        "surface": "מָּ֑עְלָ/ה",
+        "phrase": "and higher",
+        "literal": "upward",
+        "source": "H4605 (KJV: higher; ESV: higher; NASB: higher)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אַתָּ֥ה",
+        "phrase": "and you",
+        "literal": "and-you",
+        "source": "H859 (KJV: and thou; ESV: but you; NASB: but you)"
+      },
+      {
+        "position": 9,
+        "surface": "תֵרֵ֖ד",
+        "phrase": "shall come down",
+        "literal": "you-shall-descend",
+        "source": "H3381 (KJV: shalt come down; ESV: will go down; NASB: shall go down)"
+      },
+      {
+        "position": 10,
+        "surface": "מַ֥טָּה",
+        "phrase": "lower",
+        "literal": "downward",
+        "source": "H4295 (KJV: lower; ESV: lower; NASB: lower)"
+      },
+      {
+        "position": 11,
+        "surface": "מָּֽטָּה",
+        "phrase": "and lower",
+        "literal": "downward",
+        "source": "H4295 (KJV: lower; ESV: lower; NASB: lower)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֡ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535 (KJV: Only; ESV: Only; NASB: Only)"
+      },
+      {
+        "position": 2,
+        "surface": "הִשָּׁ֣מֶר",
+        "phrase": "take heed",
+        "literal": "beware",
+        "source": "H8104 (KJV: take heed; ESV: take care; NASB: be careful)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/ךָ֩",
+        "phrase": "to yourself",
+        "literal": "to-you",
+        "source": " (KJV: to thyself; ESV: ; NASB: for yourself)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁמֹ֨ר",
+        "phrase": "and keep",
+        "literal": "and-keep",
+        "source": "H8104 (KJV: keep; ESV: keep; NASB: watch over)"
+      },
+      {
+        "position": 5,
+        "surface": "נַפְשְׁ/ךָ֜",
+        "phrase": "your soul",
+        "literal": "soul-your",
+        "source": "H5315 (KJV: thy soul; ESV: your soul; NASB: your soul)"
+      },
+      {
+        "position": 6,
+        "surface": "מְאֹ֗ד",
+        "phrase": "diligently",
+        "literal": "exceedingly",
+        "source": "H3966 (KJV: diligently; ESV: diligently; NASB: diligently)"
+      },
+      {
+        "position": 7,
+        "surface": "פֶּן",
+        "phrase": "lest",
+        "literal": "lest",
+        "source": "H6435 (KJV: lest; ESV: lest; NASB: so that ... not)"
+      },
+      {
+        "position": 8,
+        "surface": "תִּשְׁכַּ֨ח",
+        "phrase": "you forget",
+        "literal": "you-forget",
+        "source": "H7911 (KJV: thou forget; ESV: you forget; NASB: you ... forget)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: the things; ESV: the things; NASB: the things)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/דְּבָרִ֜ים",
+        "phrase": "things",
+        "literal": "the-words",
+        "source": "H1697 (KJV: the things; ESV: the things; NASB: the things)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 12,
+        "surface": "רָא֣וּ",
+        "phrase": "have seen",
+        "literal": "they-saw",
+        "source": "H7200 (KJV: thine eyes have seen; ESV: your eyes have seen; NASB: your eyes have seen)"
+      },
+      {
+        "position": 13,
+        "surface": "עֵינֶ֗י/ךָ",
+        "phrase": "your eyes",
+        "literal": "eyes-your",
+        "source": "H5869 (KJV: thine eyes; ESV: your eyes; NASB: your eyes)"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/פֶן",
+        "phrase": "and lest",
+        "literal": "and-lest",
+        "source": "H6435 (KJV: lest; ESV: lest; NASB: and ... not)"
+      },
+      {
+        "position": 15,
+        "surface": "יָס֨וּרוּ֙",
+        "phrase": "they depart",
+        "literal": "they-turn-aside",
+        "source": "H5493 (KJV: they depart; ESV: they depart; NASB: they ... depart)"
+      },
+      {
+        "position": 16,
+        "surface": "מִ/לְּבָ֣בְ/ךָ֔",
+        "phrase": "from your heart",
+        "literal": "from-heart-your",
+        "source": "H3824 (KJV: from thy heart; ESV: from your heart; NASB: from your heart)"
+      },
+      {
+        "position": 17,
+        "surface": "כֹּ֖ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 18,
+        "surface": "יְמֵ֣י",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV: all the days; ESV: all the days; NASB: all the days)"
+      },
+      {
+        "position": 19,
+        "surface": "חַיֶּ֑י/ךָ",
+        "phrase": "of your life",
+        "literal": "life-your",
+        "source": "H2416 (KJV: of thy life; ESV: of your life; NASB: of your life)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/הוֹדַעְתָּ֥/ם",
+        "phrase": "and make them known",
+        "literal": "and-you-cause-to-know-them",
+        "source": "H3045 (KJV: teach them; ESV: Make them known; NASB: make them known)"
+      },
+      {
+        "position": 21,
+        "surface": "לְ/בָנֶ֖י/ךָ",
+        "phrase": "to your children",
+        "literal": "to-sons-your",
+        "source": "H1121 (KJV: thy sons; ESV: your children; NASB: your sons)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/לִ/בְנֵ֥י",
+        "phrase": "and to children of",
+        "literal": "and-to-sons-of",
+        "source": "H1121 (KJV: and thy sons'; ESV: and your children's; NASB: and your grandsons)"
+      },
+      {
+        "position": 23,
+        "surface": "בָנֶֽי/ךָ",
+        "phrase": "your children",
+        "literal": "sons-your",
+        "source": "H1121 (KJV: sons; ESV: children; NASB: )"
+      }
+    ]
+  }
+]

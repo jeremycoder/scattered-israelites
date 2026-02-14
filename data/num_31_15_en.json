@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 31,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵי/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: to them; NASB: to them)"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/חִיִּיתֶ֖ם",
+        "phrase": "have you let live",
+        "literal": "the-you(pl)-have-kept-alive",
+        "source": "H2421 (KJV: saved ... alive; ESV: let ... live; NASB: spared)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "נְקֵבָֽה",
+        "phrase": "female",
+        "literal": "female",
+        "source": "H5347 (KJV: women; ESV: women; NASB: women)"
+      }
+    ]
+  }
+]

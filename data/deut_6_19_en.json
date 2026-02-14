@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לַ/הֲדֹ֥ף",
+        "phrase": "to drive out",
+        "literal": "to-drive-out",
+        "source": "H1920; KJV: to thrust out, ESV: by driving out, NASB: to drive out"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: all, ESV: all, NASB: all"
+      },
+      {
+        "position": 4,
+        "surface": "אֹיְבֶ֖י/ךָ",
+        "phrase": "your enemies",
+        "literal": "enemies-your",
+        "source": "H341; KJV: thine enemies, ESV: your enemies, NASB: your enemies"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/פָּנֶ֑י/ךָ",
+        "phrase": "from before you",
+        "literal": "from-before-you",
+        "source": "H6440; KJV: from before thee, ESV: from before you, NASB: from before you"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834; KJV: as, ESV: as, NASB: as"
+      },
+      {
+        "position": 7,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "He has spoken",
+        "literal": "He-spoke",
+        "source": "H1696; KJV: hath spoken, ESV: has spoken, NASB: has spoken"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      }
+    ]
+  }
+]

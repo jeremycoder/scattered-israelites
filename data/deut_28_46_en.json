@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָי֣וּ",
+        "phrase": "and they will be",
+        "literal": "and-they-will-be",
+        "source": "H1961; KJV: 'And they shall be', ESV: 'They shall be', NASB: 'They shall become'"
+      },
+      {
+        "position": 2,
+        "surface": "בְ/ךָ֔",
+        "phrase": "upon you",
+        "literal": "in/on-you",
+        "source": "-; KJV: 'upon thee', ESV: 'on you', NASB: 'on you'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/א֖וֹת",
+        "phrase": "for a sign",
+        "literal": "to/for-sign",
+        "source": "H226; KJV: 'for a sign', ESV: 'a sign', NASB: 'a sign'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/לְ/מוֹפֵ֑ת",
+        "phrase": "and for a wonder",
+        "literal": "and-to/for-wonder",
+        "source": "H4159; KJV: 'and for a wonder', ESV: 'and a wonder', NASB: 'and a wonder'"
+      },
+      {
+        "position": 5,
+        "surface": "וּֽ/בְ/זַרְעֲ/ךָ֖",
+        "phrase": "and in your offspring",
+        "literal": "and-in/offspring-your",
+        "source": "H2233; KJV: 'and upon thy seed', ESV: 'and your offspring', NASB: 'and your descendants'"
+      },
+      {
+        "position": 6,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV: 'for', ESV: 'forever', NASB: 'forever'"
+      },
+      {
+        "position": 7,
+        "surface": "עוֹלָֽם",
+        "phrase": "forever",
+        "literal": "eternity",
+        "source": "H5769; KJV: 'ever', ESV: 'forever', NASB: 'forever"
+      }
+    ]
+  }
+]

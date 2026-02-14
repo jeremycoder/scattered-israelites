@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מֵ/רֹ֖אשׁ",
+        "phrase": "and from the top",
+        "literal": "and-from-head",
+        "source": "H7218 (KJV: chief things; ESV: finest produce; NASB: best products)"
+      },
+      {
+        "position": 2,
+        "surface": "הַרְרֵי",
+        "phrase": "of the mountains",
+        "literal": "mountains-of",
+        "source": "H2042 (KJV: ancient mountains; ESV: ancient mountains; NASB: ancient mountains)"
+      },
+      {
+        "position": 3,
+        "surface": "קֶ֑דֶם",
+        "phrase": "of antiquity",
+        "literal": "eastward/of-old",
+        "source": "H6924 (KJV: ancient; ESV: ancient; NASB: ancient)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִ/מֶּ֖גֶד",
+        "phrase": "and from the excellence",
+        "literal": "and-from-excellence",
+        "source": "H4022 (KJV: precious things; ESV: abundance; NASB: precious things)"
+      },
+      {
+        "position": 5,
+        "surface": "גִּבְע֥וֹת",
+        "phrase": "of the hills",
+        "literal": "hills-of",
+        "source": "H1389 (KJV: lasting hills; ESV: everlasting hills; NASB: everlasting hills)"
+      },
+      {
+        "position": 6,
+        "surface": "עוֹלָֽם",
+        "phrase": "eternal",
+        "literal": "eternity",
+        "source": "H5769 (KJV: lasting; ESV: everlasting; NASB: everlasting)"
+      }
+    ]
+  }
+]

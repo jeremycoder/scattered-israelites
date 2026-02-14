@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "H1961 (KJV: And their; ESV: And their; NASB: Their)"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/הֶם֙",
+        "phrase": "for them",
+        "literal": "to-them",
+        "source": " (KJV: their; ESV: their; NASB: Their)"
+      },
+      {
+        "position": 3,
+        "surface": "גְּב֣וּל",
+        "phrase": "border",
+        "literal": "border",
+        "source": "H1366 (KJV: border; ESV: boundary; NASB: border)"
+      },
+      {
+        "position": 4,
+        "surface": "נֶ֔גֶב",
+        "phrase": "south",
+        "literal": "south",
+        "source": "H5045 (KJV: south; ESV: south; NASB: south)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/קְצֵ֖ה",
+        "phrase": "from the end",
+        "literal": "from-end",
+        "source": "H7097 (KJV: from the shore; ESV: from the end; NASB: from the lower end)"
+      },
+      {
+        "position": 6,
+        "surface": "יָ֣ם",
+        "phrase": "of the sea",
+        "literal": "sea",
+        "source": "H3220 (KJV: sea; ESV: Sea; NASB: Sea)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מֶּ֑לַח",
+        "phrase": "of the Salt",
+        "literal": "the-salt",
+        "source": "H4417 (KJV: salt; ESV: Salt; NASB: Salt)"
+      },
+      {
+        "position": 8,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/לָּשֹׁ֖ן",
+        "phrase": "the bay",
+        "literal": "the-tongue",
+        "source": "H3956 (KJV: bay; ESV: bay; NASB: bay)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/פֹּנֶ֥ה",
+        "phrase": "that faces",
+        "literal": "the-facing",
+        "source": "H6437 (KJV: looketh; ESV: faces; NASB: turns)"
+      },
+      {
+        "position": 11,
+        "surface": "נֶֽגְבָּ/ה",
+        "phrase": "southward",
+        "literal": "southward",
+        "source": "H5045 (KJV: southward; ESV: southward; NASB: to the south)"
+      }
+    ]
+  }
+]

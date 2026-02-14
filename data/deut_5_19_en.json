@@ -1,0 +1,25 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "Neither",
+        "literal": "and-not",
+        "source": "H3808; KJV: Neither, ESV: You shall not, NASB: You shall not"
+      },
+      {
+        "position": 2,
+        "surface": "תִּגְנֹֽב",
+        "phrase": "shall you steal",
+        "literal": "you-will-steal",
+        "source": "H1589; KJV: shalt thou steal, ESV: steal, NASB: steal"
+      }
+    ]
+  }
+]

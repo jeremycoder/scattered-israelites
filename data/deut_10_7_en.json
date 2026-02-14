@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִ/שָּׁ֥ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033; KJV/ESV/NASB: 'From thence/there' (motion origin)"
+      },
+      {
+        "position": 2,
+        "surface": "נָסְע֖וּ",
+        "phrase": "they journeyed",
+        "literal": "they-journeyed",
+        "source": "H5265; KJV: 'journeyed', ESV: 'traveled', NASB: 'journeyed'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/גֻּדְגֹּ֑דָ/ה",
+        "phrase": "Gudgodah",
+        "literal": "the-Gudgodah",
+        "source": "H1412; KJV/ESV/NASB: 'Gudgodah' (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מִן",
+        "phrase": "and from",
+        "literal": "and-from",
+        "source": "H4480; KJV/ESV/NASB: 'and from' (preposition conjunction)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גֻּדְגֹּ֣דָ/ה",
+        "phrase": "Gudgodah",
+        "literal": "the-Gudgodah",
+        "source": "H1412; KJV/ESV/NASB: 'Gudgodah' (proper name)"
+      },
+      {
+        "position": 6,
+        "surface": "יָטְבָ֔תָה",
+        "phrase": "Jotbathah",
+        "literal": "Jotbathah",
+        "source": "H3193; KJV: 'Jotbath', ESV/NASB: 'Jotbathah' (proper name)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "a land",
+        "literal": "land",
+        "source": "H776; KJV/ESV/NASB: 'land'"
+      },
+      {
+        "position": 8,
+        "surface": "נַ֥חֲלֵי",
+        "phrase": "of brooks",
+        "literal": "brooks-of",
+        "source": "H5158; KJV: 'rivers', ESV/NASB: 'brooks/streams'"
+      },
+      {
+        "position": 9,
+        "surface": "מָֽיִם",
+        "phrase": "of waters",
+        "literal": "waters",
+        "source": "H4325; KJV/ESV/NASB: 'of waters'"
+      }
+    ]
+  }
+]

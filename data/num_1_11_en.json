@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 1,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/בִ֨נְיָמִ֔ן",
+        "phrase": "of Benjamin",
+        "literal": "to/for-Benjamin",
+        "source": "H1144; KJV/ESV/NASB: 'of Benjamin'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִידָ֖ן",
+        "phrase": "Abidan",
+        "literal": "Abidan",
+        "source": "H27; KJV/ESV/NASB: 'Abidan'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 4,
+        "surface": "גִּדְעֹנִֽי",
+        "phrase": "of Gideoni",
+        "literal": "Gideoni",
+        "source": "H1441; KJV/ESV/NASB: 'Gideoni'"
+      }
+    ]
+  }
+]

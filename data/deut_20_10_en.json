@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "When",
+        "literal": "if/when",
+        "source": "H3588 (KJV: When; ESV: When; NASB: When)"
+      },
+      {
+        "position": 2,
+        "surface": "תִקְרַ֣ב",
+        "phrase": "you approach",
+        "literal": "you-shall-draw-near",
+        "source": "H7126 (KJV: comest nigh; ESV: draw near; NASB: approach)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "עִ֔יר",
+        "phrase": "a city",
+        "literal": "city",
+        "source": "H5892 (KJV: a city; ESV: a city; NASB: a city)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/הִלָּחֵ֖ם",
+        "phrase": "to fight",
+        "literal": "to-fight",
+        "source": "H3898 (KJV: to fight; ESV: to fight; NASB: to fight)"
+      },
+      {
+        "position": 6,
+        "surface": "עָלֶ֑י/הָ",
+        "phrase": "against it",
+        "literal": "upon/it",
+        "source": "H5921 (KJV: against it; ESV: against it; NASB: against it)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קָרָ֥אתָ",
+        "phrase": "and you shall call",
+        "literal": "and-you-shall-call",
+        "source": "H7121 (KJV: proclaim; ESV: call; NASB: offer)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלֶ֖י/הָ",
+        "phrase": "to it",
+        "literal": "to/it",
+        "source": "H413 (KJV: unto it; ESV: to it; NASB: to it)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/שָׁלֽוֹם",
+        "phrase": "peace",
+        "literal": "for-peace",
+        "source": "H7965 (KJV: peace; ESV: terms of peace; NASB: terms of peace)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: LORD, ESV: LORD, NASB: LORD"
+      },
+      {
+        "position": 2,
+        "surface": "בָּדָ֣ד",
+        "phrase": "alone",
+        "literal": "alone",
+        "source": "H910; KJV: alone, ESV: alone, NASB: alone"
+      },
+      {
+        "position": 3,
+        "surface": "יַנְחֶ֑/נּוּ",
+        "phrase": "guided-him",
+        "literal": "caused-to-lead-him",
+        "source": "H5148; KJV: did lead him, ESV: guided him, NASB: guided him"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵ֥ין",
+        "phrase": "and-no",
+        "literal": "and-not",
+        "source": "H369; KJV: and there was no, ESV: no, NASB: And there was no"
+      },
+      {
+        "position": 5,
+        "surface": "עִמּ֖/וֹ",
+        "phrase": "with-him",
+        "literal": "with-him",
+        "source": "H5973; KJV: with him, ESV: with him, NASB: with him"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֥ל",
+        "phrase": "god",
+        "literal": "god",
+        "source": "H410; KJV: god, ESV: god, NASB: god"
+      },
+      {
+        "position": 7,
+        "surface": "נֵכָֽר",
+        "phrase": "foreign",
+        "literal": "foreign",
+        "source": "H5236; KJV: strange, ESV: foreign, NASB: foreign"
+      }
+    ]
+  }
+]

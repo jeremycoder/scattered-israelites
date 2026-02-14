@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king-of",
+        "source": "H4428; KJV/ESV/NASB: 'king'"
+      },
+      {
+        "position": 2,
+        "surface": "דּ֛וֹר",
+        "phrase": "Dor",
+        "literal": "Dor",
+        "source": "H1756; KJV/ESV/NASB: 'Dor'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/נָפַ֥ת",
+        "phrase": "of Naphath",
+        "literal": "to/of-Naphath",
+        "source": "H5299; KJV: 'Naphoth', ESV/NASB: 'Naphath'"
+      },
+      {
+        "position": 4,
+        "surface": "דּ֖וֹר",
+        "phrase": "Dor",
+        "literal": "Dor",
+        "source": "H1756; KJV/ESV/NASB: 'Dor'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶחָ֑ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      },
+      {
+        "position": 6,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king-of",
+        "source": "H4428; KJV/ESV/NASB: 'king'"
+      },
+      {
+        "position": 7,
+        "surface": "גּוֹיִ֥ם",
+        "phrase": "Goiim",
+        "literal": "nations",
+        "source": "H1471; KJV/ESV/NASB: 'Goiim'/'nations'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/גִלְגָּ֖ל",
+        "phrase": "of Gilgal",
+        "literal": "to/of-Gilgal",
+        "source": "H1537; KJV/ESV/NASB: 'Gilgal'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "תּוֹרָ֥ה",
+        "phrase": "law",
+        "literal": "Torah-law",
+        "source": "H8451; KJV: law, ESV: law, NASB: law"
+      },
+      {
+        "position": 2,
+        "surface": "צִוָּה",
+        "phrase": "commanded",
+        "literal": "commanded",
+        "source": "H6680; KJV: commanded, ESV: charged, NASB: charged"
+      },
+      {
+        "position": 3,
+        "surface": "לָ֖/נוּ",
+        "phrase": "to-us",
+        "literal": "to-us",
+        "source": "; KJV: us, ESV: us, NASB: us"
+      },
+      {
+        "position": 4,
+        "surface": "מֹשֶׁ֑ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872; KJV: Moses, ESV: Moses, NASB: Moses"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹרָשָׁ֖ה",
+        "phrase": "inheritance",
+        "literal": "inheritance-possession",
+        "source": "H4181; KJV: inheritance, ESV: possession, NASB: possession"
+      },
+      {
+        "position": 6,
+        "surface": "קְהִלַּ֥ת",
+        "phrase": "congregation",
+        "literal": "congregation-of",
+        "source": "H6952; KJV: congregation, ESV: assembly, NASB: assembly"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲקֹֽב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290; KJV: Jacob, ESV: Jacob, NASB: Jacob"
+      }
+    ]
+  }
+]

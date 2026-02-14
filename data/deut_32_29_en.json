@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ל֥וּ",
+        "phrase": "O that",
+        "literal": "if-only",
+        "source": "H3863; KJV/ESV/NASB: 'O that'/'If only'/'Would that' (optative particle)"
+      },
+      {
+        "position": 2,
+        "surface": "חָכְמ֖וּ",
+        "phrase": "they were wise",
+        "literal": "they-were-wise",
+        "source": "H2449; KJV: 'they were wise', ESV: 'they were wise', NASB: 'they were wise'"
+      },
+      {
+        "position": 3,
+        "surface": "יַשְׂכִּ֣ילוּ",
+        "phrase": "they would understand",
+        "literal": "they-would-discern",
+        "source": "H7919; KJV: 'they understood', ESV: 'they would understand', NASB: 'they would understand'"
+      },
+      {
+        "position": 4,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063; KJV/ESV/NASB: 'this' (demonstrative pronoun)"
+      },
+      {
+        "position": 5,
+        "surface": "יָבִ֖ינוּ",
+        "phrase": "they would understand",
+        "literal": "they-would-understand",
+        "source": "H995; KJV: 'they understood', ESV: 'they would understand', NASB: 'they would understand'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/אַחֲרִיתָֽ/ם",
+        "phrase": "their latter end",
+        "literal": "to-end-of-them",
+        "source": "H319; KJV/ESV/NASB: 'their latter end'/'their end'/'their outcome'"
+      }
+    ]
+  }
+]

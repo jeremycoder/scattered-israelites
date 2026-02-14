@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִ/קֵּ֥ץ",
+        "phrase": "At the end",
+        "literal": "from-end-of",
+        "source": "H7093; KJV/ESV/NASB: 'At the end' (all render the prep+noun as 'at the end' or 'end of')"
+      },
+      {
+        "position": 2,
+        "surface": "שֶֽׁבַע",
+        "phrase": "of seven",
+        "literal": "of-seven",
+        "source": "H7651; KJV/ESV/NASB: 'seven' (all render as 'seven')"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנִ֖ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "H8141; KJV/ESV/NASB: 'years' (all render as 'years')"
+      },
+      {
+        "position": 4,
+        "surface": "תַּעֲשֶׂ֥ה",
+        "phrase": "you shall make",
+        "literal": "you-shall-make",
+        "source": "H6213; KJV: 'thou shalt make', ESV/NASB: 'you shall grant/make'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמִטָּֽה",
+        "phrase": "a release",
+        "literal": "release",
+        "source": "H8059; KJV: 'a release', ESV: 'a remission', NASB: 'a remission'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 19,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דָרְשׁ֥וּ",
+        "phrase": "and the judges shall inquire",
+        "literal": "and-they-shall-inquire",
+        "source": "H1875; KJV: 'make diligent inquisition', ESV: 'inquire diligently', NASB: 'investigate thoroughly'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שֹּׁפְטִ֖ים",
+        "phrase": "the judges",
+        "literal": "the-judges",
+        "source": "H8199; KJV: 'judges', ESV: 'judges', NASB: 'judges'"
+      },
+      {
+        "position": 3,
+        "surface": "הֵיטֵ֑ב",
+        "phrase": "thoroughly",
+        "literal": "well",
+        "source": "H3190; KJV: implied in 'diligent inquisition', ESV: 'diligently', NASB: 'thoroughly'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּ֤ה",
+        "phrase": "and behold",
+        "literal": "and-lo",
+        "source": "H2009; KJV: 'behold', ESV: 'if', NASB: 'if'"
+      },
+      {
+        "position": 5,
+        "surface": "עֵֽד",
+        "phrase": "witness",
+        "literal": "witness",
+        "source": "H5707; KJV: 'witness', ESV: 'witness', NASB: 'witness'"
+      },
+      {
+        "position": 6,
+        "surface": "שֶׁ֨קֶר֙",
+        "phrase": "false",
+        "literal": "falsehood",
+        "source": "H8267; KJV: 'false', ESV: 'false', NASB: 'false'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עֵ֔ד",
+        "phrase": "the witness",
+        "literal": "the-witness",
+        "source": "H5707; KJV: 'witness', ESV: 'witness', NASB: 'witness'"
+      },
+      {
+        "position": 8,
+        "surface": "שֶׁ֖קֶר",
+        "phrase": "false",
+        "literal": "falsehood",
+        "source": "H8267; KJV: 'false', ESV: 'false', NASB: 'false'"
+      },
+      {
+        "position": 9,
+        "surface": "עָנָ֥ה",
+        "phrase": "has testified",
+        "literal": "he-answered",
+        "source": "H6030; KJV: 'testified', ESV: 'accused', NASB: 'accused'"
+      },
+      {
+        "position": 10,
+        "surface": "בְ/אָחִֽי/ו",
+        "phrase": "against his brother",
+        "literal": "in-brother-his",
+        "source": "H251; KJV: 'brother', ESV: 'brother', NASB: 'brother'"
+      }
+    ]
+  }
+]

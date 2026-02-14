@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֤לֶךְ",
+        "phrase": "the king",
+        "literal": "king-of",
+        "source": "H4428 (KJV: 'the king'; ESV: 'the king'; NASB: 'the king')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲפֵק֙",
+        "phrase": "of Aphek",
+        "literal": "Aphek",
+        "source": "H663 (KJV: 'Aphek'; ESV: 'Aphek'; NASB: 'Aphek')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: 'one'; ESV: 'one'; NASB: 'one')"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "the king",
+        "literal": "king",
+        "source": "H4428 (KJV: 'the king'; ESV: 'the king'; NASB: 'the king')"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/שָּׁר֖וֹן",
+        "phrase": "of Lasharon",
+        "literal": "to-the-Sharon",
+        "source": "H8289 (KJV: 'Lasharon'; ESV: 'Lasharon'; NASB: 'Lasharon')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: 'one'; ESV: 'one'; NASB: 'one')"
+      }
+    ]
+  }
+]

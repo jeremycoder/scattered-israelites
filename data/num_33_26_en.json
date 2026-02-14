@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265 (KJV: removed; ESV: set out; NASB: journeyed)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/מַּקְהֵלֹ֑ת",
+        "phrase": "from Makheloth",
+        "literal": "from-Makheloth",
+        "source": "H4722 (KJV: Makheloth; ESV: Makheloth; NASB: Makheloth)"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they camped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (KJV: encamped; ESV: camped; NASB: camped)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/תָֽחַת",
+        "phrase": "at Tahath",
+        "literal": "in/at-Tahath",
+        "source": "H8480 (KJV: Tahath; ESV: Tahath; NASB: Tahath)"
+      }
+    ]
+  }
+]

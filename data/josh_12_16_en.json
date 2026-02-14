@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 12,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מֶ֤לֶךְ",
+        "phrase": "the king",
+        "literal": "king-of",
+        "source": "H4428; KJV/ESV/NASB: 'the king'"
+      },
+      {
+        "position": 2,
+        "surface": "מַקֵּדָה֙",
+        "phrase": "of Makkedah",
+        "literal": "Makkedah",
+        "source": "H4719; KJV/ESV/NASB: 'Makkedah'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "the king",
+        "literal": "king-of",
+        "source": "H4428; KJV/ESV/NASB: 'the king'"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּֽית",
+        "phrase": "of Beth",
+        "literal": "house-of",
+        "source": "H1008; KJV/ESV/NASB: 'Beth-' (part of Bethel)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֖ל",
+        "phrase": "el",
+        "literal": "El",
+        "source": "H1008; KJV/ESV/NASB: 'el' (part of Bethel)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶחָֽד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'one'"
+      }
+    ]
+  }
+]

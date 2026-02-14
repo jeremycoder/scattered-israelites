@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 8,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתֶּ֗ם",
+        "phrase": "And you",
+        "literal": "and-you(pl)",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 2,
+        "surface": "תָּקֻ֨מוּ֙",
+        "phrase": "shall rise up",
+        "literal": "arise-impf-2pl",
+        "source": "H6965 (KJV: rise up; ESV: rise up; NASB: rise)"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/הָ֣/אוֹרֵ֔ב",
+        "phrase": "from the ambush",
+        "literal": "from-the-ambush",
+        "source": "H693 (KJV: ambush; ESV: ambush; NASB: ambush)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הוֹרַשְׁתֶּ֖ם",
+        "phrase": "and shall seize",
+        "literal": "and-dispossess-impf-2pl",
+        "source": "H3423 (KJV: seize upon; ESV: seize; NASB: take possession)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [upon]; ESV: [the]; NASB: [of])"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עִ֑יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/נְתָנָ֛/הּ",
+        "phrase": "and He will give it",
+        "literal": "and-give-perf-3ms-it(fs)",
+        "source": "H5414 (KJV: will deliver it; ESV: will give it; NASB: will deliver it)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: Lord)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹֽהֵי/כֶ֖ם",
+        "phrase": "your God",
+        "literal": "God-your(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/יֶדְ/כֶֽם",
+        "phrase": "into your hand",
+        "literal": "in-hand-your(pl)",
+        "source": "H3027 (KJV: hand; ESV: hand; NASB: hand)"
+      }
+    ]
+  }
+]

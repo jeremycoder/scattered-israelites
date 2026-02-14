@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמַרְתֶּ֣ם",
+        "phrase": "and you shall keep",
+        "literal": "and-you(pl)-shall-keep",
+        "source": "H8104; KJV:observe, ESV:be careful, NASB:observe"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/עֲשׂ֔וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213; KJV:to do, ESV:to do, NASB:to do"
+      },
+      {
+        "position": 3,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834; KJV:as, ESV:as, NASB:as"
+      },
+      {
+        "position": 4,
+        "surface": "צִוָּ֛ה",
+        "phrase": "he has commanded",
+        "literal": "he-has-commanded",
+        "source": "H6680; KJV:has commanded, ESV:has commanded, NASB:has commanded"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV:LORD, ESV:LORD, NASB:LORD"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵי/כֶ֖ם",
+        "phrase": "your God",
+        "literal": "God-your(pl)",
+        "source": "H430; KJV:your God, ESV:your God, NASB:your God"
+      },
+      {
+        "position": 7,
+        "surface": "אֶתְ/כֶ֑ם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853; KJV:you, ESV:you, NASB:you"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV:not, ESV:not, NASB:not"
+      },
+      {
+        "position": 9,
+        "surface": "תָסֻ֖רוּ",
+        "phrase": "you shall turn aside",
+        "literal": "you(pl)-shall-turn-aside",
+        "source": "H5493; KJV:turn aside, ESV:turn aside, NASB:turn aside"
+      },
+      {
+        "position": 10,
+        "surface": "יָמִ֥ין",
+        "phrase": "right",
+        "literal": "right",
+        "source": "H3225; KJV:right hand, ESV:right hand, NASB:right"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/שְׂמֹֽאל",
+        "phrase": "or left",
+        "literal": "and-left",
+        "source": "H8040; KJV:or to the left, ESV:or to the left, NASB:or to the left"
+      }
+    ]
+  }
+]

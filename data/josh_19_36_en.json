@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲדָמָ֥ה",
+        "phrase": "Adamah",
+        "literal": "and-Adamah",
+        "source": "H128 (KJV: Adamah; ESV: Adamah; NASB: Adamah)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/הָ/רָמָ֖ה",
+        "phrase": "Ramah",
+        "literal": "and-the-Ramah",
+        "source": "H7414 (KJV: Ramah; ESV: Ramah; NASB: Ramah)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/חָצֽוֹר",
+        "phrase": "Hazor",
+        "literal": "and-Hazor",
+        "source": "H2674 (KJV: Hazor; ESV: Hazor; NASB: Hazor)"
+      }
+    ]
+  }
+]

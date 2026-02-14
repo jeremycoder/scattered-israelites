@@ -1,0 +1,228 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 1,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַ֠ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: Until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יָנִ֨יחַ",
+        "phrase": "gives rest",
+        "literal": "he-causes-to-rest",
+        "source": "H5117 (KJV: have given...rest; ESV: gives rest; NASB: gives...rest)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "לַֽ/אֲחֵי/כֶם֮",
+        "phrase": "to your brothers",
+        "literal": "to/brothers-your",
+        "source": "H251 (KJV: your brethren; ESV: your brothers; NASB: your brothers)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּ/כֶם֒",
+        "phrase": "as you",
+        "literal": "as-you",
+        "source": " (KJV: as he hath given you; ESV: as he has to you; NASB: as He gives you)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/יָרְשׁ֣וּ",
+        "phrase": "and they have possessed",
+        "literal": "and-they-possess",
+        "source": "H3423 (KJV: have possessed; ESV: take possession; NASB: possess)"
+      },
+      {
+        "position": 8,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: also; ESV: also; NASB: also)"
+      },
+      {
+        "position": 9,
+        "surface": "הֵ֔מָּה",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 (KJV: [implied]; ESV: they; NASB: they)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָ֕רֶץ",
+        "phrase": "the land",
+        "literal": "the/land",
+        "source": "H776 (KJV: the land; ESV: the land; NASB: the land)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 13,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 14,
+        "surface": "אֱלֹֽהֵי/כֶ֖ם",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 15,
+        "surface": "נֹתֵ֣ן",
+        "phrase": "is giving",
+        "literal": "giving",
+        "source": "H5414 (KJV: giveth; ESV: is giving; NASB: is giving)"
+      },
+      {
+        "position": 16,
+        "surface": "לָ/הֶ֑ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": " (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/שַׁבְתֶּ֞ם",
+        "phrase": "then you shall return",
+        "literal": "and-you-return",
+        "source": "H7725 (KJV: ye shall return; ESV: you shall return; NASB: you shall return)"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/אֶ֤רֶץ",
+        "phrase": "to land",
+        "literal": "to/land",
+        "source": "H776 (KJV: unto the land; ESV: to the land; NASB: to...land)"
+      },
+      {
+        "position": 19,
+        "surface": "יְרֻשַּׁתְ/כֶם֙",
+        "phrase": "of your possession",
+        "literal": "possession-your",
+        "source": "H3425 (KJV: your possession; ESV: your possession; NASB: your own land)"
+      },
+      {
+        "position": 20,
+        "surface": "וִֽ/ירִשְׁתֶּ֣ם",
+        "phrase": "and possess",
+        "literal": "and-you-possess",
+        "source": "H3423 (KJV: enjoy it; ESV: shall possess; NASB: possess)"
+      },
+      {
+        "position": 21,
+        "surface": "אוֹתָ֔/הּ",
+        "phrase": "it",
+        "literal": "[et]-it",
+        "source": "H853 (KJV: it; ESV: it; NASB: that)"
+      },
+      {
+        "position": 22,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 23,
+        "surface": "נָתַ֣ן",
+        "phrase": "gave",
+        "literal": "he-gave",
+        "source": "H5414 (KJV: gave; ESV: gave; NASB: gave)"
+      },
+      {
+        "position": 24,
+        "surface": "לָ/כֶ֗ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 25,
+        "surface": "מֹשֶׁה֙",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 26,
+        "surface": "עֶ֣בֶד",
+        "phrase": "servant",
+        "literal": "servant",
+        "source": "H5650 (KJV: servant; ESV: servant; NASB: servant)"
+      },
+      {
+        "position": 27,
+        "surface": "יְהוָ֔ה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the Lord; NASB: of the LORD)"
+      },
+      {
+        "position": 28,
+        "surface": "בְּ/עֵ֥בֶר",
+        "phrase": "beyond",
+        "literal": "in/beyond",
+        "source": "H5676 (KJV: on this side; ESV: beyond; NASB: beyond)"
+      },
+      {
+        "position": 29,
+        "surface": "הַ/יַּרְדֵּ֖ן",
+        "phrase": "the Jordan",
+        "literal": "the/Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: the Jordan; NASB: the Jordan)"
+      },
+      {
+        "position": 30,
+        "surface": "מִזְרַ֥ח",
+        "phrase": "eastward",
+        "literal": "east",
+        "source": "H4217 (KJV: toward the sunrising; ESV: toward the sunrise; NASB: toward the sunrise)"
+      },
+      {
+        "position": 31,
+        "surface": "הַ/שָּֽׁמֶשׁ",
+        "phrase": "of the sun",
+        "literal": "the/sun",
+        "source": "H8121 (KJV: sunrising; ESV: sunrise; NASB: sunrise)"
+      }
+    ]
+  }
+]

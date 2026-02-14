@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 25,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And it was",
+        "literal": "and-it-was",
+        "source": "H1961; KJV: 'And', ESV: 'And', NASB: 'Then'"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֲרֵ֣י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310; KJV: 'after', ESV: 'after', NASB: 'After'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מַּגֵּפָ֑ה",
+        "phrase": "the plague",
+        "literal": "the-plague",
+        "source": "H4046; KJV: 'the plague', ESV: 'the plague', NASB: 'the plague'"
+      }
+    ]
+  }
+]

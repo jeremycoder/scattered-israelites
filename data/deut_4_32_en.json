@@ -1,0 +1,207 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֣י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: Indeed)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁאַל",
+        "phrase": "ask",
+        "literal": "ask",
+        "source": "H7592 (KJV: ask; ESV: ask; NASB: ask)"
+      },
+      {
+        "position": 3,
+        "surface": "נָא֩",
+        "phrase": "now",
+        "literal": "please",
+        "source": "H4994 (KJV: now; ESV: now; NASB: now)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/יָמִ֨ים",
+        "phrase": "of the days",
+        "literal": "to-days",
+        "source": "H3117 (KJV: of the days; ESV: of the days; NASB: concerning the former days)"
+      },
+      {
+        "position": 5,
+        "surface": "רִֽאשֹׁנִ֜ים",
+        "phrase": "former",
+        "literal": "first-[ones]",
+        "source": "H7223 (KJV: that are past; ESV: that are past; NASB: former)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 7,
+        "surface": "הָי֣וּ",
+        "phrase": "were",
+        "literal": "were",
+        "source": "H1961 (KJV: were; ESV: were; NASB: were)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/פָנֶ֗י/ךָ",
+        "phrase": "before you",
+        "literal": "to-before-you",
+        "source": "H6440 (KJV: before thee; ESV: before you; NASB: before you)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/מִן",
+        "phrase": "since",
+        "literal": "from",
+        "source": "H4480 (KJV: since; ESV: since; NASB: since)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יּוֹם֙",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: the day; ESV: the day; NASB: the day)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר֩",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּרָ֨א",
+        "phrase": "created",
+        "literal": "created",
+        "source": "H1254 (KJV: created; ESV: created; NASB: created)"
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהִ֤ים",
+        "phrase": "God",
+        "literal": "gods",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 14,
+        "surface": "אָדָם֙",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H120 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 15,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 16,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776 (KJV: the earth; ESV: the earth; NASB: the earth)"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/לְ/מִ/קְצֵ֥ה",
+        "phrase": "and from one end",
+        "literal": "and-to-from-end",
+        "source": "H7097 (KJV: from the one; ESV: from one end; NASB: from one end)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/שָּׁמַ֖יִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: of heaven; ESV: of heaven; NASB: of the heavens)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/עַד",
+        "phrase": "to",
+        "literal": "and-to",
+        "source": "H5704 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 20,
+        "surface": "קְצֵ֣ה",
+        "phrase": "the other end",
+        "literal": "end",
+        "source": "H7097 (KJV: the other; ESV: the other; NASB: the other)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/שָּׁמָ֑יִם",
+        "phrase": "of heaven",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: of heaven; ESV: of heaven; NASB: of the heavens)"
+      },
+      {
+        "position": 22,
+        "surface": "הֲ/נִֽהְיָ֗ה",
+        "phrase": "has there been",
+        "literal": "has-been",
+        "source": "H1961 (KJV: hath been; ESV: has ever happened; NASB: has been done)"
+      },
+      {
+        "position": 23,
+        "surface": "כַּ/דָּבָ֤ר",
+        "phrase": "anything",
+        "literal": "like-the-word",
+        "source": "H1697 (KJV: any such thing; ESV: such a great thing; NASB: anything)"
+      },
+      {
+        "position": 24,
+        "surface": "הַ/גָּדוֹל֙",
+        "phrase": "great",
+        "literal": "the-great",
+        "source": "H1419 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "as this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 26,
+        "surface": "א֖וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 27,
+        "surface": "הֲ/נִשְׁמַ֥ע",
+        "phrase": "has it been heard",
+        "literal": "has-been-heard",
+        "source": "H8085 (KJV: hath been heard; ESV: was ever heard; NASB: has been heard)"
+      },
+      {
+        "position": 28,
+        "surface": "כָּמֹֽ/הוּ",
+        "phrase": "like it",
+        "literal": "like-it",
+        "source": "H3644 (KJV: like it; ESV: like it; NASB: like it)"
+      }
+    ]
+  }
+]

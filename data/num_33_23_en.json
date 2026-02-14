@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they journeyed",
+        "literal": "and-they-journeyed",
+        "source": "H5265; KJV: 'went', ESV: 'set out', NASB: 'journeyed'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/קְּהֵלָ֑תָה",
+        "phrase": "from Kehelathah",
+        "literal": "from-Kehelathah",
+        "source": "H6954; KJV: 'Kehelathah', ESV: 'Kehelathah', NASB: 'Kehelathah'"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and camped",
+        "literal": "and-they-encamped",
+        "source": "H2583; KJV: 'pitched', ESV: 'camped', NASB: 'camped'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/הַר",
+        "phrase": "at Mount",
+        "literal": "in-the-mountain",
+        "source": "H2022; KJV: 'mount', ESV: 'Mount', NASB: 'Mount'"
+      },
+      {
+        "position": 5,
+        "surface": "שָֽׁפֶר",
+        "phrase": "Shepher",
+        "literal": "Shepher",
+        "source": "H8234; KJV: 'Shapher', ESV: 'Shepher', NASB: 'Shepher'"
+      }
+    ]
+  }
+]

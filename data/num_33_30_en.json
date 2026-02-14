@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 33,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסְע֖וּ",
+        "phrase": "And they set out",
+        "literal": "and-they-set-out",
+        "source": "H5265 (KJV: departed; ESV/NASB: set out)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵֽ/חַשְׁמֹנָ֑ה",
+        "phrase": "from Hashmonah",
+        "literal": "from-Hashmonah",
+        "source": "H2832 (KJV: Hashmonah; ESV/NASB: Hashmonah)"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יַּחֲנ֖וּ",
+        "phrase": "and they encamped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (KJV: encamped; ESV/NASB: camped)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/מֹסֵרֽוֹת",
+        "phrase": "at Moseroth",
+        "literal": "in-Moseroth",
+        "source": "H4149 (KJV: Moseroth; ESV/NASB: Moseroth)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/שְּׁפֵלָ֑ה",
+        "phrase": "in the lowland",
+        "literal": "in-the-Shephelah",
+        "source": "H8219; KJV: 'in the valley', ESV/NASB: 'in the lowland'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶשְׁתָּא֥וֹל",
+        "phrase": "Eshtaol",
+        "literal": "Eshtaol",
+        "source": "H847; KJV/ESV/NASB: 'Eshtaol'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/צָרְעָ֖ה",
+        "phrase": "and Zorah",
+        "literal": "and-Zorah",
+        "source": "H6881; KJV: 'and Zoreah', ESV/NASB: 'and Zorah'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַשְׁנָֽה",
+        "phrase": "and Ashnah",
+        "literal": "and-Ashnah",
+        "source": "H823; KJV/ESV/NASB: 'and Ashnah'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "because of",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'Nevertheless'; ESV: 'Nevertheless'; NASB: 'Nevertheless')"
+      },
+      {
+        "position": 2,
+        "surface": "דְּבַ֞ר",
+        "phrase": "the word",
+        "literal": "word",
+        "source": "H1697 (KJV: 'word'; ESV: implied; NASB: implied in context)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: 'that'; ESV: 'that'; NASB: 'that')"
+      },
+      {
+        "position": 4,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 5,
+        "surface": "קִדְּמ֤וּ",
+        "phrase": "they met",
+        "literal": "before-you(pl)",
+        "source": "H6923 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶתְ/כֶם֙",
+        "phrase": "you",
+        "literal": "obj-marker/you(pl)",
+        "source": "H853 (KJV: 'you'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/לֶּ֣חֶם",
+        "phrase": "with bread",
+        "literal": "in/definite-bread",
+        "source": "H3899 (KJV: 'bread'; ESV: 'bread'; NASB: 'bread')"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בַ/מַּ֔יִם",
+        "phrase": "and with water",
+        "literal": "and/in/definite-waters",
+        "source": "H4325 (KJV: 'water'; ESV: 'water'; NASB: 'water')"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/דֶּ֖רֶךְ",
+        "phrase": "in the way",
+        "literal": "in/definite-way",
+        "source": "H1870 (KJV: 'way'; ESV: 'way'; NASB: 'way')"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/צֵאתְ/כֶ֣ם",
+        "phrase": "when you went out",
+        "literal": "in/go.out/you(pl)",
+        "source": "H3318 (KJV: 'went out'; ESV: 'came out'; NASB: 'came out')"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from/Egypt",
+        "source": "H4714 (KJV: 'Egypt'; ESV: 'Egypt'; NASB: 'Egypt')"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/אֲשֶׁר֩",
+        "phrase": "and that",
+        "literal": "and-which",
+        "source": "H834 (KJV: 'and'; ESV: 'but'; NASB: 'but')"
+      },
+      {
+        "position": 13,
+        "surface": "שָׂכַ֨ר",
+        "phrase": "hired",
+        "literal": "hire",
+        "source": "H7936 (KJV: 'hired'; ESV: 'listen to'; NASB: 'listen to')"
+      },
+      {
+        "position": 14,
+        "surface": "עָלֶ֜י/ךָ",
+        "phrase": "against you",
+        "literal": "upon/you(sg)",
+        "source": "H5921 (KJV: 'against thee'; ESV: 'to Balaam'; NASB: 'to Balaam')"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "obj-marker",
+        "source": "H853 (KJV: 'Balaam'; ESV: 'Balaam'; NASB: 'Balaam')"
+      },
+      {
+        "position": 16,
+        "surface": "בִּלְעָ֣ם",
+        "phrase": "Balaam",
+        "literal": "Balaam",
+        "source": "H1109 (KJV: 'Balaam'; ESV: 'Balaam'; NASB: 'Balaam')"
+      },
+      {
+        "position": 17,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV: 'son'; ESV: 'son'; NASB: 'son')"
+      },
+      {
+        "position": 18,
+        "surface": "בְּע֗וֹר",
+        "phrase": "of Beor",
+        "literal": "Beor",
+        "source": "H1160 (KJV: 'Beor'; ESV: 'Beor'; NASB: 'Beor')"
+      },
+      {
+        "position": 19,
+        "surface": "מִ/פְּת֛וֹר",
+        "phrase": "from Pethor",
+        "literal": "from/Pethor",
+        "source": "H6604 (KJV: 'Pethor'; ESV: 'Pethor'; NASB: 'Pethor')"
+      },
+      {
+        "position": 20,
+        "surface": "אֲרַ֥ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "H763 (KJV: 'Mesopotamia'; ESV: 'Mesopotamia'; NASB: 'Mesopotamia')"
+      },
+      {
+        "position": 21,
+        "surface": "נַהֲרַ֖יִם",
+        "phrase": "of [the] two rivers",
+        "literal": "two-rivers",
+        "source": "H763 (KJV: 'Mesopotamia'; ESV: 'Mesopotamia'; NASB: 'Mesopotamia')"
+      },
+      {
+        "position": 22,
+        "surface": "לְ/קַֽלְלֶֽ/ךָּ",
+        "phrase": "to curse you",
+        "literal": "to/curse/you(sg)",
+        "source": "H7043 (KJV: 'curse'; ESV: 'curse'; NASB: 'curse')"
+      }
+    ]
+  }
+]

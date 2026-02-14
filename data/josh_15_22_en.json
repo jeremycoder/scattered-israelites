@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/קִינָ֥ה",
+        "phrase": "and Kinah",
+        "literal": "and-Kinah",
+        "source": "H7016 (KJV: Kinah; ESV: Kinah; NASB: Kinah)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/דִֽימוֹנָ֖ה",
+        "phrase": "and Dimonah",
+        "literal": "and-Dimonah",
+        "source": "H1776 (KJV: Dimonah; ESV: Dimonah; NASB: Dimonah)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/עַדְעָדָֽה",
+        "phrase": "and Adadah",
+        "literal": "and-Adadah",
+        "source": "H5735 (KJV: Adadah; ESV: Adadah; NASB: Adadah)"
+      }
+    ]
+  }
+]

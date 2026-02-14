@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וָ/אֹמַ֖ר",
+        "phrase": "And I said",
+        "literal": "and-I-said",
+        "source": "H559 (KJV: 'And I said'; ESV: 'And I said'; NASB: 'I said')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲלֵ/כֶ֑ם",
+        "phrase": "to you",
+        "literal": "to-you(pl)",
+        "source": "H413 (KJV: 'unto you'; ESV: 'to you'; NASB: 'to you')"
+      },
+      {
+        "position": 3,
+        "surface": "בָּאתֶם֙",
+        "phrase": "You have come",
+        "literal": "you(pl)-have-come",
+        "source": "H935 (KJV: 'Ye are come'; ESV: 'You have come'; NASB: 'You have come')"
+      },
+      {
+        "position": 4,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H5704 (KJV: 'unto'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ֣ר",
+        "phrase": "the hill country",
+        "literal": "the-mountain",
+        "source": "H2022 (KJV: 'mountain'; ESV: 'hill country'; NASB: 'hill country')"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֱמֹרִ֔י",
+        "phrase": "of the Amorites",
+        "literal": "the-Amorite",
+        "source": "H567 (KJV: 'of the Amorites'; ESV: 'of the Amorites'; NASB: 'of the Amorites')"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'which'; NASB: 'which')"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the Lord'; NASB: 'the LORD')"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֵ֖י/נוּ",
+        "phrase": "our God",
+        "literal": "God-our",
+        "source": "H430 (KJV: 'our God'; ESV: 'our God'; NASB: 'our God')"
+      },
+      {
+        "position": 10,
+        "surface": "נֹתֵ֥ן",
+        "phrase": "is giving",
+        "literal": "giving",
+        "source": "H5414 (KJV: 'doth give'; ESV: 'is giving'; NASB: 'is about to give')"
+      },
+      {
+        "position": 11,
+        "surface": "לָֽ/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": " (KJV: 'unto us'; ESV: 'us'; NASB: 'us')"
+      }
+    ]
+  }
+]

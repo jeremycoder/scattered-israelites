@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 5,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אכְל֜וּ",
+        "phrase": "and they ate",
+        "literal": "and-they-ate",
+        "source": "H398 (KJV: did eat; ESV: ate; NASB: ate)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/עֲב֥וּר",
+        "phrase": "of the produce",
+        "literal": "from-produce-of",
+        "source": "H5669 (KJV: of the old corn; ESV: of the produce; NASB: of the produce)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אָ֛רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "H776 (KJV: of the land; ESV: of the land; NASB: of the land)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/מָּֽחֳרַ֥ת",
+        "phrase": "on the morrow",
+        "literal": "from-the-morrow-of",
+        "source": "H4283 (KJV: on the morrow; ESV: the day after; NASB: on the day after)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/פֶּ֖סַח",
+        "phrase": "of the Passover",
+        "literal": "the-Passover",
+        "source": "H6453 (KJV: after the passover; ESV: Passover; NASB: Passover)"
+      },
+      {
+        "position": 6,
+        "surface": "מַצּ֣וֹת",
+        "phrase": "unleavened bread",
+        "literal": "unleavened-cakes",
+        "source": "H4682 (KJV: unleavened cakes; ESV: unleavened bread; NASB: unleavened cakes)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קָל֑וּי",
+        "phrase": "and roasted grain",
+        "literal": "and-roasted",
+        "source": "H7033 (KJV: parched corn; ESV: roasted grain; NASB: parched grain)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/עֶ֖צֶם",
+        "phrase": "on the bone of",
+        "literal": "in-bone-of",
+        "source": "H6106 (KJV: in the selfsame; ESV: on that very; NASB: on that very)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: day; ESV: day; NASB: day)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: selfsame; ESV: very; NASB: very)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 23,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יָד֨וֹעַ֙",
+        "phrase": "know",
+        "literal": "to-know",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 2,
+        "surface": "תֵּֽדְע֔וּ",
+        "phrase": "you-will-know",
+        "literal": "you(pl)-will-know",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֩י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֨א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: no; NASB: no)"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹסִ֜יף",
+        "phrase": "will-add",
+        "literal": "he-will-add",
+        "source": "H3254 (KJV: drive out any more; ESV: drive out; NASB: drive out)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהֵי/כֶ֗ם",
+        "phrase": "God-of-you(pl)",
+        "literal": "gods-of-you(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/הוֹרִ֛ישׁ",
+        "phrase": "to-dispossess",
+        "literal": "to-cause-to-possess",
+        "source": "H3423 (KJV: drive out; ESV: dispossess; NASB: dispossess)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/גּוֹיִ֥ם",
+        "phrase": "the-nations",
+        "literal": "the-nations",
+        "source": "H1471 (KJV: nations; ESV: nations; NASB: nations)"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428 (KJV: these; ESV: these; NASB: these)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/לִּ/פְנֵי/כֶ֑ם",
+        "phrase": "from-before-you(pl)",
+        "literal": "from-before-you(pl)",
+        "source": "H6440 (KJV: before you; ESV: before you; NASB: before you)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/הָי֨וּ",
+        "phrase": "and-they-will-be",
+        "literal": "and-they-will-be",
+        "source": "H1961 (KJV: shall be; ESV: shall be; NASB: shall be)"
+      },
+      {
+        "position": 14,
+        "surface": "לָ/כֶ֜ם",
+        "phrase": "to-you(pl)",
+        "literal": "to-you(pl)",
+        "source": " (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 15,
+        "surface": "לְ/פַ֣ח",
+        "phrase": "for-snares",
+        "literal": "for-snare",
+        "source": "H6341 (KJV: snares; ESV: snares; NASB: snares)"
+      },
+      {
+        "position": 16,
+        "surface": "וּ/לְ/מוֹקֵ֗שׁ",
+        "phrase": "and-for-traps",
+        "literal": "and-for-trap",
+        "source": "H4170 (KJV: traps; ESV: traps; NASB: traps)"
+      },
+      {
+        "position": 17,
+        "surface": "וּ/לְ/שֹׁטֵ֤ט",
+        "phrase": "and-for-scourges",
+        "literal": "and-for-thorn",
+        "source": "H7850 (KJV: scourges; ESV: goads; NASB: goads)"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/צִדֵּי/כֶם֙",
+        "phrase": "in-sides-your(pl)",
+        "literal": "in-sides-your(pl)",
+        "source": "H6654 (KJV: in your sides; ESV: in your sides; NASB: in your sides)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/לִ/צְנִנִ֣ים",
+        "phrase": "and-for-thorns",
+        "literal": "and-for-thorns",
+        "source": "H6796 (KJV: thorns; ESV: thorns; NASB: thorns)"
+      },
+      {
+        "position": 20,
+        "surface": "בְּ/עֵינֵי/כֶ֔ם",
+        "phrase": "in-eyes-your(pl)",
+        "literal": "in-eyes-your(pl)",
+        "source": "H5869 (KJV: in your eyes; ESV: in your eyes; NASB: in your eyes)"
+      },
+      {
+        "position": 21,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 22,
+        "surface": "אֲבָדְ/כֶ֗ם",
+        "phrase": "perishing-your(pl)",
+        "literal": "perishing-you(pl)",
+        "source": "H6 (KJV: ye perish; ESV: you perish; NASB: you perish)"
+      },
+      {
+        "position": 23,
+        "surface": "מֵ֠/עַל",
+        "phrase": "from-upon",
+        "literal": "from-upon",
+        "source": "H5921 (KJV: from off; ESV: from; NASB: from)"
+      },
+      {
+        "position": 24,
+        "surface": "הָ/אֲדָמָ֤ה",
+        "phrase": "the-ground",
+        "literal": "the-ground",
+        "source": "H127 (KJV: the land; ESV: the land; NASB: the land)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/טּוֹבָה֙",
+        "phrase": "the-good",
+        "literal": "the-good",
+        "source": "H2896 (KJV: good; ESV: good; NASB: good)"
+      },
+      {
+        "position": 26,
+        "surface": "הַ/זֹּ֔את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 27,
+        "surface": "אֲשֶׁר֙",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 28,
+        "surface": "נָתַ֣ן",
+        "phrase": "he-gave",
+        "literal": "he-has-given",
+        "source": "H5414 (KJV: hath given; ESV: has given; NASB: has given)"
+      },
+      {
+        "position": 29,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to-you(pl)",
+        "literal": "to-you(pl)",
+        "source": " (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 30,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 31,
+        "surface": "אֱלֹהֵי/כֶֽם",
+        "phrase": "God-of-you(pl)",
+        "literal": "gods-of-you(pl)",
+        "source": "H430 (KJV: your God; ESV: your God; NASB: your God)"
+      }
+    ]
+  }
+]

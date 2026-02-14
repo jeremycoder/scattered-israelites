@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 15,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַל",
+        "phrase": "and he went up",
+        "literal": "and-he-went-up",
+        "source": "H5927 (KJV: went up; ESV: marched; NASB: went up)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁ֔ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033 (KJV: from thence; ESV: from there; NASB: from there)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "against",
+        "literal": "to",
+        "source": "H413 (KJV: against; ESV: against; NASB: against)"
+      },
+      {
+        "position": 4,
+        "surface": "יֹשְׁבֵ֖י",
+        "phrase": "inhabitants of",
+        "literal": "inhabitants-of",
+        "source": "H3427 (KJV: inhabitants; ESV: inhabitants; NASB: inhabitants)"
+      },
+      {
+        "position": 5,
+        "surface": "דְּבִ֑ר",
+        "phrase": "Debir",
+        "literal": "Debir",
+        "source": "H1688 (KJV: Debir; ESV: Debir; NASB: Debir)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שֵׁם",
+        "phrase": "and name",
+        "literal": "and-name-of",
+        "source": "H8034 (KJV: and the name; ESV: formerly; NASB: and the name)"
+      },
+      {
+        "position": 7,
+        "surface": "דְּבִ֥ר",
+        "phrase": "Debir",
+        "literal": "Debir",
+        "source": "H1688 (KJV: of Debir; ESV: Debir; NASB: of Debir)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/פָנִ֖ים",
+        "phrase": "formerly",
+        "literal": "to-formerly",
+        "source": "H6440 (KJV: beforetime; ESV: formerly; NASB: formerly)"
+      },
+      {
+        "position": 9,
+        "surface": "קִרְיַת",
+        "phrase": "Kiriath",
+        "literal": "city-of",
+        "source": "H7158 (KJV: Kirjath; ESV: Kiriath; NASB: Kiriath)"
+      },
+      {
+        "position": 10,
+        "surface": "סֵֽפֶר",
+        "phrase": "Sepher",
+        "literal": "Sepher",
+        "source": "H7158 (KJV: Sepher; ESV: sepher; NASB: sepher)"
+      }
+    ]
+  }
+]

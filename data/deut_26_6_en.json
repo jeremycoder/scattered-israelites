@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 26,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּרֵ֧עוּ",
+        "phrase": "and they did evil to",
+        "literal": "and-they-did-evil",
+        "source": "H7489; KJV: 'evil entreated', ESV: 'evil', NASB: 'mishandled'"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֛/נוּ",
+        "phrase": "us",
+        "literal": "_us",
+        "source": "H853; KJV/ESV/NASB: 'us' (direct object marker)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מִּצְרִ֖ים",
+        "phrase": "the Egyptians",
+        "literal": "the-Egyptians",
+        "source": "H4713; KJV/ESV/NASB: 'the Egyptians'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יְעַנּ֑וּ/נוּ",
+        "phrase": "and they afflicted us",
+        "literal": "and-they-afflicted_us",
+        "source": "H6031; KJV: 'vexed', ESV/NASB: 'afflicted'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּתְּנ֥וּ",
+        "phrase": "and they imposed",
+        "literal": "and-they-gave",
+        "source": "H5414; KJV/ESV/NASB: 'laid'/'imposed'/'put'"
+      },
+      {
+        "position": 6,
+        "surface": "עָלֵ֖י/נוּ",
+        "phrase": "upon us",
+        "literal": "upon_us",
+        "source": "H5921; KJV/ESV/NASB: 'upon us'"
+      },
+      {
+        "position": 7,
+        "surface": "עֲבֹדָ֥ה",
+        "phrase": "service",
+        "literal": "service",
+        "source": "H5656; KJV/ESV/NASB: 'bondage'/'service'/'bondservice'"
+      },
+      {
+        "position": 8,
+        "surface": "קָשָֽׁה",
+        "phrase": "hard",
+        "literal": "hard",
+        "source": "H7186; KJV/ESV/NASB: 'hard'/'grievous'/'rigorous'"
+      }
+    ]
+  }
+]

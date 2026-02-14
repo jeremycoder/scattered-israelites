@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 16,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-was",
+        "source": "H1961; KJV: 'And it came to pass', ESV: 'And as soon as', NASB: 'As soon as'"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/כַלֹּת֔/וֹ",
+        "phrase": "as he finished",
+        "literal": "as-finishing-his",
+        "source": "H3615; KJV: 'as he had made an end', ESV: 'he had finished', NASB: 'he finished'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/דַבֵּ֕ר",
+        "phrase": "speaking",
+        "literal": "to-speak",
+        "source": "H1696; KJV: 'of speaking', ESV: 'speaking', NASB: 'saying'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֥ת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (untranslated marker before 'all')"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: 'all', ESV: 'all', NASB: 'all'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דְּבָרִ֖ים",
+        "phrase": "the words",
+        "literal": "the-words",
+        "source": "H1697; KJV: 'these words', ESV: 'these words', NASB: 'these words'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֵ֑לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428; KJV: 'these', ESV: 'these', NASB: 'this'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/תִּבָּקַ֥ע",
+        "phrase": "split open",
+        "literal": "and-split",
+        "source": "H1234; KJV: 'clave asunder', ESV: 'split apart', NASB: 'split open'"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֲדָמָ֖ה",
+        "phrase": "the ground",
+        "literal": "the-ground",
+        "source": "H127; KJV: 'the ground', ESV: 'the ground', NASB: 'the ground'"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834; KJV: 'that was', ESV: 'that was', NASB: 'that was'"
+      },
+      {
+        "position": 11,
+        "surface": "תַּחְתֵּי/הֶֽם",
+        "phrase": "under them",
+        "literal": "under-them",
+        "source": "H8478; KJV: 'under them', ESV: 'under them', NASB: 'beneath them'"
+      }
+    ]
+  }
+]

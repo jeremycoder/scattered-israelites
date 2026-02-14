@@ -1,0 +1,95 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֥ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "אוֹתָ֣/ם",
+        "phrase": "them",
+        "literal": "[direct object marker]-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/קֵּ֣ץ",
+        "phrase": "at the end of",
+        "literal": "from-end-of",
+        "source": "H7093 (KJV: end; ESV: end; NASB: end)"
+      },
+      {
+        "position": 6,
+        "surface": "שֶׁ֣בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "H7651 (KJV: seven; ESV: seven; NASB: seven)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנִ֗ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "H8141 (KJV: years; ESV: years; NASB: years)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/מֹעֵ֛ד",
+        "phrase": "at the appointed time",
+        "literal": "in-appointed time",
+        "source": "H4150 (KJV: solemnity; ESV: set time; NASB: appointed time)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁנַ֥ת",
+        "phrase": "year",
+        "literal": "year-of",
+        "source": "H8141 (KJV: year; ESV: year; NASB: year)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שְּׁמִטָּ֖ה",
+        "phrase": "of release",
+        "literal": "the-release",
+        "source": "H8059 (KJV: release; ESV: release; NASB: release)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/חַ֥ג",
+        "phrase": "in the festival",
+        "literal": "in-festival",
+        "source": "H2282 (KJV: feast; ESV: Feast; NASB: Feast)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/סֻּכּֽוֹת",
+        "phrase": "of Tabernacles",
+        "literal": "the-Tabernacles",
+        "source": "H5521 (KJV: tabernacles; ESV: Booths; NASB: Tabernacles)"
+      }
+    ]
+  }
+]

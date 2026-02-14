@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 25,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֕וּ",
+        "phrase": "and they were",
+        "literal": "and-they-were",
+        "source": "H1961; KJV: 'And those', ESV: 'those who', NASB: 'Those who'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֵּתִ֖ים",
+        "phrase": "the dead ones",
+        "literal": "the-dying-ones",
+        "source": "H4191; KJV: 'that died', ESV: 'died', NASB: 'died'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/מַּגֵּפָ֑ה",
+        "phrase": "in the plague",
+        "literal": "in-the-plague",
+        "source": "H4046; KJV: 'in the plague', ESV: 'by the plague', NASB: 'by the plague'"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבָּעָ֥ה",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702; KJV: 'four', ESV: 'twenty-four', NASB: '24' (part of number)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עֶשְׂרִ֖ים",
+        "phrase": "and twenty",
+        "literal": "and-twenty",
+        "source": "H6242; KJV: 'twenty and four', ESV: 'twenty-four', NASB: '24' (part of number)"
+      },
+      {
+        "position": 6,
+        "surface": "אָֽלֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV: 'thousand', ESV: 'thousand', NASB: '24,000'"
+      }
+    ]
+  }
+]

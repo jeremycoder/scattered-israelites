@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 28,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָר֥וּר",
+        "phrase": "Cursed shall be",
+        "literal": "cursed",
+        "source": "H779; KJV: Cursed[1][4], ESV: Cursed[2], NASB: Cursed[8]"
+      },
+      {
+        "position": 2,
+        "surface": "טַנְאֲ/ךָ֖",
+        "phrase": "your basket",
+        "literal": "basket-your",
+        "source": "H2935; KJV: thy basket[1][4], ESV: your basket[2], NASB: your basket[8]"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מִשְׁאַרְתֶּֽ/ךָ",
+        "phrase": "and your kneading bowl",
+        "literal": "and-kneading.bowl-your",
+        "source": "H4863; KJV: thy store[1], ESV: your kneading bowl[2][5], NASB: your kneading bowl[8]"
+      }
+    ]
+  }
+]

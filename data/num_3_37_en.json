@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַמֻּדֵ֧י",
+        "phrase": "and the posts",
+        "literal": "and-posts-of",
+        "source": "H5982 (KJV: pillars; ESV: pillars; NASB: pillars)"
+      },
+      {
+        "position": 2,
+        "surface": "הֶ/חָצֵ֛ר",
+        "phrase": "of the courtyard",
+        "literal": "the-courtyard",
+        "source": "H2691 (KJV: court; ESV: court; NASB: court)"
+      },
+      {
+        "position": 3,
+        "surface": "סָבִ֖יב",
+        "phrase": "around",
+        "literal": "around",
+        "source": "H5439 (KJV: round about; ESV: around; NASB: around)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אַדְנֵי/הֶ֑ם",
+        "phrase": "and their bases",
+        "literal": "and-bases-their",
+        "source": "H134 (KJV: sockets; ESV: bases; NASB: sockets)"
+      },
+      {
+        "position": 5,
+        "surface": "וִ/יתֵדֹתָ֖/ם",
+        "phrase": "and their pegs",
+        "literal": "and-pegs-their",
+        "source": "H3489 (KJV: pins; ESV: pegs; NASB: pegs)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מֵֽיתְרֵי/הֶֽם",
+        "phrase": "and their cords",
+        "literal": "and-cords-their",
+        "source": "H4340 (KJV: cords; ESV: cords; NASB: cords)"
+      }
+    ]
+  }
+]

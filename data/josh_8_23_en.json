@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 8,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: (implied); NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עַ֖י",
+        "phrase": "of Ai",
+        "literal": "the-Ai",
+        "source": "H5857 (KJV: of Ai; ESV: of Ai; NASB: of Ai)"
+      },
+      {
+        "position": 4,
+        "surface": "תָּ֣פְשׂוּ",
+        "phrase": "they took",
+        "literal": "they-seized",
+        "source": "H8610 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 5,
+        "surface": "חָ֑י",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "H2416 (KJV: alive; ESV: alive; NASB: alive)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּקְרִ֥בוּ",
+        "phrase": "and brought",
+        "literal": "and-they-caused-to-approach",
+        "source": "H7126 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 7,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "obj-him",
+        "source": "H853 (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוֹשֻֽׁעַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: Joshua; ESV: Joshua; NASB: Joshua)"
+      }
+    ]
+  }
+]

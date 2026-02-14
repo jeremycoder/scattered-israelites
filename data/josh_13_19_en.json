@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 13,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/קִרְיָתַ֣יִם",
+        "phrase": "and Kiriathaim",
+        "literal": "and-Kiriathaim",
+        "source": "H7156; KJV: Kiriathaim, ESV: Kiriathaim, NASB: Kiriathaim"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/שִׂבְמָ֔ה",
+        "phrase": "and Sibmah",
+        "literal": "and-Sibmah",
+        "source": "H7643; KJV: Sibmah, ESV: Sibmah, NASB: Sibmah"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/צֶ֥רֶת",
+        "phrase": "and Zereth",
+        "literal": "and-Zereth",
+        "source": "H6890; KJV: Zereth-shahar (composite), ESV: Zereth-shahar (composite), NASB: Zereth-shahar (composite)"
+      },
+      {
+        "position": 4,
+        "surface": "הַשַּׁ֖חַר",
+        "phrase": "Shahar",
+        "literal": "the-Shahar",
+        "source": "H6890; KJV: Zereth-shahar (composite), ESV: Zereth-shahar (composite), NASB: Zereth-shahar (composite)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/הַ֥ר",
+        "phrase": "in the hill",
+        "literal": "in-the-hill",
+        "source": "H2022; KJV: in the mount, ESV: in the mount, NASB: on the hill"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עֵֽמֶק",
+        "phrase": "of the valley",
+        "literal": "the-valley",
+        "source": "H6010; KJV: of the valley, ESV: of the valley, NASB: of the valley"
+      }
+    ]
+  }
+]

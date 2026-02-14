@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 4,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'When'; NASB: 'Now when')"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "H834 (KJV: 'when'; ESV: 'had finished'; NASB: 'had finished')"
+      },
+      {
+        "position": 3,
+        "surface": "תַּ֣מּוּ",
+        "phrase": "had finished",
+        "literal": "they-completed",
+        "source": "H8552 (KJV: 'were clean passed'; ESV: 'passing over'; NASB: 'crossing')"
+      },
+      {
+        "position": 4,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גּ֔וֹי",
+        "phrase": "the nation",
+        "literal": "the-nation",
+        "source": "H1471 (KJV: 'the people'; ESV: 'the nation'; NASB: 'the nation')"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/עֲב֖וֹר",
+        "phrase": "to cross over",
+        "literal": "to-cross",
+        "source": "H5674 (KJV: 'passed over'; ESV: 'passing over'; NASB: 'crossing')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted; untranslatable marker)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יַּרְדֵּ֑ן",
+        "phrase": "the Jordan",
+        "literal": "the-Jordan",
+        "source": "H3383 (KJV: 'Jordan'; ESV: 'the Jordan'; NASB: 'the Jordan')"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: 'the LORD spake'; ESV: 'the Lord said'; NASB: 'the LORD spoke')"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the Lord'; NASB: 'the LORD')"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'unto'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוֹשֻׁ֖עַ",
+        "phrase": "Joshua",
+        "literal": "Joshua",
+        "source": "H3091 (KJV: 'Joshua'; ESV: 'Joshua'; NASB: 'Joshua')"
+      },
+      {
+        "position": 13,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: omitted; NASB: 'saying')"
+      }
+    ]
+  }
+]

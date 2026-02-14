@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 3,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּפְקֹ֥ד",
+        "phrase": "and numbered",
+        "literal": "and-he-numbered",
+        "source": "H6485 (KJV: numbered; ESV: listed; NASB: numbered)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹתָ֛/ם",
+        "phrase": "them",
+        "literal": "-them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשֶׁ֖ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "according to",
+        "literal": "upon",
+        "source": "H5921 (KJV: according to; ESV: according to; NASB: according to)"
+      },
+      {
+        "position": 5,
+        "surface": "פִּ֣י",
+        "phrase": "the word of",
+        "literal": "mouth-of",
+        "source": "H6310 (KJV: word; ESV: word; NASB: word)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "כַּ/אֲשֶׁ֖ר",
+        "phrase": "as",
+        "literal": "as-that-which",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 8,
+        "surface": "צֻוָּֽה",
+        "phrase": "he was commanded",
+        "literal": "he-was-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      }
+    ]
+  }
+]

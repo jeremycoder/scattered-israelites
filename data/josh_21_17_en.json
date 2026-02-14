@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִ/מַּטֵּ֣ה",
+        "phrase": "and from the tribe",
+        "literal": "and-from-tribe",
+        "source": "H4294 (KJV: tribe; ESV: tribe; NASB: tribe)"
+      },
+      {
+        "position": 2,
+        "surface": "בִנְיָמִ֔ן",
+        "phrase": "of Benjamin",
+        "literal": "Benjamin",
+        "source": "H1144 (KJV: Benjamin; ESV: Benjamin; NASB: Benjamin)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "גִּבְע֖וֹן",
+        "phrase": "Gibeon",
+        "literal": "Gibeon",
+        "source": "H1391 (KJV: Gibeon; ESV: Gibeon; NASB: Gibeon)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative marker]",
+        "source": "H853 (KJV: and; ESV: with; NASB: with)"
+      },
+      {
+        "position": 6,
+        "surface": "מִגְרָשֶׁ֑/הָ",
+        "phrase": "its pastureland",
+        "literal": "pastureland-its",
+        "source": "H4054 (KJV: suburbs; ESV: pasturelands; NASB: pasture lands)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "גֶּ֖בַע",
+        "phrase": "Geba",
+        "literal": "Geba",
+        "source": "H1387 (KJV: Geba; ESV: Geba; NASB: Geba)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative marker]",
+        "source": "H853 (KJV: and; ESV: with; NASB: with)"
+      },
+      {
+        "position": 10,
+        "surface": "מִגְרָשֶֽׁ/הָ",
+        "phrase": "its pastureland",
+        "literal": "pastureland-its",
+        "source": "H4054 (KJV: suburbs; ESV: pasturelands; NASB: pasture lands)"
+      }
+    ]
+  }
+]

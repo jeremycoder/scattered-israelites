@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 21,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (implied in 'Aijalon')"
+      },
+      {
+        "position": 2,
+        "surface": "אַיָּלוֹן֙",
+        "phrase": "Aijalon",
+        "literal": "Aijalon",
+        "source": "H357; KJV/ESV/NASB: Aijalon"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (Aijalon)"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְרָשֶׁ֔/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054; KJV: suburbs, ESV/NASB: pasturelands"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (implied in 'Gath-rimmon')"
+      },
+      {
+        "position": 6,
+        "surface": "גַּת",
+        "phrase": "Gath",
+        "literal": "Gath",
+        "source": "H1667; KJV/ESV/NASB: Gath- (in Gathrimmon)"
+      },
+      {
+        "position": 7,
+        "surface": "רִמּ֖וֹן",
+        "phrase": "Rimmon",
+        "literal": "Rimmon",
+        "source": "H1667; KJV/ESV/NASB: -rimmon (in Gathrimmon)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: and (Gath-rimmon)"
+      },
+      {
+        "position": 9,
+        "surface": "מִגְרָשֶׁ֑/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054; KJV: suburbs, ESV/NASB: pasturelands"
+      },
+      {
+        "position": 10,
+        "surface": "עָרִ֖ים",
+        "phrase": "cities",
+        "literal": "cities",
+        "source": "H5892; KJV/ESV/NASB: cities"
+      },
+      {
+        "position": 11,
+        "surface": "אַרְבַּֽע",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702; KJV/ESV/NASB: four"
+      }
+    ]
+  }
+]

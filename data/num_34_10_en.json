@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 34,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִתְאַוִּיתֶ֥ם",
+        "phrase": "you shall mark out",
+        "literal": "and-you-shall-mark-out",
+        "source": "H184; KJV: 'ye shall point out', ESV: 'draw a line', NASB: 'draw a line'"
+      },
+      {
+        "position": 2,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "for yourselves",
+        "literal": "to-you",
+        "source": "; KJV: 'your', ESV: 'your', NASB: 'your'"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/גְב֣וּל",
+        "phrase": "boundary",
+        "literal": "to-boundary",
+        "source": "H1366; KJV: 'border', ESV: 'border', NASB: 'border'"
+      },
+      {
+        "position": 4,
+        "surface": "קֵ֑דְמָ/ה",
+        "phrase": "eastward",
+        "literal": "eastward",
+        "source": "H6924; KJV: 'east', ESV: 'eastern', NASB: 'eastern'"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/חֲצַ֥ר",
+        "phrase": "from Hazar",
+        "literal": "from-enclosure",
+        "source": "H2704; KJV: 'from Hazarenan', ESV: 'from Hazar-enan', NASB: 'from Hazar-enan'"
+      },
+      {
+        "position": 6,
+        "surface": "עֵינָ֖ן",
+        "phrase": "Enan",
+        "literal": "Enan",
+        "source": "H2704; KJV: 'Hazarenan', ESV: 'Hazar-enan', NASB: 'Hazar-enan'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁפָֽמָ/ה",
+        "phrase": "to Shepham",
+        "literal": "to-Shepham",
+        "source": "H8221; KJV: 'Shepham', ESV: 'Shepham', NASB: 'Shepham'"
+      }
+    ]
+  }
+]

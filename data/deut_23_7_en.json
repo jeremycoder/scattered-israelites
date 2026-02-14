@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תִדְרֹ֥שׁ",
+        "phrase": "seek",
+        "literal": "seek-2ms",
+        "source": "H1875 (KJV: seek; ESV: seek; NASB: seek)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹמָ֖/ם",
+        "phrase": "their peace",
+        "literal": "peace-their",
+        "source": "H7965 (KJV: peace; ESV: peace; NASB: welfare)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/טֹבָתָ֑/ם",
+        "phrase": "or their good",
+        "literal": "and-good-their",
+        "source": "H2896 (KJV: good; ESV: good; NASB: benefit)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "יָמֶ֖י/ךָ",
+        "phrase": "your days",
+        "literal": "days-your",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/עוֹלָֽם",
+        "phrase": "forever",
+        "literal": "to-ever",
+        "source": "H5769 (KJV: ever; ESV: ever; NASB: forever)"
+      }
+    ]
+  }
+]

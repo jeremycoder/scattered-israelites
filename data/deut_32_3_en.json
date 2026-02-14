@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 32,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֛י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֥ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶקְרָ֑א",
+        "phrase": "I will proclaim",
+        "literal": "I-will-call",
+        "source": "H7121 (KJV: I will publish; ESV: I will proclaim; NASB: I will proclaim)"
+      },
+      {
+        "position": 5,
+        "surface": "הָב֥וּ",
+        "phrase": "Ascribe",
+        "literal": "give!-2mp",
+        "source": "H3051 (KJV: give; ESV: ascribe; NASB: ascribe)"
+      },
+      {
+        "position": 6,
+        "surface": "גֹ֖דֶל",
+        "phrase": "greatness",
+        "literal": "greatness",
+        "source": "H1433 (KJV: greatness; ESV: greatness; NASB: greatness)"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אלֹהֵֽי/נוּ",
+        "phrase": "to our God",
+        "literal": "to/gods-our",
+        "source": "H430 (KJV: unto our God; ESV: to our God; NASB: to our God)"
+      }
+    ]
+  }
+]

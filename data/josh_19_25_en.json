@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 19,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And their territory was",
+        "literal": "and-was",
+        "source": "H1961 (KJV: 'And their border was'; ESV: 'Their territory included'; NASB: 'Their territory was')"
+      },
+      {
+        "position": 2,
+        "surface": "גְּבוּלָ֑/ם",
+        "phrase": "their border",
+        "literal": "border-their",
+        "source": "H1366 (KJV: 'border'; ESV: 'territory'; NASB: 'territory')"
+      },
+      {
+        "position": 3,
+        "surface": "חֶלְקַ֥ת",
+        "phrase": "Helkath",
+        "literal": "Helkath",
+        "source": "H2520 (KJV: 'Helkath'; ESV: 'Helkath'; NASB: 'Helkath')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/חֲלִ֖י",
+        "phrase": "and Hali",
+        "literal": "and-Hali",
+        "source": "H2482 (KJV: 'and Hali'; ESV: 'Hali'; NASB: 'and Hali')"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/בֶ֥טֶן",
+        "phrase": "and Beten",
+        "literal": "and-Beten",
+        "source": "H991 (KJV: 'and Beten'; ESV: 'Beten'; NASB: 'and Beten')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אַכְשָֽׁף",
+        "phrase": "and Achshaph",
+        "literal": "and-Achshaph",
+        "source": "H407 (KJV: 'and Achshaph'; ESV: 'Achshaph'; NASB: 'and Achshaph')"
+      }
+    ]
+  }
+]

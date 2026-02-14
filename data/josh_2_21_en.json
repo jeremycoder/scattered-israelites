@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Joshua",
+    "chapter": 2,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֨אמֶר֙",
+        "phrase": "And she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/דִבְרֵי/כֶ֣ם",
+        "phrase": "According to your words",
+        "literal": "as-words-your(pl)",
+        "source": "H1697 (KJV: words; ESV: words; NASB: words)"
+      },
+      {
+        "position": 3,
+        "surface": "כֶּן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: so; NASB: so)"
+      },
+      {
+        "position": 4,
+        "surface": "ה֔וּא",
+        "phrase": "be it",
+        "literal": "it",
+        "source": "H1931 (KJV: be it; ESV: be it; NASB: be it)"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽ/תְּשַׁלְּחֵ֖/ם",
+        "phrase": "and she sent them",
+        "literal": "and-she-sent-them",
+        "source": "H7971 (KJV: sent them away; ESV: sent them away; NASB: sent them away)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּלֵ֑כוּ",
+        "phrase": "and they went",
+        "literal": "and-they-went",
+        "source": "H3212 (KJV: departed; ESV: departed; NASB: departed)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תִּקְשֹׁ֛ר",
+        "phrase": "and she tied",
+        "literal": "and-she-tied",
+        "source": "H7194 (KJV: bound; ESV: tied; NASB: tied)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "obj-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "תִּקְוַ֥ת",
+        "phrase": "scarlet cord",
+        "literal": "line-of",
+        "source": "H8615 (KJV: line; ESV: cord; NASB: cord)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שָּׁנִ֖י",
+        "phrase": "scarlet",
+        "literal": "the-crimson",
+        "source": "H8144 (KJV: scarlet; ESV: scarlet; NASB: scarlet)"
+      },
+      {
+        "position": 11,
+        "surface": "בַּ/חַלּֽוֹן",
+        "phrase": "in the window",
+        "literal": "in-the-window",
+        "source": "H2474 (KJV: window; ESV: window; NASB: window)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Numbers",
+    "chapter": 7,
+    "verse": 70,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שְׂעִיר",
+        "phrase": "male goat",
+        "literal": "male-goat",
+        "source": "H8163 (KJV: kid; ESV: male goat; NASB: male goat)"
+      },
+      {
+        "position": 2,
+        "surface": "עִזִּ֥ים",
+        "phrase": "of goats",
+        "literal": "goats",
+        "source": "H5795 (KJV: of the goats; ESV: for a sin; NASB: for a sin)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֖ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: One; ESV: one; NASB: one)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/חַטָּֽאת",
+        "phrase": "for a sin offering",
+        "literal": "for-sin-offering",
+        "source": "H2403 (KJV: for a sin offering; ESV: for a sin offering; NASB: for a sin offering)"
+      }
+    ]
+  }
+]

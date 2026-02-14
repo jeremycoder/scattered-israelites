@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֥ע",
+        "phrase": "and heard",
+        "literal": "and-he-heard",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "ק֣וֹל",
+        "phrase": "sound",
+        "literal": "voice",
+        "source": "H6963 (KJV: voice; ESV: [your words]; NASB: sound)"
+      },
+      {
+        "position": 5,
+        "surface": "דִּבְרֵי/כֶ֑ם",
+        "phrase": "of your words",
+        "literal": "words-of-you(pl)",
+        "source": "H1697 (KJV: words; ESV: words; NASB: words)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקְצֹ֖ף",
+        "phrase": "and was angry",
+        "literal": "and-he-was-angry",
+        "source": "H7107 (KJV: wroth; ESV: angered; NASB: angry)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּשָּׁבַ֥ע",
+        "phrase": "and swore",
+        "literal": "and-he-swore",
+        "source": "H7650 (KJV: sware; ESV: swore; NASB: took an oath)"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: [implied]; NASB: saying)"
+      }
+    ]
+  }
+]
