@@ -1,0 +1,179 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 12,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָא֩",
+        "phrase": "and he called",
+        "literal": "and-he-called",
+        "source": "H7121 (KJV: called; ESV: summoned; NASB: called)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֨לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוֹאָ֜שׁ",
+        "phrase": "Jehoash",
+        "literal": "Jehoash",
+        "source": "H3060 (KJV: Joash; ESV: Joash; NASB: Joash)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/יהוֹיָדָ֤ע",
+        "phrase": "to Jehoiada",
+        "literal": "to-Jehoida",
+        "source": "H3077 (KJV: Jehoiada; ESV: Jehoiada; NASB: Jehoiada)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כֹּהֵן֙",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לַ/כֹּ֣הֲנִ֔ים",
+        "phrase": "and to the priests",
+        "literal": "and-to-the-priests",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲלֵ/הֶ֔ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: to them; NASB: to them)"
+      },
+      {
+        "position": 9,
+        "surface": "מַדּ֛וּעַ",
+        "phrase": "why",
+        "literal": "why",
+        "source": "H4069 (KJV: Why; ESV: Why; NASB: Why)"
+      },
+      {
+        "position": 10,
+        "surface": "אֵינְ/כֶ֥ם",
+        "phrase": "not you",
+        "literal": "not-you(pl)",
+        "source": "H369 (KJV: not ye; ESV: you not; NASB: are you not)"
+      },
+      {
+        "position": 11,
+        "surface": "מְחַזְּקִ֖ים",
+        "phrase": "repairing",
+        "literal": "strengthening",
+        "source": "H2388 (KJV: repairing; ESV: repairing; NASB: repairing)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 13,
+        "surface": "בֶּ֣דֶק",
+        "phrase": "the damage",
+        "literal": "breach",
+        "source": "H919 (KJV: breaches; ESV: damage; NASB: damage)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/בָּ֑יִת",
+        "phrase": "of the house",
+        "literal": "of-the-house",
+        "source": "H1004 (KJV: house; ESV: temple; NASB: house)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "H6258 (KJV: now therefore; ESV: now then; NASB: now therefore)"
+      },
+      {
+        "position": 16,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408 (KJV: no; ESV: no; NASB: no)"
+      },
+      {
+        "position": 17,
+        "surface": "תִּקְחוּ",
+        "phrase": "take",
+        "literal": "you(pl)-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 18,
+        "surface": "כֶ֨סֶף֙",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701 (KJV: money; ESV: money; NASB: silver)"
+      },
+      {
+        "position": 19,
+        "surface": "מֵ/אֵ֣ת",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H854 (KJV: of; ESV: from; NASB: from)"
+      },
+      {
+        "position": 20,
+        "surface": "מַכָּֽרֵי/כֶ֔ם",
+        "phrase": "your donors",
+        "literal": "your(pl)-donors",
+        "source": "H4378 (KJV: them that bestow; ESV: people; NASB: your acquaintainces)"
+      },
+      {
+        "position": 21,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 22,
+        "surface": "לְ/בֶ֥דֶק",
+        "phrase": "for repairing",
+        "literal": "for-breach",
+        "source": "H919 (KJV: breaches; ESV: damage; NASB: damage)"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/בַּ֖יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: house; ESV: temple; NASB: house)"
+      },
+      {
+        "position": 24,
+        "surface": "תִּתְּנֻֽ/הוּ",
+        "phrase": "give it",
+        "literal": "you(pl)-give-it",
+        "source": "H5414 (KJV: deliver; ESV: hand it over; NASB: give it)"
+      }
+    ]
+  }
+]

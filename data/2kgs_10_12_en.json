@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 10,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨קָם֙",
+        "phrase": "and he arose",
+        "literal": "and-he-arose",
+        "source": "H6965; KJV: arose, ESV: set out, NASB: arose"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יָּבֹ֔א",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "H935; KJV: came, ESV: went, NASB: departed"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֵּ֖לֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212; KJV: went, ESV: went, NASB: went"
+      },
+      {
+        "position": 4,
+        "surface": "שֹׁמְר֑וֹן",
+        "phrase": "to Samaria",
+        "literal": "Samaria",
+        "source": "H8111; KJV: Samaria, ESV: Samaria, NASB: Samaria"
+      },
+      {
+        "position": 5,
+        "surface": "ה֛וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931; KJV: (implied), ESV: he, NASB: he"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּֽית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1044; KJV: Beth-eked, ESV: Beth-eked, NASB: Beth-eked"
+      },
+      {
+        "position": 7,
+        "surface": "עֵ֥קֶד",
+        "phrase": "-eked",
+        "literal": "binding",
+        "source": "H1044; KJV: Beth-eked, ESV: Beth-eked, NASB: Beth-eked"
+      },
+      {
+        "position": 8,
+        "surface": "הָרֹעִ֖ים",
+        "phrase": "of the shepherds",
+        "literal": "the-shepherds",
+        "source": "H7462; KJV: shepherds, ESV: Shepherds, NASB: shepherds"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/דָּֽרֶךְ",
+        "phrase": "on the way",
+        "literal": "in=the-way",
+        "source": "H1870; KJV: in the way, ESV: on the way, NASB: on the way"
+      }
+    ]
+  }
+]

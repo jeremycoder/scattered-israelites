@@ -1,0 +1,186 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַן",
+        "phrase": "and answered",
+        "literal": "and-he-answered",
+        "source": "H6030 (KJV: answered; ESV: answered; NASB: replied)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלִיָּה֮",
+        "phrase": "Elijah",
+        "literal": "Elijah",
+        "source": "H452 (KJV: Elijah; ESV: Elijah; NASB: Elijah)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יְדַבֵּ֣ר",
+        "phrase": "and said",
+        "literal": "and-he-spoke",
+        "source": "H1696 (KJV: said; ESV: answered; NASB: replied)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲלֵי/הֶם֒",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: them; NASB: to them)"
+      },
+      {
+        "position": 5,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 6,
+        "surface": "אִ֤ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אֱלֹהִים֙",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      },
+      {
+        "position": 8,
+        "surface": "אָ֔נִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 9,
+        "surface": "תֵּ֤רֶד",
+        "phrase": "let come down",
+        "literal": "let-descend",
+        "source": "H3381 (KJV: come down; ESV: come down; NASB: come down)"
+      },
+      {
+        "position": 10,
+        "surface": "אֵשׁ֙",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784 (KJV: fire; ESV: fire; NASB: fire)"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "heaven",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: heaven; ESV: heaven; NASB: heaven)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/תֹאכַ֥ל",
+        "phrase": "and consume",
+        "literal": "and-consume",
+        "source": "H398 (KJV: consume; ESV: consume; NASB: consume)"
+      },
+      {
+        "position": 14,
+        "surface": "אֹתְ/ךָ֖",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H853 (KJV: thee; ESV: you; NASB: you)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 16,
+        "surface": "חֲמִשֶּׁ֑י/ךָ",
+        "phrase": "your fifty",
+        "literal": "fifty-of-you",
+        "source": "H2572 (KJV: thy fifty; ESV: your fifty; NASB: your fifty)"
+      },
+      {
+        "position": 17,
+        "surface": "וַ/תֵּ֤רֶד",
+        "phrase": "and came down",
+        "literal": "and-descended",
+        "source": "H3381 (KJV: came down; ESV: came down; NASB: came down)"
+      },
+      {
+        "position": 18,
+        "surface": "אֵשׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784 (KJV: fire; ESV: fire; NASB: fire)"
+      },
+      {
+        "position": 19,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "of God",
+        "literal": "God",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      },
+      {
+        "position": 20,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "heaven",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: heaven; ESV: heaven; NASB: heaven)"
+      },
+      {
+        "position": 22,
+        "surface": "וַ/תֹּ֥אכַל",
+        "phrase": "and consumed",
+        "literal": "and-consumed",
+        "source": "H398 (KJV: consumed; ESV: consumed; NASB: consumed)"
+      },
+      {
+        "position": 23,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "H853 (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 24,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 25,
+        "surface": "חֲמִשָּֽׁי/ו",
+        "phrase": "his fifty",
+        "literal": "fifty-of-him",
+        "source": "H2572 (KJV: his fifty; ESV: his fifty; NASB: his fifty)"
+      }
+    ]
+  }
+]

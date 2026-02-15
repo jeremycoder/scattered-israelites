@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 5,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ֣ךְ",
+        "phrase": "go",
+        "literal": "go",
+        "source": "H3212 (KJV: go; ESV: go; NASB: go)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/שָׁל֑וֹם",
+        "phrase": "in peace",
+        "literal": "to-peace",
+        "source": "H7965 (KJV: in peace; ESV: in peace; NASB: in peace)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: departed; ESV: gone; NASB: departed)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אִתּ֖/וֹ",
+        "phrase": "from him",
+        "literal": "from-with-him",
+        "source": "H854 (KJV: from him; ESV: from him; NASB: from him)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּבְרַת",
+        "phrase": "a distance",
+        "literal": "distance-of",
+        "source": "H3530 (KJV: little way; ESV: short distance; NASB: some distance)"
+      },
+      {
+        "position": 8,
+        "surface": "אָֽרֶץ",
+        "phrase": "of land",
+        "literal": "land",
+        "source": "H776 (KJV: way; ESV: distance; NASB: distance)"
+      }
+    ]
+  }
+]

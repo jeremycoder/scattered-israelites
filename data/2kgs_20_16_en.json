@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 20,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְשַׁעְיָ֖הוּ",
+        "phrase": "Isaiah",
+        "literal": "Isaiah",
+        "source": "H3470 (KJV: Isaiah; ESV: Isaiah; NASB: Isaiah)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "חִזְקִיָּ֑הוּ",
+        "phrase": "Hezekiah",
+        "literal": "Hezekiah",
+        "source": "H2396 (KJV: Hezekiah; ESV: Hezekiah; NASB: Hezekiah)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמַ֖ע",
+        "phrase": "Hear",
+        "literal": "hear",
+        "source": "H8085 (KJV: Hear; ESV: Hear; NASB: Hear)"
+      },
+      {
+        "position": 6,
+        "surface": "דְּבַר",
+        "phrase": "the word",
+        "literal": "word-of",
+        "source": "H1697 (KJV: the word; ESV: the word; NASB: the word)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the Lord; NASB: of the Lord)"
+      }
+    ]
+  }
+]

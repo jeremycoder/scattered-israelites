@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 4,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֧ן",
+        "phrase": "So he set",
+        "literal": "and-he-gave",
+        "source": "H5414 (KJV: set; ESV: gave; NASB: set)"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/פְנֵי/הֶ֛ם",
+        "phrase": "it before them",
+        "literal": "to-before-them",
+        "source": "H6440 (KJV: before them; ESV: before them; NASB: before them)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּאכְל֥וּ",
+        "phrase": "and they ate",
+        "literal": "and-they-ate",
+        "source": "H398 (KJV: did eat; ESV: ate; NASB: ate)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יּוֹתִ֖רוּ",
+        "phrase": "and had leftovers",
+        "literal": "and-they-had-left-over",
+        "source": "H3498 (KJV: left thereof; ESV: had some left over; NASB: left over)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ/דְבַ֥ר",
+        "phrase": "according to the word",
+        "literal": "like-word-of",
+        "source": "H1697 (KJV: according to the word; ESV: according to the word; NASB: according to the word)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      }
+    ]
+  }
+]

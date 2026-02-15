@@ -1,0 +1,242 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 25,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִן",
+        "phrase": "and-from",
+        "literal": "and-from",
+        "source": "H4480 (KJV: out of; ESV: from; NASB: from)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עִ֡יר",
+        "phrase": "the-city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 3,
+        "surface": "לָקַח֩",
+        "phrase": "he-took",
+        "literal": "he-took",
+        "source": "H3947 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 4,
+        "surface": "סָרִ֨יס",
+        "phrase": "eunuch",
+        "literal": "eunuch",
+        "source": "H5631 (KJV: officer; ESV: court official; NASB: officer)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶחָ֜ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: an; ESV: a; NASB: one)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲֽשֶׁר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: that; ESV: who; NASB: who)"
+      },
+      {
+        "position": 7,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (implied in all; KJV/ESV/NASB: was)"
+      },
+      {
+        "position": 8,
+        "surface": "פָקִ֣יד",
+        "phrase": "overseer",
+        "literal": "overseer",
+        "source": "H6496 (KJV: set; ESV: set; NASB: appointed)"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 10,
+        "surface": "אַנְשֵׁ֣י",
+        "phrase": "men-of",
+        "literal": "men-of",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/מִּלְחָמָ֗ה",
+        "phrase": "the-war",
+        "literal": "the-war",
+        "source": "H4421 (KJV: war; ESV: war; NASB: war)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/חֲמִשָּׁ֨ה",
+        "phrase": "and-five",
+        "literal": "and-five",
+        "source": "H2568 (KJV: five; ESV: five; NASB: five)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲנָשִׁ֜ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 14,
+        "surface": "מֵ/רֹאֵ֤י",
+        "phrase": "from-seers-of",
+        "literal": "from-seers-of",
+        "source": "H7200 (KJV: saw; ESV: saw; NASB: saw)"
+      },
+      {
+        "position": 15,
+        "surface": "פְנֵֽי",
+        "phrase": "face-of",
+        "literal": "face-of",
+        "source": "H6440 (KJV: face; ESV: face; NASB: face)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/מֶּ֨לֶךְ֙",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king's; ESV: king's; NASB: king's)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: which; ESV: who; NASB: who)"
+      },
+      {
+        "position": 18,
+        "surface": "נִמְצְא֣וּ",
+        "phrase": "were-found",
+        "literal": "were-found",
+        "source": "H4672 (KJV: found; ESV: found; NASB: found)"
+      },
+      {
+        "position": 19,
+        "surface": "בָ/עִ֔יר",
+        "phrase": "in-the-city",
+        "literal": "in-the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/אֵ֗ת",
+        "phrase": "and-",
+        "literal": "and-",
+        "source": "H853 (implied; KJV/ESV/NASB: and)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/סֹּפֵר֙",
+        "phrase": "the-scribe",
+        "literal": "the-scribe",
+        "source": "H5608 (KJV: scribe; ESV: secretary; NASB: scribe)"
+      },
+      {
+        "position": 22,
+        "surface": "שַׂ֣ר",
+        "phrase": "chief-of",
+        "literal": "chief-of",
+        "source": "H8269 (KJV: principal; ESV: of the commander; NASB: of the commander)"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/צָּבָ֔א",
+        "phrase": "the-army",
+        "literal": "the-army",
+        "source": "H6635 (KJV: host; ESV: army; NASB: army)"
+      },
+      {
+        "position": 24,
+        "surface": "הַ/מַּצְבִּ֖א",
+        "phrase": "who-mustered",
+        "literal": "the-mustering",
+        "source": "H6633 (KJV: mustered; ESV: mustered; NASB: mustered)"
+      },
+      {
+        "position": 25,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (implied; KJV/ESV/NASB: -)"
+      },
+      {
+        "position": 26,
+        "surface": "עַ֣ם",
+        "phrase": "people-of",
+        "literal": "people-of",
+        "source": "H5971 (KJV: people; ESV: people; NASB: people)"
+      },
+      {
+        "position": 27,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "the-land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 28,
+        "surface": "וְ/שִׁשִּׁ֥ים",
+        "phrase": "and-sixty",
+        "literal": "and-sixty",
+        "source": "H8346 (KJV: threescore; ESV: sixty; NASB: sixty)"
+      },
+      {
+        "position": 29,
+        "surface": "אִישׁ֙",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 30,
+        "surface": "מֵ/עַ֣ם",
+        "phrase": "from-people-of",
+        "literal": "from-people-of",
+        "source": "H5971 (KJV: of the people; ESV: of the people; NASB: of the people)"
+      },
+      {
+        "position": 31,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the-land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 32,
+        "surface": "הַֽ/נִּמְצְאִ֖ים",
+        "phrase": "the-found",
+        "literal": "the-found",
+        "source": "H4672 (KJV: that were found; ESV: who were found; NASB: who were found)"
+      },
+      {
+        "position": 33,
+        "surface": "בָּ/עִֽיר",
+        "phrase": "in-the-city",
+        "literal": "in-the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      }
+    ]
+  }
+]

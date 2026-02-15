@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 1,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּשׁ֥וּבוּ",
+        "phrase": "And they returned",
+        "literal": "and-they-returned",
+        "source": "H7725; KJV: turned back, ESV: returned, NASB: returned"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מַּלְאָכִ֖ים",
+        "phrase": "the messengers",
+        "literal": "the-messengers",
+        "source": "H4397; KJV: messengers, ESV: messengers, NASB: messengers"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלָ֑י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413; KJV: unto him, ESV: to him, NASB: to him"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: he said, ESV: he said, NASB: he said"
+      },
+      {
+        "position": 5,
+        "surface": "אֲלֵי/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413; KJV: unto them, ESV: to them, NASB: to them"
+      },
+      {
+        "position": 6,
+        "surface": "מַה",
+        "phrase": "Why",
+        "literal": "what",
+        "source": "H4100; KJV: Why, ESV: Why, NASB: Why"
+      },
+      {
+        "position": 7,
+        "surface": "זֶּ֥ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088; KJV: now, ESV: this, NASB: this"
+      },
+      {
+        "position": 8,
+        "surface": "שַׁבְתֶּֽם",
+        "phrase": "have you returned",
+        "literal": "you (pl.)-have-returned",
+        "source": "H7725; KJV: turned back, ESV: returned, NASB: returned"
+      }
+    ]
+  }
+]

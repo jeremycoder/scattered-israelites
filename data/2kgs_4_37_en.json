@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 4,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּבֹא֙",
+        "phrase": "and she came",
+        "literal": "and-she-came-in",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/תִּפֹּ֣ל",
+        "phrase": "and fell",
+        "literal": "and-she-fell",
+        "source": "H5307 (KJV: fell; ESV: fell; NASB: fell)"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "at",
+        "literal": "upon",
+        "source": "H5921 (KJV: at; ESV: at; NASB: at)"
+      },
+      {
+        "position": 4,
+        "surface": "רַגְלָ֔י/ו",
+        "phrase": "his feet",
+        "literal": "feet-of-him",
+        "source": "H7272 (KJV: his feet; ESV: his feet; NASB: his feet)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תִּשְׁתַּ֖חוּ",
+        "phrase": "and bowed",
+        "literal": "and-she-bowed-down",
+        "source": "H7812 (KJV: bowed; ESV: bowed; NASB: bowed)"
+      },
+      {
+        "position": 6,
+        "surface": "אָ֑רְצָ/ה",
+        "phrase": "to the ground",
+        "literal": "to-ground",
+        "source": "H776 (KJV: to the ground; ESV: to the ground; NASB: to the ground)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תִּשָּׂ֥א",
+        "phrase": "and took up",
+        "literal": "and-she-lifted",
+        "source": "H5375 (KJV: took up; ESV: took; NASB: took)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "בְּנָ֖/הּ",
+        "phrase": "her son",
+        "literal": "son-of-her",
+        "source": "H1121 (KJV: her son; ESV: her son; NASB: her son)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/תֵּצֵֽא",
+        "phrase": "and went out",
+        "literal": "and-she-went-out",
+        "source": "H3318 (KJV: went out; ESV: went out; NASB: went out)"
+      }
+    ]
+  }
+]

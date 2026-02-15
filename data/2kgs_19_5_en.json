@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 19,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֗אוּ",
+        "phrase": "and they came",
+        "literal": "and-they-came",
+        "source": "H935; KJV: 'So...came', ESV: 'So...went', NASB: 'So...came'"
+      },
+      {
+        "position": 2,
+        "surface": "עַבְדֵ֛י",
+        "phrase": "servants of",
+        "literal": "servants-of",
+        "source": "H5650; KJV: 'servants', ESV: 'servants', NASB: 'servants'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מֶּ֥לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV: 'of king', ESV: 'of King', NASB: 'of King'"
+      },
+      {
+        "position": 4,
+        "surface": "חִזְקִיָּ֖הוּ",
+        "phrase": "Hezekiah",
+        "literal": "Hezekiah",
+        "source": "H2396; KJV: 'Hezekiah', ESV: 'Hezekiah', NASB: 'Hezekiah'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: 'to', ESV: 'to', NASB: 'to'"
+      },
+      {
+        "position": 6,
+        "surface": "יְשַֽׁעַיָֽהוּ",
+        "phrase": "Isaiah",
+        "literal": "Isaiah",
+        "source": "H3470; KJV: 'Isaiah', ESV: 'Isaiah', NASB: 'Isaiah'"
+      }
+    ]
+  }
+]

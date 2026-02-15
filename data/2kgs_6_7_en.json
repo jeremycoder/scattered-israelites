@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 6,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "Therefore said he",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ֣רֶם",
+        "phrase": "Take it up",
+        "literal": "raise",
+        "source": "H7311 (KJV: Take it up; ESV: Take it up; NASB: Take it up)"
+      },
+      {
+        "position": 3,
+        "surface": "לָ֑/ךְ",
+        "phrase": "to thee",
+        "literal": "to-you",
+        "source": " (KJV: to thee; ESV: (implied); NASB: for yourself)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּשְׁלַ֥ח",
+        "phrase": "And he put out",
+        "literal": "and-he-sent-out",
+        "source": "H7971 (KJV: put out; ESV: reached out; NASB: put out)"
+      },
+      {
+        "position": 5,
+        "surface": "יָד֖/וֹ",
+        "phrase": "his hand",
+        "literal": "hand-his",
+        "source": "H3027 (KJV: his hand; ESV: his hand; NASB: his hand)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקָּחֵֽ/הוּ",
+        "phrase": "and took it",
+        "literal": "and-he-took-it",
+        "source": "H3947 (KJV: took it; ESV: took it; NASB: took it)"
+      }
+    ]
+  }
+]

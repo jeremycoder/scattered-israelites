@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 25,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּבֹ֥א",
+        "phrase": "and the city came",
+        "literal": "and-it-came",
+        "source": "H935; KJV 'came', ESV 'was besieged', NASB 'was besieged'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עִ֖יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892; KJV 'the city', ESV 'the city', NASB 'the city'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/מָּצ֑וֹר",
+        "phrase": "under siege",
+        "literal": "in-the-siege",
+        "source": "H4692; KJV 'into strait', ESV 'under siege', NASB 'under siege'"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֚ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV 'unto', ESV 'until', NASB 'until'"
+      },
+      {
+        "position": 5,
+        "surface": "עַשְׁתֵּ֣י",
+        "phrase": "eleventh",
+        "literal": "ten-of",
+        "source": "H6249; KJV 'eleventh', ESV 'eleventh', NASB 'eleventh'"
+      },
+      {
+        "position": 6,
+        "surface": "עֶשְׂרֵ֣ה",
+        "phrase": "year",
+        "literal": "year-ten",
+        "source": "H6240; KJV 'year', ESV 'year', NASB 'year'"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "",
+        "literal": "year",
+        "source": "H8141; KJV 'of', ESV 'of', NASB 'of'"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/מֶּ֖לֶךְ",
+        "phrase": "of the king",
+        "literal": "to-the-king",
+        "source": "H4428; KJV 'of the king', ESV 'of the king', NASB 'of the king'"
+      },
+      {
+        "position": 9,
+        "surface": "צִדְקִיָּֽהוּ",
+        "phrase": "Zedekiah",
+        "literal": "Zedekiah",
+        "source": "H6667; KJV 'Zedekiah', ESV 'Zedekiah', NASB 'Zedekiah'"
+      }
+    ]
+  }
+]

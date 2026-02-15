@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 7,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֖א",
+        "phrase": "and he called",
+        "literal": "and-he-called",
+        "source": "H7121; KJV: 'he called', ESV: 'gatekeepers called out', NASB: 'gatekeepers called'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שֹּֽׁעֲרִ֑ים",
+        "phrase": "the gatekeepers",
+        "literal": "the-gatekeepers",
+        "source": "H7778; KJV: 'porters', ESV: 'gatekeepers', NASB: 'gatekeepers'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יַּגִּ֕ידוּ",
+        "phrase": "and they told",
+        "literal": "and-they-declared",
+        "source": "H5046; KJV: 'they told it', ESV: 'it was told', NASB: 'told it'"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004; KJV: 'king's house', ESV: 'king’s household', NASB: 'king’s household'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "of the king",
+        "literal": "the-of_king",
+        "source": "H4428; KJV: 'king's', ESV: 'king’s', NASB: 'king’s'"
+      },
+      {
+        "position": 6,
+        "surface": "פְּנִֽימָה",
+        "phrase": "inward",
+        "literal": "inward",
+        "source": "H6441; KJV: 'within', ESV: 'within', NASB: 'within'"
+      }
+    ]
+  }
+]

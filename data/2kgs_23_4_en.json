@@ -1,0 +1,249 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 23,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֣ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: ordered)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֡לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "חִלְקִיָּהוּ֩",
+        "phrase": "Hilkiah",
+        "literal": "Hilkiah",
+        "source": "H2518 (KJV: Hilkiah; ESV: Hilkiah; NASB: Hilkiah)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כֹּהֵ֨ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גָּד֜וֹל",
+        "phrase": "the great",
+        "literal": "the-great",
+        "source": "H1419 (KJV: high; ESV: high; NASB: high)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּהֲנֵ֣י",
+        "phrase": "priests of",
+        "literal": "priests-of",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מִּשְׁנֶה֮",
+        "phrase": "the second order",
+        "literal": "the-second",
+        "source": "H4932 (KJV: second order; ESV: second order; NASB: second order)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 11,
+        "surface": "שֹׁמְרֵ֣י",
+        "phrase": "keepers of",
+        "literal": "keepers-of",
+        "source": "H8104 (KJV: keepers; ESV: guardians; NASB: doorkeepers)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/סַּף֒",
+        "phrase": "the threshold",
+        "literal": "the-threshold",
+        "source": "H5592 (KJV: door; ESV: threshold; NASB: threshold)"
+      },
+      {
+        "position": 13,
+        "surface": "לְ/הוֹצִיא֙",
+        "phrase": "to bring out",
+        "literal": "to-bring.out",
+        "source": "H3318 (KJV: bring out; ESV: bring out; NASB: bring out)"
+      },
+      {
+        "position": 14,
+        "surface": "מֵ/הֵיכַ֣ל",
+        "phrase": "from the temple",
+        "literal": "from-temple",
+        "source": "H1964 (KJV: temple; ESV: temple; NASB: temple)"
+      },
+      {
+        "position": 15,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 16,
+        "surface": "אֵ֣ת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 17,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/כֵּלִ֗ים",
+        "phrase": "the vessels",
+        "literal": "the-vessels",
+        "source": "H3627 (KJV: vessels; ESV: vessels; NASB: articles)"
+      },
+      {
+        "position": 19,
+        "surface": "הָֽ/עֲשׂוּיִם֙",
+        "phrase": "made",
+        "literal": "the-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 20,
+        "surface": "לַ/בַּ֣עַל",
+        "phrase": "for Baal",
+        "literal": "to-Baal",
+        "source": "H1168 (KJV: Baal; ESV: Baal; NASB: Baal)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/לָֽ/אֲשֵׁרָ֔ה",
+        "phrase": "and for Asherah",
+        "literal": "and-to-Asherah",
+        "source": "H842 (KJV: Asherah; ESV: Asherah; NASB: Asherah)"
+      },
+      {
+        "position": 22,
+        "surface": "וּ/לְ/כֹ֖ל",
+        "phrase": "and for all",
+        "literal": "and-to-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 23,
+        "surface": "צְבָ֣א",
+        "phrase": "host of",
+        "literal": "host-of",
+        "source": "H6635 (KJV: host; ESV: host; NASB: host)"
+      },
+      {
+        "position": 24,
+        "surface": "הַ/שָּׁמָ֑יִם",
+        "phrase": "the heavens",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: heaven; ESV: heaven; NASB: heavens)"
+      },
+      {
+        "position": 25,
+        "surface": "וַֽ/יִּשְׂרְפֵ֞/ם",
+        "phrase": "and burned them",
+        "literal": "and-he-burned-them",
+        "source": "H8313 (KJV: burned; ESV: burned; NASB: burned)"
+      },
+      {
+        "position": 26,
+        "surface": "מִ/ח֤וּץ",
+        "phrase": "outside",
+        "literal": "from-outside",
+        "source": "H2351 (KJV: without; ESV: outside; NASB: outside)"
+      },
+      {
+        "position": 27,
+        "surface": "לִ/ירוּשָׁלִַ֨ם֙",
+        "phrase": "Jerusalem",
+        "literal": "to-Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      },
+      {
+        "position": 28,
+        "surface": "בְּ/שַׁדְמ֣וֹת",
+        "phrase": "in the fields of",
+        "literal": "in-fields.of",
+        "source": "H7709 (KJV: fields; ESV: fields; NASB: terraces)"
+      },
+      {
+        "position": 29,
+        "surface": "קִדְר֔וֹן",
+        "phrase": "Kidron",
+        "literal": "Kidron",
+        "source": "H6939 (KJV: Kidron; ESV: Kidron; NASB: Kidron)"
+      },
+      {
+        "position": 30,
+        "surface": "וְ/נָשָׂ֥א",
+        "phrase": "and carried",
+        "literal": "and-he-carried",
+        "source": "H5375 (KJV: carried; ESV: carried; NASB: carried)"
+      },
+      {
+        "position": 31,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 32,
+        "surface": "עֲפָרָ֖/ם",
+        "phrase": "their ashes",
+        "literal": "dust-of.them",
+        "source": "H6083 (KJV: ashes; ESV: ashes; NASB: ashes)"
+      },
+      {
+        "position": 33,
+        "surface": "בֵּֽית",
+        "phrase": "house of",
+        "literal": "house-of",
+        "source": "H1008 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      },
+      {
+        "position": 34,
+        "surface": "אֵֽל",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H410 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      }
+    ]
+  }
+]

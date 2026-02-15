@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 20,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'And'; NASB: 'Before')"
+      },
+      {
+        "position": 2,
+        "surface": "יְשַׁעְיָ֔הוּ",
+        "phrase": "Isaiah",
+        "literal": "Isaiah",
+        "source": "H3470 (KJV: 'Isaiah'; ESV: 'Isaiah'; NASB: 'Isaiah')"
+      },
+      {
+        "position": 3,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'before ... was gone out'; ESV: 'had gone out'; NASB: 'had gone out')"
+      },
+      {
+        "position": 4,
+        "surface": "יָצָ֔א",
+        "phrase": "had gone out",
+        "literal": "he-went-out",
+        "source": "H3318 (KJV: 'was gone out'; ESV: 'had gone out'; NASB: 'had gone out')"
+      },
+      {
+        "position": 5,
+        "surface": "ה/עיר",
+        "phrase": "of the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: 'into the middle court'; ESV: 'of the middle court'; NASB: 'of the middle court')"
+      },
+      {
+        "position": 6,
+        "surface": "חָצֵ֖ר",
+        "phrase": "court",
+        "literal": "court",
+        "source": "H2691 (implied in context; KJV/ESV/NASB: 'court' via emendation from 'city')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תִּֽיכֹנָ֑ה",
+        "phrase": "middle",
+        "literal": "the-middle",
+        "source": "H8484 (KJV: 'middle'; ESV: 'middle'; NASB: 'middle')"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/דְבַר",
+        "phrase": "and the word",
+        "literal": "and-word",
+        "source": "H1697 (KJV: 'the word'; ESV: 'the word'; NASB: 'the word')"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֔ה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: 'of the LORD'; ESV: 'of the LORD'; NASB: 'of the LORD')"
+      },
+      {
+        "position": 10,
+        "surface": "הָיָ֥ה",
+        "phrase": "came",
+        "literal": "was",
+        "source": "H1961 (KJV: 'came'; ESV: 'came'; NASB: 'came')"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: 'to him'; ESV: 'to him'; NASB: 'to him')"
+      },
+      {
+        "position": 12,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: 'saying'; NASB: 'saying')"
+      }
+    ]
+  }
+]

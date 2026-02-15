@@ -1,0 +1,172 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 5,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָי/ו֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹא",
+        "phrase": "Not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: Did not; NASB: Did not)"
+      },
+      {
+        "position": 4,
+        "surface": "לִבִּ֣/י",
+        "phrase": "my heart",
+        "literal": "heart-my",
+        "source": "H3820 (KJV: mine heart; ESV: my heart; NASB: my heart)"
+      },
+      {
+        "position": 5,
+        "surface": "הָלַ֔ךְ",
+        "phrase": "go",
+        "literal": "go",
+        "source": "H1980 (KJV: go; ESV: go; NASB: go)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/אֲשֶׁ֧ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "H834 (KJV: when; ESV: when; NASB: when)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽפַךְ",
+        "phrase": "turned",
+        "literal": "turned",
+        "source": "H2015 (KJV: turned; ESV: turned; NASB: turned)"
+      },
+      {
+        "position": 8,
+        "surface": "אִ֛ישׁ",
+        "phrase": "the man",
+        "literal": "man",
+        "source": "H376 (KJV: the man; ESV: the man; NASB: the man)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/עַ֥ל",
+        "phrase": "from",
+        "literal": "from-on",
+        "source": "H5921 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 10,
+        "surface": "מֶרְכַּבְתּ֖/וֹ",
+        "phrase": "his chariot",
+        "literal": "chariot-his",
+        "source": "H4818 (KJV: his chariot; ESV: his chariot; NASB: his chariot)"
+      },
+      {
+        "position": 11,
+        "surface": "לִ/קְרָאתֶ֑/ךָ",
+        "phrase": "to meet you",
+        "literal": "to-meet-you",
+        "source": "H7125 (KJV: to meet thee; ESV: to meet you; NASB: to meet you)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/עֵ֞ת",
+        "phrase": "a time",
+        "literal": "the-time",
+        "source": "H6256 (KJV: a time; ESV: a time; NASB: a time)"
+      },
+      {
+        "position": 13,
+        "surface": "לָ/קַ֤חַת",
+        "phrase": "to receive",
+        "literal": "to-take",
+        "source": "H3947 (KJV: to receive; ESV: to receive; NASB: to accept)"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/כֶּ֨סֶף֙",
+        "phrase": "the silver",
+        "literal": "the-silver",
+        "source": "H3701 (KJV: money; ESV: money; NASB: money)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/לָ/קַ֣חַת",
+        "phrase": "and to receive",
+        "literal": "and-to-take",
+        "source": "H3947 (KJV: and to receive; ESV: and to receive; NASB: and to accept)"
+      },
+      {
+        "position": 17,
+        "surface": "בְּגָדִ֔ים",
+        "phrase": "garments",
+        "literal": "garments",
+        "source": "H899 (KJV: garments; ESV: garments; NASB: clothing)"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/זֵיתִ֤ים",
+        "phrase": "and olive trees",
+        "literal": "and-olives",
+        "source": "H2132 (KJV: oliveyards; ESV: olive orchards; NASB: olive orchards)"
+      },
+      {
+        "position": 19,
+        "surface": "וּ/כְרָמִים֙",
+        "phrase": "and vineyards",
+        "literal": "and-vineyards",
+        "source": "H3754 (KJV: vineyards; ESV: vineyards; NASB: vineyards)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/צֹ֣אן",
+        "phrase": "and sheep",
+        "literal": "and-sheep",
+        "source": "H6629 (KJV: sheep; ESV: sheep; NASB: sheep)"
+      },
+      {
+        "position": 21,
+        "surface": "וּ/בָקָ֔ר",
+        "phrase": "and oxen",
+        "literal": "and-cattle",
+        "source": "H1241 (KJV: oxen; ESV: oxen; NASB: oxen)"
+      },
+      {
+        "position": 22,
+        "surface": "וַ/עֲבָדִ֖ים",
+        "phrase": "and male servants",
+        "literal": "and-servants",
+        "source": "H5650 (KJV: men-servants; ESV: male servants; NASB: male servants)"
+      },
+      {
+        "position": 23,
+        "surface": "וּ/שְׁפָחֽוֹת",
+        "phrase": "and female servants",
+        "literal": "and-maidservants",
+        "source": "H8198 (KJV: maid-servants; ESV: female servants; NASB: female servants)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 4,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֥א",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: 'was come'; ESV: 'came'; NASB: 'came')"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלִישָׁ֖ע",
+        "phrase": "Elisha",
+        "literal": "Elisha",
+        "source": "H477 (KJV: 'Elisha'; ESV: 'Elisha'; NASB: 'Elisha')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בָּ֑יְתָ/ה",
+        "phrase": "the house",
+        "literal": "the-house-to",
+        "source": "H1004 (KJV: 'into the house'; ESV: 'into the house'; NASB: 'into the house')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הִנֵּ֤ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV: 'behold'; ESV: 'he saw'; NASB: 'behold')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נַּ֨עַר֙",
+        "phrase": "the boy",
+        "literal": "the-boy",
+        "source": "H5288 (KJV: 'the child'; ESV: 'the child'; NASB: 'the lad')"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ֔ת",
+        "phrase": "dead",
+        "literal": "dead",
+        "source": "H4191 (KJV: 'was dead'; ESV: 'lying dead'; NASB: 'was dead')"
+      },
+      {
+        "position": 7,
+        "surface": "מֻשְׁכָּ֖ב",
+        "phrase": "lying",
+        "literal": "lying-down",
+        "source": "H7901 (KJV: 'laid'; ESV: 'lying'; NASB: 'laid')"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 9,
+        "surface": "מִטָּתֽ/וֹ",
+        "phrase": "his bed",
+        "literal": "bed-his",
+        "source": "H4296 (KJV: 'his bed'; ESV: 'his bed'; NASB: 'his bed')"
+      }
+    ]
+  }
+]

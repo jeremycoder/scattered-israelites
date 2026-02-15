@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 9,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בִ/שְׁנַת֙",
+        "phrase": "And in the year",
+        "literal": "and-in-year-of",
+        "source": "H8141; KJV/ESV/NASB: 'in the ... year' (preposition + construct form rendered as temporal phrase)"
+      },
+      {
+        "position": 2,
+        "surface": "אַחַ֣ת",
+        "phrase": "eleventh",
+        "literal": "one",
+        "source": "H259; KJV/ESV/NASB: 'eleventh' (cardinal one with distributive sense)"
+      },
+      {
+        "position": 3,
+        "surface": "עֶשְׂרֵ֣ה",
+        "phrase": "eleven",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'eleven' (ordinal compound with position 2)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁנָ֔ה",
+        "phrase": "year",
+        "literal": "year",
+        "source": "H8141; KJV/ESV/NASB: 'year' (absolute form)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/יוֹרָ֖ם",
+        "phrase": "of Joram",
+        "literal": "to/for-Joram",
+        "source": "H3141; KJV/ESV/NASB: 'of Joram' (dative preposition rendered genitive)"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son' (construct state)"
+      },
+      {
+        "position": 7,
+        "surface": "אַחְאָ֑ב",
+        "phrase": "of Ahab",
+        "literal": "Ahab",
+        "source": "H256; KJV/ESV/NASB: 'of Ahab' (proper name in genitive relation)"
+      },
+      {
+        "position": 8,
+        "surface": "מָלַ֥ךְ",
+        "phrase": "reigned",
+        "literal": "he-became-king",
+        "source": "H4427; KJV/ESV/NASB: 'began ... to reign' (qal perfect 3ms as pluperfect)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחַזְיָ֖ה",
+        "phrase": "Ahaziah",
+        "literal": "Ahaziah",
+        "source": "H274; KJV/ESV/NASB: 'Ahaziah' (proper name, subject)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon/over",
+        "source": "H5921; KJV/ESV/NASB: 'over' (preposition of rule)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוּדָֽה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063; KJV/ESV/NASB: 'Judah' (proper name, object of rule)"
+      }
+    ]
+  }
+]

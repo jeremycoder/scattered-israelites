@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 21,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲזֹ֕ב",
+        "phrase": "and he forsook",
+        "literal": "and-he-forsaked",
+        "source": "H5800; KJV: forsook, ESV: abandoned, NASB: abandoned"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the LORD, NASB: the LORD"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "God",
+        "literal": "god-of",
+        "source": "H430; KJV: God, ESV: God, NASB: God"
+      },
+      {
+        "position": 5,
+        "surface": "אֲבֹתָ֑י/ו",
+        "phrase": "of his fathers",
+        "literal": "fathers-his",
+        "source": "H1; KJV: of his fathers, ESV: of his fathers, NASB: of his fathers"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV: not, ESV: did not, NASB: did not"
+      },
+      {
+        "position": 7,
+        "surface": "הָלַ֖ךְ",
+        "phrase": "walked",
+        "literal": "walked",
+        "source": "H1980; KJV: walked, ESV: walk, NASB: walk"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/דֶ֥רֶךְ",
+        "phrase": "in the way",
+        "literal": "in-way",
+        "source": "H1870; KJV: in the way, ESV: in the way, NASB: in the way"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068; KJV: of the LORD, ESV: of the LORD, NASB: of the LORD"
+      }
+    ]
+  }
+]

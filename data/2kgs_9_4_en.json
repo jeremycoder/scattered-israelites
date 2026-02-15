@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 9,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֧לֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212; KJV: (implied in 'So the young man...went'), ESV: 'went', NASB: 'went'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נַּ֛עַר",
+        "phrase": "the young man",
+        "literal": "the-young-man",
+        "source": "H5288; KJV: 'the young man', ESV: 'the young', NASB: 'the young man'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/נַּ֥עַר",
+        "phrase": "the young man",
+        "literal": "the-young-man",
+        "source": "H5288; KJV: 'even the young man', ESV: (omitted in repetition), NASB: (servant of the prophet)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נָּבִ֖יא",
+        "phrase": "the prophet",
+        "literal": "the-prophet",
+        "source": "H5030; KJV: 'the prophet', ESV: 'prophet', NASB: 'the prophet'"
+      },
+      {
+        "position": 5,
+        "surface": "רָמֹ֥ת",
+        "phrase": "Ramoth",
+        "literal": "Ramoth",
+        "source": "H7433; KJV/ESV/NASB: 'Ramoth-'"
+      },
+      {
+        "position": 6,
+        "surface": "גִּלְעָֽד",
+        "phrase": "Gilead",
+        "literal": "Gilead",
+        "source": "H1568; KJV/ESV/NASB: '-gilead'"
+      }
+    ]
+  }
+]

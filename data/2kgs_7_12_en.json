@@ -1,0 +1,249 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 7,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨קָם",
+        "phrase": "and he arose",
+        "literal": "and-he-arose",
+        "source": "H6965 (KJV: arose; ESV: rose; NASB: got up)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֜לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ֗יְלָה",
+        "phrase": "in the night",
+        "literal": "to-night",
+        "source": "H3915 (KJV: night; ESV: night; NASB: night)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲבָדָ֔י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      },
+      {
+        "position": 7,
+        "surface": "אַגִּֽידָה",
+        "phrase": "I will tell",
+        "literal": "I-will-tell",
+        "source": "H5046 (KJV: shew; ESV: tell; NASB: tell)"
+      },
+      {
+        "position": 8,
+        "surface": "נָּ֣א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (KJV: now; ESV: Let me; NASB: tell)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "you",
+        "literal": "to-you(pl)",
+        "source": "(KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 10,
+        "surface": "אֵ֛ת",
+        "phrase": "(direct object marker)",
+        "literal": "[-dom-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "what",
+        "literal": "that-which",
+        "source": "H834 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 12,
+        "surface": "עָ֥שׂוּ",
+        "phrase": "they have done",
+        "literal": "they-did",
+        "source": "H6213 (KJV: done; ESV: done; NASB: done)"
+      },
+      {
+        "position": 13,
+        "surface": "לָ֖/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "(KJV: to us; ESV: to us; NASB: to us)"
+      },
+      {
+        "position": 14,
+        "surface": "אֲרָ֑ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "H758 (KJV: Syrians; ESV: Syrians/Arameans; NASB: Arameans)"
+      },
+      {
+        "position": 15,
+        "surface": "יָדְע֞וּ",
+        "phrase": "they know",
+        "literal": "they-knew",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 16,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 17,
+        "surface": "רְעֵבִ֣ים",
+        "phrase": "hungry",
+        "literal": "hungry(pl)",
+        "source": "H7457 (KJV: hungry; ESV: hungry; NASB: starving)"
+      },
+      {
+        "position": 18,
+        "surface": "אֲנַ֗חְנוּ",
+        "phrase": "we",
+        "literal": "we",
+        "source": "H587 (KJV: we; ESV: we; NASB: we)"
+      },
+      {
+        "position": 19,
+        "surface": "וַ/יֵּצְא֤וּ",
+        "phrase": "and they went out",
+        "literal": "and-they-went_out",
+        "source": "H3318 (KJV: gone out; ESV: gone out; NASB: left)"
+      },
+      {
+        "position": 20,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: out of; ESV: out of; NASB: out of)"
+      },
+      {
+        "position": 21,
+        "surface": "הַֽ/מַּחֲנֶה֙",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "H4264 (KJV: camp; ESV: camp; NASB: camp)"
+      },
+      {
+        "position": 22,
+        "surface": "לְ/הֵחָבֵ֤ה",
+        "phrase": "to hide themselves",
+        "literal": "to-hide_themselves",
+        "source": "H2247 (KJV: hide; ESV: hide; NASB: hide)"
+      },
+      {
+        "position": 23,
+        "surface": "ב/ה/שדה",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704 (KJV: field; ESV: field; NASB: countryside)"
+      },
+      {
+        "position": 24,
+        "surface": "בַ/שָּׂדֶה֙",
+        "phrase": "in the field",
+        "literal": "in-the-field",
+        "source": "H7704 (KJV: field; ESV: open country; NASB: countryside)"
+      },
+      {
+        "position": 25,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: thinking; NASB: thinking)"
+      },
+      {
+        "position": 26,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "that",
+        "source": "H3588 (KJV: When; ESV: When; NASB: They will)"
+      },
+      {
+        "position": 27,
+        "surface": "יֵצְא֤וּ",
+        "phrase": "they come out",
+        "literal": "they-will-come_out",
+        "source": "H3318 (KJV: come out; ESV: come out; NASB: come out)"
+      },
+      {
+        "position": 28,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: out of; ESV: out of; NASB: out of)"
+      },
+      {
+        "position": 29,
+        "surface": "הָ/עִיר֙",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 30,
+        "surface": "וְ/נִתְפְּשֵׂ֣/ם",
+        "phrase": "and we will capture them",
+        "literal": "and-we-will-capture-them",
+        "source": "H8610 (KJV: catch them; ESV: take them; NASB: take them)"
+      },
+      {
+        "position": 31,
+        "surface": "חַיִּ֔ים",
+        "phrase": "alive",
+        "literal": "alive(pl)",
+        "source": "H2416 (KJV: alive; ESV: alive; NASB: alive)"
+      },
+      {
+        "position": 32,
+        "surface": "וְ/אֶל",
+        "phrase": "and to",
+        "literal": "and-to",
+        "source": "H413 (KJV: and get; ESV: and get; NASB: and get)"
+      },
+      {
+        "position": 33,
+        "surface": "הָ/עִ֖יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 34,
+        "surface": "נָבֹֽא",
+        "phrase": "we will enter",
+        "literal": "we-will-enter",
+        "source": "H935 (KJV: get into; ESV: get into; NASB: get into)"
+      }
+    ]
+  }
+]

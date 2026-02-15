@@ -1,0 +1,109 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 17,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: (implied, not translated)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "הָי֣וּ",
+        "phrase": "they were",
+        "literal": "they-were",
+        "source": "H1961; KJV/ESV/NASB: 'they feared' (with following verb)"
+      },
+      {
+        "position": 4,
+        "surface": "יְרֵאִ֑ים",
+        "phrase": "fearing",
+        "literal": "fearing-[mp]",
+        "source": "H3372; KJV: 'feared'; ESV: 'feared'; NASB: 'feared'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853; KJV/ESV/NASB: (implied, not translated)"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹֽהֵי/הֶם֙",
+        "phrase": "their gods",
+        "literal": "gods-of-them",
+        "source": "H430; KJV: 'their own gods'; ESV: 'their own gods'; NASB: 'their own gods'"
+      },
+      {
+        "position": 7,
+        "surface": "הָי֣וּ",
+        "phrase": "they were",
+        "literal": "they-were",
+        "source": "H1961; KJV/ESV/NASB: 'served' (with following participle)"
+      },
+      {
+        "position": 8,
+        "surface": "עֹֽבְדִ֔ים",
+        "phrase": "serving",
+        "literal": "serving-[mp]",
+        "source": "H5647; KJV: 'served'; ESV: 'served'; NASB: 'were serving'"
+      },
+      {
+        "position": 9,
+        "surface": "כְּ/מִשְׁפַּט֙",
+        "phrase": "according to-custom",
+        "literal": "as-judgment",
+        "source": "H4941; KJV: 'manner'; ESV: 'manner'; NASB: 'custom'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/גּוֹיִ֔ם",
+        "phrase": "of-the-nations",
+        "literal": "the-nations",
+        "source": "H1471; KJV: 'nations'; ESV: 'nations'; NASB: 'nations'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834; KJV/ESV/NASB: 'whom' or 'which'"
+      },
+      {
+        "position": 12,
+        "surface": "הִגְל֥וּ",
+        "phrase": "they had exiled",
+        "literal": "they-exiled",
+        "source": "H1540; KJV: 'carried away'; ESV: 'carried away'; NASB: 'carried away'"
+      },
+      {
+        "position": 13,
+        "surface": "אֹתָ֖/ם",
+        "phrase": "them",
+        "literal": "[et]-them",
+        "source": "H853; KJV/ESV/NASB: 'them' (implied)"
+      },
+      {
+        "position": 14,
+        "surface": "מִ/שָּֽׁם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033; KJV: 'thence'; ESV: 'there'; NASB: 'there'"
+      }
+    ]
+  }
+]

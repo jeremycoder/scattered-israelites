@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 6,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: answered; ESV: said; NASB: answered)"
+      },
+      {
+        "position": 2,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408 (KJV: (none explicit); ESV: not; NASB: not)"
+      },
+      {
+        "position": 3,
+        "surface": "תִּירָ֑א",
+        "phrase": "fear",
+        "literal": "fear-thou",
+        "source": "H3372 (KJV: Fear not; ESV: be afraid; NASB: fear)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 5,
+        "surface": "רַבִּים֙",
+        "phrase": "more",
+        "literal": "many",
+        "source": "H7227 (KJV: more; ESV: more; NASB: more)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV: they that be; ESV: those who; NASB: those who)"
+      },
+      {
+        "position": 7,
+        "surface": "אִתָּ֔/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "H854 (KJV: with us; ESV: with us; NASB: with us)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/אֲשֶׁ֖ר",
+        "phrase": "than those who",
+        "literal": "than-who",
+        "source": "H834 (KJV: than they that be; ESV: than those who; NASB: than those who)"
+      },
+      {
+        "position": 9,
+        "surface": "אוֹתָֽ/ם",
+        "phrase": "with them",
+        "literal": "with-them",
+        "source": "H853 (KJV: with them; ESV: with them; NASB: with them)"
+      }
+    ]
+  }
+]

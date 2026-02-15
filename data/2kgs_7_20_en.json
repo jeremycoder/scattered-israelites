@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 7,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'And so it was'; NASB: 'It happened')"
+      },
+      {
+        "position": 2,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: 'unto him'; ESV: 'to him'; NASB: 'to him')"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֑ן",
+        "phrase": "just so",
+        "literal": "thus",
+        "source": "H3651 (KJV: 'even so'; ESV: 'just as'; NASB: 'exactly')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּרְמְס֨וּ",
+        "phrase": "and they trampled",
+        "literal": "and-they-trampled",
+        "source": "H7429 (KJV: 'trod'; ESV: 'trampled'; NASB: 'trampled')"
+      },
+      {
+        "position": 5,
+        "surface": "אֹת֥/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "H853 (KJV: 'upon him'; ESV: 'upon him'; NASB: 'him')"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עָ֛ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: 'the people'; ESV: 'the people'; NASB: 'the people')"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/שַּׁ֖עַר",
+        "phrase": "in the gate",
+        "literal": "in-the-gate",
+        "source": "H8179 (KJV: 'in the gate'; ESV: 'in the gate'; NASB: 'at the gate')"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he-died",
+        "source": "H4191 (KJV: 'and he died'; ESV: 'and he died'; NASB: 'and he died')"
+      }
+    ]
+  }
+]

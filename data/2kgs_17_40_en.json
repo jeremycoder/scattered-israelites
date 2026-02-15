@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 17,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "but",
+        "literal": "and-not",
+        "source": "H3808; KJV 'Howbeit', ESV 'However', NASB 'But'"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁמֵ֑עוּ",
+        "phrase": "they listened",
+        "literal": "they-heard",
+        "source": "H8085; KJV 'they did not hearken', ESV 'they would not listen', NASB 'they did not listen'"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֛י",
+        "phrase": "but",
+        "literal": "for-if-only",
+        "source": "H3588; KJV 'but', ESV 'and', NASB 'However'"
+      },
+      {
+        "position": 4,
+        "surface": "אִֽם",
+        "phrase": "rather",
+        "literal": "if",
+        "source": "H518; KJV (with כי 'but'), ESV (with כי 'but'), NASB (with כי 'However')"
+      },
+      {
+        "position": 5,
+        "surface": "כְּ/מִשְׁפָּטָ֥/ם",
+        "phrase": "according to their customs",
+        "literal": "as-judgments-of-them",
+        "source": "H4941; KJV 'after their former manner', ESV 'their former practices', NASB 'their former customs'"
+      },
+      {
+        "position": 6,
+        "surface": "הָֽ/רִאשׁ֖וֹן",
+        "phrase": "former",
+        "literal": "the-first",
+        "source": "H7223; KJV 'former', ESV 'former', NASB 'former'"
+      },
+      {
+        "position": 7,
+        "surface": "הֵ֥ם",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992; KJV 'they', ESV 'they', NASB 'they'"
+      },
+      {
+        "position": 8,
+        "surface": "עֹשִֽׂים",
+        "phrase": "were doing",
+        "literal": "doing",
+        "source": "H6213; KJV 'did', ESV 'persisted', NASB 'were doing"
+      }
+    ]
+  }
+]

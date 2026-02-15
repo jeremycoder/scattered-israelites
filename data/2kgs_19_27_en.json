@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 19,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שִׁבְתְּ/ךָ֛",
+        "phrase": "your sitting",
+        "literal": "and-sitting-your",
+        "source": "H3427; KJV: sitting, ESV: where you are, NASB: your sitting"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/צֵאתְ/ךָ֥",
+        "phrase": "your going out",
+        "literal": "and-going.out-your",
+        "source": "H3318; KJV: going out, ESV: when you go out, NASB: your going out"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בֹאֲ/ךָ֖",
+        "phrase": "your coming in",
+        "literal": "and-coming-your",
+        "source": "H935; KJV: coming in, ESV: when you come, NASB: your coming"
+      },
+      {
+        "position": 4,
+        "surface": "יָדָ֑עְתִּי",
+        "phrase": "I have known",
+        "literal": "I-have-known",
+        "source": "H3045; KJV/ESV/NASB: I know"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853; KJV/ESV/NASB: (object marker, not translated)"
+      },
+      {
+        "position": 6,
+        "surface": "הִֽתְרַגֶּזְ/ךָ֥",
+        "phrase": "your raging",
+        "literal": "raging-your",
+        "source": "H7264; KJV: raging, ESV: rage, NASB: raging"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלָֽ/י",
+        "phrase": "against me",
+        "literal": "to-me",
+        "source": "H413; KJV/ESV/NASB: against me"
+      }
+    ]
+  }
+]

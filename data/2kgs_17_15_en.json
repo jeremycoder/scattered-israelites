@@ -1,0 +1,214 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 17,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּמְאֲס֣וּ",
+        "phrase": "And they rejected",
+        "literal": "and-they-rejected",
+        "source": "H3988 (KJV: rejected; ESV: despised; NASB: rejected)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[-]",
+        "literal": "[-direct-object-marker]",
+        "source": "H853 (KJV: [obj]; ESV: [obj]; NASB: [obj])"
+      },
+      {
+        "position": 3,
+        "surface": "חֻקָּ֗י/ו",
+        "phrase": "his statutes",
+        "literal": "statutes-his",
+        "source": "H2706 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [-]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּרִית/וֹ֙",
+        "phrase": "his covenant",
+        "literal": "covenant-his",
+        "source": "H1285 (KJV: covenant; ESV: covenant; NASB: covenant)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: that; ESV: that; NASB: which)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּרַ֣ת",
+        "phrase": "he made",
+        "literal": "he-cut/made",
+        "source": "H3772 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "[-direct-object-marker]",
+        "source": "H854 (KJV: [with]; ESV: [with]; NASB: [with])"
+      },
+      {
+        "position": 9,
+        "surface": "אֲבוֹתָ֔/ם",
+        "phrase": "their fathers",
+        "literal": "fathers-their",
+        "source": "H1 (KJV: fathers; ESV: fathers; NASB: fathers)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and [-]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 11,
+        "surface": "עֵֽדְוֺתָ֔י/ו",
+        "phrase": "his testimonies",
+        "literal": "testimonies-his",
+        "source": "H5715 (KJV: testimonies; ESV: warnings; NASB: warnings)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: which; ESV: that; NASB: with which)"
+      },
+      {
+        "position": 13,
+        "surface": "הֵעִ֖יד",
+        "phrase": "he testified",
+        "literal": "he-testified",
+        "source": "H5749 (KJV: testified; ESV: gave; NASB: warned)"
+      },
+      {
+        "position": 14,
+        "surface": "בָּ֑/ם",
+        "phrase": "in them",
+        "literal": "in-them",
+        "source": " (KJV: against them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יֵּ֨לְכ֜וּ",
+        "phrase": "And they went",
+        "literal": "and-they-went",
+        "source": "H3212 (KJV: followed; ESV: went; NASB: followed)"
+      },
+      {
+        "position": 16,
+        "surface": "אַחֲרֵ֤י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 (KJV: after; ESV: after; NASB: after)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/הֶ֨בֶל֙",
+        "phrase": "the vanity",
+        "literal": "the-vanity/idols",
+        "source": "H1892 (KJV: vanity; ESV: false idols; NASB: vanity)"
+      },
+      {
+        "position": 18,
+        "surface": "וַ/יֶּהְבָּ֔לוּ",
+        "phrase": "and they became vain",
+        "literal": "and-they-became-vain",
+        "source": "H1891 (KJV: became vain; ESV: became false; NASB: became vain)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/אַחֲרֵ֤י",
+        "phrase": "and after",
+        "literal": "and-after",
+        "source": "H310 (KJV: and went after; ESV: and; NASB: and [went] after)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/גּוֹיִם֙",
+        "phrase": "the nations",
+        "literal": "the-nations",
+        "source": "H1471 (KJV: heathen; ESV: nations; NASB: nations)"
+      },
+      {
+        "position": 21,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: that; ESV: that; NASB: which)"
+      },
+      {
+        "position": 22,
+        "surface": "סְבִֽיבֹתָ֔/ם",
+        "phrase": "were around them",
+        "literal": "surrounding-them",
+        "source": "H5439 (KJV: round about them; ESV: around them; NASB: surrounded them)"
+      },
+      {
+        "position": 23,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "concerning which",
+        "literal": "that-which",
+        "source": "H834 (KJV: concerning whom; ESV: whom; NASB: concerning which)"
+      },
+      {
+        "position": 24,
+        "surface": "צִוָּ֤ה",
+        "phrase": "he commanded",
+        "literal": "he-commanded",
+        "source": "H6680 (KJV: charged; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 25,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 26,
+        "surface": "אֹתָ֔/ם",
+        "phrase": "them",
+        "literal": "them",
+        "source": "H853 (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 27,
+        "surface": "לְ/בִלְתִּ֖י",
+        "phrase": "not",
+        "literal": "not-to",
+        "source": "H1115 (KJV: that they should not; ESV: that they should not; NASB: not to)"
+      },
+      {
+        "position": 28,
+        "surface": "עֲשׂ֥וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do)"
+      },
+      {
+        "position": 29,
+        "surface": "כָּ/הֶֽם",
+        "phrase": "like them",
+        "literal": "like-them",
+        "source": " (KJV: like them; ESV: like them; NASB: like them)"
+      }
+    ]
+  }
+]

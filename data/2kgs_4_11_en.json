@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 4,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: And it fell on a day; ESV: One day; NASB: One day)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יּ֖וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: on a day; ESV: One day; NASB: One day)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּ֣בֹא",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: that he came; ESV: he came; NASB: he came)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑מָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: thither; ESV: there; NASB: there)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּ֥סַר",
+        "phrase": "and he turned aside",
+        "literal": "and-he-turned-aside",
+        "source": "H5493 (KJV: he turned; ESV: turned aside; NASB: turned aside)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: to; NASB: to)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עֲלִיָּ֖ה",
+        "phrase": "the upper room",
+        "literal": "the-upper-room",
+        "source": "H5944 (KJV: the chamber; ESV: the upper room; NASB: the upper room)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּשְׁכַּב",
+        "phrase": "and he lay down",
+        "literal": "and-he-lay-down",
+        "source": "H7901 (KJV: lay; ESV: lay down; NASB: lay down)"
+      },
+      {
+        "position": 9,
+        "surface": "שָֽׁמָּ/ה",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      }
+    ]
+  }
+]

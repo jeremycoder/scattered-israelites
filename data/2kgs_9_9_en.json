@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 9,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָֽתַתִּי֙",
+        "phrase": "and-I-will-give",
+        "literal": "and-I-give",
+        "source": "H5414 (KJV: 'will make'; ESV: 'will make'; NASB: 'will make')"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: '(implied)'; ESV: '(implied)'; NASB: '(implied)')"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: 'house'; ESV: 'house'; NASB: 'house')"
+      },
+      {
+        "position": 4,
+        "surface": "אַחְאָ֔ב",
+        "phrase": "Ahab",
+        "literal": "Ahab",
+        "source": "H256 (KJV: 'Ahab'; ESV: 'Ahab'; NASB: 'Ahab')"
+      },
+      {
+        "position": 5,
+        "surface": "כְּ/בֵ֖ית",
+        "phrase": "like-the-house",
+        "literal": "like-house",
+        "source": "H1004 (KJV: 'like the house'; ESV: 'like the house'; NASB: 'like the house')"
+      },
+      {
+        "position": 6,
+        "surface": "יָרָבְעָ֣ם",
+        "phrase": "Jeroboam",
+        "literal": "Jeroboam",
+        "source": "H3379 (KJV: 'Jeroboam'; ESV: 'Jeroboam'; NASB: 'Jeroboam')"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV: 'son'; ESV: 'son'; NASB: 'son')"
+      },
+      {
+        "position": 8,
+        "surface": "נְבָ֑ט",
+        "phrase": "Nebat",
+        "literal": "Nebat",
+        "source": "H5028 (KJV: 'Nebat'; ESV: 'Nebat'; NASB: 'Nebat')"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/כְ/בֵ֖ית",
+        "phrase": "and-like-house",
+        "literal": "and-like-house",
+        "source": "H1004 (KJV: 'and like the house'; ESV: 'and like the house'; NASB: 'and like the house')"
+      },
+      {
+        "position": 10,
+        "surface": "בַּעְשָׁ֥א",
+        "phrase": "Baasha",
+        "literal": "Baasha",
+        "source": "H1201 (KJV: 'Baasha'; ESV: 'Baasha'; NASB: 'Baasha')"
+      },
+      {
+        "position": 11,
+        "surface": "בֶן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV: 'son'; ESV: 'son'; NASB: 'son')"
+      },
+      {
+        "position": 12,
+        "surface": "אֲחִיָּֽה",
+        "phrase": "Ahijah",
+        "literal": "Ahijah",
+        "source": "H281 (KJV: 'Ahijah'; ESV: 'Ahijah'; NASB: 'Ahijah')"
+      }
+    ]
+  }
+]

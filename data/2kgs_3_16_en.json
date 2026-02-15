@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 3,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "כֹּ֖ה",
+        "phrase": "Thus",
+        "literal": "thus",
+        "source": "H3541 (KJV: Thus; ESV: Thus; NASB: Thus)"
+      },
+      {
+        "position": 3,
+        "surface": "אָמַ֣ר",
+        "phrase": "says",
+        "literal": "says",
+        "source": "H559 (KJV: saith; ESV: says; NASB: says)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "עָשֹׂ֛ה",
+        "phrase": "Make",
+        "literal": "make/do",
+        "source": "H6213 (KJV: Make; ESV: I will make; NASB: Make)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נַּ֥חַל",
+        "phrase": "this valley",
+        "literal": "the-valley",
+        "source": "H5158 (KJV: this valley; ESV: this dry streambed; NASB: this valley)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 8,
+        "surface": "גֵּבִ֥ים",
+        "phrase": "trenches",
+        "literal": "pits/trenches",
+        "source": "H1356 (KJV: ditches; ESV: pools; NASB: trenches)"
+      },
+      {
+        "position": 9,
+        "surface": "גֵּבִֽים",
+        "phrase": "trenches",
+        "literal": "pits/trenches",
+        "source": "H1356 (KJV: ditches; ESV: pools; NASB: trenches)"
+      }
+    ]
+  }
+]

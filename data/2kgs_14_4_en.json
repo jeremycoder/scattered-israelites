@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 14,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "רַ֥ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535 (KJV: Howbeit; ESV: the high places were not taken away; NASB: the high places were not taken away)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בָּמ֖וֹת",
+        "phrase": "the high places",
+        "literal": "the-high.places",
+        "source": "H1116 (KJV: the high places; ESV: the high places; NASB: the high places)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: were not taken away; ESV: were not removed; NASB: were not taken away)"
+      },
+      {
+        "position": 4,
+        "surface": "סָ֑רוּ",
+        "phrase": "were taken away",
+        "literal": "they-turned-away",
+        "source": "H5493 (KJV: were not taken away; ESV: were not removed; NASB: were not taken away)"
+      },
+      {
+        "position": 5,
+        "surface": "ע֥וֹד",
+        "phrase": "still",
+        "literal": "still",
+        "source": "H5750 (KJV: as yet; ESV: still; NASB: still)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עָ֛ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 7,
+        "surface": "מְזַבְּחִ֥ים",
+        "phrase": "sacrificing",
+        "literal": "sacrificing",
+        "source": "H2076 (KJV: did sacrifice; ESV: sacrificed; NASB: were sacrificing)"
+      },
+      {
+        "position": 8,
+        "surface": "וּֽ/מְקַטְּרִ֖ים",
+        "phrase": "and burning incense",
+        "literal": "and-burning.incense",
+        "source": "H6999 (KJV: and burnt incense; ESV: and burned incense; NASB: and burning incense)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/בָּמֽוֹת",
+        "phrase": "on the high places",
+        "literal": "in/on-the-high.places",
+        "source": "H1116 (KJV: in the high places; ESV: on the high places; NASB: on the high places)"
+      }
+    ]
+  }
+]

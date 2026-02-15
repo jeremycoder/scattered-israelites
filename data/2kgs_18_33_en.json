@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 18,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/הַצֵּ֥ל",
+        "phrase": "the-has-delivered",
+        "literal": "the-has-delivered",
+        "source": "H5337; KJV/ESV/NASB: 'delivered' (as part of question 'Have...delivered')"
+      },
+      {
+        "position": 2,
+        "surface": "הִצִּ֛ילוּ",
+        "phrase": "they-delivered",
+        "literal": "they-delivered",
+        "source": "H5337; KJV: 'delivered'; ESV: 'delivered'; NASB: 'delivered'"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "gods-of",
+        "literal": "gods-of",
+        "source": "H430; KJV: 'gods'; ESV: 'gods'; NASB: 'gods'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/גּוֹיִ֖ם",
+        "phrase": "the-nations",
+        "literal": "the-nations",
+        "source": "H1471; KJV: 'nations'; ESV: 'nations'; NASB: 'nations'"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֣ישׁ",
+        "phrase": "any",
+        "literal": "man-any",
+        "source": "H376; KJV: 'any'; ESV: 'any'; NASB: 'any'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: (untranslated marker)"
+      },
+      {
+        "position": 7,
+        "surface": "אַרְצ֑/וֹ",
+        "phrase": "his-land",
+        "literal": "land-his",
+        "source": "H776; KJV: 'his land'; ESV: 'his land'; NASB: 'his land'"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/יַּ֖ד",
+        "phrase": "from-hand-of",
+        "literal": "from-hand-of",
+        "source": "H3027; KJV: 'out of...hand'; ESV: 'out of...hand'; NASB: 'from the hand'"
+      },
+      {
+        "position": 9,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428; KJV/ESV/NASB: 'king'"
+      },
+      {
+        "position": 10,
+        "surface": "אַשּֽׁוּר",
+        "phrase": "Assyria",
+        "literal": "Assyria",
+        "source": "H804; KJV/ESV/NASB: 'Assyria'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 12,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV 'for', ESV 'for', NASB 'for'"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/עֹשֵׂ֥י",
+        "phrase": "to-the-doers-of",
+        "literal": "to-doers-of",
+        "source": "H6213; KJV 'to be bestowed on workmen', ESV 'to pay the workers', NASB 'to pay to those who did the work'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מְּלָאכָ֖ה",
+        "phrase": "the-work",
+        "literal": "the-work",
+        "source": "H4399; KJV 'workmen', ESV 'workers', NASB 'those who did the work'"
+      },
+      {
+        "position": 4,
+        "surface": "יִתְּנֻ֑/הוּ",
+        "phrase": "they-gave-it",
+        "literal": "they-gave-it",
+        "source": "H5414; KJV 'they delivered', ESV 'they gave', NASB 'they gave'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/חִזְּקוּ",
+        "phrase": "and-they-strengthened",
+        "literal": "and-they-strengthened",
+        "source": "H2388; KJV 'repaired', ESV 'repair', NASB 'repair'"
+      },
+      {
+        "position": 6,
+        "surface": "ב֖/וֹ",
+        "phrase": "in-it",
+        "literal": "in-it",
+        "source": "-; KJV 'therewith', ESV 'therewith', NASB 'therewith'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֥ית",
+        "phrase": "house-of",
+        "literal": "house-of",
+        "source": "H1004; KJV 'house', ESV 'house', NASB 'house'"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV 'the LORD', ESV 'the LORD', NASB 'the LORD'"
+      }
+    ]
+  }
+]

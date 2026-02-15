@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 8,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲמֵ֥ד",
+        "phrase": "and he fixed",
+        "literal": "and-he-caused-to-stand",
+        "source": "H5975 (KJV: settled; ESV: fixed; NASB: fixed)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "פָּנָ֖י/ו",
+        "phrase": "gaze",
+        "literal": "face-his",
+        "source": "H6440 (KJV: countenance; ESV: gaze; NASB: gaze)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּ֣שֶׂם",
+        "phrase": "and he set",
+        "literal": "and-he-put",
+        "source": "H7760 (KJV: set; ESV: stared; NASB: fixed)"
+      },
+      {
+        "position": 5,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 6,
+        "surface": "בֹּ֑שׁ",
+        "phrase": "he was ashamed",
+        "literal": "he-was-ashamed",
+        "source": "H954 (KJV: ashamed; ESV: embarrassed; NASB: ashamed)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֵּ֖בְךְּ",
+        "phrase": "and he wept",
+        "literal": "and-he-wept",
+        "source": "H1058 (KJV: wept; ESV: wept; NASB: wept)"
+      },
+      {
+        "position": 8,
+        "surface": "אִ֥ישׁ",
+        "phrase": "the man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/אֱלֹהִֽים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      }
+    ]
+  }
+]

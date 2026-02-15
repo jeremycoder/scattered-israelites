@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 25,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּ/תִשְׁעָ֣ה",
+        "phrase": "in/on the ninth",
+        "literal": "in-ninth",
+        "source": "H8672; KJV/ESV/NASB: 'ninth' (of the month)"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/חֹ֔דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "H2320; KJV/ESV/NASB: 'month' (fourth month)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֶּחֱזַ֥ק",
+        "phrase": "and grew strong",
+        "literal": "and-it-grew-strong",
+        "source": "H2388; KJV: 'was sore'; ESV/NASB: 'was severe/strong' (famine)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רָעָ֖ב",
+        "phrase": "the famine",
+        "literal": "the-famine",
+        "source": "H7458; KJV/ESV/NASB: 'famine'"
+      },
+      {
+        "position": 5,
+        "surface": "בָּ/עִ֑יר",
+        "phrase": "in the city",
+        "literal": "in-the-city",
+        "source": "H5892; KJV/ESV/NASB: 'city' (Jerusalem)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV/ESV/NASB: 'no/not'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ֥יָה",
+        "phrase": "there was",
+        "literal": "there-was",
+        "source": "H1961; KJV/ESV/NASB: 'was/there was'"
+      },
+      {
+        "position": 8,
+        "surface": "לֶ֖חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899; KJV/ESV/NASB: 'bread/food'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/עַ֥ם",
+        "phrase": "for people",
+        "literal": "to-people",
+        "source": "H5971; KJV/ESV/NASB: 'people'"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "H776; KJV/ESV/NASB: 'land'"
+      }
+    ]
+  }
+]

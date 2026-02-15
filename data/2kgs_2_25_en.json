@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 2,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "And he went",
+        "literal": "and-he-went",
+        "source": "H3212; KJV: 'And he went', ESV: 'he went on', NASB: 'He went'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/שָּׁ֖ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033; KJV: 'from thence', ESV: 'From there', NASB: 'from there'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: (implied in 'to'), ESV: (implied in 'to'), NASB: (implied in 'to')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ֣ר",
+        "phrase": "mount",
+        "literal": "the-mountain",
+        "source": "H2022; KJV: 'mount', ESV: 'Mount', NASB: 'Mount'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/כַּרְמֶ֑ל",
+        "phrase": "Carmel",
+        "literal": "the-Carmel",
+        "source": "H3760; KJV: 'Carmel', ESV: 'Carmel', NASB: 'Carmel'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מִ/שָּׁ֖ם",
+        "phrase": "and from there",
+        "literal": "and-from-there",
+        "source": "H8033; KJV: 'and from thence', ESV: 'and from there', NASB: 'and from there'"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֥ב",
+        "phrase": "he returned",
+        "literal": "he-returned",
+        "source": "H7725; KJV: 'he returned', ESV: 'he returned', NASB: 'he returned'"
+      },
+      {
+        "position": 8,
+        "surface": "שֹׁמְרֽוֹן",
+        "phrase": "Samaria",
+        "literal": "Samaria",
+        "source": "H8111; KJV: 'Samaria', ESV: 'Samaria', NASB: 'Samaria'"
+      }
+    ]
+  }
+]

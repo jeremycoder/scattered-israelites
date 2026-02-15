@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 10,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּצִ֛אוּ",
+        "phrase": "and they brought out",
+        "literal": "and-they-brought-out",
+        "source": "H3318 (KJV: brought forth; ESV: brought out; NASB: brought out)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 3,
+        "surface": "מַצְּב֥וֹת",
+        "phrase": "sacred pillars",
+        "literal": "standing-images",
+        "source": "H4676 (KJV: images; ESV: sacred pillars; NASB: memorial stones)"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּית",
+        "phrase": "of the house",
+        "literal": "house-of",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בַּ֖עַל",
+        "phrase": "of Baal",
+        "literal": "the-Baal",
+        "source": "H1168 (KJV: Baal; ESV: Baal; NASB: Baal)"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יִּשְׂרְפֽוּ/הָ",
+        "phrase": "and burned it",
+        "literal": "and-they-burned-it",
+        "source": "H8313 (KJV: burned them; ESV: burned it; NASB: burned them)"
+      }
+    ]
+  }
+]

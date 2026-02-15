@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And Jehu said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יֵה֗וּא",
+        "phrase": "Jehu",
+        "literal": "Jehu",
+        "source": "H3058 (KJV: Jehu; ESV: Jehu; NASB: Jehu)"
+      },
+      {
+        "position": 3,
+        "surface": "קַדְּשׁ֧וּ",
+        "phrase": "Proclaim",
+        "literal": "sanctify!-you(pl)",
+        "source": "H6942 (KJV: Proclaim; ESV: Sanctify; NASB: Sanctify)"
+      },
+      {
+        "position": 4,
+        "surface": "עֲצָרָ֛ה",
+        "phrase": "a solemn assembly",
+        "literal": "assembly",
+        "source": "H6116 (KJV: solemn assembly; ESV: solemn assembly; NASB: solemn assembly)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/בַּ֖עַל",
+        "phrase": "for Baal",
+        "literal": "to/for-Baal",
+        "source": "H1168 (KJV: for Baal; ESV: for Baal; NASB: for Baal)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקְרָֽאוּ",
+        "phrase": "And they proclaimed it",
+        "literal": "and-they-proclaimed",
+        "source": "H7121 (KJV: they proclaimed it; ESV: they proclaimed it; NASB: they proclaimed it)"
+      }
+    ]
+  }
+]

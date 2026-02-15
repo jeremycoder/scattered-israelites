@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 3,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵי",
+        "phrase": "By what",
+        "literal": "where",
+        "source": "H335 (KJV: By what; ESV: By what; NASB: By what)"
+      },
+      {
+        "position": 3,
+        "surface": "זֶ֥ה",
+        "phrase": "way",
+        "literal": "this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/דֶּ֖רֶךְ",
+        "phrase": "the way",
+        "literal": "the-way",
+        "source": "H1870 (KJV: way; ESV: way; NASB: way)"
+      },
+      {
+        "position": 5,
+        "surface": "נַעֲלֶ֑ה",
+        "phrase": "shall we go up",
+        "literal": "we-shall-go-up",
+        "source": "H5927 (KJV: go up; ESV: go up; NASB: go up)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 7,
+        "surface": "דֶּ֖רֶךְ",
+        "phrase": "The way",
+        "literal": "way",
+        "source": "H1870 (KJV: way; ESV: way; NASB: way)"
+      },
+      {
+        "position": 8,
+        "surface": "מִדְבַּ֥ר",
+        "phrase": "of the wilderness",
+        "literal": "wilderness",
+        "source": "H4057 (KJV: Wilderness; ESV: Desert; NASB: wilderness)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱדֽוֹם",
+        "phrase": "of Edom",
+        "literal": "Edom",
+        "source": "H123 (KJV: Edom; ESV: Edom; NASB: Edom)"
+      }
+    ]
+  }
+]

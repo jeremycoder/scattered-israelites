@@ -1,0 +1,46 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 12,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: 'seven years old'; ESV/NASB: 'seven years old')"
+      },
+      {
+        "position": 2,
+        "surface": "שֶׁ֥בַע",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "H7651 (KJV/ESV/NASB: 'seven')"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנִ֖ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "H8141 (KJV/ESV/NASB: 'years')"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוֹאָ֥שׁ",
+        "phrase": "Jehoash",
+        "literal": "Jehoash",
+        "source": "H3060 (KJV: 'Jehoash'; ESV: 'Joash'; NASB: 'Jehoash')"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/מָלְכֽ/וֹ",
+        "phrase": "when he became king",
+        "literal": "in-reign-his",
+        "source": "H4427 (KJV/ESV/NASB: 'when he began to reign' or 'in his reign')"
+      }
+    ]
+  }
+]

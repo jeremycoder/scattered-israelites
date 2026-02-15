@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 20,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּסֵּ֥ב",
+        "phrase": "and he turned",
+        "literal": "and-he-turned",
+        "source": "H5437 (KJV: turned; ESV: turned; NASB: turned)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "פָּנָ֖י/ו",
+        "phrase": "his face",
+        "literal": "face-his",
+        "source": "H6440 (KJV: his face; ESV: his face; NASB: his face)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/קִּ֑יר",
+        "phrase": "the wall",
+        "literal": "the-wall",
+        "source": "H7023 (KJV: the wall; ESV: the wall; NASB: the wall)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּ֨תְפַּלֵּ֔ל",
+        "phrase": "and prayed",
+        "literal": "and-he-prayed",
+        "source": "H6419 (KJV: prayed; ESV: prayed; NASB: prayed)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      }
+    ]
+  }
+]

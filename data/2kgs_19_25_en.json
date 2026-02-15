@@ -1,0 +1,123 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 19,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/לֹֽא",
+        "phrase": "Have you not",
+        "literal": "not-Q",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁמַ֤עְתָּ",
+        "phrase": "heard",
+        "literal": "hear-perf-2ms",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מֵֽ/רָחוֹק֙",
+        "phrase": "from afar",
+        "literal": "to-from-far",
+        "source": "H7350 (KJV: long ago; ESV: long ago; NASB: long ago)"
+      },
+      {
+        "position": 4,
+        "surface": "אֹתָ֣/הּ",
+        "phrase": "that",
+        "literal": "obj-mark-it",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 5,
+        "surface": "עָשִׂ֔יתִי",
+        "phrase": "I did",
+        "literal": "do-perf-1cs",
+        "source": "H6213 (KJV: done it; ESV: did it; NASB: did it)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מִ֥/ימֵי",
+        "phrase": "from days of",
+        "literal": "to-from-days-of",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 7,
+        "surface": "קֶ֖דֶם",
+        "phrase": "old",
+        "literal": "ancient",
+        "source": "H6924 (KJV: ancient; ESV: old; NASB: ancient)"
+      },
+      {
+        "position": 8,
+        "surface": "וִֽ/יצַרְתִּ֑י/הָ",
+        "phrase": "and I formed it",
+        "literal": "and-form-perf-1cs-it",
+        "source": "H3335 (KJV: formed it; ESV: planned it; NASB: planned it)"
+      },
+      {
+        "position": 9,
+        "surface": "עַתָּ֣ה",
+        "phrase": "now",
+        "literal": "now",
+        "source": "H6258 (KJV: now; ESV: now; NASB: now)"
+      },
+      {
+        "position": 10,
+        "surface": "הֲבֵיאתִ֗י/הָ",
+        "phrase": "I have brought it",
+        "literal": "bring-perf-1cs-it",
+        "source": "H935 (KJV: brought it; ESV: bring to pass; NASB: brought it)"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/תְהִ֗י",
+        "phrase": "and it be",
+        "literal": "and-be-imperf-2ms",
+        "source": "H1961 (KJV: shouldest be; ESV: should; NASB: should)"
+      },
+      {
+        "position": 12,
+        "surface": "לַ/הְשׁ֛וֹת",
+        "phrase": "to lay waste",
+        "literal": "to-destroy-inf-const",
+        "source": "H7582 (KJV: lay waste; ESV: turn; NASB: turn)"
+      },
+      {
+        "position": 13,
+        "surface": "גַּלִּ֥ים",
+        "phrase": "heaps",
+        "literal": "heaps",
+        "source": "H1530 (KJV: heaps; ESV: heaps; NASB: heaps)"
+      },
+      {
+        "position": 14,
+        "surface": "נִצִּ֖ים",
+        "phrase": "ruinous",
+        "literal": "towers-part-def",
+        "source": "H5327 (KJV: ruinous; ESV: ruins; NASB: ruinous)"
+      },
+      {
+        "position": 15,
+        "surface": "עָרִ֥ים",
+        "phrase": "cities",
+        "literal": "cities",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 16,
+        "surface": "בְּצֻרֽוֹת",
+        "phrase": "fortified",
+        "literal": "fortified",
+        "source": "H1219 (KJV: fortified; ESV: fortified; NASB: fortified)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 25,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שִׁנָּ֕א",
+        "phrase": "and changed",
+        "literal": "and-he-changed",
+        "source": "H8132: KJV 'changed', ESV 'put off', NASB 'changed'"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֖ת",
+        "phrase": "his",
+        "literal": "[-direct object marker-]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "בִּגְדֵ֣י",
+        "phrase": "prison",
+        "literal": "garments-of",
+        "source": "H899: KJV 'prison garments', ESV 'prison garments', NASB 'prison clothes'"
+      },
+      {
+        "position": 4,
+        "surface": "כִלְא֑/וֹ",
+        "phrase": "garments",
+        "literal": "confinement-his",
+        "source": "H3608: KJV 'prison', ESV 'prison', NASB 'prison'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָכַ֨ל",
+        "phrase": "and he ate",
+        "literal": "and-he-ate",
+        "source": "H398: KJV 'did eat', ESV 'he dined', NASB 'he ate'"
+      },
+      {
+        "position": 6,
+        "surface": "לֶ֧חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899: KJV 'bread', ESV (implied in 'dined'), NASB 'bread'"
+      },
+      {
+        "position": 7,
+        "surface": "תָּמִ֛יד",
+        "phrase": "continually",
+        "literal": "continually",
+        "source": "H8548: KJV 'continually', ESV 'regularly', NASB 'regularly'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/פָנָ֖י/ו",
+        "phrase": "before him",
+        "literal": "to/before-him",
+        "source": "H6440: KJV 'before him', ESV 'at the king's table', NASB 'in his presence'"
+      },
+      {
+        "position": 9,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605: KJV 'all', ESV 'every day', NASB 'all'"
+      },
+      {
+        "position": 10,
+        "surface": "יְמֵ֥י",
+        "phrase": "days",
+        "literal": "days-of",
+        "source": "H3117: KJV 'days', ESV 'day of his life', NASB 'days'"
+      },
+      {
+        "position": 11,
+        "surface": "חַיָּֽי/ו",
+        "phrase": "of his life",
+        "literal": "life-his",
+        "source": "H2416: KJV 'of his life', ESV 'of his life', NASB 'of his life'"
+      }
+    ]
+  }
+]

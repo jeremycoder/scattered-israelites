@@ -1,0 +1,179 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 9,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "Surely",
+        "literal": "if",
+        "source": "H518 (KJV: Surely; ESV: As surely; NASB: As surely)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֡א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not implied; NASB: not implied)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 4,
+        "surface": "דְּמֵ֣י",
+        "phrase": "blood",
+        "literal": "blood-of",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 5,
+        "surface": "נָבוֹת֩",
+        "phrase": "of Naboth",
+        "literal": "Naboth",
+        "source": "H5022 (KJV: Naboth; ESV: Naboth; NASB: Naboth)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "דְּמֵ֨י",
+        "phrase": "blood",
+        "literal": "blood-of",
+        "source": "H1818 (KJV: blood; ESV: blood; NASB: blood)"
+      },
+      {
+        "position": 8,
+        "surface": "בָנָ֜י/ו",
+        "phrase": "of his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 9,
+        "surface": "רָאִ֤יתִי",
+        "phrase": "I saw",
+        "literal": "I-saw",
+        "source": "H7200 (KJV: saw; ESV: saw; NASB: saw)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶ֨מֶשׁ֙",
+        "phrase": "yesterday",
+        "literal": "yesterday",
+        "source": "H570 (KJV: yesterday; ESV: yesterday; NASB: yesterday)"
+      },
+      {
+        "position": 11,
+        "surface": "נְאֻם",
+        "phrase": "declares",
+        "literal": "declaration",
+        "source": "H5002 (KJV: saith; ESV: declares; NASB: declares)"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/שִׁלַּמְתִּ֥י",
+        "phrase": "and I will repay",
+        "literal": "and-I-will-repay",
+        "source": "H7999 (KJV: requite; ESV: repay; NASB: repay)"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/ךָ֛",
+        "phrase": "you",
+        "literal": "to-you",
+        "source": " (KJV: thee; ESV: you; NASB: you)"
+      },
+      {
+        "position": 15,
+        "surface": "בַּ/חֶלְקָ֥ה",
+        "phrase": "on this plot",
+        "literal": "in-the-plot",
+        "source": "H2513 (KJV: plat; ESV: plot; NASB: plot)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/זֹּ֖את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 17,
+        "surface": "נְאֻם",
+        "phrase": "declares",
+        "literal": "declaration",
+        "source": "H5002 (KJV: saith; ESV: declares; NASB: declares)"
+      },
+      {
+        "position": 18,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "Now therefore",
+        "literal": "and-now",
+        "source": "H6258 (KJV: Now therefore; ESV: Now therefore; NASB: Now therefore)"
+      },
+      {
+        "position": 20,
+        "surface": "שָׂ֧א",
+        "phrase": "take up",
+        "literal": "lift",
+        "source": "H5375 (KJV: take; ESV: pick; NASB: pick)"
+      },
+      {
+        "position": 21,
+        "surface": "הַשְׁלִכֵ֛/הוּ",
+        "phrase": "and throw him",
+        "literal": "throw-him",
+        "source": "H7993 (KJV: cast; ESV: throw; NASB: throw)"
+      },
+      {
+        "position": 22,
+        "surface": "בַּ/חֶלְקָ֖ה",
+        "phrase": "on the plot",
+        "literal": "in-the-plot",
+        "source": "H2513 (KJV: plat; ESV: plot; NASB: plot)"
+      },
+      {
+        "position": 23,
+        "surface": "כִּ/דְבַ֥ר",
+        "phrase": "according to the word",
+        "literal": "as-word",
+        "source": "H1697 (KJV: word; ESV: word; NASB: word)"
+      },
+      {
+        "position": 24,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 6,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֖לֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: went; ESV: went; NASB: went)"
+      },
+      {
+        "position": 2,
+        "surface": "אִתָּ֑/ם",
+        "phrase": "with them",
+        "literal": "with-them",
+        "source": "H854 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּבֹ֨אוּ֙",
+        "phrase": "and they came",
+        "literal": "and-they-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יַּרְדֵּ֔נָ/ה",
+        "phrase": "to the Jordan",
+        "literal": "to-the-Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      },
+      {
+        "position": 5,
+        "surface": "וַֽ/יִּגְזְר֖וּ",
+        "phrase": "and they cut down",
+        "literal": "and-they-cut",
+        "source": "H1504 (KJV: cut down; ESV: cut down; NASB: cut)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עֵצִֽים",
+        "phrase": "the trees",
+        "literal": "the-trees",
+        "source": "H6086 (KJV: wood/trees; ESV: trees; NASB: trees)"
+      }
+    ]
+  }
+]

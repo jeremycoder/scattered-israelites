@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 24,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּמְלֵ֧ךְ",
+        "phrase": "and made king",
+        "literal": "and-he-made-king",
+        "source": "H4427; KJV 'made', ESV 'made', NASB 'made'"
+      },
+      {
+        "position": 2,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428; KJV 'king', ESV 'of Babylon', NASB 'of Babylon'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּבֶ֛ל",
+        "phrase": "of Babylon",
+        "literal": "Babylon",
+        "source": "H894; KJV 'of Babylon', ESV 'of Babylon', NASB 'of Babylon'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object)",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "מַתַּנְיָ֥ה",
+        "phrase": "Mattaniah",
+        "literal": "Mattaniah",
+        "source": "H4983; KJV 'Mattaniah', ESV 'Mattaniah', NASB 'Mattaniah'"
+      },
+      {
+        "position": 6,
+        "surface": "דֹד֖/וֹ",
+        "phrase": "his uncle",
+        "literal": "uncle-his",
+        "source": "H1730; KJV 'his father's brother', ESV 'Jehoiachin's uncle', NASB 'Jehoiachin's uncle'"
+      },
+      {
+        "position": 7,
+        "surface": "תַּחְתָּ֑י/ו",
+        "phrase": "in his place",
+        "literal": "under/in-place-of-him",
+        "source": "H8478; KJV 'in his stead', ESV 'in his place', NASB 'in his place'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּסֵּ֥ב",
+        "phrase": "and changed",
+        "literal": "and-he-turned/changed",
+        "source": "H5437; KJV 'changed', ESV 'changed', NASB 'changed'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object)",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "H8034; KJV 'his name', ESV 'his name', NASB 'his name'"
+      },
+      {
+        "position": 11,
+        "surface": "צִדְקִיָּֽהוּ",
+        "phrase": "to Zedekiah",
+        "literal": "Zedekiah",
+        "source": "H6667; KJV 'Zedekiah', ESV 'Zedekiah', NASB 'Zedekiah'"
+      }
+    ]
+  }
+]

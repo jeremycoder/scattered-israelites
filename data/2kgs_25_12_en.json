@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 25,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִ/דַּלַּ֣ת",
+        "phrase": "some of the poorest",
+        "literal": "and-from-poorest",
+        "source": "H1803; KJV: 'of the poor', ESV: 'of the poorest', NASB: 'of the poorest'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "H776; KJV: 'of the land', ESV: 'of the land', NASB: 'of the land'"
+      },
+      {
+        "position": 3,
+        "surface": "הִשְׁאִ֖יר",
+        "phrase": "left",
+        "literal": "he-left",
+        "source": "H7604; KJV: 'left', ESV: 'left', NASB: 'left'"
+      },
+      {
+        "position": 4,
+        "surface": "רַב",
+        "phrase": "captain",
+        "literal": "chief",
+        "source": "H7227; KJV: 'captain', ESV: 'captain', NASB: 'captain'"
+      },
+      {
+        "position": 5,
+        "surface": "טַבָּחִ֑ים",
+        "phrase": "of the guard",
+        "literal": "executioners",
+        "source": "H2876; KJV: 'of the guard', ESV: 'of the guard', NASB: 'of the guard'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/כֹֽרְמִ֖ים",
+        "phrase": "vinedressers",
+        "literal": "to-vinedressers",
+        "source": "H3755; KJV: 'vinedressers', ESV: 'vinedressers', NASB: 'vinedressers'"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/לְ/יֹגְבִֽים",
+        "phrase": "and plowmen",
+        "literal": "and-to-plowmen",
+        "source": "H1461; KJV: 'husbandmen', ESV: 'plowmen', NASB: 'field workers'"
+      }
+    ]
+  }
+]

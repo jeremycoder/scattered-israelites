@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 4,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֕א",
+        "phrase": "So he went in",
+        "literal": "and-he-went-in",
+        "source": "H935 (KJV: went in therefore; ESV: went in; NASB: entered)"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יִּסְגֹּ֥ר",
+        "phrase": "and closed",
+        "literal": "and-he-shut",
+        "source": "H5462 (KJV: shut the door; ESV: shut the door; NASB: shut the door)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דֶּ֖לֶת",
+        "phrase": "the door",
+        "literal": "the-door",
+        "source": "H1817 (KJV: the door; ESV: the door; NASB: the door)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּעַ֣ד",
+        "phrase": "behind",
+        "literal": "behind",
+        "source": "H1157 (KJV: upon; ESV: behind; NASB: behind)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵי/הֶ֑ם",
+        "phrase": "the two of them",
+        "literal": "two-of-them",
+        "source": "H8147 (KJV: them twain; ESV: the two of them; NASB: them both)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּתְפַּלֵּ֖ל",
+        "phrase": "and prayed",
+        "literal": "and-he-prayed",
+        "source": "H6419 (KJV: prayed; ESV: prayed; NASB: prayed)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

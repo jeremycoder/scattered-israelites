@@ -1,0 +1,172 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 23,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁבֵּ֣ת",
+        "phrase": "and he caused to cease",
+        "literal": "and-he-caused-to-cease",
+        "source": "H7673 (KJV: took away; ESV: removed; NASB: did away with)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/סּוּסִ֗ים",
+        "phrase": "horses",
+        "literal": "the-horses",
+        "source": "H5483 (KJV: horses; ESV: horses; NASB: horses)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: which)"
+      },
+      {
+        "position": 5,
+        "surface": "נָתְנוּ֩",
+        "phrase": "had given",
+        "literal": "they-gave",
+        "source": "H5414 (KJV: had given; ESV: had dedicated; NASB: had given)"
+      },
+      {
+        "position": 6,
+        "surface": "מַלְכֵ֨י",
+        "phrase": "kings",
+        "literal": "kings-of",
+        "source": "H4428 (KJV: kings; ESV: kings; NASB: kings)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוּדָ֤ה",
+        "phrase": "of Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/שֶּׁ֨מֶשׁ֙",
+        "phrase": "to the sun",
+        "literal": "to-the-sun",
+        "source": "H8121 (KJV: to the sun; ESV: to the sun; NASB: to the sun)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/בֹּ֣א",
+        "phrase": "at the entrance",
+        "literal": "from-entering-of",
+        "source": "H935 (KJV: at the entering in; ESV: at the entrance; NASB: at the entrance)"
+      },
+      {
+        "position": 10,
+        "surface": "בֵית",
+        "phrase": "of the house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֔ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "by",
+        "literal": "to",
+        "source": "H413 (KJV: by; ESV: by; NASB: by)"
+      },
+      {
+        "position": 13,
+        "surface": "לִשְׁכַּת֙",
+        "phrase": "chamber",
+        "literal": "chamber-of",
+        "source": "H3957 (KJV: chamber; ESV: chamber; NASB: chamber)"
+      },
+      {
+        "position": 14,
+        "surface": "נְתַן",
+        "phrase": "Nathan",
+        "literal": "Nathan",
+        "source": "H5414 (KJV: Nathanmelech; ESV: Nathan-Melech; NASB: Nathan-melech)"
+      },
+      {
+        "position": 15,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "Melech",
+        "literal": "king",
+        "source": "H4428 (KJV: Nathanmelech; ESV: Nathan-Melech; NASB: Nathan-melech)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/סָּרִ֔יס",
+        "phrase": "the eunuch",
+        "literal": "the-eunuch",
+        "source": "H5631 (KJV: chamberlain; ESV: official; NASB: official)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which was",
+        "literal": "which",
+        "source": "H834 (KJV: which was; ESV: which was; NASB: which was)"
+      },
+      {
+        "position": 18,
+        "surface": "בַּ/פַּרְוָרִ֑ים",
+        "phrase": "in the precincts",
+        "literal": "in-the-precincts",
+        "source": "H6503 (KJV: suburbs; ESV: precincts; NASB: precincts)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-direct-object-marker",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 20,
+        "surface": "מַרְכְּב֥וֹת",
+        "phrase": "chariots",
+        "literal": "chariots-of",
+        "source": "H4818 (KJV: chariots; ESV: chariots; NASB: chariots)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/שֶּׁ֖מֶשׁ",
+        "phrase": "of the sun",
+        "literal": "the-sun",
+        "source": "H8121 (KJV: of the sun; ESV: of the sun; NASB: of the sun)"
+      },
+      {
+        "position": 22,
+        "surface": "שָׂרַ֥ף",
+        "phrase": "he burned",
+        "literal": "he-burned",
+        "source": "H8313 (KJV: burned; ESV: burned; NASB: burned)"
+      },
+      {
+        "position": 23,
+        "surface": "בָּ/אֵֽשׁ",
+        "phrase": "with fire",
+        "literal": "in-fire",
+        "source": "H784 (KJV: with fire; ESV: with fire; NASB: with fire)"
+      }
+    ]
+  }
+]

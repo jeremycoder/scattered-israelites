@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 12,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כֶּ֤סֶף",
+        "phrase": "money",
+        "literal": "silver",
+        "source": "H3701; KJV: 'money', ESV: 'money', NASB: 'money'"
+      },
+      {
+        "position": 2,
+        "surface": "אָשָׁם֙",
+        "phrase": "for guilt offerings",
+        "literal": "guilt",
+        "source": "H817; KJV: 'trespass', ESV: 'guilt', NASB: 'guilt'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/כֶ֣סֶף",
+        "phrase": "and money",
+        "literal": "and-silver",
+        "source": "H3701; KJV: 'and', 'money', ESV: 'and', 'money', NASB: 'and', 'money'"
+      },
+      {
+        "position": 4,
+        "surface": "חַטָּא֔וֹת",
+        "phrase": "for sin offerings",
+        "literal": "sins",
+        "source": "H2399; KJV: 'sins', ESV: 'sin', NASB: 'sin'"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: 'not', ESV: 'not', NASB: 'not'"
+      },
+      {
+        "position": 6,
+        "surface": "יוּבָ֖א",
+        "phrase": "was brought",
+        "literal": "be-brought",
+        "source": "H935; KJV: 'brought', ESV: 'brought', NASB: 'brought'"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004; KJV: 'house', ESV: 'house', NASB: 'house'"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'LORD', ESV: 'LORD', NASB: 'LORD'"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/כֹּהֲנִ֖ים",
+        "phrase": "to the priests",
+        "literal": "to-the-priests",
+        "source": "H3548; KJV: 'priests', ESV: 'priests', NASB: 'priests'"
+      },
+      {
+        "position": 10,
+        "surface": "יִהְיֽוּ",
+        "phrase": "it belonged",
+        "literal": "be",
+        "source": "H1961; KJV: 'be', ESV: 'belonged', NASB: 'belonged'"
+      }
+    ]
+  }
+]

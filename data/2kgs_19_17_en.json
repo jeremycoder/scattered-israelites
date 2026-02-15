@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 19,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָמְנָ֖ם",
+        "phrase": "Truly",
+        "literal": "truly",
+        "source": "H551 (KJV: Of a truth; ESV: Truly; NASB: Truly)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֑ה",
+        "phrase": "O YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶחֱרִ֜יבוּ",
+        "phrase": "have laid waste",
+        "literal": "they-have-devastated",
+        "source": "H2717 (KJV: have destroyed; ESV: have laid waste; NASB: have devastated)"
+      },
+      {
+        "position": 4,
+        "surface": "מַלְכֵ֥י",
+        "phrase": "the kings of",
+        "literal": "kings-of",
+        "source": "H4428 (KJV: the kings; ESV: the kings; NASB: the kings)"
+      },
+      {
+        "position": 5,
+        "surface": "אַשּׁ֛וּר",
+        "phrase": "Assyria",
+        "literal": "Assyria",
+        "source": "H804 (KJV: of Assyria; ESV: of Assyria; NASB: of Assyria)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/גּוֹיִ֖ם",
+        "phrase": "the nations",
+        "literal": "the/nations",
+        "source": "H1471 (KJV: the nations; ESV: the nations; NASB: the nations)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and/[et]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 9,
+        "surface": "אַרְצָֽ/ם",
+        "phrase": "their lands",
+        "literal": "land-of-them",
+        "source": "H776 (KJV: their lands; ESV: their lands; NASB: their lands)"
+      }
+    ]
+  }
+]

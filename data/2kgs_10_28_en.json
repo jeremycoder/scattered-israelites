@@ -1,0 +1,46 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 10,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁמֵ֥ד",
+        "phrase": "and he destroyed",
+        "literal": "and-he-destroyed",
+        "source": "H8045 (KJV: destroyed; ESV: eradicated; NASB: eradicated)"
+      },
+      {
+        "position": 2,
+        "surface": "יֵה֛וּא",
+        "phrase": "Jehu",
+        "literal": "Jehu",
+        "source": "H3058 (KJV: Jehu; ESV: Jehu; NASB: Jehu)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בַּ֖עַל",
+        "phrase": "the Baal",
+        "literal": "the-Baal",
+        "source": "H1168 (KJV: Baal; ESV: Baal; NASB: Baal)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/יִּשְׂרָאֵֽל",
+        "phrase": "from Israel",
+        "literal": "from-Israel",
+        "source": "H3478 (KJV: out of Israel; ESV: from Israel; NASB: out of Israel)"
+      }
+    ]
+  }
+]

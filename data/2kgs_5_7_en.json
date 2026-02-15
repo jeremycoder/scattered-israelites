@@ -1,0 +1,214 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 5,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֡י",
+        "phrase": "And it happened",
+        "literal": "and-he-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: And when; NASB: When)"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ/קְרֹא֩",
+        "phrase": "when reading",
+        "literal": "in-reading-his",
+        "source": "H7121 (KJV: when the king; ESV: the king of Israel read; NASB: the king of Israel read)"
+      },
+      {
+        "position": 3,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: of Israel; ESV: of Israel; NASB: of Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֨ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: read; ESV: read the letter; NASB: read the letter)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: the letter; ESV: the letter; NASB: the letter)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/סֵּ֜פֶר",
+        "phrase": "the letter",
+        "literal": "the-letter",
+        "source": "H5612 (KJV: he; ESV: he tore; NASB: he tore)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּקְרַ֣ע",
+        "phrase": "and he tore",
+        "literal": "and-he-tore",
+        "source": "H7167 (KJV: his clothes; ESV: his clothes; NASB: his clothes)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּגָדָ֗י/ו",
+        "phrase": "his clothes",
+        "literal": "his-garments-his",
+        "source": "H899 (KJV: and said; ESV: and said; NASB: and said)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: Am I God; ESV: Am I God; NASB: Am I God)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/אֱלֹהִ֥ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 (KJV: to kill; ESV: to kill; NASB: to kill)"
+      },
+      {
+        "position": 11,
+        "surface": "אָ֨נִי֙",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: and to make; ESV: and to make; NASB: and to make)"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/הָמִ֣ית",
+        "phrase": "to kill",
+        "literal": "to-kill",
+        "source": "H4191 (KJV: alive; ESV: alive; NASB: alive)"
+      },
+      {
+        "position": 13,
+        "surface": "וּֽ/לְ/הַחֲי֔וֹת",
+        "phrase": "and to make alive",
+        "literal": "and-to-make-alive",
+        "source": "H2421 (KJV: that this man; ESV: that this man; NASB: that this man)"
+      },
+      {
+        "position": 14,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: sends; ESV: sends; NASB: is sending)"
+      },
+      {
+        "position": 15,
+        "surface": "זֶה֙",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: word to me; ESV: word to me; NASB: word to me)"
+      },
+      {
+        "position": 16,
+        "surface": "שֹׁלֵ֣חַ",
+        "phrase": "sends",
+        "literal": "sending",
+        "source": "H7971 (KJV: to cure; ESV: to cure; NASB: to cure)"
+      },
+      {
+        "position": 17,
+        "surface": "אֵלַ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: a man; ESV: a man; NASB: a man)"
+      },
+      {
+        "position": 18,
+        "surface": "לֶ/אֱסֹ֥ף",
+        "phrase": "to gather",
+        "literal": "to-gather",
+        "source": "H622 (KJV: of his leprosy; ESV: of his leprosy; NASB: of his leprosy)"
+      },
+      {
+        "position": 19,
+        "surface": "אִ֖ישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: but consider; ESV: Only consider; NASB: But consider)"
+      },
+      {
+        "position": 20,
+        "surface": "מִ/צָּֽרַעְתּ֑/וֹ",
+        "phrase": "from his leprosy",
+        "literal": "from-leprosy-his",
+        "source": "H6883 (KJV: and see; ESV: and see; NASB: and see)"
+      },
+      {
+        "position": 21,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: how he; ESV: how he; NASB: how he)"
+      },
+      {
+        "position": 22,
+        "surface": "אַךְ",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H389 (KJV: seeketh; ESV: is seeking; NASB: is seeking)"
+      },
+      {
+        "position": 23,
+        "surface": "דְּעֽוּ",
+        "phrase": "know",
+        "literal": "know-ye",
+        "source": "H3045 (KJV: a quarrel; ESV: a quarrel; NASB: a quarrel)"
+      },
+      {
+        "position": 24,
+        "surface": "נָא֙",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (implied in translations)"
+      },
+      {
+        "position": 25,
+        "surface": "וּ/רְא֔וּ",
+        "phrase": "and see",
+        "literal": "and-see-ye",
+        "source": "H7200 (KJV: with me; ESV: with me; NASB: against me)"
+      },
+      {
+        "position": 26,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 27,
+        "surface": "מִתְאַנֶּ֥ה",
+        "phrase": "he is seeking",
+        "literal": "he-is-seeking",
+        "source": "H579 (KJV: a quarrel with me; ESV: a quarrel with me; NASB: a quarrel against me)"
+      },
+      {
+        "position": 28,
+        "surface": "ה֖וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 29,
+        "surface": "לִֽ/י",
+        "phrase": "against me",
+        "literal": "to-me",
+        "source": " (implied in translations; suffix)"
+      }
+    ]
+  }
+]

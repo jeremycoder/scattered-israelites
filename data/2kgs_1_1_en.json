@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Kings",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּפְשַׁ֤ע",
+        "phrase": "And Moab rebelled",
+        "literal": "and-rebelled",
+        "source": "H6586; KJV: 'rebelled', ESV: 'rebelled', NASB: 'rebelled'"
+      },
+      {
+        "position": 2,
+        "surface": "מוֹאָב֙",
+        "phrase": "Moab",
+        "literal": "Moab",
+        "source": "H4124; KJV: 'Moab', ESV: 'Moab', NASB: 'Moab'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/יִשְׂרָאֵ֔ל",
+        "phrase": "against Israel",
+        "literal": "in-against-Israel",
+        "source": "H3478; KJV: 'against Israel', ESV: 'against Israel', NASB: 'against Israel'"
+      },
+      {
+        "position": 4,
+        "surface": "אַחֲרֵ֖י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310; KJV: 'after', ESV: 'after', NASB: 'after'"
+      },
+      {
+        "position": 5,
+        "surface": "מ֥וֹת",
+        "phrase": "the death",
+        "literal": "death",
+        "source": "H4194; KJV: 'death', ESV: 'death', NASB: 'death'"
+      },
+      {
+        "position": 6,
+        "surface": "אַחְאָֽב",
+        "phrase": "of Ahab",
+        "literal": "Ahab",
+        "source": "H256; KJV: 'Ahab', ESV: 'Ahab', NASB: 'Ahab'"
+      }
+    ]
+  }
+]
