@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דָוִ֖ד",
+        "phrase": "And David",
+        "literal": "and-David",
+        "source": "H1732; KJV: 'And David', ESV: 'David', NASB: 'David'"
+      },
+      {
+        "position": 2,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931; KJV: (implied 'was'), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/קָּטָ֑ן",
+        "phrase": "the youngest",
+        "literal": "the-small-one",
+        "source": "H6996; KJV: 'the youngest', ESV: 'the youngest', NASB: 'the youngest'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁלֹשָׁה֙",
+        "phrase": "and the three",
+        "literal": "and-three",
+        "source": "H7969; KJV: 'and the three', ESV: 'The three', NASB: 'the three'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גְּדֹלִ֔ים",
+        "phrase": "oldest",
+        "literal": "the-great-ones",
+        "source": "H1419; KJV: 'eldest', ESV: 'eldest', NASB: 'oldest'"
+      },
+      {
+        "position": 6,
+        "surface": "הָלְכ֖וּ",
+        "phrase": "had followed",
+        "literal": "they-walked",
+        "source": "H1980; KJV: 'followed', ESV: 'followed', NASB: 'followed'"
+      },
+      {
+        "position": 7,
+        "surface": "אַחֲרֵ֥י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁאֽוּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586; KJV: 'Saul', ESV: 'Saul', NASB: 'Saul'"
+      }
+    ]
+  }
+]

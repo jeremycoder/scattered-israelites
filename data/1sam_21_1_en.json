@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֖קָם",
+        "phrase": "and he arose",
+        "literal": "and-he-arose",
+        "source": "H6965; KJV: Then came, ESV: Then David came, NASB: Then David came"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יֵּלַ֑ךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212; KJV: came, ESV: came, NASB: came"
+      },
+      {
+        "position": 3,
+        "surface": "וִ/יהוֹנָתָ֖ן",
+        "phrase": "and Jonathan",
+        "literal": "and-Jonathan",
+        "source": "H3083; KJV: (implied in context), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ֥א",
+        "phrase": "came",
+        "literal": "he-came",
+        "source": "H935; KJV: came, ESV: came, NASB: came"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עִֽיר",
+        "phrase": "to the city",
+        "literal": "to-the-city",
+        "source": "H5892; KJV: Nob (contextual), ESV: Nob, NASB: Nob"
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֤י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "חַטַּאת",
+        "phrase": "is the sin",
+        "literal": "sin-fs",
+        "source": "H2403 (KJV: sin; ESV: sin; NASB: sin)"
+      },
+      {
+        "position": 3,
+        "surface": "קֶ֨סֶם֙",
+        "phrase": "of divination",
+        "literal": "divination-ms",
+        "source": "H7081 (KJV: witchcraft; ESV: divination; NASB: divination)"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֔רִי",
+        "phrase": "is rebellion",
+        "literal": "rebellion-ms",
+        "source": "H4805 (KJV: rebellion; ESV: rebellion; NASB: insubordination)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אָ֥וֶן",
+        "phrase": "and iniquity",
+        "literal": "and-iniquity-ms",
+        "source": "H205 (KJV: iniquity; ESV: iniquity; NASB: iniquity)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/תְרָפִ֖ים",
+        "phrase": "and teraphim",
+        "literal": "and-teraphim-mp",
+        "source": "H8655 (KJV: teraphim; ESV: teraphim; NASB: teraphim)"
+      },
+      {
+        "position": 7,
+        "surface": "הַפְצַ֑ר",
+        "phrase": "is stubbornness",
+        "literal": "is-stubbornness",
+        "source": "H6484 (KJV: stubbornness; ESV: stubbornness; NASB: stubbornness)"
+      },
+      {
+        "position": 8,
+        "surface": "יַ֗עַן",
+        "phrase": "Because",
+        "literal": "because",
+        "source": "H3282 (KJV: Because; ESV: Because; NASB: Because)"
+      },
+      {
+        "position": 9,
+        "surface": "מָאַ֨סְתָּ֙",
+        "phrase": "you have rejected",
+        "literal": "you-have-rejected",
+        "source": "H3988 (KJV: thou hast rejected; ESV: you have rejected; NASB: you have rejected)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "דְּבַ֣ר",
+        "phrase": "word",
+        "literal": "word-ms",
+        "source": "H1697 (KJV: word; ESV: word; NASB: word)"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָ֔ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יִּמְאָסְ/ךָ֖",
+        "phrase": "and He has rejected you",
+        "literal": "and-He-has-rejected-you",
+        "source": "H3988 (KJV: he hath also rejected thee; ESV: he has also rejected you; NASB: He has also rejected you)"
+      },
+      {
+        "position": 14,
+        "surface": "מִ/מֶּֽלֶךְ",
+        "phrase": "from being king",
+        "literal": "from-king",
+        "source": "H4428 (KJV: from being king; ESV: from being king; NASB: from being king)"
+      }
+    ]
+  }
+]

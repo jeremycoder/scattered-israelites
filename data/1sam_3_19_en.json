@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגְדַּ֖ל",
+        "phrase": "And Samuel grew",
+        "literal": "and-he-caused-to-grow",
+        "source": "H1431; KJV: 'Thus Samuel grew', ESV: 'And Samuel grew', NASB: 'Now Samuel grew'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֑ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050; KJV: 'Samuel', ESV: 'Samuel', NASB: 'Samuel'"
+      },
+      {
+        "position": 3,
+        "surface": "וַֽ/יהוָה֙",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068; KJV: 'the LORD', ESV: 'the Lord', NASB: 'the Lord'"
+      },
+      {
+        "position": 4,
+        "surface": "הָיָ֣ה",
+        "phrase": "was",
+        "literal": "he-was",
+        "source": "H1961; KJV: 'was', ESV: 'was', NASB: 'was'"
+      },
+      {
+        "position": 5,
+        "surface": "עִמּ֔/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973; KJV: 'with him', ESV: 'with him', NASB: 'with him'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808; KJV: 'and let none', ESV: 'and let none', NASB: 'and He let none'"
+      },
+      {
+        "position": 7,
+        "surface": "הִפִּ֥יל",
+        "phrase": "he caused to fall",
+        "literal": "he-caused-to-fall",
+        "source": "H5307; KJV: 'let ... fall', ESV: 'let ... fall', NASB: 'let ... fall'"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/כָּל",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "H3605; KJV: 'none of his', ESV: 'none of his', NASB: 'none of his'"
+      },
+      {
+        "position": 9,
+        "surface": "דְּבָרָ֖י/ו",
+        "phrase": "his words",
+        "literal": "words-his",
+        "source": "H1697; KJV: 'words', ESV: 'words', NASB: 'words'"
+      },
+      {
+        "position": 10,
+        "surface": "אָֽרְצָ/ה",
+        "phrase": "to the ground",
+        "literal": "to-ground",
+        "source": "H776; KJV: 'to the ground', ESV: 'to the ground', NASB: 'to the ground'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "And he was",
+        "literal": "and-he-was",
+        "source": "H1961 (KJV: And; ESV: And; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "דָוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/כָל",
+        "phrase": "in all",
+        "literal": "to-all",
+        "source": "H3605 (KJV: in all; ESV: in all; NASB: in all)"
+      },
+      {
+        "position": 4,
+        "surface": "דָּרְכָ֖/ו",
+        "phrase": "his ways",
+        "literal": "ways-his",
+        "source": "H1870 (KJV: his ways; ESV: his undertakings; NASB: his ways)"
+      },
+      {
+        "position": 5,
+        "surface": "מַשְׂכִּ֑יל",
+        "phrase": "prospering",
+        "literal": "prospering",
+        "source": "H7919 (KJV: behaved himself wisely; ESV: had success; NASB: prospering)"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יהוָ֖ה",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "עִמּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973 (KJV: with him; ESV: with him; NASB: with him)"
+      }
+    ]
+  }
+]

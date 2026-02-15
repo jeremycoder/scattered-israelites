@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּגַּ֥שׁ",
+        "phrase": "and drew near",
+        "literal": "and-he-drew-near",
+        "source": "H5066: KJV 'drew near', ESV 'came forward', NASB 'came forward'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/פְּלִשְׁתִּ֖י",
+        "phrase": "the Philistine",
+        "literal": "the-Philistine",
+        "source": "H6430: KJV 'the Philistine', ESV 'the Philistine', NASB 'the Philistine'"
+      },
+      {
+        "position": 3,
+        "surface": "הַשְׁכֵּ֣ם",
+        "phrase": "morning",
+        "literal": "rising-early",
+        "source": "H7925: KJV 'morning', ESV 'morning', NASB 'morning'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/הַעֲרֵ֑ב",
+        "phrase": "and evening",
+        "literal": "and-evening",
+        "source": "H6150: KJV 'evening', ESV 'evening', NASB 'evening'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּתְיַצֵּ֖ב",
+        "phrase": "and presented himself",
+        "literal": "and-he-stationed-himself",
+        "source": "H3320: KJV 'presented himself', ESV 'took his stand', NASB 'took his stand'"
+      },
+      {
+        "position": 6,
+        "surface": "אַרְבָּעִ֥ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "H705: KJV 'forty', ESV 'forty', NASB 'forty'"
+      },
+      {
+        "position": 7,
+        "surface": "יֽוֹם",
+        "phrase": "days",
+        "literal": "day",
+        "source": "H3117: KJV 'days', ESV 'days', NASB 'days'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְּשָּֽׁמְעוּ֙",
+        "phrase": "and they heard",
+        "literal": "and-they-heard",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דְּבָרִ֔ים",
+        "phrase": "the words",
+        "literal": "the-words",
+        "source": "H1697 (KJV: words; ESV: words; NASB: words)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 4,
+        "surface": "דִּבֶּ֣ר",
+        "phrase": "spoke",
+        "literal": "he-spoke",
+        "source": "H1696 (KJV: spake; ESV: spoke; NASB: spoke)"
+      },
+      {
+        "position": 5,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּגִּ֥דוּ",
+        "phrase": "and they told",
+        "literal": "and-they-told",
+        "source": "H5046 (KJV: rehearsed; ESV: repeated; NASB: told)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנֵֽי",
+        "phrase": "before",
+        "literal": "to-before",
+        "source": "H6440 (KJV: before; ESV: before; NASB: to)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּקָּחֵֽ/הוּ",
+        "phrase": "and he took him",
+        "literal": "and-he-took-him",
+        "source": "H3947 (KJV: sent for him; ESV: sent for him; NASB: sent for him)"
+      }
+    ]
+  }
+]

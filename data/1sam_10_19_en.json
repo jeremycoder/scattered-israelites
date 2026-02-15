@@ -1,0 +1,179 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַתֶּ֨ם",
+        "phrase": "and-you",
+        "literal": "and-you(pl)",
+        "source": "H859 (KJV: 'ye'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יּ֜וֹם",
+        "phrase": "the-day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: 'this day'; ESV: 'today'; NASB: 'today')"
+      },
+      {
+        "position": 3,
+        "surface": "מְאַסְתֶּ֣ם",
+        "phrase": "you-have-rejected",
+        "literal": "you-have-rejected",
+        "source": "H3988 (KJV: 'rejected'; ESV: 'rejected'; NASB: 'rejected')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֵי/כֶ֗ם",
+        "phrase": "God-of-you",
+        "literal": "gods-your(pl)",
+        "source": "H430 (KJV: 'your God'; ESV: 'your God'; NASB: 'your God')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "who/which",
+        "source": "H834 (KJV: 'who'; ESV: 'who'; NASB: 'who')"
+      },
+      {
+        "position": 7,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he/it",
+        "source": "H1931 (KJV: 'himself'; ESV: 'himself'; NASB: 'Himself')"
+      },
+      {
+        "position": 8,
+        "surface": "מוֹשִׁ֣יעַ",
+        "phrase": "saves",
+        "literal": "saving/savior",
+        "source": "H3467 (KJV: 'saveth'; ESV: 'saves'; NASB: 'saves')"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶם֮",
+        "phrase": "for-you",
+        "literal": "to-you(pl)",
+        "source": " (KJV: 'you'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/כָּל",
+        "phrase": "from-all",
+        "literal": "from-all",
+        "source": "H3605 (KJV: 'from all'; ESV: 'from all'; NASB: 'from all')"
+      },
+      {
+        "position": 11,
+        "surface": "רָעוֹתֵי/כֶ֣ם",
+        "phrase": "your-evils",
+        "literal": "evils-your(pl)",
+        "source": "H7451 (KJV: 'adversities'; ESV: 'calamities'; NASB: 'calamities')"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/צָרֹֽתֵי/כֶם֒",
+        "phrase": "and-your-distresses",
+        "literal": "and-distresses-your(pl)",
+        "source": "H6869 (KJV: 'tribulations'; ESV: 'distresses'; NASB: 'distresses')"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/תֹּ֣אמְרוּ",
+        "phrase": "and-you-said",
+        "literal": "and-you-said(pl)",
+        "source": "H559 (KJV: 'ye have said'; ESV: 'you have said'; NASB: 'you have said')"
+      },
+      {
+        "position": 14,
+        "surface": "ל֔/וֹ",
+        "phrase": "to-him",
+        "literal": "to-him",
+        "source": " (KJV: 'unto him'; ESV: 'to him'; NASB: 'to Him')"
+      },
+      {
+        "position": 15,
+        "surface": "כִּי",
+        "phrase": "[for]-",
+        "literal": "that/because",
+        "source": "H3588 (KJV: 'Nay'; ESV: 'No'; NASB: 'No')"
+      },
+      {
+        "position": 16,
+        "surface": "מֶ֖לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: 'king'; ESV: 'king'; NASB: 'king')"
+      },
+      {
+        "position": 17,
+        "surface": "תָּשִׂ֣ים",
+        "phrase": "you-will-set",
+        "literal": "you-will-place",
+        "source": "H7760 (KJV: 'set'; ESV: 'appoint'; NASB: 'set')"
+      },
+      {
+        "position": 18,
+        "surface": "עָלֵ֑י/נוּ",
+        "phrase": "over-us",
+        "literal": "over-us",
+        "source": "H5921 (KJV: 'over us'; ESV: 'over us'; NASB: 'over us')"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and-now",
+        "literal": "and-now",
+        "source": "H6258 (KJV: 'Now therefore'; ESV: 'Now therefore'; NASB: 'Now then')"
+      },
+      {
+        "position": 20,
+        "surface": "הִֽתְיַצְּבוּ֙",
+        "phrase": "present-yourselves",
+        "literal": "station-yourselves",
+        "source": "H3320 (KJV: 'present yourselves'; ESV: 'present yourselves'; NASB: 'present yourselves')"
+      },
+      {
+        "position": 21,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: 'before'; ESV: 'before'; NASB: 'before')"
+      },
+      {
+        "position": 22,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 23,
+        "surface": "לְ/שִׁבְטֵי/כֶ֖ם",
+        "phrase": "to-your-tribes",
+        "literal": "to-tribes-your(pl)",
+        "source": "H7626 (KJV: 'by your tribes'; ESV: 'by your tribes'; NASB: 'by your tribes')"
+      },
+      {
+        "position": 24,
+        "surface": "וּ/לְ/אַלְפֵי/כֶֽם",
+        "phrase": "and-to-your-thousands",
+        "literal": "and-to-thousands-your(pl)",
+        "source": "H505 (KJV: 'by your thousands'; ESV: 'by your clans'; NASB: 'by your thousands')"
+      }
+    ]
+  }
+]

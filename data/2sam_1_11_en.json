@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּחֲזֵ֥ק",
+        "phrase": "took hold",
+        "literal": "and-he-made-strong",
+        "source": "H2388; KJV/ESV/NASB: 'took hold of'/'seized'/'grabbed'"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB: 'David'"
+      },
+      {
+        "position": 3,
+        "surface": "ב/בגד/ו",
+        "phrase": "in his garment",
+        "literal": "in-garment-his",
+        "source": "H899; KJV: 'in his clothes', ESV: 'of his clothes', NASB: 'of his clothes'"
+      },
+      {
+        "position": 4,
+        "surface": "בִּ/בְגָדָ֖י/ו",
+        "phrase": "in his garments",
+        "literal": "in-garments-his",
+        "source": "H899; KJV/ESV/NASB: variant reading 'his clothes/garments'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקְרָעֵ֑/ם",
+        "phrase": "and tore them",
+        "literal": "and-he-tore-them",
+        "source": "H7167; KJV/ESV/NASB: 'tore them'/'tore them'/'tore them'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/גַ֥ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571; KJV: 'so did', ESV: 'so also', NASB: 'so also'"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV/ESV/NASB: 'all'"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֲנָשִׁ֖ים",
+        "phrase": "the men",
+        "literal": "the-men",
+        "source": "H376; KJV/ESV/NASB: 'the men'/'all the men'/'all the men'"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834; KJV/ESV/NASB: 'that were'/'who were'/'who were'"
+      },
+      {
+        "position": 10,
+        "surface": "אִתּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H854; KJV/ESV/NASB: 'with him'"
+      }
+    ]
+  }
+]

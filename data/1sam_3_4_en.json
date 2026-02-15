@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֧א",
+        "phrase": "and called",
+        "literal": "and-he-called",
+        "source": "H7121 (KJV: called; ESV: called; NASB: called)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁמוּאֵ֖ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: and he answered; ESV: and he said; NASB: and he said)"
+      },
+      {
+        "position": 6,
+        "surface": "הִנֵּֽ/נִי",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "H2005 (KJV: Here am I; ESV: Here I am; NASB: Here I am)"
+      }
+    ]
+  }
+]

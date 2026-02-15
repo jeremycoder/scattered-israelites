@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּֽי",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: you; NASB: You)"
+      },
+      {
+        "position": 3,
+        "surface": "נֵירִ֖/י",
+        "phrase": "are my lamp",
+        "literal": "lamp-of-me",
+        "source": "H5216 (KJV: my lamp; ESV: my lamp; NASB: my lamp)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: O LORD; ESV: O LORD; NASB: LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יהוָ֖ה",
+        "phrase": "and-YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: my God; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "יַגִּ֥יהַּ",
+        "phrase": "will enlighten",
+        "literal": "will-enlighten",
+        "source": "H5050 (KJV: will lighten; ESV: lightens; NASB: illuminates)"
+      },
+      {
+        "position": 7,
+        "surface": "חָשְׁכִּֽ/י",
+        "phrase": "my darkness",
+        "literal": "darkness-of-me",
+        "source": "H2822 (KJV: my darkness; ESV: my darkness; NASB: my darkness)"
+      }
+    ]
+  }
+]

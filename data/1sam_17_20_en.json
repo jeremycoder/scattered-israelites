@@ -1,0 +1,158 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁכֵּ֨ם",
+        "phrase": "And David rose early",
+        "literal": "and-he-arose-early",
+        "source": "H7925 (KJV: rose up early; ESV: rose early; NASB: arose early)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֜ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/בֹּ֗קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: in the morning; ESV: in the morning; NASB: in the morning)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּטֹּ֤שׁ",
+        "phrase": "and left",
+        "literal": "and-he-left",
+        "source": "H5203 (KJV: left; ESV: left; NASB: left)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/צֹּאן֙",
+        "phrase": "the sheep",
+        "literal": "the-flock",
+        "source": "H6629 (KJV: the sheep; ESV: the sheep; NASB: the flock)"
+      },
+      {
+        "position": 7,
+        "surface": "עַל",
+        "phrase": "with",
+        "literal": "upon",
+        "source": "H5921 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 8,
+        "surface": "שֹׁמֵ֔ר",
+        "phrase": "a keeper",
+        "literal": "keeper",
+        "source": "H8104 (KJV: a keeper; ESV: a keeper; NASB: a keeper)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּשָּׂ֣א",
+        "phrase": "and took",
+        "literal": "and-he-carried",
+        "source": "H5375 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יֵּ֔לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: went; ESV: went; NASB: went)"
+      },
+      {
+        "position": 11,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that-which",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 12,
+        "surface": "צִוָּ֖/הוּ",
+        "phrase": "had commanded him",
+        "literal": "had-commanded/him",
+        "source": "H6680 (KJV: had commanded him; ESV: had commanded him; NASB: had commanded him)"
+      },
+      {
+        "position": 13,
+        "surface": "יִשָׁ֑י",
+        "phrase": "Jesse",
+        "literal": "Jesse",
+        "source": "H3448 (KJV: Jesse; ESV: Jesse; NASB: Jesse)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יָּבֹא֙",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: he came; ESV: he came; NASB: he came)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/מַּעְגָּ֔לָ/ה",
+        "phrase": "to the circle of the camp",
+        "literal": "the-circle-of-the-camp",
+        "source": "H4570 (KJV: the trench; ESV: the encampment; NASB: the circle of the camp)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/הַ/חַ֗יִל",
+        "phrase": "and the army",
+        "literal": "and-the-army",
+        "source": "H2428 (KJV: the host; ESV: the host; NASB: the army)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/יֹּצֵא֙",
+        "phrase": "going out",
+        "literal": "the-going-out",
+        "source": "H3318 (KJV: going forth; ESV: going out; NASB: going out)"
+      },
+      {
+        "position": 18,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/מַּ֣עֲרָכָ֔ה",
+        "phrase": "the battle line",
+        "literal": "the-battle-array",
+        "source": "H4634 (KJV: the fight; ESV: the battle line; NASB: battle array)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/הֵרֵ֖עוּ",
+        "phrase": "shouting",
+        "literal": "and-they-shouted",
+        "source": "H7321 (KJV: shouted; ESV: shouting; NASB: shouting)"
+      },
+      {
+        "position": 21,
+        "surface": "בַּ/מִּלְחָמָֽה",
+        "phrase": "the war cry",
+        "literal": "in-the-battle",
+        "source": "H4421 (KJV: for the battle; ESV: the war cry; NASB: the war cry)"
+      }
+    ]
+  }
+]

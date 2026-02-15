@@ -1,0 +1,193 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲנוּ֩",
+        "phrase": "and answered",
+        "literal": "and-they_answered",
+        "source": "H6030 (KJV: answered; ESV: hailed; NASB: hailed)"
+      },
+      {
+        "position": 2,
+        "surface": "אַנְשֵׁ֨י",
+        "phrase": "men_of",
+        "literal": "men_of",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מַּצָּבָ֜ה",
+        "phrase": "the_garrison",
+        "literal": "the_garrison",
+        "source": "H4675 (KJV: garrison; ESV: garrison; NASB: garrison)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct_object_marker)",
+        "literal": "(direct_object_marker)",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹנָתָ֣ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3129 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and_(direct_object_marker)",
+        "literal": "and-(direct_object_marker)",
+        "source": "H853 (KJV: and [implied]; ESV: and [implied]; NASB: and [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "נֹשֵׂ֣א",
+        "phrase": "armor-bearer",
+        "literal": "bearer",
+        "source": "H5375 (KJV: armourbearer; ESV: armor-bearer; NASB: armor bearer)"
+      },
+      {
+        "position": 8,
+        "surface": "כֵלָ֗י/ו",
+        "phrase": "his_weapons",
+        "literal": "weapons-his",
+        "source": "H3627 (KJV: armourbearer; ESV: armor-bearer; NASB: armor bearer)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּֽאמְרוּ֙",
+        "phrase": "and_said",
+        "literal": "and-they_said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 10,
+        "surface": "עֲל֣וּ",
+        "phrase": "come_up",
+        "literal": "go_up",
+        "source": "H5927 (KJV: Come up; ESV: Come up; NASB: Come up)"
+      },
+      {
+        "position": 11,
+        "surface": "אֵלֵ֔י/נוּ",
+        "phrase": "to_us",
+        "literal": "to-us",
+        "source": "H413 (KJV: to us; ESV: to us; NASB: to us)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/נוֹדִ֥יעָה",
+        "phrase": "and_we_will_show",
+        "literal": "and-we_will_inform",
+        "source": "H3045 (KJV: we will shew; ESV: we will show; NASB: we will tell)"
+      },
+      {
+        "position": 13,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "(direct_object_marker)_you",
+        "literal": "(direct_object_marker)-you",
+        "source": "H853 (KJV: you [implied]; ESV: you [implied]; NASB: you [implied])"
+      },
+      {
+        "position": 14,
+        "surface": "דָּבָ֑ר",
+        "phrase": "a_thing",
+        "literal": "word/thing",
+        "source": "H1697 (KJV: a thing; ESV: a thing; NASB: something)"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "and_said",
+        "literal": "and-he_said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 16,
+        "surface": "יוֹנָתָ֜ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3129 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 17,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 18,
+        "surface": "נֹשֵׂ֤א",
+        "phrase": "armor-bearer",
+        "literal": "bearer",
+        "source": "H5375 (KJV: armourbearer; ESV: armor-bearer; NASB: armor bearer)"
+      },
+      {
+        "position": 19,
+        "surface": "כֵלָי/ו֙",
+        "phrase": "his_weapons",
+        "literal": "weapons-his",
+        "source": "H3627 (KJV: armourbearer; ESV: armor-bearer; NASB: armor bearer)"
+      },
+      {
+        "position": 20,
+        "surface": "עֲלֵ֣ה",
+        "phrase": "come_up",
+        "literal": "go_up",
+        "source": "H5927 (KJV: Come up; ESV: Come up; NASB: Come up)"
+      },
+      {
+        "position": 21,
+        "surface": "אַחֲרַ֔/י",
+        "phrase": "after_me",
+        "literal": "after-me",
+        "source": "H310 (KJV: after me; ESV: after me; NASB: after me)"
+      },
+      {
+        "position": 22,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 23,
+        "surface": "נְתָנָ֥/ם",
+        "phrase": "he_has_given_them",
+        "literal": "he_has_given-them",
+        "source": "H5414 (KJV: hath delivered; ESV: has given; NASB: has given)"
+      },
+      {
+        "position": 24,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 25,
+        "surface": "בְּ/יַ֥ד",
+        "phrase": "into_hand",
+        "literal": "in-hand",
+        "source": "H3027 (KJV: into the hand; ESV: into the hand; NASB: into the hands)"
+      },
+      {
+        "position": 26,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      }
+    ]
+  }
+]

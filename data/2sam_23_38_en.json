@@ -1,0 +1,39 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עִירָא֙",
+        "phrase": "Ira",
+        "literal": "Ira",
+        "source": "H5896: KJV 'Ira', ESV 'Ira', NASB 'Ira'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יִּתְרִ֔י",
+        "phrase": "the Ithrite",
+        "literal": "the-Ithrite",
+        "source": "H3505: KJV 'an Ithrite', ESV 'the Ithrite', NASB 'the Ithrite'"
+      },
+      {
+        "position": 3,
+        "surface": "גָּרֵ֖ב",
+        "phrase": "Gareb",
+        "literal": "Gareb",
+        "source": "H1619: KJV 'Gareb', ESV 'Gareb', NASB 'Gareb'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/יִּתְרִֽי",
+        "phrase": "the Ithrite",
+        "literal": "the-Ithrite",
+        "source": "H3505: KJV 'an Ithrite', ESV 'the Ithrite', NASB 'the Ithrite'"
+      }
+    ]
+  }
+]

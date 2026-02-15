@@ -1,0 +1,46 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 17,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֤חַן",
+        "phrase": "and encamped",
+        "literal": "and-he-encamped",
+        "source": "H2583 (KJV: pitched; ESV: encamped; NASB: encamped)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַבְשָׁלֹ֔ם",
+        "phrase": "and Absalom",
+        "literal": "and-Absalom",
+        "source": "H53 (KJV: Absalom; ESV: Absalom; NASB: Absalom)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶ֖רֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גִּלְעָֽד",
+        "phrase": "of Gilead",
+        "literal": "the-Gilead",
+        "source": "H1568 (KJV: Gilead; ESV: Gilead; NASB: Gilead)"
+      }
+    ]
+  }
+]

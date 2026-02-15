@@ -1,0 +1,179 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 17,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "חוּשַׁ֗י",
+        "phrase": "Hushai",
+        "literal": "Hushai",
+        "source": "H2365 (KJV: Hushai; ESV: Hushai; NASB: Hushai)"
+      },
+      {
+        "position": 3,
+        "surface": "אַתָּ֣ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 4,
+        "surface": "יָ֠דַעְתָּ",
+        "phrase": "know",
+        "literal": "you-have-known",
+        "source": "H3045 (KJV: knowest; ESV: know; NASB: know)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "et-",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "אָבִ֨י/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "H1 (KJV: thy father; ESV: your father; NASB: your father)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and-et-",
+        "literal": "and-direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "אֲנָשָׁ֜י/ו",
+        "phrase": "his men",
+        "literal": "men-his",
+        "source": "H376 (KJV: his men; ESV: his men; NASB: his men)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֧י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: for; ESV: that; NASB: for)"
+      },
+      {
+        "position": 10,
+        "surface": "גִבֹּרִ֣ים",
+        "phrase": "mighty-men",
+        "literal": "mighty-men",
+        "source": "H1368 (KJV: mighty men; ESV: mighty men; NASB: mighty men)"
+      },
+      {
+        "position": 11,
+        "surface": "הֵ֗מָּה",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 (KJV: [they]; ESV: [they]; NASB: [they])"
+      },
+      {
+        "position": 12,
+        "surface": "וּ/מָרֵ֥י",
+        "phrase": "and-bitter-of",
+        "literal": "and-bitter-of",
+        "source": "H4751 (KJV: chafed; ESV: enraged; NASB: embittered)"
+      },
+      {
+        "position": 13,
+        "surface": "נֶ֨פֶשׁ֙",
+        "phrase": "soul",
+        "literal": "soul",
+        "source": "H5315 (KJV: minds; ESV: soul; NASB: soul)"
+      },
+      {
+        "position": 14,
+        "surface": "הֵ֔מָּה",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 (KJV: [they]; ESV: [they]; NASB: [they])"
+      },
+      {
+        "position": 15,
+        "surface": "כְּ/דֹ֥ב",
+        "phrase": "like-a-bear",
+        "literal": "like-bear",
+        "source": "H1677 (KJV: bear; ESV: bear; NASB: bear)"
+      },
+      {
+        "position": 16,
+        "surface": "שַׁכּ֖וּל",
+        "phrase": "bereaved",
+        "literal": "bereaved",
+        "source": "H7909 (KJV: robbed of her whelps; ESV: robbed of her cubs; NASB: robbed of her cubs)"
+      },
+      {
+        "position": 17,
+        "surface": "בַּ/שָּׂדֶ֑ה",
+        "phrase": "in-the-field",
+        "literal": "in-the-field",
+        "source": "H7704 (KJV: in the field; ESV: in the field; NASB: in the field)"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/אָבִ֨י/ךָ֙",
+        "phrase": "and-your-father",
+        "literal": "and-father-your",
+        "source": "H1 (KJV: thy father; ESV: your father; NASB: your father)"
+      },
+      {
+        "position": 19,
+        "surface": "אִ֣ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 20,
+        "surface": "מִלְחָמָ֔ה",
+        "phrase": "of-war",
+        "literal": "war",
+        "source": "H4421 (KJV: of war; ESV: of war; NASB: of war)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 22,
+        "surface": "יָלִ֖ין",
+        "phrase": "he-will-lodge",
+        "literal": "he-will-spend-the-night",
+        "source": "H3885 (KJV: spend the night; ESV: spend the night; NASB: spend the night)"
+      },
+      {
+        "position": 23,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H854 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 24,
+        "surface": "הָ/עָֽם",
+        "phrase": "the-people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      }
+    ]
+  }
+]

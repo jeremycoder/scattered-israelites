@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And it came to pass', ESV 'And in the morning', NASB 'It came about in the morning'"
+      },
+      {
+        "position": 2,
+        "surface": "בַ/בֹּ֔קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242: KJV 'in the morning', ESV 'in the morning', NASB 'in the morning'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֵּצֵ֧א",
+        "phrase": "and went out",
+        "literal": "and-he-went-out",
+        "source": "H3318: KJV 'Jonathan went out', ESV 'Jonathan went out', NASB 'Jonathan went out'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוֹנָתָ֛ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083: KJV 'Jonathan', ESV 'Jonathan', NASB 'Jonathan'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׂדֶ֖ה",
+        "phrase": "to the field",
+        "literal": "the-field",
+        "source": "H7704: KJV 'into the field', ESV 'to the field', NASB 'into the field'"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/מוֹעֵ֣ד",
+        "phrase": "for the appointment",
+        "literal": "to-appointment",
+        "source": "H4150: KJV 'at the time appointed', ESV 'for the appointment', NASB 'for the appointed meeting'"
+      },
+      {
+        "position": 7,
+        "surface": "דָּוִ֑ד",
+        "phrase": "with David",
+        "literal": "David",
+        "source": "H1732: KJV 'with David', ESV 'with David', NASB 'with David'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נַ֥עַר",
+        "phrase": "and a boy",
+        "literal": "and-boy",
+        "source": "H5288: KJV 'a little lad', ESV 'a little boy', NASB 'a boy'"
+      },
+      {
+        "position": 9,
+        "surface": "קָטֹ֖ן",
+        "phrase": "small",
+        "literal": "small",
+        "source": "H6996: KJV 'little', ESV 'small', NASB 'small'"
+      },
+      {
+        "position": 10,
+        "surface": "עִמּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973: KJV 'with him', ESV 'with him', NASB 'with him'"
+      }
+    ]
+  }
+]

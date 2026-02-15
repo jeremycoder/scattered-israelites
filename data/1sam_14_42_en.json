@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "הַפִּ֕ילוּ",
+        "phrase": "Cast the lot",
+        "literal": "cause-to-fall",
+        "source": "H5307 (KJV: Cast lots; ESV: Cast the lot; NASB: Cast lots)"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּינִ֕/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "H996 (KJV: between me; ESV: between me; NASB: between me)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֖ין",
+        "phrase": "and between",
+        "literal": "and-between",
+        "source": "H996 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "יוֹנָתָ֣ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3129 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנִ֑/י",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "H1121 (KJV: my son; ESV: my son; NASB: my son)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּלָּכֵ֖ד",
+        "phrase": "And was taken",
+        "literal": "and-was-captured",
+        "source": "H3920 (KJV: And Jonathan was taken; ESV: And Jonathan was taken; NASB: And Jonathan was taken)"
+      },
+      {
+        "position": 9,
+        "surface": "יוֹנָתָֽן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3129 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      }
+    ]
+  }
+]

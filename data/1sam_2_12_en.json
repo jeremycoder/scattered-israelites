@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֥י",
+        "phrase": "and the sons",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV: sons, ESV: sons, NASB: sons"
+      },
+      {
+        "position": 2,
+        "surface": "עֵלִ֖י",
+        "phrase": "of Eli",
+        "literal": "Eli",
+        "source": "H5941; KJV: Eli, ESV: Eli, NASB: Eli"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "H1121; KJV: sons, ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "בְלִיָּ֑עַל",
+        "phrase": "of worthlessness",
+        "literal": "worthless",
+        "source": "H1100; KJV: sons of Belial, ESV: worthless, NASB: useless"
+      },
+      {
+        "position": 5,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV: not, ESV: did not, NASB: did not"
+      },
+      {
+        "position": 6,
+        "surface": "יָדְע֖וּ",
+        "phrase": "they knew",
+        "literal": "they-knew",
+        "source": "H3045; KJV: knew, ESV: know, NASB: know"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the Lord, NASB: the LORD"
+      }
+    ]
+  }
+]

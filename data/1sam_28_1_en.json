@@ -1,0 +1,165 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: came to pass; ESV: came about; NASB: came about)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/יָּמִ֣ים",
+        "phrase": "in the days",
+        "literal": "in-the-days",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/הֵ֔ם",
+        "phrase": "those",
+        "literal": "the-those",
+        "source": "H1992 (KJV: those; ESV: those; NASB: those)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּקְבְּצ֨וּ",
+        "phrase": "that the Philistines gathered",
+        "literal": "and-they-gathered",
+        "source": "H6908 (KJV: gathered; ESV: gathered; NASB: gathered)"
+      },
+      {
+        "position": 5,
+        "surface": "פְלִשְׁתִּ֤ים",
+        "phrase": "Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-dom-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "מַֽחֲנֵי/הֶם֙",
+        "phrase": "their camps",
+        "literal": "camps-their",
+        "source": "H4264 (KJV: armies; ESV: camps; NASB: camps)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/צָּבָ֔א",
+        "phrase": "for the battle",
+        "literal": "to-the-army",
+        "source": "H6635 (KJV: warfare; ESV: war; NASB: war)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/הִלָּחֵ֖ם",
+        "phrase": "to fight",
+        "literal": "to-fight",
+        "source": "H3898 (KJV: fight; ESV: fight; NASB: fight)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/יִשְׂרָאֵ֑ל",
+        "phrase": "against Israel",
+        "literal": "with-Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And Achish said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 12,
+        "surface": "אָכִישׁ֙",
+        "phrase": "Achish",
+        "literal": "Achish",
+        "source": "H397 (KJV: Achish; ESV: Achish; NASB: Achish)"
+      },
+      {
+        "position": 13,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 14,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 15,
+        "surface": "יָדֹ֣עַ",
+        "phrase": "Know assuredly",
+        "literal": "knowing",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 16,
+        "surface": "תֵּדַ֗ע",
+        "phrase": "you shall know",
+        "literal": "you-shall-know",
+        "source": "H3045 (KJV: thou knowest; ESV: you know; NASB: you know)"
+      },
+      {
+        "position": 17,
+        "surface": "כִּ֤י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 18,
+        "surface": "אִתִּ/י֙",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "H854 (KJV: with me; ESV: with me; NASB: with me)"
+      },
+      {
+        "position": 19,
+        "surface": "תֵּצֵ֣א",
+        "phrase": "you shall go out",
+        "literal": "you-shall-go-out",
+        "source": "H3318 (KJV: goest; ESV: go out; NASB: go out)"
+      },
+      {
+        "position": 20,
+        "surface": "בַֽ/מַּחֲנֶ֔ה",
+        "phrase": "in the camp",
+        "literal": "in-the-camp",
+        "source": "H4264 (KJV: [implied]; ESV: camp; NASB: camp)"
+      },
+      {
+        "position": 21,
+        "surface": "אַתָּ֖ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 22,
+        "surface": "וַ/אֲנָשֶֽׁי/ךָ",
+        "phrase": "and your men",
+        "literal": "and-men-your",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      }
+    ]
+  }
+]

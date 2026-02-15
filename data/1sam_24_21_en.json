@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּה֙",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "H6258: KJV 'now therefore', ESV 'therefore', NASB 'So now'"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּ֣ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009: KJV 'Swear now therefore', ESV 'Swear to me therefore', NASB 'So now swear' (introductory particle)"
+      },
+      {
+        "position": 3,
+        "surface": "יָדַ֔עְתִּי",
+        "phrase": "I know",
+        "literal": "I-have-known",
+        "source": "H3045: KJV 'thou wilt not cut off', ESV 'you will not cut off', NASB 'you will not cut off' (contextual; verb 'know')"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588: KJV 'that thou wilt not', ESV 'that you will not', NASB 'that you will not'"
+      },
+      {
+        "position": 5,
+        "surface": "מָלֹ֖ךְ",
+        "phrase": "you will reign",
+        "literal": "to-reign",
+        "source": "H4427: KJV 'my seed', ESV 'my offspring', NASB 'my descendants' (infinitive construct)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּמְל֑וֹךְ",
+        "phrase": "you will reign",
+        "literal": "you-will-reign",
+        "source": "H4427: KJV 'my seed', ESV 'my offspring', NASB 'my descendants' (future tense)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קָ֨מָה֙",
+        "phrase": "and it will stand",
+        "literal": "and-it-will-arise/stand",
+        "source": "H6965: KJV 'my father's house', ESV 'my father's house', NASB 'my father's household'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/יָ֣דְ/ךָ֔",
+        "phrase": "in your hand",
+        "literal": "in-hand-your",
+        "source": "H3027: KJV 'out of my father's house', ESV 'out of my father's house', NASB 'from my father's household'"
+      },
+      {
+        "position": 9,
+        "surface": "מַמְלֶ֖כֶת",
+        "phrase": "kingdom",
+        "literal": "kingdom",
+        "source": "H4467: KJV 'my father's house', ESV 'my father's house', NASB 'my father's household'"
+      },
+      {
+        "position": 10,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478: KJV 'my father's house', ESV 'my father's house', NASB 'my father's household'"
+      }
+    ]
+  }
+]

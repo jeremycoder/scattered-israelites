@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּזְרֵ֥/נִי",
+        "phrase": "and-you-have-girded-me",
+        "literal": "and/you-gird/me",
+        "source": "H247; KJV 'girded', ESV 'armed', NASB 'girded'"
+      },
+      {
+        "position": 2,
+        "surface": "חַ֖יִל",
+        "phrase": "strength",
+        "literal": "strength",
+        "source": "H2428; KJV 'strength', ESV 'strength', NASB 'strength'"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/מִּלְחָמָ֑ה",
+        "phrase": "for-battle",
+        "literal": "to/the-battle",
+        "source": "H4421; KJV 'to battle', ESV 'for battle', NASB 'for battle'"
+      },
+      {
+        "position": 4,
+        "surface": "תַּכְרִ֥יעַ",
+        "phrase": "you-have-subdued",
+        "literal": "you-cause-to-bow",
+        "source": "H3766; KJV 'subduedst', ESV 'subdued', NASB 'subdued'"
+      },
+      {
+        "position": 5,
+        "surface": "קָמַ֖/י",
+        "phrase": "those-who-rise-up-against-me",
+        "literal": "rising-up/my",
+        "source": "H6965; KJV 'rose up', ESV 'rose up', NASB 'rose up'"
+      },
+      {
+        "position": 6,
+        "surface": "תַּחְתֵּֽ/נִי",
+        "phrase": "under-me",
+        "literal": "under/me",
+        "source": "H8478; KJV 'under me', ESV 'under me', NASB 'under me"
+      }
+    ]
+  }
+]

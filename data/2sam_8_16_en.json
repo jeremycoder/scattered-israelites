@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יוֹאָ֥ב",
+        "phrase": "And Joab",
+        "literal": "and-Joab",
+        "source": "H3097; KJV/ESV/NASB: 'Joab' (proper name, as commander)"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (of Zeruiah)"
+      },
+      {
+        "position": 3,
+        "surface": "צְרוּיָ֖ה",
+        "phrase": "of Zeruiah",
+        "literal": "Zeruiah",
+        "source": "H6870; KJV/ESV/NASB: 'Zeruiah' (proper name, Joab's mother)"
+      },
+      {
+        "position": 4,
+        "surface": "עַל",
+        "phrase": "was over",
+        "literal": "over",
+        "source": "H5921; KJV/ESV/NASB: 'over/was over' (preposition indicating authority)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/צָּבָ֑א",
+        "phrase": "the army",
+        "literal": "the-host/army",
+        "source": "H6635; KJV: 'host', ESV/NASB: 'army' (military force)"
+      },
+      {
+        "position": 6,
+        "surface": "וִ/יהוֹשָׁפָ֥ט",
+        "phrase": "and Jehoshaphat",
+        "literal": "and-Jehoshaphat",
+        "source": "H3092; KJV/ESV/NASB: 'Jehoshaphat' (proper name, recorder)"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (of Ahilud)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחִיל֖וּד",
+        "phrase": "of Ahilud",
+        "literal": "Ahilud",
+        "source": "H286; KJV/ESV/NASB: 'Ahilud' (proper name, Jehoshaphat's father)"
+      },
+      {
+        "position": 9,
+        "surface": "מַזְכִּֽיר",
+        "phrase": "recorder",
+        "literal": "recorder/remembrancer",
+        "source": "H2142; KJV: 'recorder', ESV: 'recorder', NASB: 'recorder' (official chronicler)"
+      }
+    ]
+  }
+]

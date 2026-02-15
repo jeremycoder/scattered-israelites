@@ -1,0 +1,158 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַ֞ף",
+        "phrase": "How much more",
+        "literal": "indeed",
+        "source": "H637 (KJV: 'How much more'; ESV: 'How much more'; NASB: 'How much more')"
+      },
+      {
+        "position": 2,
+        "surface": "כִּֽי",
+        "phrase": "when",
+        "literal": "that",
+        "source": "H3588 (KJV: 'when'; ESV: 'when'; NASB: 'when')"
+      },
+      {
+        "position": 3,
+        "surface": "אֲנָשִׁ֣ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376 (KJV: 'men'; ESV: 'men'; NASB: 'men')"
+      },
+      {
+        "position": 4,
+        "surface": "רְשָׁעִ֗ים",
+        "phrase": "wicked",
+        "literal": "wicked",
+        "source": "H7563 (KJV: 'wicked'; ESV: 'wicked'; NASB: 'wicked')"
+      },
+      {
+        "position": 5,
+        "surface": "הָרְג֧וּ",
+        "phrase": "have killed",
+        "literal": "they-killed",
+        "source": "H2026 (KJV: 'have slain'; ESV: 'have killed'; NASB: 'have killed')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "H853 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 7,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: 'person'; ESV: 'man'; NASB: 'man')"
+      },
+      {
+        "position": 8,
+        "surface": "צַדִּ֛יק",
+        "phrase": "righteous",
+        "literal": "righteous",
+        "source": "H6662 (KJV: 'righteous'; ESV: 'righteous'; NASB: 'righteous')"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/בֵית֖/וֹ",
+        "phrase": "in his house",
+        "literal": "in-house-his",
+        "source": "H1004 (KJV: 'in his own house'; ESV: 'in his own house'; NASB: 'in his own house')"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'upon'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 11,
+        "surface": "מִשְׁכָּב֑/וֹ",
+        "phrase": "his bed",
+        "literal": "bed-his",
+        "source": "H4904 (KJV: 'his bed'; ESV: 'his bed'; NASB: 'his bed')"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "H6258 (KJV: 'therefore now'; ESV: 'now'; NASB: 'now')"
+      },
+      {
+        "position": 13,
+        "surface": "הֲ/ל֨וֹא",
+        "phrase": "shall I not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'shall I not'; ESV: 'shall I not'; NASB: 'shall I not')"
+      },
+      {
+        "position": 14,
+        "surface": "אֲבַקֵּ֤שׁ",
+        "phrase": "require",
+        "literal": "I-will-seek",
+        "source": "H1245 (KJV: 'require'; ESV: 'require'; NASB: 'require')"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "accusative-marker",
+        "source": "H853 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 16,
+        "surface": "דָּמ/וֹ֙",
+        "phrase": "his blood",
+        "literal": "blood-his",
+        "source": "H1818 (KJV: 'his blood'; ESV: 'his blood'; NASB: 'his blood')"
+      },
+      {
+        "position": 17,
+        "surface": "מִ/יֶּדְ/כֶ֔ם",
+        "phrase": "from your hand",
+        "literal": "from-hand-your(pl)",
+        "source": "H3027 (KJV: 'of your hand'; ESV: 'at your hand'; NASB: 'from your hand')"
+      },
+      {
+        "position": 18,
+        "surface": "וּ/בִעַרְתִּ֥י",
+        "phrase": "and destroy",
+        "literal": "and-I-will-burn-away",
+        "source": "H1197 (KJV: 'take you away'; ESV: 'destroy'; NASB: 'destroy')"
+      },
+      {
+        "position": 19,
+        "surface": "אֶתְ/כֶ֖ם",
+        "phrase": "you",
+        "literal": "you(pl)",
+        "source": "H853 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 20,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: 'from'; ESV: 'from'; NASB: 'from')"
+      },
+      {
+        "position": 21,
+        "surface": "הָ/אָֽרֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776 (KJV: 'the earth'; ESV: 'the earth'; NASB: 'the earth')"
+      }
+    ]
+  }
+]

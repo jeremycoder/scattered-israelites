@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ֨/דָּבָ֔ר",
+        "phrase": "And as for the matter",
+        "literal": "and-the-matter",
+        "source": "H1697 (KJV: matter; ESV/NASB: agreement/matter)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV/NASB: which/of which)"
+      },
+      {
+        "position": 3,
+        "surface": "דִּבַּ֖רְנוּ",
+        "phrase": "we have spoken",
+        "literal": "we-have-spoken",
+        "source": "H1696 (KJV: have spoken; ESV/NASB: have spoken)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲנִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV/ESV/NASB: I)"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/אָ֑תָּה",
+        "phrase": "and you",
+        "literal": "and-you",
+        "source": "H859 (KJV: thou; ESV/NASB: you)"
+      },
+      {
+        "position": 6,
+        "surface": "הִנֵּ֧ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 (KJV/ESV/NASB: behold)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּינִ֥/י",
+        "phrase": "between me",
+        "literal": "between-me",
+        "source": "H996 (KJV/ESV/NASB: between me)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בֵינְ/ךָ֖",
+        "phrase": "and between you",
+        "literal": "and-between-you",
+        "source": "H996 (KJV/ESV/NASB: and between thee/you)"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (implied in KJV/ESV/NASB: for ever)"
+      },
+      {
+        "position": 11,
+        "surface": "עוֹלָֽם",
+        "phrase": "forever",
+        "literal": "forever",
+        "source": "H5769 (KJV/ESV/NASB: for ever/forever)"
+      }
+    ]
+  }
+]

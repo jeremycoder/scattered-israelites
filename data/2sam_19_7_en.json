@@ -1,0 +1,214 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/אַֽהֲבָה֙",
+        "phrase": "to love",
+        "literal": "to-love",
+        "source": "H157 (KJV: love; ESV: love; NASB: love)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "those who",
+        "literal": "[-direct object]",
+        "source": "H853 (KJV: [obj]; ESV: [obj]; NASB: [obj])"
+      },
+      {
+        "position": 3,
+        "surface": "שֹׂ֣נְאֶ֔י/ךָ",
+        "phrase": "hate you",
+        "literal": "hating-you",
+        "source": "H8130 (KJV: hate; ESV: hate; NASB: hate)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לִ/שְׂנֹ֖א",
+        "phrase": "and to hate",
+        "literal": "and-to-hate",
+        "source": "H8130 (KJV: hate; ESV: hate; NASB: hate)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "those who",
+        "literal": "[-direct object]",
+        "source": "H853 (KJV: [obj]; ESV: [obj]; NASB: [obj])"
+      },
+      {
+        "position": 6,
+        "surface": "אֹהֲבֶ֑י/ךָ",
+        "phrase": "love you",
+        "literal": "loving-you",
+        "source": "H157 (KJV: love; ESV: love; NASB: love)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 8,
+        "surface": "הִגַּ֣דְתָּ",
+        "phrase": "you have made clear",
+        "literal": "you-have-declared",
+        "source": "H5046 (KJV: [implied]; ESV: made clear; NASB: made clear)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֗וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 10,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 11,
+        "surface": "אֵ֤ין",
+        "phrase": "there are no",
+        "literal": "not",
+        "source": "H369 (KJV: not; ESV: no; NASB: no)"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/ךָ֙",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": " (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 13,
+        "surface": "שָׂרִ֣ים",
+        "phrase": "commanders",
+        "literal": "princes",
+        "source": "H8269 (KJV: princes; ESV: commanders; NASB: commanders)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/עֲבָדִ֔ים",
+        "phrase": "and servants",
+        "literal": "and-servants",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      },
+      {
+        "position": 15,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 16,
+        "surface": "יָדַ֣עְתִּי",
+        "phrase": "I know",
+        "literal": "I-have-known",
+        "source": "H3045 (KJV: perceive; ESV: see; NASB: perceive)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/יּ֗וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 18,
+        "surface": "כִּ֠י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 19,
+        "surface": "לא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3863 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 20,
+        "surface": "ל֣וּ",
+        "phrase": "if",
+        "literal": "if only",
+        "source": "H3863 (KJV: [implied]; ESV: if; NASB: if)"
+      },
+      {
+        "position": 21,
+        "surface": "אַבְשָׁל֥וֹם",
+        "phrase": "Absalom",
+        "literal": "Absalom",
+        "source": "H53 (KJV: Absalom; ESV: Absalom; NASB: Absalom)"
+      },
+      {
+        "position": 22,
+        "surface": "חַי֙",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "H2416 (KJV: alive; ESV: alive; NASB: alive)"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/כֻלָּ֤/נוּ",
+        "phrase": "and all of us",
+        "literal": "and-all-of-us",
+        "source": "H3605 (KJV: all we; ESV: all of us; NASB: all of us)"
+      },
+      {
+        "position": 24,
+        "surface": "הַ/יּוֹם֙",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 25,
+        "surface": "מֵתִ֔ים",
+        "phrase": "dead",
+        "literal": "dead",
+        "source": "H4191 (KJV: dead; ESV: dead; NASB: dead)"
+      },
+      {
+        "position": 26,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 27,
+        "surface": "אָ֖ז",
+        "phrase": "then",
+        "literal": "then",
+        "source": "H227 (KJV: then; ESV: then; NASB: then)"
+      },
+      {
+        "position": 28,
+        "surface": "יָשָׁ֥ר",
+        "phrase": "right",
+        "literal": "right",
+        "source": "H3477 (KJV: worse; ESV: worse; NASB: worse)"
+      },
+      {
+        "position": 29,
+        "surface": "בְּ/עֵינֶֽי/ךָ",
+        "phrase": "in your eyes",
+        "literal": "in-eyes-your",
+        "source": "H5869 (KJV: unto thee; ESV: for you; NASB: for you)"
+      }
+    ]
+  }
+]

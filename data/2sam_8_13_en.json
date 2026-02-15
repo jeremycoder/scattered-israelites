@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "שֵׁ֔ם",
+        "phrase": "a name",
+        "literal": "name",
+        "source": "H8034 (KJV: a name; ESV: a name; NASB: a name)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/שֻׁב֕/וֹ",
+        "phrase": "when he returned",
+        "literal": "in-returning-his",
+        "source": "H7725 (KJV: when he returned; ESV: when he returned; NASB: when he returned)"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/הַכּוֹת֥/וֹ",
+        "phrase": "from striking",
+        "literal": "from-striking-his",
+        "source": "H5221 (KJV: from smiting; ESV: from striking; NASB: from striking)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אֲרָ֖ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "H758 (KJV: the Syrians; ESV: the Arameans; NASB: the Arameans)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/גֵיא",
+        "phrase": "in the valley",
+        "literal": "in-valley",
+        "source": "H1516 (KJV: in the valley; ESV: in the Valley; NASB: in the valley)"
+      },
+      {
+        "position": 9,
+        "surface": "מֶ֑לַח",
+        "phrase": "of Salt",
+        "literal": "of-salt",
+        "source": "H4417 (KJV: of salt; ESV: of Salt; NASB: of Salt)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמוֹנָ֥ה",
+        "phrase": "eighteen",
+        "literal": "eight",
+        "source": "H8083 (KJV: eighteen; ESV: 18,000; NASB: eighteen)"
+      },
+      {
+        "position": 11,
+        "surface": "עָשָׂ֖ר",
+        "phrase": "eighteen",
+        "literal": "ten",
+        "source": "H6240 (KJV: eighteen; ESV: 18,000; NASB: eighteen)"
+      },
+      {
+        "position": 12,
+        "surface": "אָֽלֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: thousand; ESV: thousand; NASB: thousand)"
+      }
+    ]
+  }
+]

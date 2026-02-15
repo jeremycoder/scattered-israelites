@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ו/תגעש",
+        "phrase": "and it quaked",
+        "literal": "and-it-quaked",
+        "source": "H1607; KJV/ESV/NASB: 'shook/trembled/quaked' (parallel forms, often combined with next word)"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יִּתְגָּעַ֤שׁ",
+        "phrase": "and it shook",
+        "literal": "and-it-shook",
+        "source": "H1607; KJV: 'shook'; ESV: 'trembled'; NASB: 'shook'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/תִּרְעַשׁ֙",
+        "phrase": "and it trembled",
+        "literal": "and-it-trembled",
+        "source": "H7493; KJV: 'did quake'; ESV: 'quaked'; NASB: 'trembled'"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776; KJV/ESV/NASB: 'the earth'"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹסְד֥וֹת",
+        "phrase": "foundations",
+        "literal": "foundations-of-it",
+        "source": "H4146; KJV: 'foundations'; ESV/NASB: 'foundations'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שָּׁמַ֖יִם",
+        "phrase": "of the heavens",
+        "literal": "the-heavens-of",
+        "source": "H8064; KJV: 'of heaven'; ESV/NASB: 'of the heavens'"
+      },
+      {
+        "position": 7,
+        "surface": "יִרְגָּ֑זוּ",
+        "phrase": "trembled",
+        "literal": "they-tremble",
+        "source": "H7264; KJV: 'did shake'; ESV/NASB: 'trembled/shook'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּֽתְגָּעֲשׁ֖וּ",
+        "phrase": "and they quaked",
+        "literal": "and-they-quaked",
+        "source": "H1607; KJV: 'were shaken'; ESV: 'trembled'; NASB: 'were shaken'"
+      },
+      {
+        "position": 9,
+        "surface": "כִּֽי",
+        "phrase": "because",
+        "literal": "because",
+        "source": "H3588; KJV/ESV/NASB: 'because'"
+      },
+      {
+        "position": 10,
+        "surface": "חָ֥רָה",
+        "phrase": "he was angry",
+        "literal": "it-burned",
+        "source": "H2734; KJV: 'he was wroth'; ESV/NASB: 'he was angry'"
+      },
+      {
+        "position": 11,
+        "surface": "לֽ/וֹ",
+        "phrase": "at him",
+        "literal": "to-him",
+        "source": "-; KJV/ESV/NASB: 'him/his' (with חרה)"
+      }
+    ]
+  }
+]

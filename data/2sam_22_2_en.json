@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And he said; ESV: He said; NASB: He said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: The LORD; ESV: The Lord; NASB: The LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "סַֽלְעִ֥/י",
+        "phrase": "my rock",
+        "literal": "rock-my",
+        "source": "H5553 (KJV: my rock; ESV: my rock; NASB: my rock)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מְצֻדָתִ֖/י",
+        "phrase": "and my fortress",
+        "literal": "and-fortress-my",
+        "source": "H4686 (KJV: and my fortress; ESV: my fortress; NASB: my fortress)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מְפַלְטִ/י",
+        "phrase": "and my deliverer",
+        "literal": "and-deliverer-my",
+        "source": "H6403 (KJV: and my deliverer; ESV: my deliverer; NASB: my deliverer)"
+      },
+      {
+        "position": 6,
+        "surface": "לִֽ/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: even mine; ESV: (implied); NASB: (implied))"
+      }
+    ]
+  }
+]

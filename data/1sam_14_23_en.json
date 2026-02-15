@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּ֧וֹשַׁע",
+        "phrase": "and-saved",
+        "literal": "and-he-saved",
+        "source": "H3467 (KJV: saved; ESV: saved; NASB: delivered)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יּ֥וֹם",
+        "phrase": "on-the-day",
+        "literal": "in-the-day",
+        "source": "H3117 (KJV: that day; ESV: that day; NASB: that day)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ֨/מִּלְחָמָ֔ה",
+        "phrase": "and-the-battle",
+        "literal": "and-the-battle",
+        "source": "H4421 (KJV: the battle; ESV: the battle; NASB: the battle)"
+      },
+      {
+        "position": 8,
+        "surface": "עָבְרָ֖ה",
+        "phrase": "passed-over",
+        "literal": "she-passed-over",
+        "source": "H5674 (KJV: passed over; ESV: passed; NASB: spread)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּ֥ית",
+        "phrase": "house-of",
+        "literal": "house",
+        "source": "H1007 (KJV: Bethaven; ESV: Beth-aven; NASB: Beth-aven)"
+      },
+      {
+        "position": 11,
+        "surface": "אָֽוֶן",
+        "phrase": "Aven",
+        "literal": "iniquity",
+        "source": "H1007 (KJV: Bethaven; ESV: Beth-aven; NASB: Beth-aven)"
+      }
+    ]
+  }
+]

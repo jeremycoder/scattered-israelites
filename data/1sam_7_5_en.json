@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 7,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֔ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "קִבְצ֥וּ",
+        "phrase": "Gather",
+        "literal": "gather!",
+        "source": "H6908 (KJV: Gather; ESV: Gather; NASB: Gather)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּצְפָּ֑תָ/ה",
+        "phrase": "to Mizpah",
+        "literal": "the-to-Mizpah",
+        "source": "H4709 (KJV: to Mizpeh; ESV: at Mizpah; NASB: to Mizpah)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶתְפַּלֵּ֥ל",
+        "phrase": "and I will pray",
+        "literal": "and-I-will-pray",
+        "source": "H6419 (KJV: I will pray; ESV: I will pray; NASB: I will pray)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּעַדְ/כֶ֖ם",
+        "phrase": "for you",
+        "literal": "for-you",
+        "source": "H1157 (KJV: for you; ESV: for you; NASB: for you)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

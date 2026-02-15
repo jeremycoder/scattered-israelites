@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֚יךְ",
+        "phrase": "How",
+        "literal": "how",
+        "source": "H349 (KJV: How; ESV: How; NASB: How)"
+      },
+      {
+        "position": 2,
+        "surface": "נָפְל֣וּ",
+        "phrase": "have fallen",
+        "literal": "they-have-fallen",
+        "source": "H5307 (KJV: are...fallen; ESV: have fallen; NASB: have...fallen)"
+      },
+      {
+        "position": 3,
+        "surface": "גִבּוֹרִ֔ים",
+        "phrase": "the mighty",
+        "literal": "mighty-men",
+        "source": "H1368 (KJV: mighty; ESV: mighty; NASB: mighty)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּאבְד֖וּ",
+        "phrase": "have perished",
+        "literal": "and-they-perished",
+        "source": "H6 (KJV: perished; ESV: perished; NASB: perished)"
+      },
+      {
+        "position": 5,
+        "surface": "כְּלֵ֥י",
+        "phrase": "the weapons",
+        "literal": "implements-of",
+        "source": "H3627 (KJV: weapons; ESV: weapons; NASB: weapons)"
+      },
+      {
+        "position": 6,
+        "surface": "מִלְחָמָֽה",
+        "phrase": "of war",
+        "literal": "war",
+        "source": "H4421 (KJV: of war; ESV: of war; NASB: of war)"
+      }
+    ]
+  }
+]

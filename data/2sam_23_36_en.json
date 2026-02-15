@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יִגְאָ֤ל",
+        "phrase": "Igal",
+        "literal": "Igal",
+        "source": "H3008 (KJV: Igal; ESV: Igal; NASB: Igal)"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 3,
+        "surface": "נָתָן֙",
+        "phrase": "Nathan",
+        "literal": "Nathan",
+        "source": "H5416 (KJV: Nathan; ESV: Nathan; NASB: Nathan)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/צֹּבָ֔ה",
+        "phrase": "of Zobah",
+        "literal": "from-Zobah",
+        "source": "H6678 (KJV: of Zobah; ESV: of Zobah; NASB: of Zobah)"
+      },
+      {
+        "position": 5,
+        "surface": "בָּנִ֖י",
+        "phrase": "Bani",
+        "literal": "Bani",
+        "source": "H1137 (KJV: Bani; ESV: Bani; NASB: Bani)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גָּדִֽי",
+        "phrase": "the Gadite",
+        "literal": "the-Gadite",
+        "source": "H1425 (KJV: the Gadite; ESV: the Gadite; NASB: the Gadite)"
+      }
+    ]
+  }
+]

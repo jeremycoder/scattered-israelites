@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵמִ֣ית",
+        "phrase": "kills",
+        "literal": "causes-to-die",
+        "source": "H4191 (KJV: killeth; ESV: kills; NASB: kills)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מְחַיֶּ֑ה",
+        "phrase": "and makes alive",
+        "literal": "and-causes-to-live",
+        "source": "H2421 (KJV: maketh alive; ESV: brings to life; NASB: makes alive)"
+      },
+      {
+        "position": 4,
+        "surface": "מוֹרִ֥יד",
+        "phrase": "brings down",
+        "literal": "causes-to-descend",
+        "source": "H3381 (KJV: bringeth down; ESV: brings down; NASB: brings down)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁא֖וֹל",
+        "phrase": "Sheol",
+        "literal": "Sheol",
+        "source": "H7585 (KJV: grave; ESV: Sheol; NASB: Sheol)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יָּֽעַל",
+        "phrase": "and raises up",
+        "literal": "and-he-causes-to-ascend",
+        "source": "H5927 (KJV: bringeth up; ESV: raises up; NASB: raises up)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/הָיְתָ֞ה",
+        "phrase": "and it was",
+        "literal": "and-it-was",
+        "source": "H1961; KJV 'Yet they had', ESV/NASB 'The charge was'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/פְּצִ֣ירָה",
+        "phrase": "the filing fee",
+        "literal": "the-filing/charge",
+        "source": "H6477; KJV 'a file', ESV 'two-thirds of a shekel', NASB 'two-thirds of a shekel'"
+      },
+      {
+        "position": 3,
+        "surface": "פִ֗ים",
+        "phrase": "a pim",
+        "literal": "pim",
+        "source": "H6310; KJV 'for the', ESV/NASB 'of a shekel' (understood as weight unit)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מַּֽחֲרֵשֹׁת֙",
+        "phrase": "for the plowshares",
+        "literal": "to/for-the-plowshares",
+        "source": "H4281; KJV 'coulters', ESV 'plowshares', NASB 'plowshares'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לָ֣/אֵתִ֔ים",
+        "phrase": "and for the mattocks",
+        "literal": "and-for-the-mattocks",
+        "source": "H855; KJV 'mattocks', ESV 'mattocks', NASB 'mattocks'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לִ/שְׁלֹ֥שׁ",
+        "phrase": "and for three",
+        "literal": "and-to/for-three",
+        "source": "H7969; KJV/ESV/NASB imply 'third' in context of shekel division"
+      },
+      {
+        "position": 7,
+        "surface": "קִלְּשׁ֖וֹן",
+        "phrase": "a shekel",
+        "literal": "shekel",
+        "source": "H7053; KJV 'forks', ESV 'forks', NASB 'pitchfork'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/לְ/הַ/קַּרְדֻּמִּ֑ים",
+        "phrase": "and for the axes",
+        "literal": "and-for-the-axes",
+        "source": "H7134; KJV 'axes', ESV 'axes', NASB 'axes'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/לְ/הַצִּ֖יב",
+        "phrase": "and to set",
+        "literal": "and-for-to-set",
+        "source": "H5324; KJV 'to sharpen', ESV 'to fix', NASB 'to fix'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/דָּרְבָֽן",
+        "phrase": "the goads",
+        "literal": "the-goads",
+        "source": "H1861; KJV 'goads', ESV 'hoes', NASB 'hoes'"
+      }
+    ]
+  }
+]

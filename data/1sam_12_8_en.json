@@ -1,0 +1,158 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כַּֽ/אֲשֶׁר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834 (KJV: When; ESV: When; NASB: When) [1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ֥א",
+        "phrase": "went",
+        "literal": "he-came",
+        "source": "H935 (KJV: was come; ESV: went; NASB: went) [1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "Jacob",
+        "literal": "Jacob",
+        "source": "H3290 (KJV: Jacob; ESV: Jacob; NASB: Jacob) [1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "מִצְרָ֑יִם",
+        "phrase": "to Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt) [1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּזְעֲק֤וּ",
+        "phrase": "and cried out",
+        "literal": "and-they-cried-out",
+        "source": "H2199 (KJV: cried; ESV: cried out; NASB: cried out) [1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבֽוֹתֵי/כֶם֙",
+        "phrase": "your fathers",
+        "literal": "fathers-your",
+        "source": "H1 (KJV: your fathers; ESV: your fathers; NASB: your fathers) [1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to) [1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD) [1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּשְׁלַ֨ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent) [1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD) [1][2]"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied]) [2]"
+      },
+      {
+        "position": 12,
+        "surface": "מֹשֶׁ֣ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses) [1][2]"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and) [1][2]"
+      },
+      {
+        "position": 14,
+        "surface": "אַהֲרֹ֗ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron) [1][2]"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יּוֹצִ֤יאוּ",
+        "phrase": "and they brought out",
+        "literal": "and-they-caused-to-go-out",
+        "source": "H3318 (KJV: brought; ESV: brought; NASB: brought) [1][2]"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied]) [2]"
+      },
+      {
+        "position": 17,
+        "surface": "אֲבֹֽתֵי/כֶם֙",
+        "phrase": "your fathers",
+        "literal": "fathers-your",
+        "source": "H1 (KJV: your fathers; ESV: your fathers; NASB: your fathers) [1][2]"
+      },
+      {
+        "position": 18,
+        "surface": "מִ/מִּצְרַ֔יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "H4714 (KJV: out of Egypt; ESV: out of Egypt; NASB: out of Egypt) [1][2]"
+      },
+      {
+        "position": 19,
+        "surface": "וַ/יֹּשִׁב֖וּ/ם",
+        "phrase": "and made them dwell",
+        "literal": "and-they-caused-them-to-dwell",
+        "source": "H3427 (KJV: [they] dwell; ESV: settled; NASB: settled) [1][2]"
+      },
+      {
+        "position": 20,
+        "surface": "בַּ/מָּק֥וֹם",
+        "phrase": "in the place",
+        "literal": "in-the-place",
+        "source": "H4725 (KJV: in this place; ESV: in this place; NASB: in this place) [1][2]"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this) [1][2]"
+      }
+    ]
+  }
+]

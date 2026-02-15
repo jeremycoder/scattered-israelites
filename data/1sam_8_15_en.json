@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זַרְעֵי/כֶ֥ם",
+        "phrase": "and your grain",
+        "literal": "and-seed-of-you",
+        "source": "H2233 (KJV: seed; ESV: grain; NASB: seed)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/כַרְמֵי/כֶ֖ם",
+        "phrase": "and your vineyards",
+        "literal": "and-vineyards-of-you",
+        "source": "H3754 (KJV: vineyards; ESV: vineyards; NASB: vineyards)"
+      },
+      {
+        "position": 3,
+        "surface": "יַעְשֹׂ֑ר",
+        "phrase": "he will take a tenth",
+        "literal": "he-will-tithe",
+        "source": "H6237 (KJV: take the tenth; ESV: take the tenth; NASB: take a tenth)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נָתַ֥ן",
+        "phrase": "and give",
+        "literal": "and-he-will-give",
+        "source": "H5414 (KJV: give; ESV: give; NASB: give)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/סָרִיסָ֖י/ו",
+        "phrase": "to his officers",
+        "literal": "to-eunuchs-of-his",
+        "source": "H5631 (KJV: officers; ESV: officers; NASB: officers)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לַ/עֲבָדָֽי/ו",
+        "phrase": "and to his servants",
+        "literal": "and-to-servants-of-his",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      }
+    ]
+  }
+]

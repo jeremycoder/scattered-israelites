@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ/אֵ֥ל",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H410 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 2,
+        "surface": "מָעוּזִּ֖/י",
+        "phrase": "my strong fortress",
+        "literal": "strength-of-me",
+        "source": "H4581 (KJV: my strength; ESV: my strong refuge; NASB: my strong fortress)"
+      },
+      {
+        "position": 3,
+        "surface": "חָ֑יִל",
+        "phrase": "power",
+        "literal": "strength",
+        "source": "H2428 (KJV: power; ESV: (implied in strong); NASB: strong)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּתֵּ֥ר",
+        "phrase": "and he makes",
+        "literal": "and-he-loosens",
+        "source": "H5425 (KJV: maketh; ESV: has made; NASB: sets)"
+      },
+      {
+        "position": 5,
+        "surface": "תָּמִ֖ים",
+        "phrase": "perfect",
+        "literal": "perfect",
+        "source": "H8549 (KJV: perfect; ESV: blameless; NASB: blameless)"
+      },
+      {
+        "position": 6,
+        "surface": "דרכ/ו",
+        "phrase": "his way",
+        "literal": "way-of-him",
+        "source": "H1870 (KJV: (implied); ESV: his way; NASB: His way)"
+      },
+      {
+        "position": 7,
+        "surface": "דַּרְכִּֽ/י",
+        "phrase": "my way",
+        "literal": "way-of-me",
+        "source": "H1870 (KJV: my way; ESV: my way; NASB: my way)"
+      }
+    ]
+  }
+]

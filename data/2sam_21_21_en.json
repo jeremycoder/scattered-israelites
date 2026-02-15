@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחָרֵ֖ף",
+        "phrase": "and taunted",
+        "literal": "and-he-reproached",
+        "source": "H2778; KJV 'reproach', ESV 'defied', NASB 'defied'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853; KJV/omitted, ESV/omitted, NASB/omitted"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB 'Israel'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּכֵּ֨/הוּ֙",
+        "phrase": "and struck him",
+        "literal": "and-struck-him",
+        "source": "H5221; KJV 'will strike him', ESV 'struck him down', NASB 'struck him down'"
+      },
+      {
+        "position": 5,
+        "surface": "יְה֣וֹנָתָ֔ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083; KJV/ESV/NASB 'Jonathan'"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB 'son'"
+      },
+      {
+        "position": 7,
+        "surface": "שמעי",
+        "phrase": "Shimei",
+        "literal": "Shimei",
+        "source": "H8096; KJV 'Shimeah/Shimei', ESV 'Shimei', NASB 'Shimei'"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁמְעָ֖ה",
+        "phrase": "Shimea",
+        "literal": "Shimea",
+        "source": "H8092; KJV 'Shimeah', ESV 'Shimea', NASB 'Shimea'"
+      },
+      {
+        "position": 9,
+        "surface": "אֲחִ֥י",
+        "phrase": "brother",
+        "literal": "brother-of",
+        "source": "H251; KJV/ESV/NASB 'brother'"
+      },
+      {
+        "position": 10,
+        "surface": "דָוִֽד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB 'David'"
+      }
+    ]
+  }
+]

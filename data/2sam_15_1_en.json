@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV/NASB: 'Now it came about')"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/אַ֣חֲרֵי",
+        "phrase": "after",
+        "literal": "from-after",
+        "source": "H310 (KJV/ESV/NASB: 'after')"
+      },
+      {
+        "position": 3,
+        "surface": "כֵ֔ן",
+        "phrase": "this",
+        "literal": "thus",
+        "source": "H3651 (KJV: 'this'; ESV/NASB: 'this')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "that he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: 'prepared'; ESV: 'provided'; NASB: 'provided')"
+      },
+      {
+        "position": 5,
+        "surface": "ל/וֹ֙",
+        "phrase": "for himself",
+        "literal": "to-him",
+        "source": " (KJV/ESV/NASB: 'him'/'himself')"
+      },
+      {
+        "position": 6,
+        "surface": "אַבְשָׁל֔וֹם",
+        "phrase": "Absalom",
+        "literal": "Absalom",
+        "source": "H53 (KJV/ESV/NASB: 'Absalom')"
+      },
+      {
+        "position": 7,
+        "surface": "מֶרְכָּבָ֖ה",
+        "phrase": "a chariot",
+        "literal": "chariot",
+        "source": "H4818 (KJV: 'chariot'; ESV/NASB: 'chariot')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/סֻסִ֑ים",
+        "phrase": "and horses",
+        "literal": "and-horses",
+        "source": "H5483 (KJV/ESV/NASB: 'horses')"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/חֲמִשִּׁ֥ים",
+        "phrase": "and fifty",
+        "literal": "and-fifty",
+        "source": "H2572 (KJV/ESV/NASB: 'fifty')"
+      },
+      {
+        "position": 10,
+        "surface": "אִ֖ישׁ",
+        "phrase": "men",
+        "literal": "man",
+        "source": "H376 (KJV/ESV/NASB: 'men')"
+      },
+      {
+        "position": 11,
+        "surface": "רָצִ֥ים",
+        "phrase": "runners",
+        "literal": "runners",
+        "source": "H7323 (KJV: 'to run'; ESV/NASB: 'runners')"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/פָנָֽי/ו",
+        "phrase": "before him",
+        "literal": "to-face-his",
+        "source": "H6440 (KJV/ESV/NASB: 'before him')"
+      }
+    ]
+  }
+]

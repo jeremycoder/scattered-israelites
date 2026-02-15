@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵא֙",
+        "phrase": "And went out",
+        "literal": "and-he-went-out",
+        "source": "H3318 (KJV: went out; ESV: had gone out; NASB: had gone out)"
+      },
+      {
+        "position": 2,
+        "surface": "מַצַּ֣ב",
+        "phrase": "garrison",
+        "literal": "garrison",
+        "source": "H4673 (KJV: garrison; ESV: garrison; NASB: garrison)"
+      },
+      {
+        "position": 3,
+        "surface": "פְּלִשְׁתִּ֔ים",
+        "phrase": "of Philistines",
+        "literal": "of-Philistines",
+        "source": "H6430 (KJV: of the Philistines; ESV: of the Philistines; NASB: of the Philistines)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 5,
+        "surface": "מַעֲבַ֖ר",
+        "phrase": "the pass",
+        "literal": "the-passage",
+        "source": "H4569 (KJV: the passage; ESV: the pass; NASB: the pass)"
+      },
+      {
+        "position": 6,
+        "surface": "מִכְמָֽשׂ",
+        "phrase": "of Michmash",
+        "literal": "Michmash",
+        "source": "H4363 (KJV: Michmash; ESV: Michmash; NASB: Michmash)"
+      }
+    ]
+  }
+]

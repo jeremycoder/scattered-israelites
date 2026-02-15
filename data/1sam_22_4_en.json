@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּנְחֵ֕/ם",
+        "phrase": "and he left them",
+        "literal": "and-he-led-them",
+        "source": "H5148 (KJV: brought; ESV: left; NASB: left)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H854 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "פְּנֵ֖י",
+        "phrase": "before the face of",
+        "literal": "face-of",
+        "source": "H6440 (KJV: before; ESV: with; NASB: with)"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹאָ֑ב",
+        "phrase": "of Moab",
+        "literal": "Moab",
+        "source": "H4124 (KJV: Moab; ESV: Moab; NASB: Moab)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּשְׁב֣וּ",
+        "phrase": "and they stayed",
+        "literal": "and-they-sat",
+        "source": "H3427 (KJV: dwelt; ESV: stayed; NASB: stayed)"
+      },
+      {
+        "position": 7,
+        "surface": "עִמּ֔/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973 (KJV: with him; ESV: with him; NASB: with him)"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 9,
+        "surface": "יְמֵ֥י",
+        "phrase": "days",
+        "literal": "days-of",
+        "source": "H3117 (KJV: while; ESV: time; NASB: time)"
+      },
+      {
+        "position": 10,
+        "surface": "הֱיוֹת",
+        "phrase": "being",
+        "literal": "being",
+        "source": "H1961 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 11,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/מְּצוּדָֽה",
+        "phrase": "in the stronghold",
+        "literal": "in-the-stronghold",
+        "source": "H4686 (KJV: hold; ESV: stronghold; NASB: stronghold)"
+      }
+    ]
+  }
+]

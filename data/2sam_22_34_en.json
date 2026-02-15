@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מְשַׁוֶּ֥ה",
+        "phrase": "makes even",
+        "literal": "making-even",
+        "source": "H7737; KJV: maketh, ESV: made, NASB: makes"
+      },
+      {
+        "position": 2,
+        "surface": "רגלי/ו",
+        "phrase": "his feet",
+        "literal": "feet-of-his",
+        "source": "H7272; KJV: my feet, ESV: my feet, NASB: my feet (following Qere)"
+      },
+      {
+        "position": 3,
+        "surface": "רַגְלַ֖/י",
+        "phrase": "my feet",
+        "literal": "feet-of-me",
+        "source": "H7272; KJV: hinds' feet, ESV: feet of deer, NASB: hinds' feet"
+      },
+      {
+        "position": 4,
+        "surface": "כָּ/אַיָּל֑וֹת",
+        "phrase": "like hinds'/deer",
+        "literal": "as-of-deer",
+        "source": "H355; KJV: hinds' feet, ESV: feet of deer, NASB: hinds' feet"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עַ֥ל",
+        "phrase": "and on",
+        "literal": "and-on",
+        "source": "H5921; KJV: and setteth (upon), ESV: set, NASB: sets"
+      },
+      {
+        "position": 6,
+        "surface": "בָּמוֹתַ֖/י",
+        "phrase": "my high places",
+        "literal": "heights-of-me",
+        "source": "H1116; KJV: my high places, ESV: heights, NASB: high places"
+      },
+      {
+        "position": 7,
+        "surface": "יַעֲמִדֵֽ/נִי",
+        "phrase": "he sets/stands me",
+        "literal": "he-causes-to-stand-me",
+        "source": "H5975; KJV: setteth me, ESV: set me, NASB: sets me"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּגֵּ֥ד",
+        "phrase": "and told",
+        "literal": "and-he-caused-to-know",
+        "source": "H5046 (KJV: shewed; ESV/NASB: told)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶבְיָתָ֖ר",
+        "phrase": "Abiathar",
+        "literal": "Abiathar",
+        "source": "H54 (KJV/ESV/NASB: Abiathar)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/דָוִ֑ד",
+        "phrase": "to David",
+        "literal": "to-David",
+        "source": "H1732 (KJV/ESV/NASB: David)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֚י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV/ESV/NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "הָרַ֣ג",
+        "phrase": "had killed",
+        "literal": "he-killed",
+        "source": "H2026 (KJV: slain; ESV/NASB: killed)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV/ESV/NASB: Saul)"
+      },
+      {
+        "position": 7,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "כֹּהֲנֵ֥י",
+        "phrase": "priests of",
+        "literal": "priests-of",
+        "source": "H3548 (KJV: LORD'S priests; ESV/NASB: priests of the Lord)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD'S; ESV/NASB: Lord)"
+      }
+    ]
+  }
+]

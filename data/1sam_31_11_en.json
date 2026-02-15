@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 31,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמְע֣וּ",
+        "phrase": "and they heard",
+        "literal": "and-they-heard",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "about it",
+        "literal": "to-him",
+        "source": "H413 (KJV: thereof; ESV: what; NASB: what)"
+      },
+      {
+        "position": 3,
+        "surface": "יֹשְׁבֵ֖י",
+        "phrase": "the inhabitants of",
+        "literal": "sitting-of",
+        "source": "H3427 (KJV: inhabitants; ESV: inhabitants; NASB: inhabitants)"
+      },
+      {
+        "position": 4,
+        "surface": "יָבֵ֣ישׁ",
+        "phrase": "Jabesh",
+        "literal": "Jabesh",
+        "source": "H3003 (KJV: Jabesh; ESV: Jabesh; NASB: Jabesh)"
+      },
+      {
+        "position": 5,
+        "surface": "גִּלְעָ֑ד",
+        "phrase": "Gilead",
+        "literal": "Gilead",
+        "source": "H1568 (KJV: Gilead; ESV: Gilead; NASB: Gilead)"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֛ת",
+        "phrase": "that",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "what",
+        "literal": "that-which",
+        "source": "H834 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 8,
+        "surface": "עָשׂ֥וּ",
+        "phrase": "had done",
+        "literal": "they-did",
+        "source": "H6213 (KJV: had done; ESV: had done; NASB: had done)"
+      },
+      {
+        "position": 9,
+        "surface": "פְלִשְׁתִּ֖ים",
+        "phrase": "the Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/שָׁאֽוּל",
+        "phrase": "to Saul",
+        "literal": "to-Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      }
+    ]
+  }
+]

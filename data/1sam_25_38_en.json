@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'And about'; NASB: 'And about')"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/עֲשֶׂ֣רֶת",
+        "phrase": "about ten",
+        "literal": "as-ten",
+        "source": "H6235 (KJV: 'about ten'; ESV: 'about ten'; NASB: 'about ten')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יָּמִ֑ים",
+        "phrase": "days",
+        "literal": "the-days",
+        "source": "H3117 (KJV: 'days'; ESV: 'days'; NASB: 'days')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּגֹּ֧ף",
+        "phrase": "struck",
+        "literal": "and-struck",
+        "source": "H5062 (KJV: 'smote'; ESV: 'struck'; NASB: 'struck')"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'the LORD'; ESV: 'the LORD'; NASB: 'the LORD')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: (implied); ESV: (implied); NASB: (implied))"
+      },
+      {
+        "position": 7,
+        "surface": "נָבָ֖ל",
+        "phrase": "Nabal",
+        "literal": "Nabal",
+        "source": "H5037 (KJV: 'Nabal'; ESV: 'Nabal'; NASB: 'Nabal')"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּמֹֽת",
+        "phrase": "and he died",
+        "literal": "and-he-died",
+        "source": "H4191 (KJV: 'and he died'; ESV: 'and he died'; NASB: 'so he died')"
+      }
+    ]
+  }
+]

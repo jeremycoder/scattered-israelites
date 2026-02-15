@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צֹאנְ/כֶ֖ם",
+        "phrase": "your flocks",
+        "literal": "flock-your",
+        "source": "H6629 (KJV: sheep; ESV/NASB: flocks)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעְשֹׂ֑ר",
+        "phrase": "he will take a tenth",
+        "literal": "he-will-tithe",
+        "source": "H6237 (KJV/ESV/NASB: take the tenth)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אַתֶּ֖ם",
+        "phrase": "and you",
+        "literal": "and-you",
+        "source": "H859 (KJV/ESV/NASB: ye/you yourselves)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּֽהְיוּ",
+        "phrase": "will be",
+        "literal": "you-will-be",
+        "source": "H1961 (KJV/ESV/NASB: shall be/will become)"
+      },
+      {
+        "position": 5,
+        "surface": "ל֥/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV/ESV/NASB: his)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/עֲבָדִֽים",
+        "phrase": "servants",
+        "literal": "to-servants",
+        "source": "H5650 (KJV: servants; ESV: slaves; NASB: servants)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֥וֹא",
+        "phrase": "and came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H5704 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "עִ֣יר",
+        "phrase": "the city",
+        "literal": "city-of",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲמָלֵ֑ק",
+        "phrase": "of Amalek",
+        "literal": "Amalek",
+        "source": "H6002 (KJV: Amalek; ESV: Amalek; NASB: Amalek)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יָּ֖רֶב",
+        "phrase": "and lay in wait",
+        "literal": "and-he-laid-in-ambush",
+        "source": "H7378 (KJV: laid wait; ESV: lay in wait; NASB: set an ambush)"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/נָּֽחַל",
+        "phrase": "in the valley",
+        "literal": "in-the-valley",
+        "source": "H5158 (KJV: valley; ESV: valley; NASB: valley)"
+      }
+    ]
+  }
+]

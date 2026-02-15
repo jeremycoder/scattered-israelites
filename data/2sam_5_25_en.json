@@ -1,0 +1,102 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַשׂ",
+        "phrase": "And David did",
+        "literal": "and-he-did",
+        "source": "H6213 (KJV: did so; ESV: did; NASB: did)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּ֔ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: as; NASB: as)"
+      },
+      {
+        "position": 4,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: as; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "צִוָּ֖/הוּ",
+        "phrase": "YHWH had commanded him",
+        "literal": "he-commanded-him",
+        "source": "H6680 (KJV: commanded him; ESV: commanded him; NASB: commanded him)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּךְ֙",
+        "phrase": "and he struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (KJV: smote; ESV: struck down; NASB: struck)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "down",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "פְּלִשְׁתִּ֔ים",
+        "phrase": "the Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/גֶּ֖בַע",
+        "phrase": "from Geba",
+        "literal": "from-Geba",
+        "source": "H1387 (KJV: Geba; ESV: Gibeon; NASB: Gibeon)"
+      },
+      {
+        "position": 11,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: to; NASB: to)"
+      },
+      {
+        "position": 12,
+        "surface": "בֹּאֲ/ךָ֥",
+        "phrase": "you come to",
+        "literal": "coming-your",
+        "source": "H935 (KJV: thou come; ESV: you come; NASB: you enter)"
+      },
+      {
+        "position": 13,
+        "surface": "גָֽזֶר",
+        "phrase": "Gezer",
+        "literal": "Gezer",
+        "source": "H1507 (KJV: Gazer; ESV: Gezer; NASB: Gezer)"
+      }
+    ]
+  }
+]

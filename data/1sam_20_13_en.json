@@ -1,0 +1,193 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כֹּֽה",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "H3541 (KJV: so; ESV: so; NASB: so)"
+      },
+      {
+        "position": 2,
+        "surface": "יַעֲשֶׂה֩",
+        "phrase": "may-do",
+        "literal": "he-may-do",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֨ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "לִֽ/יהוֹנָתָ֜ן",
+        "phrase": "to-Jonathan",
+        "literal": "to-Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/כֹ֣ה",
+        "phrase": "and-thus",
+        "literal": "and-thus",
+        "source": "H3541 (KJV: so; ESV: so; NASB: so)"
+      },
+      {
+        "position": 6,
+        "surface": "יֹסִ֗יף",
+        "phrase": "may-add",
+        "literal": "he-may-add",
+        "source": "H3254 (KJV: more; ESV: more; NASB: more)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּֽי",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H3588 (KJV: if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 8,
+        "surface": "יֵיטִ֨ב",
+        "phrase": "it-is-good",
+        "literal": "it-may-be-good",
+        "source": "H3190 (KJV: please; ESV: please; NASB: is good)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִ֤/י",
+        "phrase": "my-father",
+        "literal": "father-my",
+        "source": "H1 (KJV: my father; ESV: my father; NASB: my father)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "(direct-object-marker)",
+        "literal": "obj",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 12,
+        "surface": "הָֽ/רָעָה֙",
+        "phrase": "the-evil",
+        "literal": "the-evil",
+        "source": "H7451 (KJV: evil; ESV: harm; NASB: evil)"
+      },
+      {
+        "position": 13,
+        "surface": "עָלֶ֔י/ךָ",
+        "phrase": "against-you",
+        "literal": "on-you",
+        "source": "H5921 (KJV: to thee; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/גָלִ֨יתִי֙",
+        "phrase": "and-I-will-uncover",
+        "literal": "and-I-will-uncover",
+        "source": "H1540 (KJV: disclose; ESV: make known; NASB: disclose)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "(direct-object-marker)",
+        "literal": "obj",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 16,
+        "surface": "אָזְנֶ֔/ךָ",
+        "phrase": "your-ear",
+        "literal": "ear-your",
+        "source": "H241 (KJV: thine ear; ESV: your ear; NASB: your ear)"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/שִׁלַּחְתִּ֖י/ךָ",
+        "phrase": "and-I-will-send-you",
+        "literal": "and-I-will-send-you",
+        "source": "H7971 (KJV: send thee; ESV: send you; NASB: send you)"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/הָלַכְתָּ֣",
+        "phrase": "and-you-shall-go",
+        "literal": "and-you-shall-go",
+        "source": "H1980 (KJV: go; ESV: go; NASB: go)"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/שָׁל֑וֹם",
+        "phrase": "in-peace",
+        "literal": "to-peace",
+        "source": "H7965 (KJV: in peace; ESV: in peace; NASB: in peace)"
+      },
+      {
+        "position": 20,
+        "surface": "וִ/יהִ֤י",
+        "phrase": "and-may-be",
+        "literal": "and-may-be",
+        "source": "H1961 (KJV: be; ESV: be; NASB: be)"
+      },
+      {
+        "position": 21,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 22,
+        "surface": "עִמָּ֔/ךְ",
+        "phrase": "with-you",
+        "literal": "with-you",
+        "source": "H5973 (KJV: with thee; ESV: with you; NASB: with you)"
+      },
+      {
+        "position": 23,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 24,
+        "surface": "הָיָ֖ה",
+        "phrase": "he-has-been",
+        "literal": "he-has-been",
+        "source": "H1961 (KJV: hath been; ESV: has been; NASB: has been)"
+      },
+      {
+        "position": 25,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 26,
+        "surface": "אָבִֽ/י",
+        "phrase": "my-father",
+        "literal": "father-my",
+        "source": "H1 (KJV: my father; ESV: my father; NASB: my father)"
+      }
+    ]
+  }
+]

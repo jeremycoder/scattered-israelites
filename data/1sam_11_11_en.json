@@ -1,0 +1,200 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "H1961: KJV 'And it was so'; ESV 'And the next day'; NASB 'The next morning'"
+      },
+      {
+        "position": 2,
+        "surface": "מִֽ/מָּחֳרָ֗ת",
+        "phrase": "the next day",
+        "literal": "from-tomorrow",
+        "source": "H4283: KJV 'on the morrow'; ESV 'the next day'; NASB 'The next morning'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּ֨שֶׂם",
+        "phrase": "Saul put",
+        "literal": "and-put",
+        "source": "H7760: KJV 'Saul put'; ESV 'Saul put'; NASB 'Saul put'"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁא֣וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586: KJV 'Saul'; ESV 'Saul'; NASB 'Saul'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-DOM-]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עָם֮",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971: KJV 'the people'; ESV 'the people'; NASB 'the people'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁלֹשָׁ֣ה",
+        "phrase": "in three",
+        "literal": "three",
+        "source": "H7969: KJV 'three'; ESV 'three'; NASB 'three'"
+      },
+      {
+        "position": 8,
+        "surface": "רָאשִׁים֒",
+        "phrase": "companies",
+        "literal": "heads",
+        "source": "H7218: KJV 'companies'; ESV 'companies'; NASB 'companies'"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יָּבֹ֤אוּ",
+        "phrase": "And they came",
+        "literal": "and-they-came",
+        "source": "H935: KJV 'and they came'; ESV 'And they came'; NASB 'and they came'"
+      },
+      {
+        "position": 10,
+        "surface": "בְ/תוֹךְ",
+        "phrase": "into the midst",
+        "literal": "in-midst",
+        "source": "H8432: KJV 'into the midst'; ESV 'into the midst'; NASB 'into the midst'"
+      },
+      {
+        "position": 11,
+        "surface": "הַֽ/מַּחֲנֶה֙",
+        "phrase": "of the camp",
+        "literal": "of-the-camp",
+        "source": "H4264: KJV 'of the camp'; ESV 'of the camp'; NASB 'of the camp'"
+      },
+      {
+        "position": 12,
+        "surface": "בְּ/אַשְׁמֹ֣רֶת",
+        "phrase": "in the watch",
+        "literal": "in-watch",
+        "source": "H821: KJV 'in the morning watch'; ESV 'in the morning watch'; NASB 'at the morning watch'"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/בֹּ֔קֶר",
+        "phrase": "of the morning",
+        "literal": "of-the-morning",
+        "source": "H1242: KJV 'morning'; ESV 'morning'; NASB 'morning'"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יַּכּ֥וּ",
+        "phrase": "and struck down",
+        "literal": "and-they-struck",
+        "source": "H5221: KJV 'smote'; ESV 'struck down'; NASB 'struck down'"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-DOM-]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 16,
+        "surface": "עַמּ֖וֹן",
+        "phrase": "Ammon",
+        "literal": "Ammon",
+        "source": "H5983: KJV 'Ammonites'; ESV 'Ammonites'; NASB 'Ammonites'"
+      },
+      {
+        "position": 17,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704: KJV 'until'; ESV 'until'; NASB 'until'"
+      },
+      {
+        "position": 18,
+        "surface": "חֹ֣ם",
+        "phrase": "the heat",
+        "literal": "heat",
+        "source": "H2527: KJV 'the heat'; ESV 'the heat'; NASB 'the heat'"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/יּ֑וֹם",
+        "phrase": "of the day",
+        "literal": "of-the-day",
+        "source": "H3117: KJV 'of the day'; ESV 'of the day'; NASB 'of the day'"
+      },
+      {
+        "position": 20,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "H1961: KJV 'and it came to pass'; ESV 'And those who survived'; NASB 'Those who survived'"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/נִּשְׁאָרִים֙",
+        "phrase": "those who survived",
+        "literal": "the-surviving-ones",
+        "source": "H7604: KJV 'they that remained'; ESV 'those who survived'; NASB 'Those who survived'"
+      },
+      {
+        "position": 22,
+        "surface": "וַ/יָּפֻ֔צוּ",
+        "phrase": "were scattered",
+        "literal": "and-they-were-scattered",
+        "source": "H6327: KJV 'were scattered'; ESV 'were scattered'; NASB 'were scattered'"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "so that not",
+        "literal": "and-not",
+        "source": "H3808: KJV 'so that'; ESV 'so that'; NASB 'so that'"
+      },
+      {
+        "position": 24,
+        "surface": "נִשְׁאֲרוּ",
+        "phrase": "were left",
+        "literal": "were-left",
+        "source": "H7604: KJV 'were left'; ESV 'were left'; NASB 'were left'"
+      },
+      {
+        "position": 25,
+        "surface": "בָ֖/ם",
+        "phrase": "among them",
+        "literal": "in-them",
+        "source": "[]: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 26,
+        "surface": "שְׁנַ֥יִם",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147: KJV 'two'; ESV 'two'; NASB 'two'"
+      },
+      {
+        "position": 27,
+        "surface": "יָֽחַד",
+        "phrase": "together",
+        "literal": "together",
+        "source": "H3162: KJV 'together'; ESV 'together'; NASB 'together'"
+      }
+    ]
+  }
+]

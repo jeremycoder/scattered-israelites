@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 9,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יהוָ֔ה",
+        "phrase": "Now YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 2,
+        "surface": "גָּלָ֖ה",
+        "phrase": "had revealed",
+        "literal": "revealed",
+        "source": "H1540 (KJV: had told; ESV: had revealed; NASB: had revealed)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אֹ֣זֶן",
+        "phrase": "the ear",
+        "literal": "ear",
+        "source": "H241 (KJV: in his ear; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמוּאֵ֑ל",
+        "phrase": "of Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 6,
+        "surface": "י֣וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: a day; ESV: the day; NASB: a day)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶחָ֔ד",
+        "phrase": "one",
+        "literal": "one",
+        "source": "H259 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 9,
+        "surface": "בֽוֹא",
+        "phrase": "coming",
+        "literal": "coming",
+        "source": "H935 (KJV: came; ESV: came; NASB: coming)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁא֖וּל",
+        "phrase": "of Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul's)"
+      },
+      {
+        "position": 11,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: [implied]; NASB: saying)"
+      }
+    ]
+  }
+]

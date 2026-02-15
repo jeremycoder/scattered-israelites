@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 56,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And the king said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֑לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: The king)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁאַ֣ל",
+        "phrase": "Inquire",
+        "literal": "ask",
+        "source": "H7592 (KJV: Enquire; ESV: Inquire; NASB: inquire)"
+      },
+      {
+        "position": 4,
+        "surface": "אַתָּ֔ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: (implied); NASB: You)"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 6,
+        "surface": "מִי",
+        "phrase": "whose",
+        "literal": "who",
+        "source": "H4310 (KJV: whose; ESV: whose; NASB: whose)"
+      },
+      {
+        "position": 7,
+        "surface": "זֶ֖ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: the; ESV: the; NASB: this)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עָֽלֶם",
+        "phrase": "young man",
+        "literal": "the-youth",
+        "source": "H5958 (KJV: stripling; ESV: boy; NASB: youth)"
+      }
+    ]
+  }
+]

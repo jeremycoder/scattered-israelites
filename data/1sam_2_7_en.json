@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'The LORD'"
+      },
+      {
+        "position": 2,
+        "surface": "מוֹרִ֣ישׁ",
+        "phrase": "makes-poor",
+        "literal": "causes-to-be-poor",
+        "source": "H3423; KJV: 'maketh poor', ESV: 'makes poor', NASB: 'makes poor'"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/מַעֲשִׁ֑יר",
+        "phrase": "and-makes-rich",
+        "literal": "and-causes-to-be-rich",
+        "source": "H6238; KJV: 'maketh rich', ESV: 'makes rich', NASB: 'makes rich'"
+      },
+      {
+        "position": 4,
+        "surface": "מַשְׁפִּ֖יל",
+        "phrase": "brings-low",
+        "literal": "causes-to-be-low",
+        "source": "H8213; KJV: 'bringeth low', ESV: 'brings low', NASB: 'brings low'"
+      },
+      {
+        "position": 5,
+        "surface": "אַף",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H637; KJV/ESV/NASB: 'and'/'he also'/'and'"
+      },
+      {
+        "position": 6,
+        "surface": "מְרוֹמֵֽם",
+        "phrase": "exalts",
+        "literal": "causes-to-be-high",
+        "source": "H7311; KJV: 'lifteth up', ESV: 'exalts', NASB: 'exalts'"
+      }
+    ]
+  }
+]

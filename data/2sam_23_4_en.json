@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/כְ/א֥וֹר",
+        "phrase": "and like light",
+        "literal": "and-like-light",
+        "source": "H216 (KJV: light; ESV: light; NASB: light)"
+      },
+      {
+        "position": 2,
+        "surface": "בֹּ֖קֶר",
+        "phrase": "of morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      },
+      {
+        "position": 3,
+        "surface": "יִזְרַח",
+        "phrase": "rises",
+        "literal": "shines-forth",
+        "source": "H2224 (KJV: sun riseth; ESV: sun rises; NASB: sun rises)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑מֶשׁ",
+        "phrase": "the sun",
+        "literal": "sun",
+        "source": "H8121 (KJV: sun; ESV: sun; NASB: sun)"
+      },
+      {
+        "position": 5,
+        "surface": "בֹּ֚קֶר",
+        "phrase": "morning",
+        "literal": "morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      },
+      {
+        "position": 6,
+        "surface": "לֹ֣א",
+        "phrase": "without",
+        "literal": "not",
+        "source": "H3808 (KJV: without; ESV: without; NASB: without)"
+      },
+      {
+        "position": 7,
+        "surface": "עָב֔וֹת",
+        "phrase": "clouds",
+        "literal": "clouds",
+        "source": "H5645 (KJV: clouds; ESV: clouds; NASB: clouds)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/נֹּ֥גַהּ",
+        "phrase": "from brightness",
+        "literal": "from-brightness",
+        "source": "H5051 (KJV: shining; ESV: brightness; NASB: sunshine)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/מָּטָ֖ר",
+        "phrase": "from rain",
+        "literal": "from-rain",
+        "source": "H4306 (KJV: rain; ESV: rain; NASB: rain)"
+      },
+      {
+        "position": 10,
+        "surface": "דֶּ֥שֶׁא",
+        "phrase": "grass",
+        "literal": "grass",
+        "source": "H1877 (KJV: tender grass; ESV: grass; NASB: tender grass)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/אָֽרֶץ",
+        "phrase": "from earth",
+        "literal": "from-earth",
+        "source": "H776 (KJV: earth; ESV: earth; NASB: earth)"
+      }
+    ]
+  }
+]

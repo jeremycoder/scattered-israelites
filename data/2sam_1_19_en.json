@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/צְּבִי֙",
+        "phrase": "the glory",
+        "literal": "the-glory",
+        "source": "H6643; KJV: beauty, ESV: glory, NASB: beauty"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "O Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: Israel, ESV: Israel, NASB: Israel"
+      },
+      {
+        "position": 3,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV: upon, ESV: on, NASB: on"
+      },
+      {
+        "position": 4,
+        "surface": "בָּמוֹתֶ֖י/ךָ",
+        "phrase": "your high places",
+        "literal": "high-places-your",
+        "source": "H1116; KJV: thy high places, ESV: your heights, NASB: your high places"
+      },
+      {
+        "position": 5,
+        "surface": "חָלָ֑ל",
+        "phrase": "is slain",
+        "literal": "slain",
+        "source": "H2491; KJV: slain, ESV: lies slain, NASB: is slain"
+      },
+      {
+        "position": 6,
+        "surface": "אֵ֖יךְ",
+        "phrase": "how",
+        "literal": "how",
+        "source": "H349; KJV: how, ESV: how, NASB: how"
+      },
+      {
+        "position": 7,
+        "surface": "נָפְל֥וּ",
+        "phrase": "have fallen",
+        "literal": "they-have-fallen",
+        "source": "H5307; KJV: are the mighty fallen, ESV: the mighty have fallen, NASB: have the mighty fallen"
+      },
+      {
+        "position": 8,
+        "surface": "גִבּוֹרִֽים",
+        "phrase": "the mighty",
+        "literal": "mighty-ones",
+        "source": "H1368; KJV: mighty, ESV: mighty, NASB: mighty"
+      }
+    ]
+  }
+]

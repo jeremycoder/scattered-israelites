@@ -1,0 +1,109 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: 'For'; ESV: 'For'; NASB: 'Indeed')"
+      },
+      {
+        "position": 2,
+        "surface": "אַתָּ֖ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: 'thou'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 3,
+        "surface": "עָשִׂ֣יתָ",
+        "phrase": "did",
+        "literal": "you-did",
+        "source": "H6213 (KJV: 'didst'; ESV: 'did'; NASB: 'have done')"
+      },
+      {
+        "position": 4,
+        "surface": "בַ/סָּ֑תֶר",
+        "phrase": "secretly",
+        "literal": "in-the-secret",
+        "source": "H5643 (KJV: 'secretly'; ESV: 'secretly'; NASB: 'in secret')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲנִ֗י",
+        "phrase": "but I",
+        "literal": "and-I",
+        "source": "H589 (KJV: 'but I'; ESV: 'but I'; NASB: 'but I')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶעֱשֶׂה֙",
+        "phrase": "will do",
+        "literal": "I-will-do",
+        "source": "H6213 (KJV: 'will do'; ESV: 'will do'; NASB: 'will do')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "et-",
+        "literal": "obj-marker",
+        "source": "H853 (KJV: '(direct object marker)'; ESV: '(direct object marker)'; NASB: '(direct object marker)')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "the thing",
+        "literal": "the-word/thing",
+        "source": "H1697 (KJV: 'this thing'; ESV: 'this thing'; NASB: 'this thing')"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 10,
+        "surface": "נֶ֥גֶד",
+        "phrase": "before",
+        "literal": "before",
+        "source": "H5048 (KJV: 'before'; ESV: 'before'; NASB: 'in the sight of')"
+      },
+      {
+        "position": 11,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 12,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: 'Israel'; ESV: 'Israel'; NASB: 'Israel')"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/נֶ֥גֶד",
+        "phrase": "and before",
+        "literal": "and-before",
+        "source": "H5048 (KJV: 'and before'; ESV: 'and before'; NASB: 'and in the sight of')"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/שָּֽׁמֶשׁ",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "H8121 (KJV: 'the sun'; ESV: 'the sun'; NASB: 'the sun')"
+      }
+    ]
+  }
+]

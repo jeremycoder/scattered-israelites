@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דָוִד֙",
+        "phrase": "and David",
+        "literal": "and-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "מַעֲלִ֖ים",
+        "phrase": "were bringing up",
+        "literal": "bringing-up",
+        "source": "H5927 (KJV: brought up; ESV: brought up; NASB: were bringing up)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-acc]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אֲר֣וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "בִּ/תְרוּעָ֖ה",
+        "phrase": "with shouting",
+        "literal": "in-shouting",
+        "source": "H8643 (KJV: shouting; ESV: shouting; NASB: shouting)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְ/ק֥וֹל",
+        "phrase": "and with sound",
+        "literal": "and-in-sound-of",
+        "source": "H6963 (KJV: sound; ESV: sound; NASB: sound)"
+      },
+      {
+        "position": 11,
+        "surface": "שׁוֹפָֽר",
+        "phrase": "of horn",
+        "literal": "horn",
+        "source": "H7782 (KJV: trumpet; ESV: horn; NASB: trumpet)"
+      }
+    ]
+  }
+]

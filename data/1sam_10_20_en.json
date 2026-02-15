@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּקְרֵ֣ב",
+        "phrase": "brought near",
+        "literal": "and-he-caused-to-draw-near",
+        "source": "H7126 (KJV: brought...near; ESV: brought...near; NASB: brought...near)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֔ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁבְטֵ֣י",
+        "phrase": "tribes",
+        "literal": "tribes-of",
+        "source": "H7626 (KJV: tribes; ESV: tribes; NASB: tribes)"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּלָּכֵ֖ד",
+        "phrase": "was taken",
+        "literal": "and-was-captured",
+        "source": "H3920 (KJV: was taken; ESV: was taken; NASB: was taken)"
+      },
+      {
+        "position": 8,
+        "surface": "שֵׁ֥בֶט",
+        "phrase": "tribe",
+        "literal": "tribe",
+        "source": "H7626 (KJV: tribe; ESV: tribe; NASB: tribe)"
+      },
+      {
+        "position": 9,
+        "surface": "בִּנְיָמִֽן",
+        "phrase": "of Benjamin",
+        "literal": "Benjamin",
+        "source": "H1144 (KJV: Benjamin; ESV: Benjamin; NASB: Benjamin)"
+      }
+    ]
+  }
+]

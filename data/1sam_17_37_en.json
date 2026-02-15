@@ -1,0 +1,165 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמֶר֮",
+        "phrase": "And David said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִד֒",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֗ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: The LORD; ESV: The LORD; NASB: The LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "who",
+        "literal": "who/that",
+        "source": "H834 (KJV: who; ESV: who; NASB: who)"
+      },
+      {
+        "position": 5,
+        "surface": "הִצִּלַ֜/נִי",
+        "phrase": "delivered me",
+        "literal": "he-delivered-me",
+        "source": "H5337 (KJV: delivered; ESV: delivered; NASB: saved)"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/יַּ֤ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand-of",
+        "source": "H3027 (KJV: from the hand; ESV: from the hand; NASB: from the hand)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אֲרִי֙",
+        "phrase": "the lion",
+        "literal": "the-lion",
+        "source": "H738 (KJV: the lion; ESV: the lion; NASB: the lion)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מִ/יַּ֣ד",
+        "phrase": "and from the hand of",
+        "literal": "and-from-hand-of",
+        "source": "H3027 (KJV: from the hand; ESV: from the hand; NASB: from the hand)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/דֹּ֔ב",
+        "phrase": "the bear",
+        "literal": "the-bear",
+        "source": "H1677 (KJV: the bear; ESV: the bear; NASB: the bear)"
+      },
+      {
+        "position": 10,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: He)"
+      },
+      {
+        "position": 11,
+        "surface": "יַצִּילֵ֔/נִי",
+        "phrase": "will deliver me",
+        "literal": "he-will-deliver-me",
+        "source": "H5337 (KJV: will deliver; ESV: will deliver; NASB: will save)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/יַּ֥ד",
+        "phrase": "from the hand of",
+        "literal": "from-hand-of",
+        "source": "H3027 (KJV: from the hand; ESV: from the hand; NASB: from the hand)"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/פְּלִשְׁתִּ֖י",
+        "phrase": "the Philistine",
+        "literal": "the-Philistine",
+        "source": "H6430 (KJV: this Philistine; ESV: this Philistine; NASB: this Philistine)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And Saul said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And Saul said; ESV: And Saul said; NASB: So Saul said)"
+      },
+      {
+        "position": 16,
+        "surface": "שָׁא֤וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 17,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 18,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 19,
+        "surface": "לֵ֔ךְ",
+        "phrase": "Go",
+        "literal": "go!",
+        "source": "H3212 (KJV: Go; ESV: Go; NASB: Go)"
+      },
+      {
+        "position": 20,
+        "surface": "וַֽ/יהוָ֖ה",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 (KJV: and the LORD; ESV: and the LORD; NASB: and the LORD)"
+      },
+      {
+        "position": 21,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "will be",
+        "literal": "he-will-be",
+        "source": "H1961 (KJV: be; ESV: be; NASB: be)"
+      },
+      {
+        "position": 22,
+        "surface": "עִמָּֽ/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H5973 (KJV: with thee; ESV: with you; NASB: with you)"
+      }
+    ]
+  }
+]

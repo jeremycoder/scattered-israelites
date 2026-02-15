@@ -1,0 +1,186 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּלְכ֨וּ",
+        "phrase": "and they went",
+        "literal": "and-they-went",
+        "source": "H3212 (KJV: went; ESV: went; NASB: went)"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עָ֜ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/גִּלְגָּ֗ל",
+        "phrase": "to Gilgal",
+        "literal": "to-the-Gilgal",
+        "source": "H1537 (KJV: to Gilgal; ESV: to Gilgal; NASB: to Gilgal)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּמְלִכוּ֩",
+        "phrase": "and they made king",
+        "literal": "and-they-made-king",
+        "source": "H4427 (KJV: made Saul king; ESV: made Saul king; NASB: made Saul king)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֨ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁא֜וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/פְנֵ֤י",
+        "phrase": "before",
+        "literal": "to-before",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 11,
+        "surface": "בַּ/גִּלְגָּ֔ל",
+        "phrase": "in Gilgal",
+        "literal": "in-the-Gilgal",
+        "source": "H1537 (KJV: in Gilgal; ESV: in Gilgal; NASB: in Gilgal)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יִּזְבְּחוּ",
+        "phrase": "and they sacrificed",
+        "literal": "and-they-sacrificed",
+        "source": "H2076 (KJV: offered; ESV: sacrificed; NASB: offered)"
+      },
+      {
+        "position": 13,
+        "surface": "שָׁ֛ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 14,
+        "surface": "זְבָחִ֥ים",
+        "phrase": "sacrifices",
+        "literal": "sacrifices",
+        "source": "H2077 (KJV: sacrifices; ESV: peace offerings; NASB: sacrifices)"
+      },
+      {
+        "position": 15,
+        "surface": "שְׁלָמִ֖ים",
+        "phrase": "of peace offerings",
+        "literal": "peace-offerings",
+        "source": "H8002 (KJV: peace offerings; ESV: peace offerings; NASB: peace offerings)"
+      },
+      {
+        "position": 16,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-before",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 17,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 18,
+        "surface": "וַ/יִּשְׂמַ֨ח",
+        "phrase": "and rejoiced",
+        "literal": "and-he-rejoiced",
+        "source": "H8055 (KJV: rejoiced; ESV: rejoiced; NASB: rejoiced)"
+      },
+      {
+        "position": 19,
+        "surface": "שָׁ֥ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 20,
+        "surface": "שָׁא֛וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: and all; ESV: and all; NASB: and all)"
+      },
+      {
+        "position": 22,
+        "surface": "אַנְשֵׁ֥י",
+        "phrase": "the men of",
+        "literal": "men-of",
+        "source": "H376 (KJV: the men; ESV: the men; NASB: the men)"
+      },
+      {
+        "position": 23,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: of Israel; ESV: of Israel; NASB: of Israel)"
+      },
+      {
+        "position": 24,
+        "surface": "עַד",
+        "phrase": "greatly",
+        "literal": "until",
+        "source": "H5704 (KJV: greatly; ESV: greatly; NASB: greatly)"
+      },
+      {
+        "position": 25,
+        "surface": "מְאֹֽד",
+        "phrase": "greatly",
+        "literal": "very",
+        "source": "H3966 (KJV: greatly; ESV: greatly; NASB: greatly)"
+      }
+    ]
+  }
+]

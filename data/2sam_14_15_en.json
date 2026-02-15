@@ -1,0 +1,186 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ֠/עַתָּה",
+        "phrase": "and-now",
+        "literal": "and-now",
+        "source": "H6258 (KJV: Now therefore; ESV: now I have come; NASB: Now then)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: ; ESV: ; NASB: )"
+      },
+      {
+        "position": 3,
+        "surface": "בָּ֜אתִי",
+        "phrase": "I-have-come",
+        "literal": "I-have-come",
+        "source": "H935 (KJV: I am come; ESV: I have come; NASB: I have come)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/דַבֵּ֨ר",
+        "phrase": "to-speak",
+        "literal": "to-speak",
+        "source": "H1696 (KJV: to speak; ESV: to say; NASB: to speak)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מֶּ֤לֶךְ",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲדֹנִ/י֙",
+        "phrase": "my-lord",
+        "literal": "my-lord",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: ; ESV: ; NASB: )"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "the-word",
+        "literal": "the-word/matter",
+        "source": "H1697 (KJV: this word; ESV: this matter; NASB: this matter)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֥י",
+        "phrase": "because",
+        "literal": "for/because",
+        "source": "H3588 (KJV: because; ESV: because; NASB: because)"
+      },
+      {
+        "position": 12,
+        "surface": "יֵֽרְאֻ֖/נִי",
+        "phrase": "they-are-afraid-of-me",
+        "literal": "they-fear-me",
+        "source": "H3372 (KJV: made me afraid; ESV: have made me afraid; NASB: have frightened me)"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/עָ֑ם",
+        "phrase": "the-people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/תֹּ֤אמֶר",
+        "phrase": "and-she-said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: thy handmaid said; ESV: Your servant thought; NASB: your servant said)"
+      },
+      {
+        "position": 15,
+        "surface": "שִׁפְחָֽתְ/ךָ֙",
+        "phrase": "your-female-servant",
+        "literal": "your-maidservant",
+        "source": "H8198 (KJV: thy handmaid; ESV: Your servant; NASB: Your maidservant)"
+      },
+      {
+        "position": 16,
+        "surface": "אֲדַבְּרָה",
+        "phrase": "I-will-speak",
+        "literal": "I-will-speak",
+        "source": "H1696 (KJV: I will now speak; ESV: I will speak; NASB: I will speak)"
+      },
+      {
+        "position": 17,
+        "surface": "נָּ֣א",
+        "phrase": "please",
+        "literal": "please/now",
+        "source": "H4994 (KJV: now; ESV: ; NASB: please)"
+      },
+      {
+        "position": 18,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 20,
+        "surface": "אוּלַ֛י",
+        "phrase": "perhaps",
+        "literal": "perhaps/maybe",
+        "source": "H194 (KJV: It may be; ESV: perhaps; NASB: Perhaps)"
+      },
+      {
+        "position": 21,
+        "surface": "יַעֲשֶׂ֥ה",
+        "phrase": "he-will-do",
+        "literal": "he-will-do",
+        "source": "H6213 (KJV: will perform; ESV: will grant; NASB: will do)"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 23,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: ; ESV: ; NASB: )"
+      },
+      {
+        "position": 24,
+        "surface": "דְּבַ֥ר",
+        "phrase": "word",
+        "literal": "word/matter",
+        "source": "H1697 (KJV: request; ESV: request; NASB: request)"
+      },
+      {
+        "position": 25,
+        "surface": "אֲמָתֽ/וֹ",
+        "phrase": "his-servant",
+        "literal": "his-maidservant",
+        "source": "H519 (KJV: his servant; ESV: his servant’s; NASB: his maidservant)"
+      }
+    ]
+  }
+]

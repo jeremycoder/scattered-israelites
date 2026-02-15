@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/עֲב֤וּר",
+        "phrase": "for the sake of",
+        "literal": "in/for-cause-of",
+        "source": "H5668; KJV 'For thy word's sake', ESV 'Because of your promise', NASB 'For the sake of Your word'"
+      },
+      {
+        "position": 2,
+        "surface": "דְּבָֽרְ/ךָ֙",
+        "phrase": "your word",
+        "literal": "word-your",
+        "source": "H1697; KJV 'thy word's', ESV 'your promise', NASB 'Your word'"
+      },
+      {
+        "position": 3,
+        "surface": "וּֽ/כְ/לִבְּ/ךָ֔",
+        "phrase": "and according to your heart",
+        "literal": "and-as/heart-your",
+        "source": "H3820; KJV 'according to thine own heart', ESV 'according to your own heart', NASB 'according to Your own heart'"
+      },
+      {
+        "position": 4,
+        "surface": "עָשִׂ֕יתָ",
+        "phrase": "you have done",
+        "literal": "you-have-done",
+        "source": "H6213; KJV 'hast thou wrought', ESV 'you have brought about', NASB 'You have done'"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֥ת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV 'all', ESV 'all', NASB 'all'"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/גְּדוּלָּ֖ה",
+        "phrase": "this greatness",
+        "literal": "the-greatness",
+        "source": "H1420; KJV 'this greatness', ESV 'this greatness', NASB 'this greatness'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/זֹּ֑את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063; KJV 'this', ESV 'this', NASB 'this'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/הוֹדִ֖יעַ",
+        "phrase": "to make known",
+        "literal": "to-cause-to-know",
+        "source": "H3045; KJV 'to make...know', ESV 'to make...know', NASB 'to make...know'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 11,
+        "surface": "עַבְדֶּֽ/ךָ",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "H5650; KJV 'thy servant', ESV 'your servant', NASB 'Your servant'"
+      }
+    ]
+  }
+]

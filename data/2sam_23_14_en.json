@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דָוִ֖ד",
+        "phrase": "And David",
+        "literal": "and-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 2,
+        "surface": "אָ֣ז",
+        "phrase": "was then",
+        "literal": "then",
+        "source": "H227 (KJV: then; ESV: then; NASB: then)"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/מְּצוּדָ֑ה",
+        "phrase": "in the stronghold",
+        "literal": "in-the-stronghold",
+        "source": "H4686 (KJV: in an hold; ESV: in the stronghold; NASB: in the stronghold)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מַצַּ֣ב",
+        "phrase": "and the garrison",
+        "literal": "and-garrison",
+        "source": "H4673 (KJV: the garrison; ESV: the garrison; NASB: the garrison)"
+      },
+      {
+        "position": 5,
+        "surface": "פְּלִשְׁתִּ֔ים",
+        "phrase": "of the Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: of the Philistines; ESV: of the Philistines; NASB: of the Philistines)"
+      },
+      {
+        "position": 6,
+        "surface": "אָ֖ז",
+        "phrase": "was then",
+        "literal": "then",
+        "source": "H227 (KJV: then; ESV: then; NASB: then)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֥ית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      },
+      {
+        "position": 8,
+        "surface": "לָֽחֶם",
+        "phrase": "lehem",
+        "literal": "bread",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      }
+    ]
+  }
+]

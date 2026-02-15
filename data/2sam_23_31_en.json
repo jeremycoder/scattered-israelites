@@ -1,0 +1,46 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲבִֽי",
+        "phrase": "Abi",
+        "literal": "father-of",
+        "source": "H45; KJV: Abialbon, ESV: Abi-albon, NASB: Abi-albon"
+      },
+      {
+        "position": 2,
+        "surface": "עַלְבוֹן֙",
+        "phrase": "Albon",
+        "literal": "strength",
+        "source": "H45; KJV: Abialbon, ESV: Abi-albon, NASB: Abi-albon"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/עַרְבָתִ֔י",
+        "phrase": "the Arbathite",
+        "literal": "the-Arbathite",
+        "source": "H6164; KJV: the Arbathite, ESV: the Arbathite, NASB: the Arbathite"
+      },
+      {
+        "position": 4,
+        "surface": "עַזְמָ֖וֶת",
+        "phrase": "Azmaveth",
+        "literal": "strong-one-of-death",
+        "source": "H5820; KJV: Azmaveth, ESV: Azmaveth, NASB: Azmaveth"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בַּרְחֻמִֽי",
+        "phrase": "the Barhumite",
+        "literal": "the-Barhumite",
+        "source": "H1273; KJV: the Barhumite, ESV: the Barhumite, NASB: the Barhumite"
+      }
+    ]
+  }
+]

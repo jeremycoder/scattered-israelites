@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֻּגַּ֣ד",
+        "phrase": "And it was told",
+        "literal": "and-was-told",
+        "source": "H5046 (KJV: told; ESV: told; NASB: told)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/שָׁא֔וּל",
+        "phrase": "to Saul",
+        "literal": "to-Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 4,
+        "surface": "בָרַ֥ח",
+        "phrase": "had fled",
+        "literal": "fled",
+        "source": "H1272 (KJV: fled; ESV: fled; NASB: fled)"
+      },
+      {
+        "position": 5,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 6,
+        "surface": "גַּ֑ת",
+        "phrase": "to Gath",
+        "literal": "Gath",
+        "source": "H1661 (KJV: Gath; ESV: Gath; NASB: Gath)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and no",
+        "literal": "and-not",
+        "source": "H3808 (KJV: and; ESV: no; NASB: no)"
+      },
+      {
+        "position": 8,
+        "surface": "יוסף",
+        "phrase": "longer",
+        "literal": "he-added",
+        "source": "H3254 (KJV: no more; ESV: no longer; NASB: no longer)"
+      },
+      {
+        "position": 9,
+        "surface": "יָסַ֥ף",
+        "phrase": "added",
+        "literal": "he-added",
+        "source": "H3254 (KJV: sought; ESV: sought; NASB: searched)"
+      },
+      {
+        "position": 10,
+        "surface": "ע֖וֹד",
+        "phrase": "again",
+        "literal": "still",
+        "source": "H5750 (KJV: again; ESV: more; NASB: longer)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/בַקְשֽׁ/וֹ",
+        "phrase": "to seek him",
+        "literal": "to-seek-him",
+        "source": "H1245 (KJV: for him; ESV: him; NASB: for him)"
+      }
+    ]
+  }
+]

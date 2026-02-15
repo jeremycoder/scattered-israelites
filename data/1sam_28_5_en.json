@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥רְא",
+        "phrase": "and he saw",
+        "literal": "and-he-saw",
+        "source": "H7200 (KJV: saw; ESV: saw; NASB: saw)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 4,
+        "surface": "מַחֲנֵ֣ה",
+        "phrase": "camp",
+        "literal": "camp",
+        "source": "H4264 (KJV: host; ESV: army; NASB: camp)"
+      },
+      {
+        "position": 5,
+        "surface": "פְלִשְׁתִּ֑ים",
+        "phrase": "of the Philistines",
+        "literal": "of-Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּרָ֕א",
+        "phrase": "and he was afraid",
+        "literal": "and-he-was-afraid",
+        "source": "H3372 (KJV: was afraid; ESV: was afraid; NASB: was afraid)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֶּחֱרַ֥ד",
+        "phrase": "and trembled",
+        "literal": "and-he-trembled",
+        "source": "H2729 (KJV: trembled; ESV: trembled; NASB: trembled)"
+      },
+      {
+        "position": 8,
+        "surface": "לִבּ֖/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "H3820 (KJV: heart; ESV: heart; NASB: heart)"
+      },
+      {
+        "position": 9,
+        "surface": "מְאֹֽד",
+        "phrase": "greatly",
+        "literal": "greatly",
+        "source": "H3966 (KJV: greatly; ESV: greatly; NASB: greatly)"
+      }
+    ]
+  }
+]

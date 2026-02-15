@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶל",
+        "phrase": "For",
+        "literal": "to",
+        "source": "H413 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נַּ֥עַר",
+        "phrase": "this child",
+        "literal": "the-boy",
+        "source": "H5288 (KJV: child; ESV: child; NASB: boy)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 4,
+        "surface": "הִתְפַּלָּ֑לְתִּי",
+        "phrase": "I prayed",
+        "literal": "I-prayed",
+        "source": "H6419 (KJV: I prayed; ESV: I prayed; NASB: I prayed)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּתֵּ֨ן",
+        "phrase": "and has given",
+        "literal": "and-he-gave",
+        "source": "H5414 (KJV: hath given; ESV: has granted; NASB: has given)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֥ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/י֙",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: me; ESV: me; NASB: me)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁאֵ֣לָתִ֔/י",
+        "phrase": "my petition",
+        "literal": "my-request-my",
+        "source": "H7596 (KJV: my petition; ESV: my petition; NASB: my petition)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 11,
+        "surface": "שָׁאַ֖לְתִּי",
+        "phrase": "I asked",
+        "literal": "I-asked",
+        "source": "H7592 (KJV: I asked; ESV: I made; NASB: I asked)"
+      },
+      {
+        "position": 12,
+        "surface": "מֵ/עִמּֽ/וֹ",
+        "phrase": "of him",
+        "literal": "from-with-him",
+        "source": "H5973 (KJV: of him; ESV: to him; NASB: of Him)"
+      }
+    ]
+  }
+]

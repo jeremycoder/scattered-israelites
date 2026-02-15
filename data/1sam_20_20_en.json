@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲנִ֕י",
+        "phrase": "And I",
+        "literal": "and-I",
+        "source": "H589 (KJV: 'And I'; ESV: 'And I'; NASB: 'And I')"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹ֥שֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV: 'three'; ESV: 'three'; NASB: 'three')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/חִצִּ֖ים",
+        "phrase": "the arrows",
+        "literal": "the-arrows",
+        "source": "H2678 (KJV: 'arrows'; ESV: 'arrows'; NASB: 'arrows')"
+      },
+      {
+        "position": 4,
+        "surface": "צִדָּ֣/ה",
+        "phrase": "of it",
+        "literal": "side-its",
+        "source": "H6654 (KJV: 'thereof'; ESV: 'of it'; NASB: 'of it')"
+      },
+      {
+        "position": 5,
+        "surface": "אוֹרֶ֑ה",
+        "phrase": "will shoot",
+        "literal": "I-will-shoot",
+        "source": "H3384 (KJV: 'I will shoot'; ESV: 'I will shoot'; NASB: 'I will shoot')"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/שַֽׁלַּֽח",
+        "phrase": "to shoot",
+        "literal": "to-shoot",
+        "source": "H7971 (KJV: 'as though I shot'; ESV: 'as though I shot'; NASB: 'as though I shot')"
+      },
+      {
+        "position": 7,
+        "surface": "לִ֖/י",
+        "phrase": "for me",
+        "literal": "to-me",
+        "source": " (KJV: implied in context; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/מַטָּרָֽה",
+        "phrase": "as a target",
+        "literal": "for-target",
+        "source": "H4307 (KJV: 'at a mark'; ESV: 'at a target'; NASB: 'at a target')"
+      }
+    ]
+  }
+]

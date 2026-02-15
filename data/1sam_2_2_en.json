@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵין",
+        "phrase": "There is no",
+        "literal": "there-is-not",
+        "source": "H369; KJV: none, ESV: no one, NASB: no one"
+      },
+      {
+        "position": 2,
+        "surface": "קָד֥וֹשׁ",
+        "phrase": "holy",
+        "literal": "holy",
+        "source": "H6918; KJV: holy, ESV: holy, NASB: holy"
+      },
+      {
+        "position": 3,
+        "surface": "כַּ/יהוָ֖ה",
+        "phrase": "like YHWH",
+        "literal": "like/YHWH",
+        "source": "H3068; KJV: as the LORD, ESV: like the LORD, NASB: like the LORD"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588; KJV: for, ESV: indeed, NASB: indeed"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֣ין",
+        "phrase": "there is no",
+        "literal": "there-is-not",
+        "source": "H369; KJV: none, ESV: no one, NASB: no one"
+      },
+      {
+        "position": 6,
+        "surface": "בִּלְתֶּ֑/ךָ",
+        "phrase": "besides you",
+        "literal": "except/you",
+        "source": "H1115; KJV: beside thee, ESV: besides you, NASB: besides You"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֵ֥ין",
+        "phrase": "and there is no",
+        "literal": "and-there-is-not",
+        "source": "H369; KJV: neither, ESV: nor, NASB: nor"
+      },
+      {
+        "position": 8,
+        "surface": "צ֖וּר",
+        "phrase": "rock",
+        "literal": "rock",
+        "source": "H6697; KJV: rock, ESV: rock, NASB: rock"
+      },
+      {
+        "position": 9,
+        "surface": "כֵּ/אלֹהֵֽי/נוּ",
+        "phrase": "like our God",
+        "literal": "like/gods/our",
+        "source": "H430; KJV: like our God, ESV: like our God, NASB: like our God"
+      }
+    ]
+  }
+]

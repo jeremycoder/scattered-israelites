@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמְר֔וּ",
+        "phrase": "And they said",
+        "literal": "and-they-said",
+        "source": "H559 (KJV: 'And they said'; ESV: 'They said'; NASB: 'They said')"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'not'; ESV: 'not'; NASB: 'not')"
+      },
+      {
+        "position": 3,
+        "surface": "עֲשַׁקְתָּ֖/נוּ",
+        "phrase": "defrauded us",
+        "literal": "oppressed-you_us",
+        "source": "H6231 (KJV: 'defrauded us'; ESV: 'defrauded us'; NASB: 'defrauded us')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'nor'; ESV: 'or'; NASB: 'or')"
+      },
+      {
+        "position": 5,
+        "surface": "רַצּוֹתָ֑/נוּ",
+        "phrase": "oppressed us",
+        "literal": "crushed-you_us",
+        "source": "H7533 (KJV: 'oppressed us'; ESV: 'oppressed us'; NASB: 'oppressed us')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹֽא",
+        "phrase": "neither",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'neither'; ESV: 'or'; NASB: 'or')"
+      },
+      {
+        "position": 7,
+        "surface": "לָקַ֥חְתָּ",
+        "phrase": "have you taken",
+        "literal": "taken-you",
+        "source": "H3947 (KJV: 'hast thou taken'; ESV: 'taken'; NASB: 'taken')"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/יַּד",
+        "phrase": "from the hand of",
+        "literal": "from-hand_of",
+        "source": "H3027 (KJV: 'of any man's hand'; ESV: 'from any man's hand'; NASB: 'from any man's hand')"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֖ישׁ",
+        "phrase": "any man",
+        "literal": "man",
+        "source": "H376 (KJV: 'any man'; ESV: 'any man'; NASB: 'any man')"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֽוּמָה",
+        "phrase": "anything",
+        "literal": "anything",
+        "source": "H3972 (KJV: 'ought'; ESV: 'anything'; NASB: 'anything')"
+      }
+    ]
+  }
+]

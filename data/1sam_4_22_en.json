@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 4,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "And she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "גָּלָ֥ה",
+        "phrase": "has departed",
+        "literal": "has-gone-into-exile",
+        "source": "H1540 (KJV: is departed; ESV: has departed; NASB: has departed)"
+      },
+      {
+        "position": 3,
+        "surface": "כָב֖וֹד",
+        "phrase": "the glory",
+        "literal": "glory",
+        "source": "H3519 (KJV: glory; ESV: glory; NASB: glory)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/יִּשְׂרָאֵ֑ל",
+        "phrase": "from Israel",
+        "literal": "from-Israel",
+        "source": "H3478 (KJV: from Israel; ESV: from Israel; NASB: from Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "because",
+        "source": "H3588 (KJV: for; ESV: for; NASB: because)"
+      },
+      {
+        "position": 6,
+        "surface": "נִלְקַ֖ח",
+        "phrase": "has been captured",
+        "literal": "has-been-taken",
+        "source": "H3947 (KJV: is taken; ESV: has been captured; NASB: has been taken)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲר֥וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֱלֹהִֽים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      }
+    ]
+  }
+]

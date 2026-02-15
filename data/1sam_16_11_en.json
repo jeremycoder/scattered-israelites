@@ -1,0 +1,186 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And Samuel said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֣ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "יִשַׁי֮",
+        "phrase": "Jesse",
+        "literal": "Jesse",
+        "source": "H3448 (KJV: Jesse; ESV: Jesse; NASB: Jesse)"
+      },
+      {
+        "position": 5,
+        "surface": "הֲ/תַ֣מּוּ",
+        "phrase": "Have they finished?",
+        "literal": "interrogative-have-you-all-finished?",
+        "source": "H8552 (KJV: Are here all; ESV: Are all; NASB: Are all)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נְּעָרִים֒",
+        "phrase": "the young men",
+        "literal": "the-young-men",
+        "source": "H5288 (KJV: thy children; ESV: the young men; NASB: the young men)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And he said; ESV: And he said; NASB: Then he said)"
+      },
+      {
+        "position": 8,
+        "surface": "ע֚וֹד",
+        "phrase": "Still",
+        "literal": "still",
+        "source": "H5750 (KJV: There remaineth yet; ESV: There remains yet; NASB: There remains yet)"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁאַ֣ר",
+        "phrase": "remains",
+        "literal": "remains",
+        "source": "H7604 (KJV: remaineth; ESV: remains; NASB: remains)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/קָּטָ֔ן",
+        "phrase": "the youngest",
+        "literal": "the-small-one",
+        "source": "H6996 (KJV: the youngest; ESV: the youngest; NASB: the youngest)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV: and behold; ESV: but behold; NASB: and behold)"
+      },
+      {
+        "position": 12,
+        "surface": "רֹעֶ֖ה",
+        "phrase": "keeping",
+        "literal": "shepherding",
+        "source": "H7462 (KJV: keepeth; ESV: keeping; NASB: keeping)"
+      },
+      {
+        "position": 13,
+        "surface": "בַּ/צֹּ֑אן",
+        "phrase": "the sheep",
+        "literal": "in-the-flock",
+        "source": "H6629 (KJV: the sheep; ESV: the sheep; NASB: the sheep)"
+      },
+      {
+        "position": 14,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And Samuel said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And Samuel said; ESV: And Samuel said; NASB: And Samuel said)"
+      },
+      {
+        "position": 15,
+        "surface": "שְׁמוּאֵ֤ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 16,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 17,
+        "surface": "יִשַׁי֙",
+        "phrase": "Jesse",
+        "literal": "Jesse",
+        "source": "H3448 (KJV: Jesse; ESV: Jesse; NASB: Jesse)"
+      },
+      {
+        "position": 18,
+        "surface": "שִׁלְחָ֣/ה",
+        "phrase": "Send",
+        "literal": "send-him",
+        "source": "H7971 (KJV: Send; ESV: Send; NASB: Send)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/קָחֶ֔/נּוּ",
+        "phrase": "and fetch him",
+        "literal": "and-take-us-him",
+        "source": "H3947 (KJV: and fetch him; ESV: and bring him; NASB: and bring him)"
+      },
+      {
+        "position": 20,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: For; NASB: for)"
+      },
+      {
+        "position": 21,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: we will not; ESV: we will not; NASB: we cannot)"
+      },
+      {
+        "position": 22,
+        "surface": "נָסֹ֖ב",
+        "phrase": "will we sit down",
+        "literal": "we-turn-around",
+        "source": "H5437 (KJV: sit down; ESV: sit down; NASB: turn our attention)"
+      },
+      {
+        "position": 23,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: till; ESV: until; NASB: until)"
+      },
+      {
+        "position": 24,
+        "surface": "בֹּא֥/וֹ",
+        "phrase": "he comes",
+        "literal": "come-he",
+        "source": "H935 (KJV: he come; ESV: he comes; NASB: he comes)"
+      },
+      {
+        "position": 25,
+        "surface": "פֹֽה",
+        "phrase": "here",
+        "literal": "here",
+        "source": "H6311 (KJV: hither; ESV: here; NASB: here)"
+      }
+    ]
+  }
+]

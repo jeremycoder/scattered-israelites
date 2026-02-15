@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֕י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And it came to pass'; ESV 'When Samuel became old'; NASB 'And it came about'"
+      },
+      {
+        "position": 2,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "when",
+        "literal": "as-that",
+        "source": "H834: KJV 'when'; ESV 'when'; NASB 'when'"
+      },
+      {
+        "position": 3,
+        "surface": "זָקֵ֖ן",
+        "phrase": "Samuel was old",
+        "literal": "he-was-old",
+        "source": "H2204: KJV 'Samuel was old'; ESV 'Samuel became old'; NASB 'Samuel became old'"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁמוּאֵ֑ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050: KJV 'Samuel'; ESV 'Samuel'; NASB 'Samuel'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּ֧שֶׂם",
+        "phrase": "he made",
+        "literal": "and-he-appointed",
+        "source": "H7760: KJV 'he made'; ESV 'he made'; NASB 'he appointed'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּנָ֛י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121: KJV 'his sons'; ESV 'his sons'; NASB 'his sons'"
+      },
+      {
+        "position": 8,
+        "surface": "שֹׁפְטִ֖ים",
+        "phrase": "judges",
+        "literal": "judges",
+        "source": "H8199: KJV 'judges'; ESV 'judges'; NASB 'judges'"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/יִשְׂרָאֵֽל",
+        "phrase": "over Israel",
+        "literal": "to/for-Israel",
+        "source": "H3478: KJV 'over Israel'; ESV 'in Israel'; NASB 'for Israel'"
+      }
+    ]
+  }
+]

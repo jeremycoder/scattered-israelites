@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: 'of'; ESV: 'than'; NASB: 'than')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁלֹשָׁה֙",
+        "phrase": "the three",
+        "literal": "the-three",
+        "source": "H7969 (KJV: 'those three'; ESV: 'the three'; NASB: 'the three')"
+      },
+      {
+        "position": 3,
+        "surface": "הֲ/כִ֣י",
+        "phrase": "was he not",
+        "literal": "question-if",
+        "source": "H3588 (KJV: 'was he not'; ESV: 'was he not'; NASB: 'Was he not')"
+      },
+      {
+        "position": 4,
+        "surface": "נִכְבָּ֔ד",
+        "phrase": "most honorable",
+        "literal": "honored",
+        "source": "H3513 (KJV: 'most honourable'; ESV: 'most honored'; NASB: 'most honored')"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and he became",
+        "literal": "and-he-was",
+        "source": "H1961 (KJV: 'therefore he was'; ESV: 'He became'; NASB: 'he became')"
+      },
+      {
+        "position": 6,
+        "surface": "לָ/הֶ֖ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": " (KJV: 'their'; ESV: 'their'; NASB: 'their')"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/שָׂ֑ר",
+        "phrase": "a chief",
+        "literal": "to-chief",
+        "source": "H8269 (KJV: 'captain'; ESV: 'commander'; NASB: 'commander')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/עַד",
+        "phrase": "and unto",
+        "literal": "and-unto",
+        "source": "H5704 (KJV: 'howbeit'; ESV: 'even though'; NASB: 'however')"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שְּׁלֹשָׁ֖ה",
+        "phrase": "the three",
+        "literal": "the-three",
+        "source": "H7969 (KJV: 'the first three'; ESV: 'the three'; NASB: 'the three')"
+      },
+      {
+        "position": 10,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'attained not'; ESV: 'did not attain'; NASB: 'did not attain')"
+      },
+      {
+        "position": 11,
+        "surface": "בָֽא",
+        "phrase": "he came",
+        "literal": "he-came",
+        "source": "H935 (KJV: 'he attained'; ESV: 'attain'; NASB: 'attain')"
+      }
+    ]
+  }
+]

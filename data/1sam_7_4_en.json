@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 7,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּסִ֨ירוּ֙",
+        "phrase": "and they removed",
+        "literal": "and-they-removed",
+        "source": "H5493 (KJV: did put away; ESV: put away; NASB: removed)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children of; ESV: people of; NASB: sons of)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-DOM-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בְּעָלִ֖ים",
+        "phrase": "the Baals",
+        "literal": "the-Baals",
+        "source": "H1168 (KJV: Baalim; ESV: Baals; NASB: Baals)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [-DOM-]",
+        "literal": "and-[-DOM-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עַשְׁתָּרֹ֑ת",
+        "phrase": "the Ashtoreths",
+        "literal": "the-Ashtoreths",
+        "source": "H6252 (KJV: Ashtaroth; ESV: Ashtoreths; NASB: Ashtoreths)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּעַבְד֥וּ",
+        "phrase": "and they served",
+        "literal": "and-they-served",
+        "source": "H5647 (KJV: served; ESV: served; NASB: served)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[-DOM-]",
+        "literal": "[-DOM-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/בַדּֽ/וֹ",
+        "phrase": "alone",
+        "literal": "to-alone-his",
+        "source": "H905 (KJV: only; ESV: only; NASB: alone)"
+      }
+    ]
+  }
+]

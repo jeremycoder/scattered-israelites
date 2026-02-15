@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 30,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לַ/אֲשֶׁ֖ר",
+        "phrase": "and to those who",
+        "literal": "and-to-who(m)",
+        "source": "H834 (KJV: 'them which were'; ESV: 'those who were'; NASB: 'those who were')"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/חֶבְר֑וֹן",
+        "phrase": "in Hebron",
+        "literal": "in-Hebron",
+        "source": "H2275 (KJV: 'in Hebron'; ESV: 'in Hebron'; NASB: 'in Hebron')"
+      },
+      {
+        "position": 3,
+        "surface": "וּֽ/לְ/כָל",
+        "phrase": "and to all",
+        "literal": "and-to-all",
+        "source": "H3605 (KJV: 'to all'; ESV: 'to all'; NASB: 'to all')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מְּקֹמ֛וֹת",
+        "phrase": "the places",
+        "literal": "the-places",
+        "source": "H4725 (KJV: 'the places'; ESV: 'the other places'; NASB: 'the places')"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶֽׁר",
+        "phrase": "where",
+        "literal": "which",
+        "source": "H834 (KJV: 'where'; ESV: 'where'; NASB: 'where')"
+      },
+      {
+        "position": 6,
+        "surface": "הִתְהַלֶּךְ",
+        "phrase": "he had walked",
+        "literal": "he-walked-around",
+        "source": "H1980 (KJV: 'were wont to haunt'; ESV: 'had roamed'; NASB: 'were accustomed to go')"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֥ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (implied in context; KJV/ESV/NASB: 'where')"
+      },
+      {
+        "position": 8,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV/ESV/NASB: 'David')"
+      },
+      {
+        "position": 9,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: 'himself'; ESV/NASB: 'he himself')"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/אֲנָשָֽׁי/ו",
+        "phrase": "and his men",
+        "literal": "and-men-his",
+        "source": "H376 (KJV/ESV/NASB: 'his men')"
+      }
+    ]
+  }
+]

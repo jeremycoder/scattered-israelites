@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "And it was",
+        "literal": "and-he-was",
+        "source": "H1961; KJV/NKJV/ESV/NASB: 'And ... was' or 'it came to pass'"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586; KJV/ESV/NASB: 'Saul'"
+      },
+      {
+        "position": 3,
+        "surface": "עון",
+        "phrase": "watching",
+        "literal": "watching",
+        "source": "H5771; KJV: 'eyed'; ESV/NASB: 'eyed' or 'watched' (often with jealousy)"
+      },
+      {
+        "position": 4,
+        "surface": "עוֹיֵ֣ן",
+        "phrase": "eyeing",
+        "literal": "eyeing",
+        "source": "H5770; KJV: ignores distinctly; ESV/NASB: 'eyed' (jealous gaze); devotional notes spiritual insight"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: '-'(untranslated marker)"
+      },
+      {
+        "position": 6,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB: 'David'"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/הַ/יּ֥וֹם",
+        "phrase": "from that day",
+        "literal": "from-the-day",
+        "source": "H3117; KJV/ESV/NASB: 'from that day'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931; KJV/ESV/NASB: 'that'"
+      },
+      {
+        "position": 9,
+        "surface": "וָ/הָֽלְאָה",
+        "phrase": "and forward",
+        "literal": "and-onward",
+        "source": "H1973; KJV/ESV/NASB: 'and forward' or 'onward'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יַצִּילֵ֕/נִי",
+        "phrase": "he rescued me",
+        "literal": "he-delivered-me",
+        "source": "H5337 (KJV: delivered; ESV: rescued; NASB: delivered)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/אֹיְבִ֖/י",
+        "phrase": "from my enemy",
+        "literal": "from-enemy-of-me",
+        "source": "H341 (KJV: from my strong enemy; ESV: from my powerful enemy; NASB: from my strong enemy)"
+      },
+      {
+        "position": 3,
+        "surface": "עָ֑ז",
+        "phrase": "strong",
+        "literal": "strong",
+        "source": "H5794 (KJV: strong; ESV: powerful; NASB: strong)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/שֹּׂ֣נְאַ֔/י",
+        "phrase": "from those who hated me",
+        "literal": "from-hating-ones-of-me",
+        "source": "H8130 (KJV: from them that hated me; ESV: from those who hated me; NASB: from those who hated me)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 6,
+        "surface": "אָמְצ֖וּ",
+        "phrase": "they were too strong",
+        "literal": "they-were-strong",
+        "source": "H553 (KJV: they were too strong; ESV: who were too strong; NASB: they were too strong)"
+      },
+      {
+        "position": 7,
+        "surface": "מִמֶּֽ/נִּי",
+        "phrase": "for me",
+        "literal": "from-me",
+        "source": "H4480 (KJV: for me; ESV: for me; NASB: for me)"
+      }
+    ]
+  }
+]

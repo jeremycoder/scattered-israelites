@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּכְרֹ֧ת",
+        "phrase": "Then made",
+        "literal": "and-he-cut",
+        "source": "H3772 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹנָתָ֛ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/דָוִ֖ד",
+        "phrase": "and David",
+        "literal": "and-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּרִ֑ית",
+        "phrase": "a covenant",
+        "literal": "covenant",
+        "source": "H1285 (KJV: covenant; ESV: covenant; NASB: covenant)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/אַהֲבָת֥/וֹ",
+        "phrase": "because of his love",
+        "literal": "in-love-his",
+        "source": "H160 (KJV: because he loved; ESV: because he loved; NASB: because he loved)"
+      },
+      {
+        "position": 6,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "H853 (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 7,
+        "surface": "כְּ/נַפְשֽׁ/וֹ",
+        "phrase": "as his own soul",
+        "literal": "as-soul-his",
+        "source": "H5315 (KJV: as his own soul; ESV: as his own soul; NASB: as himself)"
+      }
+    ]
+  }
+]

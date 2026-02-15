@@ -1,0 +1,165 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 17,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'Now it came to pass'; ESV: 'After they had gone'; NASB: 'It came about')"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֲרֵ֣י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 (KJV: 'after they had departed'; ESV: 'they had gone'; NASB: 'they had departed')"
+      },
+      {
+        "position": 3,
+        "surface": "לֶכְתָּ֗/ם",
+        "phrase": "their going",
+        "literal": "going-of-them",
+        "source": "H3212 (KJV: 'they had departed'; ESV: 'they had gone'; NASB: 'they had departed')"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יַּעֲלוּ֙",
+        "phrase": "they came up",
+        "literal": "and-they-went-up",
+        "source": "H5927 (KJV: 'they came up'; ESV: 'came up'; NASB: 'came up')"
+      },
+      {
+        "position": 5,
+        "surface": "מֵֽ/הַ/בְּאֵ֔ר",
+        "phrase": "from the well",
+        "literal": "from-the-well",
+        "source": "H875 (KJV: 'out of the well'; ESV: 'out of the well'; NASB: 'out of the well')"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּ֣לְכ֔וּ",
+        "phrase": "and went",
+        "literal": "and-they-went",
+        "source": "H3212 (KJV: 'and went'; ESV: 'went'; NASB: 'went')"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּגִּ֖דוּ",
+        "phrase": "and told",
+        "literal": "and-they-declared",
+        "source": "H5046 (KJV: 'told'; ESV: 'told'; NASB: 'reported')"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/מֶּ֣לֶךְ",
+        "phrase": "to the king",
+        "literal": "to-the-king",
+        "source": "H4428 (KJV: 'King'; ESV: 'King'; NASB: 'King')"
+      },
+      {
+        "position": 9,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: 'David'; ESV: 'David'; NASB: 'David')"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יֹּאמְר֣וּ",
+        "phrase": "and said",
+        "literal": "and-they-said",
+        "source": "H559 (KJV: 'said'; ESV: 'said'; NASB: 'said')"
+      },
+      {
+        "position": 11,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'to'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 12,
+        "surface": "דָּוִ֗ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: 'David'; ESV: 'David'; NASB: 'David')"
+      },
+      {
+        "position": 13,
+        "surface": "ק֣וּמוּ",
+        "phrase": "Arise",
+        "literal": "arise-PL",
+        "source": "H6965 (KJV: 'Arise'; ESV: 'Arise'; NASB: 'Arise')"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/עִבְר֤וּ",
+        "phrase": "and cross over",
+        "literal": "and-cross-PL",
+        "source": "H5674 (KJV: 'pass'; ESV: 'cross'; NASB: 'cross')"
+      },
+      {
+        "position": 15,
+        "surface": "מְהֵרָה֙",
+        "phrase": "quickly",
+        "literal": "quickly",
+        "source": "H4120 (KJV: 'quickly'; ESV: 'quickly'; NASB: 'quickly')"
+      },
+      {
+        "position": 16,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/מַּ֔יִם",
+        "phrase": "the water",
+        "literal": "the-waters",
+        "source": "H4325 (KJV: 'the water'; ESV: 'the water'; NASB: 'the water')"
+      },
+      {
+        "position": 18,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: 'for'; ESV: 'for'; NASB: 'because')"
+      },
+      {
+        "position": 19,
+        "surface": "כָ֛כָה",
+        "phrase": "thus",
+        "literal": "thus",
+        "source": "H3602 (KJV: 'thus'; ESV: 'thus'; NASB: 'this')"
+      },
+      {
+        "position": 20,
+        "surface": "יָעַ֥ץ",
+        "phrase": "has advised",
+        "literal": "he-advised",
+        "source": "H3289 (KJV: 'counselled'; ESV: 'counseled'; NASB: 'advised')"
+      },
+      {
+        "position": 21,
+        "surface": "עֲלֵי/כֶ֖ם",
+        "phrase": "against you",
+        "literal": "upon-you-PL",
+        "source": "H5921 (KJV: 'against'; ESV: 'against'; NASB: 'against')"
+      },
+      {
+        "position": 22,
+        "surface": "אֲחִיתֹֽפֶל",
+        "phrase": "Ahithophel",
+        "literal": "Ahithophel",
+        "source": "H302 (KJV: 'Ahithophel'; ESV: 'Ahithophel'; NASB: 'Ahithophel')"
+      }
+    ]
+  }
+]

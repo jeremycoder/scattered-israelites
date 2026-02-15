@@ -1,0 +1,193 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּאמֶר֩",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֨ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/אֲנָשָׁ֜י/ו",
+        "phrase": "to his men",
+        "literal": "to-men-his",
+        "source": "H376 (KJV: unto his men; ESV: to his men; NASB: to his men)"
+      },
+      {
+        "position": 4,
+        "surface": "חִגְר֣וּ",
+        "phrase": "Gird on",
+        "literal": "gird!-pl",
+        "source": "H2296 (KJV: Gird ye on; ESV: strap on; NASB: gird on)"
+      },
+      {
+        "position": 5,
+        "surface": "אִ֣ישׁ",
+        "phrase": "every man",
+        "literal": "man",
+        "source": "H376 (KJV: every man; ESV: every man; NASB: Each)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "חַרְבּ֗/וֹ",
+        "phrase": "his sword",
+        "literal": "sword-his",
+        "source": "H2719 (KJV: his sword; ESV: his sword; NASB: his sword)"
+      },
+      {
+        "position": 8,
+        "surface": "וַֽ/יַּחְגְּר֙וּ",
+        "phrase": "And they girded on",
+        "literal": "and-they-girded",
+        "source": "H2296 (KJV: And they girded on; ESV: strapped on; NASB: girded on)"
+      },
+      {
+        "position": 9,
+        "surface": "אִ֣ישׁ",
+        "phrase": "every man",
+        "literal": "man",
+        "source": "H376 (KJV: every man; ESV: every man; NASB: each man)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "חַרְבּ֔/וֹ",
+        "phrase": "his sword",
+        "literal": "sword-his",
+        "source": "H2719 (KJV: his sword; ESV: his sword; NASB: his sword)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/יַּחְגֹּ֥ר",
+        "phrase": "and he girded on",
+        "literal": "and-he-girded",
+        "source": "H2296 (KJV: and David also girded on; ESV: David also strapped on; NASB: And David also girded on)"
+      },
+      {
+        "position": 13,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: also; ESV: also; NASB: also)"
+      },
+      {
+        "position": 14,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 15,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 16,
+        "surface": "חַרְבּ֑/וֹ",
+        "phrase": "his sword",
+        "literal": "sword-his",
+        "source": "H2719 (KJV: his sword; ESV: his sword; NASB: his sword)"
+      },
+      {
+        "position": 17,
+        "surface": "וַֽ/יַּעֲל֣וּ",
+        "phrase": "And they went up",
+        "literal": "and-they-went-up",
+        "source": "H5927 (KJV: there went up; ESV: went up; NASB: went up)"
+      },
+      {
+        "position": 18,
+        "surface": "אַחֲרֵ֣י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 (KJV: after; ESV: after; NASB: behind)"
+      },
+      {
+        "position": 19,
+        "surface": "דָוִ֗ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 20,
+        "surface": "כְּ/אַרְבַּ֤ע",
+        "phrase": "about four",
+        "literal": "like-four",
+        "source": "H702 (KJV: four; ESV: four; NASB: four)"
+      },
+      {
+        "position": 21,
+        "surface": "מֵאוֹת֙",
+        "phrase": "hundred",
+        "literal": "hundreds",
+        "source": "H3967 (KJV: hundred; ESV: hundred; NASB: hundred)"
+      },
+      {
+        "position": 22,
+        "surface": "אִ֔ישׁ",
+        "phrase": "men",
+        "literal": "man",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 23,
+        "surface": "וּ/מָאתַ֖יִם",
+        "phrase": "and two hundred",
+        "literal": "and-two-hundred",
+        "source": "H3967 (KJV: two hundred; ESV: two hundred; NASB: two hundred)"
+      },
+      {
+        "position": 24,
+        "surface": "יָשְׁב֥וּ",
+        "phrase": "stayed",
+        "literal": "sat",
+        "source": "H3427 (KJV: abode; ESV: remained; NASB: stayed)"
+      },
+      {
+        "position": 25,
+        "surface": "עַל",
+        "phrase": "by",
+        "literal": "on",
+        "source": "H5921 (KJV: by; ESV: with; NASB: with)"
+      },
+      {
+        "position": 26,
+        "surface": "הַ/כֵּלִֽים",
+        "phrase": "the baggage",
+        "literal": "the-vessels",
+        "source": "H3627 (KJV: the stuff; ESV: the baggage; NASB: the baggage)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֻּגַּ֖ד",
+        "phrase": "and it was told",
+        "literal": "and-was-told",
+        "source": "H5046 (KJV: told; ESV: told; NASB: reported)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/דָוִ֑ד",
+        "phrase": "to David",
+        "literal": "to-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֧ת",
+        "phrase": "what",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: what; NASB: what)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 5,
+        "surface": "עָשְׂתָ֛ה",
+        "phrase": "had done",
+        "literal": "had-done",
+        "source": "H6213 (KJV: had done; ESV: had done; NASB: had done)"
+      },
+      {
+        "position": 6,
+        "surface": "רִצְפָּ֥ה",
+        "phrase": "Rizpah",
+        "literal": "Rizpah",
+        "source": "H7532 (KJV: Rizpah; ESV: Rizpah; NASB: Rizpah)"
+      },
+      {
+        "position": 7,
+        "surface": "בַת",
+        "phrase": "the daughter of",
+        "literal": "daughter-of",
+        "source": "H1323 (KJV: daughter; ESV: daughter; NASB: daughter)"
+      },
+      {
+        "position": 8,
+        "surface": "אַיָּ֖ה",
+        "phrase": "Aiah",
+        "literal": "Aiah",
+        "source": "H345 (KJV: Aiah; ESV: Aiah; NASB: Aiah)"
+      },
+      {
+        "position": 9,
+        "surface": "פִּלֶ֥גֶשׁ",
+        "phrase": "the concubine",
+        "literal": "concubine",
+        "source": "H6370 (KJV: concubine; ESV: concubine; NASB: concubine)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁאֽוּל",
+        "phrase": "of Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      }
+    ]
+  }
+]

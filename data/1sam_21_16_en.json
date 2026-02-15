@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֲסַ֤ר",
+        "phrase": "lack",
+        "literal": "lacking",
+        "source": "H2638 (KJV: lack; ESV: lack; NASB: lack)"
+      },
+      {
+        "position": 2,
+        "surface": "מְשֻׁגָּעִים֙",
+        "phrase": "madmen",
+        "literal": "mad-men",
+        "source": "H7696 (KJV: madmen; ESV: madmen; NASB: madmen)"
+      },
+      {
+        "position": 3,
+        "surface": "אָ֔נִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "הֲבֵאתֶ֣ם",
+        "phrase": "you-have-brought",
+        "literal": "that-you-brought",
+        "source": "H935 (KJV: ye have brought; ESV: you have brought; NASB: you have brought)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "זֶ֔ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/הִשְׁתַּגֵּ֖עַ",
+        "phrase": "to-play-the-madman",
+        "literal": "to-make-mad",
+        "source": "H7696 (KJV: to play the madman; ESV: to play the madman; NASB: to play the madman)"
+      },
+      {
+        "position": 9,
+        "surface": "עָלָ֑/י",
+        "phrase": "in-my-presence",
+        "literal": "on/me",
+        "source": "H5921 (KJV: in my presence; ESV: before me; NASB: before me)"
+      },
+      {
+        "position": 10,
+        "surface": "הֲ/זֶ֖ה",
+        "phrase": "shall-this",
+        "literal": "that-this",
+        "source": "H2088 (KJV: shall this; ESV: shall this; NASB: shall this)"
+      },
+      {
+        "position": 11,
+        "surface": "יָב֥וֹא",
+        "phrase": "come",
+        "literal": "come",
+        "source": "H935 (KJV: come; ESV: come; NASB: come)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶל",
+        "phrase": "into",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: into; NASB: into)"
+      },
+      {
+        "position": 13,
+        "surface": "בֵּיתִֽ/י",
+        "phrase": "my-house",
+        "literal": "house/my",
+        "source": "H1004 (KJV: my house; ESV: my house; NASB: my house)"
+      }
+    ]
+  }
+]

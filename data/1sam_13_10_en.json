@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֗י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: Just as he had finished; NASB: As soon as he finished)"
+      },
+      {
+        "position": 2,
+        "surface": "כְּ/כַלֹּת/וֹ֙",
+        "phrase": "as he finished",
+        "literal": "as-finishing-his",
+        "source": "H3615 (KJV: as soon as he had made an end; ESV: he had finished; NASB: he finished)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/הַעֲל֣וֹת",
+        "phrase": "to offer up",
+        "literal": "to-cause-to-ascend",
+        "source": "H5927 (KJV: offering up; ESV: presenting; NASB: offering up)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֹלָ֔ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascending-thing",
+        "source": "H5930 (KJV: the burnt offering; ESV: the burnt offering; NASB: the burnt offering)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הִנֵּ֥ה",
+        "phrase": "and behold",
+        "literal": "and-lo",
+        "source": "H2009 (KJV: and, behold; ESV: and there; NASB: and behold)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁמוּאֵ֖ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ֑א",
+        "phrase": "came",
+        "literal": "coming",
+        "source": "H935 (KJV: came; ESV: arrived; NASB: came)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֵּצֵ֥א",
+        "phrase": "And Saul went out",
+        "literal": "and-went-out",
+        "source": "H3318 (KJV: Saul went out; ESV: Saul went out; NASB: Saul went out)"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁא֛וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/קְרָאת֖/וֹ",
+        "phrase": "to meet him",
+        "literal": "to-meet-him",
+        "source": "H7122 (KJV: to meet him; ESV: to meet him; NASB: to meet him)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/בָרֲכֽ/וֹ",
+        "phrase": "to bless him",
+        "literal": "to-bless-him",
+        "source": "H1288 (KJV: salute him; ESV: greet him; NASB: bless him)"
+      }
+    ]
+  }
+]

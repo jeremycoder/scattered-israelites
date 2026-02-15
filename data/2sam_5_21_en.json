@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעַזְבוּ",
+        "phrase": "and they abandoned",
+        "literal": "and-they-left",
+        "source": "H5800 (KJV: left; ESV/NASB: abandoned)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV/ESV/NASB: there)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: [their])"
+      },
+      {
+        "position": 4,
+        "surface": "עֲצַבֵּי/הֶ֑ם",
+        "phrase": "idols",
+        "literal": "idols-their",
+        "source": "H6091 (KJV: images; ESV/NASB: idols)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּשָּׂאֵ֥/ם",
+        "phrase": "and carried them",
+        "literal": "and-he-carried-them",
+        "source": "H5375 (KJV: burned; ESV/NASB: carried)"
+      },
+      {
+        "position": 6,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV/ESV/NASB: David)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/אֲנָשָֽׁי/ו",
+        "phrase": "and his men",
+        "literal": "and-men-his",
+        "source": "H376 (KJV/ESV/NASB: and his men)"
+      }
+    ]
+  }
+]

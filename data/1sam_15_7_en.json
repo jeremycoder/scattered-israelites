@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥ךְ",
+        "phrase": "and struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (KJV: smote; ESV: struck down; NASB: defeated)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "down",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "עֲמָלֵ֑ק",
+        "phrase": "the Amalekites",
+        "literal": "Amalek",
+        "source": "H6002 (KJV: the Amalekites; ESV: the Amalekites; NASB: the Amalekites)"
+      },
+      {
+        "position": 5,
+        "surface": "מֵֽ/חֲוִילָה֙",
+        "phrase": "from Havilah",
+        "literal": "from-Havilah",
+        "source": "H2341 (KJV: from Havilah; ESV: from Havilah; NASB: from Havilah)"
+      },
+      {
+        "position": 6,
+        "surface": "בּוֹאֲ/ךָ֣",
+        "phrase": "as you go",
+        "literal": "in-coming-your",
+        "source": "H935 (KJV: until thou comest; ESV: as you go; NASB: as one goes)"
+      },
+      {
+        "position": 7,
+        "surface": "שׁ֔וּר",
+        "phrase": "to Shur",
+        "literal": "to-Shur",
+        "source": "H7793 (KJV: to Shur; ESV: to Shur; NASB: to Shur)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֖ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: which; NASB: which)"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "is",
+        "literal": "on",
+        "source": "H5921 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "פְּנֵ֥י",
+        "phrase": "before",
+        "literal": "face-of",
+        "source": "H6440 (KJV: over against; ESV: east of; NASB: east of)"
+      },
+      {
+        "position": 11,
+        "surface": "מִצְרָֽיִם",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      }
+    ]
+  }
+]

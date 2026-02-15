@@ -1,0 +1,172 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַח֩",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֨וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "מַלְאָכִ֜ים",
+        "phrase": "messengers",
+        "literal": "messengers",
+        "source": "H4397 (KJV: messengers; ESV: messengers; NASB: messengers)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֤ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 6,
+        "surface": "דָּוִד֙",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732 (KJV: David's; ESV: David's; NASB: David's)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/שָׁמְר֔/וֹ",
+        "phrase": "to watch him",
+        "literal": "to-guard-him",
+        "source": "H8104 (KJV: to watch him; ESV: to watch him; NASB: to watch him)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לַ/הֲמִית֖/וֹ",
+        "phrase": "and to kill him",
+        "literal": "and-to-kill-him",
+        "source": "H4191 (KJV: and to slay him; ESV: that he might kill him; NASB: to put him to death)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/בֹּ֑קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242 (KJV: in the morning; ESV: in the morning; NASB: in the morning)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/תַּגֵּ֣ד",
+        "phrase": "and told",
+        "literal": "and-she-told",
+        "source": "H5046 (KJV: told; ESV: told; NASB: told)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/דָוִ֗ד",
+        "phrase": "David",
+        "literal": "to-David",
+        "source": "H1732 (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 12,
+        "surface": "מִיכַ֤ל",
+        "phrase": "Michal",
+        "literal": "Michal",
+        "source": "H4324 (KJV: Michal; ESV: Michal; NASB: Michal)"
+      },
+      {
+        "position": 13,
+        "surface": "אִשְׁתּ/וֹ֙",
+        "phrase": "his wife",
+        "literal": "wife-his",
+        "source": "H802 (KJV: David's wife; ESV: David's wife; NASB: David's wife)"
+      },
+      {
+        "position": 14,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 15,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 16,
+        "surface": "אֵ֨ינְ/ךָ֜",
+        "phrase": "you are not",
+        "literal": "not-you",
+        "source": "H369 (KJV: save not; ESV: you do not save; NASB: you do not save)"
+      },
+      {
+        "position": 17,
+        "surface": "מְמַלֵּ֤ט",
+        "phrase": "saving",
+        "literal": "delivering",
+        "source": "H4422 (KJV: save; ESV: save; NASB: save)"
+      },
+      {
+        "position": 18,
+        "surface": "אֶֽת",
+        "phrase": "your",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: thy; ESV: your; NASB: your)"
+      },
+      {
+        "position": 19,
+        "surface": "נַפְשְׁ/ךָ֙",
+        "phrase": "life",
+        "literal": "life-your",
+        "source": "H5315 (KJV: thy life; ESV: your life; NASB: your life)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/לַּ֔יְלָה",
+        "phrase": "tonight",
+        "literal": "the-night",
+        "source": "H3915 (KJV: to night; ESV: tonight; NASB: tonight)"
+      },
+      {
+        "position": 21,
+        "surface": "מָחָ֖ר",
+        "phrase": "tomorrow",
+        "literal": "tomorrow",
+        "source": "H4279 (KJV: to morrow; ESV: tomorrow; NASB: tomorrow)"
+      },
+      {
+        "position": 22,
+        "surface": "אַתָּ֥ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 23,
+        "surface": "מוּמָֽת",
+        "phrase": "will be put to death",
+        "literal": "are-dead",
+        "source": "H4191 (KJV: shalt be slain; ESV: you will be killed; NASB: you will be put to death)"
+      }
+    ]
+  }
+]

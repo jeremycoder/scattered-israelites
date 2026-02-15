@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "And the king said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֛לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אִשָּׁ֖ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "H802 (KJV: the woman; ESV: the woman; NASB: the woman)"
+      },
+      {
+        "position": 5,
+        "surface": "לְכִ֣י",
+        "phrase": "Go",
+        "literal": "go!",
+        "source": "H3212 (KJV: Go; ESV: Go; NASB: Go)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/בֵיתֵ֑/ךְ",
+        "phrase": "to your house",
+        "literal": "to-house-your",
+        "source": "H1004 (KJV: to thine house; ESV: home; NASB: to your house)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/אֲנִ֖י",
+        "phrase": "and I",
+        "literal": "and-I",
+        "source": "H589 (KJV: and I; ESV: and I; NASB: and I)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲצַוֶּ֥ה",
+        "phrase": "will give charge",
+        "literal": "I-will-command",
+        "source": "H6680 (KJV: will give charge; ESV: will give orders; NASB: will give orders)"
+      },
+      {
+        "position": 9,
+        "surface": "עָלָֽיִ/ךְ",
+        "phrase": "concerning you",
+        "literal": "upon-you",
+        "source": "H5921 (KJV: concerning thee; ESV: on your behalf; NASB: concerning you)"
+      }
+    ]
+  }
+]

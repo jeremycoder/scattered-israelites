@@ -1,0 +1,46 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons of the stranger; ESV: foreigners; NASB: foreigners)"
+      },
+      {
+        "position": 2,
+        "surface": "נֵכָ֖ר",
+        "phrase": "foreigners",
+        "literal": "foreignness",
+        "source": "H5236 (KJV: the stranger; ESV: foreigners; NASB: foreigners)"
+      },
+      {
+        "position": 3,
+        "surface": "יִבֹּ֑לוּ",
+        "phrase": "fade away",
+        "literal": "they-wilt",
+        "source": "H5034 (KJV: fade away; ESV: lose heart; NASB: lose heart)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יַחְגְּר֖וּ",
+        "phrase": "and they gird themselves",
+        "literal": "and-they-gird",
+        "source": "H2296 (KJV: shall be afraid; ESV: come trembling; NASB: come trembling)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/מִּסְגְּרוֹתָֽ/ם",
+        "phrase": "from their strongholds",
+        "literal": "from-enclosures-their",
+        "source": "H4526 (KJV: out of their close places; ESV: from their fortresses; NASB: from their strongholds)"
+      }
+    ]
+  }
+]

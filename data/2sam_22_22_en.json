@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "For",
+        "literal": "for-that",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁמַ֖רְתִּי",
+        "phrase": "I have kept",
+        "literal": "I-have-kept",
+        "source": "H8104 (KJV: kept; ESV: kept; NASB: have kept)"
+      },
+      {
+        "position": 3,
+        "surface": "דַּרְכֵ֣י",
+        "phrase": "the ways",
+        "literal": "ways-of",
+        "source": "H1870 (KJV: ways; ESV: ways; NASB: ways)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and/not",
+        "source": "H3808 (KJV: and have not; ESV: and have not; NASB: and have not)"
+      },
+      {
+        "position": 6,
+        "surface": "רָשַׁ֖עְתִּי",
+        "phrase": "acted wickedly",
+        "literal": "I-have-acted-wickedly",
+        "source": "H7561 (KJV: wickedly; ESV: wickedly departed; NASB: acted wickedly)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אֱלֹהָֽ/י",
+        "phrase": "from my God",
+        "literal": "from/God-my",
+        "source": "H430 (KJV: my God; ESV: my God; NASB: my God)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֶבְלֵ֥י",
+        "phrase": "cords of",
+        "literal": "cords-of",
+        "source": "H2256; KJV:sorrows, ESV:cords, NASB:cords"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁא֖וֹל",
+        "phrase": "Sheol",
+        "literal": "Sheol",
+        "source": "H7585; KJV:hell, ESV:Sheol, NASB:Sheol"
+      },
+      {
+        "position": 3,
+        "surface": "סַבֻּ֑/נִי",
+        "phrase": "surrounded me",
+        "literal": "surrounded/me",
+        "source": "H5437; KJV:compassed...me about, ESV:surrounded me, NASB:surrounded me"
+      },
+      {
+        "position": 4,
+        "surface": "קִדְּמֻ֖/נִי",
+        "phrase": "confronted me",
+        "literal": "preceded/me",
+        "source": "H6923; KJV:prevented me, ESV:confronted me, NASB:confronted me"
+      },
+      {
+        "position": 5,
+        "surface": "מֹֽקְשֵׁי",
+        "phrase": "snares of",
+        "literal": "snares-of",
+        "source": "H4170; KJV:snares, ESV:snares, NASB:snares"
+      },
+      {
+        "position": 6,
+        "surface": "מָֽוֶת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4194; KJV:death, ESV:death, NASB:death"
+      }
+    ]
+  }
+]

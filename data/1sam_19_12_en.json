@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֧רֶד",
+        "phrase": "let down",
+        "literal": "and-she-caused-to-descend",
+        "source": "H3381 (KJV: let down; ESV: let down; NASB: let down)"
+      },
+      {
+        "position": 2,
+        "surface": "מִיכַ֛ל",
+        "phrase": "Michal",
+        "literal": "Michal",
+        "source": "H4324 (KJV: Michal; ESV: Michal; NASB: Michal)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּעַ֣ד",
+        "phrase": "through",
+        "literal": "through",
+        "source": "H1157 (KJV: through; ESV: through; NASB: through)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/חַלּ֑וֹן",
+        "phrase": "the window",
+        "literal": "the-window",
+        "source": "H2474 (KJV: the window; ESV: the window; NASB: the window)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "and he went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: and he went; ESV: and he went; NASB: and he went)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּבְרַ֖ח",
+        "phrase": "and he fled",
+        "literal": "and-he-fled",
+        "source": "H1272 (KJV: and fled; ESV: and he fled; NASB: and he fled)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּמָּלֵֽט",
+        "phrase": "and he escaped",
+        "literal": "and-he-escaped",
+        "source": "H4422 (KJV: and escaped; ESV: and escaped; NASB: and escaped)"
+      }
+    ]
+  }
+]

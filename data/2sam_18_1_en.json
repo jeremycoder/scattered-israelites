@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 18,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּפְקֹ֣ד",
+        "phrase": "and mustered",
+        "literal": "and-he-mustered",
+        "source": "H6485 (KJV: numbered; ESV: mustered; NASB: numbered)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the/people",
+        "source": "H5971 (KJV: people; ESV: men; NASB: people)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "who were",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: who were; NASB: who were)"
+      },
+      {
+        "position": 6,
+        "surface": "אִתּ֑/וֹ",
+        "phrase": "with him",
+        "literal": "with/him",
+        "source": "H854 (KJV: with him; ESV: with him; NASB: with him)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יָּ֣שֶׂם",
+        "phrase": "and set",
+        "literal": "and-he-set",
+        "source": "H7760 (KJV: set; ESV: set; NASB: set)"
+      },
+      {
+        "position": 8,
+        "surface": "עֲלֵי/הֶ֔ם",
+        "phrase": "over them",
+        "literal": "over/them",
+        "source": "H5921 (KJV: over them; ESV: over them; NASB: over them)"
+      },
+      {
+        "position": 9,
+        "surface": "שָׂרֵ֥י",
+        "phrase": "commanders of",
+        "literal": "captains-of",
+        "source": "H8269 (KJV: captains; ESV: commanders; NASB: commanders)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲלָפִ֖ים",
+        "phrase": "thousands",
+        "literal": "thousands",
+        "source": "H505 (KJV: thousands; ESV: thousands; NASB: thousands)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/שָׂרֵ֥י",
+        "phrase": "and commanders of",
+        "literal": "and-captains-of",
+        "source": "H8269 (KJV: captains; ESV: commanders; NASB: commanders)"
+      },
+      {
+        "position": 12,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundreds",
+        "literal": "hundreds",
+        "source": "H3967 (KJV: hundreds; ESV: hundreds; NASB: hundreds)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִם",
+        "phrase": "but if",
+        "literal": "and-if",
+        "source": "H518 (KJV: 'But if'; ESV: 'But if'; NASB: 'But if')"
+      },
+      {
+        "position": 2,
+        "surface": "הָרֵ֖עַ",
+        "phrase": "the evil",
+        "literal": "the-evil",
+        "source": "H7489 (KJV: 'still do wickedly'; ESV: 'still do wickedly'; NASB: 'still do wickedly')"
+      },
+      {
+        "position": 3,
+        "surface": "תָּרֵ֑עוּ",
+        "phrase": "you do evil",
+        "literal": "you-all-do-evil",
+        "source": "H7489 (KJV: 'still do wickedly'; ESV: 'still do wickedly'; NASB: 'still do wickedly')"
+      },
+      {
+        "position": 4,
+        "surface": "גַּם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: 'both'; ESV: 'both'; NASB: 'both')"
+      },
+      {
+        "position": 5,
+        "surface": "אַתֶּ֥ם",
+        "phrase": "you",
+        "literal": "you-all",
+        "source": "H859 (KJV: 'ye'; ESV: 'you'; NASB: 'you')"
+      },
+      {
+        "position": 6,
+        "surface": "גַּֽם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: 'both'; ESV: 'both'; NASB: 'both')"
+      },
+      {
+        "position": 7,
+        "surface": "מַלְכְּ/כֶ֖ם",
+        "phrase": "your king",
+        "literal": "king-your",
+        "source": "H4428 (KJV: 'your king'; ESV: 'your king'; NASB: 'your king')"
+      },
+      {
+        "position": 8,
+        "surface": "תִּסָּפֽוּ",
+        "phrase": "you will be swept away",
+        "literal": "you-all-will-be-consumed",
+        "source": "H5595 (KJV: 'be consumed'; ESV: 'be swept away'; NASB: 'will be swept away')"
+      }
+    ]
+  }
+]

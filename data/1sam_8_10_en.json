@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: told; ESV: told; NASB: told)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֔ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 5,
+        "surface": "דִּבְרֵ֣י",
+        "phrase": "words",
+        "literal": "words-of",
+        "source": "H1697 (KJV: words; ESV: words; NASB: words)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עָ֕ם",
+        "phrase": "the people",
+        "literal": "the/people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/שֹּׁאֲלִ֥ים",
+        "phrase": "asking",
+        "literal": "the/asking",
+        "source": "H7592 (KJV: asked; ESV: were asking; NASB: were asking)"
+      },
+      {
+        "position": 10,
+        "surface": "מֵ/אִתּ֖/וֹ",
+        "phrase": "of him",
+        "literal": "from/beside/him",
+        "source": "H854 (KJV: of him; ESV: of him; NASB: of him)"
+      },
+      {
+        "position": 11,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "a king",
+        "literal": "king",
+        "source": "H4428 (KJV: a king; ESV: a king; NASB: a king)"
+      }
+    ]
+  }
+]

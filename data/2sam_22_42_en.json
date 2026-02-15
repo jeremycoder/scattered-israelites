@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יִשְׁע֖וּ",
+        "phrase": "They looked",
+        "literal": "they-look-for-help",
+        "source": "H8159 (KJV: looked; ESV: looked; NASB: looked)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֵ֣ין",
+        "phrase": "but there was no",
+        "literal": "and-no",
+        "source": "H369 (KJV: no; ESV: none; NASB: no)"
+      },
+      {
+        "position": 3,
+        "surface": "מֹשִׁ֑יעַ",
+        "phrase": "one to save",
+        "literal": "savior",
+        "source": "H3467 (KJV: save; ESV: save; NASB: save)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "but",
+        "literal": "and-not",
+        "source": "H3808 (KJV: but; ESV: but; NASB: but)"
+      },
+      {
+        "position": 7,
+        "surface": "עָנָֽ/ם",
+        "phrase": "He answered them",
+        "literal": "he-answered-them",
+        "source": "H6030 (KJV: answered; ESV: answer; NASB: answer)"
+      }
+    ]
+  }
+]

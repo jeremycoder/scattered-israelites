@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מַה",
+        "phrase": "And what",
+        "literal": "and-what",
+        "source": "H4100; KJV/ESV/NASB: 'And what'/'What more'/'What more'"
+      },
+      {
+        "position": 2,
+        "surface": "יּוֹסִ֥יף",
+        "phrase": "can he add",
+        "literal": "he-will-add",
+        "source": "H3254; KJV: 'say more', ESV: 'can David say more', NASB: 'can he add'"
+      },
+      {
+        "position": 3,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB: 'David'"
+      },
+      {
+        "position": 4,
+        "surface": "ע֖וֹד",
+        "phrase": "more",
+        "literal": "still",
+        "source": "H5750; KJV/ESV/NASB: 'more'/'further'/'more'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/דַבֵּ֣ר",
+        "phrase": "to speak",
+        "literal": "to-speak",
+        "source": "H1696; KJV/ESV/NASB: 'say'/'speak'/'speak'"
+      },
+      {
+        "position": 6,
+        "surface": "אֵלֶ֑י/ךָ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "H413; KJV/ESV/NASB: 'unto thee'/'to you'/'to You'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַתָּ֛ה",
+        "phrase": "and you",
+        "literal": "and-you",
+        "source": "H859; KJV/ESV/NASB: 'for thou'/'For You'/'for You'"
+      },
+      {
+        "position": 8,
+        "surface": "יָדַ֥עְתָּ",
+        "phrase": "have known",
+        "literal": "you-have-known",
+        "source": "H3045; KJV/ESV/NASB: 'knowest'/'know'/'know'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV/ESV/NASB: (implied in 'thy servant')"
+      },
+      {
+        "position": 10,
+        "surface": "עַבְדְּ/ךָ֖",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "H5650; KJV/ESV/NASB: 'thy servant'/'Your servant'/'Your servant'"
+      },
+      {
+        "position": 11,
+        "surface": "אֲדֹנָ֥/י",
+        "phrase": "O Lord",
+        "literal": "lord-my",
+        "source": "H136; KJV/ESV/NASB: 'Lord GOD'/'Lord GOD'/'Sovereign LORD'"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוִֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3069; KJV/ESV/NASB: 'GOD'/'!'/'!'"
+      }
+    ]
+  }
+]

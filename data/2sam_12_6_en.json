@@ -1,0 +1,109 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "And the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'the'; ESV: 'the'; NASB: 'the')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/כִּבְשָׂ֖ה",
+        "phrase": "ewe lamb",
+        "literal": "the-ewe-lamb",
+        "source": "H3535 (KJV: 'lamb'; ESV: 'lamb'; NASB: 'lamb')"
+      },
+      {
+        "position": 3,
+        "surface": "יְשַׁלֵּ֣ם",
+        "phrase": "he shall restore",
+        "literal": "he-will-restore",
+        "source": "H7999 (KJV: 'restore'; ESV: 'restore'; NASB: 'make restitution')"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבַּעְתָּ֑יִם",
+        "phrase": "fourfold",
+        "literal": "four-times",
+        "source": "H706 (KJV: 'fourfold'; ESV: 'fourfold'; NASB: 'four times')"
+      },
+      {
+        "position": 5,
+        "surface": "עֵ֗קֶב",
+        "phrase": "because",
+        "literal": "because-of",
+        "source": "H6118 (KJV: 'because'; ESV: 'because'; NASB: 'because')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: 'he'; ESV: 'he'; NASB: 'he')"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָׂה֙",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "H6213 (KJV: 'did'; ESV: 'did'; NASB: 'did')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "OBJ",
+        "source": "H853 (KJV: implied; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "the thing",
+        "literal": "the-word/thing",
+        "source": "H1697 (KJV: 'thing'; ESV: 'thing'; NASB: 'thing')"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/עַ֖ל",
+        "phrase": "and because",
+        "literal": "and-upon",
+        "source": "H5921 (KJV: 'because'; ESV: 'because'; NASB: 'because')"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: 'because'; ESV: 'because'; NASB: 'because')"
+      },
+      {
+        "position": 13,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: 'no'; ESV: 'no'; NASB: 'no')"
+      },
+      {
+        "position": 14,
+        "surface": "חָמָֽל",
+        "phrase": "he had pity",
+        "literal": "he-spared/had-mercy",
+        "source": "H2550 (KJV: 'pity'; ESV: 'pity'; NASB: 'compassion')"
+      }
+    ]
+  }
+]

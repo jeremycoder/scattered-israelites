@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּלָּ֣חֶם",
+        "phrase": "and fought",
+        "literal": "and-he-fought",
+        "source": "H3898 (KJV: fought; ESV: fought; NASB: fought)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹאָ֔ב",
+        "phrase": "Joab",
+        "literal": "Joab",
+        "source": "H3097 (KJV: Joab; ESV: Joab; NASB: Joab)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/רַבַּ֖ת",
+        "phrase": "against Rabbah",
+        "literal": "in/on-Rabbah",
+        "source": "H7237 (KJV: Rabbah; ESV: Rabbah; NASB: Rabbah)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "of the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: Ammonites; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "עַמּ֑וֹן",
+        "phrase": "Ammon",
+        "literal": "Ammon",
+        "source": "H5983 (KJV: Ammon; ESV: Ammonites; NASB: Ammon)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּלְכֹּ֖ד",
+        "phrase": "and captured",
+        "literal": "and-he-captured",
+        "source": "H3920 (KJV: took; ESV: took; NASB: captured)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "עִ֥יר",
+        "phrase": "city",
+        "literal": "city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מְּלוּכָֽה",
+        "phrase": "the royal",
+        "literal": "the-kingdom/royal",
+        "source": "H4410 (KJV: royal city; ESV: royal city; NASB: royal city)"
+      }
+    ]
+  }
+]

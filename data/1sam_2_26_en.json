@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נַּ֣עַר",
+        "phrase": "And the boy",
+        "literal": "and-the-boy",
+        "source": "H5288 (KJV: child; ESV/NASB: boy)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֔ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV/ESV/NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "הֹלֵ֥ךְ",
+        "phrase": "was going",
+        "literal": "going",
+        "source": "H1980 (KJV: grew on; ESV/NASB: continued to grow)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/גָדֵ֖ל",
+        "phrase": "and growing",
+        "literal": "and-growing",
+        "source": "H1432 (KJV: was in favour [context]; ESV/NASB: in stature)"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/ט֑וֹב",
+        "phrase": "and good",
+        "literal": "and-good",
+        "source": "H2896 (KJV: in favour; ESV/NASB: in favor)"
+      },
+      {
+        "position": 6,
+        "surface": "גַּ֚ם",
+        "phrase": "both",
+        "literal": "also",
+        "source": "H1571 (KJV/ESV/NASB: both)"
+      },
+      {
+        "position": 7,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV/ESV/NASB: with)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/גַ֖ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: and also; ESV/NASB: also)"
+      },
+      {
+        "position": 10,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV/ESV/NASB: with)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲנָשִֽׁים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376 (KJV/ESV/NASB: men)"
+      }
+    ]
+  }
+]

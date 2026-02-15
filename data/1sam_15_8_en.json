@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתְפֹּ֛שׂ",
+        "phrase": "and he took",
+        "literal": "and-he-seized",
+        "source": "H8610 (KJV: took; ESV: took; NASB: captured)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲגַ֥ג",
+        "phrase": "Agag",
+        "literal": "Agag",
+        "source": "H90 (KJV: Agag; ESV: Agag; NASB: Agag)"
+      },
+      {
+        "position": 4,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "the king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲמָלֵ֖ק",
+        "phrase": "of Amalek",
+        "literal": "Amalek",
+        "source": "H6002 (KJV: Amalekites; ESV: Amalek; NASB: Amalek)"
+      },
+      {
+        "position": 6,
+        "surface": "חָ֑י",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "H2416 (KJV: alive; ESV: alive; NASB: alive)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: people; ESV: people; NASB: people)"
+      },
+      {
+        "position": 10,
+        "surface": "הֶחֱרִ֥ים",
+        "phrase": "he utterly destroyed",
+        "literal": "he-devoted-to-destruction",
+        "source": "H2763 (KJV: utterly destroyed; ESV: utterly destroyed; NASB: completely destroyed)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/פִי",
+        "phrase": "with the mouth of",
+        "literal": "to-mouth-of",
+        "source": "H6310 (KJV: with the edge; ESV: with the edge; NASB: with the edge)"
+      },
+      {
+        "position": 12,
+        "surface": "חָֽרֶב",
+        "phrase": "the sword",
+        "literal": "sword",
+        "source": "H2719 (KJV: sword; ESV: sword; NASB: sword)"
+      }
+    ]
+  }
+]

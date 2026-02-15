@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שַׁמָּה֙",
+        "phrase": "Shammah",
+        "literal": "Shammah",
+        "source": "H8048; KJV/ESV/NASB: 'Shammah' (proper name, father of Jonathan)"
+      },
+      {
+        "position": 2,
+        "surface": "הַֽ/הֲרָרִ֔י",
+        "phrase": "the Hararite",
+        "literal": "the-mountain-dweller",
+        "source": "H2043; KJV/ESV/NASB: 'the Hararite' (definite descriptor of Shammah's origin)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחִיאָ֥ם",
+        "phrase": "Ahiam",
+        "literal": "Ahiam",
+        "source": "H279; KJV/ESV/NASB: 'Ahiam' (proper name of another warrior)"
+      },
+      {
+        "position": 4,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (connects Sharar to Ahiam; also used for Shammah earlier)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁרָ֖ר",
+        "phrase": "Sharar",
+        "literal": "Sharar",
+        "source": "H8325; KJV: 'Sharar', ESV/NASB: 'Sacar' (variant proper name, father of Ahiam)"
+      },
+      {
+        "position": 6,
+        "surface": "הָארָרִֽי",
+        "phrase": "the Hararite",
+        "literal": "the-mountain-dweller",
+        "source": "H2043; KJV/ESV/NASB: 'the Hararite' (definite descriptor of Sharar/Ahiam's origin)"
+      }
+    ]
+  }
+]

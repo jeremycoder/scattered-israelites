@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 31,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְחוּ֙",
+        "phrase": "and they took",
+        "literal": "and-they-took",
+        "source": "H3947 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "עַצְמֹ֣תֵי/הֶ֔ם",
+        "phrase": "their bones",
+        "literal": "bones-their",
+        "source": "H6106 (KJV: their bones; ESV: their bones; NASB: their bones)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּקְבְּר֥וּ",
+        "phrase": "and they buried",
+        "literal": "and-they-buried",
+        "source": "H6912 (KJV: buried; ESV: buried; NASB: buried)"
+      },
+      {
+        "position": 5,
+        "surface": "תַֽחַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "H8478 (KJV: under; ESV: under; NASB: under)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֶ֖שֶׁל",
+        "phrase": "the tamarisk",
+        "literal": "the-tamarisk",
+        "source": "H815 (KJV: a tree; ESV: the tamarisk; NASB: the tamarisk)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/יָבֵ֑שָׁ/ה",
+        "phrase": "in Jabesh",
+        "literal": "in-Jabesh",
+        "source": "H3003 (KJV: Jabesh; ESV: Jabesh; NASB: Jabesh)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּצֻ֖מוּ",
+        "phrase": "and they fasted",
+        "literal": "and-they-fasted",
+        "source": "H6684 (KJV: fasted; ESV: fasted; NASB: fasted)"
+      },
+      {
+        "position": 9,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven-of",
+        "source": "H7651 (KJV: seven; ESV: seven; NASB: seven)"
+      },
+      {
+        "position": 10,
+        "surface": "יָמִֽים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV: days; ESV: days; NASB: days)"
+      }
+    ]
+  }
+]

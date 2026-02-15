@@ -1,0 +1,172 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּשֶׂם֩",
+        "phrase": "and he put",
+        "literal": "and-he-put",
+        "source": "H7760 (KJV: did put; ESV: took; NASB: put)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "נַפְשׁ֨/וֹ",
+        "phrase": "life",
+        "literal": "soul-his",
+        "source": "H5315 (KJV: his life; ESV: his life; NASB: his life)"
+      },
+      {
+        "position": 4,
+        "surface": "בְ/כַפּ֜/וֹ",
+        "phrase": "in his hand",
+        "literal": "in-palm-his",
+        "source": "H3709 (KJV: in his hand; ESV: in his hand; NASB: in his hand)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּ֣ךְ",
+        "phrase": "and struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (KJV: slew; ESV: struck; NASB: struck)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/פְּלִשְׁתִּ֗י",
+        "phrase": "Philistine",
+        "literal": "the-Philistine",
+        "source": "H6430 (KJV: the Philistine; ESV: the Philistine; NASB: the Philistine)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּ֨עַשׂ",
+        "phrase": "and brought about",
+        "literal": "and-he-made/did",
+        "source": "H6213 (KJV: wrought; ESV: brought about; NASB: made)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 10,
+        "surface": "תְּשׁוּעָ֤ה",
+        "phrase": "deliverance",
+        "literal": "salvation/deliverance",
+        "source": "H8668 (KJV: salvation; ESV: deliverance; NASB: deliverance)"
+      },
+      {
+        "position": 11,
+        "surface": "גְדוֹלָה֙",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 12,
+        "surface": "לְ/כָל",
+        "phrase": "for all",
+        "literal": "to/for-all",
+        "source": "H3605 (KJV: for all; ESV: for all; NASB: for all)"
+      },
+      {
+        "position": 13,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 14,
+        "surface": "רָאִ֖יתָ",
+        "phrase": "you saw",
+        "literal": "you-saw",
+        "source": "H7200 (KJV: thou sawest; ESV: you saw; NASB: you saw)"
+      },
+      {
+        "position": 15,
+        "surface": "וַ/תִּשְׂמָ֑ח",
+        "phrase": "and rejoiced",
+        "literal": "and-you-rejoiced",
+        "source": "H8055 (KJV: didst rejoice; ESV: rejoiced; NASB: rejoiced)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/לָ֤/מָּה",
+        "phrase": "why then",
+        "literal": "and-why",
+        "source": "H4100 (KJV: wherefore; ESV: why then; NASB: why then)"
+      },
+      {
+        "position": 17,
+        "surface": "תֶֽחֱטָא֙",
+        "phrase": "will you sin",
+        "literal": "you-sin",
+        "source": "H2398 (KJV: sin; ESV: sin; NASB: sin)"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/דָ֣ם",
+        "phrase": "in the blood of",
+        "literal": "in-blood",
+        "source": "H1818 (KJV: in blood; ESV: against innocent blood; NASB: by shedding the blood)"
+      },
+      {
+        "position": 19,
+        "surface": "נָקִ֔י",
+        "phrase": "innocent",
+        "literal": "innocent",
+        "source": "H5355 (KJV: innocent; ESV: innocent; NASB: innocent)"
+      },
+      {
+        "position": 20,
+        "surface": "לְ/הָמִ֥ית",
+        "phrase": "by killing",
+        "literal": "to-kill",
+        "source": "H4191 (KJV: [implied in killing]; ESV: killing; NASB: putting to death)"
+      },
+      {
+        "position": 21,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 22,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 23,
+        "surface": "חִנָּֽם",
+        "phrase": "without cause",
+        "literal": "in-vain/gratis",
+        "source": "H2600 (KJV: without a cause; ESV: for no reason; NASB: without a cause)"
+      }
+    ]
+  }
+]

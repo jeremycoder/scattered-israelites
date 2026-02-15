@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יִשְׁלַ֥ח",
+        "phrase": "He sent",
+        "literal": "he-will-send",
+        "source": "H7971 (KJV: sent; ESV: reached down; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/מָּר֖וֹם",
+        "phrase": "from on high",
+        "literal": "from/height",
+        "source": "H4791 (KJV: from above; ESV: from on high; NASB: from on high)"
+      },
+      {
+        "position": 3,
+        "surface": "יַֽמְשֵׁ֖/נִי",
+        "phrase": "He drew me",
+        "literal": "he-will-draw/me",
+        "source": "H4871 (KJV: drew me; ESV: drew me; NASB: drew me)"
+      },
+      {
+        "position": 4,
+        "surface": "יִקָּחֵ֑/נִי",
+        "phrase": "He took me",
+        "literal": "he-will-take/me",
+        "source": "H3947 (KJV: took me; ESV: took; NASB: took me)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/מַּ֥יִם",
+        "phrase": "out of waters",
+        "literal": "from/waters",
+        "source": "H4325 (KJV: out of many waters; ESV: out of deep waters; NASB: out of many waters)"
+      },
+      {
+        "position": 6,
+        "surface": "רַבִּֽים",
+        "phrase": "many",
+        "literal": "many",
+        "source": "H7227 (KJV: many; ESV: deep; NASB: many)"
+      }
+    ]
+  }
+]

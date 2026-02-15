@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶרְדְּפָ֥ה",
+        "phrase": "I pursued",
+        "literal": "I-will-pursue",
+        "source": "H7291 (KJV: pursued; ESV: pursued; NASB: pursued)"
+      },
+      {
+        "position": 2,
+        "surface": "אֹיְבַ֖/י",
+        "phrase": "my enemies",
+        "literal": "enemies-of-me",
+        "source": "H341 (KJV: mine enemies; ESV: my enemies; NASB: my enemies)"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/אַשְׁמִידֵ֑/ם",
+        "phrase": "and destroyed them",
+        "literal": "and-I-destroyed-them",
+        "source": "H8045 (KJV: destroyed them; ESV: destroyed them; NASB: destroyed them)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "אָשׁ֖וּב",
+        "phrase": "I turn back",
+        "literal": "I-will-return",
+        "source": "H7725 (KJV: turned not again; ESV: turn back; NASB: turn back)"
+      },
+      {
+        "position": 6,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: until; ESV: until; NASB: until)"
+      },
+      {
+        "position": 7,
+        "surface": "כַּלּוֹתָֽ/ם",
+        "phrase": "they were consumed",
+        "literal": "consuming-them",
+        "source": "H3615 (KJV: consumed them; ESV: consumed; NASB: consumed)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֖אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: spake; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: thus; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 3,
+        "surface": "דַּבֵּ֨ר",
+        "phrase": "speak",
+        "literal": "speak",
+        "source": "H1696 (KJV: They spake; ESV: They used to say; NASB: They spoke)"
+      },
+      {
+        "position": 4,
+        "surface": "יְדַבְּר֤וּ",
+        "phrase": "they spoke",
+        "literal": "they-spoke",
+        "source": "H1696 (KJV: spake; ESV: say; NASB: spoke)"
+      },
+      {
+        "position": 5,
+        "surface": "בָ/רִֽאשֹׁנָה֙",
+        "phrase": "in former times",
+        "literal": "in-the-first",
+        "source": "H7223 (KJV: in the old time; ESV: Long ago; NASB: In ancient times)"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁאֹ֧ל",
+        "phrase": "ask",
+        "literal": "ask",
+        "source": "H7592 (KJV: ask; ESV: get your answer; NASB: inquire)"
+      },
+      {
+        "position": 8,
+        "surface": "יְשָׁאֲל֛וּ",
+        "phrase": "they would ask",
+        "literal": "they-ask",
+        "source": "H7592 (KJV: They shall ask; ESV: at Abel; NASB: at Abel)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אָבֵ֖ל",
+        "phrase": "at Abel",
+        "literal": "in-Abel",
+        "source": "H59 (KJV: of Abel; ESV: in Abel; NASB: at Abel)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/כֵ֥ן",
+        "phrase": "and so",
+        "literal": "and-thus",
+        "source": "H3651 (KJV: and so; ESV: and that's just what they did; NASB: so they ended)"
+      },
+      {
+        "position": 11,
+        "surface": "הֵתַֽמּוּ",
+        "phrase": "they finished",
+        "literal": "they-completed",
+        "source": "H8552 (KJV: they have continued; ESV: settled it; NASB: they finished the matter)"
+      }
+    ]
+  }
+]

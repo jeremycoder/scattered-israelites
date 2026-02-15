@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֗לֶּה",
+        "phrase": "And these",
+        "literal": "and-these",
+        "source": "H428; KJV/ESV/NASB: 'these' or 'those'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמ֛וֹת",
+        "phrase": "names",
+        "literal": "names-of",
+        "source": "H8034; KJV/ESV/NASB: 'names'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יִּלֹּדִ֥ים",
+        "phrase": "the born",
+        "literal": "the-born",
+        "source": "H3209; KJV/ESV/NASB: 'born' or 'those who were born'"
+      },
+      {
+        "position": 4,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV/ESV/NASB: 'unto him' or 'to him'"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/ירוּשָׁלִָ֑ם",
+        "phrase": "in Jerusalem",
+        "literal": "in-Jerusalem",
+        "source": "H3389; KJV/ESV/NASB: 'in Jerusalem'"
+      },
+      {
+        "position": 6,
+        "surface": "שַׁמּ֣וּעַ",
+        "phrase": "Shammua",
+        "literal": "Shammua",
+        "source": "H8051; KJV/ESV/NASB: 'Shammua'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/שׁוֹבָ֔ב",
+        "phrase": "and Shobab",
+        "literal": "and-Shobab",
+        "source": "H7727; KJV/ESV/NASB: 'Shobab'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נָתָ֖ן",
+        "phrase": "and Nathan",
+        "literal": "and-Nathan",
+        "source": "H5416; KJV/ESV/NASB: 'Nathan'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/שְׁלֹמֹֽה",
+        "phrase": "and Solomon",
+        "literal": "and-Solomon",
+        "source": "H8010; KJV/ESV/NASB: 'Solomon'"
+      }
+    ]
+  }
+]

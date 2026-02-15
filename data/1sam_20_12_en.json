@@ -1,0 +1,186 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹנָתָ֜ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֗ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֞ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵ֤י",
+        "phrase": "God-of",
+        "literal": "gods-of",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "that",
+        "source": "H3588 (KJV: when; ESV: that; NASB: when)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶחְקֹ֣ר",
+        "phrase": "I-will-sound-out",
+        "literal": "I-will-search",
+        "source": "H2713 (KJV: sounded; ESV: sound out; NASB: sounded out)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "אָבִ֗/י",
+        "phrase": "my-father",
+        "literal": "father-my",
+        "source": "H1 (KJV: father; ESV: father; NASB: father)"
+      },
+      {
+        "position": 12,
+        "surface": "כָּ/עֵ֤ת",
+        "phrase": "at-the-time",
+        "literal": "as-the-time",
+        "source": "H6256 (KJV: about...time; ESV: this time; NASB: this time)"
+      },
+      {
+        "position": 13,
+        "surface": "מָחָר֙",
+        "phrase": "tomorrow",
+        "literal": "tomorrow",
+        "source": "H4279 (KJV: to morrow; ESV: tomorrow; NASB: tomorrow)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/שְּׁלִשִׁ֔ית",
+        "phrase": "the-third-[day]",
+        "literal": "the-third",
+        "source": "H7992 (KJV: third day; ESV: third day; NASB: third day)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/הִנֵּה",
+        "phrase": "and-behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV: behold; ESV: if; NASB: if)"
+      },
+      {
+        "position": 16,
+        "surface": "ט֖וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "H2896 (KJV: good; ESV: favorable; NASB: good feeling)"
+      },
+      {
+        "position": 17,
+        "surface": "אֶל",
+        "phrase": "toward",
+        "literal": "to",
+        "source": "H413 (KJV: toward; ESV: toward; NASB: toward)"
+      },
+      {
+        "position": 18,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: you; NASB: you)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: and...not; ESV: will I not; NASB: shall I not)"
+      },
+      {
+        "position": 20,
+        "surface": "אָז֙",
+        "phrase": "then",
+        "literal": "then",
+        "source": "H227 (KJV: then; ESV: then; NASB: then)"
+      },
+      {
+        "position": 21,
+        "surface": "אֶשְׁלַ֣ח",
+        "phrase": "I-will-send",
+        "literal": "I-will-send",
+        "source": "H7971 (KJV: send; ESV: send; NASB: send)"
+      },
+      {
+        "position": 22,
+        "surface": "אֵלֶ֔י/ךָ",
+        "phrase": "to-you",
+        "literal": "to-you",
+        "source": "H413 (KJV: unto thee; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/גָלִ֖יתִי",
+        "phrase": "and-I-will-uncover",
+        "literal": "and-I-will-reveal",
+        "source": "H1540 (KJV: shew it thee; ESV: tell you; NASB: inform)"
+      },
+      {
+        "position": 24,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 25,
+        "surface": "אָזְנֶֽ/ךָ",
+        "phrase": "your-ear",
+        "literal": "ear-your",
+        "source": "H241 (KJV: shew it thee; ESV: tell you; NASB: inform you)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקָּחֵ֥/הוּ",
+        "phrase": "and took him",
+        "literal": "and-took-him",
+        "source": "H3947: KJV 'took him', ESV 'took him', NASB 'took him'"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586: KJV 'Saul', ESV 'Saul', NASB 'Saul'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "on the day",
+        "literal": "in-the-day",
+        "source": "H3117: KJV 'that day', ESV 'that day', NASB 'that day'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/ה֑וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931: KJV 'that', ESV 'that', NASB 'that'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/לֹ֣א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808: KJV 'and would ... no', ESV 'did not', NASB 'did not'"
+      },
+      {
+        "position": 6,
+        "surface": "נְתָנ֔/וֹ",
+        "phrase": "let him go",
+        "literal": "gave-him",
+        "source": "H5414: KJV 'let him go', ESV 'let him', NASB 'let him'"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/שׁ֖וּב",
+        "phrase": "to return",
+        "literal": "to-return",
+        "source": "H7725: KJV 'return', ESV 'return', NASB 'return'"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֥ית",
+        "phrase": "to house",
+        "literal": "house",
+        "source": "H1004: KJV 'home', ESV 'home', NASB 'home'"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִֽי/ו",
+        "phrase": "of his father",
+        "literal": "father-his",
+        "source": "H1: KJV \"father's\", ESV \"father's\", NASB \"father's\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: bade/teach; ESV: said; NASB: told)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/לַמֵּ֥ד",
+        "phrase": "to teach",
+        "literal": "to-teach",
+        "source": "H3925 (KJV: teach; ESV: taught; NASB: teach)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵֽי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוּדָ֖ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 5,
+        "surface": "קָ֑שֶׁת",
+        "phrase": "bow",
+        "literal": "bow",
+        "source": "H7198 (KJV: bow; ESV: bow; NASB: bow)"
+      },
+      {
+        "position": 6,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 (KJV: behold; ESV: behold; NASB: behold)"
+      },
+      {
+        "position": 7,
+        "surface": "כְתוּבָ֖ה",
+        "phrase": "it is written",
+        "literal": "written-is",
+        "source": "H3789 (KJV: written; ESV: written; NASB: written)"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "in",
+        "literal": "on",
+        "source": "H5921 (KJV: in; ESV: in; NASB: in)"
+      },
+      {
+        "position": 9,
+        "surface": "סֵ֥פֶר",
+        "phrase": "book",
+        "literal": "book",
+        "source": "H5612 (KJV: book; ESV: Book; NASB: book)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יָּשָֽׁר",
+        "phrase": "of Jashar",
+        "literal": "the-upright",
+        "source": "H3477 (KJV: Jasher; ESV: Jashar; NASB: Jashar)"
+      }
+    ]
+  }
+]

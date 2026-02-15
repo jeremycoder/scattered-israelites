@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּרָ֥א",
+        "phrase": "And David feared",
+        "literal": "and-he-was-afraid",
+        "source": "H3372 (KJV: was afraid; ESV: was afraid; NASB: was afraid)"
+      },
+      {
+        "position": 2,
+        "surface": "דָוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "of",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/יּ֣וֹם",
+        "phrase": "that day",
+        "literal": "in-the-day",
+        "source": "H3117 (KJV: that day; ESV: that day; NASB: that day)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/ה֑וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵ֛יךְ",
+        "phrase": "How",
+        "literal": "how",
+        "source": "H349 (KJV: How; ESV: How; NASB: How)"
+      },
+      {
+        "position": 9,
+        "surface": "יָב֥וֹא",
+        "phrase": "can come",
+        "literal": "can-come",
+        "source": "H935 (KJV: shall...come; ESV: can...come; NASB: can...come)"
+      },
+      {
+        "position": 10,
+        "surface": "אֵלַ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: to me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲר֥וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      }
+    ]
+  }
+]

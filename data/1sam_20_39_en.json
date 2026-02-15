@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/נַּ֖עַר",
+        "phrase": "But the boy",
+        "literal": "and-the-boy",
+        "source": "H5288 (KJV: lad; ESV: boy; NASB: lad)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹֽא",
+        "phrase": "did not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: knew nothing; NASB: was not aware)"
+      },
+      {
+        "position": 3,
+        "surface": "יָדַ֣ע",
+        "phrase": "know",
+        "literal": "he-knew",
+        "source": "H3045 (KJV: knew not; ESV: knew; NASB: was aware)"
+      },
+      {
+        "position": 4,
+        "surface": "מְא֑וּמָה",
+        "phrase": "anything",
+        "literal": "anything",
+        "source": "H3972 (KJV: any thing; ESV: nothing; NASB: anything)"
+      },
+      {
+        "position": 5,
+        "surface": "אַ֤ךְ",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H389 (KJV: only; ESV: Only; NASB: only)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהֽוֹנָתָן֙",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/דָוִ֔ד",
+        "phrase": "and David",
+        "literal": "and-David",
+        "source": "H1732 (KJV: and David; ESV: and David; NASB: and David)"
+      },
+      {
+        "position": 8,
+        "surface": "יָדְע֖וּ",
+        "phrase": "knew",
+        "literal": "they-knew",
+        "source": "H3045 (KJV: knew; ESV: knew; NASB: knew)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: implied in 'the matter'; ESV: implied; NASB: implied)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/דָּבָֽר",
+        "phrase": "the matter",
+        "literal": "the-matter",
+        "source": "H1697 (KJV: the matter; ESV: the matter; NASB: the matter)"
+      }
+    ]
+  }
+]

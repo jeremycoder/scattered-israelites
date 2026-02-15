@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמוּאֵ֕ל",
+        "phrase": "But Samuel",
+        "literal": "and-Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 2,
+        "surface": "מְשָׁרֵ֖ת",
+        "phrase": "was ministering",
+        "literal": "serving",
+        "source": "H8334 (KJV: ministered; ESV: was ministering; NASB: was ministering)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "before",
+        "literal": "[direct object marker]",
+        "source": "H854 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 4,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face of",
+        "literal": "face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "נַ֕עַר",
+        "phrase": "a boy",
+        "literal": "boy",
+        "source": "H5288 (KJV: a child; ESV: a boy; NASB: a boy)"
+      },
+      {
+        "position": 7,
+        "surface": "חָג֖וּר",
+        "phrase": "girded",
+        "literal": "girded",
+        "source": "H2296 (KJV: girded; ESV: clothed; NASB: wearing)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵפ֥וֹד",
+        "phrase": "with an ephod",
+        "literal": "ephod",
+        "source": "H646 (KJV: ephod; ESV: ephod; NASB: ephod)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּֽד",
+        "phrase": "linen",
+        "literal": "linen",
+        "source": "H906 (KJV: linen; ESV: linen; NASB: linen)"
+      }
+    ]
+  }
+]

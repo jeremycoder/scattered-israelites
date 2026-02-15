@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֖ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹאָ֑ב",
+        "phrase": "Joab",
+        "literal": "Joab",
+        "source": "H3097 (KJV: Joab; ESV: Joab; NASB: Joab)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יַּגֵּ֣ד",
+        "phrase": "and told",
+        "literal": "and-he-declared",
+        "source": "H5046 (KJV: told; ESV: reported; NASB: told)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/דָוִ֔ד",
+        "phrase": "to David",
+        "literal": "to-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 7,
+        "surface": "דִּבְרֵ֖י",
+        "phrase": "words of",
+        "literal": "words-of",
+        "source": "H1697 (KJV: matters; ESV: news; NASB: matters)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מִּלְחָמָֽה",
+        "phrase": "the war",
+        "literal": "the-war",
+        "source": "H4421 (KJV: battle; ESV: war; NASB: battle)"
+      }
+    ]
+  }
+]

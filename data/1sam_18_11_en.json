@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֤טֶל",
+        "phrase": "and he hurled",
+        "literal": "and-he-threw",
+        "source": "H2904 (KJV: cast; ESV: hurled; NASB: hurled)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁאוּל֙",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/חֲנִ֔ית",
+        "phrase": "the spear",
+        "literal": "the-spear",
+        "source": "H2595 (KJV: javelin; ESV: spear; NASB: spear)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: [implied in 'for he said']; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "אַכֶּ֥ה",
+        "phrase": "I will strike/pin",
+        "literal": "I-will-strike",
+        "source": "H5221 (KJV: smite; ESV: pin; NASB: pin)"
+      },
+      {
+        "position": 7,
+        "surface": "בְ/דָוִ֖ד",
+        "phrase": "David",
+        "literal": "in/on-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/בַ/קִּ֑יר",
+        "phrase": "and the wall",
+        "literal": "and-in-the-wall",
+        "source": "H7023 (KJV: the wall; ESV: the wall; NASB: the wall)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יִּסֹּ֥ב",
+        "phrase": "and he escaped",
+        "literal": "and-he-turned",
+        "source": "H5437 (KJV: avoided; ESV: escaped; NASB: escaped)"
+      },
+      {
+        "position": 10,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 11,
+        "surface": "מִ/פָּנָ֖י/ו",
+        "phrase": "from his presence",
+        "literal": "from-face-his",
+        "source": "H6440 (KJV: out of his presence; ESV: his presence; NASB: his presence)"
+      },
+      {
+        "position": 12,
+        "surface": "פַּעֲמָֽיִם",
+        "phrase": "twice",
+        "literal": "two-times",
+        "source": "H6471 (KJV: twice; ESV: twice; NASB: twice)"
+      }
+    ]
+  }
+]

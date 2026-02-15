@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: 'And he said'; ESV: 'And he said'; NASB: 'He said')"
+      },
+      {
+        "position": 2,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: 'unto me'; ESV: 'to me'; NASB: 'to me')"
+      },
+      {
+        "position": 3,
+        "surface": "מִי",
+        "phrase": "Who",
+        "literal": "who",
+        "source": "H4310 (KJV: 'Who'; ESV: 'Who'; NASB: 'Who')"
+      },
+      {
+        "position": 4,
+        "surface": "אָ֑תָּה",
+        "phrase": "are you",
+        "literal": "you",
+        "source": "H859 (KJV: 'art thou'; ESV: 'are you'; NASB: 'are you')"
+      },
+      {
+        "position": 5,
+        "surface": "ו/יאמר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (textual variant; KJV/ESV/NASB imply sequence from context)"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אֹמַ֣ר",
+        "phrase": "And I said",
+        "literal": "and-I-said",
+        "source": "H559 (KJV: 'And I answered'; ESV: 'I answered'; NASB: 'And I answered')"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: 'him'; ESV: 'him'; NASB: 'him')"
+      },
+      {
+        "position": 8,
+        "surface": "עֲמָלֵקִ֖י",
+        "phrase": "an Amalekite",
+        "literal": "Amalekite",
+        "source": "H6003 (KJV: 'an Amalekite'; ESV: 'an Amalekite'; NASB: 'an Amalekite')"
+      },
+      {
+        "position": 9,
+        "surface": "אָנֹֽכִי",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: 'I'; ESV: 'I'; NASB: 'I')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹ֖א",
+        "phrase": "and do not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "תָּס֑וּרוּ",
+        "phrase": "turn aside",
+        "literal": "turn_aside-2mp",
+        "source": "H5493 (KJV: turn...aside; ESV: turn aside; NASB: turn aside)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 4,
+        "surface": "אַחֲרֵ֣י",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310 (KJV: after; ESV: after; NASB: after)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/תֹּ֗הוּ",
+        "phrase": "the futile things",
+        "literal": "the-futility",
+        "source": "H8414 (KJV: vain things; ESV: empty things; NASB: futile things)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: cannot; ESV: cannot; NASB: cannot)"
+      },
+      {
+        "position": 8,
+        "surface": "יוֹעִ֛ילוּ",
+        "phrase": "profit",
+        "literal": "profit-3mp",
+        "source": "H3276 (KJV: profit; ESV: profit; NASB: profit)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H3808 (KJV: nor; ESV: or; NASB: or)"
+      },
+      {
+        "position": 10,
+        "surface": "יַצִּ֖ילוּ",
+        "phrase": "deliver",
+        "literal": "deliver-3mp",
+        "source": "H5337 (KJV: deliver; ESV: deliver; NASB: deliver)"
+      },
+      {
+        "position": 11,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: because)"
+      },
+      {
+        "position": 12,
+        "surface": "תֹ֥הוּ",
+        "phrase": "futile",
+        "literal": "futility",
+        "source": "H8414 (KJV: vain; ESV: empty; NASB: futile)"
+      },
+      {
+        "position": 13,
+        "surface": "הֵֽמָּה",
+        "phrase": "they are",
+        "literal": "they",
+        "source": "H1992 (KJV: they are vain; ESV: they are empty; NASB: they are futile)"
+      }
+    ]
+  }
+]

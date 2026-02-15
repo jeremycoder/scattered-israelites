@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And Samuel said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֔ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/לָ֖/מָּה",
+        "phrase": "and why",
+        "literal": "and-why",
+        "source": "H4100 (KJV: wherefore; ESV: why; NASB: why)"
+      },
+      {
+        "position": 4,
+        "surface": "תִּשְׁאָלֵ֑/נִי",
+        "phrase": "do you ask me",
+        "literal": "you-ask-me",
+        "source": "H7592 (KJV: dost thou ask of me; ESV: do you ask me; NASB: do you ask me)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יהוָ֛ה",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "סָ֥ר",
+        "phrase": "has departed",
+        "literal": "has-departed",
+        "source": "H5493 (KJV: is departed; ESV: has turned away; NASB: has departed)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/עָלֶ֖י/ךָ",
+        "phrase": "from upon you",
+        "literal": "from-upon-you",
+        "source": "H5921 (KJV: from thee; ESV: from you; NASB: from you)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and has become",
+        "literal": "and-he-was",
+        "source": "H1961 (KJV: is become; ESV: has become; NASB: has become)"
+      },
+      {
+        "position": 9,
+        "surface": "עָרֶֽ/ךָ",
+        "phrase": "your enemy",
+        "literal": "your-enemy",
+        "source": "H6145 (KJV: thine enemy; ESV: your enemy; NASB: your adversary)"
+      }
+    ]
+  }
+]

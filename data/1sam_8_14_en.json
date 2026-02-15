@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and your",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: your/and; ESV: your/and; NASB: your/and)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׂ֠דֽוֹתֵי/כֶם",
+        "phrase": "fields",
+        "literal": "fields-your",
+        "source": "H7704 (KJV: fields; ESV: fields; NASB: fields)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and your",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: your/and; ESV: your/and; NASB: your/and)"
+      },
+      {
+        "position": 4,
+        "surface": "כַּרְמֵי/כֶ֧ם",
+        "phrase": "vineyards",
+        "literal": "vineyards-your",
+        "source": "H3754 (KJV: vineyards; ESV: vineyards; NASB: vineyards)"
+      },
+      {
+        "position": 5,
+        "surface": "וְזֵיתֵי/כֶ֛ם",
+        "phrase": "and olive groves",
+        "literal": "and-olive.trees-your",
+        "source": "H2132 (KJV: oliveyards; ESV: olive groves; NASB: olive groves)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/טּוֹבִ֖ים",
+        "phrase": "the best",
+        "literal": "the-good",
+        "source": "H2896 (KJV: best; ESV: best; NASB: best)"
+      },
+      {
+        "position": 7,
+        "surface": "יִקָּ֑ח",
+        "phrase": "he will take",
+        "literal": "he-will-take",
+        "source": "H3947 (KJV: take; ESV: take; NASB: take)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/נָתַ֖ן",
+        "phrase": "and give",
+        "literal": "and-he-will-give",
+        "source": "H5414 (KJV: give; ESV: give; NASB: give)"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/עֲבָדָֽי/ו",
+        "phrase": "to his servants",
+        "literal": "to-servants-his",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      }
+    ]
+  }
+]

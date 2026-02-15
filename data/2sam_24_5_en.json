@@ -1,0 +1,102 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעַבְר֖וּ",
+        "phrase": "and they crossed",
+        "literal": "and-they-crossed",
+        "source": "H5674 (KJV: passed over; ESV: crossed; NASB: crossed)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יַּרְדֵּ֑ן",
+        "phrase": "Jordan",
+        "literal": "the-Jordan",
+        "source": "H3383 (KJV: Jordan; ESV: Jordan; NASB: Jordan)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּחֲנ֣וּ",
+        "phrase": "and they camped",
+        "literal": "and-they-encamped",
+        "source": "H2583 (KJV: pitched; ESV: camped; NASB: camped)"
+      },
+      {
+        "position": 5,
+        "surface": "בַ/עֲרוֹעֵ֗ר",
+        "phrase": "in Aroer",
+        "literal": "in-Aroer",
+        "source": "H6177 (KJV: in Aroer; ESV: in Aroer; NASB: in Aroer)"
+      },
+      {
+        "position": 6,
+        "surface": "יְמִ֥ין",
+        "phrase": "right side",
+        "literal": "right-hand",
+        "source": "H3225 (KJV: right side; ESV: right side; NASB: south)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עִ֛יר",
+        "phrase": "of the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: town)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֛ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/תוֹךְ",
+        "phrase": "in the middle of",
+        "literal": "in-midst-of",
+        "source": "H8432 (KJV: middle; ESV: middle; NASB: middle)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/נַּ֥חַל",
+        "phrase": "the valley",
+        "literal": "the-valley",
+        "source": "H5158 (KJV: valley; ESV: valley; NASB: valley)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/גָּ֖ד",
+        "phrase": "of Gad",
+        "literal": "the-Gad",
+        "source": "H1410 (KJV: of Gad; ESV: of Gad; NASB: of Gad)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶל",
+        "phrase": "and toward",
+        "literal": "and-to",
+        "source": "H413 (KJV: unto; ESV: toward; NASB: toward)"
+      },
+      {
+        "position": 13,
+        "surface": "יַעְזֵֽר",
+        "phrase": "Jazer",
+        "literal": "Jazer",
+        "source": "H3270 (KJV: Jazer; ESV: Jazer; NASB: Jazer)"
+      }
+    ]
+  }
+]

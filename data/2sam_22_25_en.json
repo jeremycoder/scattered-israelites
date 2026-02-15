@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֧שֶׁב",
+        "phrase": "and-has-repaid",
+        "literal": "and-he-returned",
+        "source": "H7725; KJV:recompensed, ESV:has rewarded, NASB:has recompensed[1]"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV:LORD, ESV:Lord, NASB:LORD[1]"
+      },
+      {
+        "position": 3,
+        "surface": "לִ֖/י",
+        "phrase": "to-me",
+        "literal": "to-me",
+        "source": "; KJV:me, ESV:me, NASB:me[1]"
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/צִדְקָתִ֑/י",
+        "phrase": "according-to-my-righteousness",
+        "literal": "as-righteousness-my",
+        "source": "H6666; KJV:my righteousness, ESV:my righteousness, NASB:my righteousness[1]"
+      },
+      {
+        "position": 5,
+        "surface": "כְּ/בֹרִ֖/י",
+        "phrase": "according-to-my-cleanness",
+        "literal": "as-purity-my",
+        "source": "H1252; KJV:my cleanness, ESV:my cleanness, NASB:my cleanness[1]"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/נֶ֥גֶד",
+        "phrase": "before",
+        "literal": "to-opposite",
+        "source": "H5048; KJV:in his sight, ESV:in his sight, NASB:before His eyes[1]"
+      },
+      {
+        "position": 7,
+        "surface": "עֵינָֽי/ו",
+        "phrase": "his-eyes",
+        "literal": "eyes-his",
+        "source": "H5869; KJV:his eyesight, ESV:his sight, NASB:His eyes[1]"
+      }
+    ]
+  }
+]

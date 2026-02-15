@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'could not'; ESV: 'could not'; NASB: 'could no longer')"
+      },
+      {
+        "position": 2,
+        "surface": "יָכֹ֣ל",
+        "phrase": "he could",
+        "literal": "he-was-able",
+        "source": "H3201 (KJV: 'answer'; ESV: 'answer'; NASB: 'answer')"
+      },
+      {
+        "position": 3,
+        "surface": "ע֔וֹד",
+        "phrase": "anymore",
+        "literal": "still",
+        "source": "H5750 (KJV: 'again'; ESV: 'another'; NASB: 'no longer')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/הָשִׁ֥יב",
+        "phrase": "to return",
+        "literal": "to-return",
+        "source": "H7725 (KJV: 'answer ... again'; ESV: 'answer'; NASB: 'answer')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: 'Abner'; ESV: 'Abner'; NASB: 'Abner')"
+      },
+      {
+        "position": 6,
+        "surface": "אַבְנֵ֖ר",
+        "phrase": "Abner",
+        "literal": "Abner",
+        "source": "H74 (KJV: 'Abner'; ESV: 'Abner'; NASB: 'Abner')"
+      },
+      {
+        "position": 7,
+        "surface": "דָּבָ֑ר",
+        "phrase": "a word",
+        "literal": "word",
+        "source": "H1697 (KJV: 'a word'; ESV: 'a word'; NASB: 'a word')"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/יִּרְאָת֖/וֹ",
+        "phrase": "because of his fear",
+        "literal": "from-fear-of-him",
+        "source": "H3372 (KJV: 'feared'; ESV: 'feared'; NASB: 'afraid')"
+      },
+      {
+        "position": 9,
+        "surface": "אֹתֽ/וֹ",
+        "phrase": "him",
+        "literal": "him",
+        "source": "H853 (KJV: 'him'; ESV: 'him'; NASB: 'him')"
+      }
+    ]
+  }
+]

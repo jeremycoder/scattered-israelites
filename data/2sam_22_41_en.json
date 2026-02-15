@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֹ֣יְבַ֔/י",
+        "phrase": "my enemies",
+        "literal": "and-enemies-my",
+        "source": "H341 (KJV: 'mine enemies'; ESV: 'my enemies'; NASB: 'my enemies')"
+      },
+      {
+        "position": 2,
+        "surface": "תַּ֥תָּה",
+        "phrase": "you have given",
+        "literal": "you-have-given",
+        "source": "H5414 (KJV: 'Thou hast also given'; ESV: 'You made'; NASB: 'You have made')"
+      },
+      {
+        "position": 3,
+        "surface": "לִּ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: 'me'; ESV: 'before me'; NASB: 'turn back before me')"
+      },
+      {
+        "position": 4,
+        "surface": "עֹ֑רֶף",
+        "phrase": "necks",
+        "literal": "necks",
+        "source": "H6203 (KJV: 'necks'; ESV: 'backs'; NASB: 'turn their backs')"
+      },
+      {
+        "position": 5,
+        "surface": "מְשַׂנְאַ֖/י",
+        "phrase": "those who hate me",
+        "literal": "hating-me",
+        "source": "H8130 (KJV: 'them that hate me'; ESV: 'those who hate me'; NASB: 'those who hate me')"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אַצְמִיתֵֽ/ם",
+        "phrase": "and I destroyed them",
+        "literal": "and-I-destroyed-them",
+        "source": "H6789 (KJV: 'that I might destroy them'; ESV: 'I destroyed'; NASB: 'I destroyed')"
+      }
+    ]
+  }
+]

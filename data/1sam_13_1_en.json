@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV: 'reigned one year' (interprets idiomatically), ESV: '[…] years old', NASB: 'forty years old'"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "a year",
+        "literal": "year",
+        "source": "H8141; KJV: 'one year', ESV: '[…] years', NASB: 'forty years'"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁא֣וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586; KJV/ESV/NASB: 'Saul'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/מָלְכ֑/וֹ",
+        "phrase": "when he became king",
+        "literal": "in-reigning-his",
+        "source": "H4427; KJV: 'reigned', ESV: 'began to reign', NASB: 'began to reign'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/שְׁתֵּ֣י",
+        "phrase": "and two",
+        "literal": "and-two",
+        "source": "H8147; KJV/ESV/NASB: 'two'"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנִ֔ים",
+        "phrase": "years",
+        "literal": "years",
+        "source": "H8141; KJV/ESV/NASB: 'years'"
+      },
+      {
+        "position": 7,
+        "surface": "מָלַ֖ךְ",
+        "phrase": "he reigned",
+        "literal": "he-reigned",
+        "source": "H4427; KJV/ESV/NASB: 'reigned'"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over",
+        "source": "H5921; KJV/ESV/NASB: 'over'"
+      },
+      {
+        "position": 9,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: 'Israel'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִ֖יא",
+        "phrase": "and she",
+        "literal": "and-she",
+        "source": "H1931 (KJV: she was; ESV: she; NASB: she)"
+      },
+      {
+        "position": 2,
+        "surface": "מָ֣רַת",
+        "phrase": "bitter",
+        "literal": "bitter-fs",
+        "source": "H4751 (KJV: bitterness; ESV: deeply distressed; NASB: greatly distressed)"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֑פֶשׁ",
+        "phrase": "of soul",
+        "literal": "of-soul",
+        "source": "H5315 (KJV: of soul; ESV: ; NASB: )"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/תִּתְפַּלֵּ֥ל",
+        "phrase": "and prayed",
+        "literal": "and-she-prayed",
+        "source": "H6419 (KJV: prayed; ESV: prayed; NASB: prayed)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H5921 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בָכֹ֥ה",
+        "phrase": "and weeping",
+        "literal": "and-weeping",
+        "source": "H1058 (KJV: and wept; ESV: wept bitterly; NASB: wept bitterly)"
+      },
+      {
+        "position": 8,
+        "surface": "תִבְכֶּֽה",
+        "phrase": "she wept",
+        "literal": "she-wept",
+        "source": "H1058 (KJV: sore; ESV: bitterly; NASB: bitterly)"
+      }
+    ]
+  }
+]

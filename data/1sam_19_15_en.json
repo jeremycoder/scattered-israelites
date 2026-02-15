@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֤ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁאוּל֙",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מַּלְאָכִ֔ים",
+        "phrase": "the messengers",
+        "literal": "the-messengers",
+        "source": "H4397 (KJV: messengers; ESV: messengers; NASB: messengers)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/רְא֥וֹת",
+        "phrase": "to see",
+        "literal": "to-see",
+        "source": "H7200 (KJV: to see; ESV: to see; NASB: to see)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 7,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 9,
+        "surface": "הַעֲל֨וּ",
+        "phrase": "bring up",
+        "literal": "cause-to-go-up",
+        "source": "H5927 (KJV: Bring...up; ESV: Bring...up; NASB: Bring...up)"
+      },
+      {
+        "position": 10,
+        "surface": "אֹת֧/וֹ",
+        "phrase": "him",
+        "literal": "[direct object]-him",
+        "source": "H853 (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 11,
+        "surface": "בַ/מִּטָּ֛ה",
+        "phrase": "in the bed",
+        "literal": "in-the-bed",
+        "source": "H4296 (KJV: in the bed; ESV: in the bed; NASB: on the bed)"
+      },
+      {
+        "position": 12,
+        "surface": "אֵלַ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: to me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/הֲמִתֽ/וֹ",
+        "phrase": "to kill him",
+        "literal": "to-cause-to-die-him",
+        "source": "H4191 (KJV: slay him; ESV: kill him; NASB: put him to death)"
+      }
+    ]
+  }
+]

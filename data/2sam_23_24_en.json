@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עֲשָׂה",
+        "phrase": "Asahel",
+        "literal": "Asahel",
+        "source": "H6214; KJV/ESV/NASB: 'Asahel' (proper name, often first part of compound name 'Asahel')"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֥ל",
+        "phrase": "the",
+        "literal": "El-god",
+        "source": "H6214; KJV/ESV/NASB: part of 'Asahel' ('El' as divine element)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחִֽי",
+        "phrase": "brother",
+        "literal": "brother-of",
+        "source": "H251; KJV/ESV/NASB: 'brother'"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹאָ֖ב",
+        "phrase": "of Joab",
+        "literal": "Joab",
+        "source": "H3097; KJV/ESV/NASB: 'Joab'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/שְּׁלֹשִׁ֑ים",
+        "phrase": "among the thirty",
+        "literal": "in-the-thirty",
+        "source": "H7970; KJV/ESV/NASB: 'among the thirty'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶלְחָנָ֥ן",
+        "phrase": "Elhanan",
+        "literal": "Elhanan",
+        "source": "H445; KJV/ESV/NASB: 'Elhanan'"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 8,
+        "surface": "דֹּד֖וֹ",
+        "phrase": "of Dodo",
+        "literal": "his-uncle",
+        "source": "H1734; KJV/ESV/NASB: 'Dodo'/'of an Ahohite'"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֥ית",
+        "phrase": "of Beth",
+        "literal": "house-of",
+        "source": "H1035; KJV/ESV/NASB: part of 'Bethlehem'"
+      },
+      {
+        "position": 10,
+        "surface": "לָֽחֶם",
+        "phrase": "lehem",
+        "literal": "bread",
+        "source": "H1035; KJV/ESV/NASB: part of 'Bethlehem' ('Beth-lehem')"
+      }
+    ]
+  }
+]

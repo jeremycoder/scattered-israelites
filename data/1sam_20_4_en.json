@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "Then Jonathan said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹנָתָ֖ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 5,
+        "surface": "מַה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "H4100 (KJV: Whatsoever; ESV: Whatever; NASB: Whatever)"
+      },
+      {
+        "position": 6,
+        "surface": "תֹּאמַ֥ר",
+        "phrase": "you say",
+        "literal": "she-says",
+        "source": "H559 (KJV: thy soul desireth; ESV: you say; NASB: you say)"
+      },
+      {
+        "position": 7,
+        "surface": "נַפְשְׁ/ךָ֖",
+        "phrase": "your soul",
+        "literal": "soul-your",
+        "source": "H5315 (KJV: thy soul; ESV: you; NASB: you)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶֽעֱשֶׂה",
+        "phrase": "I will do",
+        "literal": "and-I-will-do",
+        "source": "H6213 (KJV: I will even do it; ESV: I will do; NASB: I will do)"
+      },
+      {
+        "position": 9,
+        "surface": "לָּֽ/ךְ",
+        "phrase": "for you",
+        "literal": "for-you",
+        "source": " (KJV: for thee; ESV: for you; NASB: for you)"
+      }
+    ]
+  }
+]

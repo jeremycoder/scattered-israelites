@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֥ע",
+        "phrase": "and listened",
+        "literal": "and-he-heard",
+        "source": "H8085 (KJV: hearkened; ESV: listened; NASB: listened)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/ק֣וֹל",
+        "phrase": "to the voice",
+        "literal": "in-voice-of",
+        "source": "H6963 (KJV: unto the voice; ESV: to the voice; NASB: to the voice)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוֹנָתָ֑ן",
+        "phrase": "of Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: of Jonathan; ESV: of Jonathan; NASB: of Jonathan)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּשָּׁבַ֣ע",
+        "phrase": "and swore",
+        "literal": "and-he-swore",
+        "source": "H7650 (KJV: sware; ESV: swore; NASB: vowed)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 7,
+        "surface": "חַי",
+        "phrase": "lives",
+        "literal": "living",
+        "source": "H2416 (KJV: liveth; ESV: lives; NASB: lives)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: not; ESV: not; NASB: not) - conditional particle in oath"
+      },
+      {
+        "position": 10,
+        "surface": "יוּמָֽת",
+        "phrase": "he is put to death",
+        "literal": "he-is-put-to-death",
+        "source": "H4191 (KJV: be slain; ESV: be put to death; NASB: be put to death)"
+      }
+    ]
+  }
+]

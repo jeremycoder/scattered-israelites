@@ -1,0 +1,102 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְבַקֵּ֥שׁ",
+        "phrase": "and sought",
+        "literal": "and-he-sought",
+        "source": "H1245 (KJV: besought; ESV: sought; NASB: inquired)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּעַ֣ד",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H1157 (KJV: for; ESV: on behalf of; NASB: for)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נָּ֑עַר",
+        "phrase": "the child",
+        "literal": "the-boy",
+        "source": "H5288 (KJV: the child; ESV: the child; NASB: the child)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יָּ֤צָם",
+        "phrase": "and fasted",
+        "literal": "and-he-made-fast",
+        "source": "H6684 (KJV: fasted; ESV: fasted; NASB: fasted)"
+      },
+      {
+        "position": 8,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 9,
+        "surface": "צ֔וֹם",
+        "phrase": "fast",
+        "literal": "fast",
+        "source": "H6685 (KJV: fasted; ESV: fasted; NASB: fasted)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בָ֥א",
+        "phrase": "and went in",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: went in; ESV: went in; NASB: went)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/לָ֖ן",
+        "phrase": "and spent the night",
+        "literal": "and-he-lodged",
+        "source": "H3885 (KJV: lay all night; ESV: lay all night; NASB: lay all night)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/שָׁכַ֥ב",
+        "phrase": "and lay",
+        "literal": "and-he-lay",
+        "source": "H7901 (KJV: lay; ESV: lay; NASB: lay)"
+      },
+      {
+        "position": 13,
+        "surface": "אָֽרְצָ/ה",
+        "phrase": "on the ground",
+        "literal": "groundward",
+        "source": "H776 (KJV: upon the earth; ESV: on the ground; NASB: on the ground)"
+      }
+    ]
+  }
+]

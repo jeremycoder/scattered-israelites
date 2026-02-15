@@ -1,0 +1,214 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַל",
+        "phrase": "please do not",
+        "literal": "not",
+        "source": "H408 (KJV: let not; ESV: let not; NASB: please do not)"
+      },
+      {
+        "position": 2,
+        "surface": "נָ֣א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (KJV: I pray thee; ESV: ; NASB: please)"
+      },
+      {
+        "position": 3,
+        "surface": "יָשִׂ֣ים",
+        "phrase": "pay attention",
+        "literal": "put",
+        "source": "H7760 (KJV: regard; ESV: pay attention; NASB: pay attention)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲדֹנִ֣/י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "to",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "לִבּ֡/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "H3820 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "אִישׁ֩",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/בְּלִיַּ֨עַל",
+        "phrase": "of worthlessness",
+        "literal": "the-worthless",
+        "source": "H1100 (KJV: Belial; ESV: worthless man; NASB: worthless man)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּ֜ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "concerning",
+        "literal": "upon",
+        "source": "H5921 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 12,
+        "surface": "נָבָ֗ל",
+        "phrase": "Nabal",
+        "literal": "fool",
+        "source": "H5037 (KJV: Nabal; ESV: Nabal; NASB: Nabal)"
+      },
+      {
+        "position": 13,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 14,
+        "surface": "כִ/שְׁמ/וֹ֙",
+        "phrase": "as his name",
+        "literal": "like-name-his",
+        "source": "H8034 (KJV: his name; ESV: his name; NASB: his name)"
+      },
+      {
+        "position": 15,
+        "surface": "כֶּן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: so; NASB: so)"
+      },
+      {
+        "position": 16,
+        "surface": "ה֔וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: is he; ESV: is he; NASB: is he)"
+      },
+      {
+        "position": 17,
+        "surface": "נָבָ֣ל",
+        "phrase": "Nabal",
+        "literal": "fool",
+        "source": "H5037 (KJV: Nabal; ESV: Nabal; NASB: Nabal)"
+      },
+      {
+        "position": 18,
+        "surface": "שְׁמ֔/וֹ",
+        "phrase": "is his name",
+        "literal": "name-his",
+        "source": "H8034 (KJV: his name; ESV: his name; NASB: his name)"
+      },
+      {
+        "position": 19,
+        "surface": "וּ/נְבָלָ֖ה",
+        "phrase": "and folly",
+        "literal": "and-folly",
+        "source": "H5039 (KJV: folly; ESV: folly; NASB: folly)"
+      },
+      {
+        "position": 20,
+        "surface": "עִמּ֑/וֹ",
+        "phrase": "is with him",
+        "literal": "with-him",
+        "source": "H5973 (KJV: with him; ESV: with him; NASB: with him)"
+      },
+      {
+        "position": 21,
+        "surface": "וַֽ/אֲנִי֙",
+        "phrase": "but I",
+        "literal": "and-I",
+        "source": "H589 (KJV: but I; ESV: but I; NASB: but I)"
+      },
+      {
+        "position": 22,
+        "surface": "אֲמָ֣תְ/ךָ֔",
+        "phrase": "your maidservant",
+        "literal": "maidservant-your",
+        "source": "H519 (KJV: thine handmaid; ESV: your servant; NASB: your maidservant)"
+      },
+      {
+        "position": 23,
+        "surface": "לֹ֥א",
+        "phrase": "did not",
+        "literal": "not",
+        "source": "H3808 (KJV: saw not; ESV: did not see; NASB: did not see)"
+      },
+      {
+        "position": 24,
+        "surface": "רָאִ֛יתִי",
+        "phrase": "see",
+        "literal": "see",
+        "source": "H7200 (KJV: saw; ESV: see; NASB: see)"
+      },
+      {
+        "position": 25,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 26,
+        "surface": "נַעֲרֵ֥י",
+        "phrase": "young men",
+        "literal": "young-men",
+        "source": "H5288 (KJV: young men; ESV: young men; NASB: young men)"
+      },
+      {
+        "position": 27,
+        "surface": "אֲדֹנִ֖/י",
+        "phrase": "my lord's",
+        "literal": "lord-my",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      },
+      {
+        "position": 28,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "H834 (KJV: whom; ESV: whom; NASB: whom)"
+      },
+      {
+        "position": 29,
+        "surface": "שָׁלָֽחְתָּ",
+        "phrase": "you sent",
+        "literal": "you-sent",
+        "source": "H7971 (KJV: thou didst send; ESV: you sent; NASB: you sent)"
+      }
+    ]
+  }
+]

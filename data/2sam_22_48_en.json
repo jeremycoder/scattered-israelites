@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ/אֵ֕ל",
+        "phrase": "the God",
+        "literal": "the-God",
+        "source": "H410; KJV: God; ESV: God; NASB: God"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/נֹּתֵ֥ן",
+        "phrase": "who gives",
+        "literal": "the-(one)-giving",
+        "source": "H5414; KJV: giveth; ESV: who gives; NASB: who gives"
+      },
+      {
+        "position": 3,
+        "surface": "נְקָמֹ֖ת",
+        "phrase": "vengeance",
+        "literal": "vengences",
+        "source": "H5360; KJV: avengement; ESV: vengeance; NASB: vengeance"
+      },
+      {
+        "position": 4,
+        "surface": "לִ֑/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "; KJV: for me; ESV: to me; NASB: to me"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מוֹרִ֥יד",
+        "phrase": "and brings down",
+        "literal": "and-brings-down",
+        "source": "H3381; KJV: bringeth down; ESV: subdues; NASB: subdues"
+      },
+      {
+        "position": 6,
+        "surface": "עַמִּ֖ים",
+        "phrase": "peoples",
+        "literal": "peoples",
+        "source": "H5971; KJV: peoples; ESV: peoples; NASB: peoples"
+      },
+      {
+        "position": 7,
+        "surface": "תַּחְתֵּֽ/נִי",
+        "phrase": "under me",
+        "literal": "under-me",
+        "source": "H8478; KJV: under me; ESV: under me; NASB: under me"
+      }
+    ]
+  }
+]

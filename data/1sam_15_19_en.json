@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָ֥/מָּה",
+        "phrase": "Why",
+        "literal": "and-why",
+        "source": "H4100 (KJV: Wherefore; ESV/NASB: Why)"
+      },
+      {
+        "position": 2,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV/ESV/NASB: not)"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁמַ֖עְתָּ",
+        "phrase": "did you obey",
+        "literal": "you-heard",
+        "source": "H8085 (KJV: hearken; ESV: obey; NASB: obey)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/ק֣וֹל",
+        "phrase": "the voice of",
+        "literal": "in-voice-of",
+        "source": "H6963 (KJV/ESV/NASB: voice)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV/NASB: LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תַּ֨עַט֙",
+        "phrase": "but you rushed",
+        "literal": "and-you-rushed",
+        "source": "H5860 (KJV: fly; ESV: pounce/rush; NASB: rush)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "upon",
+        "literal": "to",
+        "source": "H413 (KJV/ESV/NASB: upon/to)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שָּׁלָ֔ל",
+        "phrase": "the spoil",
+        "literal": "the-spoil",
+        "source": "H7998 (KJV/ESV/NASB: spoil)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תַּ֥עַשׂ",
+        "phrase": "and did",
+        "literal": "and-you-did",
+        "source": "H6213 (KJV/ESV/NASB: did/do)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/רַ֖ע",
+        "phrase": "evil",
+        "literal": "the-evil",
+        "source": "H7451 (KJV/ESV/NASB: evil)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/עֵינֵ֥י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "H5869 (KJV/ESV/NASB: sight/eyes)"
+      },
+      {
+        "position": 12,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV/NASB: LORD)"
+      }
+    ]
+  }
+]

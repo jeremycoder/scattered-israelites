@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And Saul said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּרוּכִ֥ים",
+        "phrase": "Blessed",
+        "literal": "blessed",
+        "source": "H1288 (KJV: Blessed be ye; ESV: May you be blessed; NASB: May you be blessed)"
+      },
+      {
+        "position": 4,
+        "surface": "אַתֶּ֖ם",
+        "phrase": "you",
+        "literal": "you-all",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 5,
+        "surface": "לַֽ/יהוָ֑ה",
+        "phrase": "by YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: by the LORD; NASB: of the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 7,
+        "surface": "חֲמַלְתֶּ֖ם",
+        "phrase": "you have had compassion",
+        "literal": "you-had-compassion",
+        "source": "H2550 (KJV: ye have compassion; ESV: you have had compassion; NASB: you have had compassion)"
+      },
+      {
+        "position": 8,
+        "surface": "עָלָֽ/י",
+        "phrase": "on me",
+        "literal": "on-me",
+        "source": "H5921 (KJV: on me; ESV: on me; NASB: on me)"
+      }
+    ]
+  }
+]

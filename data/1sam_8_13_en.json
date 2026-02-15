@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and-your",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'your'; ESV: 'your'; NASB: 'your')"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנוֹתֵי/כֶ֖ם",
+        "phrase": "daughters",
+        "literal": "daughters-of-you(pl)",
+        "source": "H1323 (KJV: 'daughters'; ESV: 'daughters'; NASB: 'daughters')"
+      },
+      {
+        "position": 3,
+        "surface": "יִקָּ֑ח",
+        "phrase": "he-will-take",
+        "literal": "he-will-take",
+        "source": "H3947 (KJV: 'he will take'; ESV: 'he will take'; NASB: 'He will take')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/רַקָּח֥וֹת",
+        "phrase": "perfumers",
+        "literal": "to-perfumers",
+        "source": "H7548 (KJV: 'confectionaries'; ESV: 'perfumers'; NASB: 'perfumers')"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/לְ/טַבָּח֖וֹת",
+        "phrase": "cooks",
+        "literal": "and-to-cooks",
+        "source": "H2879 (KJV: 'cooks'; ESV: 'cooks'; NASB: 'cooks')"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/אֹפֽוֹת",
+        "phrase": "bakers",
+        "literal": "and-to-bakers",
+        "source": "H644 (KJV: 'bakers'; ESV: 'bakers'; NASB: 'bakers')"
+      }
+    ]
+  }
+]

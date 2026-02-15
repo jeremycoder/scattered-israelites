@@ -1,0 +1,130 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֤ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "obj",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יְרֻבַּ֣עַל",
+        "phrase": "Jerubbaal",
+        "literal": "Jerubbaal",
+        "source": "H3378 (KJV: Jerubbaal; ESV: Jerubbaal; NASB: Jerubbaal)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּדָ֔ן",
+        "phrase": "Bedan",
+        "literal": "Bedan",
+        "source": "H917 (KJV: Bedan; ESV: Bedan; NASB: Bedan)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "יִפְתָּ֖ח",
+        "phrase": "Jephthah",
+        "literal": "Jephthah",
+        "source": "H3316 (KJV: Jephthah; ESV: Jephthah; NASB: Jephthah)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמוּאֵ֑ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יַּצֵּ֨ל",
+        "phrase": "and delivered",
+        "literal": "and-he-delivered",
+        "source": "H5337 (KJV: delivered; ESV: delivered; NASB: delivered)"
+      },
+      {
+        "position": 12,
+        "surface": "אֶתְ/כֶ֜ם",
+        "phrase": "you",
+        "literal": "obj-you(pl)",
+        "source": "H853 (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/יַּ֤ד",
+        "phrase": "from hand",
+        "literal": "from-hand",
+        "source": "H3027 (KJV: out of the hand; ESV: from the hand; NASB: from the hand)"
+      },
+      {
+        "position": 14,
+        "surface": "אֹֽיְבֵי/כֶם֙",
+        "phrase": "your enemies",
+        "literal": "enemies-your(pl)",
+        "source": "H341 (KJV: your enemies; ESV: your enemies; NASB: your enemies)"
+      },
+      {
+        "position": 15,
+        "surface": "מִ/סָּבִ֔יב",
+        "phrase": "from around",
+        "literal": "from-around",
+        "source": "H5439 (KJV: on every side; ESV: all around; NASB: all around)"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/תֵּשְׁב֖וּ",
+        "phrase": "and you dwelt",
+        "literal": "and-you(pl)-dwelt",
+        "source": "H3427 (KJV: ye dwelt; ESV: you lived; NASB: you lived)"
+      },
+      {
+        "position": 17,
+        "surface": "בֶּֽטַח",
+        "phrase": "in safety",
+        "literal": "in-safety",
+        "source": "H983 (KJV: in safety; ESV: in safety; NASB: in security)"
+      }
+    ]
+  }
+]

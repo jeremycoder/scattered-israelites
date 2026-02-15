@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 54,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקַּ֤ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947 (KJV: took; ESV: took; NASB: took)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "רֹ֣אשׁ",
+        "phrase": "head",
+        "literal": "head",
+        "source": "H7218 (KJV: head; ESV: head; NASB: head)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/פְּלִשְׁתִּ֔י",
+        "phrase": "the Philistine",
+        "literal": "the-Philistine",
+        "source": "H6430 (KJV: Philistine; ESV: Philistine; NASB: Philistine)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְבִאֵ֖/הוּ",
+        "phrase": "and brought it",
+        "literal": "and-he-brought-it",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 7,
+        "surface": "יְרוּשָׁלִָ֑ם",
+        "phrase": "to Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 9,
+        "surface": "כֵּלָ֖י/ו",
+        "phrase": "his weapons",
+        "literal": "weapons-his",
+        "source": "H3627 (KJV: his armour; ESV: his weapons; NASB: his weapons)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׂ֥ם",
+        "phrase": "he put",
+        "literal": "he-put",
+        "source": "H7760 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/אָהֳלֽ/וֹ",
+        "phrase": "in his tent",
+        "literal": "in-tent-his",
+        "source": "H168 (KJV: his tent; ESV: his tent; NASB: his own tent)"
+      }
+    ]
+  }
+]

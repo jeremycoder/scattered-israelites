@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֧שֶׂם",
+        "phrase": "and he put",
+        "literal": "and-he-put",
+        "source": "H7760; KJV 'laid up', ESV 'laid up', NASB 'disguised'"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV 'David', ESV 'David', NASB 'David'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "these",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/דְּבָרִ֥ים",
+        "phrase": "words",
+        "literal": "the-words",
+        "source": "H1697; KJV 'words', ESV 'words', NASB 'things'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אֵ֖לֶּה",
+        "phrase": "these",
+        "literal": "the-these",
+        "source": "H428; KJV 'these', ESV 'these', NASB 'these'"
+      },
+      {
+        "position": 6,
+        "surface": "בִּ/לְבָב֑/וֹ",
+        "phrase": "in his heart",
+        "literal": "in-heart-his",
+        "source": "H3824; KJV 'in his heart', ESV 'in his heart', NASB 'in his heart'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּרָ֣א",
+        "phrase": "and he was afraid",
+        "literal": "and-he-feared",
+        "source": "H3372; KJV 'was sore afraid', ESV 'was afraid', NASB 'feared'"
+      },
+      {
+        "position": 8,
+        "surface": "מְאֹ֔ד",
+        "phrase": "greatly",
+        "literal": "exceedingly",
+        "source": "H3966; KJV 'sore', ESV 'very much', NASB 'greatly'"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/פְּנֵ֖י",
+        "phrase": "of",
+        "literal": "from-face-of",
+        "source": "H6440; KJV 'of', ESV 'of', NASB 'of'"
+      },
+      {
+        "position": 10,
+        "surface": "אָכִ֥ישׁ",
+        "phrase": "Achish",
+        "literal": "Achish",
+        "source": "H397; KJV 'Achish', ESV 'Achish', NASB 'Achish'"
+      },
+      {
+        "position": 11,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "the king",
+        "literal": "king",
+        "source": "H4428; KJV 'the king', ESV 'the king', NASB 'the king'"
+      },
+      {
+        "position": 12,
+        "surface": "גַּֽת",
+        "phrase": "of Gath",
+        "literal": "Gath",
+        "source": "H1661; KJV 'of Gath', ESV 'of Gath', NASB 'of Gath'"
+      }
+    ]
+  }
+]

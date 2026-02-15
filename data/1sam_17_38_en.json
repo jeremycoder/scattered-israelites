@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּלְבֵּ֨שׁ",
+        "phrase": "And Saul clothed",
+        "literal": "and-he-caused-to-clothe",
+        "source": "H3847 (KJV: armed; ESV: clothed; NASB: clothed)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֤וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 5,
+        "surface": "מַדָּ֔י/ו",
+        "phrase": "his armor",
+        "literal": "armor-of-him",
+        "source": "H4055 (KJV: armour; ESV: armor; NASB: garments)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נָתַ֛ן",
+        "phrase": "and he put",
+        "literal": "and-he-gave",
+        "source": "H5414 (KJV: he put; ESV: he put; NASB: he put)"
+      },
+      {
+        "position": 7,
+        "surface": "ק֥וֹבַע",
+        "phrase": "a helmet",
+        "literal": "helmet",
+        "source": "H6959 (KJV: helmet; ESV: helmet; NASB: helmet)"
+      },
+      {
+        "position": 8,
+        "surface": "נְחֹ֖שֶׁת",
+        "phrase": "of bronze",
+        "literal": "bronze",
+        "source": "H5178 (KJV: brass; ESV: bronze; NASB: bronze)"
+      },
+      {
+        "position": 9,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 10,
+        "surface": "רֹאשׁ֑/וֹ",
+        "phrase": "his head",
+        "literal": "head-of-him",
+        "source": "H7218 (KJV: his head; ESV: his head; NASB: his head)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יַּלְבֵּ֥שׁ",
+        "phrase": "and he clothed",
+        "literal": "and-he-caused-to-clothe",
+        "source": "H3847 (KJV: he armed; ESV: he clothed; NASB: he clothed)"
+      },
+      {
+        "position": 12,
+        "surface": "אֹת֖/וֹ",
+        "phrase": "him",
+        "literal": "[direct object marker]-him",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 13,
+        "surface": "שִׁרְיֽוֹן",
+        "phrase": "a coat of mail",
+        "literal": "coat-of-mail",
+        "source": "H8302 (KJV: coat of mail; ESV: coat of mail; NASB: armor)"
+      }
+    ]
+  }
+]

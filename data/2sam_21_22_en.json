@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (not translated explicitly, marks object)"
+      },
+      {
+        "position": 2,
+        "surface": "אַרְבַּ֥עַת",
+        "phrase": "these four",
+        "literal": "four-these",
+        "source": "H702; KJV: 'These four'; ESV: 'These four'; NASB: 'These four'"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֛לֶּה",
+        "phrase": "these",
+        "literal": "these",
+        "source": "H428; KJV: 'These'; ESV: 'These'; NASB: 'These'"
+      },
+      {
+        "position": 4,
+        "surface": "יֻלְּד֥וּ",
+        "phrase": "were born",
+        "literal": "they-were-born",
+        "source": "H3205; KJV: 'were born'; ESV: 'were born'; NASB: 'were born'"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/הָ/רָפָ֖ה",
+        "phrase": "to the Rapha",
+        "literal": "to-the-Rapha",
+        "source": "H7497; KJV: 'to the giant' (Raphah); ESV: 'to the giant'; NASB: 'to the giant'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/גַ֑ת",
+        "phrase": "in Gath",
+        "literal": "in-Gath",
+        "source": "H1661; KJV/ESV/NASB: 'in Gath'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּפְּל֥וּ",
+        "phrase": "and they fell",
+        "literal": "and-they-fell",
+        "source": "H5307; KJV/ESV/NASB: 'and they fell'"
+      },
+      {
+        "position": 8,
+        "surface": "בְ/יַד",
+        "phrase": "by the hand of",
+        "literal": "in-hand-of",
+        "source": "H3027; KJV/ESV/NASB: 'by the hand of'"
+      },
+      {
+        "position": 9,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB: 'David'"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/בְ/יַ֥ד",
+        "phrase": "and by the hand of",
+        "literal": "and-in-hand-of",
+        "source": "H3027; KJV/ESV/NASB: 'and by the hand of'"
+      },
+      {
+        "position": 11,
+        "surface": "עֲבָדָֽי/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650; KJV/ESV/NASB: 'his servants'"
+      }
+    ]
+  }
+]

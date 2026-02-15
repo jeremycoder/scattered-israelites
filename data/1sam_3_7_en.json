@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/שְׁמוּאֵ֕ל",
+        "phrase": "Now Samuel",
+        "literal": "and-Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 2,
+        "surface": "טֶ֖רֶם",
+        "phrase": "before",
+        "literal": "before",
+        "source": "H2962 (KJV: did not yet; ESV: did not yet; NASB: did not yet)"
+      },
+      {
+        "position": 3,
+        "surface": "יָדַ֣ע",
+        "phrase": "he knew",
+        "literal": "he-knew",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/טֶ֛רֶם",
+        "phrase": "and before",
+        "literal": "and-before",
+        "source": "H2962 (KJV: neither...yet; ESV: nor...yet; NASB: nor...yet)"
+      },
+      {
+        "position": 7,
+        "surface": "יִגָּלֶ֥ה",
+        "phrase": "it was revealed",
+        "literal": "it-is-revealed",
+        "source": "H1540 (KJV: was revealed; ESV: been revealed; NASB: been revealed)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 9,
+        "surface": "דְּבַר",
+        "phrase": "the word",
+        "literal": "word-of",
+        "source": "H1697 (KJV: the word; ESV: the word; NASB: the word)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֕ה",
+        "phrase": "Now therefore",
+        "literal": "and-now",
+        "source": "H6258 (KJV: Now therefore; ESV: Now therefore; NASB: Now therefore)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׂ֥א",
+        "phrase": "pardon",
+        "literal": "bear",
+        "source": "H5375 (KJV: pardon; ESV: pardon; NASB: pardon)"
+      },
+      {
+        "position": 3,
+        "surface": "נָ֖א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (KJV: I pray thee; ESV: please; NASB: please)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "חַטָּאתִ֑/י",
+        "phrase": "my sin",
+        "literal": "sin-my",
+        "source": "H2403 (KJV: my sin; ESV: my sin; NASB: my sin)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שׁ֣וּב",
+        "phrase": "and return",
+        "literal": "and-return",
+        "source": "H7725 (KJV: and turn again; ESV: and return; NASB: and return)"
+      },
+      {
+        "position": 7,
+        "surface": "עִמִּ֔/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "H5973 (KJV: with me; ESV: with me; NASB: with me)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶֽשְׁתַּחֲוֶ֖ה",
+        "phrase": "that I may worship",
+        "literal": "and-I-will-bow-down",
+        "source": "H7812 (KJV: that I may worship; ESV: that I may bow; NASB: that I may worship)"
+      },
+      {
+        "position": 9,
+        "surface": "לַֽ/יהוָֽה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      }
+    ]
+  }
+]

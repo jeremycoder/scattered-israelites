@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתֵּ֤ן",
+        "phrase": "And Jonathan gave",
+        "literal": "and-he-gave",
+        "source": "H5414; KJV: gave, ESV: gave, NASB: gave"
+      },
+      {
+        "position": 2,
+        "surface": "יְהֽוֹנָתָן֙",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083; KJV: Jonathan, ESV: Jonathan, NASB: Jonathan"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "כֵּלָ֔י/ו",
+        "phrase": "weapons",
+        "literal": "implements-his",
+        "source": "H3627; KJV: artillery, ESV: weapons, NASB: weapons"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: unto, ESV: to, NASB: to"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נַּ֖עַר",
+        "phrase": "the lad",
+        "literal": "the-lad",
+        "source": "H5288; KJV: lad, ESV: boy, NASB: lad"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "ל֑/וֹ",
+        "phrase": "was with him",
+        "literal": "to-him",
+        "source": "''; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: said, ESV: said, NASB: said"
+      },
+      {
+        "position": 10,
+        "surface": "ל֔/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "''; KJV: unto him, ESV: to him, NASB: to him"
+      },
+      {
+        "position": 11,
+        "surface": "לֵ֖ךְ",
+        "phrase": "Go",
+        "literal": "go",
+        "source": "H3212; KJV: Go, ESV: Go, NASB: Go"
+      },
+      {
+        "position": 12,
+        "surface": "הָבֵ֥יא",
+        "phrase": "bring",
+        "literal": "bring",
+        "source": "H935; KJV: carry, ESV: carry, NASB: bring"
+      },
+      {
+        "position": 13,
+        "surface": "הָ/עִֽיר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892; KJV: city, ESV: city, NASB: city"
+      }
+    ]
+  }
+]

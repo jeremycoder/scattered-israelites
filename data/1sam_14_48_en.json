@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "And he did",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: gathered an host; ESV: did valiantly; NASB: acted valiantly)"
+      },
+      {
+        "position": 2,
+        "surface": "חַ֔יִל",
+        "phrase": "valiantly",
+        "literal": "strength",
+        "source": "H2428 (KJV: an host; ESV: valiantly; NASB: valiantly)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יַּ֖ךְ",
+        "phrase": "and struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (KJV: smote; ESV: struck; NASB: defeated)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "עֲמָלֵ֑ק",
+        "phrase": "Amalek",
+        "literal": "Amalek",
+        "source": "H6002 (KJV: Amalekites; ESV: Amalekites; NASB: Amalekites)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּצֵּ֥ל",
+        "phrase": "and delivered",
+        "literal": "and-he-delivered",
+        "source": "H5337 (KJV: delivered; ESV: delivered; NASB: delivered)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/יַּ֥ד",
+        "phrase": "from-hand",
+        "literal": "from-hand-of",
+        "source": "H3027 (KJV: out of the hands; ESV: out of the hands; NASB: from the hands)"
+      },
+      {
+        "position": 10,
+        "surface": "שֹׁסֵֽ/הוּ",
+        "phrase": "those who plundered it",
+        "literal": "plunderer-his",
+        "source": "H8154 (KJV: them that spoiled them; ESV: those who plundered them; NASB: those who plundered them)"
+      }
+    ]
+  }
+]

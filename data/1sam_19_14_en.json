@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֥ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁאוּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "מַלְאָכִ֖ים",
+        "phrase": "messengers",
+        "literal": "messengers",
+        "source": "H4397 (KJV: messengers; ESV: men; NASB: messengers)"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/קַ֣חַת",
+        "phrase": "to take",
+        "literal": "to-take",
+        "source": "H3947 (KJV: to take; ESV: to capture; NASB: to take)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/תֹּ֖אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: she said; ESV: she said; NASB: she said)"
+      },
+      {
+        "position": 8,
+        "surface": "חֹלֶ֥ה",
+        "phrase": "sick",
+        "literal": "sick",
+        "source": "H2470 (KJV: sick; ESV: ill; NASB: sick)"
+      },
+      {
+        "position": 9,
+        "surface": "הֽוּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: he)"
+      }
+    ]
+  }
+]

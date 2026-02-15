@@ -1,0 +1,102 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣ךְ",
+        "phrase": "And David struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (KJV: smote; ESV: defeated; NASB: defeated)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הֲדַדְעֶ֥זֶר",
+        "phrase": "Hadadezer",
+        "literal": "Hadadezer",
+        "source": "H1909 (KJV: Hadadezer; ESV: Hadadezer; NASB: Hadadezer)"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son of; ESV: son of; NASB: son of)"
+      },
+      {
+        "position": 6,
+        "surface": "רְחֹ֖ב",
+        "phrase": "Rehob",
+        "literal": "Rehob",
+        "source": "H7340 (KJV: Rehob; ESV: Rehob; NASB: Rehob)"
+      },
+      {
+        "position": 7,
+        "surface": "מֶ֣לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 8,
+        "surface": "צוֹבָ֑ה",
+        "phrase": "of Zobah",
+        "literal": "Zobah",
+        "source": "H6678 (KJV: Zobah; ESV: Zobah; NASB: Zobah)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/לֶכְתּ֕/וֹ",
+        "phrase": "as he was going",
+        "literal": "in-going-his",
+        "source": "H3212 (KJV: as he went; ESV: as he went; NASB: when he went)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/הָשִׁ֥יב",
+        "phrase": "to restore",
+        "literal": "to-return",
+        "source": "H7725 (KJV: recover; ESV: restore; NASB: restore)"
+      },
+      {
+        "position": 11,
+        "surface": "יָד֖/וֹ",
+        "phrase": "his power",
+        "literal": "hand-his",
+        "source": "H3027 (KJV: his border; ESV: his power; NASB: his power)"
+      },
+      {
+        "position": 12,
+        "surface": "בִּֽ/נְהַר",
+        "phrase": "at the river",
+        "literal": "in-river",
+        "source": "H5104 (KJV: at the river; ESV: at the river; NASB: at the river)"
+      },
+      {
+        "position": 13,
+        "surface": "פְּרָֽת",
+        "phrase": "Euphrates",
+        "literal": "Euphrates",
+        "source": "H6578 (KJV: Euphrates; ESV: Euphrates; NASB: Euphrates)"
+      }
+    ]
+  }
+]

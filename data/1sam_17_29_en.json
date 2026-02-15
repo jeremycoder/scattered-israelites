@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And David said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "מֶ֥ה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "H4100 (KJV: What; ESV: What; NASB: What)"
+      },
+      {
+        "position": 4,
+        "surface": "עָשִׂ֖יתִי",
+        "phrase": "have I done",
+        "literal": "I-have-done",
+        "source": "H6213 (KJV: have I done; ESV: have I done; NASB: have I done)"
+      },
+      {
+        "position": 5,
+        "surface": "עָ֑תָּה",
+        "phrase": "now",
+        "literal": "now",
+        "source": "H6258 (KJV: now; ESV: now; NASB: now)"
+      },
+      {
+        "position": 6,
+        "surface": "הֲ/ל֖וֹא",
+        "phrase": "Is there not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 7,
+        "surface": "דָּבָ֥ר",
+        "phrase": "a cause/a word",
+        "literal": "word/matter",
+        "source": "H1697 (KJV: cause; ESV: word; NASB: word)"
+      },
+      {
+        "position": 8,
+        "surface": "הֽוּא",
+        "phrase": "it",
+        "literal": "it-he",
+        "source": "H1931 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 6,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֧י",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "H1961 (KJV: 'was'; ESV: 'was'; NASB: 'was')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲרוֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: 'ark'; ESV: 'ark'; NASB: 'ark')"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֛ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      },
+      {
+        "position": 4,
+        "surface": "בִּ/שְׂדֵ֥ה",
+        "phrase": "in the field of",
+        "literal": "in-field_of",
+        "source": "H7704 (KJV: 'country'; ESV: 'country'; NASB: 'field')"
+      },
+      {
+        "position": 5,
+        "surface": "פְלִשְׁתִּ֖ים",
+        "phrase": "the Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: 'Philistines'; ESV: 'Philistines'; NASB: 'Philistines')"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁבְעָ֥ה",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "H7651 (KJV: 'seven'; ESV: 'seven'; NASB: 'seven')"
+      },
+      {
+        "position": 7,
+        "surface": "חֳדָשִֽׁים",
+        "phrase": "months",
+        "literal": "months",
+        "source": "H2320 (KJV: 'months'; ESV: 'months'; NASB: 'months')"
+      }
+    ]
+  }
+]

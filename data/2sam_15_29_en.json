@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֨שֶׁב",
+        "phrase": "and-returned",
+        "literal": "and-he-returned",
+        "source": "H7725 (KJV: returned; ESV: returned; NASB: returned)"
+      },
+      {
+        "position": 2,
+        "surface": "צָד֧וֹק",
+        "phrase": "Zadok",
+        "literal": "Zadok",
+        "source": "H6659 (KJV: Zadok; ESV: Zadok; NASB: Zadok)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶבְיָתָ֛ר",
+        "phrase": "and-Abiathar",
+        "literal": "and-Abiathar",
+        "source": "H54 (KJV: Abiathar; ESV: Abiathar; NASB: Abiathar)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct-object-marker)",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "אֲר֥וֹן",
+        "phrase": "the-ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "of-God",
+        "literal": "the-Gods",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      },
+      {
+        "position": 7,
+        "surface": "יְרוּשָׁלִָ֑ם",
+        "phrase": "to-Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֵּשְׁב֖וּ",
+        "phrase": "and-they-sat",
+        "literal": "and-they-sat",
+        "source": "H3427 (KJV: sat; ESV: stayed; NASB: stayed)"
+      },
+      {
+        "position": 9,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and Ahinoam",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'also'; ESV: 'also'; NASB: 'also')"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחִינֹ֛עַם",
+        "phrase": "Ahinoam",
+        "literal": "Ahinoam",
+        "source": "H293 (KJV: 'Ahinoam'; ESV: 'Ahinoam'; NASB: 'Ahinoam')"
+      },
+      {
+        "position": 3,
+        "surface": "לָקַ֥ח",
+        "phrase": "David took",
+        "literal": "he-took",
+        "source": "H3947 (KJV: 'took'; ESV: 'took'; NASB: 'took')"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: 'David'; ESV: 'David'; NASB: 'David')"
+      },
+      {
+        "position": 5,
+        "surface": "מִֽ/יִּזְרְעֶ֑אל",
+        "phrase": "from Jezreel",
+        "literal": "from-Jezreel",
+        "source": "H3157 (KJV: 'of Jezreel'; ESV: 'of Jezreel'; NASB: 'of Jezreel')"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּהְיֶ֛יןָ",
+        "phrase": "and they were",
+        "literal": "and-they-were",
+        "source": "H1961 (KJV: 'they were'; ESV: 'they both became'; NASB: 'they became')"
+      },
+      {
+        "position": 7,
+        "surface": "גַּֽם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: 'also'; ESV: 'both'; NASB: 'both')"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁתֵּי/הֶ֥ן",
+        "phrase": "both of them",
+        "literal": "two-of-them",
+        "source": "H8147 (KJV: 'both of them'; ESV: 'both'; NASB: 'both')"
+      },
+      {
+        "position": 9,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: 'his'; ESV: 'his'; NASB: 'his')"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/נָשִֽׁים",
+        "phrase": "as wives",
+        "literal": "to-wives",
+        "source": "H802 (KJV: 'wives'; ESV: 'wives'; NASB: 'wives')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּצֵ֥א",
+        "phrase": "And He brought",
+        "literal": "and-he-brought-out",
+        "source": "H3318 (KJV: brought...forth; ESV/NASB: brought...out)"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/מֶּרְחָ֖ב",
+        "phrase": "into a broad place",
+        "literal": "to-the-broad.place",
+        "source": "H4800 (KJV: large place; ESV: broad place; NASB: broad place)"
+      },
+      {
+        "position": 3,
+        "surface": "אֹתִ֑/י",
+        "phrase": "me",
+        "literal": "[direct object marker]-me",
+        "source": "H853 (KJV/ESV/NASB: me)"
+      },
+      {
+        "position": 4,
+        "surface": "יְחַלְּצֵ֖/נִי",
+        "phrase": "He delivered",
+        "literal": "he-delivered-me",
+        "source": "H2502 (KJV: delivered; ESV: rescued; NASB: rescued)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּי",
+        "phrase": "because",
+        "literal": "for-that",
+        "source": "H3588 (KJV/ESV/NASB: because)"
+      },
+      {
+        "position": 6,
+        "surface": "חָ֥פֵֽץ",
+        "phrase": "He delighted",
+        "literal": "he-delighted",
+        "source": "H2654 (KJV: delighted; ESV/NASB: delighted)"
+      },
+      {
+        "position": 7,
+        "surface": "בִּֽ/י",
+        "phrase": "in me",
+        "literal": "in-me",
+        "source": " (KJV/ESV/NASB: in me)"
+      }
+    ]
+  }
+]

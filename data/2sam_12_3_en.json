@@ -1,0 +1,186 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/לָ/רָ֣שׁ",
+        "phrase": "but to-the-poor",
+        "literal": "and-to-the-poor",
+        "source": "H7326 (KJV: poor; ESV: poor; NASB: poor)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵֽין",
+        "phrase": "there-was-not",
+        "literal": "there-is-not",
+        "source": "H369 (KJV: nothing; ESV: nothing; NASB: nothing)"
+      },
+      {
+        "position": 3,
+        "surface": "כֹּ֗ל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: had nothing; ESV: had nothing; NASB: had nothing)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּי֩",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: save; ESV: but; NASB: except)"
+      },
+      {
+        "position": 5,
+        "surface": "אִם",
+        "phrase": "except",
+        "literal": "if-not",
+        "source": "H518 (KJV: save; ESV: but; NASB: except)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּבְשָׂ֨ה",
+        "phrase": "ewe-lamb",
+        "literal": "ewe-lamb",
+        "source": "H3535 (KJV: ewe lamb; ESV: ewe lamb; NASB: ewe lamb)"
+      },
+      {
+        "position": 7,
+        "surface": "אַחַ֤ת",
+        "phrase": "one",
+        "literal": "one-F",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 8,
+        "surface": "קְטַנָּה֙",
+        "phrase": "little",
+        "literal": "small-F",
+        "source": "H6996 (KJV: little; ESV: little; NASB: little)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 10,
+        "surface": "קָנָ֔ה",
+        "phrase": "he-bought",
+        "literal": "he-acquired",
+        "source": "H7069 (KJV: bought; ESV: bought; NASB: bought)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/יְחַיֶּ֕/הָ",
+        "phrase": "and-he-nourished-it",
+        "literal": "and-he-caused-to-live-it",
+        "source": "H2421 (KJV: nourished; ESV: brought it up; NASB: nourished)"
+      },
+      {
+        "position": 12,
+        "surface": "וַ/תִּגְדַּ֥ל",
+        "phrase": "and-it-grew-up",
+        "literal": "and-it-grew-up",
+        "source": "H1431 (implied in context; KJV: grew up; ESV: grew up; NASB: grew up)"
+      },
+      {
+        "position": 13,
+        "surface": "עִמּ֛/וֹ",
+        "phrase": "with-him",
+        "literal": "with-him",
+        "source": "H5973 (KJV: with him; ESV: with him; NASB: with him)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/עִם",
+        "phrase": "and-with",
+        "literal": "and-with",
+        "source": "H5973 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 15,
+        "surface": "בָּנָ֖י/ו",
+        "phrase": "his-children",
+        "literal": "his-sons-his",
+        "source": "H1121 (KJV: children; ESV: children; NASB: children)"
+      },
+      {
+        "position": 16,
+        "surface": "יַחְדָּ֑ו",
+        "phrase": "together",
+        "literal": "together",
+        "source": "H3162 (KJV: together; ESV: together; NASB: together)"
+      },
+      {
+        "position": 17,
+        "surface": "מִ/פִּתּ֨/וֹ",
+        "phrase": "from-his-morsel",
+        "literal": "from-morsel-his",
+        "source": "H6595 (KJV: meat; ESV: morsel; NASB: food)"
+      },
+      {
+        "position": 18,
+        "surface": "תֹאכַ֜ל",
+        "phrase": "it-eats",
+        "literal": "it-eats",
+        "source": "H398 (KJV: eat; ESV: eat; NASB: eat)"
+      },
+      {
+        "position": 19,
+        "surface": "וּ/מִ/כֹּס֤/וֹ",
+        "phrase": "and-from-his-cup",
+        "literal": "and-from-cup-his",
+        "source": "H3563 (KJV: cup; ESV: cup; NASB: cup)"
+      },
+      {
+        "position": 20,
+        "surface": "תִשְׁתֶּה֙",
+        "phrase": "it-drinks",
+        "literal": "it-drinks",
+        "source": "H8354 (KJV: drank; ESV: drink; NASB: drink)"
+      },
+      {
+        "position": 21,
+        "surface": "וּ/בְ/חֵיק֣/וֹ",
+        "phrase": "and-in-his-bosom",
+        "literal": "and-in-bosom-his",
+        "source": "H2436 (KJV: bosom; ESV: arms; NASB: bosom)"
+      },
+      {
+        "position": 22,
+        "surface": "תִשְׁכָּ֔ב",
+        "phrase": "it-lies",
+        "literal": "it-lies-down",
+        "source": "H7901 (KJV: lay; ESV: lie; NASB: lay)"
+      },
+      {
+        "position": 23,
+        "surface": "וַ/תְּהִי",
+        "phrase": "and-it-was",
+        "literal": "and-she-became",
+        "source": "H1961 (KJV: was; ESV: was; NASB: was)"
+      },
+      {
+        "position": 24,
+        "surface": "ל֖/וֹ",
+        "phrase": "to-him",
+        "literal": "to-him",
+        "source": " (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 25,
+        "surface": "כְּ/בַֽת",
+        "phrase": "like-a-daughter",
+        "literal": "like-daughter",
+        "source": "H1323 (KJV: daughter; ESV: daughter; NASB: daughter)"
+      }
+    ]
+  }
+]

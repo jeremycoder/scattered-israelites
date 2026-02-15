@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "And now",
+        "literal": "and-now",
+        "source": "H6258 (KJV: 'Now therefore'; ESV/NASB: 'Now therefore')"
+      },
+      {
+        "position": 2,
+        "surface": "הִנֵּ֥ה",
+        "phrase": "behold",
+        "literal": "behold",
+        "source": "H2009 (KJV/ESV/NASB: 'behold')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מֶּ֛לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV/ESV/NASB: 'the king')"
+      },
+      {
+        "position": 4,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "H834 (KJV/ESV/NASB: 'whom')"
+      },
+      {
+        "position": 5,
+        "surface": "בְּחַרְתֶּ֖ם",
+        "phrase": "you have chosen",
+        "literal": "you(pl)-have-chosen",
+        "source": "H977 (KJV: 'ye have chosen'; ESV/NASB: 'you have chosen')"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "whom",
+        "literal": "which",
+        "source": "H834 (KJV/ESV/NASB: 'whom')"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁאֶלְתֶּ֑ם",
+        "phrase": "you have asked for",
+        "literal": "you(pl)-have-asked",
+        "source": "H7592 (KJV: 'ye have asked'; ESV/NASB: 'you asked')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הִנֵּ֨ה",
+        "phrase": "and behold",
+        "literal": "and-behold",
+        "source": "H2009 (KJV/ESV/NASB: 'and behold')"
+      },
+      {
+        "position": 9,
+        "surface": "נָתַ֧ן",
+        "phrase": "has given",
+        "literal": "has-given",
+        "source": "H5414 (KJV/ESV/NASB: 'hath set'/'has set')"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV/ESV/NASB: 'the LORD')"
+      },
+      {
+        "position": 11,
+        "surface": "עֲלֵי/כֶ֖ם",
+        "phrase": "over you",
+        "literal": "upon-you(pl)",
+        "source": "H5921 (KJV/ESV/NASB: 'over you')"
+      },
+      {
+        "position": 12,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "a king",
+        "literal": "king",
+        "source": "H4428 (KJV/ESV/NASB: 'a king')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "בְ/כָ֖ה",
+        "phrase": "by You",
+        "literal": "in-you",
+        "source": " (KJV: by thee; ESV: by you; NASB: by You)"
+      },
+      {
+        "position": 3,
+        "surface": "אָר֣וּץ",
+        "phrase": "I can run",
+        "literal": "I-will-run",
+        "source": "H7323 (KJV: I have run; ESV: I can run; NASB: I can run)"
+      },
+      {
+        "position": 4,
+        "surface": "גְּד֑וּד",
+        "phrase": "upon a troop",
+        "literal": "troop",
+        "source": "H1416 (KJV: a troop; ESV: a troop; NASB: a troop)"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ/אלֹהַ֖/י",
+        "phrase": "by my God",
+        "literal": "in-God-my",
+        "source": "H430 (KJV: my God; ESV: my God; NASB: my God)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲדַלֶּג",
+        "phrase": "I can leap",
+        "literal": "I-will-leap-over",
+        "source": "H1801 (KJV: I have leaped; ESV: I can leap; NASB: I can leap)"
+      },
+      {
+        "position": 7,
+        "surface": "שֽׁוּר",
+        "phrase": "over a wall",
+        "literal": "wall",
+        "source": "H7791 (KJV: a wall; ESV: a wall; NASB: a wall)"
+      }
+    ]
+  }
+]

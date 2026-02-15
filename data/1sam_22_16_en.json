@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And the king said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 3,
+        "surface": "מ֥וֹת",
+        "phrase": "surely die",
+        "literal": "dying",
+        "source": "H4191 (KJV: shalt surely die; ESV: shall surely die; NASB: shall surely die)"
+      },
+      {
+        "position": 4,
+        "surface": "תָּמ֖וּת",
+        "phrase": "you shall die",
+        "literal": "you-shall-die",
+        "source": "H4191 (KJV: die; ESV: die; NASB: die)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲחִימֶ֑לֶךְ",
+        "phrase": "Ahimelech",
+        "literal": "Ahimelech",
+        "source": "H288 (KJV: Ahimelech; ESV: Ahimelech; NASB: Ahimelech)"
+      },
+      {
+        "position": 6,
+        "surface": "אַתָּ֖ה",
+        "phrase": "you",
+        "literal": "you",
+        "source": "H859 (KJV: thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: and all; ESV: and all; NASB: and all)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: father's house; NASB: father's household)"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִֽי/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "H1 (KJV: thy father's; ESV: your father's; NASB: your father's)"
+      }
+    ]
+  }
+]

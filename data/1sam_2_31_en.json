@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִנֵּה֙",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2009; KJV: Behold, ESV: Behold, NASB: Behold"
+      },
+      {
+        "position": 2,
+        "surface": "יָמִ֣ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117; KJV: days, ESV: days, NASB: days"
+      },
+      {
+        "position": 3,
+        "surface": "בָּאִ֔ים",
+        "phrase": "are coming",
+        "literal": "coming",
+        "source": "H935; KJV: come, ESV: are coming, NASB: are coming"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/גָֽדַעְתִּי֙",
+        "phrase": "and I will cut off",
+        "literal": "and-I-will-cut-off",
+        "source": "H1438; KJV: I will cut off, ESV: I will cut off, NASB: I will break"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[dom]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "זְרֹ֣עֲ/ךָ֔",
+        "phrase": "your arm",
+        "literal": "arm-your",
+        "source": "H2220; KJV: thine arm, ESV: your strength, NASB: your strength"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[dom]",
+        "source": "H853; KJV: and, ESV: and, NASB: and"
+      },
+      {
+        "position": 8,
+        "surface": "זְרֹ֖עַ",
+        "phrase": "the arm",
+        "literal": "arm",
+        "source": "H2220; KJV: the arm, ESV: the strength, NASB: the strength"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֣ית",
+        "phrase": "of house",
+        "literal": "house",
+        "source": "H1004; KJV: house, ESV: house, NASB: house"
+      },
+      {
+        "position": 10,
+        "surface": "אָבִ֑י/ךָ",
+        "phrase": "of your father",
+        "literal": "father-your",
+        "source": "H1; KJV: thy father's, ESV: your father's, NASB: your father's"
+      },
+      {
+        "position": 11,
+        "surface": "מִֽ/הְי֥וֹת",
+        "phrase": "from being",
+        "literal": "from-being",
+        "source": "H1961; KJV: that there shall not be, ESV: so that there will not be, NASB: so that there will not be"
+      },
+      {
+        "position": 12,
+        "surface": "זָקֵ֖ן",
+        "phrase": "an old man",
+        "literal": "old-man",
+        "source": "H2205; KJV: an old man, ESV: an old man, NASB: an old man"
+      },
+      {
+        "position": 13,
+        "surface": "בְּ/בֵיתֶֽ/ךָ",
+        "phrase": "in your house",
+        "literal": "in-house-your",
+        "source": "H1004; KJV: in thine house, ESV: in your house, NASB: in your house"
+      }
+    ]
+  }
+]

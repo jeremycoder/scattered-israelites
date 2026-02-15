@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "And [the]",
+        "literal": "and-OBJ",
+        "source": "H853; KJV 'And the', ESV 'You save a', NASB 'And You deliver'"
+      },
+      {
+        "position": 2,
+        "surface": "עַ֥ם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "H5971; KJV 'people', ESV 'humble people', NASB 'afflicted people'"
+      },
+      {
+        "position": 3,
+        "surface": "עָנִ֖י",
+        "phrase": "afflicted",
+        "literal": "afflicted",
+        "source": "H6041; KJV 'afflicted', ESV 'humble', NASB 'afflicted'"
+      },
+      {
+        "position": 4,
+        "surface": "תּוֹשִׁ֑יעַ",
+        "phrase": "you save",
+        "literal": "you-will-save",
+        "source": "H3467; KJV 'thou wilt save', ESV 'you save', NASB 'You will save'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/עֵינֶ֖י/ךָ",
+        "phrase": "But your eyes",
+        "literal": "and-eyes-your",
+        "source": "H5869; KJV 'but thine eyes', ESV 'but your eyes', NASB 'But Your eyes'"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV 'upon', ESV 'on', NASB 'on'"
+      },
+      {
+        "position": 7,
+        "surface": "רָמִ֥ים",
+        "phrase": "haughty",
+        "literal": "high-ones",
+        "source": "H7311; KJV 'haughty', ESV 'haughty', NASB 'haughty'"
+      },
+      {
+        "position": 8,
+        "surface": "תַּשְׁפִּֽיל",
+        "phrase": "you will humble",
+        "literal": "you-will-lower",
+        "source": "H8213; KJV 'abase', ESV 'abase', NASB 'You will humble'"
+      }
+    ]
+  }
+]

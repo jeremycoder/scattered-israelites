@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "And Saul said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "הַגִּ֣שׁוּ",
+        "phrase": "Bring",
+        "literal": "cause-to-approach-2mp",
+        "source": "H5066 (KJV: Bring; ESV: Bring; NASB: Bring)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלַ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: to me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עֹלָ֖ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascension-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הַ/שְּׁלָמִ֑ים",
+        "phrase": "and the peace offerings",
+        "literal": "and-the-peace-offerings",
+        "source": "H8002 (KJV: peace offerings; ESV: offerings of well-being; NASB: peace offerings)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּ֖עַל",
+        "phrase": "And he offered",
+        "literal": "and-he-caused-to-ascend",
+        "source": "H5927 (KJV: offered; ESV: offered; NASB: offered)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עֹלָֽה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascension-offering",
+        "source": "H5930 (KJV: burnt offering; ESV: burnt offering; NASB: burnt offering)"
+      }
+    ]
+  }
+]

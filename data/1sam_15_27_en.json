@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּסֹּ֥ב",
+        "phrase": "And Samuel turned",
+        "literal": "and-he-turned",
+        "source": "H5437 (KJV: turned about; ESV: turned to leave; NASB: turned around)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֖ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV/ESV/NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/לֶ֑כֶת",
+        "phrase": "to go",
+        "literal": "to-go",
+        "source": "H3212 (KJV: to go away; ESV: to go; NASB: to go away)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּחֲזֵ֥ק",
+        "phrase": "and he seized",
+        "literal": "and-he-seized",
+        "source": "H2388 (KJV: laid hold; ESV: caught hold; NASB: seized)"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/כְנַף",
+        "phrase": "on the corner",
+        "literal": "in-wing-of",
+        "source": "H3671 (KJV: skirt; ESV: hem; NASB: edge)"
+      },
+      {
+        "position": 6,
+        "surface": "מְעִיל֖/וֹ",
+        "phrase": "of his robe",
+        "literal": "robe-his",
+        "source": "H4598 (KJV: mantle; ESV: robe; NASB: robe)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּקָּרַֽע",
+        "phrase": "and it tore",
+        "literal": "and-it-was-torn",
+        "source": "H7167 (KJV/ESV/NASB: rent/tore)"
+      }
+    ]
+  }
+]

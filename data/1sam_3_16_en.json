@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֤א",
+        "phrase": "called",
+        "literal": "and-he-called",
+        "source": "H7121 (KJV: called; ESV: called; NASB: called)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵלִי֙",
+        "phrase": "Eli",
+        "literal": "Eli",
+        "source": "H5941 (KJV: Eli; ESV: Eli; NASB: Eli)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁמוּאֵ֔ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and-said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: and said; ESV: and said; NASB: and said)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁמוּאֵ֣ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּנִ֑/י",
+        "phrase": "my son",
+        "literal": "son-my",
+        "source": "H1121 (KJV: my son; ESV: my son; NASB: my son)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and-he-said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And he answered; ESV: And he said; NASB: And he said)"
+      },
+      {
+        "position": 9,
+        "surface": "הִנֵּֽ/נִי",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "H2005 (KJV: Here am I; ESV: Here I am; NASB: Here I am)"
+      }
+    ]
+  }
+]

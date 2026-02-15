@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְקֹנֵ֣ן",
+        "phrase": "and-lamented",
+        "literal": "and-he-lamented",
+        "source": "H6969 (KJV: lamented; ESV: lamented; NASB: chanted)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/קִּינָ֖ה",
+        "phrase": "the-lament",
+        "literal": "the-lament",
+        "source": "H7015 (KJV: lamentation; ESV: lamentation; NASB: lament)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/זֹּ֑את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/עַל",
+        "phrase": "and-over",
+        "literal": "and-upon",
+        "source": "H5921 (KJV: and over; ESV: and over; NASB: and over)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוֹנָתָ֥ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּנֽ/וֹ",
+        "phrase": "his-son",
+        "literal": "son-his",
+        "source": "H1121 (KJV: his son; ESV: his son; NASB: his son)"
+      }
+    ]
+  }
+]

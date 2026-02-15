@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְכַל֙",
+        "phrase": "And he finished",
+        "literal": "and-he-completed",
+        "source": "H3615 (KJV: made an end; ESV: finished; NASB: finished)"
+      },
+      {
+        "position": 2,
+        "surface": "מֵֽ/הִתְנַבּ֔וֹת",
+        "phrase": "from prophesying",
+        "literal": "from-his-prophesying",
+        "source": "H5012 (KJV: of prophesying; ESV: prophesying; NASB: prophesying)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּבֹ֖א",
+        "phrase": "and he came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: he came; ESV: he came; NASB: he came)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בָּמָֽה",
+        "phrase": "to the high place",
+        "literal": "to-the-high-place",
+        "source": "H1116 (KJV: to the high place; ESV: to the high place; NASB: to the high place)"
+      }
+    ]
+  }
+]

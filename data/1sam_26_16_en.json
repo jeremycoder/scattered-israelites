@@ -1,0 +1,228 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "ט֞וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "H2896 (KJV: good; ESV: good; NASB: good)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דָּבָ֣ר",
+        "phrase": "the thing",
+        "literal": "the-word",
+        "source": "H1697 (KJV: thing; ESV: thing; NASB: thing)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זֶּה֮",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 6,
+        "surface": "עָשִׂיתָ֒",
+        "phrase": "you have done",
+        "literal": "you-have-done",
+        "source": "H6213 (KJV: thou hast done; ESV: you have done; NASB: you have done)"
+      },
+      {
+        "position": 7,
+        "surface": "חַי",
+        "phrase": "lives",
+        "literal": "life",
+        "source": "H2416 (KJV: liveth; ESV: lives; NASB: lives)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֗ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ֤י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: because; ESV: because; NASB: because)"
+      },
+      {
+        "position": 10,
+        "surface": "בְנֵי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: worthy to die [implied]; ESV: deserve to die [implied]; NASB: deserve to die [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "מָ֨וֶת֙",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4194 (KJV: die; ESV: die; NASB: die)"
+      },
+      {
+        "position": 12,
+        "surface": "אַתֶּ֔ם",
+        "phrase": "you",
+        "literal": "you(pl)",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: because; ESV: because; NASB: because)"
+      },
+      {
+        "position": 14,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 15,
+        "surface": "שְׁמַרְתֶּ֛ם",
+        "phrase": "you kept watch",
+        "literal": "you-have-kept",
+        "source": "H8104 (KJV: kept; ESV: guarded; NASB: kept watch)"
+      },
+      {
+        "position": 16,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 17,
+        "surface": "אֲדֹנֵי/כֶ֖ם",
+        "phrase": "your lord",
+        "literal": "lord-your(pl)",
+        "source": "H113 (KJV: lord; ESV: lord; NASB: master)"
+      },
+      {
+        "position": 18,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 19,
+        "surface": "מְשִׁ֣יחַ",
+        "phrase": "anointed",
+        "literal": "anointed-one",
+        "source": "H4899 (KJV: anointed; ESV: anointed; NASB: anointed)"
+      },
+      {
+        "position": 20,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: LORD's; ESV: LORD's; NASB: LORD's)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/עַתָּ֣ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "H6258 (KJV: now; ESV: now; NASB: now)"
+      },
+      {
+        "position": 22,
+        "surface": "רְאֵ֗ה",
+        "phrase": "see",
+        "literal": "see!",
+        "source": "H7200 (KJV: see; ESV: see; NASB: see)"
+      },
+      {
+        "position": 23,
+        "surface": "אֵֽי",
+        "phrase": "where",
+        "literal": "where",
+        "source": "H335 (KJV: where; ESV: where; NASB: where)"
+      },
+      {
+        "position": 24,
+        "surface": "חֲנִ֥ית",
+        "phrase": "spear",
+        "literal": "spear",
+        "source": "H2595 (KJV: spear; ESV: spear; NASB: spear)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/מֶּ֛לֶךְ",
+        "phrase": "of the king",
+        "literal": "the-of-the-king",
+        "source": "H4428 (KJV: king's; ESV: king's; NASB: king's)"
+      },
+      {
+        "position": 26,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 27,
+        "surface": "צַפַּ֥חַת",
+        "phrase": "jug",
+        "literal": "jug",
+        "source": "H6835 (KJV: cruse; ESV: jug; NASB: jug)"
+      },
+      {
+        "position": 28,
+        "surface": "הַ/מַּ֖יִם",
+        "phrase": "of the water",
+        "literal": "the-of-water",
+        "source": "H4325 (KJV: water; ESV: water; NASB: water)"
+      },
+      {
+        "position": 29,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "that-which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 30,
+        "surface": "מראשת/ו",
+        "phrase": "at his head",
+        "literal": "at-head-his",
+        "source": "H4763 (KJV: head; ESV: head; NASB: head)"
+      },
+      {
+        "position": 31,
+        "surface": "מְרַאֲשֹׁתָֽי/ו",
+        "phrase": "at his head",
+        "literal": "at-heads-his",
+        "source": "H4763 (KJV: head; ESV: head; NASB: head)"
+      }
+    ]
+  }
+]

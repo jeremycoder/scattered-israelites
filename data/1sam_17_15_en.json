@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/דָוִ֛ד",
+        "phrase": "but David",
+        "literal": "and-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 2,
+        "surface": "הֹלֵ֥ךְ",
+        "phrase": "went",
+        "literal": "going",
+        "source": "H1980 (KJV: went; ESV: went; NASB: was going)"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/שָׁ֖ב",
+        "phrase": "and returned",
+        "literal": "and-returning",
+        "source": "H7725 (KJV: returned; ESV: back and forth; NASB: and returning)"
+      },
+      {
+        "position": 4,
+        "surface": "מֵ/עַ֣ל",
+        "phrase": "from",
+        "literal": "from-upon",
+        "source": "H5921 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁא֑וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/רְע֛וֹת",
+        "phrase": "to tend",
+        "literal": "to-tend",
+        "source": "H7462 (KJV: feed; ESV: feed; NASB: tend)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "צֹ֥אן",
+        "phrase": "the flock",
+        "literal": "flock",
+        "source": "H6629 (KJV: sheep; ESV: sheep; NASB: sheep)"
+      },
+      {
+        "position": 9,
+        "surface": "אָבִ֖י/ו",
+        "phrase": "his father's",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father's; ESV: his father's; NASB: his father's)"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּֽית",
+        "phrase": "at Bethlehem",
+        "literal": "house-of",
+        "source": "H1035 (KJV: Bethlehem; ESV: Bethlehem; NASB: Bethlehem)"
+      },
+      {
+        "position": 11,
+        "surface": "לָֽחֶם",
+        "phrase": "",
+        "literal": "bread",
+        "source": "H1035 (KJV: [Bethlehem]; ESV: [Bethlehem]; NASB: [Bethlehem])"
+      }
+    ]
+  }
+]

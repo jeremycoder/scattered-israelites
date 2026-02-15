@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵל֙",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 5,
+        "surface": "לְכ֖וּ",
+        "phrase": "come",
+        "literal": "go!",
+        "source": "H3212 (KJV: Come; ESV: Come; NASB: Come)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נֵלְכָ֣ה",
+        "phrase": "let us go",
+        "literal": "and-let-us-go",
+        "source": "H3212 (KJV: let us go; ESV: let us go; NASB: let us go)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/גִּלְגָּ֑ל",
+        "phrase": "to Gilgal",
+        "literal": "to-the-Gilgal",
+        "source": "H1537 (KJV: Gilgal; ESV: Gilgal; NASB: Gilgal)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/נְחַדֵּ֥שׁ",
+        "phrase": "and renew",
+        "literal": "and-let-us-renew",
+        "source": "H2318 (KJV: renew; ESV: renew; NASB: renew)"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מְּלוּכָֽה",
+        "phrase": "the kingship",
+        "literal": "the-kingship",
+        "source": "H4410 (KJV: kingdom; ESV: kingship; NASB: kingdom)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֥ח",
+        "phrase": "and he sent out",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent out; ESV: sent out; NASB: sent out)"
+      },
+      {
+        "position": 2,
+        "surface": "חִצִּ֖ים",
+        "phrase": "arrows",
+        "literal": "arrows",
+        "source": "H2671 (KJV: arrows; ESV: arrows; NASB: arrows)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יְפִיצֵ֑/ם",
+        "phrase": "and scattered them",
+        "literal": "and-scattered-them",
+        "source": "H6327 (KJV: scattered them; ESV: scattered them; NASB: scattered them)"
+      },
+      {
+        "position": 4,
+        "surface": "בָּרָ֖ק",
+        "phrase": "lightning",
+        "literal": "lightning",
+        "source": "H1300 (KJV: lightning; ESV: lightning; NASB: Lightning)"
+      },
+      {
+        "position": 5,
+        "surface": "ו/יהמ/ם",
+        "phrase": "and confused them",
+        "literal": "and-confused-them",
+        "source": "H2000 (KJV: discomfited them; ESV: routed them; NASB: routed them)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יָּהֹֽם",
+        "phrase": "and he discomfited",
+        "literal": "and-he-confused",
+        "source": "H2000 (KJV: discomfited; ESV: routed; NASB: routed)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יִּשְׁחֲט֖וּ",
+        "phrase": "and they slaughtered",
+        "literal": "and-they-slaughtered",
+        "source": "H7819 (KJV: slew a bullock; ESV/NASB: slaughtered the bull) [2][3][5]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied in 'the bull']) [2][3]"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/פָּ֑ר",
+        "phrase": "the bull",
+        "literal": "the-bull",
+        "source": "H6499 (KJV: bullock; ESV/NASB: bull) [2][3][5]"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יָּבִ֥יאוּ",
+        "phrase": "and they brought",
+        "literal": "and-they-brought",
+        "source": "H935 (KJV: brought; ESV/NASB: brought) [2][3][5]"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied in 'the boy']) [2][3]"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/נַּ֖עַר",
+        "phrase": "the boy",
+        "literal": "the-boy",
+        "source": "H5288 (KJV: child; ESV/NASB: boy) [2][3][5]"
+      },
+      {
+        "position": 7,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV/ESV/NASB: to) [2][3]"
+      },
+      {
+        "position": 8,
+        "surface": "עֵלִֽי",
+        "phrase": "Eli",
+        "literal": "Eli",
+        "source": "H5941 (KJV/ESV/NASB: Eli) [2][3][5]"
+      }
+    ]
+  }
+]

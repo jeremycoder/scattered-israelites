@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 50,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַל",
+        "phrase": "for",
+        "literal": "on",
+        "source": "H5921: KJV 'among', ESV 'among', NASB 'among'"
+      },
+      {
+        "position": 2,
+        "surface": "כֵּ֛ן",
+        "phrase": "this",
+        "literal": "thus",
+        "source": "H3651: KJV 'Therefore', ESV 'For this', NASB 'Therefore'"
+      },
+      {
+        "position": 3,
+        "surface": "אוֹדְ/ךָ֥",
+        "phrase": "I will give thanks to you",
+        "literal": "I-will-give-thanks/you",
+        "source": "H3034: KJV 'I will give thanks unto thee', ESV 'I will praise you', NASB 'I will give thanks to You'"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'O LORD', ESV 'O Lord', NASB 'O LORD'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/גּוֹיִ֑ם",
+        "phrase": "among the nations",
+        "literal": "in-the/nations",
+        "source": "H1471: KJV 'among the heathen', ESV 'among the nations', NASB 'among the nations'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/לְ/שִׁמְ/ךָ֖",
+        "phrase": "and to your name",
+        "literal": "and-to/name/your",
+        "source": "H8034: KJV 'unto thy name', ESV 'to your name', NASB 'to Your name'"
+      },
+      {
+        "position": 7,
+        "surface": "אֲזַמֵּֽר",
+        "phrase": "I will sing praises",
+        "literal": "I-will-sing-praise",
+        "source": "H2167: KJV 'will I sing praise', ESV 'sing praises', NASB 'I will sing praise'"
+      }
+    ]
+  }
+]

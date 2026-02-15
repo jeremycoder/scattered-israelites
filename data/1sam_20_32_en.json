@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֨עַן֙",
+        "phrase": "And Jonathan answered",
+        "literal": "and-he-answered",
+        "source": "H6030; KJV: answered, ESV: answered, NASB: answered"
+      },
+      {
+        "position": 2,
+        "surface": "יְה֣וֹנָתָ֔ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083; KJV: Jonathan, ESV: Jonathan, NASB: Jonathan"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁא֖וּל",
+        "phrase": "father Saul",
+        "literal": "Saul",
+        "source": "H7586; KJV: Saul, ESV: Saul, NASB: Saul"
+      },
+      {
+        "position": 5,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1; KJV: his father, ESV: his father, NASB: his father"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: said, ESV: said, NASB: said"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלָ֛י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413; KJV: unto him, ESV: to him, NASB: to him"
+      },
+      {
+        "position": 8,
+        "surface": "לָ֥/מָּה",
+        "phrase": "Why",
+        "literal": "to-what/for-why",
+        "source": "H4100; KJV: Wherefore, ESV: Why, NASB: Why"
+      },
+      {
+        "position": 9,
+        "surface": "יוּמַ֖ת",
+        "phrase": "should he be put to death",
+        "literal": "he-is-put-to-death",
+        "source": "H4191; KJV: shall he die, ESV: should he be put to death, NASB: should he be put to death"
+      },
+      {
+        "position": 10,
+        "surface": "מֶ֥ה",
+        "phrase": "What",
+        "literal": "what",
+        "source": "H4100; KJV: what, ESV: What, NASB: What"
+      },
+      {
+        "position": 11,
+        "surface": "עָשָֽׂה",
+        "phrase": "has he done",
+        "literal": "he-has-done",
+        "source": "H6213; KJV: hath he done, ESV: has he done, NASB: has he done"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣קָם",
+        "phrase": "and David arose",
+        "literal": "and-he-arose",
+        "source": "H6965 (KJV: arose; ESV: arose; NASB: arose)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּבְרַ֥ח",
+        "phrase": "and fled",
+        "literal": "and-he-fled",
+        "source": "H1272 (KJV: fled; ESV: fled; NASB: fled)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/יּוֹם",
+        "phrase": "on that day",
+        "literal": "in-the-day",
+        "source": "H3117 (KJV: that day; ESV: that day; NASB: that day)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/ה֖וּא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/פְּנֵ֣י",
+        "phrase": "from the presence of",
+        "literal": "from-face-of",
+        "source": "H6440 (KJV: before; ESV: from; NASB: from)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁא֑וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּבֹ֕א",
+        "phrase": "and came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 10,
+        "surface": "אָכִ֖ישׁ",
+        "phrase": "Achish",
+        "literal": "Achish",
+        "source": "H397 (KJV: Achish; ESV: Achish; NASB: Achish)"
+      },
+      {
+        "position": 11,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 12,
+        "surface": "גַּֽת",
+        "phrase": "of Gath",
+        "literal": "Gath",
+        "source": "H1661 (KJV: Gath; ESV: Gath; NASB: Gath)"
+      }
+    ]
+  }
+]

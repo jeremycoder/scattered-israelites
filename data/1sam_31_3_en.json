@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 31,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תִּכְבַּ֤ד",
+        "phrase": "and the battle grew heavy",
+        "literal": "and-it-became-heavy",
+        "source": "H3513 (KJV: went sore; ESV: pressed hard; NASB: went heavily)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מִּלְחָמָה֙",
+        "phrase": "the battle",
+        "literal": "the-battle",
+        "source": "H4421 (KJV: the battle; ESV: the battle; NASB: the battle)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "against",
+        "literal": "to/against",
+        "source": "H413 (KJV: against; ESV: against; NASB: against)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּמְצָאֻ֥/הוּ",
+        "phrase": "and they found him",
+        "literal": "and-they-found-him",
+        "source": "H4672 (KJV: hit him; ESV: found him; NASB: hit him)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מּוֹרִ֖ים",
+        "phrase": "the archers",
+        "literal": "the-shooters",
+        "source": "H3384 (KJV: the archers; ESV: the archers; NASB: the archers)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲנָשִׁ֣ים",
+        "phrase": "men",
+        "literal": "men",
+        "source": "H376 (implied in context; KJV/ESV/NASB: men with bows implied)"
+      },
+      {
+        "position": 8,
+        "surface": "בַּ/קָּ֑שֶׁת",
+        "phrase": "with the bow",
+        "literal": "in-the-bow",
+        "source": "H7198 (KJV: of the archers; ESV: archers; NASB: archers)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יָּ֥חֶל",
+        "phrase": "and he became",
+        "literal": "and-he-began",
+        "source": "H2342 (KJV: he was sore wounded; ESV: he was badly wounded; NASB: he was badly wounded)"
+      },
+      {
+        "position": 10,
+        "surface": "מְאֹ֖ד",
+        "phrase": "greatly",
+        "literal": "very/greatly",
+        "source": "H3966 (KJV: sore; ESV: badly; NASB: badly)"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/הַ/מּוֹרִֽים",
+        "phrase": "by the archers",
+        "literal": "from-the-archers",
+        "source": "H3384 (KJV: of the archers; ESV: by the archers; NASB: by the archers)"
+      }
+    ]
+  }
+]

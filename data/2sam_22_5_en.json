@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "For",
+        "literal": "for-that",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲפָפֻ֖/נִי",
+        "phrase": "encompassed me",
+        "literal": "surrounded-they-me",
+        "source": "H661 (KJV: compassed me; ESV: encompassed me; NASB: engulfed me)"
+      },
+      {
+        "position": 3,
+        "surface": "מִשְׁבְּרֵי",
+        "phrase": "waves of",
+        "literal": "breakers-of",
+        "source": "H4867 (KJV: sorrows; ESV: waves; NASB: waves)"
+      },
+      {
+        "position": 4,
+        "surface": "מָ֑וֶת",
+        "phrase": "death",
+        "literal": "death",
+        "source": "H4194 (KJV: of death; ESV: of death; NASB: of death)"
+      },
+      {
+        "position": 5,
+        "surface": "נַחֲלֵ֥י",
+        "phrase": "torrents of",
+        "literal": "streams-of",
+        "source": "H5158 (KJV: floods; ESV: torrents; NASB: torrents)"
+      },
+      {
+        "position": 6,
+        "surface": "בְלִיַּ֖עַל",
+        "phrase": "ungodliness",
+        "literal": "worthlessness",
+        "source": "H1100 (KJV: of ungodly men; ESV: destruction; NASB: destruction)"
+      },
+      {
+        "position": 7,
+        "surface": "יְבַעֲתֻֽ/נִי",
+        "phrase": "terrified me",
+        "literal": "they-terrified-me",
+        "source": "H1204 (KJV: made me afraid; ESV: assailed me; NASB: assailed me)"
+      }
+    ]
+  }
+]

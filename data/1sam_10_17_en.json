@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּצְעֵ֤ק",
+        "phrase": "called",
+        "literal": "and-he-called",
+        "source": "H6817 (KJV: called; ESV: called; NASB: called)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵל֙",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: people; ESV: people; NASB: people)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מִּצְפָּֽה",
+        "phrase": "Mizpah",
+        "literal": "the-Mizpah",
+        "source": "H4709 (KJV: Mizpeh; ESV: Mizpah; NASB: Mizpah)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קֶ֥שֶׁת",
+        "phrase": "The bows",
+        "literal": "bow",
+        "source": "H7198; KJV: bows, ESV: bows, NASB: bows"
+      },
+      {
+        "position": 2,
+        "surface": "גִּבֹּורִ֖ים",
+        "phrase": "of the mighty",
+        "literal": "mighty-men",
+        "source": "H1368; KJV: mighty men, ESV: mighty, NASB: mighty"
+      },
+      {
+        "position": 3,
+        "surface": "חַתִּ֑ים",
+        "phrase": "are broken",
+        "literal": "broken",
+        "source": "H2844; KJV: broken, ESV: broken, NASB: shattered"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/נִכְשָׁלִ֖ים",
+        "phrase": "and they that stumbled",
+        "literal": "and-stumblers",
+        "source": "H3782; KJV: they that stumbled, ESV: feeble, NASB: feeble"
+      },
+      {
+        "position": 5,
+        "surface": "אָ֥זְרוּ",
+        "phrase": "are girded",
+        "literal": "they-girded",
+        "source": "H247; KJV: girded, ESV: bind on, NASB: gird on"
+      },
+      {
+        "position": 6,
+        "surface": "חָֽיִל",
+        "phrase": "with strength",
+        "literal": "strength",
+        "source": "H2428; KJV: strength, ESV: strength, NASB: strength"
+      }
+    ]
+  }
+]

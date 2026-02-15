@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "thirty",
+        "literal": "son-of",
+        "source": "H1121: KJV/ESV/NASB 'thirty' (idiomatic for age)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹשִׁ֥ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "H7970: KJV/ESV/NASB 'thirty'"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁנָ֛ה",
+        "phrase": "years old",
+        "literal": "year",
+        "source": "H8141: KJV/ESV/NASB 'years'"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732: KJV/ESV/NASB 'David'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/מָלְכ֑/וֹ",
+        "phrase": "when he became king",
+        "literal": "in/reign-of/him",
+        "source": "H4427: KJV 'when he began to reign'; ESV/NASB 'when he became king'"
+      },
+      {
+        "position": 6,
+        "surface": "אַרְבָּעִ֥ים",
+        "phrase": "forty",
+        "literal": "forty",
+        "source": "H705: KJV/ESV/NASB 'forty'"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁנָ֖ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "H8141: KJV/ESV/NASB 'years'"
+      },
+      {
+        "position": 8,
+        "surface": "מָלָֽךְ",
+        "phrase": "he reigned",
+        "literal": "he-was-king",
+        "source": "H4427: KJV 'he reigned'; ESV/NASB 'he reigned'"
+      }
+    ]
+  }
+]

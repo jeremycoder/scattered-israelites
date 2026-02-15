@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַן",
+        "phrase": "answered",
+        "literal": "and-answered",
+        "source": "H6030 (KJV: answered; ESV: answered; NASB: answered)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹנָתָ֖ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁא֑וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 5,
+        "surface": "נִשְׁאֹ֨ל",
+        "phrase": "asked",
+        "literal": "asking",
+        "source": "H7592 (KJV: asked; ESV: earnestly asked; NASB: earnestly asked)"
+      },
+      {
+        "position": 6,
+        "surface": "נִשְׁאַ֥ל",
+        "phrase": "permission",
+        "literal": "he-asked",
+        "source": "H7592 (KJV: leave; ESV: permission; NASB: permission)"
+      },
+      {
+        "position": 7,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/עִמָּדִ֖/י",
+        "phrase": "of me",
+        "literal": "from-with-me",
+        "source": "H5978 (KJV: of me; ESV: my permission; NASB: my permission)"
+      },
+      {
+        "position": 9,
+        "surface": "עַד",
+        "phrase": "to",
+        "literal": "until/to",
+        "source": "H5704 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּ֥ית",
+        "phrase": "house of",
+        "literal": "house-of",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      },
+      {
+        "position": 11,
+        "surface": "לָֽחֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      }
+    ]
+  }
+]

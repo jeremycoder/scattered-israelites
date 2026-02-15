@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּלְכֹּ֣ד",
+        "phrase": "and captured",
+        "literal": "and-he-captured",
+        "source": "H3920; KJV: took, ESV: took, NASB: captured"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV: David, ESV: David, NASB: David"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֖ת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "מְצֻדַ֣ת",
+        "phrase": "stronghold",
+        "literal": "stronghold-of",
+        "source": "H4686; KJV: strong hold, ESV: stronghold, NASB: stronghold"
+      },
+      {
+        "position": 5,
+        "surface": "צִיּ֑וֹן",
+        "phrase": "of Zion",
+        "literal": "Zion",
+        "source": "H6726; KJV: Zion, ESV: Zion, NASB: Zion"
+      },
+      {
+        "position": 6,
+        "surface": "הִ֖יא",
+        "phrase": "that is",
+        "literal": "she/it",
+        "source": "H1931; KJV: the same, ESV: that is, NASB: that is"
+      },
+      {
+        "position": 7,
+        "surface": "עִ֥יר",
+        "phrase": "city",
+        "literal": "city",
+        "source": "H5892; KJV: city, ESV: city, NASB: city"
+      },
+      {
+        "position": 8,
+        "surface": "דָּוִֽד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732; KJV: David, ESV: David, NASB: David"
+      }
+    ]
+  }
+]

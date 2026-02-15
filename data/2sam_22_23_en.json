@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּ֥י",
+        "phrase": "For",
+        "literal": "for",
+        "source": "H3588 (KJV: For; ESV: For; NASB: For)"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: All)"
+      },
+      {
+        "position": 3,
+        "surface": "משפט/ו",
+        "phrase": "his judgments",
+        "literal": "judgment-his",
+        "source": "H4941 (KJV: judgments; ESV: laws; NASB: ordinances)"
+      },
+      {
+        "position": 4,
+        "surface": "מִשְׁפָּטָ֖י/ו",
+        "phrase": "his ordinances",
+        "literal": "judgments-his",
+        "source": "H4941 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/נֶגְדִּ֑/י",
+        "phrase": "before me",
+        "literal": "to-before-me",
+        "source": "H5048 (KJV: before me; ESV: before me; NASB: before me)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/חֻקֹּתָ֖י/ו",
+        "phrase": "and his statutes",
+        "literal": "and-statutes-his",
+        "source": "H2708 (KJV: as for his statutes; ESV: as for his decrees; NASB: as for His statutes)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: I did not; ESV: I have not; NASB: I did not)"
+      },
+      {
+        "position": 8,
+        "surface": "אָס֥וּר",
+        "phrase": "I departed",
+        "literal": "I-turned-aside",
+        "source": "H5493 (KJV: turn aside; ESV: turned away; NASB: turn away)"
+      },
+      {
+        "position": 9,
+        "surface": "מִמֶּֽ/נָּה",
+        "phrase": "from them",
+        "literal": "from-it",
+        "source": "H4480 (KJV: from them; ESV: from them; NASB: from them)"
+      }
+    ]
+  }
+]

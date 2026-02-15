@@ -1,0 +1,186 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 4,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֣א",
+        "phrase": "and came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: were come; ESV: came; NASB: came)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/עָם֮",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: into; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/מַּחֲנֶה֒",
+        "phrase": "the camp",
+        "literal": "the-camp",
+        "source": "H4264 (KJV: the camp; ESV: the camp; NASB: the camp)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּֽאמְרוּ֙",
+        "phrase": "and said",
+        "literal": "and-they-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 6,
+        "surface": "זִקְנֵ֣י",
+        "phrase": "elders of",
+        "literal": "elders-of",
+        "source": "H2205 (KJV: elders; ESV: elders; NASB: elders)"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 8,
+        "surface": "לָ֣/מָּה",
+        "phrase": "why",
+        "literal": "why",
+        "source": "H4100 (KJV: Wherefore; ESV: Why; NASB: Why)"
+      },
+      {
+        "position": 9,
+        "surface": "נְגָפָ֧/נוּ",
+        "phrase": "has he defeated us",
+        "literal": "he-has-defeated-us",
+        "source": "H5062 (KJV: smitten; ESV: defeated; NASB: defeated)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/יּ֖וֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: to day; ESV: today; NASB: today)"
+      },
+      {
+        "position": 12,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 13,
+        "surface": "פְלִשְׁתִּ֑ים",
+        "phrase": "Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 14,
+        "surface": "נִקְחָ֧ה",
+        "phrase": "let us take",
+        "literal": "let-us-take",
+        "source": "H3947 (KJV: fetch; ESV: bring; NASB: take)"
+      },
+      {
+        "position": 15,
+        "surface": "אֵלֵ֣י/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "H413 (KJV: unto us; ESV: to ourselves; NASB: to ourselves)"
+      },
+      {
+        "position": 16,
+        "surface": "מִ/שִּׁלֹ֗ה",
+        "phrase": "from Shiloh",
+        "literal": "from-Shiloh",
+        "source": "H7887 (KJV: out of Shiloh; ESV: from Shiloh; NASB: from Shiloh)"
+      },
+      {
+        "position": 17,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 18,
+        "surface": "אֲרוֹן֙",
+        "phrase": "the ark of",
+        "literal": "ark-of",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 19,
+        "surface": "בְּרִ֣ית",
+        "phrase": "covenant of",
+        "literal": "covenant-of",
+        "source": "H1285 (KJV: covenant; ESV: covenant; NASB: covenant)"
+      },
+      {
+        "position": 20,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/יָבֹ֣א",
+        "phrase": "and let it come",
+        "literal": "and-let-it-come",
+        "source": "H935 (KJV: it cometh; ESV: it may come; NASB: it may come)"
+      },
+      {
+        "position": 22,
+        "surface": "בְ/קִרְבֵּ֔/נוּ",
+        "phrase": "among us",
+        "literal": "in-midst-of-us",
+        "source": "H7130 (KJV: among us; ESV: among us; NASB: among us)"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/יֹשִׁעֵ֖/נוּ",
+        "phrase": "and save us",
+        "literal": "and-save-us",
+        "source": "H3467 (KJV: save us; ESV: save us; NASB: save)"
+      },
+      {
+        "position": 24,
+        "surface": "מִ/כַּ֥ף",
+        "phrase": "from the hand of",
+        "literal": "from-hand-of",
+        "source": "H3709 (KJV: out of the hand; ESV: from the power; NASB: from the power)"
+      },
+      {
+        "position": 25,
+        "surface": "אֹיְבֵֽי/נוּ",
+        "phrase": "our enemies",
+        "literal": "our-enemies",
+        "source": "H341 (KJV: our enemies; ESV: our enemies; NASB: our enemies)"
+      }
+    ]
+  }
+]

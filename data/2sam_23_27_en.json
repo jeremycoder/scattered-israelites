@@ -1,0 +1,39 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲבִיעֶ֨זֶר֙",
+        "phrase": "Abiezer",
+        "literal": "Abiezer",
+        "source": "H44: KJV 'Abiezer', ESV 'Abiezer', NASB 'Abiezer'"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/עַנְּתֹתִ֔י",
+        "phrase": "the Anathothite",
+        "literal": "the-Anathothite",
+        "source": "H6069: KJV 'the Anethothite', ESV 'the Anathothite', NASB 'the Anathothite'"
+      },
+      {
+        "position": 3,
+        "surface": "מְבֻנַּ֖י",
+        "phrase": "Mebunnai",
+        "literal": "Mebunnai",
+        "source": "H4012: KJV 'Mebunnai', ESV 'Mebunnai', NASB 'Mebunnai' (cf. 1Ch 11:29 'Sibbecai')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/חֻשָׁתִֽי",
+        "phrase": "the Hushathite",
+        "literal": "the-Hushathite",
+        "source": "H2843: KJV 'the Hushathite', ESV 'the Hushathite', NASB 'the Hushathite'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "צַלְמוֹן֙",
+        "phrase": "Zalmon",
+        "literal": "Zalmon",
+        "source": "H6756; KJV/ESV/NASB: Zalmon"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אֲחֹחִ֔י",
+        "phrase": "the Ahohite",
+        "literal": "the-Ahohite",
+        "source": "H266; KJV/ESV/NASB: the Ahohite"
+      },
+      {
+        "position": 3,
+        "surface": "מַהְרַ֖י",
+        "phrase": "Maharai",
+        "literal": "Maharai",
+        "source": "H4121; KJV/ESV/NASB: Maharai"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נְּטֹפָתִֽי",
+        "phrase": "the Netophathite",
+        "literal": "the-Netophathite",
+        "source": "H5200; KJV/ESV/NASB: the Netophathite"
+      }
+    ]
+  }
+]

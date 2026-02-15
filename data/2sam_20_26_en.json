@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַ֗ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: And Ira also; ESV: and Ira...was also; NASB: and Ira...was also)"
+      },
+      {
+        "position": 2,
+        "surface": "עִירָא֙",
+        "phrase": "Ira",
+        "literal": "Ira",
+        "source": "H5896 (KJV: Ira; ESV: Ira; NASB: Ira)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/יָּ֣אִרִ֔י",
+        "phrase": "the Jairite",
+        "literal": "the-Jairite",
+        "source": "H2972 (KJV: the Jairite; ESV: the Jairite; NASB: the Jairite)"
+      },
+      {
+        "position": 4,
+        "surface": "הָיָ֥ה",
+        "phrase": "was",
+        "literal": "he-was",
+        "source": "H1961 (KJV: was; ESV: was; NASB: was)"
+      },
+      {
+        "position": 5,
+        "surface": "כֹהֵ֖ן",
+        "phrase": "priest",
+        "literal": "priest",
+        "source": "H3548 (KJV: a chief ruler; ESV: priest; NASB: a priest)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/דָוִֽד",
+        "phrase": "to David",
+        "literal": "to-David",
+        "source": "H1732 (KJV: about David; ESV: David's; NASB: to David)"
+      }
+    ]
+  }
+]

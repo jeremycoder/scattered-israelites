@@ -1,0 +1,200 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר",
+        "phrase": "And David said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֜ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/אֲחִימֶ֣לֶךְ",
+        "phrase": "to Ahimelech",
+        "literal": "to-Ahimelech",
+        "source": "H288 (KJV: Ahimelech; ESV: Ahimelech; NASB: Ahimelech)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כֹּהֵ֗ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: the priest; ESV: the priest; NASB: the priest)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מֶּלֶךְ֮",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 6,
+        "surface": "צִוַּ֣/נִי",
+        "phrase": "has commanded me",
+        "literal": "has-commanded/me",
+        "source": "H6680 (KJV: commanded; ESV: sent; NASB: commissioned)"
+      },
+      {
+        "position": 7,
+        "surface": "דָבָר֒",
+        "phrase": "a matter",
+        "literal": "matter",
+        "source": "H1697 (KJV: business; ESV: mission; NASB: matter)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 9,
+        "surface": "אֵלַ֗/י",
+        "phrase": "to me",
+        "literal": "to/me",
+        "source": "H413 (KJV: unto me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 10,
+        "surface": "אִ֣ישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: one; NASB: one)"
+      },
+      {
+        "position": 11,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408 (KJV: Let no; ESV: No one; NASB: Let no one)"
+      },
+      {
+        "position": 12,
+        "surface": "יֵ֧דַע",
+        "phrase": "know",
+        "literal": "know",
+        "source": "H3045 (KJV: know; ESV: know; NASB: know)"
+      },
+      {
+        "position": 13,
+        "surface": "מְא֛וּמָה",
+        "phrase": "anything",
+        "literal": "anything",
+        "source": "H3972 (KJV: ought; ESV: anything; NASB: anything)"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/דָּבָ֛ר",
+        "phrase": "the matter",
+        "literal": "the-matter",
+        "source": "H1697 (KJV: the business; ESV: the mission; NASB: the matter)"
+      },
+      {
+        "position": 16,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: wherewith; ESV: on which; NASB: on which)"
+      },
+      {
+        "position": 17,
+        "surface": "אָנֹכִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 18,
+        "surface": "שֹׁלֵֽחֲ/ךָ֖",
+        "phrase": "am sending you",
+        "literal": "sending/you",
+        "source": "H7971 (KJV: send thee; ESV: sending you; NASB: sending you)"
+      },
+      {
+        "position": 19,
+        "surface": "וַ/אֲשֶׁ֣ר",
+        "phrase": "and that",
+        "literal": "and-which",
+        "source": "H834 (KJV: and; ESV: or; NASB: and)"
+      },
+      {
+        "position": 20,
+        "surface": "צִוִּיתִ֑/ךָ",
+        "phrase": "I have commanded you",
+        "literal": "I-have-commanded/you",
+        "source": "H6680 (KJV: wherewith; ESV: commissioned you; NASB: I have charged you)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/אֶת",
+        "phrase": "and [et]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 22,
+        "surface": "הַ/נְּעָרִ֣ים",
+        "phrase": "the young men",
+        "literal": "the-young-men",
+        "source": "H5288 (KJV: the young men; ESV: the men; NASB: the young men)"
+      },
+      {
+        "position": 23,
+        "surface": "יוֹדַ֔עְתִּי",
+        "phrase": "I have directed",
+        "literal": "I-know",
+        "source": "H3045 (KJV: meet; ESV: meet; NASB: meet)"
+      },
+      {
+        "position": 24,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: at; ESV: at; NASB: at)"
+      },
+      {
+        "position": 25,
+        "surface": "מְק֥וֹם",
+        "phrase": "place",
+        "literal": "place",
+        "source": "H4725 (KJV: certain; ESV: a certain; NASB: a certain)"
+      },
+      {
+        "position": 26,
+        "surface": "פְּלֹנִ֖י",
+        "phrase": "such",
+        "literal": "so-and-so",
+        "source": "H6423 (KJV: such; ESV: such; NASB: such)"
+      },
+      {
+        "position": 27,
+        "surface": "אַלְמוֹנִֽי",
+        "phrase": "and such",
+        "literal": "and-so-and-so",
+        "source": "H492 (KJV: a place; ESV: a place; NASB: a place)"
+      }
+    ]
+  }
+]

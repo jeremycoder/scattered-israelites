@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַחַ֣/י",
+        "phrase": "my brothers",
+        "literal": "my-brothers",
+        "source": "H251 (KJV: brethren; ESV: brothers; NASB: brothers)"
+      },
+      {
+        "position": 2,
+        "surface": "אַתֶּ֔ם",
+        "phrase": "you",
+        "literal": "you-pl",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 3,
+        "surface": "עַצְמִ֥/י",
+        "phrase": "my bone",
+        "literal": "my-bone",
+        "source": "H6106 (KJV: bone; ESV: bone; NASB: bone)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְשָׂרִ֖/י",
+        "phrase": "and my flesh",
+        "literal": "and-my-flesh",
+        "source": "H1320 (KJV: flesh; ESV: flesh; NASB: flesh)"
+      },
+      {
+        "position": 5,
+        "surface": "אַתֶּ֑ם",
+        "phrase": "you",
+        "literal": "you-pl",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לָ֧/מָּה",
+        "phrase": "and why",
+        "literal": "and-why",
+        "source": "H4100 (KJV: wherefore; ESV: why; NASB: why)"
+      },
+      {
+        "position": 7,
+        "surface": "תִהְי֛וּ",
+        "phrase": "should you be",
+        "literal": "you-be",
+        "source": "H1961 (KJV: are ye; ESV: should you be; NASB: should you be)"
+      },
+      {
+        "position": 8,
+        "surface": "אַחֲרֹנִ֖ים",
+        "phrase": "last",
+        "literal": "last-ones",
+        "source": "H314 (KJV: last; ESV: last; NASB: last)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/הָשִׁ֥יב",
+        "phrase": "to bring back",
+        "literal": "to-bring-back",
+        "source": "H7725 (KJV: bring back; ESV: bring back; NASB: bring back)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/מֶּֽלֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      }
+    ]
+  }
+]

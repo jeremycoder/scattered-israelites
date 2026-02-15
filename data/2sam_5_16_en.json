@@ -1,0 +1,32 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וֶ/אֱלִישָׁמָ֥ע",
+        "phrase": "and Elishama",
+        "literal": "and-Elishama",
+        "source": "H476; KJV: Elishama, ESV: Elishama, NASB: Elishama"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶלְיָדָ֖ע",
+        "phrase": "and Eliada",
+        "literal": "and-Eliada",
+        "source": "H450; KJV: Eliada, ESV: Eliada, NASB: Eliada"
+      },
+      {
+        "position": 3,
+        "surface": "וֶ/אֱלִיפָֽלֶט",
+        "phrase": "and Eliphalet",
+        "literal": "and-Eliphalet",
+        "source": "H467; KJV: Eliphalet, ESV: Eliphelet, NASB: Eliphelet"
+      }
+    ]
+  }
+]

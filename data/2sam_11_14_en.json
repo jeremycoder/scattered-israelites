@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֣י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961; KJV: 'And it came to pass', ESV: 'In the morning', NASB: 'Now in the morning'"
+      },
+      {
+        "position": 2,
+        "surface": "בַ/בֹּ֔קֶר",
+        "phrase": "in the morning",
+        "literal": "in-the-morning",
+        "source": "H1242; KJV: 'in the morning', ESV: 'In the morning', NASB: 'in the morning'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּכְתֹּ֥ב",
+        "phrase": "and he wrote",
+        "literal": "and-he-wrote",
+        "source": "H3789; KJV: 'David wrote', ESV: 'David wrote', NASB: 'David wrote'"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV: 'David', ESV: 'David', NASB: 'David'"
+      },
+      {
+        "position": 5,
+        "surface": "סֵ֖פֶר",
+        "phrase": "a letter",
+        "literal": "letter",
+        "source": "H5612; KJV: 'a letter', ESV: 'a letter', NASB: 'a letter'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: 'to', ESV: 'to', NASB: 'to'"
+      },
+      {
+        "position": 7,
+        "surface": "יוֹאָ֑ב",
+        "phrase": "Joab",
+        "literal": "Joab",
+        "source": "H3097; KJV: 'Joab', ESV: 'Joab', NASB: 'Joab'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּשְׁלַ֖ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971; KJV: 'and sent', ESV: 'and sent', NASB: 'and sent'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/יַ֥ד",
+        "phrase": "by the hand of",
+        "literal": "by-hand-of",
+        "source": "H3027; KJV: 'by the hand of', ESV: 'by the hand of', NASB: 'by the hand of'"
+      },
+      {
+        "position": 10,
+        "surface": "אוּרִיָּֽה",
+        "phrase": "Uriah",
+        "literal": "Uriah",
+        "source": "H223; KJV: 'Uriah', ESV: 'Uriah', NASB: 'Uriah'"
+      }
+    ]
+  }
+]

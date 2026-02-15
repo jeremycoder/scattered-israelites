@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/עָשִׁ֗יר",
+        "phrase": "to the rich man",
+        "literal": "to-rich",
+        "source": "H6223 (KJV: rich; ESV: rich; NASB: rich)"
+      },
+      {
+        "position": 2,
+        "surface": "הָיָ֛ה",
+        "phrase": "had",
+        "literal": "he-was",
+        "source": "H1961 (KJV: had; ESV: had; NASB: had)"
+      },
+      {
+        "position": 3,
+        "surface": "צֹ֥אן",
+        "phrase": "sheep",
+        "literal": "flock",
+        "source": "H6629 (KJV: flocks; ESV: sheep; NASB: sheep)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בָקָ֖ר",
+        "phrase": "and cattle",
+        "literal": "and-cattle",
+        "source": "H1241 (KJV: herds; ESV: oxen; NASB: cattle)"
+      },
+      {
+        "position": 5,
+        "surface": "הַרְבֵּ֥ה",
+        "phrase": "many",
+        "literal": "many",
+        "source": "H7235 (KJV: many; ESV: many; NASB: large)"
+      },
+      {
+        "position": 6,
+        "surface": "מְאֹֽד",
+        "phrase": "very",
+        "literal": "very",
+        "source": "H3966 (KJV: exceeding; ESV: very; NASB: very)"
+      }
+    ]
+  }
+]

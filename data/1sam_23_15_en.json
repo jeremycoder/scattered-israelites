@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣רְא",
+        "phrase": "and saw",
+        "literal": "and-he-saw",
+        "source": "H7200 (KJV: saw; ESV: saw; NASB: saw)"
+      },
+      {
+        "position": 2,
+        "surface": "דָוִ֔ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 4,
+        "surface": "יָצָ֥א",
+        "phrase": "had come out",
+        "literal": "he-had-come-out",
+        "source": "H3318 (KJV: was come out; ESV: had come out; NASB: had come out)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/בַקֵּ֣שׁ",
+        "phrase": "to seek",
+        "literal": "to-seek",
+        "source": "H1245 (KJV: to seek; ESV: to seek; NASB: to seek)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "נַפְשׁ֑/וֹ",
+        "phrase": "his life",
+        "literal": "his-life-his",
+        "source": "H5315 (KJV: his life; ESV: his life; NASB: his life)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/דָוִ֥ד",
+        "phrase": "And David",
+        "literal": "and-David",
+        "source": "H1732 (KJV: And David; ESV: And David; NASB: And David)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/מִדְבַּר",
+        "phrase": "in the wilderness",
+        "literal": "in-wilderness",
+        "source": "H4057 (KJV: in the wilderness; ESV: in the wilderness; NASB: in the wilderness)"
+      },
+      {
+        "position": 11,
+        "surface": "זִ֖יף",
+        "phrase": "of Ziph",
+        "literal": "Ziph",
+        "source": "H2128 (KJV: of Ziph; ESV: of Ziph; NASB: of Ziph)"
+      },
+      {
+        "position": 12,
+        "surface": "בַּ/חֹֽרְשָׁה",
+        "phrase": "in Horesh",
+        "literal": "in-the-wood",
+        "source": "H2793 (KJV: in the wood; ESV: at Horesh; NASB: at Horesh)"
+      }
+    ]
+  }
+]

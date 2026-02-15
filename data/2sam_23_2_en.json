@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ר֥וּחַ",
+        "phrase": "Spirit",
+        "literal": "spirit",
+        "source": "H7307; KJV/ESV/NASB: 'Spirit' of the LORD"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "דִּבֶּר",
+        "phrase": "spoke",
+        "literal": "spoke",
+        "source": "H1696; KJV/ESV/NASB: 'spoke'/'speaks'"
+      },
+      {
+        "position": 4,
+        "surface": "בִּ֑/י",
+        "phrase": "through me",
+        "literal": "in/me",
+        "source": "-; KJV/ESV/NASB: 'by'/'through' me"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִלָּת֖/וֹ",
+        "phrase": "and-his-word",
+        "literal": "and-word-his",
+        "source": "H4405; KJV/ESV/NASB: 'his word'/'his words'"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921; KJV/ESV/NASB: 'on'/'upon'"
+      },
+      {
+        "position": 7,
+        "surface": "לְשׁוֹנִֽ/י",
+        "phrase": "my tongue",
+        "literal": "tongue-my",
+        "source": "H3956; KJV/ESV/NASB: 'my tongue'"
+      }
+    ]
+  }
+]

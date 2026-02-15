@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁא֔וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      },
+      {
+        "position": 3,
+        "surface": "שְֽׁמַֽע",
+        "phrase": "Listen",
+        "literal": "hear",
+        "source": "H8085 (KJV: Hear; ESV: Hear; NASB: Listen)"
+      },
+      {
+        "position": 4,
+        "surface": "נָ֖א",
+        "phrase": "now",
+        "literal": "please",
+        "source": "H4994 (KJV: now; ESV: now; NASB: now)"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲחִיט֑וּב",
+        "phrase": "of Ahitub",
+        "literal": "Ahitub",
+        "source": "H285 (KJV: Ahitub; ESV: Ahitub; NASB: Ahitub)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: answered; ESV: answered; NASB: answered)"
+      },
+      {
+        "position": 8,
+        "surface": "הִנְ/נִ֥י",
+        "phrase": "Here I am",
+        "literal": "behold-me",
+        "source": "H2005 (KJV: Here I am; ESV: Here I am; NASB: Here I am)"
+      },
+      {
+        "position": 9,
+        "surface": "אֲדֹנִֽ/י",
+        "phrase": "my lord",
+        "literal": "my-lord",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      }
+    ]
+  }
+]

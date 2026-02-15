@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 5,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/פְלִשְׁתִּים֙",
+        "phrase": "And the Philistines",
+        "literal": "and-Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 2,
+        "surface": "לָֽקְח֔וּ",
+        "phrase": "took",
+        "literal": "they-took",
+        "source": "H3947 (KJV: took; ESV: captured; NASB: took)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אֲר֣וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אֱלֹהִ֑ים",
+        "phrase": "of God",
+        "literal": "the-gods",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְבִאֻ֛/הוּ",
+        "phrase": "and brought it",
+        "literal": "and-they-brought-it",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אֶ֥בֶן",
+        "phrase": "from",
+        "literal": "from-stone",
+        "source": "H72 (KJV: from Ebenezer; ESV: from Ebenezer; NASB: from Ebenezer)"
+      },
+      {
+        "position": 8,
+        "surface": "הָעֵ֖זֶר",
+        "phrase": "Ebenezer",
+        "literal": "the-help",
+        "source": "H72 (KJV: Ebenezer; ESV: Ebenezer; NASB: Ebenezer)"
+      },
+      {
+        "position": 9,
+        "surface": "אַשְׁדּֽוֹדָ/ה",
+        "phrase": "to Ashdod",
+        "literal": "Ashdod-to",
+        "source": "H795 (KJV: unto Ashdod; ESV: to Ashdod; NASB: to Ashdod)"
+      }
+    ]
+  }
+]

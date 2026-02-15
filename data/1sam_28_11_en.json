@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֨אמֶר֙",
+        "phrase": "Then she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/אִשָּׁ֔ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "H802 (KJV: woman; ESV: woman; NASB: woman)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ֖י",
+        "phrase": "whom",
+        "literal": "who",
+        "source": "H4310 (KJV: whom; ESV: whom; NASB: whom)"
+      },
+      {
+        "position": 5,
+        "surface": "אַֽעֲלֶה",
+        "phrase": "shall I bring up",
+        "literal": "I-cause-to-ascend",
+        "source": "H5927 (KJV: bring up; ESV: bring up; NASB: bring up)"
+      },
+      {
+        "position": 6,
+        "surface": "לָּ֑/ךְ",
+        "phrase": "for you",
+        "literal": "to-you",
+        "source": "- (KJV: unto thee; ESV: for you; NASB: for you)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 9,
+        "surface": "שְׁמוּאֵ֖ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      },
+      {
+        "position": 10,
+        "surface": "הַֽעֲלִי",
+        "phrase": "Bring up",
+        "literal": "cause-to-ascend",
+        "source": "H5927 (KJV: Bring...up; ESV: Bring up; NASB: Bring up)"
+      },
+      {
+        "position": 11,
+        "surface": "לִֽ/י",
+        "phrase": "for me",
+        "literal": "to-me",
+        "source": "- (KJV: me; ESV: for me; NASB: for me)"
+      }
+    ]
+  }
+]

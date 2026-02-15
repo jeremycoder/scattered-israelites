@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תַּעֲרֹ֤ךְ",
+        "phrase": "and drew up",
+        "literal": "and-she-arrayed",
+        "source": "H6186 (KJV: put the battle in array; ESV: drew up; NASB: drew up)"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/פְלִשְׁתִּ֔ים",
+        "phrase": "and the Philistines",
+        "literal": "and-Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 4,
+        "surface": "מַעֲרָכָ֖ה",
+        "phrase": "battle array",
+        "literal": "battle-array",
+        "source": "H4634 (KJV: battle; ESV: battle array; NASB: battle formation)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/קְרַ֥את",
+        "phrase": "to meet",
+        "literal": "to-meet",
+        "source": "H7122 (KJV: omitted in phrase; ESV: for battle; NASB: for battle)"
+      },
+      {
+        "position": 6,
+        "surface": "מַעֲרָכָֽה",
+        "phrase": "battle array",
+        "literal": "battle-array",
+        "source": "H4634 (KJV: army; ESV: army; NASB: army)"
+      }
+    ]
+  }
+]

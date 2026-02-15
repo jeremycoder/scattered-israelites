@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָה֙",
+        "phrase": "And it came to pass",
+        "literal": "and-he-was",
+        "source": "H1961: KJV 'And it came to pass', ESV 'As she continued', NASB 'Now it came about'"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ֣י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588: KJV 'as', ESV 'she', NASB 'she' (introduces clause)"
+      },
+      {
+        "position": 3,
+        "surface": "הִרְבְּתָ֔ה",
+        "phrase": "she multiplied",
+        "literal": "she-caused-to-be-many",
+        "source": "H7235: KJV 'continued', ESV 'continued', NASB 'continued'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/הִתְפַּלֵּ֖ל",
+        "phrase": "to pray",
+        "literal": "to-her-pray",
+        "source": "H6419: KJV 'praying', ESV 'praying', NASB 'praying'"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֣י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440: KJV 'before', ESV 'before', NASB 'before'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'the LORD', ESV 'the Lord', NASB 'the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עֵלִ֖י",
+        "phrase": "and-Eli",
+        "literal": "and-Eli",
+        "source": "H5941: KJV 'Eli', ESV 'Eli', NASB 'Eli'"
+      },
+      {
+        "position": 8,
+        "surface": "שֹׁמֵ֥ר",
+        "phrase": "was watching",
+        "literal": "watching",
+        "source": "H8104: KJV 'marked', ESV 'observed', NASB 'was watching'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "פִּֽי/הָ",
+        "phrase": "her mouth",
+        "literal": "mouth-of-her",
+        "source": "H6310: KJV 'her mouth', ESV 'her mouth', NASB 'her mouth"
+      }
+    ]
+  }
+]

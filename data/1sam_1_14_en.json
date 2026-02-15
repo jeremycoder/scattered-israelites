@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלֶ֨י/הָ֙",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": "H413 (KJV: unto her; ESV: to her; NASB: to her)"
+      },
+      {
+        "position": 3,
+        "surface": "עֵלִ֔י",
+        "phrase": "Eli",
+        "literal": "Eli",
+        "source": "H5941 (KJV: Eli; ESV: Eli; NASB: Eli)"
+      },
+      {
+        "position": 4,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: How long; ESV: How long; NASB: How long)"
+      },
+      {
+        "position": 5,
+        "surface": "מָתַ֖י",
+        "phrase": "when",
+        "literal": "when",
+        "source": "H4970 (KJV: wilt thou be; ESV: will you go on; NASB: will you make)"
+      },
+      {
+        "position": 6,
+        "surface": "תִּשְׁתַּכָּרִ֑י/ן",
+        "phrase": "will you be drunk",
+        "literal": "you-will-become-drunk",
+        "source": "H7937 (KJV: be drunken; ESV: being drunk; NASB: make yourself drunk)"
+      },
+      {
+        "position": 7,
+        "surface": "הָסִ֥ירִי",
+        "phrase": "Put away",
+        "literal": "remove",
+        "source": "H5493 (KJV: put away; ESV: Put...away; NASB: Put away)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: thy; ESV: your; NASB: your)"
+      },
+      {
+        "position": 9,
+        "surface": "יֵינֵ֖/ךְ",
+        "phrase": "your wine",
+        "literal": "wine-your",
+        "source": "H3196 (KJV: wine; ESV: wine; NASB: wine)"
+      },
+      {
+        "position": 10,
+        "surface": "מֵ/עָלָֽיִ/ךְ",
+        "phrase": "from upon you",
+        "literal": "from-upon-you",
+        "source": "H5921 (KJV: from thee; ESV: from you; NASB: from you)"
+      }
+    ]
+  }
+]

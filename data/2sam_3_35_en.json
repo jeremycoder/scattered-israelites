@@ -1,0 +1,207 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֣א",
+        "phrase": "and came",
+        "literal": "and-he-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 2,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עָ֗ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/הַבְר֧וֹת",
+        "phrase": "to persuade",
+        "literal": "to-cause-to-eat",
+        "source": "H1262 (KJV: to cause...to eat; ESV: to persuade; NASB: to persuade)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "דָּוִ֛ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 7,
+        "surface": "לֶ֖חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899 (KJV: meat/bread; ESV: bread; NASB: bread)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/ע֣וֹד",
+        "phrase": "while",
+        "literal": "in-still",
+        "source": "H5750 (KJV: while it was yet; ESV: while it was yet; NASB: while it was still)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֑וֹם",
+        "phrase": "day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: day; ESV: day; NASB: day)"
+      },
+      {
+        "position": 10,
+        "surface": "וַ/יִּשָּׁבַ֨ע",
+        "phrase": "and swore",
+        "literal": "and-he-swore",
+        "source": "H7650 (KJV: sware; ESV: swore; NASB: vowed)"
+      },
+      {
+        "position": 11,
+        "surface": "דָּוִ֜ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 12,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 13,
+        "surface": "כֹּ֣ה",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3541 (KJV: So; ESV: So; NASB: As)"
+      },
+      {
+        "position": 14,
+        "surface": "יַעֲשֶׂה",
+        "phrase": "do",
+        "literal": "he-does",
+        "source": "H6213 (KJV: do; ESV: do; NASB: do)"
+      },
+      {
+        "position": 15,
+        "surface": "לִּ֤/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: to me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 16,
+        "surface": "אֱלֹהִים֙",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 17,
+        "surface": "וְ/כֹ֣ה",
+        "phrase": "and more",
+        "literal": "and-thus",
+        "source": "H3541 (KJV: and more also; ESV: and more also; NASB: and more)"
+      },
+      {
+        "position": 18,
+        "surface": "יֹסִ֔יף",
+        "phrase": "add",
+        "literal": "he-adds",
+        "source": "H3254 (KJV: and more also; ESV: and more also; NASB: and more)"
+      },
+      {
+        "position": 19,
+        "surface": "כִּ֣י",
+        "phrase": "if",
+        "literal": "for",
+        "source": "H3588 (KJV: if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 20,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: if; ESV: if; NASB: if)"
+      },
+      {
+        "position": 21,
+        "surface": "לִ/פְנֵ֧י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: till...be down; ESV: till...goes down; NASB: before...goes down)"
+      },
+      {
+        "position": 22,
+        "surface": "בֽוֹא",
+        "phrase": "sets",
+        "literal": "come",
+        "source": "H935 (KJV: be down; ESV: goes down; NASB: goes down)"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/שֶּׁ֛מֶשׁ",
+        "phrase": "the sun",
+        "literal": "the-sun",
+        "source": "H8121 (KJV: the sun; ESV: the sun; NASB: the sun)"
+      },
+      {
+        "position": 24,
+        "surface": "אֶטְעַם",
+        "phrase": "I taste",
+        "literal": "I-taste",
+        "source": "H2938 (KJV: I taste; ESV: I taste; NASB: I taste)"
+      },
+      {
+        "position": 25,
+        "surface": "לֶ֖חֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899 (KJV: bread; ESV: bread; NASB: bread)"
+      },
+      {
+        "position": 26,
+        "surface": "א֥וֹ",
+        "phrase": "or",
+        "literal": "or",
+        "source": "H176 (KJV: or; ESV: or; NASB: or)"
+      },
+      {
+        "position": 27,
+        "surface": "כָל",
+        "phrase": "any",
+        "literal": "all",
+        "source": "H3605 (KJV: ought; ESV: anything; NASB: anything)"
+      },
+      {
+        "position": 28,
+        "surface": "מְאֽוּמָה",
+        "phrase": "thing",
+        "literal": "anything",
+        "source": "H3972 (KJV: ought else; ESV: anything else; NASB: anything else)"
+      }
+    ]
+  }
+]

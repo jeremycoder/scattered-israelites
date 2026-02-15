@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֖אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "דּ֣וֹד",
+        "phrase": "uncle",
+        "literal": "uncle",
+        "source": "H1730 (KJV: uncle; ESV: uncle; NASB: uncle)"
+      },
+      {
+        "position": 3,
+        "surface": "שָׁא֑וּל",
+        "phrase": "of Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul's; ESV: Saul's; NASB: Saul's)"
+      },
+      {
+        "position": 4,
+        "surface": "הַגִּֽידָ/ה",
+        "phrase": "Tell",
+        "literal": "declare-it",
+        "source": "H5046 (KJV: Tell; ESV: Tell; NASB: tell)"
+      },
+      {
+        "position": 5,
+        "surface": "נָּ֣א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (KJV: I pray thee; ESV: please; NASB: please)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ֔/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": " (KJV: me; ESV: me; NASB: me)"
+      },
+      {
+        "position": 7,
+        "surface": "מָֽה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "H4100 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 8,
+        "surface": "אָמַ֥ר",
+        "phrase": "did ... say",
+        "literal": "he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 9,
+        "surface": "לָ/כֶ֖ם",
+        "phrase": "to you",
+        "literal": "to-you-all",
+        "source": " (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁמוּאֵֽל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050 (KJV: Samuel; ESV: Samuel; NASB: Samuel)"
+      }
+    ]
+  }
+]

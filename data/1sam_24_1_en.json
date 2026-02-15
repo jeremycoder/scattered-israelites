@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֥עַל",
+        "phrase": "and David went up",
+        "literal": "and-he-went-up",
+        "source": "H5927 - KJV: (implied in narrative), ESV: (David) went up from there, NASB: (David) went up from there"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 - KJV: David, ESV: David, NASB: David"
+      },
+      {
+        "position": 3,
+        "surface": "מִ/שָּׁ֑ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033 - KJV: from thence (contextual), ESV: from there, NASB: from there"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֵּ֖שֶׁב",
+        "phrase": "and he dwelt",
+        "literal": "and-he-dwelt",
+        "source": "H3427 - KJV: (he) abode, ESV: (he) stayed, NASB: (he) stayed"
+      },
+      {
+        "position": 5,
+        "surface": "בִּ/מְצָד֥וֹת",
+        "phrase": "in the strongholds",
+        "literal": "in-strongholds-his",
+        "source": "H4679 - KJV: in the wildrock (Engedi context), ESV: in the strongholds, NASB: in the strongholds"
+      },
+      {
+        "position": 6,
+        "surface": "עֵֽין",
+        "phrase": "En",
+        "literal": "spring",
+        "source": "H5872 - KJV: En-gedi, ESV: En-gedi, NASB: En-gedi"
+      },
+      {
+        "position": 7,
+        "surface": "גֶּֽדִי",
+        "phrase": "Gedi",
+        "literal": "kid",
+        "source": "H5872 - KJV: Engedi, ESV: Engedi, NASB: En-gedi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֗ח",
+        "phrase": "and he sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent word; NASB: sent word)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/יַד֙",
+        "phrase": "by the hand of",
+        "literal": "in-hand-of",
+        "source": "H3027 (KJV: by the hand; ESV: through; NASB: by)"
+      },
+      {
+        "position": 3,
+        "surface": "נָתָ֣ן",
+        "phrase": "Nathan",
+        "literal": "Nathan",
+        "source": "H5414 (KJV: Nathan; ESV: Nathan; NASB: Nathan)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נָּבִ֔יא",
+        "phrase": "the prophet",
+        "literal": "the-prophet",
+        "source": "H5030 (KJV: the prophet; ESV: the prophet; NASB: the prophet)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקְרָ֥א",
+        "phrase": "and he called",
+        "literal": "and-he-called",
+        "source": "H7121 (KJV: called; ESV: named; NASB: called)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמ֖/וֹ",
+        "phrase": "his name",
+        "literal": "name-his",
+        "source": "H8034 (KJV: his name; ESV: him; NASB: his name)"
+      },
+      {
+        "position": 8,
+        "surface": "יְדִ֣ידְיָ֑הּ",
+        "phrase": "Jedidiah",
+        "literal": "beloved-of-YHWH",
+        "source": "H3041 (KJV: Jedidiah; ESV: Jedidiah; NASB: Jedidiah)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/עֲב֖וּר",
+        "phrase": "because of",
+        "literal": "in/for sake-of",
+        "source": "H5668 (KJV: for; ESV: because of; NASB: because of)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

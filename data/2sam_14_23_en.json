@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥קָם",
+        "phrase": "So Joab arose",
+        "literal": "and-he-arose",
+        "source": "H6965 (KJV: arose; ESV: arose; NASB: arose)"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹאָ֖ב",
+        "phrase": "Joab",
+        "literal": "Joab",
+        "source": "H3097 (KJV: Joab; ESV: Joab; NASB: Joab)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֵּ֣לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: went; ESV: went; NASB: went)"
+      },
+      {
+        "position": 4,
+        "surface": "גְּשׁ֑וּרָ/ה",
+        "phrase": "to Geshur",
+        "literal": "Geshur",
+        "source": "H1650 (KJV: Geshur; ESV: Geshur; NASB: Geshur)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יָּבֵ֥א",
+        "phrase": "and brought",
+        "literal": "and-he-brought",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אַבְשָׁל֖וֹם",
+        "phrase": "Absalom",
+        "literal": "Absalom",
+        "source": "H53 (KJV: Absalom; ESV: Absalom; NASB: Absalom)"
+      },
+      {
+        "position": 8,
+        "surface": "יְרוּשָׁלִָֽם",
+        "phrase": "to Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      }
+    ]
+  }
+]

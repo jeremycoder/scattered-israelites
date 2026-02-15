@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֱלֹהֵ֥י",
+        "phrase": "my God",
+        "literal": "God-of-me",
+        "source": "H430; KJV: 'The God', ESV/NASB: 'My God'"
+      },
+      {
+        "position": 2,
+        "surface": "צוּרִ֖/י",
+        "phrase": "my rock",
+        "literal": "rock/my",
+        "source": "H6697; KJV: 'my rock', ESV: 'my rock', NASB: 'my rock'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחֱסֶה",
+        "phrase": "I take refuge",
+        "literal": "I-take-refuge",
+        "source": "H2620; KJV: 'in him will I trust', ESV: 'in whom I take refuge', NASB: 'in whom I take refuge'"
+      },
+      {
+        "position": 4,
+        "surface": "בּ֑/וֹ",
+        "phrase": "in him",
+        "literal": "in/him",
+        "source": "-; KJV/ESV/NASB: 'in him/whom'"
+      },
+      {
+        "position": 5,
+        "surface": "מָגִנִּ֞/י",
+        "phrase": "my shield",
+        "literal": "shield/my",
+        "source": "H4043; KJV/ESV/NASB: 'my shield'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/קֶ֣רֶן",
+        "phrase": "and horn",
+        "literal": "and/horn",
+        "source": "H7161; KJV/ESV/NASB: 'and the horn'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשְׁעִ֗/י",
+        "phrase": "of my salvation",
+        "literal": "salvation/my",
+        "source": "H3468; KJV/ESV/NASB: 'of my salvation'"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׂגַּבִּ/י֙",
+        "phrase": "my stronghold",
+        "literal": "stronghold/my",
+        "source": "H4869; KJV: 'my high tower', ESV/NASB: 'my stronghold'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מְנוּסִ֔/י",
+        "phrase": "and my refuge",
+        "literal": "and/refuge/my",
+        "source": "H4498; KJV/ESV/NASB: 'my refuge'"
+      },
+      {
+        "position": 10,
+        "surface": "מֹשִׁעִ֕/י",
+        "phrase": "my savior",
+        "literal": "savior/my",
+        "source": "H3467; KJV/ESV/NASB: 'my saviour/savior'"
+      },
+      {
+        "position": 11,
+        "surface": "מֵ/חָמָ֖ס",
+        "phrase": "from violence",
+        "literal": "from/violence",
+        "source": "H2555; KJV/ESV/NASB: 'from violence'"
+      },
+      {
+        "position": 12,
+        "surface": "תֹּשִׁעֵֽ/נִי",
+        "phrase": "you save me",
+        "literal": "you-save/me",
+        "source": "H3467; KJV/ESV/NASB: 'thou savest me/You save me'"
+      }
+    ]
+  }
+]

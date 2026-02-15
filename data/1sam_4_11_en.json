@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 4,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲר֥וֹן",
+        "phrase": "and the ark",
+        "literal": "and-ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "of-gods",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      },
+      {
+        "position": 3,
+        "surface": "נִלְקָ֑ח",
+        "phrase": "was taken",
+        "literal": "was-taken",
+        "source": "H3947 (KJV: was taken; ESV: was captured; NASB: was taken)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/שְׁנֵ֤י",
+        "phrase": "and two",
+        "literal": "and-two",
+        "source": "H8147 (KJV: and the two; ESV: the two; NASB: the two)"
+      },
+      {
+        "position": 5,
+        "surface": "בְנֵֽי",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 6,
+        "surface": "עֵלִי֙",
+        "phrase": "Eli's",
+        "literal": "Eli",
+        "source": "H5941 (KJV: Eli; ESV: Eli's; NASB: Eli's)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ֔תוּ",
+        "phrase": "died",
+        "literal": "they-died",
+        "source": "H4191 (KJV: were slain; ESV: died; NASB: died)"
+      },
+      {
+        "position": 8,
+        "surface": "חָפְנִ֖י",
+        "phrase": "Hophni",
+        "literal": "Hophni",
+        "source": "H2652 (KJV: Hophni; ESV: Hophni; NASB: Hophni)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/פִֽינְחָֽס",
+        "phrase": "and Phinehas",
+        "literal": "and-Phinehas",
+        "source": "H6372 (KJV: and Phinehas; ESV: and Phinehas; NASB: and Phinehas)"
+      }
+    ]
+  }
+]

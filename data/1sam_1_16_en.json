@@ -1,0 +1,109 @@
+[
+  {
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408 (KJV: not; ESV: do not; NASB: do not)"
+      },
+      {
+        "position": 2,
+        "surface": "תִּתֵּן֙",
+        "phrase": "give",
+        "literal": "you-give",
+        "source": "H5414 (KJV: count; ESV: regard; NASB: consider)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אֲמָ֣תְ/ךָ֔",
+        "phrase": "your handmaid",
+        "literal": "female-servant-your",
+        "source": "H519 (KJV: handmaid; ESV: servant; NASB: maidservant)"
+      },
+      {
+        "position": 5,
+        "surface": "לִ/פְנֵ֖י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: for; ESV: as; NASB: as)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּת",
+        "phrase": "daughter",
+        "literal": "daughter",
+        "source": "H1323 (KJV: daughter; ESV: [implied in worthless woman]; NASB: [implied in worthless woman])"
+      },
+      {
+        "position": 7,
+        "surface": "בְּלִיָּ֑עַל",
+        "phrase": "of Belial",
+        "literal": "worthlessness",
+        "source": "H1100 (KJV: daughter of Belial; ESV: worthless woman; NASB: worthless woman)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵ/רֹ֥ב",
+        "phrase": "out of the abundance",
+        "literal": "from-abundance-of",
+        "source": "H7230 (KJV: abundance; ESV: great; NASB: great)"
+      },
+      {
+        "position": 10,
+        "surface": "שִׂיחִ֛/י",
+        "phrase": "of my complaint",
+        "literal": "my-meditation",
+        "source": "H7879 (KJV: complaint; ESV: anxiety; NASB: concern)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/כַעְסִ֖/י",
+        "phrase": "and my vexation",
+        "literal": "and-my-anger",
+        "source": "H3708 (KJV: grief; ESV: vexation; NASB: provocation)"
+      },
+      {
+        "position": 12,
+        "surface": "דִּבַּ֥רְתִּי",
+        "phrase": "I have spoken",
+        "literal": "I-have-spoken",
+        "source": "H1696 (KJV: spoken; ESV: speaking; NASB: spoken)"
+      },
+      {
+        "position": 13,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: hitherto; ESV: all along; NASB: until now)"
+      },
+      {
+        "position": 14,
+        "surface": "הֵֽנָּה",
+        "phrase": "now",
+        "literal": "hitherto",
+        "source": "H2008 (KJV: hitherto; ESV: all along; NASB: until now)"
+      }
+    ]
+  }
+]
