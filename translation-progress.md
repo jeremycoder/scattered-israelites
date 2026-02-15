@@ -17,10 +17,10 @@ Word-by-word English translations generated via Perplexity AI (`sonar-pro`) and 
 | Book | Chapters | Verses | Translated | Status |
 |------|----------|--------|------------|--------|
 | Joshua | 24 | 658 | 658 | Done |
-| Judges | 21 | 618 | 0 | Not started |
-| Ruth | 4 | 85 | 0 | Not started |
-| 1 Samuel | 31 | 811 | 0 | Not started |
-| 2 Samuel | 24 | 695 | 0 | Not started |
+| Judges | 21 | 618 | 618 | Done |
+| Ruth | 4 | 85 | 85 | Done |
+| 1 Samuel | 31 | 811 | 811 | Done |
+| 2 Samuel | 24 | 695 | 695 | Done |
 | 1 Kings | 22 | 817 | 0 | Not started |
 | 2 Kings | 25 | 719 | 0 | Not started |
 | 1 Chronicles | 29 | 943 | 0 | Not started |
@@ -69,5 +69,5 @@ Word-by-word English translations generated via Perplexity AI (`sonar-pro`) and 
 ## Summary
 
 - **Total OT verses**: 23,286
-- **Translated**: 6,511 (28%)
-- **Remaining**: 16,776
+- **Translated**: 8,720 (37%)
+- **Remaining**: 14,566
