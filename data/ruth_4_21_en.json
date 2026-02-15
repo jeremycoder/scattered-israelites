@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שַׂלְמוֹן֙",
+        "phrase": "and Salmon",
+        "literal": "and-Salmon",
+        "source": "H8012; KJV/ESV/NASB: 'Salmon' or 'and Salmon' as subject of begat/fathered"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "fathered",
+        "literal": "he-begat",
+        "source": "H3205; KJV: 'begat', ESV/NASB: 'fathered'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: '-[object marker]-' (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "בֹּ֔עַז",
+        "phrase": "Boaz",
+        "literal": "Boaz",
+        "source": "H1162; KJV/ESV/NASB: 'Boaz'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֹ֖עַז",
+        "phrase": "and Boaz",
+        "literal": "and-Boaz",
+        "source": "H1162; KJV/ESV/NASB: 'and Boaz' or '[Boaz]' as subject"
+      },
+      {
+        "position": 6,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "fathered",
+        "literal": "he-begat",
+        "source": "H3205; KJV: 'begat', ESV/NASB: 'fathered'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: '-[object marker]-' (untranslated)"
+      },
+      {
+        "position": 8,
+        "surface": "עוֹבֵֽד",
+        "phrase": "Obed",
+        "literal": "Obed",
+        "source": "H5744; KJV/ESV/NASB: 'Obed'"
+      }
+    ]
+  }
+]

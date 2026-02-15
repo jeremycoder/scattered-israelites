@@ -1,0 +1,88 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 20,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "כִּתְּר֤וּ",
+        "phrase": "they surrounded",
+        "literal": "they-enclosed",
+        "source": "H3803; KJV: inclosed, ESV: Surrounding, NASB: surrounded"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV/ESV/NASB: [implied]"
+      },
+      {
+        "position": 3,
+        "surface": "בִּנְיָמִן֙",
+        "phrase": "Benjamin",
+        "literal": "Benjamin",
+        "source": "H1144; KJV/ESV/NASB: Benjamites/Benjaminites/Benjamin"
+      },
+      {
+        "position": 4,
+        "surface": "הִרְדִיפֻ֔/הוּ",
+        "phrase": "they pursued them",
+        "literal": "they-pursued-him",
+        "source": "H7291; KJV: chased, ESV: pursued, NASB: pursued"
+      },
+      {
+        "position": 5,
+        "surface": "מְנוּחָ֖ה",
+        "phrase": "rest",
+        "literal": "resting-place",
+        "source": "H4496; KJV: with ease, ESV: [from Nohah], NASB: without rest"
+      },
+      {
+        "position": 6,
+        "surface": "הִדְרִיכֻ֑/הוּ",
+        "phrase": "they trod them down",
+        "literal": "they-trod-down-him",
+        "source": "H1869; KJV: trode down, ESV: trod down, NASB: trod down"
+      },
+      {
+        "position": 7,
+        "surface": "עַ֛ד",
+        "phrase": "as far as",
+        "literal": "until",
+        "source": "H5704; KJV/ESV/NASB: as far as/over against"
+      },
+      {
+        "position": 8,
+        "surface": "נֹ֥כַח",
+        "phrase": "opposite",
+        "literal": "in-front-of",
+        "source": "H5227; KJV/ESV/NASB: over against/opposite"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/גִּבְעָ֖ה",
+        "phrase": "Gibeah",
+        "literal": "the-Gibeah",
+        "source": "H1390; KJV/ESV/NASB: Gibeah"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/מִּזְרַח",
+        "phrase": "from the east",
+        "literal": "from-east",
+        "source": "H4217; KJV: toward the sunrising, ESV/NASB: on the east/toward the east"
+      },
+      {
+        "position": 11,
+        "surface": "שָֽׁמֶשׁ",
+        "phrase": "of the sun",
+        "literal": "sun",
+        "source": "H8121; KJV: sunrising, ESV/NASB: east"
+      }
+    ]
+  }
+]

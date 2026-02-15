@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 10,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁפֹּט֙",
+        "phrase": "and he judged",
+        "literal": "and-he-judged",
+        "source": "H8199 (KJV: judged; ESV: judged; NASB: judged)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "עֶשְׂרִ֥ים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "H6242 (KJV: twenty; ESV: twenty; NASB: twenty)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שָׁלֹ֖שׁ",
+        "phrase": "and three",
+        "literal": "and-three",
+        "source": "H7969 (KJV: and three; ESV: and three; NASB: and three)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁנָ֑ה",
+        "phrase": "years",
+        "literal": "year",
+        "source": "H8141 (KJV: years; ESV: years; NASB: years)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יָּ֖מָת",
+        "phrase": "and he died",
+        "literal": "and-he-died",
+        "source": "H4191 (KJV: and died; ESV: Then he died; NASB: and died)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּקָּבֵ֥ר",
+        "phrase": "and was buried",
+        "literal": "and-was-buried",
+        "source": "H6912 (KJV: and was buried; ESV: and was buried; NASB: and was buried)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/שָׁמִֽיר",
+        "phrase": "in Shamir",
+        "literal": "in-Shamir",
+        "source": "H8069 (KJV: in Shamir; ESV: in Shamir; NASB: in Shamir)"
+      }
+    ]
+  }
+]

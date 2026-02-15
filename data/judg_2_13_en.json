@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 2,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעַזְב֖וּ",
+        "phrase": "and they forsook",
+        "literal": "and-they-forsake",
+        "source": "H5800 (KJV: forsook; ESV: abandoned; NASB: forsook)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּעַבְד֥וּ",
+        "phrase": "and served",
+        "literal": "and-they-serve",
+        "source": "H5647 (KJV: served; ESV: served; NASB: served)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/בַּ֖עַל",
+        "phrase": "Baal",
+        "literal": "to-the-Baal",
+        "source": "H1168 (KJV: Baal; ESV: Baal; NASB: Baal)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לָ/עַשְׁתָּרֽוֹת",
+        "phrase": "and the Ashtaroth",
+        "literal": "and-to-the-Ashtaroth",
+        "source": "H6252 (KJV: Ashtaroth; ESV: Ashtaroth; NASB: Ashtaroth)"
+      }
+    ]
+  }
+]

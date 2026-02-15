@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 1,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/גְבוּל֙",
+        "phrase": "and-the-border",
+        "literal": "and-border",
+        "source": "H1366; KJV: 'coast', ESV/NASB: 'border'"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אֱמֹרִ֔י",
+        "phrase": "of-the-Amorite",
+        "literal": "the-Amorite",
+        "source": "H567; KJV: 'Amorites', ESV/NASB: 'Amorites'"
+      },
+      {
+        "position": 3,
+        "surface": "מִֽ/מַּעֲלֵ֖ה",
+        "phrase": "from-ascend-of",
+        "literal": "from-ascend-of",
+        "source": "H4610; KJV/ESV/NASB: 'ascent'"
+      },
+      {
+        "position": 4,
+        "surface": "עַקְרַבִּ֑ים",
+        "phrase": "Akrabbim",
+        "literal": "Scorpions",
+        "source": "H4610; KJV: 'Akrabbim', ESV/NASB: 'Akrabbim'"
+      },
+      {
+        "position": 5,
+        "surface": "מֵ/הַ/סֶּ֖לַע",
+        "phrase": "from-the-rock",
+        "literal": "from-the-rock",
+        "source": "H5553; KJV: 'the rock', ESV: 'Sela', NASB: 'the rock'"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/מָֽעְלָ/ה",
+        "phrase": "and-upward",
+        "literal": "and-upward",
+        "source": "H4605; KJV/ESV/NASB: 'upward'"
+      }
+    ]
+  }
+]

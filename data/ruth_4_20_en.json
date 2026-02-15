@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַמִּֽינָדָב֙",
+        "phrase": "and Amminadab",
+        "literal": "and-Amminadab",
+        "source": "H5992 (KJV: Amminadab; ESV/NASB: Amminadab)"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "begat",
+        "literal": "he-begat",
+        "source": "H3205 (KJV: begat; ESV: was born; NASB: was born)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied in begat/fathered/was born to])"
+      },
+      {
+        "position": 4,
+        "surface": "נַחְשׁ֔וֹן",
+        "phrase": "Nahshon",
+        "literal": "Nahshon",
+        "source": "H5177 (KJV: Nahshon; ESV/NASB: Nahshon)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/נַחְשׁ֖וֹן",
+        "phrase": "and Nahshon",
+        "literal": "and-Nahshon",
+        "source": "H5177 (KJV: Nahshon; ESV/NASB: Nahshon)"
+      },
+      {
+        "position": 6,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "begat",
+        "literal": "he-begat",
+        "source": "H3205 (KJV: begat; ESV: was born; NASB: was born)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied in begat/fathered/was born to])"
+      },
+      {
+        "position": 8,
+        "surface": "שַׂלְמָֽה",
+        "phrase": "Salmon",
+        "literal": "Salmon",
+        "source": "H8009 (KJV: Salmon; ESV/NASB: Salmon)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 2,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תָּ֖קָם",
+        "phrase": "and she rose",
+        "literal": "and-she-arose",
+        "source": "H6965 (KJV: risen up; ESV: rose; NASB: rose)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/לַקֵּ֑ט",
+        "phrase": "to glean",
+        "literal": "to-glean",
+        "source": "H3950 (KJV: to glean; ESV: to glean; NASB: to glean)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יְצַו֩",
+        "phrase": "and he commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: instructed; NASB: commanded)"
+      },
+      {
+        "position": 4,
+        "surface": "בֹּ֨עַז",
+        "phrase": "Boaz",
+        "literal": "Boaz",
+        "source": "H1162 (KJV: Boaz; ESV: Boaz; NASB: Boaz)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "[-dom-]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "נְעָרָ֜י/ו",
+        "phrase": "his young men",
+        "literal": "young-men-his",
+        "source": "H5288 (KJV: young men; ESV: young men; NASB: servants)"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 8,
+        "surface": "גַּ֣ם",
+        "phrase": "even",
+        "literal": "also-even",
+        "source": "H1571 (KJV: even; ESV: even; NASB: even)"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֧ין",
+        "phrase": "among",
+        "literal": "between-among",
+        "source": "H996 (KJV: among; ESV: among; NASB: among)"
+      },
+      {
+        "position": 10,
+        "surface": "הָֽ/עֳמָרִ֛ים",
+        "phrase": "the sheaves",
+        "literal": "the-sheaves",
+        "source": "H6016 (KJV: sheaves; ESV: sheaves; NASB: sheaves)"
+      },
+      {
+        "position": 11,
+        "surface": "תְּלַקֵּ֖ט",
+        "phrase": "let her glean",
+        "literal": "she-may-glean",
+        "source": "H3950 (KJV: glean; ESV: glean; NASB: glean)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 13,
+        "surface": "תַכְלִימֽוּ/הָ",
+        "phrase": "reproach her",
+        "literal": "you-shame-her",
+        "source": "H3637 (KJV: reproach her; ESV: reproach her; NASB: insult her)"
+      }
+    ]
+  }
+]

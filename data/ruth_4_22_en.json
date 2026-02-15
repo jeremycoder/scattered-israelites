@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֹבֵד֙",
+        "phrase": "and Obed",
+        "literal": "and-Obed",
+        "source": "H5744 (KJV: Obed; ESV: Obed; NASB: Obed)"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "begat",
+        "literal": "he-begat",
+        "source": "H3205 (KJV: begat; ESV: fathered; NASB: became the father of)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יִשָׁ֔י",
+        "phrase": "Jesse",
+        "literal": "Jesse",
+        "source": "H3448 (KJV: Jesse; ESV: Jesse; NASB: Jesse)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יִשַׁ֖י",
+        "phrase": "and Jesse",
+        "literal": "and-Jesse",
+        "source": "H3448 (KJV: and Jesse; ESV: and Jesse; NASB: and Jesse)"
+      },
+      {
+        "position": 6,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "begat",
+        "literal": "he-begat",
+        "source": "H3205 (KJV: begat; ESV: fathered; NASB: became the father of)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "דָּוִֽד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      }
+    ]
+  }
+]

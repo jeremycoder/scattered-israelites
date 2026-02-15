@@ -1,0 +1,39 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 10,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣מָת",
+        "phrase": "And Jair died",
+        "literal": "and-he-died",
+        "source": "H4191 (die); KJV: died, ESV: died, NASB: died"
+      },
+      {
+        "position": 2,
+        "surface": "יָאִ֔יר",
+        "phrase": "Jair",
+        "literal": "Jair",
+        "source": "H2971 (Jair); KJV: Jair, ESV: Jair, NASB: Jair"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּקָּבֵ֖ר",
+        "phrase": "and was buried",
+        "literal": "and-he-was-buried",
+        "source": "H6912 (bury); KJV: was buried, ESV: was buried, NASB: was buried"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/קָמֽוֹן",
+        "phrase": "in Kamon",
+        "literal": "in-Kamon",
+        "source": "H7056 (Kamon); KJV: in Camon, ESV: in Kamon, NASB: in Kamon"
+      }
+    ]
+  }
+]

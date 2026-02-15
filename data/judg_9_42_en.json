@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 9,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it was",
+        "literal": "and-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'On the following day'; NASB: 'Now it came about')"
+      },
+      {
+        "position": 2,
+        "surface": "מִֽ/מָּחֳרָ֔ת",
+        "phrase": "on the next day",
+        "literal": "from-tomorrow",
+        "source": "H4283 (KJV: 'on the morrow'; ESV: 'the following day'; NASB: 'the next day')"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֵּצֵ֥א",
+        "phrase": "went out",
+        "literal": "and-went-out",
+        "source": "H3318 (KJV: 'went out'; ESV: 'went out'; NASB: 'went out')"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: 'the people'; ESV: 'the people'; NASB: 'the people')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שָּׂדֶ֑ה",
+        "phrase": "to the field",
+        "literal": "to-the-field",
+        "source": "H7704 (KJV: 'into the field'; ESV: 'into the field'; NASB: 'to the field')"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּגִּ֖דוּ",
+        "phrase": "and they told",
+        "literal": "and-they-told",
+        "source": "H5046 (KJV: 'they told'; ESV: 'was told'; NASB: 'it was told')"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/אֲבִימֶֽלֶךְ",
+        "phrase": "to Abimelech",
+        "literal": "to-Abimelech",
+        "source": "H40 (KJV: 'Abimelech'; ESV: 'Abimelech'; NASB: 'Abimelech')"
+      }
+    ]
+  }
+]

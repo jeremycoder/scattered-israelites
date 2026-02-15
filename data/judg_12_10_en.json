@@ -1,0 +1,46 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 12,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣מָת",
+        "phrase": "Then he died",
+        "literal": "and-he-died",
+        "source": "H4191; KJV: 'Then died', ESV: 'died', NASB: 'died'"
+      },
+      {
+        "position": 2,
+        "surface": "אִבְצָ֔ן",
+        "phrase": "Ibzan",
+        "literal": "Ibzan",
+        "source": "H78; KJV: 'Ibzan', ESV: 'Ibzan', NASB: 'Ibzan'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּקָּבֵ֖ר",
+        "phrase": "and he was buried",
+        "literal": "and-he-was-buried",
+        "source": "H6912; KJV: 'was buried', ESV: 'was buried', NASB: 'was buried'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/בֵ֥ית",
+        "phrase": "in",
+        "literal": "in-house-of",
+        "source": "H1035; KJV/ESV/NASB: 'in' (with Bethlehem)"
+      },
+      {
+        "position": 5,
+        "surface": "לָֽחֶם",
+        "phrase": "Bethlehem",
+        "literal": "bread",
+        "source": "H1035; KJV: 'Bethlehem', ESV: 'Bethlehem', NASB: 'Bethlehem'"
+      }
+    ]
+  }
+]

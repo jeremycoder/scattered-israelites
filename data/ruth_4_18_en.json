@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה֙",
+        "phrase": "Now these",
+        "literal": "and-these",
+        "source": "H428 (KJV: 'these'; ESV: 'these'; NASB: 'these')"
+      },
+      {
+        "position": 2,
+        "surface": "תּוֹלְד֣וֹת",
+        "phrase": "generations of",
+        "literal": "generations-of",
+        "source": "H8435 (KJV: 'generations'; ESV: 'generations'; NASB: 'genealogy')"
+      },
+      {
+        "position": 3,
+        "surface": "פָּ֔רֶץ",
+        "phrase": "Perez",
+        "literal": "Perez",
+        "source": "H6557 (KJV: 'Pharez'; ESV: 'Perez'; NASB: 'Perez')"
+      },
+      {
+        "position": 4,
+        "surface": "פֶּ֖רֶץ",
+        "phrase": "Perez",
+        "literal": "Perez",
+        "source": "H6557 (KJV: 'Pharez'; ESV: 'Perez'; NASB: 'Perez')"
+      },
+      {
+        "position": 5,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "begot",
+        "literal": "begat",
+        "source": "H3205 (KJV: 'begat'; ESV: 'fathered'; NASB: 'became the father of')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 7,
+        "surface": "חֶצְרֽוֹן",
+        "phrase": "Hezron",
+        "literal": "Hezron",
+        "source": "H2696 (KJV: 'Hezron'; ESV: 'Hezron'; NASB: 'Hezron')"
+      }
+    ]
+  }
+]

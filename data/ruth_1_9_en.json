@@ -1,0 +1,102 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יִתֵּ֤ן",
+        "phrase": "grant",
+        "literal": "give-(jussive-3ms)",
+        "source": "H5414 (KJV: grant; ESV: grant; NASB: grant)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "לָ/כֶ֔ם",
+        "phrase": "to you",
+        "literal": "to/you(pl)",
+        "source": " (KJV: you; ESV: you; NASB: you)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מְצֶ֣אןָ",
+        "phrase": "and find",
+        "literal": "and/find!(jussive-2fp)",
+        "source": "H4672 (KJV: find; ESV: find; NASB: find)"
+      },
+      {
+        "position": 5,
+        "surface": "מְנוּחָ֔ה",
+        "phrase": "rest",
+        "literal": "rest(f)",
+        "source": "H4496 (KJV: rest; ESV: rest; NASB: rest)"
+      },
+      {
+        "position": 6,
+        "surface": "אִשָּׁ֖ה",
+        "phrase": "each",
+        "literal": "woman(f)",
+        "source": "H802 (KJV: each; ESV: each; NASB: each)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house(m)-construct",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 8,
+        "surface": "אִישָׁ֑/הּ",
+        "phrase": "of her husband",
+        "literal": "man(m)/her(f)",
+        "source": "H376 (KJV: husband; ESV: husband; NASB: husband)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תִּשַּׁ֣ק",
+        "phrase": "and she kissed",
+        "literal": "and/kiss-(waw-consec-3fs)",
+        "source": "H5401 (KJV: kissed; ESV: kissed; NASB: kissed)"
+      },
+      {
+        "position": 10,
+        "surface": "לָ/הֶ֔ן",
+        "phrase": "them",
+        "literal": "to/them(fp)",
+        "source": " (KJV: them; ESV: them; NASB: them)"
+      },
+      {
+        "position": 11,
+        "surface": "וַ/תִּשֶּׂ֥אנָה",
+        "phrase": "and they lifted up",
+        "literal": "and/lift up-(waw-consec-3fp)",
+        "source": "H5375 (KJV: lifted up; ESV: lifted up; NASB: lifted up)"
+      },
+      {
+        "position": 12,
+        "surface": "קוֹלָ֖/ן",
+        "phrase": "their voice",
+        "literal": "voice(m)/their(fp)",
+        "source": "H6963 (KJV: voice; ESV: voices; NASB: voices)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/תִּבְכֶּֽינָה",
+        "phrase": "and wept",
+        "literal": "and/weep-(waw-consec-3fp)",
+        "source": "H1058 (KJV: wept; ESV: wept; NASB: wept)"
+      }
+    ]
+  }
+]

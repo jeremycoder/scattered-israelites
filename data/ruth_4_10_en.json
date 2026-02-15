@@ -1,0 +1,186 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַ֣ם",
+        "phrase": "Also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: Also; ESV: also; NASB: Moreover)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "ר֣וּת",
+        "phrase": "Ruth",
+        "literal": "Ruth",
+        "source": "H7327 (KJV: Ruth; ESV: Ruth; NASB: Ruth)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מֹּאֲבִיָּה֩",
+        "phrase": "the Moabite",
+        "literal": "the-Moabite-[f.s.]",
+        "source": "H4125 (KJV: the Moabitess; ESV: the Moabite; NASB: the Moabitess)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֨שֶׁת",
+        "phrase": "wife of",
+        "literal": "wife-of",
+        "source": "H802 (KJV: wife; ESV: wife; NASB: wife)"
+      },
+      {
+        "position": 6,
+        "surface": "מַחְל֜וֹן",
+        "phrase": "Mahlon",
+        "literal": "Mahlon",
+        "source": "H4248 (KJV: Mahlon; ESV: Mahlon; NASB: Mahlon)"
+      },
+      {
+        "position": 7,
+        "surface": "קָנִ֧יתִי",
+        "phrase": "I have acquired",
+        "literal": "I-have-acquired",
+        "source": "H7069 (KJV: bought; ESV: acquired; NASB: acquired)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ֣/י",
+        "phrase": "for myself",
+        "literal": "to-me",
+        "source": "- (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/אִשָּׁ֗ה",
+        "phrase": "as a wife",
+        "literal": "to-wife",
+        "source": "H802 (KJV: to be his wife; ESV: as my wife; NASB: to be my wife)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/הָקִ֤ים",
+        "phrase": "to raise up",
+        "literal": "to-cause-to-stand",
+        "source": "H6965 (KJV: to raise up; ESV: to maintain; NASB: to raise up)"
+      },
+      {
+        "position": 11,
+        "surface": "שֵׁם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מֵּת֙",
+        "phrase": "of the deceased",
+        "literal": "the-dead-[one]",
+        "source": "H4191 (KJV: that is dead; ESV: the dead; NASB: the deceased)"
+      },
+      {
+        "position": 13,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 14,
+        "surface": "נַ֣חֲלָת֔/וֹ",
+        "phrase": "his inheritance",
+        "literal": "inheritance-his",
+        "source": "H5159 (KJV: inheritance; ESV: his property; NASB: his inheritance)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/לֹא",
+        "phrase": "that ... not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: that ... not; ESV: so that ... not; NASB: so that ... not)"
+      },
+      {
+        "position": 16,
+        "surface": "יִכָּרֵ֧ת",
+        "phrase": "be cut off",
+        "literal": "be-cut-off",
+        "source": "H3772 (KJV: be cut off; ESV: be cut off; NASB: be cut off)"
+      },
+      {
+        "position": 17,
+        "surface": "שֵׁם",
+        "phrase": "the name",
+        "literal": "name",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 18,
+        "surface": "הַ/מֵּ֛ת",
+        "phrase": "of the dead",
+        "literal": "the-dead-[one]",
+        "source": "H4191 (KJV: the dead; ESV: the dead; NASB: the deceased)"
+      },
+      {
+        "position": 19,
+        "surface": "מֵ/עִ֥ם",
+        "phrase": "from among",
+        "literal": "from-with",
+        "source": "H5973 (KJV: from among; ESV: from among; NASB: from among)"
+      },
+      {
+        "position": 20,
+        "surface": "אֶחָ֖י/ו",
+        "phrase": "his brothers",
+        "literal": "brothers-his",
+        "source": "H251 (KJV: his brethren; ESV: his relatives; NASB: his brothers)"
+      },
+      {
+        "position": 21,
+        "surface": "וּ/מִ/שַּׁ֣עַר",
+        "phrase": "and from the gate",
+        "literal": "and-from-gate",
+        "source": "H8179 (KJV: and from the gate; ESV: and from the gate; NASB: and from the gate)"
+      },
+      {
+        "position": 22,
+        "surface": "מְקוֹמ֑/וֹ",
+        "phrase": "of his place",
+        "literal": "place-his",
+        "source": "H4725 (KJV: his place; ESV: his village; NASB: his place)"
+      },
+      {
+        "position": 23,
+        "surface": "עֵדִ֥ים",
+        "phrase": "witnesses",
+        "literal": "witnesses",
+        "source": "H5707 (KJV: witnesses; ESV: witnesses; NASB: witnesses)"
+      },
+      {
+        "position": 24,
+        "surface": "אַתֶּ֖ם",
+        "phrase": "you",
+        "literal": "you-[pl.]",
+        "source": "H859 (KJV: ye; ESV: You; NASB: you)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/יּֽוֹם",
+        "phrase": "today",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: today; NASB: today)"
+      }
+    ]
+  }
+]

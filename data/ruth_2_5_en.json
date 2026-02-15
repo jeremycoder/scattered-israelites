@@ -1,0 +1,74 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 2,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֤אמֶר",
+        "phrase": "Then said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "בֹּ֨עַז֙",
+        "phrase": "Boaz",
+        "literal": "Boaz",
+        "source": "H1162 (KJV: Boaz; ESV: Boaz; NASB: Boaz)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/נַעֲר֔/וֹ",
+        "phrase": "to his servant",
+        "literal": "to-servant-his",
+        "source": "H5288 (KJV: servant; ESV: young man; NASB: servant)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/נִּצָּ֖ב",
+        "phrase": "who was set",
+        "literal": "the-standing",
+        "source": "H5324 (KJV: set; ESV: in charge; NASB: in charge)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon",
+        "source": "H5921 (KJV: over; ESV: of; NASB: of)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/קּֽוֹצְרִ֑ים",
+        "phrase": "the reapers",
+        "literal": "the-reaping",
+        "source": "H7114 (KJV: reapers; ESV: reapers; NASB: reapers)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/מִ֖י",
+        "phrase": "to whom",
+        "literal": "to-who",
+        "source": "H4310 (KJV: whose; ESV: whose; NASB: whose)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/נַּעֲרָ֥ה",
+        "phrase": "young woman",
+        "literal": "the-girl",
+        "source": "H5291 (KJV: damsel; ESV: young woman; NASB: young woman)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זֹּֽאת",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 5,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּ/פְרֹ֤עַ",
+        "phrase": "when-led",
+        "literal": "in-leading",
+        "source": "H6544; KJV 'for the avenging', ESV/NASB 'when the leaders led'"
+      },
+      {
+        "position": 2,
+        "surface": "פְּרָעוֹת֙",
+        "phrase": "leaders",
+        "literal": "leadings/leaders",
+        "source": "H6546; KJV 'avenging', ESV/NASB 'leaders'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/יִשְׂרָאֵ֔ל",
+        "phrase": "in-Israel",
+        "literal": "in-Israel",
+        "source": "H3478; all 'in Israel'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/הִתְנַדֵּ֖ב",
+        "phrase": "when-volunteered",
+        "literal": "in-offering-themselves",
+        "source": "H5068; KJV 'willingly offered', ESV/NASB 'volunteered'"
+      },
+      {
+        "position": 5,
+        "surface": "עָ֑ם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "H5971; all 'people'"
+      },
+      {
+        "position": 6,
+        "surface": "בָּרֲכ֖וּ",
+        "phrase": "bless",
+        "literal": "bless",
+        "source": "H1288; all 'Praise/Bless'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB 'the LORD'"
+      }
+    ]
+  }
+]

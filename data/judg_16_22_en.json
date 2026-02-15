@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 16,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֧חֶל",
+        "phrase": "and it began",
+        "literal": "and-it-began",
+        "source": "H2490; KJV 'Howbeit', ESV/NASB 'began'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׂעַר",
+        "phrase": "the hair",
+        "literal": "hair-def",
+        "source": "H8181; KJV/ESV/NASB 'hair'"
+      },
+      {
+        "position": 3,
+        "surface": "רֹאשׁ֛/וֹ",
+        "phrase": "of his head",
+        "literal": "head-his",
+        "source": "H7218; KJV/ESV/NASB 'head'"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/צַמֵּ֖חַ",
+        "phrase": "to grow",
+        "literal": "to-grow",
+        "source": "H6779; KJV/ESV/NASB 'grow'"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as when",
+        "literal": "as-that",
+        "source": "H834; KJV 'after', ESV/NASB 'as'"
+      },
+      {
+        "position": 6,
+        "surface": "גֻּלָּֽח",
+        "phrase": "it was shaved",
+        "literal": "it-was-shaven",
+        "source": "H1548; KJV 'he was shaven', ESV/NASB 'it had been shaved"
+      }
+    ]
+  }
+]

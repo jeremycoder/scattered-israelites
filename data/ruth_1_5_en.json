@@ -1,0 +1,81 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּמ֥וּתוּ",
+        "phrase": "and they died",
+        "literal": "and-they-died",
+        "source": "H4191 (KJV: died; ESV: died; NASB: died)"
+      },
+      {
+        "position": 2,
+        "surface": "גַם",
+        "phrase": "also",
+        "literal": "also",
+        "source": "H1571 (KJV: also; ESV: also; NASB: also)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁנֵי/הֶ֖ם",
+        "phrase": "both of them",
+        "literal": "two-of-them",
+        "source": "H8147 (KJV: both; ESV: both; NASB: both)"
+      },
+      {
+        "position": 4,
+        "surface": "מַחְל֣וֹן",
+        "phrase": "Mahlon",
+        "literal": "Mahlon",
+        "source": "H4248 (KJV: Mahlon; ESV: Mahlon; NASB: Mahlon)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/כִלְי֑וֹן",
+        "phrase": "and Kilion",
+        "literal": "and-Kilion",
+        "source": "H3630 (KJV: and Chilion; ESV: and Chilion; NASB: and Kilion)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/תִּשָּׁאֵר֙",
+        "phrase": "and she was left",
+        "literal": "and-she-was-left",
+        "source": "H7604 (KJV: was left; ESV: was left; NASB: was left)"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/אִשָּׁ֔ה",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "H802 (KJV: the woman; ESV: the woman; NASB: the woman)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/שְּׁנֵ֥י",
+        "phrase": "without her two",
+        "literal": "from-two-of",
+        "source": "H8147 (KJV: of her two; ESV: of her two; NASB: of her two)"
+      },
+      {
+        "position": 9,
+        "surface": "יְלָדֶ֖י/הָ",
+        "phrase": "children",
+        "literal": "children-of-her",
+        "source": "H3206 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/מֵ/אִישָֽׁ/הּ",
+        "phrase": "and from her husband",
+        "literal": "and-from-husband-of-her",
+        "source": "H376 (KJV: her husband; ESV: her husband; NASB: her husband)"
+      }
+    ]
+  }
+]

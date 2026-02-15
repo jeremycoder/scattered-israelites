@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 12,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁפֹּ֤ט",
+        "phrase": "judged",
+        "literal": "and-he-judged",
+        "source": "H8199 (KJV: judged; ESV: judged; NASB: judged)"
+      },
+      {
+        "position": 2,
+        "surface": "אַֽחֲרָי/ו֙",
+        "phrase": "after him",
+        "literal": "after-him",
+        "source": "H310 (KJV: after him; ESV: after him; NASB: after him)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 5,
+        "surface": "אִבְצָ֖ן",
+        "phrase": "Ibzan",
+        "literal": "Ibzan",
+        "source": "H78 (KJV: Ibzan; ESV: Ibzan; NASB: Ibzan)"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/בֵּ֥ית",
+        "phrase": "from Beth",
+        "literal": "from-house-of",
+        "source": "H1035 (KJV: of Beth-lehem; ESV: of Bethlehem; NASB: of Bethlehem)"
+      },
+      {
+        "position": 7,
+        "surface": "לָֽחֶם",
+        "phrase": "lehem",
+        "literal": "lehem",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      }
+    ]
+  }
+]

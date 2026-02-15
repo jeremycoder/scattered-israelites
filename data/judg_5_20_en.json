@@ -1,0 +1,67 @@
+[
+  {
+    "book": "Judges",
+    "chapter": 5,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "From",
+        "literal": "from",
+        "source": "H4480; KJV/NET/ESV/NASB: 'from' (preposition indicating source/origin)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁמַ֖יִם",
+        "phrase": "the heavens",
+        "literal": "heavens",
+        "source": "H8064; KJV: 'heaven'; ESV/NET: 'sky/heaven'; NASB: 'heaven' (dual form denoting sky/heavens)"
+      },
+      {
+        "position": 3,
+        "surface": "נִלְחָ֑מוּ",
+        "phrase": "they fought",
+        "literal": "they-fought",
+        "source": "H3898; KJV/ESV/NASB: 'fought' (niphal perfect 3cp: reciprocal fighting action)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כּֽוֹכָבִים֙",
+        "phrase": "the stars",
+        "literal": "the-stars",
+        "source": "H3556; KJV/ESV/NASB: 'stars' (definite plural noun)"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/מְּסִלּוֹתָ֔/ם",
+        "phrase": "from their courses",
+        "literal": "from-courses-their",
+        "source": "H4546; KJV: 'courses'; ESV: 'paths'; NASB: 'highways' (preposition + noun + 3mp suffix: paths/roads of them)"
+      },
+      {
+        "position": 6,
+        "surface": "נִלְחֲמ֖וּ",
+        "phrase": "they fought",
+        "literal": "they-fought",
+        "source": "H3898; KJV/ESV/NASB: 'fought' (niphal perfect 3cp, parallel to pos.3)"
+      },
+      {
+        "position": 7,
+        "surface": "עִם",
+        "phrase": "against",
+        "literal": "with/against",
+        "source": "H5973; KJV/ESV/NASB: 'against' (preposition, contextual 'against' in battle sense)"
+      },
+      {
+        "position": 8,
+        "surface": "סִיסְרָֽא",
+        "phrase": "Sisera",
+        "literal": "Sisera",
+        "source": "H5516; KJV/ESV/NASB: 'Sisera' (proper name)"
+      }
+    ]
+  }
+]

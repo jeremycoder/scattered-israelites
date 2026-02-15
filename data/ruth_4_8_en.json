@@ -1,0 +1,60 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 4,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֧אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/גֹּאֵ֛ל",
+        "phrase": "the redeemer",
+        "literal": "the-redeemer",
+        "source": "H1350 (KJV: kinsman; ESV: redeemer; NASB: closest relative)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/בֹ֖עַז",
+        "phrase": "to Boaz",
+        "literal": "to-Boaz",
+        "source": "H1162 (KJV: Boaz; ESV: Boaz; NASB: Boaz)"
+      },
+      {
+        "position": 4,
+        "surface": "קְנֵה",
+        "phrase": "Buy",
+        "literal": "buy",
+        "source": "H7069 (KJV: Buy; ESV: Buy; NASB: Buy)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֑/ךְ",
+        "phrase": "it for yourself",
+        "literal": "for-you",
+        "source": " (KJV: it for thee; ESV: it yourself; NASB: it for yourself)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּשְׁלֹ֖ף",
+        "phrase": "And he drew off",
+        "literal": "and-he-drew-off",
+        "source": "H8025 (KJV: drew off; ESV: removed; NASB: removed)"
+      },
+      {
+        "position": 7,
+        "surface": "נַעֲלֽ/וֹ",
+        "phrase": "his sandal",
+        "literal": "sandal-his",
+        "source": "H5275 (KJV: his shoe; ESV: his sandal; NASB: his sandal)"
+      }
+    ]
+  }
+]

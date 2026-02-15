@@ -1,0 +1,53 @@
+[
+  {
+    "book": "Ruth",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּאמַ֖רְנָה",
+        "phrase": "And they said",
+        "literal": "and-they-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "לָּ֑/הּ",
+        "phrase": "to her",
+        "literal": "to-her",
+        "source": " (KJV: unto her; ESV: to her; NASB: to her)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּי",
+        "phrase": "surely",
+        "literal": "that",
+        "source": "H3588 (KJV: Surely; ESV: No; NASB: No, but)"
+      },
+      {
+        "position": 4,
+        "surface": "אִתָּ֥/ךְ",
+        "phrase": "with you",
+        "literal": "with-you",
+        "source": "H854 (KJV: with thee; ESV: with you; NASB: with you)"
+      },
+      {
+        "position": 5,
+        "surface": "נָשׁ֖וּב",
+        "phrase": "we will return",
+        "literal": "we-will-return",
+        "source": "H7725 (KJV: we will return; ESV: we will return; NASB: we will surely return)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/עַמֵּֽ/ךְ",
+        "phrase": "to your people",
+        "literal": "to-people-your",
+        "source": "H5971 (KJV: unto thy people; ESV: to your people; NASB: to your people)"
+      }
+    ]
+  }
+]
