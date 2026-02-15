@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/מֶּ֤לֶךְ",
+        "phrase": "Now the king",
+        "literal": "and-the-king",
+        "source": "H4428; KJV: king, ESV: king, NASB: king"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV: David, ESV: David, NASB: David"
+      },
+      {
+        "position": 3,
+        "surface": "זָקֵ֔ן",
+        "phrase": "was old",
+        "literal": "had-grown-old",
+        "source": "H2204; KJV: stricken in years, ESV: advanced in years, NASB: old"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ֖א",
+        "phrase": "advanced",
+        "literal": "had-come",
+        "source": "H935; KJV: stricken (in ba-yamim), ESV: advanced (in years), NASB: advanced (in days)"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/יָּמִ֑ים",
+        "phrase": "in days",
+        "literal": "in-the-days",
+        "source": "H3117; KJV: years, ESV: years, NASB: days"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְכַסֻּ֨/הוּ֙",
+        "phrase": "they covered him",
+        "literal": "and-they-covered-him",
+        "source": "H3680; KJV: they covered him, ESV: they covered him, NASB: they covered him"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/בְּגָדִ֔ים",
+        "phrase": "with clothes",
+        "literal": "with-the-clothes",
+        "source": "H899; KJV: clothes, ESV: clothes, NASB: clothes"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "but not",
+        "literal": "and-not",
+        "source": "H3808; KJV: but, ESV: but, NASB: but"
+      },
+      {
+        "position": 9,
+        "surface": "יִחַ֖ם",
+        "phrase": "he got warm",
+        "literal": "he-got-warm",
+        "source": "H3179; KJV: gat no heat, ESV: get warm, NASB: get warm"
+      },
+      {
+        "position": 10,
+        "surface": "לֽ/וֹ",
+        "phrase": "for him",
+        "literal": "to-him",
+        "source": "; KJV: -, ESV: -, NASB: -"
+      }
+    ]
+  }
+]

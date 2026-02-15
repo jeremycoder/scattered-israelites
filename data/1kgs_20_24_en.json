@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and this",
+        "literal": "and-ACC",
+        "source": "H853; KJV 'this thing', ESV 'this thing', NASB 'this thing'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דָּבָ֥ר",
+        "phrase": "the matter",
+        "literal": "the-word",
+        "source": "H1697; KJV 'thing', ESV 'thing', NASB 'thing'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/זֶּ֖ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088; KJV 'this', ESV 'this', NASB 'this'"
+      },
+      {
+        "position": 4,
+        "surface": "עֲשֵׂ֑ה",
+        "phrase": "do",
+        "literal": "do!",
+        "source": "H6213; KJV 'Do', ESV 'do', NASB 'do'"
+      },
+      {
+        "position": 5,
+        "surface": "הָסֵ֤ר",
+        "phrase": "remove",
+        "literal": "remove!",
+        "source": "H5493; KJV 'take', ESV 'remove', NASB 'remove'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מְּלָכִים֙",
+        "phrase": "the kings",
+        "literal": "the-kings",
+        "source": "H4428; KJV 'kings', ESV 'kings', NASB 'kings'"
+      },
+      {
+        "position": 7,
+        "surface": "אִ֣ישׁ",
+        "phrase": "each man",
+        "literal": "man",
+        "source": "H376; KJV 'every man', ESV 'every man', NASB 'each man'"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/מְּקֹמ֔/וֹ",
+        "phrase": "from his place",
+        "literal": "from-place-his",
+        "source": "H4725; KJV 'out of his place', ESV 'from his place', NASB 'from his place'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שִׂ֥ים",
+        "phrase": "and appoint",
+        "literal": "and-put",
+        "source": "H7760; KJV 'put', ESV 'put', NASB 'put'"
+      },
+      {
+        "position": 10,
+        "surface": "פַּח֖וֹת",
+        "phrase": "governors",
+        "literal": "governors",
+        "source": "H6346; KJV 'captains', ESV 'governors', NASB 'governors'"
+      },
+      {
+        "position": 11,
+        "surface": "תַּחְתֵּי/הֶֽם",
+        "phrase": "in their place",
+        "literal": "under-them",
+        "source": "H8478; KJV 'rooms', ESV 'rooms', NASB 'their place'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 22,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַ֥ךְ",
+        "phrase": "however",
+        "literal": "only-but",
+        "source": "H389 (KJV: howbeit; ESV: the high places; NASB: the high places)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/בָּמ֖וֹת",
+        "phrase": "the high places",
+        "literal": "the-high.places",
+        "source": "H1116 (KJV: high places; ESV: high places; NASB: high places)"
+      },
+      {
+        "position": 3,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: were not taken away; NASB: were not taken away)"
+      },
+      {
+        "position": 4,
+        "surface": "סָ֑רוּ",
+        "phrase": "were removed",
+        "literal": "they-turned.aside",
+        "source": "H5493 (KJV: taken away; ESV: taken away; NASB: removed)"
+      },
+      {
+        "position": 5,
+        "surface": "ע֥וֹד",
+        "phrase": "still",
+        "literal": "still",
+        "source": "H5750 (KJV: still; ESV: still; NASB: still)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/עָ֛ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 7,
+        "surface": "מְזַבְּחִ֥ים",
+        "phrase": "sacrificing",
+        "literal": "sacrificing",
+        "source": "H2076 (KJV: sacrificed; ESV: sacrificed; NASB: were sacrificing)"
+      },
+      {
+        "position": 8,
+        "surface": "וּֽ/מְקַטְּרִ֖ים",
+        "phrase": "and burning incense",
+        "literal": "and-burning.incense",
+        "source": "H6999 (KJV: offered; ESV: offered; NASB: burning incense)"
+      },
+      {
+        "position": 9,
+        "surface": "בַּ/בָּמֽוֹת",
+        "phrase": "in the high places",
+        "literal": "in~the-high.places",
+        "source": "H1116 (KJV: in the high places; ESV: in the high places; NASB: in the high places)"
+      }
+    ]
+  }
+]

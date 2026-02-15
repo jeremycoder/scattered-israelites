@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 15,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִלְחָמָ֨ה",
+        "phrase": "and-war",
+        "literal": "and-war",
+        "source": "H4421; KJV/ESV/NASB: 'war' (1 Kings 14:30 parallel)"
+      },
+      {
+        "position": 2,
+        "surface": "הָיְתָ֧ה",
+        "phrase": "there-was",
+        "literal": "she-was",
+        "source": "H1961; KJV: 'was'; ESV: 'was'; NASB: 'was'"
+      },
+      {
+        "position": 3,
+        "surface": "בֵין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996; KJV/ESV/NASB: 'between'"
+      },
+      {
+        "position": 4,
+        "surface": "רְחַבְעָ֛ם",
+        "phrase": "Rehoboam",
+        "literal": "Rehoboam",
+        "source": "H7346; KJV/ESV/NASB: 'Rehoboam'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֥ין",
+        "phrase": "and-between",
+        "literal": "and-between",
+        "source": "H996; KJV/ESV/NASB: 'and'/'between'"
+      },
+      {
+        "position": 6,
+        "surface": "יָרָבְעָ֖ם",
+        "phrase": "Jeroboam",
+        "literal": "Jeroboam",
+        "source": "H3379; KJV/ESV/NASB: 'Jeroboam'"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV/ESV/NASB: 'all'"
+      },
+      {
+        "position": 8,
+        "surface": "יְמֵ֥י",
+        "phrase": "days",
+        "literal": "days-of",
+        "source": "H3117; KJV/ESV/NASB: 'days'"
+      },
+      {
+        "position": 9,
+        "surface": "חַיָּֽי/ו",
+        "phrase": "his-life",
+        "literal": "life-of/him",
+        "source": "H2416; KJV/ESV/NASB: 'his life'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הִנֵּ֛ה",
+        "phrase": "and behold",
+        "literal": "and-lo",
+        "source": "H2009; KJV: lo, ESV: while, NASB: Behold"
+      },
+      {
+        "position": 2,
+        "surface": "עוֹדֶ֥/נָּה",
+        "phrase": "still she",
+        "literal": "still-her",
+        "source": "H5750; KJV: yet, ESV: still, NASB: still"
+      },
+      {
+        "position": 3,
+        "surface": "מְדַבֶּ֖רֶת",
+        "phrase": "speaking",
+        "literal": "speaking-fs",
+        "source": "H1696; KJV: talked, ESV: speaking, NASB: speaking"
+      },
+      {
+        "position": 4,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV: with, ESV: with, NASB: with"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מֶּ֑לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV: the king, ESV: the king, NASB: the king"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/נָתָ֥ן",
+        "phrase": "and Nathan",
+        "literal": "and-Nathan",
+        "source": "H5414; KJV: Nathan, ESV: Nathan, NASB: Nathan"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/נָּבִ֖יא",
+        "phrase": "the prophet",
+        "literal": "the-prophet",
+        "source": "H5030; KJV: the prophet, ESV: the prophet, NASB: the prophet"
+      },
+      {
+        "position": 8,
+        "surface": "בָּֽא",
+        "phrase": "came in",
+        "literal": "came-in",
+        "source": "H935; KJV: came in, ESV: came in, NASB: came in"
+      }
+    ]
+  }
+]

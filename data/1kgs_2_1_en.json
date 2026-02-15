@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרְב֥וּ",
+        "phrase": "drew near",
+        "literal": "and-they-drew-near",
+        "source": "H7126 (KJV: drew nigh; ESV: drew near; NASB: drew near)"
+      },
+      {
+        "position": 2,
+        "surface": "יְמֵֽי",
+        "phrase": "the days",
+        "literal": "days-of",
+        "source": "H3117 (KJV: the days; ESV: time; NASB: time)"
+      },
+      {
+        "position": 3,
+        "surface": "דָוִ֖ד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732 (KJV: of David; ESV: David's; NASB: David's)"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/מ֑וּת",
+        "phrase": "to die",
+        "literal": "to-die",
+        "source": "H4191 (KJV: that he should die; ESV: to die; NASB: to die)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְצַ֛ו",
+        "phrase": "he charged",
+        "literal": "and-he-charged",
+        "source": "H6680 (KJV: he charged; ESV: commanded; NASB: charged)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁלֹמֹ֥ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 8,
+        "surface": "בְנ֖/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121 (KJV: his son; ESV: his son; NASB: his son)"
+      },
+      {
+        "position": 9,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      }
+    ]
+  }
+]

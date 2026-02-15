@@ -1,0 +1,179 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּקְרָ֤א",
+        "phrase": "and he called",
+        "literal": "and-he-called",
+        "source": "H7121 (KJV: called; ESV: called; NASB: summoned)"
+      },
+      {
+        "position": 2,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/כָל",
+        "phrase": "to all",
+        "literal": "to-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 5,
+        "surface": "זִקְנֵ֣י",
+        "phrase": "elders",
+        "literal": "elders",
+        "source": "H2205 (KJV: elders; ESV: elders; NASB: elders)"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אָ֔רֶץ",
+        "phrase": "of the land",
+        "literal": "the-land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 8,
+        "surface": "דְּעֽוּ",
+        "phrase": "know",
+        "literal": "know!",
+        "source": "H3045 (KJV: Mark; ESV: Mark; NASB: be aware)"
+      },
+      {
+        "position": 9,
+        "surface": "נָ֣א",
+        "phrase": "please",
+        "literal": "please",
+        "source": "H4994 (KJV: I pray you; ESV: now; NASB: Please)"
+      },
+      {
+        "position": 10,
+        "surface": "וּ/רְא֔וּ",
+        "phrase": "and see",
+        "literal": "and-see!",
+        "source": "H7200 (KJV: see; ESV: see; NASB: see)"
+      },
+      {
+        "position": 11,
+        "surface": "כִּ֥י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: how; ESV: how; NASB: that)"
+      },
+      {
+        "position": 12,
+        "surface": "רָעָ֖ה",
+        "phrase": "trouble",
+        "literal": "evil",
+        "source": "H7451 (KJV: mischief; ESV: trouble; NASB: trouble)"
+      },
+      {
+        "position": 13,
+        "surface": "זֶ֣ה",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2088 (KJV: this man; ESV: this man; NASB: this man)"
+      },
+      {
+        "position": 14,
+        "surface": "מְבַקֵּ֑שׁ",
+        "phrase": "is seeking",
+        "literal": "seeking",
+        "source": "H1245 (KJV: seeketh; ESV: seeking; NASB: looking for)"
+      },
+      {
+        "position": 15,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 16,
+        "surface": "שָׁלַ֨ח",
+        "phrase": "he sent",
+        "literal": "he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 17,
+        "surface": "אֵלַ֜/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "H413 (KJV: unto me; ESV: to me; NASB: to me)"
+      },
+      {
+        "position": 18,
+        "surface": "לְ/נָשַׁ֤/י",
+        "phrase": "for my wives",
+        "literal": "for-wives-my",
+        "source": "H802 (KJV: wives; ESV: wives; NASB: wives)"
+      },
+      {
+        "position": 19,
+        "surface": "וּ/לְ/בָנַ/י֙",
+        "phrase": "and for my children",
+        "literal": "and-for-sons-my",
+        "source": "H1121 (KJV: children; ESV: children; NASB: children)"
+      },
+      {
+        "position": 20,
+        "surface": "וּ/לְ/כַסְפִּ֣/י",
+        "phrase": "and for my silver",
+        "literal": "and-for-silver-my",
+        "source": "H3701 (KJV: silver; ESV: silver; NASB: silver)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/לִ/זְהָבִ֔/י",
+        "phrase": "and for my gold",
+        "literal": "and-for-gold-my",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 23,
+        "surface": "מָנַ֖עְתִּי",
+        "phrase": "I refused",
+        "literal": "I-withheld",
+        "source": "H4513 (KJV: denied; ESV: refuse; NASB: refuse)"
+      },
+      {
+        "position": 24,
+        "surface": "מִמֶּֽ/נּוּ",
+        "phrase": "him",
+        "literal": "from-him",
+        "source": "H4480 (KJV: him; ESV: him; NASB: him)"
+      }
+    ]
+  }
+]

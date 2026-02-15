@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 3,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֛מָת",
+        "phrase": "and died",
+        "literal": "and-he-died",
+        "source": "H4191; KJV: died, ESV: died, NASB: died"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121; KJV: child, ESV: son, NASB: son"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אִשָּׁ֥ה",
+        "phrase": "of the woman",
+        "literal": "the-woman",
+        "source": "H802; KJV: woman's, ESV: woman's, NASB: woman's"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זֹּ֖את",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2063; KJV: this, ESV: this, NASB: this"
+      },
+      {
+        "position": 5,
+        "surface": "לָ֑יְלָה",
+        "phrase": "in the night",
+        "literal": "night",
+        "source": "H3915; KJV: in the night, ESV: in the night, NASB: in the night"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "because",
+        "literal": "which",
+        "source": "H834; KJV: because, ESV: because, NASB: because"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁכְבָ֖ה",
+        "phrase": "she lay",
+        "literal": "she-lay",
+        "source": "H7901; KJV: overlaid, ESV: lay, NASB: lay"
+      },
+      {
+        "position": 8,
+        "surface": "עָלָֽי/ו",
+        "phrase": "on him",
+        "literal": "on-him",
+        "source": "H5921; KJV: it, ESV: on him, NASB: on it"
+      }
+    ]
+  }
+]

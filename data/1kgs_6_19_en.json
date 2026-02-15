@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/דְבִ֧יר",
+        "phrase": "the inner sanctuary",
+        "literal": "and-inner-sanctuary",
+        "source": "H1687 (KJV: oracle; ESV: inner sanctuary; NASB: inner sanctuary)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּ/תוֹךְ",
+        "phrase": "in the midst of",
+        "literal": "in-midst-of",
+        "source": "H8432 (KJV: in the house; ESV: in the innermost part; NASB: within the house)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בַּ֛יִת",
+        "phrase": "the house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: the house; ESV: the house; NASB: the house)"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/פְּנִ֖ימָה",
+        "phrase": "within",
+        "literal": "from-within",
+        "source": "H6441 (KJV: within; ESV: in the innermost part; NASB: within)"
+      },
+      {
+        "position": 5,
+        "surface": "הֵכִ֑ין",
+        "phrase": "he prepared",
+        "literal": "he-prepared",
+        "source": "H3559 (KJV: he prepared; ESV: he prepared; NASB: he prepared)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/תִתֵּ֣ן",
+        "phrase": "to set",
+        "literal": "to-give/place",
+        "source": "H5414 (KJV: to set; ESV: to set; NASB: to place)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "אֲר֖וֹן",
+        "phrase": "the ark",
+        "literal": "ark",
+        "source": "H727 (KJV: the ark; ESV: the ark; NASB: the ark)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּרִ֥ית",
+        "phrase": "of the covenant",
+        "literal": "covenant",
+        "source": "H1285 (KJV: of the covenant; ESV: of the covenant; NASB: of the covenant)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      }
+    ]
+  }
+]

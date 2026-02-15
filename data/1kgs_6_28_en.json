@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֥ף",
+        "phrase": "And he overlaid",
+        "literal": "and-he-overlaid",
+        "source": "H6823; KJV: 'overlaid', ESV: 'overlaid', NASB: 'overlaid'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כְּרוּבִ֖ים",
+        "phrase": "the cherubim",
+        "literal": "the-cherubim",
+        "source": "H3742; KJV: 'cherubims', ESV: 'cherubim', NASB: 'cherubim'"
+      },
+      {
+        "position": 4,
+        "surface": "זָהָֽב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV: 'gold', ESV: 'gold', NASB: 'gold'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 17,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֛י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: And it came to pass; ESV: after a while; NASB: It happened)"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/קֵּ֥ץ",
+        "phrase": "at the end of",
+        "literal": "from-end-of",
+        "source": "H7093 (KJV: after; ESV: after; NASB: after)"
+      },
+      {
+        "position": 3,
+        "surface": "יָמִ֖ים",
+        "phrase": "days",
+        "literal": "days",
+        "source": "H3117 (KJV: a while; ESV: a while; NASB: a while)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּיבַ֣שׁ",
+        "phrase": "and dried up",
+        "literal": "and-it-dried-up",
+        "source": "H3001 (KJV: dried up; ESV: dried up; NASB: dried up)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נָּ֑חַל",
+        "phrase": "the brook",
+        "literal": "the-brook",
+        "source": "H5158 (KJV: the brook; ESV: the brook; NASB: the brook)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּ֛י",
+        "phrase": "because",
+        "literal": "that",
+        "source": "H3588 (KJV: because; ESV: because; NASB: because)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: no; ESV: no; NASB: no)"
+      },
+      {
+        "position": 8,
+        "surface": "הָיָ֥ה",
+        "phrase": "there was",
+        "literal": "there-was",
+        "source": "H1961 (KJV: had been; ESV: had been; NASB: was)"
+      },
+      {
+        "position": 9,
+        "surface": "גֶ֖שֶׁם",
+        "phrase": "rain",
+        "literal": "rain",
+        "source": "H1653 (KJV: rain; ESV: rain; NASB: rain)"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "H776 (KJV: in the land; ESV: in the land; NASB: in the land)"
+      }
+    ]
+  }
+]

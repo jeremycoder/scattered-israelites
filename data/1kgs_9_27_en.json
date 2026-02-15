@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 9,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֨ח",
+        "phrase": "And he sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "חִירָ֤ם",
+        "phrase": "Hiram",
+        "literal": "Hiram",
+        "source": "H2438 (KJV: Hiram; ESV: Hiram; NASB: Hiram)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּֽ/אֳנִי֙",
+        "phrase": "in the ship",
+        "literal": "in-the-ship",
+        "source": "H590 (KJV: in the navy; ESV: with the fleet; NASB: with the fleet)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲבָדָ֔י/ו",
+        "phrase": "his servants",
+        "literal": "servants-his",
+        "source": "H5650 (KJV: his servants; ESV: his servants; NASB: his servants)"
+      },
+      {
+        "position": 6,
+        "surface": "אַנְשֵׁ֣י",
+        "phrase": "men",
+        "literal": "men-of",
+        "source": "H376 (KJV: shipmen; ESV: seamen; NASB: sailors)"
+      },
+      {
+        "position": 7,
+        "surface": "אֳנִיּ֔וֹת",
+        "phrase": "of ships",
+        "literal": "ships",
+        "source": "H591 (implied in KJV: shipmen; ESV: seamen; NASB: sailors)"
+      },
+      {
+        "position": 8,
+        "surface": "יֹדְעֵ֖י",
+        "phrase": "who knew",
+        "literal": "knowing",
+        "source": "H3045 (KJV: that had knowledge; ESV: who were familiar; NASB: who knew)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יָּ֑ם",
+        "phrase": "the sea",
+        "literal": "the-sea",
+        "source": "H3220 (KJV: of the sea; ESV: with the sea; NASB: the sea)"
+      },
+      {
+        "position": 10,
+        "surface": "עִ֖ם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV: with; ESV: together with; NASB: along with)"
+      },
+      {
+        "position": 11,
+        "surface": "עַבְדֵ֥י",
+        "phrase": "servants",
+        "literal": "servants-of",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      },
+      {
+        "position": 12,
+        "surface": "שְׁלֹמֹֽה",
+        "phrase": "of Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: of Solomon; ESV: of Solomon; NASB: of Solomon)"
+      }
+    ]
+  }
+]

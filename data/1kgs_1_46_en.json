@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 46,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַם֙",
+        "phrase": "And also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: 'And also'; ESV: 'Moreover'; NASB: 'Besides')"
+      },
+      {
+        "position": 2,
+        "surface": "יָשַׁ֣ב",
+        "phrase": "has sat",
+        "literal": "he-has-sat",
+        "source": "H3427 (KJV: 'sitteth'; ESV: 'has taken his seat'; NASB: 'has sat')"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹמֹ֔ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: 'Solomon'; ESV: 'Solomon'; NASB: 'Solomon')"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֖ל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: 'on'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 5,
+        "surface": "כִּסֵּ֥א",
+        "phrase": "the throne",
+        "literal": "throne-of",
+        "source": "H3678 (KJV: 'throne'; ESV: 'throne'; NASB: 'throne')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מְּלוּכָֽה",
+        "phrase": "of the kingdom",
+        "literal": "the-of.kingdom",
+        "source": "H4410 (KJV: 'kingdom'; ESV: 'royal'; NASB: 'kingdom')"
+      }
+    ]
+  }
+]

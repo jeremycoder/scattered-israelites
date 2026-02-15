@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 18,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּלְכ֣וּ",
+        "phrase": "And the waters ran",
+        "literal": "and-they-went",
+        "source": "H3212 (KJV: ran; ESV: ran; NASB: flowed)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מַּ֔יִם",
+        "phrase": "the waters",
+        "literal": "the-waters",
+        "source": "H4325 (KJV: water; ESV: water; NASB: water)"
+      },
+      {
+        "position": 3,
+        "surface": "סָבִ֖יב",
+        "phrase": "around",
+        "literal": "around",
+        "source": "H5439 (KJV: round about; ESV: around; NASB: around)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מִּזְבֵּ֑חַ",
+        "phrase": "the altar",
+        "literal": "to-the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/גַ֥ם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: and he filled...also; ESV: and filled...also; NASB: and he also filled)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תְּעָלָ֖ה",
+        "phrase": "the trench",
+        "literal": "the-trench",
+        "source": "H8585 (KJV: trench; ESV: trench; NASB: trench)"
+      },
+      {
+        "position": 8,
+        "surface": "מִלֵּא",
+        "phrase": "he filled",
+        "literal": "he-filled",
+        "source": "H4390 (KJV: he filled; ESV: filled; NASB: he...filled)"
+      },
+      {
+        "position": 9,
+        "surface": "מָֽיִם",
+        "phrase": "with water",
+        "literal": "waters",
+        "source": "H4325 (KJV: with water; ESV: with water; NASB: with water)"
+      }
+    ]
+  }
+]

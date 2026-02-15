@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָנֹכִ֣י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 2,
+        "surface": "הֹלֵ֔ךְ",
+        "phrase": "am going",
+        "literal": "going",
+        "source": "H1980 (KJV: go; ESV: go; NASB: going)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/דֶ֖רֶךְ",
+        "phrase": "in the way",
+        "literal": "in-way",
+        "source": "H1870 (KJV: way; ESV: way; NASB: way)"
+      },
+      {
+        "position": 4,
+        "surface": "כָּל",
+        "phrase": "of all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אָ֑רֶץ",
+        "phrase": "of the earth",
+        "literal": "the-earth",
+        "source": "H776 (KJV: earth; ESV: earth; NASB: earth)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/חָזַקְתָּ֖",
+        "phrase": "and be strong",
+        "literal": "and-be.strong",
+        "source": "H2388 (KJV: be thou strong; ESV: be strong; NASB: be strong)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיִ֥יתָֽ",
+        "phrase": "and be",
+        "literal": "and-be",
+        "source": "H1961 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אִֽישׁ",
+        "phrase": "a man",
+        "literal": "to-man",
+        "source": "H376 (KJV: a man; ESV: a man; NASB: a man)"
+      }
+    ]
+  }
+]

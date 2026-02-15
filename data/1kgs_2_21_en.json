@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֕אמֶר",
+        "phrase": "And she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: And she said; ESV: She said; NASB: So she said)"
+      },
+      {
+        "position": 2,
+        "surface": "יֻתַּ֖ן",
+        "phrase": "be given",
+        "literal": "be-given",
+        "source": "H5414 (KJV: Let...be given; ESV: be given; NASB: be given)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִישַׁ֣ג",
+        "phrase": "Abishag",
+        "literal": "Abishag",
+        "source": "H49 (KJV: Abishag; ESV: Abishag; NASB: Abishag)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שֻּׁנַמִּ֑ית",
+        "phrase": "the Shunammite",
+        "literal": "the-Shunammite",
+        "source": "H7767 (KJV: the Shunammite; ESV: the Shunammite; NASB: the Shunammite)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/אֲדֹנִיָּ֥הוּ",
+        "phrase": "to Adonijah",
+        "literal": "to-Adonijah",
+        "source": "H138 (KJV: to Adonijah; ESV: to Adonijah; NASB: to Adonijah)"
+      },
+      {
+        "position": 7,
+        "surface": "אָחִ֖י/ךָ",
+        "phrase": "your brother",
+        "literal": "brother-your",
+        "source": "H251 (KJV: thy brother; ESV: your brother; NASB: your brother)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אִשָּֽׁה",
+        "phrase": "as wife",
+        "literal": "to-wife",
+        "source": "H802 (KJV: to wife; ESV: as his wife; NASB: as a wife)"
+      }
+    ]
+  }
+]

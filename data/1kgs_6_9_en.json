@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֥בֶן",
+        "phrase": "So he built",
+        "literal": "and-he-built",
+        "source": "H1129 (KJV: built; ESV: built; NASB: built)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בַּ֖יִת",
+        "phrase": "house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יְכַלֵּ֑/הוּ",
+        "phrase": "and finished it",
+        "literal": "and-he-finished-it",
+        "source": "H3615 (KJV: finished; ESV: finished; NASB: finished)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּסְפֹּ֤ן",
+        "phrase": "and he covered",
+        "literal": "and-he-covered",
+        "source": "H5603 (KJV: covered; ESV: made the ceiling; NASB: covered)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/בַּ֨יִת֙",
+        "phrase": "house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 8,
+        "surface": "גֵּבִ֔ים",
+        "phrase": "with beams",
+        "literal": "beams",
+        "source": "H1356 (KJV: beams; ESV: beams; NASB: beams)"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/שְׂדֵרֹ֖ת",
+        "phrase": "and boards",
+        "literal": "and-boards",
+        "source": "H7713 (KJV: boards; ESV: planks; NASB: planks)"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/אֲרָזִֽים",
+        "phrase": "of cedar",
+        "literal": "with-cedars",
+        "source": "H730 (KJV: cedar; ESV: cedar; NASB: cedar)"
+      }
+    ]
+  }
+]

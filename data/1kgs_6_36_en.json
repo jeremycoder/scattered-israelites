@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֨בֶן֙",
+        "phrase": "And he built",
+        "literal": "and-he-built",
+        "source": "H1129 (KJV: built; ESV: built; NASB: built)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הֶ/חָצֵ֣ר",
+        "phrase": "inner court",
+        "literal": "the-court",
+        "source": "H2691 (KJV: court; ESV: court; NASB: court)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פְּנִימִ֔ית",
+        "phrase": "inner",
+        "literal": "the-inner",
+        "source": "H6442 (KJV: inner; ESV: inner; NASB: inner)"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁלֹשָׁ֖ה",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV: three; ESV: three; NASB: three)"
+      },
+      {
+        "position": 6,
+        "surface": "טוּרֵ֣י",
+        "phrase": "rows",
+        "literal": "rows-of",
+        "source": "H2905 (KJV: rows; ESV: rows; NASB: rows)"
+      },
+      {
+        "position": 7,
+        "surface": "גָזִ֑ית",
+        "phrase": "hewn stone",
+        "literal": "hewn-stone",
+        "source": "H1496 (KJV: hewed stone; ESV: cut stone; NASB: cut stone)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/ט֖וּר",
+        "phrase": "and a row",
+        "literal": "and-row",
+        "source": "H2905 (KJV: row; ESV: row; NASB: row)"
+      },
+      {
+        "position": 9,
+        "surface": "כְּרֻתֹ֥ת",
+        "phrase": "cedar beams",
+        "literal": "cut-ones",
+        "source": "H3773 (KJV: cedar; ESV: cedar; NASB: cedar [modified])"
+      },
+      {
+        "position": 10,
+        "surface": "אֲרָזִֽים",
+        "phrase": "of cedar",
+        "literal": "cedars",
+        "source": "H730 (KJV: cedar beams; ESV: cedar beams; NASB: cedar beams)"
+      }
+    ]
+  }
+]

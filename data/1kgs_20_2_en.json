@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֧ח",
+        "phrase": "and he sent",
+        "literal": "and-he-sent",
+        "source": "H7971; KJV: sent, ESV: sent, NASB: sent"
+      },
+      {
+        "position": 2,
+        "surface": "מַלְאָכִ֛ים",
+        "phrase": "messengers",
+        "literal": "messengers",
+        "source": "H4397; KJV: messengers, ESV: messengers, NASB: messengers"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: to, ESV: into, NASB: to"
+      },
+      {
+        "position": 4,
+        "surface": "אַחְאָ֥ב",
+        "phrase": "Ahab",
+        "literal": "Ahab",
+        "source": "H256; KJV: Ahab, ESV: Ahab, NASB: Ahab"
+      },
+      {
+        "position": 5,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428; KJV: king, ESV: king, NASB: king"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: Israel, ESV: Israel, NASB: Israel"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עִֽירָ/ה",
+        "phrase": "the city",
+        "literal": "the-city-the",
+        "source": "H5892; KJV: city, ESV: city, NASB: city"
+      }
+    ]
+  }
+]

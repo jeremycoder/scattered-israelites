@@ -1,0 +1,109 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/מֶּ֣לֶךְ",
+        "phrase": "and the king",
+        "literal": "and-the-king",
+        "source": "H4428 (KJV: king; ESV: King; NASB: king)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹ֗ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 3,
+        "surface": "אָהַ֞ב",
+        "phrase": "loved",
+        "literal": "he-loved",
+        "source": "H157 (KJV: loved; ESV: loved; NASB: loved)"
+      },
+      {
+        "position": 4,
+        "surface": "נָשִׁ֧ים",
+        "phrase": "women",
+        "literal": "women",
+        "source": "H802 (KJV: women; ESV: women; NASB: women)"
+      },
+      {
+        "position": 5,
+        "surface": "נָכְרִיּ֛וֹת",
+        "phrase": "foreign",
+        "literal": "foreign-[fem.pl.]",
+        "source": "H5237 (KJV: strange; ESV: foreign; NASB: foreign)"
+      },
+      {
+        "position": 6,
+        "surface": "רַבּ֖וֹת",
+        "phrase": "many",
+        "literal": "many-[fem.pl.]",
+        "source": "H7227 (KJV: many; ESV: many; NASB: many)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and-",
+        "literal": "and-obj.marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "בַּת",
+        "phrase": "daughter",
+        "literal": "daughter",
+        "source": "H1323 (KJV: daughter; ESV: daughter; NASB: daughter)"
+      },
+      {
+        "position": 9,
+        "surface": "פַּרְעֹ֑ה",
+        "phrase": "of Pharaoh",
+        "literal": "of-Pharaoh",
+        "source": "H6547 (KJV: Pharaoh; ESV: Pharaoh’s; NASB: Pharaoh’s)"
+      },
+      {
+        "position": 10,
+        "surface": "מוֹאֲבִיּ֤וֹת",
+        "phrase": "Moabite",
+        "literal": "Moabite-[fem.pl.]",
+        "source": "H4125 (KJV: Moabites; ESV: Moabites; NASB: Moabite)"
+      },
+      {
+        "position": 11,
+        "surface": "עַמֳּנִיּוֹת֙",
+        "phrase": "Ammonite",
+        "literal": "Ammonite-[fem.pl.]",
+        "source": "H5984 (KJV: Ammonites; ESV: Ammonites; NASB: Ammonite)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲדֹ֣מִיֹּ֔ת",
+        "phrase": "Edomite",
+        "literal": "Edomite-[fem.pl.]",
+        "source": "H130 (KJV: Edomites; ESV: Edomites; NASB: Edomite)"
+      },
+      {
+        "position": 13,
+        "surface": "צֵדְנִיֹּ֖ת",
+        "phrase": "Sidonians",
+        "literal": "Sidonite-[fem.pl.]",
+        "source": "H6722 (KJV: Zidonians; ESV: Sidonians; NASB: Sidonian)"
+      },
+      {
+        "position": 14,
+        "surface": "חִתִּיֹּֽת",
+        "phrase": "Hittite",
+        "literal": "Hittite-[fem.pl.]",
+        "source": "H2850 (KJV: Hittites; ESV: Hittites; NASB: Hittite)"
+      }
+    ]
+  }
+]

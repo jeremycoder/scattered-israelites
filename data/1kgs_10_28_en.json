@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 10,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מוֹצָ֧א",
+        "phrase": "And the export",
+        "literal": "and-export",
+        "source": "H4161: KJV 'brought'; ESV/NASB 'export/import' (as noun for outgoing horses)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/סּוּסִ֛ים",
+        "phrase": "of the horses",
+        "literal": "the-horses",
+        "source": "H5483: KJV 'horses'; ESV 'horses'; NASB 'horses'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834: KJV 'had'; ESV 'were'; NASB 'were' (relative particle)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/שְׁלֹמֹ֖ה",
+        "phrase": "to Solomon",
+        "literal": "to-Solomon",
+        "source": "H8010: KJV/ESV/NASB 'Solomon'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/מִּצְרָ֑יִם",
+        "phrase": "from Egypt",
+        "literal": "from-Egypt",
+        "source": "H4714: KJV/ESV/NASB 'Egypt'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מִ/קְוֵ֕ה",
+        "phrase": "and from Kue",
+        "literal": "and-from-Kue",
+        "source": "H4723: KJV 'linen yarn'; ESV/NASB 'Kue' (place name)"
+      },
+      {
+        "position": 7,
+        "surface": "סֹחֲרֵ֣י",
+        "phrase": "merchants",
+        "literal": "merchants-of",
+        "source": "H5503: KJV 'linen yarn'; ESV/NASB 'king's merchants' (traders)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "of the king",
+        "literal": "the-king",
+        "source": "H4428: KJV/ESV/NASB 'king's'"
+      },
+      {
+        "position": 9,
+        "surface": "יִקְח֥וּ",
+        "phrase": "took",
+        "literal": "they-take",
+        "source": "H3947: KJV 'received'; ESV/NASB 'imported/received'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/קְוֵ֖ה",
+        "phrase": "from Kue",
+        "literal": "from-Kue",
+        "source": "H4723: KJV 'linen yarn'; ESV/NASB 'Kue'"
+      },
+      {
+        "position": 11,
+        "surface": "בִּ/מְחִֽיר",
+        "phrase": "at a price",
+        "literal": "in-price",
+        "source": "H4242: KJV/ESV/NASB 'price'"
+      }
+    ]
+  }
+]

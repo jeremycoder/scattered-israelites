@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 10,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מַֽלְכַּת",
+        "phrase": "and-the-queen",
+        "literal": "and-queen",
+        "source": "H4436 (KJV: queen; ESV: queen; NASB: queen)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁבָ֗א",
+        "phrase": "of-Sheba",
+        "literal": "Sheba",
+        "source": "H7614 (KJV: of Sheba; ESV: of Sheba; NASB: of Sheba)"
+      },
+      {
+        "position": 3,
+        "surface": "שֹׁמַ֛עַת",
+        "phrase": "having-heard",
+        "literal": "hearing-fs",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "direct-object-marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁ֥מַע",
+        "phrase": "the-report",
+        "literal": "report",
+        "source": "H8088 (KJV: fame; ESV: fame; NASB: fame)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹמֹ֖ה",
+        "phrase": "of-Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon's; ESV: Solomon's; NASB: Solomon's)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/שֵׁ֣ם",
+        "phrase": "concerning-the-name",
+        "literal": "to-name",
+        "source": "H8034 (KJV: concerning; ESV: concerning; NASB: concerning)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of-YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/תָּבֹ֥א",
+        "phrase": "and-she-came",
+        "literal": "and-she-came",
+        "source": "H935 (KJV: she came; ESV: she came; NASB: she came)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/נַסֹּת֖/וֹ",
+        "phrase": "to-test-him",
+        "literal": "to-test-him",
+        "source": "H5254 (KJV: to prove him; ESV: to test him; NASB: to test him)"
+      },
+      {
+        "position": 11,
+        "surface": "בְּ/חִידֽוֹת",
+        "phrase": "with-riddles",
+        "literal": "in-riddles",
+        "source": "H2420 (KJV: hard questions; ESV: hard questions; NASB: riddles)"
+      }
+    ]
+  }
+]

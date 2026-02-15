@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 16,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֤י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And'; ESV: 'came'; NASB: 'came')"
+      },
+      {
+        "position": 2,
+        "surface": "דְבַר",
+        "phrase": "word",
+        "literal": "word-of",
+        "source": "H1697 (KJV: 'the word'; ESV: 'the word'; NASB: 'the word')"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'of the LORD'; ESV: 'of the LORD'; NASB: 'of the LORD')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'unto'; ESV: 'to'; NASB: 'to')"
+      },
+      {
+        "position": 5,
+        "surface": "יֵה֣וּא",
+        "phrase": "Jehu",
+        "literal": "Jehu",
+        "source": "H3058 (KJV: 'Jehu'; ESV: 'Jehu'; NASB: 'Jehu')"
+      },
+      {
+        "position": 6,
+        "surface": "בֶן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121 (KJV: 'the son'; ESV: 'son'; NASB: 'son')"
+      },
+      {
+        "position": 7,
+        "surface": "חֲנָ֔נִי",
+        "phrase": "Hanani",
+        "literal": "Hanani",
+        "source": "H2607 (KJV: 'Hanani'; ESV: 'Hanani'; NASB: 'Hanani')"
+      },
+      {
+        "position": 8,
+        "surface": "עַל",
+        "phrase": "against",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'against'; ESV: 'against'; NASB: 'against')"
+      },
+      {
+        "position": 9,
+        "surface": "בַּעְשָׁ֖א",
+        "phrase": "Baasha",
+        "literal": "Baasha",
+        "source": "H1201 (KJV: 'Baasha'; ESV: 'Baasha'; NASB: 'Baasha')"
+      },
+      {
+        "position": 10,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: 'saying'; NASB: 'saying')"
+      }
+    ]
+  }
+]

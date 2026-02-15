@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 5,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֧י",
+        "phrase": "And it was",
+        "literal": "and-he-was",
+        "source": "H1961 (KJV: 'and'; ESV: 'Solomon had'; NASB: 'Now Solomon had')"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/שְׁלֹמֹ֛ה",
+        "phrase": "for Solomon",
+        "literal": "to/for-Solomon",
+        "source": "H8010 (KJV: 'Solomon'; ESV: 'Solomon'; NASB: 'Solomon')"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁבְעִ֥ים",
+        "phrase": "seventy",
+        "literal": "seventy",
+        "source": "H7657 (KJV: 'threescore and ten'; ESV: 'seventy'; NASB: 'seventy')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: 'thousand'; ESV: 'thousand'; NASB: 'thousand')"
+      },
+      {
+        "position": 5,
+        "surface": "נֹשֵׂ֣א",
+        "phrase": "bearing",
+        "literal": "bearing",
+        "source": "H5375 (KJV: 'that bare'; ESV: 'that carried burdens'; NASB: 'who carried burdens')"
+      },
+      {
+        "position": 6,
+        "surface": "סַבָּ֑ל",
+        "phrase": "burden",
+        "literal": "burden-bearer",
+        "source": "H5449 (KJV: 'burdens'; ESV: 'burdens'; NASB: 'burdens')"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁמֹנִ֥ים",
+        "phrase": "and eighty",
+        "literal": "and-eighty",
+        "source": "H8084 (KJV: 'fourscore'; ESV: 'eighty'; NASB: 'eighty')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505 (KJV: 'thousand'; ESV: 'thousand'; NASB: 'thousand')"
+      },
+      {
+        "position": 9,
+        "surface": "חֹצֵ֥ב",
+        "phrase": "hewers",
+        "literal": "cutting",
+        "source": "H2672 (KJV: 'hewers'; ESV: 'hewers'; NASB: 'cutters')"
+      },
+      {
+        "position": 10,
+        "surface": "בָּ/הָֽר",
+        "phrase": "in the mountain",
+        "literal": "in/definite-mountain",
+        "source": "H2022 (KJV: 'in the mountains'; ESV: 'in the hill country'; NASB: 'in the mountains')"
+      }
+    ]
+  }
+]

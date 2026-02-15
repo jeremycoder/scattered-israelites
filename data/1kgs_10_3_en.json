@@ -1,0 +1,123 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 10,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּגֶּד",
+        "phrase": "and-told",
+        "literal": "and-he-told",
+        "source": "H5046 (told: KJV 'told'; ESV 'answered'; NASB 'told')"
+      },
+      {
+        "position": 2,
+        "surface": "לָ֥/הּ",
+        "phrase": "her",
+        "literal": "to-her",
+        "source": ""
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹמֹ֖ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (Solomon: KJV/ESV/NASB 'Solomon')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "direct-object-marker",
+        "literal": "[-acc]",
+        "source": "H853 (direct object: KJV/ESV/NASB omitted)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (all: KJV 'all'; ESV 'all'; NASB 'all')"
+      },
+      {
+        "position": 6,
+        "surface": "דְּבָרֶ֑י/הָ",
+        "phrase": "her-words",
+        "literal": "words-of-her",
+        "source": "H1697 (words: KJV 'words'; ESV 'questions'; NASB 'words')"
+      },
+      {
+        "position": 7,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (not: KJV/ESV/NASB 'not')"
+      },
+      {
+        "position": 8,
+        "surface": "הָיָ֤ה",
+        "phrase": "was",
+        "literal": "was",
+        "source": "H1961 (was: KJV 'was'; ESV 'was'; NASB 'was')"
+      },
+      {
+        "position": 9,
+        "surface": "דָּבָר֙",
+        "phrase": "thing",
+        "literal": "word-thing",
+        "source": "H1697 (thing: KJV 'thing'; ESV 'thing'; NASB 'matter')"
+      },
+      {
+        "position": 10,
+        "surface": "נֶעְלָ֣ם",
+        "phrase": "hidden",
+        "literal": "hidden",
+        "source": "H5956 (hidden: KJV 'hid'; ESV 'hidden'; NASB 'too difficult')"
+      },
+      {
+        "position": 11,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (from: KJV/ESV/NASB 'from')"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (king: KJV/ESV/NASB 'the king')"
+      },
+      {
+        "position": 13,
+        "surface": "אֲשֶׁ֧ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (which: KJV 'which'; ESV 'that'; NASB 'which')"
+      },
+      {
+        "position": 14,
+        "surface": "לֹ֦א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (not: KJV/ESV/NASB 'not')"
+      },
+      {
+        "position": 15,
+        "surface": "הִגִּ֖יד",
+        "phrase": "he-explained",
+        "literal": "he-told-explained",
+        "source": "H5046 (explained: KJV 'told'; ESV 'explain'; NASB 'explained')"
+      },
+      {
+        "position": 16,
+        "surface": "לָֽ/הּ",
+        "phrase": "to-her",
+        "literal": "to-her",
+        "source": ""
+      }
+    ]
+  }
+]

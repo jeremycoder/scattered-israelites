@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "verse": 49,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁמַעְתָּ֤",
+        "phrase": "then you will hear",
+        "literal": "and-you-shall-hear",
+        "source": "H8085; KJV: hear thou, ESV: hear, NASB: hear"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שָּׁמַ֨יִם֙",
+        "phrase": "from heaven",
+        "literal": "the-heavens",
+        "source": "H8064; KJV: in heaven, ESV: in heaven, NASB: in heaven"
+      },
+      {
+        "position": 3,
+        "surface": "מְכ֣וֹן",
+        "phrase": "your dwelling",
+        "literal": "establishment",
+        "source": "H4349; KJV: dwelling place, ESV: dwelling place, NASB: dwelling place"
+      },
+      {
+        "position": 4,
+        "surface": "שִׁבְתְּ/ךָ֔",
+        "phrase": "place",
+        "literal": "sitting-your",
+        "source": "H3427; KJV: thy dwelling place, ESV: your dwelling place, NASB: Your dwelling place"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "תְּפִלָּתָ֖/ם",
+        "phrase": "their prayer",
+        "literal": "prayer-their",
+        "source": "H8605; KJV: their prayer, ESV: their prayer, NASB: their prayer"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853; KJV: and their, ESV: and their, NASB: and their"
+      },
+      {
+        "position": 8,
+        "surface": "תְּחִנָּתָ֑/ם",
+        "phrase": "their supplication",
+        "literal": "supplication-their",
+        "source": "H8467; KJV: their supplication, ESV: their plea, NASB: their supplication"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/עָשִׂ֖יתָ",
+        "phrase": "and you will do",
+        "literal": "and-you-shall-do",
+        "source": "H6213; KJV: maintain, ESV: maintain, NASB: maintain"
+      },
+      {
+        "position": 10,
+        "surface": "מִשְׁפָּטָֽ/ם",
+        "phrase": "their cause",
+        "literal": "judgment-their",
+        "source": "H4941; KJV: their cause, ESV: their cause, NASB: their cause"
+      }
+    ]
+  }
+]

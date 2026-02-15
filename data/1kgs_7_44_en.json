@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 7,
+    "verse": 44,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יָּ֖ם",
+        "phrase": "Sea",
+        "literal": "the-sea",
+        "source": "H3220 (KJV: sea; ESV: Sea; NASB: sea)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֶחָ֑ד",
+        "phrase": "one",
+        "literal": "the-one",
+        "source": "H259 (KJV: one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בָּקָ֥ר",
+        "phrase": "oxen",
+        "literal": "the-cattle",
+        "source": "H1241 (KJV: oxen; ESV: oxen; NASB: oxen)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵים",
+        "phrase": "twelve",
+        "literal": "two",
+        "source": "H8147 (KJV: twelve; ESV: twelve; NASB: twelve)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָׂ֖ר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "H6240 (KJV: twelve; ESV: twelve; NASB: twelve)"
+      },
+      {
+        "position": 8,
+        "surface": "תַּ֥חַת",
+        "phrase": "under",
+        "literal": "under",
+        "source": "H8478 (KJV: under; ESV: underneath; NASB: under)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יָּֽם",
+        "phrase": "the Sea",
+        "literal": "the-sea",
+        "source": "H3220 (KJV: sea; ESV: Sea; NASB: sea)"
+      }
+    ]
+  }
+]

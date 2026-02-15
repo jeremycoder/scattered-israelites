@@ -1,0 +1,186 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 47,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: moreover; ESV: also; NASB: also)"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ֜אוּ",
+        "phrase": "have come",
+        "literal": "they-have-come",
+        "source": "H935 (KJV: came; ESV: have gone; NASB: have come)"
+      },
+      {
+        "position": 3,
+        "surface": "עַבְדֵ֣י",
+        "phrase": "servants",
+        "literal": "servants-of",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: servants)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מֶּ֗לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king's; ESV: king's; NASB: king's)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ֠/בָרֵךְ",
+        "phrase": "to bless",
+        "literal": "to-bless",
+        "source": "H1288 (KJV: to bless; ESV: to bless; NASB: to bless)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "אֲדֹנֵ֜י/נוּ",
+        "phrase": "our lord",
+        "literal": "lord-our",
+        "source": "H113 (KJV: our lord; ESV: our lord; NASB: our lord)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מֶּ֣לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: King; NASB: King)"
+      },
+      {
+        "position": 9,
+        "surface": "דָּוִד֮",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 10,
+        "surface": "לֵ/אמֹר֒",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 11,
+        "surface": "יֵיטֵ֨ב",
+        "phrase": "make good",
+        "literal": "may-make-good",
+        "source": "H3190 (KJV: make...better; ESV: make...better; NASB: make...better)"
+      },
+      {
+        "position": 12,
+        "surface": "אלהי/ך",
+        "phrase": "your God",
+        "literal": "God-your",
+        "source": "H430 (KJV: thy God; ESV: your God; NASB: your God)"
+      },
+      {
+        "position": 13,
+        "surface": "אֱלֹהִ֜ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 15,
+        "surface": "שֵׁ֤ם",
+        "phrase": "name",
+        "literal": "name",
+        "source": "H8034 (KJV: name; ESV: name; NASB: name)"
+      },
+      {
+        "position": 16,
+        "surface": "שְׁלֹמֹה֙",
+        "phrase": "of Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: of Solomon; ESV: of Solomon; NASB: of Solomon)"
+      },
+      {
+        "position": 17,
+        "surface": "מִ/שְּׁמֶ֔/ךָ",
+        "phrase": "than your name",
+        "literal": "from-name-your",
+        "source": "H8034 (KJV: than thy name; ESV: than your name; NASB: than your name)"
+      },
+      {
+        "position": 18,
+        "surface": "וִֽ/יגַדֵּ֥ל",
+        "phrase": "and may he make greater",
+        "literal": "and-he-will-make-great",
+        "source": "H1431 (KJV: make...greater; ESV: make...greater; NASB: make...greater)"
+      },
+      {
+        "position": 19,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 20,
+        "surface": "כִּסְא֖/וֹ",
+        "phrase": "his throne",
+        "literal": "throne-his",
+        "source": "H3678 (KJV: his throne; ESV: his throne; NASB: his throne)"
+      },
+      {
+        "position": 21,
+        "surface": "מִ/כִּסְאֶ֑/ךָ",
+        "phrase": "than your throne",
+        "literal": "from-throne-your",
+        "source": "H3678 (KJV: than thy throne; ESV: than your throne; NASB: than your throne)"
+      },
+      {
+        "position": 22,
+        "surface": "וַ/יִּשְׁתַּ֥חוּ",
+        "phrase": "and he bowed himself",
+        "literal": "and-he-bowed-down",
+        "source": "H7812 (KJV: bowed himself; ESV: bowed in worship; NASB: bowed in worship)"
+      },
+      {
+        "position": 23,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 24,
+        "surface": "עַל",
+        "phrase": "upon",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/מִּשְׁכָּֽב",
+        "phrase": "the bed",
+        "literal": "the-bed",
+        "source": "H4904 (KJV: the bed; ESV: the bed; NASB: the bed)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֻּגַּ֖ד",
+        "phrase": "and it was told",
+        "literal": "and-it-was-told",
+        "source": "H5046 (KJV: 'it was told'; ESV: 'was told'; NASB: 'was told')"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/שְׁלֹמֹ֑ה",
+        "phrase": "to Solomon",
+        "literal": "to-Solomon",
+        "source": "H8010 (KJV: 'Solomon'; ESV: 'Solomon'; NASB: 'Solomon')"
+      },
+      {
+        "position": 3,
+        "surface": "כִּי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: 'that'; ESV: 'that'; NASB: 'that')"
+      },
+      {
+        "position": 4,
+        "surface": "הָלַ֨ךְ",
+        "phrase": "had gone",
+        "literal": "he-went",
+        "source": "H1980 (KJV: 'had gone'; ESV: 'had gone'; NASB: 'had gone')"
+      },
+      {
+        "position": 5,
+        "surface": "שִׁמְעִ֧י",
+        "phrase": "Shimei",
+        "literal": "Shimei",
+        "source": "H8096 (KJV: 'Shimei'; ESV: 'Shimei'; NASB: 'Shimei')"
+      },
+      {
+        "position": 6,
+        "surface": "מִ/ירוּשָׁלִַ֛ם",
+        "phrase": "from Jerusalem",
+        "literal": "from-Jerusalem",
+        "source": "H3389 (KJV: 'from Jerusalem'; ESV: 'from Jerusalem'; NASB: 'from Jerusalem')"
+      },
+      {
+        "position": 7,
+        "surface": "גַּ֖ת",
+        "phrase": "to Gath",
+        "literal": "Gath",
+        "source": "H1661 (KJV: 'Gath'; ESV: 'Gath'; NASB: 'Gath')"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יָּשֹֽׁב",
+        "phrase": "and had returned",
+        "literal": "and-he-returned",
+        "source": "H7725 (KJV: 'was come again'; ESV: 'had returned'; NASB: 'had returned')"
+      }
+    ]
+  }
+]

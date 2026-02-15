@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁכַּ֥ב",
+        "phrase": "and slept",
+        "literal": "and-he-lay-down",
+        "source": "H7901 (KJV: slept; ESV: slept; NASB: slept)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֖ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבֹתָ֑י/ו",
+        "phrase": "his fathers",
+        "literal": "fathers-his",
+        "source": "H1 (KJV: his fathers; ESV: his fathers; NASB: his fathers)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקָּבֵ֖ר",
+        "phrase": "and was buried",
+        "literal": "and-he-was-buried",
+        "source": "H6912 (KJV: was buried; ESV: was buried; NASB: was buried)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/עִ֥יר",
+        "phrase": "in the city",
+        "literal": "in-city",
+        "source": "H5892 (KJV: in the city; ESV: in the city; NASB: in the city)"
+      },
+      {
+        "position": 7,
+        "surface": "דָּוִֽד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732 (KJV: of David; ESV: of David; NASB: of David)"
+      }
+    ]
+  }
+]

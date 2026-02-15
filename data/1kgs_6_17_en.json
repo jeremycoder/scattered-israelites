@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַרְבָּעִ֥ים",
+        "phrase": "and-forty",
+        "literal": "and-forty",
+        "source": "H705; KJV 'forty', ESV 'forty', NASB 'forty'"
+      },
+      {
+        "position": 2,
+        "surface": "בָּ/אַמָּ֖ה",
+        "phrase": "cubits",
+        "literal": "in-cubit",
+        "source": "H520; KJV 'cubits', ESV 'cubits', NASB 'cubits'"
+      },
+      {
+        "position": 3,
+        "surface": "הָיָ֣ה",
+        "phrase": "was",
+        "literal": "he-was",
+        "source": "H1961; KJV 'was', ESV 'was', NASB 'was'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בָּ֑יִת",
+        "phrase": "the-house",
+        "literal": "the-house",
+        "source": "H1004; KJV 'the house', ESV 'the house', NASB 'the house'"
+      },
+      {
+        "position": 5,
+        "surface": "ה֖וּא",
+        "phrase": "that-is",
+        "literal": "it",
+        "source": "H1931; KJV 'that is', ESV 'that is', NASB 'that is'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/הֵיכָ֥ל",
+        "phrase": "the-temple",
+        "literal": "the-temple",
+        "source": "H1964; KJV 'the temple', ESV 'the nave', NASB 'the nave'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/פְנָֽ/י",
+        "phrase": "before-it",
+        "literal": "to-face-of-it",
+        "source": "H3942; KJV 'before it', ESV 'in front of the inner sanctuary', NASB 'in front of the inner sanctuary'"
+      }
+    ]
+  }
+]

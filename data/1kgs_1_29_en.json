@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשָּׁבַ֥ע",
+        "phrase": "and swore",
+        "literal": "and-he-swore",
+        "source": "H7650; KJV: 'sware', ESV/NASB: 'swore'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV/ESV/NASB: 'the king'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֹּאמַ֑ר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559; KJV/ESV/NASB: 'and said'"
+      },
+      {
+        "position": 4,
+        "surface": "חַי",
+        "phrase": "lives",
+        "literal": "alive",
+        "source": "H2416; KJV/ESV/NASB: 'liveth'/'lives'"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֕ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲשֶׁר",
+        "phrase": "who",
+        "literal": "who/which",
+        "source": "H834; KJV/ESV/NASB: 'which'/'who'"
+      },
+      {
+        "position": 7,
+        "surface": "פָּדָ֥ה",
+        "phrase": "has redeemed",
+        "literal": "redeemed",
+        "source": "H6299; KJV/ESV/NASB: 'hath redeemed'/'redeemed'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 9,
+        "surface": "נַפְשִׁ֖/י",
+        "phrase": "my soul",
+        "literal": "soul-my",
+        "source": "H5315; KJV/ESV/NASB: 'my soul'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/כָּל",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "H3605; KJV/ESV/NASB: 'out of all'"
+      },
+      {
+        "position": 11,
+        "surface": "צָרָֽה",
+        "phrase": "adversity",
+        "literal": "distress",
+        "source": "H6869; KJV/ESV/NASB: 'adversity'/'distress'/'trouble'"
+      }
+    ]
+  }
+]

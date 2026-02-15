@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּֽעֲנָא֙",
+        "phrase": "Baana",
+        "literal": "Baana",
+        "source": "H1195 (KJV: Baanah; ESV: Baana; NASB: Baana)"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 3,
+        "surface": "חוּשָׁ֔י",
+        "phrase": "Hushai",
+        "literal": "Hushai",
+        "source": "H2365 (KJV: Hushai; ESV: Hushai; NASB: Hushai)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/אָשֵׁ֖ר",
+        "phrase": "in Asher",
+        "literal": "in-Asher",
+        "source": "H836 (KJV: in Asher; ESV: in Asher; NASB: in Asher)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בְעָלֽוֹת",
+        "phrase": "and in Aloth",
+        "literal": "and-in-Aloth",
+        "source": "H1175 (KJV: in Aloth; ESV: in Bealoth; NASB: in Bealoth)"
+      }
+    ]
+  }
+]

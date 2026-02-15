@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵת֙",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "פֶּ֣תַח",
+        "phrase": "entrance",
+        "literal": "entrance",
+        "source": "H6607 (KJV: entering; ESV: entrance; NASB: entrance)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/דְּבִ֔יר",
+        "phrase": "of the inner sanctuary",
+        "literal": "the-oracle",
+        "source": "H1687 (KJV: oracle; ESV: inner sanctuary; NASB: inner sanctuary)"
+      },
+      {
+        "position": 4,
+        "surface": "עָשָׂ֖ה",
+        "phrase": "he made",
+        "literal": "he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 5,
+        "surface": "דַּלְת֣וֹת",
+        "phrase": "doors",
+        "literal": "doors-of-it",
+        "source": "H1817 (KJV: doors; ESV: doors; NASB: doors)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲצֵי",
+        "phrase": "of olive",
+        "literal": "trees-of",
+        "source": "H6086 (KJV: olive tree; ESV: olivewood; NASB: olive wood)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֑מֶן",
+        "phrase": "wood",
+        "literal": "oil",
+        "source": "H8081 (KJV: oil tree; ESV: olivewood; NASB: olive wood)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אַ֥יִל",
+        "phrase": "the lintel",
+        "literal": "the-ram",
+        "source": "H352 (KJV: lintel; ESV: lintel; NASB: lintel)"
+      },
+      {
+        "position": 9,
+        "surface": "מְזוּז֖וֹת",
+        "phrase": "and doorposts",
+        "literal": "doorposts",
+        "source": "H4201 (KJV: side posts; ESV: doorposts; NASB: doorposts)"
+      },
+      {
+        "position": 10,
+        "surface": "חֲמִשִֽׁית",
+        "phrase": "five-sided",
+        "literal": "fifth",
+        "source": "H2549 (KJV: fifth part; ESV: five-sided; NASB: five-sided)"
+      }
+    ]
+  }
+]

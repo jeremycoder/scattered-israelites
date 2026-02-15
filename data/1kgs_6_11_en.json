@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-came-to-pass",
+        "source": "H1961; KJV: And..., ESV: Now..., NASB: Now..."
+      },
+      {
+        "position": 2,
+        "surface": "דְּבַר",
+        "phrase": "the word",
+        "literal": "word-of",
+        "source": "H1697; KJV: the word, ESV: the word, NASB: the word"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֔ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: of the LORD, ESV: of the Lord, NASB: of the Lord"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: came to, ESV: came to, NASB: came to"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁלֹמֹ֖ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV: Solomon, ESV: Solomon, NASB: Solomon"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV: saying, ESV: saying, NASB: saying"
+      }
+    ]
+  }
+]

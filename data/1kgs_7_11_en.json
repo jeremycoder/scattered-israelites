@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 7,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִ/לְ/מַ֗עְלָ/ה",
+        "phrase": "and above",
+        "literal": "and-from-above",
+        "source": "H4605; KJV: 'And above', ESV: 'And above', NASB: 'And above'"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבָנִ֧ים",
+        "phrase": "stones",
+        "literal": "stones",
+        "source": "H68; KJV: 'stones', ESV: 'stones', NASB: 'stones'"
+      },
+      {
+        "position": 3,
+        "surface": "יְקָר֛וֹת",
+        "phrase": "costly",
+        "literal": "precious/costly",
+        "source": "H3368; KJV: 'costly', ESV: 'costly', NASB: 'costly'"
+      },
+      {
+        "position": 4,
+        "surface": "כְּ/מִדּ֥וֹת",
+        "phrase": "according to measure",
+        "literal": "like-measures",
+        "source": "H4060; KJV: 'after the measures', ESV: 'according to measurement', NASB: 'according to measure'"
+      },
+      {
+        "position": 5,
+        "surface": "גָּזִ֖ית",
+        "phrase": "cut stone",
+        "literal": "hewed/cut",
+        "source": "H1496; KJV: 'hewed stones', ESV: 'cut', NASB: 'stone cut'"
+      },
+      {
+        "position": 6,
+        "surface": "וָ/אָֽרֶז",
+        "phrase": "and cedar",
+        "literal": "and-cedar",
+        "source": "H730; KJV: 'cedars', ESV: 'cedar', NASB: 'cedar'"
+      }
+    ]
+  }
+]

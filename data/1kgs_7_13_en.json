@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 7,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַח֙",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971; KJV: sent, ESV: sent, NASB: sent"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֣לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV: king, ESV: king, NASB: king"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹמֹ֔ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV: Solomon, ESV: Solomon, NASB: Solomon"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּקַּ֥ח",
+        "phrase": "and took",
+        "literal": "and-he-took",
+        "source": "H3947; KJV: took, ESV: brought, NASB: brought"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "חִירָ֖ם",
+        "phrase": "Hiram",
+        "literal": "Hiram",
+        "source": "H2438; KJV: Hiram, ESV: Hiram, NASB: Hiram"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/צֹּֽר",
+        "phrase": "from Tyre",
+        "literal": "from-Tyre",
+        "source": "H6865; KJV: out of Tyre, ESV: from Tyre, NASB: from Tyre"
+      }
+    ]
+  }
+]

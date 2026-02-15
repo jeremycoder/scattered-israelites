@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֥אמֶר",
+        "phrase": "And she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "בַּת",
+        "phrase": "daughter-of",
+        "literal": "daughter-of",
+        "source": "H1339 (KJV: Bathsheba; ESV: Bathsheba; NASB: Bathsheba)"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׁ֖בַע",
+        "phrase": "Sheba",
+        "literal": "seven",
+        "source": "H7651 (KJV: Bathsheba; ESV: Bathsheba; NASB: Bathsheba)"
+      },
+      {
+        "position": 4,
+        "surface": "ט֑וֹב",
+        "phrase": "Good",
+        "literal": "good",
+        "source": "H2896 (KJV: Well; ESV: Very well; NASB: Very well)"
+      },
+      {
+        "position": 5,
+        "surface": "אָנֹכִ֕י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H595 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲדַבֵּ֥ר",
+        "phrase": "will speak",
+        "literal": "I-will-speak",
+        "source": "H1696 (KJV: speak; ESV: speak; NASB: speak)"
+      },
+      {
+        "position": 7,
+        "surface": "עָלֶ֖י/ךָ",
+        "phrase": "for you",
+        "literal": "on/behalf-of-you",
+        "source": "H5921 (KJV: for thee; ESV: for you; NASB: for you)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מֶּֽלֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      }
+    ]
+  }
+]

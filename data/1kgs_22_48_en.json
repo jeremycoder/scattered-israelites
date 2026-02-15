@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 22,
+    "verse": 48,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מֶ֥לֶךְ",
+        "phrase": "and-king",
+        "literal": "and-king",
+        "source": "H4428; KJV/ESV/NASB: 'king' (no king)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֛ין",
+        "phrase": "there-is-not",
+        "literal": "there-is-not",
+        "source": "H369; KJV/ESV/NASB: 'no/none'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּ/אֱד֖וֹם",
+        "phrase": "in-Edom",
+        "literal": "in-Edom",
+        "source": "H123; KJV/ESV/NASB: 'in Edom'"
+      },
+      {
+        "position": 4,
+        "surface": "נִצָּ֥ב",
+        "phrase": "was-standing",
+        "literal": "was-standing",
+        "source": "H5324; Chabad: 'was king'; KJV/ESV/NASB imply 'governor/deputy'"
+      },
+      {
+        "position": 5,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428; KJV/ESV/NASB: 'king' (a governor was king)"
+      }
+    ]
+  }
+]

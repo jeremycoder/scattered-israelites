@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁמַעְתָּ֙",
+        "phrase": "then you shall hear",
+        "literal": "and-you-shall-hear",
+        "source": "H8085 (KJV: hear thou; ESV: hear; NASB: hear)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "from heaven",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: in heaven; ESV: in heaven; NASB: in heaven)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "their",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: their; ESV: their; NASB: their)"
+      },
+      {
+        "position": 4,
+        "surface": "תְּפִלָּתָ֖/ם",
+        "phrase": "prayer",
+        "literal": "prayer-their",
+        "source": "H8605 (KJV: prayer; ESV: prayer; NASB: prayer)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "תְּחִנָּתָ֑/ם",
+        "phrase": "their supplication",
+        "literal": "supplication-their",
+        "source": "H8467 (KJV: supplication; ESV: plea; NASB: supplication)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עָשִׂ֖יתָ",
+        "phrase": "and do",
+        "literal": "and-you-shall-do",
+        "source": "H6213 (KJV: maintain; ESV: maintain; NASB: maintain)"
+      },
+      {
+        "position": 8,
+        "surface": "מִשְׁפָּטָֽ/ם",
+        "phrase": "their right",
+        "literal": "justice-their",
+        "source": "H4941 (KJV: cause; ESV: cause; NASB: right)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֧בֶן",
+        "phrase": "So he built",
+        "literal": "and-he-built",
+        "source": "H1129; KJV: 'built', ESV: 'built', NASB: 'built'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹ֛ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV: 'Solomon', ESV: 'Solomon', NASB: 'Solomon'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בַּ֖יִת",
+        "phrase": "temple",
+        "literal": "the-house",
+        "source": "H1004; KJV: 'house', ESV: 'house', NASB: 'temple'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְכַלֵּֽ/הוּ",
+        "phrase": "and finished it",
+        "literal": "and-finished-it",
+        "source": "H3615; KJV: 'finished', ESV: 'finished', NASB: 'finished'"
+      }
+    ]
+  }
+]

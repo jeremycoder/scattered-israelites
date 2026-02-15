@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 21,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גַ֨ם",
+        "phrase": "And also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: 'also'; ESV: 'also'; NASB: 'also')"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/אִיזֶ֔בֶל",
+        "phrase": "concerning Jezebel",
+        "literal": "to-Jezebel",
+        "source": "H348 (KJV: 'Jezebel'; ESV: 'Jezebel'; NASB: 'Jezebel')"
+      },
+      {
+        "position": 3,
+        "surface": "דִּבֶּ֥ר",
+        "phrase": "has spoken",
+        "literal": "he-spoke",
+        "source": "H1696 (KJV: 'spake'; ESV: 'spoken'; NASB: 'spoken')"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹ֑ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: 'saying'; NASB: 'saying')"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/כְּלָבִ֛ים",
+        "phrase": "the dogs",
+        "literal": "the-dogs",
+        "source": "H3611 (KJV: 'dogs'; ESV: 'dogs'; NASB: 'dogs')"
+      },
+      {
+        "position": 7,
+        "surface": "יֹאכְל֥וּ",
+        "phrase": "will eat",
+        "literal": "they-will-eat",
+        "source": "H398 (KJV: 'shall eat'; ESV: 'shall eat'; NASB: 'will eat')"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: '(eat)'; ESV: '(eat)'; NASB: '(eat)')"
+      },
+      {
+        "position": 9,
+        "surface": "אִיזֶ֖בֶל",
+        "phrase": "Jezebel",
+        "literal": "Jezebel",
+        "source": "H348 (KJV: 'Jezebel'; ESV: 'Jezebel'; NASB: 'Jezebel')"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/חֵ֥ל",
+        "phrase": "in the plot of",
+        "literal": "in-plot_of",
+        "source": "H2426 (KJV: 'by the wall'; ESV: 'in the district'; NASB: 'in the portion of')"
+      },
+      {
+        "position": 11,
+        "surface": "יִזְרְעֶֽאל",
+        "phrase": "Jezreel",
+        "literal": "Jezreel",
+        "source": "H3157 (KJV: 'Jezreel'; ESV: 'Jezreel'; NASB: 'Jezreel')"
+      }
+    ]
+  }
+]

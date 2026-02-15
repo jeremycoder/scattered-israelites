@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 9,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּרָ֧א",
+        "phrase": "and YHWH appeared",
+        "literal": "and-appeared",
+        "source": "H7200 (KJV: appeared; ESV: appeared; NASB: appeared)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֛ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁלֹמֹ֖ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 5,
+        "surface": "שֵׁנִ֑ית",
+        "phrase": "a second time",
+        "literal": "second",
+        "source": "H8145 (KJV: the second time; ESV: a second time; NASB: a second time)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/אֲשֶׁ֛ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 7,
+        "surface": "נִרְאָ֥ה",
+        "phrase": "he had appeared",
+        "literal": "was-seen",
+        "source": "H7200 (KJV: he had appeared; ESV: he had appeared; NASB: He had appeared)"
+      },
+      {
+        "position": 8,
+        "surface": "אֵלָ֖י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/גִבְעֽוֹן",
+        "phrase": "at Gibeon",
+        "literal": "in-Gibeon",
+        "source": "H1391 (KJV: at Gibeon; ESV: at Gibeon; NASB: at Gibeon)"
+      }
+    ]
+  }
+]

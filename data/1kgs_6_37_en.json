@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בַּ/שָּׁנָה֙",
+        "phrase": "in the year",
+        "literal": "in-the-year",
+        "source": "H8141 (KJV: year; ESV: year; NASB: year)"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/רְבִיעִ֔ית",
+        "phrase": "the fourth",
+        "literal": "the-fourth",
+        "source": "H7243 (KJV: fourth; ESV: fourth; NASB: fourth)"
+      },
+      {
+        "position": 3,
+        "surface": "יֻסַּ֖ד",
+        "phrase": "was laid (the foundation)",
+        "literal": "was-founded",
+        "source": "H3245 (KJV: was...laid; ESV: was laid; NASB: was laid)"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/יֶ֖רַח",
+        "phrase": "in (the) month",
+        "literal": "in-month",
+        "source": "H3391 (KJV: in the month; ESV: in the month; NASB: in the month)"
+      },
+      {
+        "position": 7,
+        "surface": "זִֽו",
+        "phrase": "Ziv",
+        "literal": "Ziv",
+        "source": "H2099 (KJV: Zif; ESV: Ziv; NASB: Ziv)"
+      }
+    ]
+  }
+]

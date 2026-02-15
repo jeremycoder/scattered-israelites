@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 10,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֨אמֶר֙",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱמֶת֙",
+        "phrase": "true",
+        "literal": "truth",
+        "source": "H571 (KJV: true; ESV: true; NASB: true)"
+      },
+      {
+        "position": 5,
+        "surface": "הָיָ֣ה",
+        "phrase": "it was",
+        "literal": "it-was",
+        "source": "H1961 (KJV: was; ESV: is; NASB: has been)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/דָּבָ֔ר",
+        "phrase": "the report",
+        "literal": "the-word",
+        "source": "H1697 (KJV: report; ESV: report; NASB: report)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 8,
+        "surface": "שָׁמַ֖עְתִּי",
+        "phrase": "I heard",
+        "literal": "I-heard",
+        "source": "H8085 (KJV: I heard; ESV: I heard; NASB: I heard)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/אַרְצִ֑/י",
+        "phrase": "in my land",
+        "literal": "in-land-my",
+        "source": "H776 (KJV: in mine own land; ESV: in my own country; NASB: in my own country)"
+      },
+      {
+        "position": 10,
+        "surface": "עַל",
+        "phrase": "about",
+        "literal": "concerning",
+        "source": "H5921 (KJV: of; ESV: about; NASB: about)"
+      },
+      {
+        "position": 11,
+        "surface": "דְּבָרֶ֖י/ךָ",
+        "phrase": "your words",
+        "literal": "words-your",
+        "source": "H1697 (KJV: thy acts; ESV: your words; NASB: your words)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/עַל",
+        "phrase": "and about",
+        "literal": "and-concerning",
+        "source": "H5921 (KJV: and of; ESV: and; NASB: and)"
+      },
+      {
+        "position": 13,
+        "surface": "חָכְמָתֶֽ/ךָ",
+        "phrase": "your wisdom",
+        "literal": "wisdom-your",
+        "source": "H2451 (KJV: thy wisdom; ESV: your wisdom; NASB: your wisdom)"
+      }
+    ]
+  }
+]

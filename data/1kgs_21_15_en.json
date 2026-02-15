@@ -1,0 +1,207 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 21,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it happened",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: came to pass; ESV: heard; NASB: happened)"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ/שְׁמֹ֣עַ",
+        "phrase": "when she heard",
+        "literal": "as-hear",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 3,
+        "surface": "אִיזֶ֔בֶל",
+        "phrase": "Jezebel",
+        "literal": "Jezebel",
+        "source": "H348 (KJV: Jezebel; ESV: Jezebel; NASB: Jezebel)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּֽי",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "סֻקַּ֥ל",
+        "phrase": "had been stoned",
+        "literal": "was-stoned",
+        "source": "H5619 (KJV: stoned; ESV: stoned; NASB: stoned)"
+      },
+      {
+        "position": 6,
+        "surface": "נָב֖וֹת",
+        "phrase": "Naboth",
+        "literal": "Naboth",
+        "source": "H5022 (KJV: Naboth; ESV: Naboth; NASB: Naboth)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יָּמֹ֑ת",
+        "phrase": "and [he] died",
+        "literal": "and-he-died",
+        "source": "H4191 (KJV: was dead; ESV: was dead; NASB: was dead)"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/תֹּ֨אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 9,
+        "surface": "אִיזֶ֜בֶל",
+        "phrase": "Jezebel",
+        "literal": "Jezebel",
+        "source": "H348 (KJV: Jezebel; ESV: Jezebel; NASB: Jezebel)"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 11,
+        "surface": "אַחְאָ֗ב",
+        "phrase": "Ahab",
+        "literal": "Ahab",
+        "source": "H256 (KJV: Ahab; ESV: Ahab; NASB: Ahab)"
+      },
+      {
+        "position": 12,
+        "surface": "ק֣וּם",
+        "phrase": "arise",
+        "literal": "arise!",
+        "source": "H6965 (KJV: Arise; ESV: Get up; NASB: Arise)"
+      },
+      {
+        "position": 13,
+        "surface": "רֵ֞שׁ",
+        "phrase": "take possession",
+        "literal": "possess!",
+        "source": "H3423 (KJV: take; ESV: take possession; NASB: take)"
+      },
+      {
+        "position": 14,
+        "surface": "אֶת",
+        "phrase": "(direct object marker)",
+        "literal": "(direct object)",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 15,
+        "surface": "כֶּ֣רֶם",
+        "phrase": "vineyard",
+        "literal": "vineyard",
+        "source": "H3754 (KJV: vineyard; ESV: vineyard; NASB: vineyard)"
+      },
+      {
+        "position": 16,
+        "surface": "נָב֣וֹת",
+        "phrase": "of Naboth",
+        "literal": "Naboth",
+        "source": "H5022 (KJV: Naboth's; ESV: Naboth's; NASB: Naboth's)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/יִּזְרְעֵאלִ֗י",
+        "phrase": "the Jezreelite",
+        "literal": "the-Jezreelite",
+        "source": "H3158 (KJV: Jezreelite; ESV: Jezreelite; NASB: Jezreelite)"
+      },
+      {
+        "position": 18,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which/that",
+        "source": "H834 (KJV: which; ESV: that; NASB: which)"
+      },
+      {
+        "position": 19,
+        "surface": "מֵאֵן֙",
+        "phrase": "refused",
+        "literal": "refused",
+        "source": "H3985 (KJV: refused; ESV: refused; NASB: refused)"
+      },
+      {
+        "position": 20,
+        "surface": "לָ/תֶת",
+        "phrase": "to give",
+        "literal": "to-give",
+        "source": "H5414 (KJV: give; ESV: give; NASB: give)"
+      },
+      {
+        "position": 21,
+        "surface": "לְ/ךָ֣",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: thee; ESV: you; NASB: you)"
+      },
+      {
+        "position": 22,
+        "surface": "בְ/כֶ֔סֶף",
+        "phrase": "for money",
+        "literal": "in-silver",
+        "source": "H3701 (KJV: money; ESV: money; NASB: money)"
+      },
+      {
+        "position": 23,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 24,
+        "surface": "אֵ֥ין",
+        "phrase": "not",
+        "literal": "not-is",
+        "source": "H369 (KJV: is not; ESV: is not; NASB: is not)"
+      },
+      {
+        "position": 25,
+        "surface": "נָב֛וֹת",
+        "phrase": "Naboth",
+        "literal": "Naboth",
+        "source": "H5022 (KJV: Naboth; ESV: Naboth; NASB: Naboth)"
+      },
+      {
+        "position": 26,
+        "surface": "חַ֖י",
+        "phrase": "alive",
+        "literal": "alive",
+        "source": "H2416 (KJV: alive; ESV: alive; NASB: alive)"
+      },
+      {
+        "position": 27,
+        "surface": "כִּי",
+        "phrase": "but",
+        "literal": "for/because",
+        "source": "H3588 (KJV: but; ESV: but; NASB: but)"
+      },
+      {
+        "position": 28,
+        "surface": "מֵֽת",
+        "phrase": "dead",
+        "literal": "dead",
+        "source": "H4191 (KJV: dead; ESV: dead; NASB: dead)"
+      }
+    ]
+  }
+]

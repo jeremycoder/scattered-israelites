@@ -1,0 +1,179 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יַ֣עַן",
+        "phrase": "because",
+        "literal": "that",
+        "source": "H3282 (KJV: Because that; ESV: because; NASB: because)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: they have; NASB: they have)"
+      },
+      {
+        "position": 3,
+        "surface": "עֲזָב֗וּ/נִי",
+        "phrase": "they have forsaken Me",
+        "literal": "they-have-forsaken-me",
+        "source": "H5800 (KJV: forsaken me; ESV: forsaken me; NASB: forsaken Me)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּֽשְׁתַּחֲווּ֮",
+        "phrase": "and have worshiped",
+        "literal": "and-they-bowed-down",
+        "source": "H7812 (KJV: worshipped; ESV: worshiped; NASB: worshiped)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/עַשְׁתֹּרֶת֮",
+        "phrase": "to Ashtoreth",
+        "literal": "to-Ashtoreth",
+        "source": "H6253 (KJV: Ashtoreth; ESV: Ashtoreth; NASB: Ashtoreth)"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "the goddess",
+        "literal": "gods-of",
+        "source": "H430 (KJV: goddess; ESV: goddess; NASB: goddess)"
+      },
+      {
+        "position": 7,
+        "surface": "צִֽדֹנִין֒",
+        "phrase": "of the Sidonians",
+        "literal": "Sidonians",
+        "source": "H6722 (KJV: Zidonians; ESV: Sidonians; NASB: Sidonians)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/כְמוֹשׁ֙",
+        "phrase": "to Chemosh",
+        "literal": "to-Chemosh",
+        "source": "H3645 (KJV: Chemosh; ESV: Chemosh; NASB: Chemosh)"
+      },
+      {
+        "position": 9,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "the god",
+        "literal": "gods-of",
+        "source": "H430 (KJV: god; ESV: god; NASB: god)"
+      },
+      {
+        "position": 10,
+        "surface": "מוֹאָ֔ב",
+        "phrase": "of Moab",
+        "literal": "Moab",
+        "source": "H4124 (KJV: Moabites; ESV: Moab; NASB: Moab)"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/לְ/מִלְכֹּ֖ם",
+        "phrase": "and to Milcom",
+        "literal": "and-to-Milcom",
+        "source": "H4445 (KJV: Milcom; ESV: Milcom; NASB: Milcom)"
+      },
+      {
+        "position": 12,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "the god",
+        "literal": "gods-of",
+        "source": "H430 (KJV: god; ESV: god; NASB: god)"
+      },
+      {
+        "position": 13,
+        "surface": "בְנֵֽי",
+        "phrase": "of the sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 14,
+        "surface": "עַמּ֑וֹן",
+        "phrase": "of Ammon",
+        "literal": "Ammon",
+        "source": "H5983 (KJV: Ammon; ESV: Ammonites; NASB: Ammon)"
+      },
+      {
+        "position": 15,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: and have not; ESV: and they have not; NASB: and they have not)"
+      },
+      {
+        "position": 16,
+        "surface": "הָלְכ֣וּ",
+        "phrase": "have walked",
+        "literal": "they-walked",
+        "source": "H1980 (KJV: walked; ESV: walked; NASB: walked)"
+      },
+      {
+        "position": 17,
+        "surface": "בִ/דְרָכַ֗/י",
+        "phrase": "in My ways",
+        "literal": "in-ways-my",
+        "source": "H1870 (KJV: my ways; ESV: my ways; NASB: My ways)"
+      },
+      {
+        "position": 18,
+        "surface": "לַ/עֲשׂ֨וֹת",
+        "phrase": "to do",
+        "literal": "to-do",
+        "source": "H6213 (KJV: to do; ESV: doing; NASB: doing)"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/יָּשָׁ֧ר",
+        "phrase": "what is right",
+        "literal": "the-right",
+        "source": "H3477 (KJV: right; ESV: right; NASB: right)"
+      },
+      {
+        "position": 20,
+        "surface": "בְּ/עֵינַ֛/י",
+        "phrase": "in My eyes",
+        "literal": "in-eyes-my",
+        "source": "H5869 (KJV: mine eyes; ESV: my sight; NASB: My sight)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/חֻקֹּתַ֥/י",
+        "phrase": "and My statutes",
+        "literal": "and-statutes-my",
+        "source": "H2708 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 22,
+        "surface": "וּ/מִשְׁפָּטַ֖/י",
+        "phrase": "and My judgments",
+        "literal": "and-judgments-my",
+        "source": "H4941 (KJV: judgments; ESV: rules; NASB: ordinances)"
+      },
+      {
+        "position": 23,
+        "surface": "כְּ/דָוִ֥ד",
+        "phrase": "as David",
+        "literal": "like-David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 24,
+        "surface": "אָבִֽי/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      }
+    ]
+  }
+]

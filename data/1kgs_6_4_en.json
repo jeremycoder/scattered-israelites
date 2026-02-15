@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/בָּ֔יִת",
+        "phrase": "for the house",
+        "literal": "to-the-house",
+        "source": "H1004 (KJV: for the house; ESV: for the house; NASB: for the house)"
+      },
+      {
+        "position": 3,
+        "surface": "חַלּוֹנֵ֖י",
+        "phrase": "windows",
+        "literal": "windows",
+        "source": "H2474 (KJV: windows; ESV: windows; NASB: windows)"
+      },
+      {
+        "position": 4,
+        "surface": "שְׁקֻפִ֥ים",
+        "phrase": "of framed",
+        "literal": "framed-ones",
+        "source": "H8261 (KJV: narrowing/narrow lights; ESV: recessed frames; NASB: fixed latticework)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲטֻמִֽים",
+        "phrase": "latticed",
+        "literal": "closed",
+        "source": "H331 (KJV: closed; ESV: (implied in recessed); NASB: fixed)"
+      }
+    ]
+  }
+]

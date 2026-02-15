@@ -1,0 +1,228 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "And Jeroboam made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: ordained; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "יָרָבְעָ֣ם",
+        "phrase": "Jeroboam",
+        "literal": "Jeroboam",
+        "source": "H3379 (KJV: Jeroboam; ESV: Jeroboam; NASB: Jeroboam)"
+      },
+      {
+        "position": 3,
+        "surface": "חָ֡ג",
+        "phrase": "a feast",
+        "literal": "feast",
+        "source": "H2282 (KJV: feast; ESV: festival; NASB: festival)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/חֹ֣דֶשׁ",
+        "phrase": "in the month",
+        "literal": "in-the-month",
+        "source": "H2320 (KJV: month; ESV: month; NASB: month)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/שְּׁמִינִ֣י",
+        "phrase": "eighth",
+        "literal": "the-eighth",
+        "source": "H8066 (KJV: eighth; ESV: eighth; NASB: eighth)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/חֲמִשָּֽׁה",
+        "phrase": "on the fifteenth",
+        "literal": "in-five-teen",
+        "source": "H2568 (KJV: fifteenth; ESV: fifteenth; NASB: fifteenth)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָׂר֩",
+        "phrase": "day",
+        "literal": "ten",
+        "source": "H6240 (KJV: fifteenth; ESV: fifteenth; NASB: fifteenth)"
+      },
+      {
+        "position": 8,
+        "surface": "י֨וֹם",
+        "phrase": "day",
+        "literal": "day",
+        "source": "H3117 (KJV: day; ESV: day; NASB: day)"
+      },
+      {
+        "position": 9,
+        "surface": "לַ/חֹ֜דֶשׁ",
+        "phrase": "of the month",
+        "literal": "to-the-month",
+        "source": "H2320 (KJV: month; ESV: month; NASB: month)"
+      },
+      {
+        "position": 10,
+        "surface": "כֶּ/חָ֣ג",
+        "phrase": "like the feast",
+        "literal": "like-feast",
+        "source": "H2282 (KJV: feast; ESV: festival; NASB: festival)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 12,
+        "surface": "בִּ/יהוּדָ֗ה",
+        "phrase": "in Judah",
+        "literal": "in-Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/יַּ֨עַל֙",
+        "phrase": "and he went up",
+        "literal": "and-he-went-up",
+        "source": "H5927 (KJV: went up; ESV: went up; NASB: went up)"
+      },
+      {
+        "position": 14,
+        "surface": "עַל",
+        "phrase": "to",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: to; NASB: to)"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/מִּזְבֵּ֔חַ",
+        "phrase": "the altar",
+        "literal": "the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 16,
+        "surface": "כֵּ֤ן",
+        "phrase": "so",
+        "literal": "thus",
+        "source": "H3651 (KJV: so; ESV: thus; NASB: so)"
+      },
+      {
+        "position": 17,
+        "surface": "עָשָׂה֙",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "H6213 (KJV: offered; ESV: offered; NASB: offered)"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/בֵֽית",
+        "phrase": "in Bethel",
+        "literal": "in-house",
+        "source": "H1008 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      },
+      {
+        "position": 19,
+        "surface": "אֵ֔ל",
+        "phrase": "Bethel",
+        "literal": "El",
+        "source": "H1008 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      },
+      {
+        "position": 20,
+        "surface": "לְ/זַבֵּ֖חַ",
+        "phrase": "to sacrifice",
+        "literal": "to-sacrifice",
+        "source": "H2076 (KJV: sacrifice; ESV: sacrifice; NASB: sacrifice)"
+      },
+      {
+        "position": 21,
+        "surface": "לָ/עֲגָלִ֣ים",
+        "phrase": "to the calves",
+        "literal": "to-the-calves",
+        "source": "H5695 (KJV: calves; ESV: calves; NASB: calves)"
+      },
+      {
+        "position": 22,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 23,
+        "surface": "עָשָׂ֑ה",
+        "phrase": "he had made",
+        "literal": "he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 24,
+        "surface": "וְ/הֶעֱמִיד֙",
+        "phrase": "and he appointed",
+        "literal": "and-he-caused-to-stand",
+        "source": "H5975 (KJV: placed; ESV: appointed; NASB: stationed)"
+      },
+      {
+        "position": 25,
+        "surface": "בְּ/בֵ֣ית",
+        "phrase": "in Bethel",
+        "literal": "in-house",
+        "source": "H1008 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      },
+      {
+        "position": 26,
+        "surface": "אֵ֔ל",
+        "phrase": "Bethel",
+        "literal": "El",
+        "source": "H1008 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      },
+      {
+        "position": 27,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 28,
+        "surface": "כֹּהֲנֵ֥י",
+        "phrase": "priests",
+        "literal": "priests-of",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 29,
+        "surface": "הַ/בָּמ֖וֹת",
+        "phrase": "of the high places",
+        "literal": "the-high-places",
+        "source": "H1116 (KJV: high places; ESV: high places; NASB: high places)"
+      },
+      {
+        "position": 30,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 31,
+        "surface": "עָשָֽׂה",
+        "phrase": "he had made",
+        "literal": "he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 14,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֛י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'In the fifth year'; NASB: 'Now it happened')"
+      },
+      {
+        "position": 2,
+        "surface": "בַּ/שָּׁנָ֥ה",
+        "phrase": "in the year",
+        "literal": "in-the-year",
+        "source": "H8141 (KJV: 'in the'; ESV: 'of King'; NASB: 'of King')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/חֲמִישִׁ֖ית",
+        "phrase": "the fifth",
+        "literal": "the-fifth",
+        "source": "H2549 (KJV: 'fifth'; ESV: 'fifth'; NASB: 'fifth')"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/מֶּ֣לֶךְ",
+        "phrase": "of King",
+        "literal": "to-the-king",
+        "source": "H4428 (KJV: 'of king'; ESV: 'of King'; NASB: 'of King')"
+      },
+      {
+        "position": 5,
+        "surface": "רְחַבְעָ֑ם",
+        "phrase": "Rehoboam",
+        "literal": "Rehoboam",
+        "source": "H7346 (KJV: 'Rehoboam'; ESV: 'Rehoboam'; NASB: 'Rehoboam')"
+      },
+      {
+        "position": 6,
+        "surface": "עָלָ֛ה",
+        "phrase": "came up",
+        "literal": "he-went-up",
+        "source": "H5927 (KJV: 'came up'; ESV: 'came up'; NASB: 'came up')"
+      },
+      {
+        "position": 7,
+        "surface": "שושק",
+        "phrase": "Shishak",
+        "literal": "Shishak",
+        "source": "H7895 (KJV: 'Shishak'; ESV: 'Shishak'; NASB: 'Shishak')"
+      },
+      {
+        "position": 8,
+        "surface": "שִׁישַׁ֥ק",
+        "phrase": "Shishak",
+        "literal": "Shishak",
+        "source": "H7895 (KJV: 'king'; ESV: 'king'; NASB: 'king')"
+      },
+      {
+        "position": 9,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "king",
+        "literal": "king",
+        "source": "H4428 (KJV: 'king'; ESV: 'king'; NASB: 'king')"
+      },
+      {
+        "position": 10,
+        "surface": "מִצְרַ֖יִם",
+        "phrase": "of Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: 'of Egypt'; ESV: 'of Egypt'; NASB: 'of Egypt')"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "against",
+        "literal": "against",
+        "source": "H5921 (KJV: 'against'; ESV: 'against'; NASB: 'against')"
+      },
+      {
+        "position": 12,
+        "surface": "יְרוּשָׁלִָֽם",
+        "phrase": "Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389 (KJV: 'Jerusalem'; ESV: 'Jerusalem'; NASB: 'Jerusalem')"
+      }
+    ]
+  }
+]

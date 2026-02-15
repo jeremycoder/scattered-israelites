@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֕אמֶר",
+        "phrase": "Then he said",
+        "literal": "and-he-said",
+        "source": "H559; KJV: He said moreover, ESV: Then he said, NASB: Then he said"
+      },
+      {
+        "position": 2,
+        "surface": "דָּבָ֥ר",
+        "phrase": "a matter",
+        "literal": "matter",
+        "source": "H1697; KJV: somewhat, ESV: something, NASB: something"
+      },
+      {
+        "position": 3,
+        "surface": "לִ֖/י",
+        "phrase": "to me",
+        "literal": "to-me",
+        "source": "; KJV: (implied in somewhat to say), ESV: (implied in something to say), NASB: (implied in something to say)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלָ֑יִ/ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": "H413; KJV: unto thee, ESV: to you, NASB: to you"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/תֹּ֖אמֶר",
+        "phrase": "And she said",
+        "literal": "and-she-said",
+        "source": "H559; KJV: And she said, ESV: She said, NASB: And she said"
+      },
+      {
+        "position": 6,
+        "surface": "דַּבֵּֽר",
+        "phrase": "Speak",
+        "literal": "speak",
+        "source": "H1696; KJV: Say on, ESV: Speak, NASB: Speak"
+      }
+    ]
+  }
+]

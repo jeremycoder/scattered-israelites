@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כֵ֣ן",
+        "phrase": "and so",
+        "literal": "and-thus",
+        "source": "H3651: KJV 'likewise', ESV 'so', NASB 'thus'"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂ֔ה",
+        "phrase": "he did",
+        "literal": "he-did",
+        "source": "H6213: KJV 'did', ESV 'he did', NASB 'he did'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/כָל",
+        "phrase": "for all",
+        "literal": "to/for-all",
+        "source": "H3605: KJV 'for all', ESV 'for all', NASB 'for all'"
+      },
+      {
+        "position": 4,
+        "surface": "נָשָׁ֖י/ו",
+        "phrase": "his wives",
+        "literal": "his-wives",
+        "source": "H802: KJV 'his strange wives', ESV 'his foreign wives', NASB 'his foreign wives'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/נָּכְרִיּ֑וֹת",
+        "phrase": "the foreign",
+        "literal": "the-foreign-[fem.pl]",
+        "source": "H5237: KJV 'strange', ESV 'foreign', NASB 'foreign'"
+      },
+      {
+        "position": 6,
+        "surface": "מַקְטִיר֥וֹת",
+        "phrase": "burning incense",
+        "literal": "burning-incense",
+        "source": "H6999: KJV 'burnt incense', ESV 'made offerings', NASB 'burned incense'"
+      },
+      {
+        "position": 7,
+        "surface": "וּֽ/מְזַבְּח֖וֹת",
+        "phrase": "and sacrificing",
+        "literal": "and-sacrificing",
+        "source": "H2076: KJV 'sacrificed', ESV 'sacrificed', NASB 'sacrificed'"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אלֹהֵי/הֶֽן",
+        "phrase": "to their gods",
+        "literal": "to-gods-their",
+        "source": "H430: KJV 'their gods', ESV 'their gods', NASB 'their gods'"
+      }
+    ]
+  }
+]

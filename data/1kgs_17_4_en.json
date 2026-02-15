@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 17,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָ֖ה",
+        "phrase": "And it shall be",
+        "literal": "and-it-will-be",
+        "source": "H1961 (KJV: 'And it shall be'; ESV: 'You shall'; NASB: 'It shall be')"
+      },
+      {
+        "position": 2,
+        "surface": "מֵ/הַ/נַּ֣חַל",
+        "phrase": "from the brook",
+        "literal": "from-the-brook",
+        "source": "H5158 (KJV: 'of the brook'; ESV: 'from the brook'; NASB: 'of the brook')"
+      },
+      {
+        "position": 3,
+        "surface": "תִּשְׁתֶּ֑ה",
+        "phrase": "you shall drink",
+        "literal": "you-will-drink",
+        "source": "H8354 (KJV: 'thou shalt drink'; ESV: 'drink'; NASB: 'you will drink')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-",
+        "source": "H853 (KJV/ESV/NASB: not separately translated, object marker)"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/עֹרְבִ֣ים",
+        "phrase": "the ravens",
+        "literal": "the-ravens",
+        "source": "H6158 (KJV/ESV: 'the ravens'; NASB: 'the ravens')"
+      },
+      {
+        "position": 6,
+        "surface": "צִוִּ֔יתִי",
+        "phrase": "I have commanded",
+        "literal": "I-have-commanded",
+        "source": "H6680 (KJV/ESV/NASB: 'I have commanded')"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/כַלְכֶּלְ/ךָ֖",
+        "phrase": "to feed you",
+        "literal": "to-sustain-you",
+        "source": "H3557 (KJV: 'to feed thee'; ESV: 'to feed you'; NASB: 'to provide for you')"
+      },
+      {
+        "position": 8,
+        "surface": "שָֽׁם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV/ESV/NASB: 'there')"
+      }
+    ]
+  }
+]

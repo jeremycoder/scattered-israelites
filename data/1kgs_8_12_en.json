@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָ֖ז",
+        "phrase": "then",
+        "literal": "then",
+        "source": "H227 (KJV: Then; ESV: Then; NASB: Then)"
+      },
+      {
+        "position": 2,
+        "surface": "אָמַ֣ר",
+        "phrase": "said",
+        "literal": "he-said",
+        "source": "H559 (KJV: spake; ESV: said; NASB: said)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹמֹ֑ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "אָמַ֔ר",
+        "phrase": "said",
+        "literal": "he-said",
+        "source": "H559 (KJV: said; ESV: has said; NASB: has said)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/שְׁכֹּ֖ן",
+        "phrase": "to dwell",
+        "literal": "to-dwell",
+        "source": "H7931 (KJV: dwell; ESV: dwell; NASB: dwell)"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/עֲרָפֶֽל",
+        "phrase": "in the thick darkness",
+        "literal": "in-the-thick.darkness",
+        "source": "H6205 (KJV: thick darkness; ESV: thick cloud; NASB: thick cloud)"
+      }
+    ]
+  }
+]

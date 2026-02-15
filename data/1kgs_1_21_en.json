@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הָיָ֕ה",
+        "phrase": "and it will be",
+        "literal": "and-it-will-be",
+        "source": "H1961; KJV: 'it shall come to pass', ESV/NASB: 'it will come about'"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ/שְׁכַ֥ב",
+        "phrase": "when he lies down",
+        "literal": "when/as-he-lies-down",
+        "source": "H7901; KJV/ESV/NASB: 'sleep'/'sleeps'"
+      },
+      {
+        "position": 3,
+        "surface": "אֲדֹנִֽ/י",
+        "phrase": "my lord",
+        "literal": "my-master/lord",
+        "source": "H113; KJV/ESV/NASB: 'my lord'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV/ESV/NASB: 'the king'"
+      },
+      {
+        "position": 5,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV/ESV/NASB: 'with'"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבֹתָ֑י/ו",
+        "phrase": "his fathers",
+        "literal": "fathers-his",
+        "source": "H1; KJV/ESV/NASB: 'his fathers'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הָיִ֗יתִי",
+        "phrase": "and I will be",
+        "literal": "and-I-will-be",
+        "source": "H1961; KJV/ESV/NASB: 'that I'/'that I'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲנִ֛י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589; KJV/ESV/NASB: 'I'"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/בְנִ֥/י",
+        "phrase": "and my son",
+        "literal": "and-son-my",
+        "source": "H1121; KJV/ESV/NASB: 'and my son'"
+      },
+      {
+        "position": 10,
+        "surface": "שְׁלֹמֹ֖ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV/ESV/NASB: 'Solomon'"
+      },
+      {
+        "position": 11,
+        "surface": "חַטָּאִֽים",
+        "phrase": "offenders",
+        "literal": "sinners/offenders",
+        "source": "H2400; KJV: 'offenders', ESV/NASB: 'offenders'"
+      }
+    ]
+  }
+]

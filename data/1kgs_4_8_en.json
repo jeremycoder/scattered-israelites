@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֣לֶּה",
+        "phrase": "And these",
+        "literal": "and-these",
+        "source": "H428; KJV/ESV/NASB: 'these' or 'And these'"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוֹתָ֔/ם",
+        "phrase": "are their names",
+        "literal": "names-their",
+        "source": "H8034; KJV/ESV/NASB: 'names...their'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "Ben",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'Ben-' (patronymic 'son of')"
+      },
+      {
+        "position": 4,
+        "surface": "ח֖וּר",
+        "phrase": "Hur",
+        "literal": "Hur",
+        "source": "H2354; KJV/ESV/NASB: 'Hur'"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/הַ֥ר",
+        "phrase": "in the hill country",
+        "literal": "in-the-mountain",
+        "source": "H2022; KJV/ESV/NASB: 'in mount'/'hill country'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶפְרָֽיִם",
+        "phrase": "of Ephraim",
+        "literal": "Ephraim",
+        "source": "H669; KJV/ESV/NASB: 'Ephraim'"
+      }
+    ]
+  }
+]

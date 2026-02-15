@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 5,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֕ר",
+        "phrase": "and he spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 (KJV: spake; ESV: uttered; NASB: spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹשֶׁת",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV: three; ESV: three; NASB: three)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲלָפִ֖ים",
+        "phrase": "thousand",
+        "literal": "thousands",
+        "source": "H505 (KJV: thousand; ESV: thousand; NASB: thousand)"
+      },
+      {
+        "position": 4,
+        "surface": "מָשָׁ֑ל",
+        "phrase": "proverbs",
+        "literal": "proverb",
+        "source": "H4912 (KJV: proverbs; ESV: proverbs; NASB: proverbs)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "and there were",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: his songs were; ESV: his songs numbered; NASB: his songs were)"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁיר֖/וֹ",
+        "phrase": "his songs",
+        "literal": "song-his",
+        "source": "H7892 (KJV: songs; ESV: songs; NASB: songs)"
+      },
+      {
+        "position": 7,
+        "surface": "חֲמִשָּׁ֥ה",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV: five; ESV: five; NASB: five)"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/אָֽלֶף",
+        "phrase": "and a thousand",
+        "literal": "and-thousand",
+        "source": "H505 (KJV: and five thousand; ESV: and five thousand; NASB: and five thousand)"
+      }
+    ]
+  }
+]

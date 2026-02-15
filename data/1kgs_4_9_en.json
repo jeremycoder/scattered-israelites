@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1128: KJV 'Ben', ESV 'Ben', NASB 'Ben'"
+      },
+      {
+        "position": 2,
+        "surface": "דֶּ֛קֶר",
+        "phrase": "Deker",
+        "literal": "Deker",
+        "source": "H1128: KJV 'deker', ESV 'deker', NASB 'Deker'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/מָקַ֥ץ",
+        "phrase": "in Makaz",
+        "literal": "in-Makaz",
+        "source": "H4739: KJV 'Makaz', ESV 'Makaz', NASB 'Makaz'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְ/שַֽׁעַלְבִ֖ים",
+        "phrase": "and in Shaalbim",
+        "literal": "and-in-Shaalbim",
+        "source": "H8169: KJV 'Shaalbim', ESV 'Shaalbim', NASB 'Shaalbim'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בֵ֣ית",
+        "phrase": "and in Beth",
+        "literal": "and-house-of",
+        "source": "H1053: KJV 'Beth', ESV 'Beth', NASB 'Beth'"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֑מֶשׁ",
+        "phrase": "shemesh",
+        "literal": "sun",
+        "source": "H1053: KJV 'shemesh', ESV 'shemesh', NASB 'shemesh'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֵיל֖וֹן",
+        "phrase": "and Elon",
+        "literal": "and-oak",
+        "source": "H358: KJV 'Elon', ESV 'Elon', NASB 'Elon'"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H358: KJV 'beth', ESV 'beth', NASB 'beth'"
+      },
+      {
+        "position": 9,
+        "surface": "חָנָֽן",
+        "phrase": "Hanan",
+        "literal": "Hanan",
+        "source": "H358: KJV 'hanan', ESV 'hanan', NASB 'Hanan'"
+      }
+    ]
+  }
+]

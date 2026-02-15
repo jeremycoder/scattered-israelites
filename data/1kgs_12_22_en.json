@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "and it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'But the word'; ESV: 'But the word'; NASB: 'But the word')"
+      },
+      {
+        "position": 2,
+        "surface": "דְּבַ֣ר",
+        "phrase": "word",
+        "literal": "word-of",
+        "source": "H1697 (KJV: 'of God'; ESV: 'of God'; NASB: 'of God')"
+      },
+      {
+        "position": 3,
+        "surface": "הָֽ/אֱלֹהִ֔ים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV: 'of God'; ESV: 'of God'; NASB: 'of God')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: 'came'; ESV: 'came'; NASB: 'came')"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁמַעְיָ֥ה",
+        "phrase": "Shemaiah",
+        "literal": "Shemaiah",
+        "source": "H8098 (KJV: 'Shemaiah'; ESV: 'Shemaiah'; NASB: 'Shemaiah')"
+      },
+      {
+        "position": 6,
+        "surface": "אִישׁ",
+        "phrase": "man",
+        "literal": "man",
+        "source": "H376 (KJV: 'the man'; ESV: 'the man'; NASB: 'the man')"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֱלֹהִ֖ים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV: 'of God'; ESV: 'of God'; NASB: 'of God')"
+      },
+      {
+        "position": 8,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: 'saying'; ESV: 'saying'; NASB: 'saying')"
+      }
+    ]
+  }
+]

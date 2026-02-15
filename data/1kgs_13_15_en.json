@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 13,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "Then he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵלָ֔י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 3,
+        "surface": "לֵ֥ךְ",
+        "phrase": "Come",
+        "literal": "go",
+        "source": "H3212 (KJV: Come; ESV: Come; NASB: Come)"
+      },
+      {
+        "position": 4,
+        "surface": "אִתִּ֖/י",
+        "phrase": "with me",
+        "literal": "with-me",
+        "source": "H854 (KJV: with me; ESV: with me; NASB: with me)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בָּ֑יְתָ/ה",
+        "phrase": "home",
+        "literal": "the-to-house",
+        "source": "H1004 (KJV: home; ESV: home; NASB: home)"
+      },
+      {
+        "position": 6,
+        "surface": "וֶ/אֱכֹ֖ל",
+        "phrase": "and eat",
+        "literal": "and-eat",
+        "source": "H398 (KJV: and eat; ESV: and eat; NASB: and eat)"
+      },
+      {
+        "position": 7,
+        "surface": "לָֽחֶם",
+        "phrase": "bread",
+        "literal": "bread",
+        "source": "H3899 (KJV: bread; ESV: bread; NASB: bread)"
+      }
+    ]
+  }
+]

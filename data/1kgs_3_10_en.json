@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 3,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּיטַ֥ב",
+        "phrase": "and it was good",
+        "literal": "and-it-became-good",
+        "source": "H3190 (KJV: pleased; ESV: was pleasing; NASB: was pleasing)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דָּבָ֖ר",
+        "phrase": "the matter",
+        "literal": "the-word/matter",
+        "source": "H1697 (KJV: speech; ESV: request; NASB: thing)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/עֵינֵ֣י",
+        "phrase": "in the eyes of",
+        "literal": "in-eyes-of",
+        "source": "H5869 (KJV: the Lord; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲדֹנָ֑/י",
+        "phrase": "YHWH",
+        "literal": "my-lord",
+        "source": "H136 (KJV: the Lord; ESV: the Lord; NASB: the Lord)"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֚י",
+        "phrase": "that",
+        "literal": "that/because",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁאַ֣ל",
+        "phrase": "he had asked",
+        "literal": "he-asked",
+        "source": "H7592 (KJV: had asked; ESV: had asked; NASB: had asked)"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁלֹמֹ֔ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/דָּבָ֖ר",
+        "phrase": "the thing",
+        "literal": "the-word/thing",
+        "source": "H1697 (KJV: this thing; ESV: this; NASB: this thing)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      }
+    ]
+  }
+]

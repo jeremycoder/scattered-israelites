@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עֶ֨שֶׂר֙",
+        "phrase": "and ten",
+        "literal": "and-ten",
+        "source": "H6235; KJV: 'ten', ESV: 'ten', NASB: 'ten'"
+      },
+      {
+        "position": 2,
+        "surface": "בָּֽ/אַמָּ֔ה",
+        "phrase": "cubits",
+        "literal": "in-cubit",
+        "source": "H520; KJV: 'cubits', ESV: 'cubits', NASB: 'cubits'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כְּר֖וּב",
+        "phrase": "the cherub",
+        "literal": "the-cherub",
+        "source": "H3742; KJV: 'cherub', ESV: 'cherub', NASB: 'cherub'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שֵּׁנִ֑י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145; KJV: 'the other', ESV: 'second', NASB: 'second'"
+      },
+      {
+        "position": 5,
+        "surface": "מִדָּ֥ה",
+        "phrase": "measure",
+        "literal": "measure",
+        "source": "H4060; KJV: 'measure', ESV: 'measure', NASB: 'measure'"
+      },
+      {
+        "position": 6,
+        "surface": "אַחַ֛ת",
+        "phrase": "one",
+        "literal": "one-F",
+        "source": "H259; KJV: 'one', ESV: 'one', NASB: 'one'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קֶ֥צֶב",
+        "phrase": "and shape",
+        "literal": "and-cut",
+        "source": "H7095; KJV: 'size', ESV: 'shape', NASB: 'shape'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶחָ֖ד",
+        "phrase": "one",
+        "literal": "one-M",
+        "source": "H259; KJV: 'one', ESV: 'one', NASB: 'one'"
+      },
+      {
+        "position": 9,
+        "surface": "לִ/שְׁנֵ֥י",
+        "phrase": "for-the-two",
+        "literal": "to-two",
+        "source": "H8147; KJV: 'both', ESV: 'the two', NASB: 'the two'"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/כְּרֻבִֽים",
+        "phrase": "cherubim",
+        "literal": "the-cherubim",
+        "source": "H3742; KJV: 'cherubims', ESV: 'cherubim', NASB: 'cherubim'"
+      }
+    ]
+  }
+]

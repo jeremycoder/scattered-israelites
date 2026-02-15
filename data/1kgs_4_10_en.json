@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1136; KJV: son, ESV: Ben-, NASB: son"
+      },
+      {
+        "position": 2,
+        "surface": "חֶ֖סֶד",
+        "phrase": "Hesed",
+        "literal": "Hesed",
+        "source": "H1136; KJV: Hesed, ESV: hesed, NASB: Hesed"
+      },
+      {
+        "position": 3,
+        "surface": "בָּֽ/אֲרֻבּ֑וֹת",
+        "phrase": "in Arubboth",
+        "literal": "in-Arubboth",
+        "source": "H700; KJV: Aruboth, ESV: Arubboth, NASB: Arubboth"
+      },
+      {
+        "position": 4,
+        "surface": "ל֥/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "; KJV: to him, ESV: to him belonged, NASB: belonged to him"
+      },
+      {
+        "position": 5,
+        "surface": "שֹׂכֹ֖ה",
+        "phrase": "Socoh",
+        "literal": "Socoh",
+        "source": "H7755; KJV: Sochoh, ESV: Socoh, NASB: Socoh"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/כָל",
+        "phrase": "and all",
+        "literal": "and-all",
+        "source": "H3605; KJV: and all, ESV: and all, NASB: and all"
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֥רֶץ",
+        "phrase": "land",
+        "literal": "land-of",
+        "source": "H776; KJV: land, ESV: land, NASB: land"
+      },
+      {
+        "position": 8,
+        "surface": "חֵֽפֶר",
+        "phrase": "Hepher",
+        "literal": "Hepher",
+        "source": "H2660; KJV: Hepher, ESV: Hepher, NASB: Hepher"
+      }
+    ]
+  }
+]

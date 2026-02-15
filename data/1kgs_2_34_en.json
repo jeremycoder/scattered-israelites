@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֗עַל",
+        "phrase": "went up",
+        "literal": "and-he-went-up",
+        "source": "H5927; KJV/ESV/NASB: 'went up'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנָיָ֨הוּ֙",
+        "phrase": "Benaiah",
+        "literal": "Benaiah",
+        "source": "H1141; KJV/ESV/NASB: 'Benaiah'"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 4,
+        "surface": "יְה֣וֹיָדָ֔ע",
+        "phrase": "Jehoiada",
+        "literal": "Jehoiada",
+        "source": "H3077; KJV/ESV/NASB: 'Jehoiada'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּפְגַּע",
+        "phrase": "and fell upon",
+        "literal": "and-he-fell-upon",
+        "source": "H6293; KJV/ESV/NASB: 'fell upon/struck/fell on'"
+      },
+      {
+        "position": 6,
+        "surface": "בּ֖/וֹ",
+        "phrase": "him",
+        "literal": "in/on-him",
+        "source": "; KJV/ESV/NASB: 'him'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יְמִתֵ֑/הוּ",
+        "phrase": "and slew him",
+        "literal": "and-he-caused-to-die-him",
+        "source": "H4191; KJV/ESV/NASB: 'slew/killed/put to death'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יִּקָּבֵ֥ר",
+        "phrase": "and he was buried",
+        "literal": "and-he-was-buried",
+        "source": "H6912; KJV/ESV/NASB: 'buried'"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/בֵית֖/וֹ",
+        "phrase": "in his house",
+        "literal": "in-house-his",
+        "source": "H1004; KJV/ESV/NASB: 'in his house/own house'"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/מִּדְבָּֽר",
+        "phrase": "in the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057; KJV/ESV/NASB: 'wilderness/country/open country'"
+      }
+    ]
+  }
+]

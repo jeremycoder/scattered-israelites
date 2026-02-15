@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֨לֶּה֙",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "H428 (KJV: 'So these'; ESV: 'these'; NASB: 'these')"
+      },
+      {
+        "position": 2,
+        "surface": "יָצְא֣וּ",
+        "phrase": "went out",
+        "literal": "they-went-out",
+        "source": "H3318 (KJV: 'went out'; ESV: 'came out'; NASB: 'went out')"
+      },
+      {
+        "position": 3,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV/ESV/NASB: 'of/out of')"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עִ֔יר",
+        "phrase": "the city",
+        "literal": "the-city",
+        "source": "H5892 (KJV/ESV/NASB: 'the city')"
+      },
+      {
+        "position": 5,
+        "surface": "נַעֲרֵ֖י",
+        "phrase": "young men of",
+        "literal": "young-men-of",
+        "source": "H5288 (KJV: 'young men'; ESV/NASB: 'young men')"
+      },
+      {
+        "position": 6,
+        "surface": "שָׂרֵ֣י",
+        "phrase": "princes of",
+        "literal": "princes-of",
+        "source": "H8269 (KJV/ESV/NASB: 'princes')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מְּדִינ֑וֹת",
+        "phrase": "the provinces",
+        "literal": "the-provinces",
+        "source": "H4082 (KJV/ESV/NASB: 'provinces')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הַ/חַ֖יִל",
+        "phrase": "and the army",
+        "literal": "and-the-army",
+        "source": "H2428 (KJV/ESV/NASB: 'army')"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV/ESV/NASB: 'which')"
+      },
+      {
+        "position": 10,
+        "surface": "אַחֲרֵי/הֶֽם",
+        "phrase": "followed them",
+        "literal": "after-them",
+        "source": "H310 (KJV/ESV/NASB: 'followed them')"
+      }
+    ]
+  }
+]

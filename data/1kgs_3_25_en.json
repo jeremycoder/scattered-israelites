@@ -1,0 +1,109 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 3,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 3,
+        "surface": "גִּזְר֛וּ",
+        "phrase": "cut",
+        "literal": "cut-ye",
+        "source": "H1504 (KJV: Divide; ESV: Divide; NASB: Cut)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/יֶּ֥לֶד",
+        "phrase": "the child",
+        "literal": "the-child",
+        "source": "H3206 (KJV: the living child; ESV: the living child; NASB: the living child)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/חַ֖י",
+        "phrase": "the living",
+        "literal": "the-living",
+        "source": "H2416 (KJV: living; ESV: living; NASB: living)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/שְׁנָ֑יִם",
+        "phrase": "in two",
+        "literal": "to-two",
+        "source": "H8147 (KJV: in two; ESV: in two; NASB: in two)"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/תְנ֤וּ",
+        "phrase": "and give",
+        "literal": "and-give-ye",
+        "source": "H5414 (KJV: give; ESV: give; NASB: give)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶֽת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/חֲצִי֙",
+        "phrase": "the half",
+        "literal": "the-half",
+        "source": "H2677 (KJV: half; ESV: half; NASB: half)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/אַחַ֔ת",
+        "phrase": "to one",
+        "literal": "to-one",
+        "source": "H259 (KJV: to the one; ESV: to the one; NASB: to the one)"
+      },
+      {
+        "position": 12,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 13,
+        "surface": "הַ/חֲצִ֖י",
+        "phrase": "the half",
+        "literal": "the-half",
+        "source": "H2677 (KJV: half; ESV: half; NASB: half)"
+      },
+      {
+        "position": 14,
+        "surface": "לְ/אֶחָֽת",
+        "phrase": "to one",
+        "literal": "to-one",
+        "source": "H259 (KJV: to the other; ESV: to the other; NASB: to the other)"
+      }
+    ]
+  }
+]

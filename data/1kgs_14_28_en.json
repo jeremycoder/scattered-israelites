@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 14,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֛י",
+        "phrase": "And it was",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And it was so', ESV 'as often as', NASB 'it happened'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/דֵּי",
+        "phrase": "as often as",
+        "literal": "from-time-of",
+        "source": "H1767: KJV (implied in 'when'), ESV 'as often as', NASB 'as often as'"
+      },
+      {
+        "position": 3,
+        "surface": "בֹ֥א",
+        "phrase": "went",
+        "literal": "to-enter",
+        "source": "H935: KJV 'went', ESV 'went', NASB 'entered'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428: KJV 'the king', ESV 'the king', NASB 'the king'"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004: KJV 'house', ESV 'house', NASB 'house'"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'of the LORD', ESV 'of the LORD', NASB 'of the LORD'"
+      },
+      {
+        "position": 7,
+        "surface": "יִשָּׂאוּ/ם֙",
+        "phrase": "they carried them",
+        "literal": "they-bore-them",
+        "source": "H5375: KJV 'bare them', ESV 'carried them', NASB 'would carry them'"
+      },
+      {
+        "position": 8,
+        "surface": "הָֽ/רָצִ֔ים",
+        "phrase": "the guards",
+        "literal": "the-runners",
+        "source": "H7323: KJV 'the guard', ESV 'the guard', NASB 'the guards'"
+      },
+      {
+        "position": 9,
+        "surface": "וֶ/הֱשִׁיב֖וּ/ם",
+        "phrase": "and brought them back",
+        "literal": "and-they-returned-them",
+        "source": "H7725: KJV 'brought them back', ESV 'brought them back', NASB 'would bring them back'"
+      },
+      {
+        "position": 10,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 11,
+        "surface": "תָּ֥א",
+        "phrase": "guardroom",
+        "literal": "chamber",
+        "source": "H8372: KJV 'guard chamber', ESV 'guardroom', NASB 'guards’ room'"
+      },
+      {
+        "position": 12,
+        "surface": "הָ/רָצִֽים",
+        "phrase": "of the guards",
+        "literal": "of-the-guards",
+        "source": "H7323: KJV (implied in 'guard'), ESV (implied), NASB (implied in 'guards’')"
+      }
+    ]
+  }
+]

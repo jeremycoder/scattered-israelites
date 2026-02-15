@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 18,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֥ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "אַחְאָ֖ב",
+        "phrase": "Ahab",
+        "literal": "Ahab",
+        "source": "H256 (KJV: Ahab; ESV: Ahab; NASB: Ahab)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/כָל",
+        "phrase": "throughout all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֣י",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: people; NASB: sons)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יִּקְבֹּ֥ץ",
+        "phrase": "and gathered",
+        "literal": "and-he-assembled",
+        "source": "H6908 (KJV: gathered; ESV: gathered; NASB: brought)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (implied in KJV: gathered the; ESV: gathered the; NASB: brought the)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/נְּבִיאִ֖ים",
+        "phrase": "the prophets",
+        "literal": "the-prophets",
+        "source": "H5030 (KJV: prophets; ESV: prophets; NASB: prophets)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: at; NASB: at)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ֥ר",
+        "phrase": "Mount",
+        "literal": "mountain",
+        "source": "H2022 (KJV: mount; ESV: Mount; NASB: Mount)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/כַּרְמֶֽל",
+        "phrase": "Carmel",
+        "literal": "the-Carmel",
+        "source": "H3760 (KJV: Carmel; ESV: Carmel; NASB: Carmel)"
+      }
+    ]
+  }
+]

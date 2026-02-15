@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 9,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֤בֶן",
+        "phrase": "and built",
+        "literal": "and-he-built",
+        "source": "H1129; KJV: built, ESV: rebuilt, NASB: built"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹה֙",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV: Solomon, ESV: Solomon, NASB: Solomon"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "גָּ֔זֶר",
+        "phrase": "Gezer",
+        "literal": "Gezer",
+        "source": "H1507; KJV: Gezer, ESV: Gezer, NASB: Gezer"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּ֥ית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1032; KJV: Beth, ESV: Beth, NASB: Beth"
+      },
+      {
+        "position": 7,
+        "surface": "חֹרֹ֖ן",
+        "phrase": "horon",
+        "literal": "Horon",
+        "source": "H1032; KJV: horon, ESV: horon, NASB: horon"
+      },
+      {
+        "position": 8,
+        "surface": "תַּחְתּֽוֹן",
+        "phrase": "the lower",
+        "literal": "the-lower-its",
+        "source": "H8481; KJV: the nether, ESV: lower, NASB: lower"
+      }
+    ]
+  }
+]

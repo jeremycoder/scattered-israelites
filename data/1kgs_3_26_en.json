@@ -1,0 +1,235 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 3,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֹּ֣אמֶר",
+        "phrase": "Then she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: spake; ESV: said; NASB: spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אִשָּׁה֩",
+        "phrase": "the woman",
+        "literal": "the-woman",
+        "source": "H802 (KJV: woman; ESV: woman; NASB: woman)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "whose",
+        "literal": "which/who",
+        "source": "H834 (KJV: whose; ESV: whose; NASB: whose)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנָ֨/הּ",
+        "phrase": "was her son",
+        "literal": "son-her",
+        "source": "H1121 (KJV: child was; ESV: son was; NASB: child was)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/חַ֜י",
+        "phrase": "the living",
+        "literal": "the-living",
+        "source": "H2416 (KJV: living; ESV: living; NASB: living)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מֶּ֗לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 8,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for/because",
+        "source": "H3588 (KJV: for; ESV: because; NASB: for)"
+      },
+      {
+        "position": 9,
+        "surface": "נִכְמְר֣וּ",
+        "phrase": "were aroused",
+        "literal": "were-kindled",
+        "source": "H3648 (KJV: yearned; ESV: yearned; NASB: deeply stirred)"
+      },
+      {
+        "position": 10,
+        "surface": "רַחֲמֶי/הָ֮",
+        "phrase": "her compassions",
+        "literal": "mercies-her",
+        "source": "H7356 (KJV: bowels; ESV: heart; NASB: compassion)"
+      },
+      {
+        "position": 11,
+        "surface": "עַל",
+        "phrase": "upon/over",
+        "literal": "upon",
+        "source": "H5921 (KJV: upon; ESV: for; NASB: over)"
+      },
+      {
+        "position": 12,
+        "surface": "בְּנָ/הּ֒",
+        "phrase": "her son",
+        "literal": "son-her",
+        "source": "H1121 (KJV: her son; ESV: her son; NASB: her son)"
+      },
+      {
+        "position": 13,
+        "surface": "וַ/תֹּ֣אמֶר",
+        "phrase": "and she said",
+        "literal": "and-she-said",
+        "source": "H559 (KJV: she said; ESV: she said; NASB: she said)"
+      },
+      {
+        "position": 14,
+        "surface": "בִּ֣י",
+        "phrase": "Please",
+        "literal": "by-me",
+        "source": "H994 (KJV: O; ESV: Oh; NASB: Oh)"
+      },
+      {
+        "position": 15,
+        "surface": "אֲדֹנִ֗/י",
+        "phrase": "my lord",
+        "literal": "lord-my",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      },
+      {
+        "position": 16,
+        "surface": "תְּנוּ",
+        "phrase": "give",
+        "literal": "give!",
+        "source": "H5414 (KJV: give; ESV: give; NASB: give)"
+      },
+      {
+        "position": 17,
+        "surface": "לָ/הּ֙",
+        "phrase": "her",
+        "literal": "to-her",
+        "source": " (KJV: her; ESV: her; NASB: her)"
+      },
+      {
+        "position": 18,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: the; NASB: the)"
+      },
+      {
+        "position": 19,
+        "surface": "הַ/יָּל֣וּד",
+        "phrase": "the child",
+        "literal": "the-born",
+        "source": "H3205 (KJV: child; ESV: child; NASB: child)"
+      },
+      {
+        "position": 20,
+        "surface": "הַ/חַ֔י",
+        "phrase": "the living",
+        "literal": "the-living",
+        "source": "H2416 (KJV: living; ESV: living; NASB: living)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/הָמֵ֖ת",
+        "phrase": "and the dead",
+        "literal": "and-the-dead",
+        "source": "H4191 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 22,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408 (KJV: in no wise; ESV: by no means; NASB: by no means)"
+      },
+      {
+        "position": 23,
+        "surface": "תְּמִיתֻ֑/הוּ",
+        "phrase": "kill him",
+        "literal": "kill-him",
+        "source": "H4191 (KJV: slay it; ESV: put him to death; NASB: kill him)"
+      },
+      {
+        "position": 24,
+        "surface": "וְ/זֹ֣את",
+        "phrase": "But this",
+        "literal": "and-this",
+        "source": "H2063 (KJV: But the other; ESV: But the other; NASB: But the other)"
+      },
+      {
+        "position": 25,
+        "surface": "אֹמֶ֗רֶת",
+        "phrase": "woman said",
+        "literal": "saying",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 26,
+        "surface": "גַּם",
+        "phrase": "neither",
+        "literal": "also/even",
+        "source": "H1571 (KJV: neither; ESV: neither; NASB: neither)"
+      },
+      {
+        "position": 27,
+        "surface": "לִ֥/י",
+        "phrase": "mine",
+        "literal": "to-me",
+        "source": " (KJV: mine; ESV: mine; NASB: mine)"
+      },
+      {
+        "position": 28,
+        "surface": "גַם",
+        "phrase": "nor",
+        "literal": "also/even",
+        "source": "H1571 (KJV: nor; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 29,
+        "surface": "לָ֛/ךְ",
+        "phrase": "yours",
+        "literal": "to-you",
+        "source": " (KJV: thine; ESV: yours; NASB: yours)"
+      },
+      {
+        "position": 30,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: shall be neither; NASB: shall be neither)"
+      },
+      {
+        "position": 31,
+        "surface": "יִהְיֶ֖ה",
+        "phrase": "shall be",
+        "literal": "he-will-be",
+        "source": "H1961 (KJV: be; ESV: be; NASB: be)"
+      },
+      {
+        "position": 32,
+        "surface": "גְּזֹֽרוּ",
+        "phrase": "Divide him",
+        "literal": "cut!",
+        "source": "H1504 (KJV: divide it; ESV: divide him; NASB: divide him)"
+      }
+    ]
+  }
+]

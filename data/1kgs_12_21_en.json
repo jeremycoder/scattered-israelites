@@ -1,0 +1,207 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ו/יבאו",
+        "phrase": "and-they-came",
+        "literal": "and-they-came",
+        "source": "H935 (variant; KJV/ESV/NASB: 'came' or 'arrived')"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/יָּבֹ֣א",
+        "phrase": "and-came",
+        "literal": "and-he-came",
+        "source": "H935; KJV: 'was come', ESV: 'came', NASB: 'had come'"
+      },
+      {
+        "position": 3,
+        "surface": "רְחַבְעָם֮",
+        "phrase": "Rehoboam",
+        "literal": "Rehoboam",
+        "source": "H7346; KJV/ESV/NASB: 'Rehoboam'"
+      },
+      {
+        "position": 4,
+        "surface": "יְרוּשָׁלִַם֒",
+        "phrase": "Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389; KJV/ESV/NASB: 'Jerusalem'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יַּקְהֵל֩",
+        "phrase": "and-he-assembled",
+        "literal": "and-he-assembled",
+        "source": "H6950; KJV: 'assembled', ESV: 'assembled', NASB: 'assembled'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[-direct object marker-]",
+        "literal": "[-dom-]",
+        "source": "H853; KJV/ESV/NASB: (implied in context)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV/ESV/NASB: 'all'"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֨ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004; KJV/ESV/NASB: 'house'"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוּדָ֜ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063; KJV/ESV/NASB: 'Judah'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[-dom-]",
+        "literal": "and-[-dom-]",
+        "source": "H853; KJV/ESV/NASB: (implied)"
+      },
+      {
+        "position": 11,
+        "surface": "שֵׁ֣בֶט",
+        "phrase": "tribe",
+        "literal": "tribe",
+        "source": "H7626; KJV/ESV/NASB: 'tribe'"
+      },
+      {
+        "position": 12,
+        "surface": "בִּנְיָמִ֗ן",
+        "phrase": "Benjamin",
+        "literal": "Benjamin",
+        "source": "H1144; KJV/ESV/NASB: 'Benjamin'"
+      },
+      {
+        "position": 13,
+        "surface": "מֵאָ֨ה",
+        "phrase": "a-hundred",
+        "literal": "hundred",
+        "source": "H3967; KJV/ESV/NASB: 'hundred'"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/שְׁמֹנִ֥ים",
+        "phrase": "and-eighty",
+        "literal": "and-eighty",
+        "source": "H8084; KJV/ESV/NASB: 'eighty'"
+      },
+      {
+        "position": 15,
+        "surface": "אֶ֛לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV/ESV/NASB: 'thousand'"
+      },
+      {
+        "position": 16,
+        "surface": "בָּח֖וּר",
+        "phrase": "chosen",
+        "literal": "chosen",
+        "source": "H977; KJV: 'chosen', ESV: 'chosen', NASB: 'chosen'"
+      },
+      {
+        "position": 17,
+        "surface": "עֹשֵׂ֣ה",
+        "phrase": "doers-of",
+        "literal": "doing",
+        "source": "H6213; KJV/ESV/NASB: (part of 'warriors')"
+      },
+      {
+        "position": 18,
+        "surface": "מִלְחָמָ֑ה",
+        "phrase": "war",
+        "literal": "war",
+        "source": "H4421; KJV/ESV/NASB: 'warriors'"
+      },
+      {
+        "position": 19,
+        "surface": "לְ/הִלָּחֵם֙",
+        "phrase": "to-fight",
+        "literal": "to-fight",
+        "source": "H3898; KJV/ESV/NASB: 'to fight'"
+      },
+      {
+        "position": 20,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV/ESV/NASB: 'against'"
+      },
+      {
+        "position": 21,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004; KJV/ESV/NASB: 'house'"
+      },
+      {
+        "position": 22,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: 'Israel'"
+      },
+      {
+        "position": 23,
+        "surface": "לְ/הָשִׁיב֙",
+        "phrase": "to-restore",
+        "literal": "to-return",
+        "source": "H7725; KJV: 'bring...again', ESV/NASB: 'restore'"
+      },
+      {
+        "position": 24,
+        "surface": "אֶת",
+        "phrase": "[-dom-]",
+        "literal": "[-dom-]",
+        "source": "H853; KJV/ESV/NASB: (implied)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/מְּלוּכָ֔ה",
+        "phrase": "the-kingdom",
+        "literal": "the-kingdom",
+        "source": "H4410; KJV/ESV/NASB: 'kingdom'"
+      },
+      {
+        "position": 26,
+        "surface": "לִ/רְחַבְעָ֖ם",
+        "phrase": "to-Rehoboam",
+        "literal": "to-Rehoboam",
+        "source": "H7346; KJV/ESV/NASB: 'Rehoboam'"
+      },
+      {
+        "position": 27,
+        "surface": "בֶּן",
+        "phrase": "son-of",
+        "literal": "son",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 28,
+        "surface": "שְׁלֹמֹֽה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV/ESV/NASB: 'Solomon'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'In the spring'; NASB: 'Now it came about at the turn of the year')"
+      },
+      {
+        "position": 2,
+        "surface": "לִ/תְשׁוּבַ֣ת",
+        "phrase": "at the return",
+        "literal": "to-return-of",
+        "source": "H8666 (KJV: 'at the return'; ESV: 'In the spring'; NASB: 'at the turn')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שָּׁנָ֔ה",
+        "phrase": "of the year",
+        "literal": "the-year",
+        "source": "H8141 (KJV: 'of the year'; ESV: 'of the year'; NASB: 'of the year')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּפְקֹ֥ד",
+        "phrase": "and he mustered",
+        "literal": "and-he-mustered",
+        "source": "H6485 (KJV: 'that Benhadad numbered'; ESV: 'Ben-hadad mustered'; NASB: 'Ben-hadad mustered')"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "Ben-",
+        "literal": "son-of",
+        "source": "H1130 (KJV: 'Benhadad'; ESV: 'Ben-hadad'; NASB: 'Ben-hadad')"
+      },
+      {
+        "position": 6,
+        "surface": "הֲדַ֖ד",
+        "phrase": "hadad",
+        "literal": "Hadad",
+        "source": "H1130 (KJV: 'Benhadad'; ESV: 'Ben-hadad'; NASB: 'Ben-hadad')"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV/ESV/NASB: not translated explicitly; introduces 'Aram')"
+      },
+      {
+        "position": 8,
+        "surface": "אֲרָ֑ם",
+        "phrase": "Aram",
+        "literal": "Aram",
+        "source": "H758 (KJV: 'the Syrians'; ESV: 'the Arameans'; NASB: 'the Arameans')"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יַּ֣עַל",
+        "phrase": "and went up",
+        "literal": "and-he-went-up",
+        "source": "H5927 (KJV/ESV/NASB: 'went up' or 'marched')"
+      },
+      {
+        "position": 10,
+        "surface": "אֲפֵ֔קָ/ה",
+        "phrase": "to Aphek",
+        "literal": "Aphek-ward",
+        "source": "H663 (KJV/ESV/NASB: 'to Aphek')"
+      },
+      {
+        "position": 11,
+        "surface": "לַ/מִּלְחָמָ֖ה",
+        "phrase": "to fight",
+        "literal": "to-the-war",
+        "source": "H4421 (KJV: 'to fight'; ESV: 'to fight'; NASB: 'for battle')"
+      },
+      {
+        "position": 12,
+        "surface": "עִם",
+        "phrase": "against",
+        "literal": "with",
+        "source": "H5973 (KJV/ESV/NASB: 'against')"
+      },
+      {
+        "position": 13,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV/ESV/NASB: 'Israel')"
+      }
+    ]
+  }
+]

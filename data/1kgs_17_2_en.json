@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 17,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֥י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And', ESV 'And', NASB 'Then'"
+      },
+      {
+        "position": 2,
+        "surface": "דְבַר",
+        "phrase": "the word",
+        "literal": "word-of",
+        "source": "H1697: KJV 'the word', ESV 'the word', NASB 'the word'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוָ֖ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'of the LORD', ESV 'of the LORD', NASB 'of the LORD'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵלָ֥י/ו",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": "H413: KJV 'unto him', ESV 'to him', NASB 'to him'"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559: KJV 'saying', ESV 'saying', NASB 'saying'"
+      }
+    ]
+  }
+]

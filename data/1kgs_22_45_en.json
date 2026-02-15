@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 22,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּשְׁלֵ֥ם",
+        "phrase": "and he completed",
+        "literal": "and-he-completed",
+        "source": "H7999; KJV: shewed, ESV: showed, NASB: showed"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹשָׁפָ֖ט",
+        "phrase": "Jehoshaphat",
+        "literal": "Jehoshaphat",
+        "source": "H3092; KJV: Jehoshaphat, ESV: Jehoshaphat, NASB: Jehoshaphat"
+      },
+      {
+        "position": 3,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV: (implied in context), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "מֶ֥לֶךְ",
+        "phrase": "the king",
+        "literal": "king",
+        "source": "H4428; KJV: kings (later), ESV: Kings, NASB: Kings"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: Israel, ESV: Israel, NASB: Israel"
+      }
+    ]
+  }
+]

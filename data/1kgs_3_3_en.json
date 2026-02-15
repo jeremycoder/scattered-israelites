@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 3,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֶּאֱהַ֤ב",
+        "phrase": "and loved",
+        "literal": "and-he-loved",
+        "source": "H157 (KJV: loved; ESV: loved; NASB: loved)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹה֙",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוָ֔ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/לֶ֕כֶת",
+        "phrase": "to walk",
+        "literal": "to-walk",
+        "source": "H3212 (KJV: walking; ESV: walking; NASB: walking)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/חֻקּ֖וֹת",
+        "phrase": "in the statutes",
+        "literal": "in-statutes-of",
+        "source": "H2708 (KJV: statutes; ESV: statutes; NASB: statutes)"
+      },
+      {
+        "position": 7,
+        "surface": "דָּוִ֣ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִ֑י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      },
+      {
+        "position": 9,
+        "surface": "רַ֚ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535 (KJV: only; ESV: only; NASB: except)"
+      },
+      {
+        "position": 10,
+        "surface": "בַּ/בָּמ֔וֹת",
+        "phrase": "on the high places",
+        "literal": "on-the-high-places",
+        "source": "H1116 (KJV: high places; ESV: high places; NASB: high places)"
+      },
+      {
+        "position": 11,
+        "surface": "ה֥וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: he)"
+      },
+      {
+        "position": 12,
+        "surface": "מְזַבֵּ֖חַ",
+        "phrase": "was sacrificing",
+        "literal": "sacrificing",
+        "source": "H2076 (KJV: sacrificed; ESV: sacrificed; NASB: sacrificed)"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/מַקְטִֽיר",
+        "phrase": "and burning incense",
+        "literal": "and-burning-incense",
+        "source": "H6999 (KJV: burnt incense; ESV: burned incense; NASB: burned incense)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 15,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֵא֙",
+        "phrase": "And he brought",
+        "literal": "and-he-brought",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 3,
+        "surface": "קָדְשֵׁ֣י",
+        "phrase": "the dedicated things of",
+        "literal": "dedicated-things-of",
+        "source": "H6944 (KJV: things which...dedicated; ESV: dedicated things; NASB: things dedicated)"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֔י/ו",
+        "phrase": "his father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      },
+      {
+        "position": 5,
+        "surface": "ו/קדש/ו",
+        "phrase": "and his dedicated things",
+        "literal": "and-dedicated-things-his",
+        "source": "H6944 (KJV: the things which himself had dedicated; ESV: his own dedicated things; NASB: his dedicated things)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/קָדְשֵׁ֖י",
+        "phrase": "and the dedicated things",
+        "literal": "and-dedicated-things-of",
+        "source": "H6944 (KJV: the things which...dedicated; ESV: dedicated things; NASB: things dedicated)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 9,
+        "surface": "כֶּ֥סֶף",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701 (KJV: silver; ESV: silver; NASB: silver)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/זָהָ֖ב",
+        "phrase": "and gold",
+        "literal": "and-gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/כֵלִֽים",
+        "phrase": "and utensils",
+        "literal": "and-utensils",
+        "source": "H3627 (KJV: utensils; ESV: utensils; NASB: utensils)"
+      }
+    ]
+  }
+]

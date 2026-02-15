@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "יָרָבְעָ֖ם",
+        "phrase": "Jeroboam",
+        "literal": "Jeroboam",
+        "source": "H3379 (KJV: Jeroboam; ESV: Jeroboam; NASB: Jeroboam)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/לִבּ֑/וֹ",
+        "phrase": "in his heart",
+        "literal": "in-heart-his",
+        "source": "H3820 (KJV: in his heart; ESV: in his heart; NASB: in his heart)"
+      },
+      {
+        "position": 4,
+        "surface": "עַתָּ֛ה",
+        "phrase": "now",
+        "literal": "now",
+        "source": "H6258 (KJV: Now; ESV: Now; NASB: Now)"
+      },
+      {
+        "position": 5,
+        "surface": "תָּשׁ֥וּב",
+        "phrase": "will return",
+        "literal": "will-return",
+        "source": "H7725 (KJV: shall...return; ESV: will turn back; NASB: will return)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/מַּמְלָכָ֖ה",
+        "phrase": "the kingdom",
+        "literal": "the-kingdom",
+        "source": "H4467 (KJV: the kingdom; ESV: the kingdom; NASB: the kingdom)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/בֵ֥ית",
+        "phrase": "to house",
+        "literal": "to-house",
+        "source": "H1004 (KJV: to the house; ESV: to the house; NASB: to the house)"
+      },
+      {
+        "position": 8,
+        "surface": "דָּוִֽד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732 (KJV: of David; ESV: of David; NASB: of David)"
+      }
+    ]
+  }
+]

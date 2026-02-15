@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 20,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַן",
+        "phrase": "And the king answered",
+        "literal": "and-he-answered",
+        "source": "H6030 (KJV: answered; ESV: answered; NASB: answered)"
+      },
+      {
+        "position": 2,
+        "surface": "מֶֽלֶךְ",
+        "phrase": "of Israel",
+        "literal": "king",
+        "source": "H4428 (KJV: king; ESV: king; NASB: king)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "King of Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: replied)"
+      },
+      {
+        "position": 5,
+        "surface": "דַּבְּר֔וּ",
+        "phrase": "Speak",
+        "literal": "speak!",
+        "source": "H1696 (KJV: Tell; ESV: Say; NASB: Speak)"
+      },
+      {
+        "position": 6,
+        "surface": "אַל",
+        "phrase": "Let not",
+        "literal": "not",
+        "source": "H408 (KJV: Let not; ESV: Don’t let; NASB: Let not)"
+      },
+      {
+        "position": 7,
+        "surface": "יִתְהַלֵּ֥ל",
+        "phrase": "boast",
+        "literal": "boast",
+        "source": "H1984 (KJV: boast; ESV: boast; NASB: boast)"
+      },
+      {
+        "position": 8,
+        "surface": "חֹגֵ֖ר",
+        "phrase": "the one who girds on",
+        "literal": "girding",
+        "source": "H2296 (KJV: girdeth on; ESV: girds on; NASB: girds on)"
+      },
+      {
+        "position": 9,
+        "surface": "כִּ/מְפַתֵּֽחַ",
+        "phrase": "like the one who puts it off",
+        "literal": "like/putting-off",
+        "source": "H6605 (KJV: putteth it off; ESV: takes it off; NASB: takes it off)"
+      }
+    ]
+  }
+]

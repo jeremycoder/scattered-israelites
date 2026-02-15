@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שִׁמְעִ֥י",
+        "phrase": "Shimei",
+        "literal": "Shimei",
+        "source": "H8096; KJV/ESV/NASB: 'Shimei' (proper name, consistent across versions)"
+      },
+      {
+        "position": 2,
+        "surface": "בֶן",
+        "phrase": "the son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (standard construct form for 'son of')"
+      },
+      {
+        "position": 3,
+        "surface": "אֵלָ֖א",
+        "phrase": "Ela",
+        "literal": "Ela",
+        "source": "H414; KJV/ESV/NASB: 'Ela' (proper name, consistent across versions)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/בִנְיָמִֽן",
+        "phrase": "in Benjamin",
+        "literal": "in-Benjamin",
+        "source": "H1144; KJV/ESV/NASB: 'Benjamin' (tribal name in locative phrase, consistent)"
+      }
+    ]
+  }
+]

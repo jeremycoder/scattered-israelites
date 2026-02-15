@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוֹשָׁפָ֥ט",
+        "phrase": "Jehoshaphat",
+        "literal": "YHWH-has-judged",
+        "source": "H3092; KJV/ESV/NASB: Jehoshaphat"
+      },
+      {
+        "position": 2,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: son"
+      },
+      {
+        "position": 3,
+        "surface": "פָּר֖וּחַ",
+        "phrase": "Paruah",
+        "literal": "Paruah",
+        "source": "H6515; KJV/ESV/NASB: Paruah"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/יִשָׂשכָֽר",
+        "phrase": "in Issachar",
+        "literal": "in-Issachar",
+        "source": "H3485; KJV/ESV/NASB: in Issachar"
+      }
+    ]
+  }
+]

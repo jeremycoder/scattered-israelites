@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 15,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961 (KJV: 'And it came to pass'; ESV: 'When'; NASB: 'Now it happened')"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ/שְׁמֹ֣עַ",
+        "phrase": "when he heard",
+        "literal": "when-hearing",
+        "source": "H8085 (KJV: 'when Baasha heard thereof'; ESV: 'when Baasha heard of it'; NASB: 'when Baasha heard about it')"
+      },
+      {
+        "position": 3,
+        "surface": "בַּעְשָׁ֔א",
+        "phrase": "Baasha",
+        "literal": "Baasha",
+        "source": "H1201 (KJV: 'Baasha'; ESV: 'Baasha'; NASB: 'Baasha')"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֶּחְדַּ֕ל",
+        "phrase": "he stopped",
+        "literal": "and-he-ceased",
+        "source": "H2308 (KJV: 'he left off'; ESV: 'he stopped'; NASB: 'he stopped')"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/בְּנ֖וֹת",
+        "phrase": "from building",
+        "literal": "from-building",
+        "source": "H1129 (KJV: 'building of'; ESV: 'building'; NASB: 'fortifying')"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV/ESV/NASB: not translated explicitly; marks 'Ramah')"
+      },
+      {
+        "position": 7,
+        "surface": "הָֽ/רָמָ֑ה",
+        "phrase": "Ramah",
+        "literal": "the-Ramah",
+        "source": "H7414 (KJV: 'Ramah'; ESV: 'Ramah'; NASB: 'Ramah')"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יֵּ֖שֶׁב",
+        "phrase": "and he dwelt",
+        "literal": "and-he-dwelt",
+        "source": "H3427 (KJV: 'and dwelt'; ESV: 'and he lived'; NASB: 'and remained')"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/תִרְצָֽה",
+        "phrase": "in Tirzah",
+        "literal": "in-Tirzah",
+        "source": "H8656 (KJV: 'in Tirzah'; ESV: 'in Tirzah'; NASB: 'in Tirzah')"
+      }
+    ]
+  }
+]

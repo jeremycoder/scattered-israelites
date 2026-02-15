@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 7,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/זֶ֛ה",
+        "phrase": "And this",
+        "literal": "and-this",
+        "source": "H2088 (KJV: 'And...was on this manner'; ESV: 'This was the construction'; NASB: 'This was the design')"
+      },
+      {
+        "position": 2,
+        "surface": "מַעֲשֵׂ֥ה",
+        "phrase": "work",
+        "literal": "work-of",
+        "source": "H4639 (KJV: 'the work'; ESV: 'construction'; NASB: 'design')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מְּכוֹנָ֖ה",
+        "phrase": "of the stands",
+        "literal": "the-base/stand",
+        "source": "H4350 (KJV: 'of the bases'; ESV: 'of the stands'; NASB: 'of the stands')"
+      },
+      {
+        "position": 4,
+        "surface": "מִסְגְּרֹ֣ת",
+        "phrase": "panels",
+        "literal": "panels",
+        "source": "H4526 (KJV: 'borders'; ESV: 'panels'; NASB: 'panels')"
+      },
+      {
+        "position": 5,
+        "surface": "לָ/הֶ֑ם",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "(KJV: 'they had'; ESV: 'they had'; NASB: 'they had')"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מִסְגְּרֹ֖ת",
+        "phrase": "and panels",
+        "literal": "and-panels",
+        "source": "H4526 (KJV: 'and the borders'; ESV: 'and the panels'; NASB: 'and the panels')"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֥ין",
+        "phrase": "between",
+        "literal": "between",
+        "source": "H996 (KJV: 'between'; ESV: 'set in the'; NASB: 'set in the')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שְׁלַבִּֽים",
+        "phrase": "the frames",
+        "literal": "the-ledges/frames",
+        "source": "H7948 (KJV: 'the ledges'; ESV: 'frames'; NASB: 'frames')"
+      }
+    ]
+  }
+]

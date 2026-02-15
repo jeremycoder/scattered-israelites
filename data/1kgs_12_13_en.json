@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֧עַן",
+        "phrase": "and answered",
+        "literal": "and-he-answered",
+        "source": "H6030 (KJV: answered; ESV: answered; NASB: answered)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֛לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: people; ESV: people; NASB: people)"
+      },
+      {
+        "position": 5,
+        "surface": "קָשָׁ֑ה",
+        "phrase": "harshly",
+        "literal": "harshly",
+        "source": "H7186 (KJV: roughly; ESV: harshly; NASB: harshly)"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יַּעֲזֹ֛ב",
+        "phrase": "and rejected",
+        "literal": "and-he-abandoned",
+        "source": "H5800 (KJV: forsook; ESV: rejected; NASB: rejected)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "עֲצַ֥ת",
+        "phrase": "advice",
+        "literal": "advice-of",
+        "source": "H6098 (KJV: counsel; ESV: advice; NASB: advice)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/זְּקֵנִ֖ים",
+        "phrase": "of the elders",
+        "literal": "the-elders",
+        "source": "H2205 (KJV: elders; ESV: elders; NASB: elders)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 11,
+        "surface": "יְעָצֻֽ/הוּ",
+        "phrase": "they had counseled him",
+        "literal": "they-advised-him",
+        "source": "H3289 (KJV: had given him; ESV: had given him; NASB: had counseled him)"
+      }
+    ]
+  }
+]

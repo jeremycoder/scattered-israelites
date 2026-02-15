@@ -1,0 +1,193 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְכִ֞י",
+        "phrase": "Go",
+        "literal": "go!-2fs",
+        "source": "H3212 (KJV: Go; ESV: Go; NASB: Go)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בֹ֣אִי",
+        "phrase": "and-enter",
+        "literal": "and-enter-2fs",
+        "source": "H935 (KJV: get thee in; ESV: go in; NASB: go in)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/מֶּ֣לֶךְ",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king; ESV: King; NASB: king)"
+      },
+      {
+        "position": 5,
+        "surface": "דָּוִ֗ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָמַ֤רְתְּ",
+        "phrase": "and-say",
+        "literal": "and-say-2fs",
+        "source": "H559 (KJV: say; ESV: say; NASB: say)"
+      },
+      {
+        "position": 7,
+        "surface": "אֵלָי/ו֙",
+        "phrase": "to-him",
+        "literal": "to-him",
+        "source": "H413 (KJV: unto him; ESV: to him; NASB: to him)"
+      },
+      {
+        "position": 8,
+        "surface": "הֲ/לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: Didst not; ESV: did you not; NASB: Have you not)"
+      },
+      {
+        "position": 9,
+        "surface": "אַתָּ֞ה",
+        "phrase": "you",
+        "literal": "you-ms",
+        "source": "H859 (KJV: thou; ESV: you; NASB: you)"
+      },
+      {
+        "position": 10,
+        "surface": "אֲדֹנִ֣/י",
+        "phrase": "my-lord",
+        "literal": "lord-my",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/מֶּ֗לֶךְ",
+        "phrase": "the-king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: O king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 12,
+        "surface": "נִשְׁבַּ֤עְתָּ",
+        "phrase": "sworn",
+        "literal": "sworn-2ms",
+        "source": "H7650 (KJV: swear; ESV: swear; NASB: sworn)"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/אֲמָֽתְ/ךָ֙",
+        "phrase": "to-your-maidservant",
+        "literal": "to-maidservant-your",
+        "source": "H519 (KJV: handmaid; ESV: servant; NASB: maidservant)"
+      },
+      {
+        "position": 14,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "saying",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 15,
+        "surface": "כִּֽי",
+        "phrase": "Surely",
+        "literal": "that",
+        "source": "H3588 (KJV: Assuredly; ESV: Surely; NASB: Surely)"
+      },
+      {
+        "position": 16,
+        "surface": "שְׁלֹמֹ֤ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 17,
+        "surface": "בְנֵ/ךְ֙",
+        "phrase": "your-son",
+        "literal": "son-your-fs",
+        "source": "H1121 (KJV: thy son; ESV: your son; NASB: your son)"
+      },
+      {
+        "position": 18,
+        "surface": "יִמְלֹ֣ךְ",
+        "phrase": "shall-reign",
+        "literal": "he-will-reign",
+        "source": "H4427 (KJV: shall reign; ESV: shall be king; NASB: shall be king)"
+      },
+      {
+        "position": 19,
+        "surface": "אַחֲרַ֔/י",
+        "phrase": "after-me",
+        "literal": "after-me",
+        "source": "H310 (KJV: after me; ESV: after me; NASB: after me)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/ה֖וּא",
+        "phrase": "and-he",
+        "literal": "and-he",
+        "source": "H1931 (KJV: he; ESV: he; NASB: he)"
+      },
+      {
+        "position": 21,
+        "surface": "יֵשֵׁ֣ב",
+        "phrase": "shall-sit",
+        "literal": "he-will-sit",
+        "source": "H3427 (KJV: shall sit; ESV: will sit; NASB: will sit)"
+      },
+      {
+        "position": 22,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: upon; ESV: on; NASB: on)"
+      },
+      {
+        "position": 23,
+        "surface": "כִּסְאִ֑/י",
+        "phrase": "my-throne",
+        "literal": "throne-my",
+        "source": "H3678 (KJV: my throne; ESV: my throne; NASB: my throne)"
+      },
+      {
+        "position": 24,
+        "surface": "וּ/מַדּ֖וּעַ",
+        "phrase": "and-why",
+        "literal": "and-why",
+        "source": "H4069 (KJV: why; ESV: Why; NASB: Why)"
+      },
+      {
+        "position": 25,
+        "surface": "מָלַ֥ךְ",
+        "phrase": "has-reigned",
+        "literal": "has-reigned",
+        "source": "H4427 (KJV: doth...reign; ESV: has...become king; NASB: has become king)"
+      },
+      {
+        "position": 26,
+        "surface": "אֲדֹנִיָֽהוּ",
+        "phrase": "Adonijah",
+        "literal": "Adonijah",
+        "source": "H138 (KJV: Adonijah; ESV: Adonijah; NASB: Adonijah)"
+      }
+    ]
+  }
+]

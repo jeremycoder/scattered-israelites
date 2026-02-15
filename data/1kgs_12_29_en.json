@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֥שֶׂם",
+        "phrase": "and he set",
+        "literal": "and-he-set",
+        "source": "H7760 (KJV: set; ESV: set; NASB: set)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֶחָ֖ד",
+        "phrase": "the one",
+        "literal": "the-one",
+        "source": "H259 (KJV: the one; ESV: one; NASB: one)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/בֵֽית",
+        "phrase": "in Beth-",
+        "literal": "in-house-of",
+        "source": "H1008 (KJV: in Bethel; ESV: in Bethel; NASB: in Bethel)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֑ל",
+        "phrase": "el",
+        "literal": "El",
+        "source": "H1008 (KJV: Bethel; ESV: Bethel; NASB: Bethel)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative-marker]",
+        "source": "H853 (KJV: and the other; ESV: and the other; NASB: and the other)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֶחָ֖ד",
+        "phrase": "the other one",
+        "literal": "the-one",
+        "source": "H259 (KJV: the other; ESV: the other; NASB: the other)"
+      },
+      {
+        "position": 8,
+        "surface": "נָתַ֥ן",
+        "phrase": "he put",
+        "literal": "he-gave",
+        "source": "H5414 (KJV: put; ESV: put; NASB: put)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/דָֽן",
+        "phrase": "in Dan",
+        "literal": "in-Dan",
+        "source": "H1835 (KJV: in Dan; ESV: in Dan; NASB: in Dan)"
+      }
+    ]
+  }
+]

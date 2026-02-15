@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 21,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "קָרְא֖וּ",
+        "phrase": "They proclaimed",
+        "literal": "they-called",
+        "source": "H7121: KJV 'proclaimed'; ESV 'proclaimed'; NASB 'proclaimed'"
+      },
+      {
+        "position": 2,
+        "surface": "צ֑וֹם",
+        "phrase": "a fast",
+        "literal": "fast",
+        "source": "H6685: KJV 'fast'; ESV 'fast'; NASB 'fast'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הֹשִׁ֥יבוּ",
+        "phrase": "and seated",
+        "literal": "and-they-seated",
+        "source": "H3427: KJV 'set'; ESV 'seated'; NASB 'seated'"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "נָב֖וֹת",
+        "phrase": "Naboth",
+        "literal": "Naboth",
+        "source": "H5022: KJV 'Naboth'; ESV 'Naboth'; NASB 'Naboth'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/רֹ֥אשׁ",
+        "phrase": "at the head",
+        "literal": "in-head-of",
+        "source": "H7218: KJV 'head'; ESV 'head'; NASB 'head'"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עָֽם",
+        "phrase": "of the people",
+        "literal": "the-people",
+        "source": "H5971: KJV 'people'; ESV 'people'; NASB 'people'"
+      }
+    ]
+  }
+]

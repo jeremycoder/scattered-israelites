@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוּדָ֤ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/יִשְׂרָאֵל֙",
+        "phrase": "and Israel",
+        "literal": "and-Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 3,
+        "surface": "רַבִּ֔ים",
+        "phrase": "many",
+        "literal": "many-mp",
+        "source": "H7227 (KJV: many; ESV: many; NASB: numerous)"
+      },
+      {
+        "position": 4,
+        "surface": "כַּ/ח֥וֹל",
+        "phrase": "as the sand",
+        "literal": "as-the-sand",
+        "source": "H2344 (KJV: sand; ESV: sand; NASB: sand)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: (implied); NASB: which)"
+      },
+      {
+        "position": 6,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "on",
+        "source": "H5921 (KJV: by; ESV: by; NASB: on)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/יָּ֖ם",
+        "phrase": "the sea",
+        "literal": "the-sea",
+        "source": "H3220 (KJV: sea; ESV: sea; NASB: sea)"
+      },
+      {
+        "position": 8,
+        "surface": "לָ/רֹ֑ב",
+        "phrase": "in multitude",
+        "literal": "to-multitude",
+        "source": "H7230 (KJV: multitude; ESV: (implied); NASB: multitude)"
+      },
+      {
+        "position": 9,
+        "surface": "אֹכְלִ֥ים",
+        "phrase": "eating",
+        "literal": "eating-mp",
+        "source": "H398 (KJV: eating; ESV: ate; NASB: eating)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/שֹׁתִ֖ים",
+        "phrase": "and drinking",
+        "literal": "and-drinking-mp",
+        "source": "H8354 (KJV: drinking; ESV: drank; NASB: drinking)"
+      },
+      {
+        "position": 11,
+        "surface": "וּ/שְׂמֵחִֽים",
+        "phrase": "and rejoicing",
+        "literal": "and-rejoicing-mp",
+        "source": "H8056 (KJV: making merry; ESV: happy; NASB: happy)"
+      }
+    ]
+  }
+]

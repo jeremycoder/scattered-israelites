@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 4,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֥לֶּה",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "H428 (KJV: 'these'; ESV: 'these'; NASB: 'these')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שָּׂרִ֖ים",
+        "phrase": "the princes",
+        "literal": "the-princes",
+        "source": "H8269 (KJV: 'princes'; ESV: 'officials'; NASB: 'princes')"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: 'which'; ESV: 'who'; NASB: 'who')"
+      },
+      {
+        "position": 4,
+        "surface": "ל֑/וֹ",
+        "phrase": "he had",
+        "literal": "to-him",
+        "source": " (KJV: 'he had'; ESV: 'he had'; NASB: 'he had')"
+      },
+      {
+        "position": 5,
+        "surface": "עֲזַרְיָ֥הוּ",
+        "phrase": "Azariah",
+        "literal": "Azariah",
+        "source": "H5838 (KJV: 'Azariah'; ESV: 'Azariah'; NASB: 'Azariah')"
+      },
+      {
+        "position": 6,
+        "surface": "בֶן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: 'son'; ESV: 'son'; NASB: 'son')"
+      },
+      {
+        "position": 7,
+        "surface": "צָד֖וֹק",
+        "phrase": "Zadok",
+        "literal": "Zadok",
+        "source": "H6659 (KJV: 'Zadok'; ESV: 'Zadok'; NASB: 'Zadok')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כֹּהֵֽן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: 'the priest'; ESV: 'the priest'; NASB: 'the priest')"
+      }
+    ]
+  }
+]

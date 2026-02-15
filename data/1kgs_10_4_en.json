@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 10,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֨רֶא֙",
+        "phrase": "and she saw",
+        "literal": "and-she-saw",
+        "source": "H7200; KJV: 'had seen', ESV: 'saw', NASB: 'saw'"
+      },
+      {
+        "position": 2,
+        "surface": "מַֽלְכַּת",
+        "phrase": "queen",
+        "literal": "queen-of",
+        "source": "H4436; KJV: 'queen', ESV: 'queen', NASB: 'queen'"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁבָ֔א",
+        "phrase": "of Sheba",
+        "literal": "Sheba",
+        "source": "H7614; KJV: 'of Sheba', ESV: 'of Sheba', NASB: 'of Sheba'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֖ת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605; KJV: 'all', ESV: 'all', NASB: 'all'"
+      },
+      {
+        "position": 6,
+        "surface": "חָכְמַ֣ת",
+        "phrase": "wisdom",
+        "literal": "wisdom-of",
+        "source": "H2451; KJV: 'wisdom', ESV: 'wisdom', NASB: 'wisdom'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁלֹמֹ֑ה",
+        "phrase": "of Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV: 'Solomon's', ESV: 'Solomon', NASB: 'Solomon'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/הַ/בַּ֖יִת",
+        "phrase": "and the house",
+        "literal": "and-the-house",
+        "source": "H1004; KJV: 'house', ESV: 'palace', NASB: 'house'"
+      },
+      {
+        "position": 9,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834; KJV: 'that', ESV: 'he had', NASB: 'he had'"
+      },
+      {
+        "position": 10,
+        "surface": "בָּנָֽה",
+        "phrase": "he had built",
+        "literal": "he-built",
+        "source": "H1129; KJV: 'built', ESV: 'built', NASB: 'built'"
+      }
+    ]
+  }
+]

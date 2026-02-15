@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 14,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בָּ/עֵ֣ת",
+        "phrase": "At that time",
+        "literal": "in-the-time",
+        "source": "H6256; KJV/ESV/NASB: 'At that time'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/הִ֔יא",
+        "phrase": "that",
+        "literal": "the-that",
+        "source": "H1931; KJV/ESV/NASB: 'that'"
+      },
+      {
+        "position": 3,
+        "surface": "חָלָ֖ה",
+        "phrase": "became sick",
+        "literal": "he-was-sick",
+        "source": "H2470; KJV: 'fell sick', ESV/NASB: 'became sick'"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִיָּ֥ה",
+        "phrase": "Abijah",
+        "literal": "Abijah",
+        "source": "H29; KJV/ESV/NASB: 'Abijah'"
+      },
+      {
+        "position": 5,
+        "surface": "בֶן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 6,
+        "surface": "יָרָבְעָֽם",
+        "phrase": "Jeroboam",
+        "literal": "Jeroboam",
+        "source": "H3379; KJV/ESV/NASB: 'Jeroboam'"
+      }
+    ]
+  }
+]

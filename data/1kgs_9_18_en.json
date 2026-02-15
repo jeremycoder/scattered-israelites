@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 9,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶֽת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853; KJV: and; ESV: and; NASB: and"
+      },
+      {
+        "position": 2,
+        "surface": "בַּעֲלָ֛ת",
+        "phrase": "Baalath",
+        "literal": "Baalath",
+        "source": "H1191; KJV: Baalath; ESV: Baalath; NASB: Baalath"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853; KJV: and; ESV: and; NASB: and"
+      },
+      {
+        "position": 4,
+        "surface": "תמר",
+        "phrase": "Tamar",
+        "literal": "Tamar",
+        "source": "H8559; KJV: Tamar; ESV: Tamar; NASB: Tamar"
+      },
+      {
+        "position": 5,
+        "surface": "תַּדְמֹ֥ר",
+        "phrase": "Tadmor",
+        "literal": "Tadmor",
+        "source": "H8412; KJV: Tadmor; ESV: Tamar; NASB: Tamar"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/מִּדְבָּ֖ר",
+        "phrase": "in the wilderness",
+        "literal": "in-the-wilderness",
+        "source": "H4057; KJV: in the wilderness; ESV: in the wilderness; NASB: in the wilderness"
+      },
+      {
+        "position": 7,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the land",
+        "literal": "in-the-land",
+        "source": "H776; KJV: in the land; ESV: in the land; NASB: in the land"
+      }
+    ]
+  }
+]

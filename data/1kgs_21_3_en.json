@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 21,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֥אמֶר",
+        "phrase": "And said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: said; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "נָב֖וֹת",
+        "phrase": "Naboth",
+        "literal": "Naboth",
+        "source": "H5022 (KJV: Naboth; ESV: Naboth; NASB: Naboth)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "אַחְאָ֑ב",
+        "phrase": "Ahab",
+        "literal": "Ahab",
+        "source": "H256 (KJV: Ahab; ESV: Ahab; NASB: Ahab)"
+      },
+      {
+        "position": 5,
+        "surface": "חָלִ֤ילָ/ה",
+        "phrase": "Far be it",
+        "literal": "far-be-it",
+        "source": "H2486 (KJV: The LORD forbid it me; ESV: The LORD forbid; NASB: Far be it)"
+      },
+      {
+        "position": 6,
+        "surface": "לִּ/י֙",
+        "phrase": "from me",
+        "literal": "to-me",
+        "source": " (KJV: me; ESV: me; NASB: from me)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵֽ/יהוָ֔ה",
+        "phrase": "from YHWH",
+        "literal": "from-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 8,
+        "surface": "מִ/תִּתִּ֛/י",
+        "phrase": "that I should give",
+        "literal": "from-giving-I",
+        "source": "H5414 (KJV: that I should give; ESV: that I should give; NASB: that I should give)"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "נַחֲלַ֥ת",
+        "phrase": "the inheritance",
+        "literal": "inheritance-of",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      },
+      {
+        "position": 11,
+        "surface": "אֲבֹתַ֖/י",
+        "phrase": "of my fathers",
+        "literal": "fathers-my",
+        "source": "H1 (KJV: my fathers; ESV: my fathers; NASB: my fathers)"
+      },
+      {
+        "position": 12,
+        "surface": "לָֽ/ךְ",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: thee; ESV: you; NASB: you)"
+      }
+    ]
+  }
+]

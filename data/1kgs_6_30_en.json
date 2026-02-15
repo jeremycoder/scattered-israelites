@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 6,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "קַרְקַ֥ע",
+        "phrase": "floor",
+        "literal": "floor",
+        "source": "H7172 (KJV: 'floor'; ESV: 'floor'; NASB: 'floor')"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בַּ֖יִת",
+        "phrase": "of the house",
+        "literal": "the-of house",
+        "source": "H1004 (KJV: 'of the house'; ESV: 'of the house'; NASB: 'of the house')"
+      },
+      {
+        "position": 4,
+        "surface": "צִפָּ֣ה",
+        "phrase": "he overlaid",
+        "literal": "he overlaid",
+        "source": "H6823 (KJV: 'overlaid'; ESV: 'he overlaid'; NASB: 'he overlaid')"
+      },
+      {
+        "position": 5,
+        "surface": "זָהָ֑ב",
+        "phrase": "with gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: 'with gold'; ESV: 'with gold'; NASB: 'with gold')"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנִ֖ימָה",
+        "phrase": "inside",
+        "literal": "to inside",
+        "source": "H6441 (KJV: 'within'; ESV: 'inside'; NASB: 'inside')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/לַ/חִיצֽוֹן",
+        "phrase": "and outside",
+        "literal": "and-to the outside",
+        "source": "H2435 (KJV: 'without'; ESV: 'outside'; NASB: 'outside')"
+      }
+    ]
+  }
+]

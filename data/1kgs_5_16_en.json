@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 5,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֣ח",
+        "phrase": "and sent",
+        "literal": "and-he-sent",
+        "source": "H7971; KJV: sent, ESV: sent, NASB: sent"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹ֔ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010; KJV: Solomon, ESV: Solomon, NASB: Solomon"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: to, ESV: to, NASB: to"
+      },
+      {
+        "position": 4,
+        "surface": "חִירָ֖ם",
+        "phrase": "Hiram",
+        "literal": "Hiram",
+        "source": "H2438; KJV: Hiram, ESV: Hiram, NASB: Hiram"
+      },
+      {
+        "position": 5,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV: saying, ESV: saying, NASB: saying"
+      }
+    ]
+  }
+]

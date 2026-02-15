@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 7,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כָל",
+        "phrase": "And all",
+        "literal": "and-all",
+        "source": "H3605 (KJV: all; ESV: doorways; NASB: doorways)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/פְּתָחִ֥ים",
+        "phrase": "the doorways",
+        "literal": "the-openings",
+        "source": "H6607 (KJV: doors; ESV: doorways; NASB: doorways)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/הַ/מְּזוּז֖וֹת",
+        "phrase": "and the doorposts",
+        "literal": "and-the-sideposts",
+        "source": "H4201 (KJV: posts; ESV: doorposts; NASB: doorposts)"
+      },
+      {
+        "position": 4,
+        "surface": "רְבֻעִ֣ים",
+        "phrase": "were square",
+        "literal": "squared",
+        "source": "H7251 (KJV: square; ESV: square; NASB: square)"
+      },
+      {
+        "position": 5,
+        "surface": "שָׁ֑קֶף",
+        "phrase": "lintel",
+        "literal": "overhanging-beam",
+        "source": "H8260 (KJV: windows; ESV: windows; NASB: windows)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/מ֧וּל",
+        "phrase": "and facing",
+        "literal": "and-opposite",
+        "source": "H4136 (KJV: against; ESV: opposite; NASB: opposite)"
+      },
+      {
+        "position": 7,
+        "surface": "מֶחֱזָ֛ה",
+        "phrase": "window",
+        "literal": "vision",
+        "source": "H4237 (KJV: light; ESV: window; NASB: window)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: against; ESV: opposite; NASB: opposite)"
+      },
+      {
+        "position": 9,
+        "surface": "מֶחֱזָ֖ה",
+        "phrase": "window",
+        "literal": "vision",
+        "source": "H4237 (KJV: light; ESV: window; NASB: window)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁלֹ֥שׁ",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV: three; ESV: three; NASB: three)"
+      },
+      {
+        "position": 11,
+        "surface": "פְּעָמִֽים",
+        "phrase": "times",
+        "literal": "steps",
+        "source": "H6471 (KJV: ranks; ESV: tiers; NASB: tiers)"
+      }
+    ]
+  }
+]

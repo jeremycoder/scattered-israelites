@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 11,
+    "verse": 39,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַֽ/אעַנֶּ֛ה",
+        "phrase": "And I will afflict",
+        "literal": "and-I-will-afflict",
+        "source": "H6031 (KJV: afflict; ESV: afflict; NASB: afflict)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "זֶ֥רַע",
+        "phrase": "offspring",
+        "literal": "seed",
+        "source": "H2233 (KJV: seed; ESV: offspring; NASB: descendants)"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֖ד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 5,
+        "surface": "לְמַ֣עַן",
+        "phrase": "because of",
+        "literal": "for-the-sake-of",
+        "source": "H4616 (KJV: for this; ESV: because of this; NASB: for this)"
+      },
+      {
+        "position": 6,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 7,
+        "surface": "אַ֖ךְ",
+        "phrase": "but",
+        "literal": "only",
+        "source": "H389 (KJV: but; ESV: but; NASB: but)"
+      },
+      {
+        "position": 8,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 9,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: [implied in 'for ever']; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/יָּמִֽים",
+        "phrase": "the days",
+        "literal": "the-days",
+        "source": "H3117 (KJV: for ever; ESV: forever; NASB: always)"
+      }
+    ]
+  }
+]

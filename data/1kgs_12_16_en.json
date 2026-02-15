@@ -1,0 +1,228 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 12,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣רְא",
+        "phrase": "and saw",
+        "literal": "and-he-saw",
+        "source": "H7200 (KJV: saw; ESV: saw; NASB: saw)"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֗ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ֠י",
+        "phrase": "that",
+        "literal": "that",
+        "source": "H3588 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 5,
+        "surface": "לֹֽא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁמַ֣ע",
+        "phrase": "listened",
+        "literal": "hearkened",
+        "source": "H8085 (KJV: hearkened; ESV: listen; NASB: listen)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מֶּלֶךְ֮",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲלֵי/הֶם֒",
+        "phrase": "to them",
+        "literal": "to-them",
+        "source": "H413 (KJV: unto them; ESV: to them; NASB: to them)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/יָּשִׁ֣בוּ",
+        "phrase": "and answered",
+        "literal": "and-they-returned",
+        "source": "H7725 (KJV: answered; ESV: answered; NASB: answered)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/עָ֣ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 11,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/מֶּ֣לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 13,
+        "surface": "דָּבָ֣ר",
+        "phrase": "word",
+        "literal": "word",
+        "source": "H1697 (KJV: saying; ESV: -, NASB: saying)"
+      },
+      {
+        "position": 14,
+        "surface": "לֵ/אמֹ֡ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      },
+      {
+        "position": 15,
+        "surface": "מַה",
+        "phrase": "what",
+        "literal": "what",
+        "source": "H4100 (KJV: What; ESV: What; NASB: What)"
+      },
+      {
+        "position": 16,
+        "surface": "לָּ/נוּ֩",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": " (KJV: have we; ESV: do we have; NASB: do we have)"
+      },
+      {
+        "position": 17,
+        "surface": "חֵ֨לֶק",
+        "phrase": "portion",
+        "literal": "portion",
+        "source": "H2506 (KJV: portion; ESV: portion; NASB: portion)"
+      },
+      {
+        "position": 18,
+        "surface": "בְּ/דָוִ֜ד",
+        "phrase": "in David",
+        "literal": "in-David",
+        "source": "H1732 (KJV: in David; ESV: in David; NASB: in David)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/לֹֽא",
+        "phrase": "and no",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: We have no; NASB: We have no)"
+      },
+      {
+        "position": 20,
+        "surface": "נַחֲלָ֣ה",
+        "phrase": "inheritance",
+        "literal": "inheritance",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      },
+      {
+        "position": 21,
+        "surface": "בְּ/בֶן",
+        "phrase": "in son",
+        "literal": "in-son_of",
+        "source": "H1121 (KJV: in the son; ESV: in the son; NASB: in the son)"
+      },
+      {
+        "position": 22,
+        "surface": "יִשַׁ֗י",
+        "phrase": "of Jesse",
+        "literal": "Jesse",
+        "source": "H3448 (KJV: of Jesse; ESV: of Jesse; NASB: of Jesse)"
+      },
+      {
+        "position": 23,
+        "surface": "לְ/אֹהָלֶ֨י/ךָ֙",
+        "phrase": "to your tents",
+        "literal": "to-tents-your",
+        "source": "H168 (KJV: to thy tents; ESV: To your tents; NASB: To your tents)"
+      },
+      {
+        "position": 24,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "O Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: O Israel; ESV: O Israel; NASB: O Israel)"
+      },
+      {
+        "position": 25,
+        "surface": "עַתָּ֕ה",
+        "phrase": "now",
+        "literal": "now",
+        "source": "H6258 (KJV: now; ESV: now; NASB: Now)"
+      },
+      {
+        "position": 26,
+        "surface": "רְאֵ֥ה",
+        "phrase": "see",
+        "literal": "see",
+        "source": "H7200 (KJV: see; ESV: Look; NASB: look)"
+      },
+      {
+        "position": 27,
+        "surface": "בֵיתְ/ךָ֖",
+        "phrase": "your house",
+        "literal": "house-your",
+        "source": "H1004 (KJV: thine own house; ESV: your own house; NASB: your own house)"
+      },
+      {
+        "position": 28,
+        "surface": "דָּוִ֑ד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 29,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "and went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: So Israel went; ESV: So Israel went; NASB: So Israel departed)"
+      },
+      {
+        "position": 30,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 31,
+        "surface": "לְ/אֹהָלָֽי/ו",
+        "phrase": "to his tents",
+        "literal": "to-tents-his",
+        "source": "H168 (KJV: to their tents; ESV: to their tents; NASB: to their tents)"
+      }
+    ]
+  }
+]

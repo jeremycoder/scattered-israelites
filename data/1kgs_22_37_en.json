@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 22,
+    "verse": 37,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֣מָת",
+        "phrase": "so the king died",
+        "literal": "and-he-died",
+        "source": "H4191; KJV: 'died', ESV: 'died', NASB: 'died'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV: 'the king', ESV: 'the king', NASB: 'the king'"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יָּב֖וֹא",
+        "phrase": "and was brought",
+        "literal": "and-he-was-brought",
+        "source": "H935; KJV: 'was brought', ESV: 'was brought', NASB: 'was brought'"
+      },
+      {
+        "position": 4,
+        "surface": "שֹׁמְר֑וֹן",
+        "phrase": "to Samaria",
+        "literal": "Samaria",
+        "source": "H8111; KJV: 'Samaria', ESV: 'Samaria', NASB: 'Samaria'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּקְבְּר֥וּ",
+        "phrase": "and they buried",
+        "literal": "and-they-buried",
+        "source": "H6912; KJV: 'buried', ESV: 'buried', NASB: 'buried'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/מֶּ֖לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV: 'the king', ESV: 'the king', NASB: 'the king'"
+      },
+      {
+        "position": 8,
+        "surface": "בְּ/שֹׁמְרֽוֹן",
+        "phrase": "in Samaria",
+        "literal": "in-Samaria",
+        "source": "H8111; KJV: 'in Samaria', ESV: 'in Samaria', NASB: 'in Samaria'"
+      }
+    ]
+  }
+]

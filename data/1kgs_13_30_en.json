@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 13,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּנַּ֥ח",
+        "phrase": "and he laid",
+        "literal": "and-he-laid-down",
+        "source": "H3240 (KJV: laid; ESV: laid; NASB: laid)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "נִבְלָת֖/וֹ",
+        "phrase": "his body",
+        "literal": "his-carcass",
+        "source": "H5038 (KJV: carcase; ESV: body; NASB: body)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/קִבְר֑/וֹ",
+        "phrase": "in his grave",
+        "literal": "in-grave-his",
+        "source": "H6913 (KJV: grave; ESV: grave; NASB: grave)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּסְפְּד֥וּ",
+        "phrase": "and they mourned",
+        "literal": "and-they-mourned",
+        "source": "H5594 (KJV: mourned; ESV: mourned; NASB: mourned)"
+      },
+      {
+        "position": 6,
+        "surface": "עָלָ֖י/ו",
+        "phrase": "over it",
+        "literal": "upon-him",
+        "source": "H5921 (KJV: over him; ESV: over him; NASB: over him)"
+      },
+      {
+        "position": 7,
+        "surface": "ה֥וֹי",
+        "phrase": "Alas",
+        "literal": "woe",
+        "source": "H1945 (KJV: Alas; ESV: Alas; NASB: Alas)"
+      },
+      {
+        "position": 8,
+        "surface": "אָחִֽ/י",
+        "phrase": "my brother",
+        "literal": "brother-my",
+        "source": "H251 (KJV: my brother; ESV: my brother; NASB: my brother)"
+      }
+    ]
+  }
+]

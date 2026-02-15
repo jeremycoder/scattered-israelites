@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 8,
+    "verse": 57,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהִ֨י",
+        "phrase": "May he be",
+        "literal": "be-(jussive-3ms)",
+        "source": "H1961; KJV/ESV/NASB: 'be' (jussive prayer form)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֤ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֵ֨י/נוּ֙",
+        "phrase": "our God",
+        "literal": "gods-our",
+        "source": "H430; KJV/ESV/NASB: 'our God'"
+      },
+      {
+        "position": 4,
+        "surface": "עִמָּ֔/נוּ",
+        "phrase": "with us",
+        "literal": "with-us",
+        "source": "H5973; KJV/ESV/NASB: 'with us'"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-that",
+        "source": "H834; KJV/ESV/NASB: 'as'"
+      },
+      {
+        "position": 6,
+        "surface": "הָיָ֖ה",
+        "phrase": "he was",
+        "literal": "he-was",
+        "source": "H1961; KJV/ESV/NASB: 'he was'"
+      },
+      {
+        "position": 7,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973; KJV/ESV/NASB: 'with'"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבֹתֵ֑י/נוּ",
+        "phrase": "our fathers",
+        "literal": "fathers-our",
+        "source": "H1; KJV/ESV/NASB: 'our fathers'"
+      },
+      {
+        "position": 9,
+        "surface": "אַל",
+        "phrase": "let not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: 'let...not'"
+      },
+      {
+        "position": 10,
+        "surface": "יַעַזְבֵ֖/נוּ",
+        "phrase": "leave us",
+        "literal": "forsake-us",
+        "source": "H5800; KJV/ESV/NASB: 'leave/forsake us'"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/אַֽל",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H408; KJV/ESV/NASB: 'nor...not'"
+      },
+      {
+        "position": 12,
+        "surface": "יִטְּשֵֽׁ/נוּ",
+        "phrase": "forsake us",
+        "literal": "abandon-us",
+        "source": "H5203; KJV/ESV/NASB: 'forsake/abandon us'"
+      }
+    ]
+  }
+]

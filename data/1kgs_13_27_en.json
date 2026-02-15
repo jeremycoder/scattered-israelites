@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 13,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֤ר",
+        "phrase": "And he spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696; KJV: spake, ESV: said, NASB: spoke"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: to, ESV: to, NASB: to"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָי/ו֙",
+        "phrase": "his sons",
+        "literal": "his-sons",
+        "source": "H1121; KJV: his sons, ESV: his sons, NASB: his sons"
+      },
+      {
+        "position": 4,
+        "surface": "לֵ/אמֹ֔ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559; KJV: saying, ESV: “Saddle, NASB: “Saddle"
+      },
+      {
+        "position": 5,
+        "surface": "חִבְשׁוּ",
+        "phrase": "Saddle",
+        "literal": "bind-ye",
+        "source": "H2280; KJV: Saddle, ESV: Saddle, NASB: Saddle"
+      },
+      {
+        "position": 6,
+        "surface": "לִ֖/י",
+        "phrase": "for me",
+        "literal": "for-me",
+        "source": "; KJV: me, ESV: for me, NASB: for me"
+      },
+      {
+        "position": 7,
+        "surface": "אֶֽת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: [implied], ESV: [implied], NASB: [implied]"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/חֲמ֑וֹר",
+        "phrase": "the donkey",
+        "literal": "the-donkey",
+        "source": "H2543; KJV: the ass, ESV: the donkey, NASB: the donkey"
+      },
+      {
+        "position": 9,
+        "surface": "וַֽ/יַּחֲבֹֽשׁוּ",
+        "phrase": "And they saddled",
+        "literal": "and-they-saddled",
+        "source": "H2280; KJV: And they saddled him, ESV: And they saddled it, NASB: So they saddled it"
+      }
+    ]
+  }
+]

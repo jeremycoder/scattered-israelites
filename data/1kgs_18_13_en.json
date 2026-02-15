@@ -1,0 +1,172 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 18,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הֲ/לֹֽא",
+        "phrase": "Has it not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 2,
+        "surface": "הֻגַּ֤ד",
+        "phrase": "been told",
+        "literal": "been-declared",
+        "source": "H5046 (KJV: told; ESV: told; NASB: told)"
+      },
+      {
+        "position": 3,
+        "surface": "לַֽ/אדֹנִ/י֙",
+        "phrase": "to my lord",
+        "literal": "to-lord-my",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my master)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֣ת",
+        "phrase": "what",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: what; ESV: what; NASB: what)"
+      },
+      {
+        "position": 6,
+        "surface": "עָשִׂ֔יתִי",
+        "phrase": "I did",
+        "literal": "I-did",
+        "source": "H6213 (KJV: I did; ESV: I did; NASB: I did)"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/הֲרֹ֣ג",
+        "phrase": "when killing",
+        "literal": "in-killing",
+        "source": "H2026 (KJV: slew; ESV: killed; NASB: killed)"
+      },
+      {
+        "position": 8,
+        "surface": "אִיזֶ֔בֶל",
+        "phrase": "Jezebel",
+        "literal": "Jezebel",
+        "source": "H348 (KJV: Jezebel; ESV: Jezebel; NASB: Jezebel)"
+      },
+      {
+        "position": 9,
+        "surface": "אֵ֖ת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "נְבִיאֵ֣י",
+        "phrase": "prophets",
+        "literal": "prophets-of",
+        "source": "H5030 (KJV: prophets; ESV: prophets; NASB: prophets)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֑ה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: the LORD'S; ESV: the Lord’s; NASB: the LORD)"
+      },
+      {
+        "position": 12,
+        "surface": "וָ/אַחְבִּא֩",
+        "phrase": "and I hid",
+        "literal": "and-I-hid",
+        "source": "H2244 (KJV: hid; ESV: hid; NASB: hid)"
+      },
+      {
+        "position": 13,
+        "surface": "מִ/נְבִיאֵ֨י",
+        "phrase": "[some] of prophets",
+        "literal": "from-prophets-of",
+        "source": "H5030 (KJV: prophets; ESV: prophets; NASB: prophets)"
+      },
+      {
+        "position": 14,
+        "surface": "יְהוָ֜ה",
+        "phrase": "of YHWH",
+        "literal": "of-YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 15,
+        "surface": "מֵ֣אָה",
+        "phrase": "a hundred",
+        "literal": "from-hundred",
+        "source": "H3967 (KJV: an hundred; ESV: a hundred; NASB: a hundred)"
+      },
+      {
+        "position": 16,
+        "surface": "אִ֗ישׁ",
+        "phrase": "men",
+        "literal": "man",
+        "source": "H376 (KJV: men; ESV: men; NASB: men)"
+      },
+      {
+        "position": 17,
+        "surface": "חֲמִשִּׁ֨ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572 (KJV: fifty; ESV: fifties; NASB: fifties)"
+      },
+      {
+        "position": 18,
+        "surface": "חֲמִשִּׁ֥ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572 (KJV: fifty; ESV: fifties; NASB: fifties)"
+      },
+      {
+        "position": 19,
+        "surface": "אִישׁ֙",
+        "phrase": "men",
+        "literal": "man",
+        "source": "H376 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 20,
+        "surface": "בַּ/מְּעָרָ֔ה",
+        "phrase": "in a cave",
+        "literal": "in-cave-the",
+        "source": "H4631 (KJV: in a cave; ESV: in a cave; NASB: in a cave)"
+      },
+      {
+        "position": 21,
+        "surface": "וָ/אֲכַלְכְּלֵ֖/ם",
+        "phrase": "and provided-them",
+        "literal": "and-I-sustained-them",
+        "source": "H3557 (KJV: fed them; ESV: fed them; NASB: provided them)"
+      },
+      {
+        "position": 22,
+        "surface": "לֶ֥חֶם",
+        "phrase": "with bread",
+        "literal": "bread",
+        "source": "H3899 (KJV: bread; ESV: bread; NASB: bread)"
+      },
+      {
+        "position": 23,
+        "surface": "וָ/מָֽיִם",
+        "phrase": "and water",
+        "literal": "and-water",
+        "source": "H4325 (KJV: water; ESV: water; NASB: water)"
+      }
+    ]
+  }
+]

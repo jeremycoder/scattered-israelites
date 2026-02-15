@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 19,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַחַ֤ר",
+        "phrase": "and after",
+        "literal": "and-after",
+        "source": "H310 (KJV: after; ESV: after; NASB: after)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רַ֨עַשׁ֙",
+        "phrase": "the earthquake",
+        "literal": "the-earthquake",
+        "source": "H7494 (KJV: earthquake; ESV: earthquake; NASB: earthquake)"
+      },
+      {
+        "position": 3,
+        "surface": "אֵ֔שׁ",
+        "phrase": "fire",
+        "literal": "fire",
+        "source": "H784 (KJV: fire; ESV: fire; NASB: fire)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "בָ/אֵ֖שׁ",
+        "phrase": "in the fire",
+        "literal": "in-fire",
+        "source": "H784 (KJV: in the fire; ESV: in the fire; NASB: in the fire)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַחַ֣ר",
+        "phrase": "and after",
+        "literal": "and-after",
+        "source": "H310 (KJV: after; ESV: after; NASB: after)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֵ֔שׁ",
+        "phrase": "the fire",
+        "literal": "the-fire",
+        "source": "H784 (KJV: the fire; ESV: the fire; NASB: the fire)"
+      },
+      {
+        "position": 9,
+        "surface": "ק֖וֹל",
+        "phrase": "sound",
+        "literal": "sound",
+        "source": "H6963 (KJV: a still small voice; ESV: sound; NASB: sound)"
+      },
+      {
+        "position": 10,
+        "surface": "דְּמָמָ֥ה",
+        "phrase": "of stillness",
+        "literal": "stillness",
+        "source": "H1827 (KJV: still; ESV: low whisper; NASB: gentle blowing)"
+      },
+      {
+        "position": 11,
+        "surface": "דַקָּֽה",
+        "phrase": "fine",
+        "literal": "fine",
+        "source": "H1851 (KJV: small; ESV: low; NASB: gentle)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 18,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּבְנֶ֧ה",
+        "phrase": "and he built",
+        "literal": "and-he-built",
+        "source": "H1129 (KJV: built; ESV: built; NASB: built)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/אֲבָנִ֛ים",
+        "phrase": "stones",
+        "literal": "the-stones",
+        "source": "H68 (KJV: stones; ESV: stones; NASB: stones)"
+      },
+      {
+        "position": 4,
+        "surface": "מִזְבֵּ֖חַ",
+        "phrase": "altar",
+        "literal": "altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/שֵׁ֣ם",
+        "phrase": "in the name of",
+        "literal": "in-name-of",
+        "source": "H8034 (KJV: in the name of; ESV: in the name of; NASB: in the name of)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "and he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 8,
+        "surface": "תְּעָלָ֗ה",
+        "phrase": "trench",
+        "literal": "trench",
+        "source": "H8585 (KJV: trench; ESV: trench; NASB: trench)"
+      },
+      {
+        "position": 9,
+        "surface": "כְּ/בֵית֙",
+        "phrase": "like a house of",
+        "literal": "like-house-of",
+        "source": "H1004 (KJV: [implied in 'as great as']; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 10,
+        "surface": "סָאתַ֣יִם",
+        "phrase": "two seahs",
+        "literal": "two-seahs",
+        "source": "H5429 (KJV: two measures; ESV: two seahs; NASB: two measures)"
+      },
+      {
+        "position": 11,
+        "surface": "זֶ֔רַע",
+        "phrase": "seed",
+        "literal": "seed",
+        "source": "H2233 (KJV: seed; ESV: seed; NASB: seed)"
+      },
+      {
+        "position": 12,
+        "surface": "סָבִ֖יב",
+        "phrase": "around",
+        "literal": "around",
+        "source": "H5439 (KJV: about; ESV: about; NASB: around)"
+      },
+      {
+        "position": 13,
+        "surface": "לַ/מִּזְבֵּֽחַ",
+        "phrase": "for the altar",
+        "literal": "to-the-altar",
+        "source": "H4196 (KJV: altar; ESV: altar; NASB: altar)"
+      }
+    ]
+  }
+]

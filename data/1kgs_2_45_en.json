@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 2,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/מֶּ֥לֶךְ",
+        "phrase": "But the king",
+        "literal": "and-the-king",
+        "source": "H4428 (KJV: king; ESV: King; NASB: King)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹ֖ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּר֑וּךְ",
+        "phrase": "shall be blessed",
+        "literal": "blessed",
+        "source": "H1288 (KJV: shall be blessed; ESV: will be blessed; NASB: will be blessed)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/כִסֵּ֣א",
+        "phrase": "and the throne",
+        "literal": "and-throne",
+        "source": "H3678 (KJV: the throne; ESV: throne; NASB: throne)"
+      },
+      {
+        "position": 5,
+        "surface": "דָוִ֗ד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732 (KJV: of David; ESV: David's; NASB: David's)"
+      },
+      {
+        "position": 6,
+        "surface": "יִהְיֶ֥ה",
+        "phrase": "will be",
+        "literal": "will-be",
+        "source": "H1961 (KJV: shall be; ESV: will; NASB: will)"
+      },
+      {
+        "position": 7,
+        "surface": "נָכ֛וֹן",
+        "phrase": "established",
+        "literal": "firm/established",
+        "source": "H3559 (KJV: established; ESV: remain secure; NASB: established)"
+      },
+      {
+        "position": 8,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to/before-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 10,
+        "surface": "עַד",
+        "phrase": "forever",
+        "literal": "until",
+        "source": "H5704 (KJV: for ever; ESV: forever; NASB: forever)"
+      },
+      {
+        "position": 11,
+        "surface": "עוֹלָֽם",
+        "phrase": "",
+        "literal": "eternity/forever",
+        "source": "H5769 (KJV: ever; ESV: forever; NASB: forever)"
+      }
+    ]
+  }
+]

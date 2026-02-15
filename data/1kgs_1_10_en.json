@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Kings",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/אֶת",
+        "phrase": "and",
+        "literal": "and-Accusative",
+        "source": "H853 (KJV: and; ESV: or/and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "נָתָן֩",
+        "phrase": "Nathan",
+        "literal": "Nathan",
+        "source": "H5416 (KJV: Nathan; ESV: Nathan; NASB: Nathan)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/נָּבִ֨יא",
+        "phrase": "the prophet",
+        "literal": "the-prophet",
+        "source": "H5030 (KJV: the prophet; ESV: the prophet; NASB: the prophet)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בְנָיָ֜הוּ",
+        "phrase": "and Benaiah",
+        "literal": "and-Benaiah",
+        "source": "H1141 (KJV: and Benaiah; ESV: or Benaiah; NASB: Benaiah)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-Accusative",
+        "source": "H853 (KJV: and; ESV: or/and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גִּבּוֹרִ֛ים",
+        "phrase": "the mighty men",
+        "literal": "the-mighty-men",
+        "source": "H1368 (KJV: the mighty men; ESV: the mighty men; NASB: the mighty men)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-Accusative",
+        "source": "H853 (KJV: and; ESV: or/and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "שְׁלֹמֹ֥ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 9,
+        "surface": "אָחִ֖י/ו",
+        "phrase": "his brother",
+        "literal": "brother-his",
+        "source": "H251 (KJV: his brother; ESV: his brother; NASB: his brother)"
+      },
+      {
+        "position": 10,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 11,
+        "surface": "קָרָֽא",
+        "phrase": "he called",
+        "literal": "he-called",
+        "source": "H7121 (KJV: he called; ESV: he did...invite; NASB: he did...invite)"
+      }
+    ]
+  }
+]
