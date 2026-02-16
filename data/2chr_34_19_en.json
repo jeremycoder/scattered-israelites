@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 34,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961; KJV: 'And it came to pass', ESV: 'when', NASB: 'When'"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ/שְׁמֹ֣עַ",
+        "phrase": "when he heard",
+        "literal": "in-hearing-of",
+        "source": "H8085; KJV: 'when the king had heard', ESV: 'the king heard', NASB: 'the king heard'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428; KJV: 'the king', ESV: 'the king', NASB: 'the king'"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֖ת",
+        "phrase": "the",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied in 'words'), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 5,
+        "surface": "דִּבְרֵ֣י",
+        "phrase": "words of",
+        "literal": "words-of",
+        "source": "H1697; KJV: 'words', ESV: 'words', NASB: 'words'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/תּוֹרָ֑ה",
+        "phrase": "the Law",
+        "literal": "the-law",
+        "source": "H8451; KJV: 'the law', ESV: 'the Law', NASB: 'the Law'"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּקְרַ֖ע",
+        "phrase": "and he tore",
+        "literal": "and-he-tore",
+        "source": "H7167; KJV: 'he rent', ESV: 'he tore', NASB: 'he tore'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied in 'his clothes'), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּגָדָֽי/ו",
+        "phrase": "his clothes",
+        "literal": "garments-his",
+        "source": "H899; KJV: 'his clothes', ESV: 'his clothes', NASB: 'his clothes'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 9,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֨רֶא֙",
+        "phrase": "and she saw",
+        "literal": "and-she-saw",
+        "source": "H7200 (KJV: saw; ESV: saw; NASB: had seen)"
+      },
+      {
+        "position": 2,
+        "surface": "מַֽלְכַּת",
+        "phrase": "the queen of",
+        "literal": "queen-of",
+        "source": "H4436 (KJV: queen; ESV: queen; NASB: queen)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁבָ֔א",
+        "phrase": "Sheba",
+        "literal": "Sheba",
+        "source": "H7614 (KJV: of Sheba; ESV: of Sheba; NASB: of Sheba)"
+      },
+      {
+        "position": 4,
+        "surface": "אֵ֖ת",
+        "phrase": "(direct object marker)",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "חָכְמַ֣ת",
+        "phrase": "the wisdom of",
+        "literal": "wisdom-of",
+        "source": "H2451 (KJV: wisdom; ESV: wisdom; NASB: wisdom)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹמֹ֑ה",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon's; ESV: Solomon's; NASB: Solomon's)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/בַּ֖יִת",
+        "phrase": "and the house",
+        "literal": "and-the-house",
+        "source": "H1004 (KJV: the house; ESV: the house; NASB: the house)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּנָֽה",
+        "phrase": "he had built",
+        "literal": "he-built",
+        "source": "H1129 (KJV: he had built; ESV: he had built; NASB: he had built)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 12,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖עַשׂ",
+        "phrase": "And he did",
+        "literal": "and-he-did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רָ֑ע",
+        "phrase": "evil",
+        "literal": "the-evil",
+        "source": "H7451 (KJV: evil; ESV: evil; NASB: evil)"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֣י",
+        "phrase": "because",
+        "literal": "for",
+        "source": "H3588 (KJV: because; ESV: for; NASB: because)"
+      },
+      {
+        "position": 4,
+        "surface": "לֹ֤א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 5,
+        "surface": "הֵכִין֙",
+        "phrase": "he set",
+        "literal": "he-prepared",
+        "source": "H3559 (KJV: prepared; ESV: set; NASB: set)"
+      },
+      {
+        "position": 6,
+        "surface": "לִבּ֔/וֹ",
+        "phrase": "his heart",
+        "literal": "heart-his",
+        "source": "H3820 (KJV: heart; ESV: heart; NASB: heart)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/דְר֖וֹשׁ",
+        "phrase": "to seek",
+        "literal": "to-seek",
+        "source": "H1875 (KJV: seek; ESV: seek; NASB: seek)"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

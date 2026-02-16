@@ -1,0 +1,88 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 24,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִ֖י",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And it came to pass'; ESV 'After this'; NASB 'Now it came about'"
+      },
+      {
+        "position": 2,
+        "surface": "אַחֲרֵי",
+        "phrase": "after",
+        "literal": "after",
+        "source": "H310: KJV 'after'; ESV 'this'; NASB 'after this'"
+      },
+      {
+        "position": 3,
+        "surface": "כֵ֑ן",
+        "phrase": "this",
+        "literal": "so",
+        "source": "H3651: KJV 'this'; ESV omitted in phrase; NASB 'this'"
+      },
+      {
+        "position": 4,
+        "surface": "הָיָה֙",
+        "phrase": "it was",
+        "literal": "it-was",
+        "source": "H1961: KJV 'that'; ESV 'Joash decided'; NASB 'Joash decided'"
+      },
+      {
+        "position": 5,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973: KJV omitted; ESV omitted; NASB omitted"
+      },
+      {
+        "position": 6,
+        "surface": "לֵ֣ב",
+        "phrase": "heart",
+        "literal": "heart",
+        "source": "H3820: KJV 'minded'; ESV 'decided'; NASB 'decided'"
+      },
+      {
+        "position": 7,
+        "surface": "יוֹאָ֔שׁ",
+        "phrase": "Joash",
+        "literal": "Joash",
+        "source": "H3101: KJV 'Joash'; ESV 'Joash'; NASB 'Joash'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/חַדֵּ֖שׁ",
+        "phrase": "to renew",
+        "literal": "to-renew",
+        "source": "H2318: KJV 'repair'; ESV 'restore'; NASB 'restore'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV omitted; ESV omitted; NASB omitted"
+      },
+      {
+        "position": 10,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004: KJV 'house'; ESV 'house'; NASB 'house'"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068: KJV 'the LORD'; ESV 'the LORD'; NASB 'the LORD'"
+      }
+    ]
+  }
+]

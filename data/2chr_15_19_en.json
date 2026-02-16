@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 15,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִלְחָמָ֖ה",
+        "phrase": "and-war",
+        "literal": "and-war",
+        "source": "H4421; KJV: 'war', ESV/NASB: 'war'"
+      },
+      {
+        "position": 2,
+        "surface": "לֹ֣א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808; KJV/ESV/NASB: 'no'/'not'"
+      },
+      {
+        "position": 3,
+        "surface": "הָיָ֑תָה",
+        "phrase": "was",
+        "literal": "was-fs",
+        "source": "H1961; KJV/ESV/NASB: 'was'/'there was'"
+      },
+      {
+        "position": 4,
+        "surface": "עַ֛ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV/ESV/NASB: 'until'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנַת",
+        "phrase": "year-of",
+        "literal": "year-of",
+        "source": "H8141; KJV/ESV/NASB: 'year'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹשִׁ֥ים",
+        "phrase": "thirty",
+        "literal": "thirty",
+        "source": "H7970; KJV/ESV/NASB: 'thirty'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/חָמֵ֖שׁ",
+        "phrase": "and-five",
+        "literal": "and-five",
+        "source": "H2568; KJV/ESV/NASB: 'and five'/'five'"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/מַלְכ֥וּת",
+        "phrase": "to-kingdom-of",
+        "literal": "to-kingdom-of",
+        "source": "H4438; KJV/ESV/NASB: 'of ... reign'"
+      },
+      {
+        "position": 9,
+        "surface": "אָסָֽא",
+        "phrase": "Asa",
+        "literal": "Asa",
+        "source": "H609; KJV/ESV/NASB: 'Asa'"
+      }
+    ]
+  }
+]

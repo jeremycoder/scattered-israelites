@@ -1,0 +1,95 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 4,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ֠/יַּעַשׂ",
+        "phrase": "And he made",
+        "literal": "and-he-made",
+        "source": "H6213 (KJV: made; ESV: made; NASB: made)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "מְנֹר֧וֹת",
+        "phrase": "lampstands",
+        "literal": "lampstands",
+        "source": "H4501 (KJV: candlesticks; ESV: lampstands; NASB: lampstands)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/זָּהָ֛ב",
+        "phrase": "the gold",
+        "literal": "the-gold",
+        "source": "H2091 (KJV: of gold; ESV: of gold; NASB: of gold)"
+      },
+      {
+        "position": 5,
+        "surface": "עֶ֖שֶׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6235 (KJV: ten; ESV: ten; NASB: ten)"
+      },
+      {
+        "position": 6,
+        "surface": "כְּ/מִשְׁפָּטָ֑/ם",
+        "phrase": "according to their custom",
+        "literal": "according-to-judgment-of-them",
+        "source": "H4941 (KJV: according to their form; ESV: according to their manner; NASB: according to their manner)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּתֵּן֙",
+        "phrase": "and he set",
+        "literal": "and-he-gave/placed",
+        "source": "H5414 (KJV: set; ESV: set; NASB: put)"
+      },
+      {
+        "position": 8,
+        "surface": "בַּֽ/הֵיכָ֔ל",
+        "phrase": "in the temple",
+        "literal": "in-the-temple",
+        "source": "H1964 (KJV: in the temple; ESV: in the temple; NASB: in the temple)"
+      },
+      {
+        "position": 9,
+        "surface": "חָמֵ֥שׁ",
+        "phrase": "five",
+        "literal": "five",
+        "source": "H2568 (KJV: five; ESV: five; NASB: five)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/יָּמִ֖ין",
+        "phrase": "on the right",
+        "literal": "from-right",
+        "source": "H3225 (KJV: on the right hand; ESV: on the south side; NASB: on the right)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/חָמֵ֥שׁ",
+        "phrase": "and five",
+        "literal": "and-five",
+        "source": "H2568 (KJV: and five; ESV: and five; NASB: and five)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/שְּׂמֹֽאול",
+        "phrase": "on the left",
+        "literal": "from-left",
+        "source": "H8040 (KJV: on the left; ESV: on the north side; NASB: on the left)"
+      }
+    ]
+  }
+]

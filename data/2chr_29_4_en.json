@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 29,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֵ֥א",
+        "phrase": "and he brought",
+        "literal": "and-he-brought-in",
+        "source": "H935 (KJV: brought in; ESV: brought in; NASB: brought)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כֹּהֲנִ֖ים",
+        "phrase": "the priests",
+        "literal": "the-priests",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/לְוִיִּ֑ם",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּֽאַסְפֵ֖/ם",
+        "phrase": "and gathered them",
+        "literal": "and-gathered-them",
+        "source": "H622 (KJV: gathered; ESV: assembled; NASB: gathered)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/רְח֥וֹב",
+        "phrase": "to the square",
+        "literal": "to-square",
+        "source": "H7339 (KJV: street; ESV: square; NASB: square)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/מִּזְרָֽח",
+        "phrase": "the east",
+        "literal": "the-east",
+        "source": "H4217 (KJV: east; ESV: east; NASB: east)"
+      }
+    ]
+  }
+]

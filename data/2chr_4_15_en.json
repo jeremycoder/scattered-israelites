@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 4,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: direct obj.; ESV/NASB: implied in 'the Sea')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יָּ֖ם",
+        "phrase": "the Sea",
+        "literal": "the-sea",
+        "source": "H3220 (KJV/ESV/NASB: 'the sea' or 'the Sea')"
+      },
+      {
+        "position": 3,
+        "surface": "אֶחָ֑ד",
+        "phrase": "one",
+        "literal": "one-masc-sing",
+        "source": "H259 (KJV/ESV/NASB: 'one')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853 (KJV: 'and'; ESV/NASB: 'and the')"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/בָּקָ֥ר",
+        "phrase": "the oxen",
+        "literal": "the-cattle",
+        "source": "H1241 (KJV/ESV/NASB: 'oxen' or 'bulls')"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵים",
+        "phrase": "twelve",
+        "literal": "two-dual",
+        "source": "H8147 (KJV/ESV/NASB: 'twelve')"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָׂ֖ר",
+        "phrase": "ten",
+        "literal": "ten-masc-sing",
+        "source": "H6240 (KJV/ESV/NASB: part of 'twelve')"
+      },
+      {
+        "position": 8,
+        "surface": "תַּחְתָּֽי/ו",
+        "phrase": "under it",
+        "literal": "under/3ms",
+        "source": "H8478 (KJV/ESV/NASB: 'under it' or 'underneath it')"
+      }
+    ]
+  }
+]

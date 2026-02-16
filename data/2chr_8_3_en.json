@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֤לֶךְ",
+        "phrase": "Then went",
+        "literal": "and-he-went",
+        "source": "H3212 (KJV: went; ESV: went; NASB: went)"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁלֹמֹה֙",
+        "phrase": "Solomon",
+        "literal": "Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 3,
+        "surface": "חֲמָ֣ת",
+        "phrase": "Hamath",
+        "literal": "Hamath",
+        "source": "H2578 (KJV: Hamathzobah; ESV: Hamath-zobah; NASB: Hamath-zobah)"
+      },
+      {
+        "position": 4,
+        "surface": "צוֹבָ֔ה",
+        "phrase": "Zobah",
+        "literal": "Zobah",
+        "source": "H2578 (KJV: Hamathzobah; ESV: Hamath-zobah; NASB: Hamath-zobah)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֶּחֱזַ֖ק",
+        "phrase": "and captured",
+        "literal": "and-he-made-strong",
+        "source": "H2388 (KJV: prevailed against it; ESV: took it; NASB: captured it)"
+      },
+      {
+        "position": 6,
+        "surface": "עָלֶֽי/הָ",
+        "phrase": "it",
+        "literal": "upon-it",
+        "source": "H5921 (KJV: against it; ESV: it; NASB: it)"
+      }
+    ]
+  }
+]

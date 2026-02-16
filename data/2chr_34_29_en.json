@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 34,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁלַ֖ח",
+        "phrase": "sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֶּ֑לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: the king; ESV: the king; NASB: the king)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יֶּאֱסֹ֕ף",
+        "phrase": "and gathered",
+        "literal": "and-he-gathered",
+        "source": "H622 (KJV: gathered together; ESV: gathered together; NASB: gathered)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "זִקְנֵ֥י",
+        "phrase": "elders",
+        "literal": "elders-of",
+        "source": "H2205 (KJV: elders; ESV: elders; NASB: elders)"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוּדָ֖ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 8,
+        "surface": "וִ/ירוּשָׁלִָֽם",
+        "phrase": "and Jerusalem",
+        "literal": "and-Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 6,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: since; NASB: since)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יּ֗וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: the day; ESV: the day; NASB: the day)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "that",
+        "literal": "which/that",
+        "source": "H834 (KJV: that; ESV: that; NASB: that)"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹצֵ֣אתִי",
+        "phrase": "I brought out",
+        "literal": "I-caused-to-go-out",
+        "source": "H3318 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "עַמִּ/י֮",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 (KJV: my people; ESV: my people; NASB: My people)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵ/אֶ֣רֶץ",
+        "phrase": "from land",
+        "literal": "from-land",
+        "source": "H776 (KJV: out of the land; ESV: out of the land; NASB: from the land)"
+      },
+      {
+        "position": 8,
+        "surface": "מִצְרַיִם֒",
+        "phrase": "Egypt",
+        "literal": "Egypt",
+        "source": "H4714 (KJV: Egypt; ESV: Egypt; NASB: Egypt)"
+      },
+      {
+        "position": 9,
+        "surface": "לֹא",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: no; NASB: not)"
+      },
+      {
+        "position": 10,
+        "surface": "בָחַ֣רְתִּֽי",
+        "phrase": "I chose",
+        "literal": "I-chose",
+        "source": "H977 (KJV: chose; ESV: chose; NASB: choose)"
+      },
+      {
+        "position": 11,
+        "surface": "בְ/עִ֗יר",
+        "phrase": "in a city",
+        "literal": "in-city",
+        "source": "H5892 (KJV: city; ESV: city; NASB: city)"
+      },
+      {
+        "position": 12,
+        "surface": "מִ/כֹּל֙",
+        "phrase": "from all",
+        "literal": "from-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 13,
+        "surface": "שִׁבְטֵ֣י",
+        "phrase": "tribes",
+        "literal": "tribes",
+        "source": "H7626 (KJV: tribes; ESV: tribes; NASB: tribes)"
+      },
+      {
+        "position": 14,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 15,
+        "surface": "לִ/בְנ֣וֹת",
+        "phrase": "to build",
+        "literal": "to-build",
+        "source": "H1129 (KJV: to build; ESV: to build; NASB: to build)"
+      },
+      {
+        "position": 16,
+        "surface": "בַּ֔יִת",
+        "phrase": "a house",
+        "literal": "house",
+        "source": "H1004 (KJV: an house; ESV: a house; NASB: a house)"
+      },
+      {
+        "position": 17,
+        "surface": "לִ/הְי֥וֹת",
+        "phrase": "that it might be",
+        "literal": "to-be",
+        "source": "H1961 (KJV: that my name might be; ESV: that my name might be; NASB: that My name might be)"
+      },
+      {
+        "position": 18,
+        "surface": "שְׁמִ֖/י",
+        "phrase": "my name",
+        "literal": "name-my",
+        "source": "H8034 (KJV: my name; ESV: my name; NASB: My name)"
+      },
+      {
+        "position": 19,
+        "surface": "שָׁ֑ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/לֹא",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: neither; ESV: and; NASB: nor)"
+      },
+      {
+        "position": 21,
+        "surface": "בָחַ֣רְתִּֽי",
+        "phrase": "I chose",
+        "literal": "I-chose",
+        "source": "H977 (KJV: chose; ESV: chose; NASB: choose)"
+      },
+      {
+        "position": 22,
+        "surface": "בְ/אִ֔ישׁ",
+        "phrase": "any man",
+        "literal": "in-man",
+        "source": "H376 (KJV: any man; ESV: man; NASB: any man)"
+      },
+      {
+        "position": 23,
+        "surface": "לִ/הְי֥וֹת",
+        "phrase": "to be",
+        "literal": "to-be",
+        "source": "H1961 (KJV: to be; ESV: as; NASB: for)"
+      },
+      {
+        "position": 24,
+        "surface": "נָגִ֖יד",
+        "phrase": "ruler",
+        "literal": "ruler",
+        "source": "H5057 (KJV: prince; ESV: prince; NASB: leader)"
+      },
+      {
+        "position": 25,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "over",
+        "source": "H5921 (KJV: over; ESV: over; NASB: over)"
+      },
+      {
+        "position": 26,
+        "surface": "עַמִּ֥/י",
+        "phrase": "my people",
+        "literal": "people-my",
+        "source": "H5971 (KJV: my people; ESV: my people; NASB: My people)"
+      },
+      {
+        "position": 27,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      }
+    ]
+  }
+]

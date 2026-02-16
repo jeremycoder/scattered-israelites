@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 21,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַחֲרֵ֖י",
+        "phrase": "and-after",
+        "literal": "and-after",
+        "source": "H310 (KJV: 'after'; ESV: 'after'; NASB: 'after')"
+      },
+      {
+        "position": 2,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: 'all'; ESV: 'all'; NASB: 'all')"
+      },
+      {
+        "position": 3,
+        "surface": "זֹ֑את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063 (KJV: 'this'; ESV: 'this'; NASB: 'this')"
+      },
+      {
+        "position": 4,
+        "surface": "נְגָפ֨/וֹ",
+        "phrase": "struck-him",
+        "literal": "struck-him",
+        "source": "H5062 (KJV: 'smote'; ESV: 'struck'; NASB: 'smote')"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֧ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: 'LORD'; ESV: 'LORD'; NASB: 'LORD')"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/מֵעָ֛י/ו",
+        "phrase": "in-his-bowels",
+        "literal": "in-bowels-his",
+        "source": "H4578 (KJV: 'bowels'; ESV: 'bowels'; NASB: 'bowels')"
+      },
+      {
+        "position": 7,
+        "surface": "לָ/חֳלִ֖י",
+        "phrase": "to-disease",
+        "literal": "to-disease",
+        "source": "H2483 (KJV: 'disease'; ESV: 'disease'; NASB: 'sickness')"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/אֵ֥ין",
+        "phrase": "to-no",
+        "literal": "to-no",
+        "source": "H369 (KJV: 'incurable'; ESV: 'incurable'; NASB: 'incurable')"
+      },
+      {
+        "position": 9,
+        "surface": "מַרְפֵּֽא",
+        "phrase": "cure",
+        "literal": "cure",
+        "source": "H4832 (KJV: 'disease'; ESV: 'disease'; NASB: 'sickness')"
+      }
+    ]
+  }
+]

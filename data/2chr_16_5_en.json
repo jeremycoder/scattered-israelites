@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 16,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְהִי֙",
+        "phrase": "And it came to pass",
+        "literal": "and-it-was",
+        "source": "H1961: KJV 'And it came to pass'; ESV 'When'; NASB 'It came about'"
+      },
+      {
+        "position": 2,
+        "surface": "כִּ/שְׁמֹ֣עַ",
+        "phrase": "when he heard",
+        "literal": "when-hearing-of",
+        "source": "H8085: KJV 'when Baasha heard'; ESV 'Baasha heard'; NASB 'Baasha heard'"
+      },
+      {
+        "position": 3,
+        "surface": "בַּעְשָׁ֔א",
+        "phrase": "Baasha",
+        "literal": "Baasha",
+        "source": "H1201: KJV 'Baasha'; ESV 'Baasha'; NASB 'Baasha'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יֶּחְדַּ֕ל",
+        "phrase": "that he ceased",
+        "literal": "and-he-stopped",
+        "source": "H2308: KJV 'he left off'; ESV 'he ceased'; NASB 'he ceased'"
+      },
+      {
+        "position": 5,
+        "surface": "מִ/בְּנ֖וֹת",
+        "phrase": "from building",
+        "literal": "from-building-of",
+        "source": "H1129: KJV 'building'; ESV 'fortifying'; NASB 'building'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/רָמָ֑ה",
+        "phrase": "Ramah",
+        "literal": "the-Ramah",
+        "source": "H7414: KJV 'Ramah'; ESV 'Ramah'; NASB 'Ramah'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/יַּשְׁבֵּ֖ת",
+        "phrase": "and he stopped",
+        "literal": "and-he-caused-to-rest",
+        "source": "H7673: KJV 'let his work cease'; ESV 'stopped'; NASB 'stopped'"
+      },
+      {
+        "position": 9,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied)"
+      },
+      {
+        "position": 10,
+        "surface": "מְלַאכְתּֽ/וֹ",
+        "phrase": "his work",
+        "literal": "work-of-his",
+        "source": "H4399: KJV 'his work'; ESV 'his work'; NASB 'his work'"
+      }
+    ]
+  }
+]

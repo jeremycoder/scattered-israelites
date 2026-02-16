@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 11,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחַזֵּ֖ק",
+        "phrase": "and he fortified",
+        "literal": "and-he-made-strong",
+        "source": "H2388; KJV: fortified, ESV: made...strong, NASB: strengthened"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (implied in object)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/מְּצֻר֑וֹת",
+        "phrase": "fortresses",
+        "literal": "the-fortified-[places]",
+        "source": "H4694; KJV: strong holds, ESV: fortresses, NASB: fortresses"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּתֵּ֤ן",
+        "phrase": "and he put",
+        "literal": "and-he-gave",
+        "source": "H5414; KJV: put, ESV: put, NASB: put"
+      },
+      {
+        "position": 5,
+        "surface": "בָּ/הֶם֙",
+        "phrase": "in them",
+        "literal": "in-them",
+        "source": "(prep+pron); KJV/ESV/NASB: in them"
+      },
+      {
+        "position": 6,
+        "surface": "נְגִידִ֔ים",
+        "phrase": "captains",
+        "literal": "leaders",
+        "source": "H5057; KJV: captains, ESV: commanders, NASB: officers"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֹצְר֥וֹת",
+        "phrase": "and stores",
+        "literal": "and-treasuries",
+        "source": "H214; KJV: treasures, ESV: stores, NASB: stores"
+      },
+      {
+        "position": 8,
+        "surface": "מַאֲכָ֖ל",
+        "phrase": "of food",
+        "literal": "food",
+        "source": "H3978; KJV: victuals, ESV: food, NASB: food"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שֶׁ֥מֶן",
+        "phrase": "oil",
+        "literal": "and-oil",
+        "source": "H8081; KJV/ESV/NASB: oil"
+      },
+      {
+        "position": 10,
+        "surface": "וָ/יָֽיִן",
+        "phrase": "and wine",
+        "literal": "and-wine",
+        "source": "H3196; KJV/ESV/NASB: wine"
+      }
+    ]
+  }
+]

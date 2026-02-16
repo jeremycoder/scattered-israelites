@@ -1,0 +1,200 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הִנֵּה֩",
+        "phrase": "Behold",
+        "literal": "behold",
+        "source": "H2009 (KJV: Behold; ESV: Now; NASB: Now)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲנִ֨י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 3,
+        "surface": "בֽוֹנֶה",
+        "phrase": "am building",
+        "literal": "building",
+        "source": "H1129 (KJV: build; ESV: am about to build; NASB: am about to build)"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ֜יִת",
+        "phrase": "a house",
+        "literal": "house-the",
+        "source": "H1004 (KJV: an house; ESV: a house; NASB: a house)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/שֵׁ֣ם",
+        "phrase": "for the name",
+        "literal": "to-name",
+        "source": "H8034 (KJV: for the name; ESV: for the name; NASB: for the name)"
+      },
+      {
+        "position": 6,
+        "surface": "יְהוָ֣ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      },
+      {
+        "position": 7,
+        "surface": "אֱלֹהָ֗/י",
+        "phrase": "my God",
+        "literal": "God-my",
+        "source": "H430 (KJV: my God; ESV: my God; NASB: my God)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/הַקְדִּ֣ישׁ",
+        "phrase": "to dedicate",
+        "literal": "to-dedicate",
+        "source": "H6942 (KJV: to dedicate; ESV: to dedicate; NASB: to consecrate)"
+      },
+      {
+        "position": 9,
+        "surface": "ל֡/וֹ",
+        "phrase": "to Him",
+        "literal": "to-him",
+        "source": " (KJV: it; ESV: it; NASB: it)"
+      },
+      {
+        "position": 10,
+        "surface": "לְ/הַקְטִ֣יר",
+        "phrase": "to burn",
+        "literal": "to-burn-incense",
+        "source": "H6999 (KJV: to burn; ESV: to burn; NASB: to burn)"
+      },
+      {
+        "position": 11,
+        "surface": "לְ/פָנָ֣י/ו",
+        "phrase": "before Him",
+        "literal": "to-face-his",
+        "source": "H6440 (KJV: before him; ESV: before him; NASB: before Him)"
+      },
+      {
+        "position": 12,
+        "surface": "קְטֹֽרֶת",
+        "phrase": "incense",
+        "literal": "incense",
+        "source": "H7004 (KJV: incense; ESV: incense; NASB: incense)"
+      },
+      {
+        "position": 13,
+        "surface": "סַמִּים֩",
+        "phrase": "of spices",
+        "literal": "spices",
+        "source": "H5561 (KJV: sweet incense; ESV: fragrant spices; NASB: fragrant spices)"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/מַעֲרֶ֨כֶת",
+        "phrase": "and the showbread",
+        "literal": "and-arrangement",
+        "source": "H4635 (KJV: and the bread; ESV: the regular arrangement; NASB: the regular arrangement)"
+      },
+      {
+        "position": 15,
+        "surface": "תָּמִ֤יד",
+        "phrase": "continual",
+        "literal": "continually",
+        "source": "H8548 (KJV: continual; ESV: regular; NASB: continual)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/עֹלוֹת֙",
+        "phrase": "and burnt offerings",
+        "literal": "and-burnt-offerings",
+        "source": "H5930 (KJV: burnt offerings; ESV: burnt offerings; NASB: burnt offerings)"
+      },
+      {
+        "position": 17,
+        "surface": "לַ/בֹּ֣קֶר",
+        "phrase": "morning",
+        "literal": "to-the-morning",
+        "source": "H1242 (KJV: morning; ESV: morning; NASB: morning)"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/לָ/עֶ֔רֶב",
+        "phrase": "and evening",
+        "literal": "and-to-the-evening",
+        "source": "H6153 (KJV: evening; ESV: evening; NASB: evening)"
+      },
+      {
+        "position": 19,
+        "surface": "לַ/שַּׁבָּתוֹת֙",
+        "phrase": "Sabbaths",
+        "literal": "to-the-Sabbaths",
+        "source": "H7676 (KJV: sabbaths; ESV: Sabbaths; NASB: sabbaths)"
+      },
+      {
+        "position": 20,
+        "surface": "וְ/לֶ֣/חֳדָשִׁ֔ים",
+        "phrase": "and New Moons",
+        "literal": "and-to-months",
+        "source": "H2320 (KJV: new moons; ESV: new moons; NASB: new moons)"
+      },
+      {
+        "position": 21,
+        "surface": "וּֽ/לְ/מוֹעֲדֵ֖י",
+        "phrase": "and appointed feasts",
+        "literal": "and-to-appointed-times",
+        "source": "H4150 (KJV: feasts; ESV: appointed feasts; NASB: appointed feasts)"
+      },
+      {
+        "position": 22,
+        "surface": "יְהוָ֣ה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: of the LORD; ESV: of the LORD; NASB: of the LORD)"
+      },
+      {
+        "position": 23,
+        "surface": "אֱלֹהֵ֑י/נוּ",
+        "phrase": "our God",
+        "literal": "God-our",
+        "source": "H430 (KJV: our God; ESV: our God; NASB: our God)"
+      },
+      {
+        "position": 24,
+        "surface": "לְ/עוֹלָ֖ם",
+        "phrase": "forever",
+        "literal": "to-forever",
+        "source": "H5769 (KJV: for ever; ESV: forever; NASB: forever)"
+      },
+      {
+        "position": 25,
+        "surface": "זֹ֥את",
+        "phrase": "this",
+        "literal": "this",
+        "source": "H2063 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 26,
+        "surface": "עַל",
+        "phrase": "is",
+        "literal": "upon",
+        "source": "H5921 (KJV: is; ESV: is; NASB: is)"
+      },
+      {
+        "position": 27,
+        "surface": "יִשְׂרָאֵֽל",
+        "phrase": "upon Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      }
+    ]
+  }
+]

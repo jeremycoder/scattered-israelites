@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 11,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and Gath",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and Gath; ESV: Gath; NASB: Gath)"
+      },
+      {
+        "position": 2,
+        "surface": "גַּ֥ת",
+        "phrase": "Gath",
+        "literal": "Gath",
+        "source": "H1661 (KJV: Gath; ESV: Gath; NASB: Gath)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and Mareshah",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and Mareshah; ESV: Mareshah; NASB: Mareshah)"
+      },
+      {
+        "position": 4,
+        "surface": "מָרֵשָׁ֖ה",
+        "phrase": "Mareshah",
+        "literal": "Mareshah",
+        "source": "H4762 (KJV: Mareshah; ESV: Mareshah; NASB: Mareshah)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and Ziph",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and Ziph; ESV: Ziph; NASB: Ziph)"
+      },
+      {
+        "position": 6,
+        "surface": "זִֽיף",
+        "phrase": "Ziph",
+        "literal": "Ziph",
+        "source": "H2128 (KJV: Ziph; ESV: Ziph; NASB: Ziph)"
+      }
+    ]
+  }
+]

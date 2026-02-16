@@ -1,0 +1,200 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 20,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֗אמֶר",
+        "phrase": "And he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: And he said; ESV: And he said; NASB: and he said)"
+      },
+      {
+        "position": 2,
+        "surface": "הַקְשִׁ֤יבוּ",
+        "phrase": "Listen",
+        "literal": "give-ear-2mp",
+        "source": "H7181 (KJV: Hearken; ESV: Listen; NASB: Listen)"
+      },
+      {
+        "position": 3,
+        "surface": "כָל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 4,
+        "surface": "יְהוּדָה֙",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יֹשְׁבֵ֣י",
+        "phrase": "and inhabitants of",
+        "literal": "and-sitting-of",
+        "source": "H3427 (KJV: ye inhabitants; ESV: inhabitants; NASB: inhabitants)"
+      },
+      {
+        "position": 6,
+        "surface": "יְרוּשָׁלִַ֔ם",
+        "phrase": "Jerusalem",
+        "literal": "Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/מֶּ֖לֶךְ",
+        "phrase": "and the king",
+        "literal": "and-the-king",
+        "source": "H4428 (KJV: thou king; ESV: King; NASB: King)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוֹשָׁפָ֑ט",
+        "phrase": "Jehoshaphat",
+        "literal": "Jehoshaphat",
+        "source": "H3092 (KJV: Jehoshaphat; ESV: Jehoshaphat; NASB: Jehoshaphat)"
+      },
+      {
+        "position": 9,
+        "surface": "כֹּֽה",
+        "phrase": "Thus",
+        "literal": "thus",
+        "source": "H3541 (KJV: Thus; ESV: Thus; NASB: Thus)"
+      },
+      {
+        "position": 10,
+        "surface": "אָמַ֨ר",
+        "phrase": "says",
+        "literal": "he-said",
+        "source": "H559 (KJV: saith; ESV: says; NASB: says)"
+      },
+      {
+        "position": 11,
+        "surface": "יְהוָ֜ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 12,
+        "surface": "לָ/כֶ֗ם",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: unto you; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 13,
+        "surface": "אַ֠תֶּם",
+        "phrase": "you",
+        "literal": "you-2mp",
+        "source": "H859 (KJV: ye; ESV: you; NASB: you)"
+      },
+      {
+        "position": 14,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408 (KJV: Be not; ESV: Do not; NASB: Do not)"
+      },
+      {
+        "position": 15,
+        "surface": "תִּֽירְא֤וּ",
+        "phrase": "fear",
+        "literal": "fear-2mp",
+        "source": "H3372 (KJV: afraid; ESV: be afraid; NASB: fear)"
+      },
+      {
+        "position": 16,
+        "surface": "וְ/אַל",
+        "phrase": "nor",
+        "literal": "and-not",
+        "source": "H408 (KJV: nor; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 17,
+        "surface": "תֵּחַ֨תּוּ֙",
+        "phrase": "be dismayed",
+        "literal": "be-dismayed-2mp",
+        "source": "H2865 (KJV: dismayed; ESV: be dismayed; NASB: be dismayed)"
+      },
+      {
+        "position": 18,
+        "surface": "מִ/פְּנֵ֨י",
+        "phrase": "because of",
+        "literal": "from-face-of",
+        "source": "H6440 (KJV: by reason of; ESV: at; NASB: because of)"
+      },
+      {
+        "position": 19,
+        "surface": "הֶ/הָמ֤וֹן",
+        "phrase": "the multitude",
+        "literal": "the-multitude",
+        "source": "H1995 (KJV: multitude; ESV: horde; NASB: multitude)"
+      },
+      {
+        "position": 20,
+        "surface": "הָ/רָב֙",
+        "phrase": "great",
+        "literal": "the-great",
+        "source": "H7227 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 21,
+        "surface": "הַ/זֶּ֔ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 22,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 23,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: not; NASB: not)"
+      },
+      {
+        "position": 24,
+        "surface": "לָ/כֶ֛ם",
+        "phrase": "yours",
+        "literal": "to-you",
+        "source": " (KJV: yours; ESV: yours; NASB: yours)"
+      },
+      {
+        "position": 25,
+        "surface": "הַ/מִּלְחָמָ֖ה",
+        "phrase": "the battle",
+        "literal": "the-battle",
+        "source": "H4421 (KJV: battle; ESV: battle; NASB: battle)"
+      },
+      {
+        "position": 26,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: but; NASB: for)"
+      },
+      {
+        "position": 27,
+        "surface": "לֵ/אלֹהִֽים",
+        "phrase": "God's",
+        "literal": "to-God",
+        "source": "H430 (KJV: God's; ESV: God's; NASB: God's)"
+      }
+    ]
+  }
+]

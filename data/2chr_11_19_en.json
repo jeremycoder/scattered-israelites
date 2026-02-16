@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 11,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/תֵּ֥לֶד",
+        "phrase": "and she bore",
+        "literal": "and-she-bore",
+        "source": "H3205 (KJV: bare; ESV/NASB: bore)"
+      },
+      {
+        "position": 2,
+        "surface": "ל֖/וֹ",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: him; ESV/NASB: him)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנִ֑ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "H1121 (KJV: sons; ESV/NASB: sons)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "יְע֥וּשׁ",
+        "phrase": "Jeush",
+        "literal": "Jeush",
+        "source": "H3266 (KJV/ESV/NASB: Jeush)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV/ESV/NASB: and [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁמַרְיָ֖ה",
+        "phrase": "Shemariah",
+        "literal": "Shemariah",
+        "source": "H8114 (KJV: Shemariah; ESV/NASB: Shemariah)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV/ESV/NASB: and [implied])"
+      },
+      {
+        "position": 9,
+        "surface": "זָֽהַם",
+        "phrase": "Zaham",
+        "literal": "Zaham",
+        "source": "H2093 (KJV/ESV/NASB: Zaham)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 14,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּ֨אמֶר֙",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: said; ESV: commanded; NASB: said)"
+      },
+      {
+        "position": 2,
+        "surface": "לִֽ/יהוּדָ֔ה",
+        "phrase": "to Judah",
+        "literal": "to-Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/דְר֕וֹשׁ",
+        "phrase": "to seek",
+        "literal": "to-seek",
+        "source": "H1875 (KJV: seek; ESV: seek; NASB: seek)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "direct-object marker",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "יְהוָ֖ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלֹהֵ֣י",
+        "phrase": "God",
+        "literal": "god-of",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲבוֹתֵי/הֶ֑ם",
+        "phrase": "of their fathers",
+        "literal": "fathers-of-them",
+        "source": "H1 (KJV: their fathers; ESV: their fathers; NASB: their fathers)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/לַ/עֲשׂ֖וֹת",
+        "phrase": "and to do",
+        "literal": "and-to-do",
+        "source": "H6213 (KJV: keep; ESV: keep; NASB: do)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/תּוֹרָ֥ה",
+        "phrase": "the law",
+        "literal": "the-law",
+        "source": "H8451 (KJV: law; ESV: law; NASB: Law)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/הַ/מִּצְוָֽה",
+        "phrase": "and the commandment",
+        "literal": "and-the-commandment",
+        "source": "H4687 (KJV: commandment; ESV: commandment; NASB: command)"
+      }
+    ]
+  }
+]

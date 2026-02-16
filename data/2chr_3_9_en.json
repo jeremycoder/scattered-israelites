@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 3,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִשְׁקָ֛ל",
+        "phrase": "and-the-weight",
+        "literal": "and-weight",
+        "source": "H4948; KJV/ESV/NASB: 'weight' (total for nails)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מִסְמְר֥וֹת",
+        "phrase": "for-the-nails",
+        "literal": "to/for-nails",
+        "source": "H4548; KJV/ESV/NASB: 'nails' (gold nails)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/שְׁקָלִ֖ים",
+        "phrase": "shekels",
+        "literal": "to/for-shekels",
+        "source": "H8255; KJV/ESV/NASB: 'shekels' (of gold)"
+      },
+      {
+        "position": 4,
+        "surface": "חֲמִשִּׁ֣ים",
+        "phrase": "fifty",
+        "literal": "fifty",
+        "source": "H2572; KJV/ESV/NASB: 'fifty' (shekels)"
+      },
+      {
+        "position": 5,
+        "surface": "זָהָ֑ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV/ESV/NASB: 'gold' (shekels of gold)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הָ/עֲלִיּ֖וֹת",
+        "phrase": "and-the-upper-rooms",
+        "literal": "and-the-upper-rooms",
+        "source": "H5944; KJV/ESV/NASB: 'upper chambers/rooms'"
+      },
+      {
+        "position": 7,
+        "surface": "חִפָּ֥ה",
+        "phrase": "he-overlaid",
+        "literal": "he-covered/overlaid",
+        "source": "H2645; KJV/ESV/NASB: 'overlaid/covered'"
+      },
+      {
+        "position": 8,
+        "surface": "זָהָֽב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091; KJV/ESV/NASB: 'gold' (overlaid with gold)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 15,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשָּֽׁבְעוּ֙",
+        "phrase": "and they swore",
+        "literal": "and-they-swore",
+        "source": "H7650 (KJV: sware; ESV: took an oath; NASB: entered into the oath)"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/יהוָ֔ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: unto the LORD; ESV: to the LORD; NASB: to the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/ק֥וֹל",
+        "phrase": "with voice",
+        "literal": "in-voice",
+        "source": "H6963 (KJV: with a loud voice; ESV: with a loud voice; NASB: with a loud voice)"
+      },
+      {
+        "position": 4,
+        "surface": "גָּד֖וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419 (KJV: loud; ESV: loud; NASB: loud)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בִ/תְרוּעָ֑ה",
+        "phrase": "and with shouting",
+        "literal": "and-in-shout",
+        "source": "H8643 (KJV: shouting; ESV: shouting; NASB: shout)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בַ/חֲצֹצְר֖וֹת",
+        "phrase": "and with trumpets",
+        "literal": "and-in-trumpets",
+        "source": "H2689 (KJV: trumpets; ESV: trumpets; NASB: trumpets)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/בְ/שׁוֹפָרֽוֹת",
+        "phrase": "and with horns",
+        "literal": "and-in-horns",
+        "source": "H7782 (KJV: cornets; ESV: rams' horns; NASB: rams' horns)"
+      }
+    ]
+  }
+]

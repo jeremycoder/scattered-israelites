@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/עַתָּ֗ה",
+        "phrase": "and now",
+        "literal": "and-now",
+        "source": "H6258; KJV/NIV/ESV: 'now' or 'moreover' (introductory conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁלַ֧חְתִּי",
+        "phrase": "I have sent",
+        "literal": "I-have-sent",
+        "source": "H7971; KJV/ESV/NASB: 'sent' (perfect Qal 1cs verb)"
+      },
+      {
+        "position": 3,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376; KJV/ESV/NASB: 'a wise son' or 'man' (in context with חכם)"
+      },
+      {
+        "position": 4,
+        "surface": "חָכָ֛ם",
+        "phrase": "wise",
+        "literal": "wise",
+        "source": "H2450; KJV/ESV/NASB: 'wise' (adjective)"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹדֵ֥עַ",
+        "phrase": "who knows",
+        "literal": "knowing",
+        "source": "H3045; KJV/ESV/NASB: 'endued with', 'knowledgeable', 'discretion' (participle)"
+      },
+      {
+        "position": 6,
+        "surface": "בִּינָ֖ה",
+        "phrase": "understanding",
+        "literal": "understanding",
+        "source": "H998; KJV/ESV/NASB: 'understanding', 'insight', 'understanding' (noun)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/חוּרָ֥ם",
+        "phrase": "to Huram",
+        "literal": "to-Huram",
+        "source": "H2361; KJV/ESV/NASB: 'Huram' (proper name, dative)"
+      },
+      {
+        "position": 8,
+        "surface": "אָבִֽי",
+        "phrase": "my father",
+        "literal": "father-my",
+        "source": "H1; KJV/ESV/NASB: 'father' (honorific title)"
+      }
+    ]
+  }
+]

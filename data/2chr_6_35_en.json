@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 6,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/שָׁמַעְתָּ֙",
+        "phrase": "and-you-will-hear",
+        "literal": "and-you-hear",
+        "source": "H8085 (KJV: hear thou; ESV: hear; NASB: hear)"
+      },
+      {
+        "position": 2,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שָּׁמַ֔יִם",
+        "phrase": "the-heavens",
+        "literal": "the-heavens",
+        "source": "H8064 (KJV: the heavens; ESV: heaven; NASB: heaven)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 5,
+        "surface": "תְּפִלָּתָ֖/ם",
+        "phrase": "their-prayer",
+        "literal": "prayer-of-them",
+        "source": "H8605 (KJV: their prayer; ESV: their prayer; NASB: their prayer)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV: and their; ESV: and their; NASB: and their)"
+      },
+      {
+        "position": 7,
+        "surface": "תְּחִנָּתָ֑/ם",
+        "phrase": "their-supplication",
+        "literal": "supplication-of-them",
+        "source": "H8467 (KJV: their supplication; ESV: their plea; NASB: their pleading)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/עָשִׂ֖יתָ",
+        "phrase": "and-you-will-do",
+        "literal": "and-you-do",
+        "source": "H6213 (KJV: maintain; ESV: uphold; NASB: maintain)"
+      },
+      {
+        "position": 9,
+        "surface": "מִשְׁפָּטָֽ/ם",
+        "phrase": "their-cause",
+        "literal": "judgment-of-them",
+        "source": "H4941 (KJV: their cause; ESV: their cause; NASB: their cause)"
+      }
+    ]
+  }
+]

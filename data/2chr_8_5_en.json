@@ -1,0 +1,109 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 8,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֜בֶן",
+        "phrase": "And he built",
+        "literal": "and-he-built",
+        "source": "H1129 (KJV: built; ESV: built; NASB: built)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1032 (KJV: Bethhoron; ESV: Beth-horon; NASB: Beth-horon)"
+      },
+      {
+        "position": 4,
+        "surface": "חוֹרוֹן",
+        "phrase": "Horon",
+        "literal": "Horon",
+        "source": "H1032 (KJV: Bethhoron; ESV: Beth-horon; NASB: Beth-horon)"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/עֶלְי֔וֹן",
+        "phrase": "the upper",
+        "literal": "the-upper",
+        "source": "H5945 (KJV: upper; ESV: Upper; NASB: upper)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative-marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1032 (KJV: Bethhoron; ESV: Beth-horon; NASB: Beth-horon)"
+      },
+      {
+        "position": 8,
+        "surface": "חוֹר֖וֹן",
+        "phrase": "Horon",
+        "literal": "Horon",
+        "source": "H1032 (KJV: Bethhoron; ESV: Beth-horon; NASB: Beth-horon)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/תַּחְתּ֑וֹן",
+        "phrase": "the lower",
+        "literal": "the-lower",
+        "source": "H8481 (KJV: nether; ESV: Lower; NASB: lower)"
+      },
+      {
+        "position": 10,
+        "surface": "עָרֵ֣י",
+        "phrase": "cities",
+        "literal": "cities-of",
+        "source": "H5892 (KJV: fenced cities; ESV: fortified cities; NASB: fortified cities)"
+      },
+      {
+        "position": 11,
+        "surface": "מָצ֔וֹר",
+        "phrase": "fortified",
+        "literal": "fortification",
+        "source": "H4692 (KJV: fenced; ESV: fortified; NASB: fortified)"
+      },
+      {
+        "position": 12,
+        "surface": "חוֹמ֖וֹת",
+        "phrase": "walls",
+        "literal": "walls",
+        "source": "H2346 (KJV: walls; ESV: walls; NASB: walls)"
+      },
+      {
+        "position": 13,
+        "surface": "דְּלָתַ֥יִם",
+        "phrase": "gates",
+        "literal": "doors-dual",
+        "source": "H1817 (KJV: gates; ESV: gates; NASB: gates)"
+      },
+      {
+        "position": 14,
+        "surface": "וּ/בְרִֽיחַ",
+        "phrase": "and bars",
+        "literal": "and-bars",
+        "source": "H1280 (KJV: bars; ESV: bars; NASB: bars)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 15,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֵ֞א",
+        "phrase": "And he brought",
+        "literal": "and-he-brought",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "קָדְשֵׁ֥י",
+        "phrase": "the sacred gifts",
+        "literal": "sacred things-of",
+        "source": "H6944 (KJV: things...dedicated; ESV: sacred gifts; NASB: sacred gifts)"
+      },
+      {
+        "position": 4,
+        "surface": "אָבִ֛י/ו",
+        "phrase": "of his father",
+        "literal": "father-his",
+        "source": "H1 (KJV: his father; ESV: his father; NASB: his father)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/קָֽדָשָׁ֖י/ו",
+        "phrase": "and his own sacred gifts",
+        "literal": "and-sacred things-his",
+        "source": "H6942 (KJV: that he himself had dedicated; ESV: his own sacred gifts; NASB: his own sacred gifts)"
+      },
+      {
+        "position": 6,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/אֱלֹהִ֑ים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV: of God; ESV: of God; NASB: of God)"
+      },
+      {
+        "position": 8,
+        "surface": "כֶּ֥סֶף",
+        "phrase": "silver",
+        "literal": "silver",
+        "source": "H3701 (KJV: silver; ESV: silver; NASB: silver)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/זָהָ֖ב",
+        "phrase": "and gold",
+        "literal": "and-gold",
+        "source": "H2091 (KJV: and gold; ESV: and gold; NASB: and gold)"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/כֵלִֽים",
+        "phrase": "and vessels",
+        "literal": "and-vessels",
+        "source": "H3627 (KJV: and vessels; ESV: and vessels; NASB: and utensils)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 21,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעֲל֤וּ",
+        "phrase": "and they went up",
+        "literal": "and-they-went-up",
+        "source": "H5927 (KJV: came up; ESV: came up; NASB: came up)"
+      },
+      {
+        "position": 2,
+        "surface": "בִֽ/יהוּדָה֙",
+        "phrase": "against Judah",
+        "literal": "in/on-Judah",
+        "source": "H3063 (KJV: into Judah; ESV: against Judah; NASB: against Judah)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּבְקָע֔וּ/הָ",
+        "phrase": "and they invaded it",
+        "literal": "and-they-broke-into-it",
+        "source": "H1234 (KJV: brake into it; ESV: invaded it; NASB: invaded it)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּשְׁבּ֗וּ",
+        "phrase": "and they carried away",
+        "literal": "and-they-carried-captive",
+        "source": "H7617 (KJV: carried away; ESV: carried off; NASB: carried off)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵ֤ת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/רְכוּשׁ֙",
+        "phrase": "the possessions",
+        "literal": "the-property",
+        "source": "H7399 (KJV: substance; ESV: possessions; NASB: possessions)"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/נִּמְצָ֣א",
+        "phrase": "that was found",
+        "literal": "the-found",
+        "source": "H4672 (KJV: that was found; ESV: they found; NASB: found)"
+      },
+      {
+        "position": 9,
+        "surface": "לְ/בֵית",
+        "phrase": "in the house of",
+        "literal": "to/for-house-of",
+        "source": "H1004 (KJV: in the king's house; ESV: in the king's house; NASB: in the king's house)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/מֶּ֔לֶךְ",
+        "phrase": "the king",
+        "literal": "the-king",
+        "source": "H4428 (KJV: king's; ESV: king's; NASB: king's)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/גַם",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H1571 (KJV: also; ESV: also; NASB: also)"
+      },
+      {
+        "position": 12,
+        "surface": "בָּנָ֖י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: his sons; ESV: his sons; NASB: his sons)"
+      },
+      {
+        "position": 13,
+        "surface": "וְ/נָשָׁ֑י/ו",
+        "phrase": "and his wives",
+        "literal": "and-wives-his",
+        "source": "H802 (KJV: his wives; ESV: his wives; NASB: his wives)"
+      },
+      {
+        "position": 14,
+        "surface": "וְ/לֹ֤א",
+        "phrase": "and not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: so that there was never; ESV: not; NASB: not)"
+      },
+      {
+        "position": 15,
+        "surface": "נִשְׁאַר",
+        "phrase": "was left",
+        "literal": "was-left-remaining",
+        "source": "H7604 (KJV: left; ESV: was left; NASB: was left)"
+      },
+      {
+        "position": 16,
+        "surface": "ל/וֹ֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": ""
+      },
+      {
+        "position": 17,
+        "surface": "בֵּ֔ן",
+        "phrase": "a son",
+        "literal": "son",
+        "source": "H1121 (KJV: a son; ESV: a son; NASB: a son)"
+      },
+      {
+        "position": 18,
+        "surface": "כִּ֥י",
+        "phrase": "except",
+        "literal": "for",
+        "source": "H3588 (KJV: save; ESV: except; NASB: except)"
+      },
+      {
+        "position": 19,
+        "surface": "אִם",
+        "phrase": "if",
+        "literal": "if",
+        "source": "H518 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 20,
+        "surface": "יְהוֹאָחָ֖ז",
+        "phrase": "Jehoahaz",
+        "literal": "Jehoahaz",
+        "source": "H3059 (KJV: Jehoahaz; ESV: Ahaziah/Jehoahaz; NASB: Jehoahaz)"
+      },
+      {
+        "position": 21,
+        "surface": "קְטֹ֥ן",
+        "phrase": "the youngest",
+        "literal": "young-small",
+        "source": "H6996 (KJV: youngest; ESV: youngest; NASB: youngest)"
+      },
+      {
+        "position": 22,
+        "surface": "בָּנָֽי/ו",
+        "phrase": "of his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: of his sons; ESV: of his sons; NASB: of his sons)"
+      }
+    ]
+  }
+]

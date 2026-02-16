@@ -1,0 +1,193 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 24,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/לֶכְתָּ֣/ם",
+        "phrase": "and-when-they-went",
+        "literal": "and-in-going-their",
+        "source": "H3212 (KJV: 'when they were departed'; ESV: 'when they had departed'; NASB: 'When they had departed')"
+      },
+      {
+        "position": 2,
+        "surface": "מִמֶּ֗/נּוּ",
+        "phrase": "from-him",
+        "literal": "from-him",
+        "source": "H4480 (KJV: 'from him'; ESV: 'from him'; NASB: 'from him')"
+      },
+      {
+        "position": 3,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "that",
+        "source": "H3588 (KJV: 'for'; ESV: 'leaving'; NASB: 'for')"
+      },
+      {
+        "position": 4,
+        "surface": "עָזְב֣וּ",
+        "phrase": "they-had-abandoned",
+        "literal": "they-abandoned",
+        "source": "H5800 (KJV: 'they left'; ESV: 'leaving him severely wounded'; NASB: 'they left')"
+      },
+      {
+        "position": 5,
+        "surface": "אֹת/וֹ֮",
+        "phrase": "him",
+        "literal": "[direct-object]-him",
+        "source": "H853 (KJV: 'him'; ESV: 'him'; NASB: 'him')"
+      },
+      {
+        "position": 6,
+        "surface": "ב/מחליים",
+        "phrase": "in-wounds",
+        "literal": "in-wounds",
+        "source": "H4251 (variant; KJV: 'in great diseases'; ESV: 'severely wounded'; NASB: 'in great distress')"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/מַחֲלוּיִ֣ם",
+        "phrase": "in-diseases",
+        "literal": "in-diseases",
+        "source": "H4251 (KJV: 'in great diseases'; ESV: 'severely wounded'; NASB: 'badly wounded')"
+      },
+      {
+        "position": 8,
+        "surface": "רַבִּים֒",
+        "phrase": "many",
+        "literal": "many",
+        "source": "H7227 (KJV: 'great'; ESV: 'severely'; NASB: 'many')"
+      },
+      {
+        "position": 9,
+        "surface": "הִתְקַשְּׁר֨וּ",
+        "phrase": "conspired",
+        "literal": "they-conspired",
+        "source": "H7194 (KJV: 'conspired'; ESV: 'conspired'; NASB: 'plotted')"
+      },
+      {
+        "position": 10,
+        "surface": "עָלָ֜י/ו",
+        "phrase": "against-him",
+        "literal": "upon-him",
+        "source": "H5921 (KJV: 'against him'; ESV: 'against him'; NASB: 'against him')"
+      },
+      {
+        "position": 11,
+        "surface": "עֲבָדָ֗י/ו",
+        "phrase": "his-servants",
+        "literal": "servants-his",
+        "source": "H5650 (KJV: 'his own servants'; ESV: 'his servants'; NASB: 'his servants')"
+      },
+      {
+        "position": 12,
+        "surface": "בִּ/דְמֵי֙",
+        "phrase": "in-bloods-of",
+        "literal": "in-bloods-of",
+        "source": "H1818 (KJV: 'for the blood'; ESV: 'because of the blood'; NASB: 'because of the blood')"
+      },
+      {
+        "position": 13,
+        "surface": "בְּנֵי֙",
+        "phrase": "sons-of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV: 'son'; NASB: 'sons')"
+      },
+      {
+        "position": 14,
+        "surface": "יְהוֹיָדָ֣ע",
+        "phrase": "Jehoiada",
+        "literal": "Jehoiada",
+        "source": "H3077 (KJV: 'Jehoiada'; ESV: 'Jehoiada'; NASB: 'Jehoiada')"
+      },
+      {
+        "position": 15,
+        "surface": "הַ/כֹּהֵ֔ן",
+        "phrase": "the-priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: 'the priest'; ESV: 'the priest'; NASB: 'the priest')"
+      },
+      {
+        "position": 16,
+        "surface": "וַ/יַּֽהַרְגֻ֥/הוּ",
+        "phrase": "and-they-killed-him",
+        "literal": "and-they-killed-him",
+        "source": "H2026 (KJV: 'slew him'; ESV: 'killed him'; NASB: 'struck him')"
+      },
+      {
+        "position": 17,
+        "surface": "עַל",
+        "phrase": "on",
+        "literal": "upon",
+        "source": "H5921 (KJV: 'on'; ESV: 'on'; NASB: 'on')"
+      },
+      {
+        "position": 18,
+        "surface": "מִטָּת֖/וֹ",
+        "phrase": "his-bed",
+        "literal": "bed-his",
+        "source": "H4296 (KJV: 'his bed'; ESV: 'his bed'; NASB: 'his bed')"
+      },
+      {
+        "position": 19,
+        "surface": "וַ/יָּמֹ֑ת",
+        "phrase": "and-he-died",
+        "literal": "and-he-died",
+        "source": "H4191 (KJV: 'he died'; ESV: 'he died'; NASB: 'he died')"
+      },
+      {
+        "position": 20,
+        "surface": "וַֽ/יִּקְבְּרֻ֨/הוּ֙",
+        "phrase": "and-they-buried-him",
+        "literal": "and-they-buried-him",
+        "source": "H6912 (KJV: 'they buried him'; ESV: 'they buried him'; NASB: 'they buried him')"
+      },
+      {
+        "position": 21,
+        "surface": "בְּ/עִ֣יר",
+        "phrase": "in-city-of",
+        "literal": "in-city-of",
+        "source": "H5892 (KJV: 'in the city'; ESV: 'in the city'; NASB: 'in the city')"
+      },
+      {
+        "position": 22,
+        "surface": "דָּוִ֔יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: 'of David'; ESV: 'of David'; NASB: 'of David')"
+      },
+      {
+        "position": 23,
+        "surface": "וְ/לֹ֥א",
+        "phrase": "and-not",
+        "literal": "and-not",
+        "source": "H3808 (KJV: 'but'; ESV: 'but'; NASB: 'but')"
+      },
+      {
+        "position": 24,
+        "surface": "קְבָרֻ֖/הוּ",
+        "phrase": "they-buried-him",
+        "literal": "they-buried-him",
+        "source": "H6912 (KJV: 'buried him not'; ESV: 'did not bury him'; NASB: 'buried him not')"
+      },
+      {
+        "position": 25,
+        "surface": "בְּ/קִבְר֥וֹת",
+        "phrase": "in-tombs-of",
+        "literal": "in-tombs-of",
+        "source": "H6913 (KJV: 'in the sepulchres'; ESV: 'in the tombs'; NASB: 'in the tombs')"
+      },
+      {
+        "position": 26,
+        "surface": "הַ/מְּלָכִֽים",
+        "phrase": "the-kings",
+        "literal": "the-kings",
+        "source": "H4428 (KJV: 'of the kings'; ESV: 'of the kings'; NASB: 'of the kings')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 20,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אִם",
+        "phrase": "If",
+        "literal": "if",
+        "source": "H518 (KJV: If; ESV: If; NASB: If)"
+      },
+      {
+        "position": 2,
+        "surface": "תָּב֨וֹא",
+        "phrase": "comes",
+        "literal": "comes",
+        "source": "H935 (KJV: cometh; ESV: comes; NASB: comes)"
+      },
+      {
+        "position": 3,
+        "surface": "עָלֵ֜י/נוּ",
+        "phrase": "upon-us",
+        "literal": "upon-us",
+        "source": "H5921 (KJV: upon us; ESV: upon us; NASB: upon us)"
+      },
+      {
+        "position": 4,
+        "surface": "רָעָ֗ה",
+        "phrase": "disaster",
+        "literal": "evil",
+        "source": "H7451 (KJV: evil; ESV: disaster; NASB: calamity)"
+      },
+      {
+        "position": 5,
+        "surface": "חֶרֶב֮",
+        "phrase": "sword",
+        "literal": "sword",
+        "source": "H2719 (KJV: sword; ESV: sword; NASB: sword)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁפוֹט֮",
+        "phrase": "judgment",
+        "literal": "judgment",
+        "source": "H8196 (KJV: judgment; ESV: judgment; NASB: judgment)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/דֶ֣בֶר",
+        "phrase": "or-pestilence",
+        "literal": "and-pestilence",
+        "source": "H1698 (KJV: pestilence; ESV: pestilence; NASB: plague)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/רָעָב֒",
+        "phrase": "or-famine",
+        "literal": "and-famine",
+        "source": "H7458? (KJV: famine; ESV: famine; NASB: famine) [note: Strong's likely H7458]"
+      },
+      {
+        "position": 9,
+        "surface": "נַֽעַמְדָ֞ה",
+        "phrase": "we-will-stand",
+        "literal": "we-stand",
+        "source": "H5975 (KJV: we stand; ESV: we will stand; NASB: we will stand)"
+      },
+      {
+        "position": 10,
+        "surface": "לִ/פְנֵ֨י",
+        "phrase": "before",
+        "literal": "to-before",
+        "source": "H6440 (KJV: before; ESV: before; NASB: before)"
+      },
+      {
+        "position": 11,
+        "surface": "הַ/בַּ֤יִת",
+        "phrase": "the-house",
+        "literal": "the-house",
+        "source": "H1004 (KJV: this house; ESV: this house; NASB: this temple)"
+      },
+      {
+        "position": 12,
+        "surface": "הַ/זֶּה֙",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 13,
+        "surface": "וּ/לְ/פָנֶ֔י/ךָ",
+        "phrase": "and-before-you",
+        "literal": "and-to-before-you",
+        "source": "H6440 (KJV: in thy presence; ESV: before you; NASB: in your presence)"
+      },
+      {
+        "position": 14,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 15,
+        "surface": "שִׁמְ/ךָ֖",
+        "phrase": "your-name",
+        "literal": "name-your",
+        "source": "H8034 (KJV: thy name; ESV: your name; NASB: Your Name)"
+      },
+      {
+        "position": 16,
+        "surface": "בַּ/בַּ֣יִת",
+        "phrase": "in-the-house",
+        "literal": "in-the-house",
+        "source": "H1004 (KJV: in this house; ESV: in this house; NASB: in this temple)"
+      },
+      {
+        "position": 17,
+        "surface": "הַ/זֶּ֑ה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      },
+      {
+        "position": 18,
+        "surface": "וְ/נִזְעַ֥ק",
+        "phrase": "and-we-will-cry-out",
+        "literal": "and-we-cry-out",
+        "source": "H2199 (KJV: cry; ESV: cry out; NASB: cry out)"
+      },
+      {
+        "position": 19,
+        "surface": "אֵלֶ֛י/ךָ",
+        "phrase": "to-you",
+        "literal": "to-you",
+        "source": "H413 (KJV: unto thee; ESV: to you; NASB: to you)"
+      },
+      {
+        "position": 20,
+        "surface": "מִ/צָּרָתֵ֖/נוּ",
+        "phrase": "from-our-affliction",
+        "literal": "from-distress-our",
+        "source": "H6869 (KJV: in our affliction; ESV: in our affliction; NASB: in our distress)"
+      },
+      {
+        "position": 21,
+        "surface": "וְ/תִשְׁמַ֥ע",
+        "phrase": "and-you-will-hear",
+        "literal": "and-you-hear",
+        "source": "H8085 (KJV: thou wilt hear; ESV: you will hear; NASB: You will hear)"
+      },
+      {
+        "position": 22,
+        "surface": "וְ/תוֹשִֽׁעַ",
+        "phrase": "and-you-will-save",
+        "literal": "and-you-save",
+        "source": "H3467 (KJV: help; ESV: save; NASB: save)"
+      }
+    ]
+  }
+]

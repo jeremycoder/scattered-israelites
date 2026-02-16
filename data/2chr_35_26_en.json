@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 35,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יֶ֛תֶר",
+        "phrase": "And the rest",
+        "literal": "and-remainder",
+        "source": "H3499; KJV/ESV/NASB: 'rest' or 'remainder' of acts"
+      },
+      {
+        "position": 2,
+        "surface": "דִּבְרֵ֥י",
+        "phrase": "of the words",
+        "literal": "words-of",
+        "source": "H1697; KJV/ESV/NASB: 'acts' or 'words' or 'deeds'"
+      },
+      {
+        "position": 3,
+        "surface": "יֹאשִׁיָּ֖הוּ",
+        "phrase": "of Josiah",
+        "literal": "Josiah",
+        "source": "H2977; KJV/ESV/NASB: 'Josiah'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/חֲסָדָ֑י/ו",
+        "phrase": "and his kindnesses",
+        "literal": "and-kindnesses-his",
+        "source": "H2617; KJV: 'goodness', ESV/NASB: 'faithful deeds' or 'acts of faithfulness'"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/כָּת֖וּב",
+        "phrase": "as they are written",
+        "literal": "as-written",
+        "source": "H3789; KJV/ESV/NASB: 'as it is written'"
+      },
+      {
+        "position": 6,
+        "surface": "בְּ/תוֹרַ֥ת",
+        "phrase": "in the law",
+        "literal": "in-law-of",
+        "source": "H8451; KJV/ESV/NASB: 'in the law'"
+      },
+      {
+        "position": 7,
+        "surface": "יְהוָֽה",
+        "phrase": "of YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      }
+    ]
+  }
+]

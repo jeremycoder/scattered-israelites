@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/בַּ֛יִת",
+        "phrase": "and-the-house",
+        "literal": "and-the-house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲנִ֥י",
+        "phrase": "I",
+        "literal": "I",
+        "source": "H589 (KJV: I; ESV: I; NASB: I)"
+      },
+      {
+        "position": 4,
+        "surface": "בוֹנֶ֖ה",
+        "phrase": "am-building",
+        "literal": "building",
+        "source": "H1129 (KJV: build; ESV: build; NASB: build)"
+      },
+      {
+        "position": 5,
+        "surface": "גָּד֑וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּֽי",
+        "phrase": "for",
+        "literal": "for",
+        "source": "H3588 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 7,
+        "surface": "גָד֥וֹל",
+        "phrase": "great",
+        "literal": "great",
+        "source": "H1419 (KJV: LORD; ESV: Lord; NASB: Lord)"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהֵ֖י/נוּ",
+        "phrase": "God-our",
+        "literal": "gods-our",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 9,
+        "surface": "מִ/כָּל",
+        "phrase": "above-all",
+        "literal": "from-all",
+        "source": "H3605 (KJV: of; ESV: than all the; NASB: above all)"
+      },
+      {
+        "position": 10,
+        "surface": "הָ/אֱלֹהִֽים",
+        "phrase": "the-gods",
+        "literal": "the-gods",
+        "source": "H430 (KJV: gods; ESV: gods; NASB: gods)"
+      }
+    ]
+  }
+]

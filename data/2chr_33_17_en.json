@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 33,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲבָל֙",
+        "phrase": "Nevertheless",
+        "literal": "but",
+        "source": "H61: KJV 'Nevertheless', ESV 'Nevertheless', NASB 'Nevertheless'"
+      },
+      {
+        "position": 2,
+        "surface": "ע֣וֹד",
+        "phrase": "still",
+        "literal": "still",
+        "source": "H5750: KJV 'still', ESV 'still', NASB 'still'"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/עָ֔ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971: KJV 'the people', ESV 'the people', NASB 'the people'"
+      },
+      {
+        "position": 4,
+        "surface": "זֹבְחִ֖ים",
+        "phrase": "sacrificed",
+        "literal": "sacrificing",
+        "source": "H2076: KJV 'did sacrifice', ESV 'sacrificed', NASB 'were sacrificing'"
+      },
+      {
+        "position": 5,
+        "surface": "בַּ/בָּמ֑וֹת",
+        "phrase": "in the high places",
+        "literal": "in-the-high.places",
+        "source": "H1116: KJV 'in the high places', ESV 'at the high places', NASB 'in the high places'"
+      },
+      {
+        "position": 6,
+        "surface": "רַ֖ק",
+        "phrase": "only",
+        "literal": "only",
+        "source": "H7535: KJV 'only', ESV 'although only', NASB 'but only'"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/יהוָ֥ה",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068: KJV 'to the LORD', ESV 'to the LORD', NASB 'to the LORD'"
+      },
+      {
+        "position": 8,
+        "surface": "אֱלֹהֵי/הֶֽם",
+        "phrase": "their God",
+        "literal": "gods-of.them",
+        "source": "H430: KJV 'their God', ESV 'their God', NASB 'their God'"
+      }
+    ]
+  }
+]

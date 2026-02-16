@@ -1,0 +1,53 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 29,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּֽעַמְד֤וּ",
+        "phrase": "and they stood",
+        "literal": "and-they-stood",
+        "source": "H5975; KJV/ESV/NASB: 'stood'/'stood'/'stood' (Qal wayyiqtol 3mp)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/לְוִיִּים֙",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881; KJV/ESV/NASB: 'Levites'/'Levites'/'Levites' (definite gentive plural)"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/כְלֵ֣י",
+        "phrase": "with instruments",
+        "literal": "in-with-vessels-of",
+        "source": "H3627; KJV/ESV/NASB: 'instruments'/'instruments'/'instruments' (preposition b- + construct kle)"
+      },
+      {
+        "position": 4,
+        "surface": "דָוִ֔יד",
+        "phrase": "of David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB: 'David'/'David'/'David' (proper noun)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/כֹּהֲנִ֖ים",
+        "phrase": "and the priests",
+        "literal": "and-the-priests",
+        "source": "H3548; KJV/ESV/NASB: 'priests'/'priests'/'priests' (waw + def. absolute plural)"
+      },
+      {
+        "position": 6,
+        "surface": "בַּ/חֲצֹצְרֽוֹת",
+        "phrase": "with the trumpets",
+        "literal": "in-the-trumpets",
+        "source": "H2689; KJV/ESV/NASB: 'trumpets'/'trumpets'/'trumpets' (b- + def. plural)"
+      }
+    ]
+  }
+]

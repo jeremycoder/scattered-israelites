@@ -1,0 +1,74 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 4,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: moreover; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מְּנֹר֞וֹת",
+        "phrase": "lampstands",
+        "literal": "the-lampstands",
+        "source": "H4501 (KJV: candlesticks; ESV: lampstands; NASB: lampstands)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/נֵרֹתֵי/הֶ֗ם",
+        "phrase": "and their lamps",
+        "literal": "and-lamps-of-them",
+        "source": "H5216 (KJV: their lamps; ESV: their lamps; NASB: their lamps)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/בַעֲרָ֧/ם",
+        "phrase": "to burn them",
+        "literal": "to-burn-them",
+        "source": "H1197 (KJV: that they should burn; ESV: to burn; NASB: to burn)"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/מִּשְׁפָּ֛ט",
+        "phrase": "according to the ordinance",
+        "literal": "as-the-judgment",
+        "source": "H4941 (KJV: after the manner; ESV: as prescribed; NASB: in the way prescribed)"
+      },
+      {
+        "position": 6,
+        "surface": "לִ/פְנֵ֥י",
+        "phrase": "before",
+        "literal": "to-face-of",
+        "source": "H6440 (KJV: before; ESV: before; NASB: in front of)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/דְּבִ֖יר",
+        "phrase": "the inner sanctuary",
+        "literal": "the-inner-sanctuary",
+        "source": "H1687 (KJV: the oracle; ESV: the inner sanctuary; NASB: the inner sanctuary)"
+      },
+      {
+        "position": 8,
+        "surface": "זָהָ֥ב",
+        "phrase": "gold",
+        "literal": "gold",
+        "source": "H2091 (KJV: gold; ESV: pure gold; NASB: pure gold)"
+      },
+      {
+        "position": 9,
+        "surface": "סָגֽוּר",
+        "phrase": "refined",
+        "literal": "refined",
+        "source": "H5462 (KJV: pure; ESV: pure; NASB: pure)"
+      }
+    ]
+  }
+]

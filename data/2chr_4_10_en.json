@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 4,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-OBJ",
+        "source": "H853; KJV: (implied in 'the sea'), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יָּ֗ם",
+        "phrase": "Sea",
+        "literal": "the-sea",
+        "source": "H3220; KJV: 'sea', ESV: 'sea', NASB: 'sea'"
+      },
+      {
+        "position": 3,
+        "surface": "נָתַ֞ן",
+        "phrase": "he set",
+        "literal": "he-gave/placed",
+        "source": "H5414; KJV: 'he set', ESV: 'he set', NASB: 'He set'"
+      },
+      {
+        "position": 4,
+        "surface": "מִ/כֶּ֧תֶף",
+        "phrase": "on the side",
+        "literal": "from-shoulder",
+        "source": "H3802; KJV: 'on the right side', ESV: (implied in 'southeast'), NASB: 'on the right side'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/יְמָנִ֛ית",
+        "phrase": "right",
+        "literal": "the-right",
+        "source": "H3233; KJV: 'right', ESV: (implied), NASB: 'right'"
+      },
+      {
+        "position": 6,
+        "surface": "קֵ֖דְמָ/ה",
+        "phrase": "toward the east",
+        "literal": "eastward",
+        "source": "H6924; KJV: 'east end', ESV: 'east', NASB: 'toward the southeast'"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/מּ֥וּל",
+        "phrase": "facing",
+        "literal": "from-opposite",
+        "source": "H4136; KJV: 'over against', ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 8,
+        "surface": "נֶֽגְבָּ/ה",
+        "phrase": "the south",
+        "literal": "southward",
+        "source": "H5045; KJV: 'south', ESV: 'south', NASB: 'south'"
+      }
+    ]
+  }
+]

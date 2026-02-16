@@ -1,0 +1,81 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 6,
+    "verse": 42,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: O LORD; ESV: O Lord; NASB: O Lord)"
+      },
+      {
+        "position": 2,
+        "surface": "אֱלֹהִ֔ים",
+        "phrase": "God",
+        "literal": "God",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 3,
+        "surface": "אַל",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H408 (KJV: not; ESV: do not; NASB: do not)"
+      },
+      {
+        "position": 4,
+        "surface": "תָּשֵׁ֖ב",
+        "phrase": "turn away",
+        "literal": "cause-to-return",
+        "source": "H7725 (KJV: turn ... away; ESV: turn away; NASB: turn away)"
+      },
+      {
+        "position": 5,
+        "surface": "פְּנֵ֣י",
+        "phrase": "the face of",
+        "literal": "face-of",
+        "source": "H6440 (KJV: the face; ESV: the face; NASB: the face)"
+      },
+      {
+        "position": 6,
+        "surface": "מְשִׁיחֶ֑י/ךָ",
+        "phrase": "your anointed",
+        "literal": "anointed-your",
+        "source": "H4899 (KJV: thine anointed; ESV: your anointed; NASB: Your anointed)"
+      },
+      {
+        "position": 7,
+        "surface": "זָכְרָ֕/ה",
+        "phrase": "remember",
+        "literal": "remember-her/it",
+        "source": "H2142 (KJV: remember; ESV: Remember; NASB: remember)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/חַֽסְדֵ֖י",
+        "phrase": "the mercies of",
+        "literal": "to-mercies-of",
+        "source": "H2617 (KJV: the mercies; ESV: your steadfast love; NASB: Your lovingkindness)"
+      },
+      {
+        "position": 9,
+        "surface": "דָּוִ֥יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 10,
+        "surface": "עַבְדֶּֽ/ךָ",
+        "phrase": "your servant",
+        "literal": "servant-your",
+        "source": "H5650 (KJV: thy servant; ESV: your servant; NASB: Your servant)"
+      }
+    ]
+  }
+]

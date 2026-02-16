@@ -1,0 +1,207 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 34,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֜אוּ",
+        "phrase": "and they came",
+        "literal": "and-they-came",
+        "source": "H935 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 3,
+        "surface": "חִלְקִיָּ֣הוּ",
+        "phrase": "Hilkiah",
+        "literal": "Hilkiah",
+        "source": "H2518 (KJV: Hilkiah; ESV: Hilkiah; NASB: Hilkiah)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/כֹּהֵ֣ן",
+        "phrase": "the priest",
+        "literal": "the-priest",
+        "source": "H3548 (KJV: priest; ESV: priest; NASB: priest)"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/גָּד֗וֹל",
+        "phrase": "the great",
+        "literal": "the-great",
+        "source": "H1419 (KJV: high; ESV: high; NASB: high)"
+      },
+      {
+        "position": 6,
+        "surface": "וַֽ/יִּתְּנוּ֮",
+        "phrase": "and they gave",
+        "literal": "and-they-gave",
+        "source": "H5414 (KJV: delivered; ESV: gave; NASB: delivered)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/כֶּסֶף֮",
+        "phrase": "the silver",
+        "literal": "the-silver",
+        "source": "H3701 (KJV: money; ESV: money; NASB: money)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/מּוּבָ֣א",
+        "phrase": "the brought",
+        "literal": "the-brought",
+        "source": "H935 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 10,
+        "surface": "בֵית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004 (KJV: house; ESV: house; NASB: house)"
+      },
+      {
+        "position": 11,
+        "surface": "אֱלֹהִים֒",
+        "phrase": "of God",
+        "literal": "of-God",
+        "source": "H430 (KJV: God's; ESV: God; NASB: God)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲשֶׁ֣ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 13,
+        "surface": "אָסְפֽוּ",
+        "phrase": "they gathered",
+        "literal": "they-gathered",
+        "source": "H622 (KJV: gathered; ESV: collected; NASB: collected)"
+      },
+      {
+        "position": 14,
+        "surface": "הַ/לְוִיִּם֩",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      },
+      {
+        "position": 15,
+        "surface": "שֹׁמְרֵ֨י",
+        "phrase": "keepers",
+        "literal": "keepers",
+        "source": "H8104 (KJV: kept; ESV: keepers; NASB: doorkeepers)"
+      },
+      {
+        "position": 16,
+        "surface": "הַ/סַּ֜ף",
+        "phrase": "of the threshold",
+        "literal": "of-the-threshold",
+        "source": "H5592 (KJV: doors; ESV: threshold; NASB: threshold)"
+      },
+      {
+        "position": 17,
+        "surface": "מִ/יַּ֧ד",
+        "phrase": "from hand",
+        "literal": "from-hand",
+        "source": "H3027 (KJV: of the hand; ESV: from; NASB: from)"
+      },
+      {
+        "position": 18,
+        "surface": "מְנַשֶּׁ֣ה",
+        "phrase": "Manasseh",
+        "literal": "Manasseh",
+        "source": "H4519 (KJV: Manasseh; ESV: Manasseh; NASB: Manasseh)"
+      },
+      {
+        "position": 19,
+        "surface": "וְ/אֶפְרַ֗יִם",
+        "phrase": "and Ephraim",
+        "literal": "and-Ephraim",
+        "source": "H669 (KJV: Ephraim; ESV: Ephraim; NASB: Ephraim)"
+      },
+      {
+        "position": 20,
+        "surface": "וּ/מִ/כֹּל֙",
+        "phrase": "and from all",
+        "literal": "and-from-all",
+        "source": "H3605 (KJV: of all; ESV: from all; NASB: from all)"
+      },
+      {
+        "position": 21,
+        "surface": "שְׁאֵרִ֣ית",
+        "phrase": "remnant",
+        "literal": "remnant",
+        "source": "H7611 (KJV: remnant; ESV: remnant; NASB: remnant)"
+      },
+      {
+        "position": 22,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 23,
+        "surface": "וּ/מִ/כָּל",
+        "phrase": "and from all",
+        "literal": "and-from-all",
+        "source": "H3605 (KJV: of all; ESV: from all; NASB: from all)"
+      },
+      {
+        "position": 24,
+        "surface": "יְהוּדָ֖ה",
+        "phrase": "Judah",
+        "literal": "Judah",
+        "source": "H3063 (KJV: Judah; ESV: Judah; NASB: Judah)"
+      },
+      {
+        "position": 25,
+        "surface": "וּ/בִנְיָמִ֑ן",
+        "phrase": "and Benjamin",
+        "literal": "and-Benjamin",
+        "source": "H1144 (KJV: Benjamin; ESV: Benjamin; NASB: Benjamin)"
+      },
+      {
+        "position": 26,
+        "surface": "ו/ישבי",
+        "phrase": "and inhabitants",
+        "literal": "and-inhabitants",
+        "source": "H3427 (KJV: [implied in returned]; ESV: inhabitants; NASB: inhabitants)"
+      },
+      {
+        "position": 27,
+        "surface": "וַ/יָּשֻׁ֖בוּ",
+        "phrase": "and they returned",
+        "literal": "and-they-returned",
+        "source": "H7725 (KJV: returned; ESV: returned; NASB: returned)"
+      },
+      {
+        "position": 28,
+        "surface": "יְרֽוּשָׁלִָֽם",
+        "phrase": "to Jerusalem",
+        "literal": "to-Jerusalem",
+        "source": "H3389 (KJV: Jerusalem; ESV: Jerusalem; NASB: Jerusalem)"
+      }
+    ]
+  }
+]

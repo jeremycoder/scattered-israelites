@@ -1,0 +1,60 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 30,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֤ע",
+        "phrase": "and-he-heard",
+        "literal": "and-he-heard",
+        "source": "H8085 (KJV: hearkened; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the Lord; NASB: the LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: to; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יְחִזְקִיָּ֔הוּ",
+        "phrase": "Hezekiah",
+        "literal": "Hezekiah-him",
+        "source": "H2396 (KJV: Hezekiah; ESV: Hezekiah; NASB: Hezekiah)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יִּרְפָּ֖א",
+        "phrase": "and-he-healed",
+        "literal": "and-he-healed",
+        "source": "H7495 (KJV: healed; ESV: healed; NASB: healed)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הָ/עָֽם",
+        "phrase": "the-people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 2,
+        "surface": "אִשָּׁ֞ה",
+        "phrase": "of a woman",
+        "literal": "woman",
+        "source": "H802 (KJV: woman; ESV: woman; NASB: woman)"
+      },
+      {
+        "position": 3,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: of)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנ֣וֹת",
+        "phrase": "the daughters",
+        "literal": "daughters-of",
+        "source": "H1323 (KJV: daughters; ESV: daughters; NASB: daughters)"
+      },
+      {
+        "position": 5,
+        "surface": "דָּ֗ן",
+        "phrase": "of Dan",
+        "literal": "Dan",
+        "source": "H1835 (KJV: Dan; ESV: Dan; NASB: Dan)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָבִ֣י/ו",
+        "phrase": "and his father",
+        "literal": "and-father-his",
+        "source": "H1 (KJV: and his father; ESV: and his father; NASB: and his father)"
+      },
+      {
+        "position": 7,
+        "surface": "אִישׁ",
+        "phrase": "a man",
+        "literal": "man",
+        "source": "H376 (KJV: man; ESV: man; NASB: man)"
+      },
+      {
+        "position": 8,
+        "surface": "צֹרִ֡י",
+        "phrase": "Tyrian",
+        "literal": "Tyrian",
+        "source": "H6876 (KJV: of Tyre; ESV: of Tyre; NASB: of Tyre)"
+      },
+      {
+        "position": 9,
+        "surface": "יוֹדֵ֡עַ",
+        "phrase": "who knows",
+        "literal": "knowing",
+        "source": "H3045 (KJV: cunning; ESV: skilled; NASB: skilled)"
+      },
+      {
+        "position": 10,
+        "surface": "לַ/עֲשׂ֣וֹת",
+        "phrase": "to work",
+        "literal": "to-do",
+        "source": "H6213 (KJV: endued; ESV: endowed; NASB: endowed)"
+      },
+      {
+        "position": 11,
+        "surface": "בַּ/זָּֽהָב",
+        "phrase": "in gold",
+        "literal": "in-the-gold",
+        "source": "H2091 (KJV: gold; ESV: gold; NASB: gold)"
+      },
+      {
+        "position": 12,
+        "surface": "וּ֠/בַ/כֶּסֶף",
+        "phrase": "and in silver",
+        "literal": "and-in-the-silver",
+        "source": "H3701 (KJV: silver; ESV: silver; NASB: silver)"
+      },
+      {
+        "position": 13,
+        "surface": "בַּ/נְּחֹ֨שֶׁת",
+        "phrase": "in bronze",
+        "literal": "in-the-bronze",
+        "source": "H5178 (KJV: brass; ESV: bronze; NASB: bronze)"
+      },
+      {
+        "position": 14,
+        "surface": "בַּ/בַּרְזֶ֜ל",
+        "phrase": "in iron",
+        "literal": "in-the-iron",
+        "source": "H1270 (KJV: iron; ESV: iron; NASB: iron)"
+      },
+      {
+        "position": 15,
+        "surface": "בָּ/אֲבָנִ֣ים",
+        "phrase": "in stones",
+        "literal": "in-the-stones",
+        "source": "H68 (KJV: stones; ESV: stone; NASB: stone)"
+      },
+      {
+        "position": 16,
+        "surface": "וּ/בָ/עֵצִ֗ים",
+        "phrase": "and in woods",
+        "literal": "and-in-the-woods",
+        "source": "H6086 (KJV: timber; ESV: wood; NASB: wood)"
+      },
+      {
+        "position": 17,
+        "surface": "בָּ/אַרְגָּמָ֤ן",
+        "phrase": "in purple",
+        "literal": "in-the-purple",
+        "source": "H713 (KJV: purple; ESV: purple; NASB: purple)"
+      },
+      {
+        "position": 18,
+        "surface": "בַּ/תְּכֵ֨לֶת֙",
+        "phrase": "in blue",
+        "literal": "in-the-blue",
+        "source": "H8504 (KJV: blue; ESV: blue; NASB: blue)"
+      },
+      {
+        "position": 19,
+        "surface": "וּ/בַ/בּ֣וּץ",
+        "phrase": "and in fine linen",
+        "literal": "and-in-the-fine-linen",
+        "source": "H948 (KJV: fine linen; ESV: fine linen; NASB: fine linen)"
+      },
+      {
+        "position": 20,
+        "surface": "וּ/בַ/כַּרְמִ֔יל",
+        "phrase": "and in crimson",
+        "literal": "and-in-the-crimson",
+        "source": "H3758 (KJV: crimson; ESV: crimson; NASB: crimson)"
+      },
+      {
+        "position": 21,
+        "surface": "וּ/לְ/פַתֵּ֨חַ֙",
+        "phrase": "and to engrave",
+        "literal": "and-to-engrave",
+        "source": "H6605 (KJV: graving; ESV: engraving; NASB: engraving)"
+      },
+      {
+        "position": 22,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 23,
+        "surface": "פִּתּ֔וּחַ",
+        "phrase": "engraving",
+        "literal": "engraving",
+        "source": "H6603 (KJV: engraving; ESV: engravings; NASB: engravings)"
+      },
+      {
+        "position": 24,
+        "surface": "וְ/לַ/חְשֹׁ֖ב",
+        "phrase": "and to devise",
+        "literal": "and-to-devise",
+        "source": "H2803 (KJV: execute; ESV: devise; NASB: devise)"
+      },
+      {
+        "position": 25,
+        "surface": "כָּל",
+        "phrase": "every",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: every; NASB: every)"
+      },
+      {
+        "position": 26,
+        "surface": "מַחֲשָׁ֑בֶת",
+        "phrase": "design",
+        "literal": "design",
+        "source": "H4284 (KJV: curious works; ESV: device; NASB: plan)"
+      },
+      {
+        "position": 27,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: whatsoever; ESV: whatever; NASB: whatever)"
+      },
+      {
+        "position": 28,
+        "surface": "יִנָּֽתֶן",
+        "phrase": "is given",
+        "literal": "is-given",
+        "source": "H5414 (KJV: given; ESV: given; NASB: given)"
+      },
+      {
+        "position": 29,
+        "surface": "ל/וֹ֙",
+        "phrase": "to him",
+        "literal": "to-him",
+        "source": " (KJV: him; ESV: him; NASB: him)"
+      },
+      {
+        "position": 30,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (KJV: with; ESV: with; NASB: with)"
+      },
+      {
+        "position": 31,
+        "surface": "חֲכָמֶ֔י/ךָ",
+        "phrase": "your wise men",
+        "literal": "wise-men-your",
+        "source": "H2450 (KJV: wise; ESV: wise; NASB: wise)"
+      },
+      {
+        "position": 32,
+        "surface": "וְֽ/חַכְמֵ֔י",
+        "phrase": "and the wise men",
+        "literal": "and-wise-men",
+        "source": "H2450 (KJV: wise; ESV: wise; NASB: wise)"
+      },
+      {
+        "position": 33,
+        "surface": "אֲדֹנִ֖/י",
+        "phrase": "of my lord",
+        "literal": "lord-my",
+        "source": "H113 (KJV: my lord; ESV: my lord; NASB: my lord)"
+      },
+      {
+        "position": 34,
+        "surface": "דָּוִ֥יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 35,
+        "surface": "אָבִֽי/ךָ",
+        "phrase": "your father",
+        "literal": "father-your",
+        "source": "H1 (KJV: father; ESV: father; NASB: father)"
+      }
+    ]
+  }
+]

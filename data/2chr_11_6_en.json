@@ -1,0 +1,67 @@
+[
+  {
+    "book": "2 Chronicles",
+    "chapter": 11,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּ֧בֶן",
+        "phrase": "and he built",
+        "literal": "and-he-built",
+        "source": "H1129; KJV: built, ESV: built, NASB: built"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "בֵּֽית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1035; KJV: Beth-lehem, ESV: Bethlehem, NASB: Bethlehem"
+      },
+      {
+        "position": 4,
+        "surface": "לֶ֛חֶם",
+        "phrase": "lehem",
+        "literal": "bread",
+        "source": "H1035; KJV: Beth-lehem, ESV: Bethlehem, NASB: Bethlehem"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV: and, ESV: and, NASB: and"
+      },
+      {
+        "position": 6,
+        "surface": "עֵיטָ֖ם",
+        "phrase": "Etam",
+        "literal": "Etam",
+        "source": "H5862; KJV: Etam, ESV: Etam, NASB: Etam"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853; KJV: and, ESV: and, NASB: and"
+      },
+      {
+        "position": 8,
+        "surface": "תְּקֽוֹעַ",
+        "phrase": "Tekoa",
+        "literal": "Tekoa",
+        "source": "H8620; KJV: Tekoa, ESV: Tekoa, NASB: Tekoa"
+      }
+    ]
+  }
+]
