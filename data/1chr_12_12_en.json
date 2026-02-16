@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עַתַּי֙",
+        "phrase": "Attai",
+        "literal": "Attai",
+        "source": "H6262; KJV: Attai; ESV: Attai; NASB: Attai"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שִּׁשִּׁ֔י",
+        "phrase": "the sixth",
+        "literal": "the-sixth",
+        "source": "H8345; KJV: the sixth; ESV: the sixth; NASB: the sixth"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִיאֵ֖ל",
+        "phrase": "Eliel",
+        "literal": "Eliel",
+        "source": "H447; KJV: Eliel; ESV: Eliel; NASB: Eliel"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁבִעִֽי",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637; KJV: the seventh; ESV: the seventh; NASB: the seventh"
+      }
+    ]
+  }
+]

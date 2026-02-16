@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּ֥לֶךְ",
+        "phrase": "And David went",
+        "literal": "and-he-went",
+        "source": "H3212; KJV: So David waxed, ESV: David became, NASB: David became"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֖יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV: David, ESV: David, NASB: David"
+      },
+      {
+        "position": 3,
+        "surface": "הָל֣וֹךְ",
+        "phrase": "going",
+        "literal": "going",
+        "source": "H1980; KJV: greater, ESV: greater, NASB: greater"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/גָד֑וֹל",
+        "phrase": "and greater",
+        "literal": "and-great",
+        "source": "H1419; KJV: and greater, ESV: and greater, NASB: and greater"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יהוָ֥ה",
+        "phrase": "and YHWH",
+        "literal": "and-YHWH",
+        "source": "H3068; KJV: the LORD, ESV: the Lord, NASB: the LORD"
+      },
+      {
+        "position": 6,
+        "surface": "צְבָא֖וֹת",
+        "phrase": "of hosts",
+        "literal": "hosts-his",
+        "source": "H6635; KJV: of hosts, ESV: of hosts, NASB: of hosts"
+      },
+      {
+        "position": 7,
+        "surface": "עִמּֽ/וֹ",
+        "phrase": "with him",
+        "literal": "with-him",
+        "source": "H5973; KJV: was with him, ESV: was with him, NASB: was with him"
+      }
+    ]
+  }
+]

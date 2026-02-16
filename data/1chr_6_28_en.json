@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121: KJV 'the first begotten', ESV 'Joel his firstborn', NASB 'Joel his firstborn'"
+      },
+      {
+        "position": 2,
+        "surface": "יַ֥חַת",
+        "phrase": "Jahat",
+        "literal": "Jahat",
+        "source": "H3189: Proper name; KJV/ESV/NASB do not have this word (textual variant for 'Vashni' or 'second')"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121: KJV 'and', ESV 'and', NASB 'and'"
+      },
+      {
+        "position": 4,
+        "surface": "גֵּרְשֹׁ֖ם",
+        "phrase": "Gershom",
+        "literal": "Gershom",
+        "source": "H1647: KJV/ESV/NASB 'Gershom'"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121: KJV/ESV/NASB 'Samuel' (understood as 'sons of Samuel')"
+      },
+      {
+        "position": 6,
+        "surface": "לֵוִֽי",
+        "phrase": "Levi",
+        "literal": "Levi",
+        "source": "H3878: KJV/ESV/NASB 'Samuel' (as descendant of Levi)"
+      }
+    ]
+  }
+]

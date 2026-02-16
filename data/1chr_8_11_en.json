@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מֵ/חֻשִׁ֛ים",
+        "phrase": "by Hushim",
+        "literal": "and-from-Hushim",
+        "source": "H2366 (KJV: of Hushim; ESV: by Hushim; NASB: by Hushim)"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "he begat",
+        "literal": "he-begat",
+        "source": "H3205 (KJV: begat; ESV: he became the father of; NASB: he became the father of)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִיט֖וּב",
+        "phrase": "Abitub",
+        "literal": "Abitub",
+        "source": "H36 (KJV: Abitub; ESV: Abitub; NASB: Abitub)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "אֶלְפָּֽעַל",
+        "phrase": "Elpaal",
+        "literal": "Elpaal",
+        "source": "H508 (KJV: Elpaal; ESV: Elpaal; NASB: Elpaal)"
+      }
+    ]
+  }
+]

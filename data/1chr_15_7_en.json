@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 15,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/בְנֵ֖י",
+        "phrase": "of the sons of",
+        "literal": "to-sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "גֵּרְשׁ֑וֹם",
+        "phrase": "Gershom",
+        "literal": "Gershom",
+        "source": "H1648 (KJV: Gershom; ESV: Gershom; NASB: Gershom)"
+      },
+      {
+        "position": 3,
+        "surface": "יוֹאֵ֣ל",
+        "phrase": "Joel",
+        "literal": "Joel",
+        "source": "H3100 (KJV: Joel; ESV: Joel; NASB: Joel)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׂ֔ר",
+        "phrase": "the chief",
+        "literal": "the-prince",
+        "source": "H8269 (KJV: chief; ESV: chief; NASB: chief)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV: brethren; ESV: brothers; NASB: relatives)"
+      },
+      {
+        "position": 6,
+        "surface": "מֵאָ֥ה",
+        "phrase": "a hundred",
+        "literal": "from-hundred",
+        "source": "H3967 (KJV: hundred; ESV: 130; NASB: 130)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/שְׁלֹשִֽׁים",
+        "phrase": "and thirty",
+        "literal": "and-thirty",
+        "source": "H7970 (KJV: thirty; ESV: 130; NASB: 130)"
+      }
+    ]
+  }
+]

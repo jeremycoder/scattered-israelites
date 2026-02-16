@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 51,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שַׂלְמָא֙",
+        "phrase": "Salma",
+        "literal": "Salma",
+        "source": "H8007 (KJV: Salma; ESV: Salma; NASB: Salma)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲבִ֣י",
+        "phrase": "the father of",
+        "literal": "father-of",
+        "source": "H1 (KJV: father; ESV: father; NASB: father)"
+      },
+      {
+        "position": 3,
+        "surface": "בֵֽית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      },
+      {
+        "position": 4,
+        "surface": "לָ֔חֶם",
+        "phrase": "lehem",
+        "literal": "bread",
+        "source": "H1035 (KJV: Beth-lehem; ESV: Bethlehem; NASB: Bethlehem)"
+      },
+      {
+        "position": 5,
+        "surface": "חָרֵ֖ף",
+        "phrase": "Hareph",
+        "literal": "Hareph",
+        "source": "H2780 (KJV: Hareph; ESV: Hareph; NASB: Hareph)"
+      },
+      {
+        "position": 6,
+        "surface": "אֲבִ֥י",
+        "phrase": "the father of",
+        "literal": "father-of",
+        "source": "H1 (KJV: father; ESV: father; NASB: father)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1013 (KJV: Beth-gader; ESV: Beth-gader; NASB: Beth-gader)"
+      },
+      {
+        "position": 8,
+        "surface": "גָּדֵֽר",
+        "phrase": "gader",
+        "literal": "wall",
+        "source": "H1013 (KJV: Beth-gader; ESV: Beth-gader; NASB: Beth-gader)"
+      }
+    ]
+  }
+]

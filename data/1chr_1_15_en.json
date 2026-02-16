@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853; KJV/ESV/NASB: 'and' or 'even' as object marker"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חִוִּ֥י",
+        "phrase": "the Hivite",
+        "literal": "the-Hivite",
+        "source": "H2340; KJV: Hivite, ESV: Hivite, NASB: Hivite"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853; KJV/ESV/NASB: 'and' or 'even' as object marker"
+      },
+      {
+        "position": 4,
+        "surface": "הַֽ/עַרְקִ֖י",
+        "phrase": "the Arkite",
+        "literal": "the-Arkite",
+        "source": "H6208; KJV: Arkite, ESV: Arkite, NASB: Arkite"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853; KJV/ESV/NASB: 'and' or 'even' as object marker"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/סִּינִֽי",
+        "phrase": "the Sinite",
+        "literal": "the-Sinite",
+        "source": "H5513; KJV: Sinite, ESV: Sinite, NASB: Sinite"
+      }
+    ]
+  }
+]

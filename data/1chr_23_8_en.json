@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons'"
+      },
+      {
+        "position": 2,
+        "surface": "לַעְדָּ֗ן",
+        "phrase": "Ladan",
+        "literal": "Ladan",
+        "source": "H3936; KJV/ESV/NASB: 'Ladan' (or 'Laadan')"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/רֹ֧אשׁ",
+        "phrase": "the chief",
+        "literal": "the-head",
+        "source": "H7218; KJV/ESV/NASB: 'the chief'/'first'/'head'"
+      },
+      {
+        "position": 4,
+        "surface": "יְחִיאֵ֛ל",
+        "phrase": "Jehiel",
+        "literal": "Jehiel",
+        "source": "H3171; KJV/ESV/NASB: 'Jehiel'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/זֵתָ֥ם",
+        "phrase": "and Zetham",
+        "literal": "and-Zetham",
+        "source": "H2241; KJV/ESV/NASB: 'Zetham'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יוֹאֵ֖ל",
+        "phrase": "and Joel",
+        "literal": "and-Joel",
+        "source": "H3100; KJV/ESV/NASB: 'Joel'"
+      },
+      {
+        "position": 7,
+        "surface": "שְׁלֹשָֽׁה",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969; KJV/ESV/NASB: 'three'"
+      }
+    ]
+  }
+]

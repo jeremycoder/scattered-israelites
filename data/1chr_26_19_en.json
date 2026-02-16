@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 26,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֗לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428; KJV/ESV/NASB: 'These'/'These'/'These'"
+      },
+      {
+        "position": 2,
+        "surface": "מַחְלְקוֹת֙",
+        "phrase": "divisions",
+        "literal": "divisions-of",
+        "source": "H4256; KJV: 'divisions', ESV: 'divisions', NASB: 'divisions'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/שֹּׁ֣עֲרִ֔ים",
+        "phrase": "the gatekeepers",
+        "literal": "the-gatekeepers",
+        "source": "H7778; KJV: 'porters', ESV: 'gatekeepers', NASB: 'gatekeepers'"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/בְנֵ֥י",
+        "phrase": "of the sons of",
+        "literal": "to-sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/קָּרְחִ֖י",
+        "phrase": "Korah",
+        "literal": "the-Korahite",
+        "source": "H7145; KJV: 'Kore', ESV: 'Korah', NASB: 'Korah'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לִ/בְנֵ֥י",
+        "phrase": "and of the sons of",
+        "literal": "and-to-sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons'"
+      },
+      {
+        "position": 7,
+        "surface": "מְרָרִֽי",
+        "phrase": "Merari",
+        "literal": "Merari",
+        "source": "H4847; KJV/ESV/NASB: 'Merari'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֶלְקָנָ֥ה",
+        "phrase": "Elkanah",
+        "literal": "Elkanah",
+        "source": "H511; KJV/ESV/NASB: Elkanah (prior name in genealogy)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנ֛/וֹ",
+        "phrase": "his son",
+        "literal": "son-of-his",
+        "source": "H1121; KJV: begat; ESV/NASB: fathered/became father of (contextual for בְּנ֖/וֹ etc.)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶבְיָסָ֥ף",
+        "phrase": "and Ebiasaph",
+        "literal": "and-Ebiasaph",
+        "source": "H43; KJV/ESV/NASB: Abiasaph/Ebiasaph (prior Levite genealogy)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנ֖/וֹ",
+        "phrase": "his son",
+        "literal": "son-of-his",
+        "source": "H1121; KJV: begat; ESV/NASB: fathered/became father of"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אַסִּ֥יר",
+        "phrase": "and Assir",
+        "literal": "and-Assir",
+        "source": "H617; KJV/ESV/NASB: Assir (Levite name in genealogy)"
+      },
+      {
+        "position": 6,
+        "surface": "בְּנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-of-his",
+        "source": "H1121; KJV: begat; ESV/NASB: fathered/became father of"
+      }
+    ]
+  }
+]

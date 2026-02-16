@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לַ/גֵּרְשֻׁנִּ֖י",
+        "phrase": "Of the Gershonites",
+        "literal": "to-the-Gershonites",
+        "source": "H1649; KJV: 'Of the Gershonites', ESV: 'The Gershonites', NASB: 'Of the Gershonites'"
+      },
+      {
+        "position": 2,
+        "surface": "לַעְדָּ֥ן",
+        "phrase": "Ladan",
+        "literal": "Ladan",
+        "source": "H3936; KJV: 'Laadan', ESV: 'Ladan', NASB: 'Ladan'"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/שִׁמְעִֽי",
+        "phrase": "and Shimei",
+        "literal": "and-Shimei",
+        "source": "H8096; KJV: 'and Shimei', ESV: 'and Shimei', NASB: 'and Shimei'"
+      }
+    ]
+  }
+]

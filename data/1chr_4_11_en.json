@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/כְל֥וּב",
+        "phrase": "And Chelub",
+        "literal": "and-Chelub",
+        "source": "H3620; KJV/ESV/NLT: Chelub; NASB: Chelub"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחִֽי",
+        "phrase": "the brother of",
+        "literal": "brother-of",
+        "source": "H251; KJV/ESV/NAS: brother (of Shuhah)"
+      },
+      {
+        "position": 3,
+        "surface": "שׁוּחָ֖ה",
+        "phrase": "Shuhah",
+        "literal": "Shuhah",
+        "source": "H7746; KJV: Shuhah; ESV: Shuhah; NASB: Shuhah"
+      },
+      {
+        "position": 4,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "fathered",
+        "literal": "caused-to-give-birth",
+        "source": "H3205; KJV/ESV/NAS: fathered/begat"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NAS: (untranslated)"
+      },
+      {
+        "position": 6,
+        "surface": "מְחִ֑יר",
+        "phrase": "Mehir",
+        "literal": "Mehir",
+        "source": "H4243; KJV/ESV/NAS: Mehir"
+      },
+      {
+        "position": 7,
+        "surface": "ה֖וּא",
+        "phrase": "who",
+        "literal": "he",
+        "source": "H1931; KJV: he; ESV: (who); NAS: he"
+      },
+      {
+        "position": 8,
+        "surface": "אֲבִ֥י",
+        "phrase": "father of",
+        "literal": "father-of",
+        "source": "H1; KJV/ESV/NAS: father"
+      },
+      {
+        "position": 9,
+        "surface": "אֶשְׁתּֽוֹן",
+        "phrase": "Eshton",
+        "literal": "Eshton",
+        "source": "H850; KJV/ESV/NAS: Eshton"
+      }
+    ]
+  }
+]

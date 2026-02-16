@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 14,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּעַזְבוּ",
+        "phrase": "and they abandoned",
+        "literal": "and-they-left",
+        "source": "H5800 (KJV: left; ESV: abandoned; NASB: forsook)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁ֖ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹֽהֵי/הֶ֑ם",
+        "phrase": "their gods",
+        "literal": "gods-their",
+        "source": "H430 (KJV: their gods; ESV: their gods; NASB: their gods)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/יֹּ֣אמֶר",
+        "phrase": "and he said",
+        "literal": "and-he-said",
+        "source": "H559 (KJV: gave commandment; ESV: ordered; NASB: said)"
+      },
+      {
+        "position": 6,
+        "surface": "דָּוִ֔יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/יִּשָּׂרְפ֖וּ",
+        "phrase": "and they were burned",
+        "literal": "and-they-were-burned",
+        "source": "H8313 (KJV: they were burned; ESV: they were burned; NASB: they were burned)"
+      },
+      {
+        "position": 8,
+        "surface": "בָּ/אֵֽשׁ",
+        "phrase": "in the fire",
+        "literal": "in-fire",
+        "source": "H784 (KJV: with fire; ESV: in the fire; NASB: with fire)"
+      }
+    ]
+  }
+]

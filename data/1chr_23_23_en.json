@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "מוּשִׁ֗י",
+        "phrase": "Mushi",
+        "literal": "Mushi",
+        "source": "H4187 (KJV: Mushi; ESV: Mushi; NASB: Mushi)"
+      },
+      {
+        "position": 3,
+        "surface": "מַחְלִ֥י",
+        "phrase": "Mahli",
+        "literal": "Mahli",
+        "source": "H4249 (KJV: Mahli; ESV: Mahli; NASB: Mahli)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/עֵ֛דֶר",
+        "phrase": "and Eder",
+        "literal": "and-Eder",
+        "source": "H5740 (KJV: and Eder; ESV: and Eder; NASB: and Eder)"
+      },
+      {
+        "position": 5,
+        "surface": "וִ/ירֵמ֖וֹת",
+        "phrase": "and Jeremoth",
+        "literal": "and-Jeremoth",
+        "source": "H3406 (KJV: and Jerimoth; ESV: and Jeremoth; NASB: and Jerimoth)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁלֹשָֽׁה",
+        "phrase": "three",
+        "literal": "three",
+        "source": "H7969 (KJV: three; ESV: three; NASB: three)"
+      }
+    ]
+  }
+]

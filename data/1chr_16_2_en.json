@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְכַ֣ל",
+        "phrase": "had finished",
+        "literal": "and-he-completed",
+        "source": "H3615 (KJV: had made an end; ESV: had finished; NASB: had finished)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "מֵ/הַעֲל֥וֹת",
+        "phrase": "offering",
+        "literal": "from-the-offering",
+        "source": "H5927 (KJV: offering; ESV: offering; NASB: offering)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֹלָ֖ה",
+        "phrase": "the burnt offering",
+        "literal": "the-ascension-offering",
+        "source": "H5930 (KJV: the burnt offering; ESV: the burnt offerings; NASB: the burnt offering)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/הַ/שְּׁלָמִ֑ים",
+        "phrase": "and the peace offerings",
+        "literal": "and-the-peace-offerings",
+        "source": "H8002 (KJV: the peace offerings; ESV: the peace offerings; NASB: the peace offerings)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יְבָ֥רֶךְ",
+        "phrase": "and he blessed",
+        "literal": "and-he-blessed",
+        "source": "H1288 (KJV: he blessed; ESV: he blessed; NASB: he blessed)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/עָ֖ם",
+        "phrase": "the people",
+        "literal": "the-people",
+        "source": "H5971 (KJV: the people; ESV: the people; NASB: the people)"
+      },
+      {
+        "position": 9,
+        "surface": "בְּ/שֵׁ֥ם",
+        "phrase": "in the name of",
+        "literal": "in-name-of",
+        "source": "H8034 (KJV: in the name; ESV: in the name; NASB: in the name)"
+      },
+      {
+        "position": 10,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and Hadoram",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "הֲדוֹרָ֥ם",
+        "phrase": "Hadoram",
+        "literal": "Hadoram",
+        "source": "H1913 (KJV: 'Hadoram'; ESV: 'Hadoram'; NASB: 'Hadoram')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and Uzal",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 4,
+        "surface": "אוּזָ֖ל",
+        "phrase": "Uzal",
+        "literal": "Uzal",
+        "source": "H187 (KJV: 'Uzal'; ESV: 'Uzal'; NASB: 'Uzal')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and Diklah",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 6,
+        "surface": "דִּקְלָֽה",
+        "phrase": "Diklah",
+        "literal": "Diklah",
+        "source": "H1853 (KJV: 'Diklah'; ESV: 'Diklah'; NASB: 'Diklah')"
+      }
+    ]
+  }
+]

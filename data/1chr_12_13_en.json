@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יֽוֹחָנָן֙",
+        "phrase": "Johanan the eighth",
+        "literal": "Johanan",
+        "source": "H3076; KJV: Johanan the eighth, ESV: Johanan eighth, NASB: Johanan the eighth"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁמִינִ֔י",
+        "phrase": "the eighth",
+        "literal": "the-eighth",
+        "source": "H8066; KJV: the eighth, ESV: eighth, NASB: the eighth"
+      },
+      {
+        "position": 3,
+        "surface": "אֶלְזָבָ֖ד",
+        "phrase": "Elzabad the ninth",
+        "literal": "Elzabad",
+        "source": "H443; KJV: Elzabad the ninth, ESV: Elzabad ninth, NASB: Elzabad the ninth"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/תְּשִׁיעִֽי",
+        "phrase": "the ninth",
+        "literal": "the-ninth",
+        "source": "H8671; KJV: the ninth, ESV: ninth, NASB: the ninth"
+      }
+    ]
+  }
+]

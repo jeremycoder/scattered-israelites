@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 2,
+        "surface": "חִילֵז֙",
+        "phrase": "Chilzah",
+        "literal": "Chilzah",
+        "source": "H2432 (KJV: 'Holon'; ESV: 'Hilen'; NASB: 'Hilen')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 4,
+        "surface": "מִגְרָשֶׁ֔י/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054 (KJV: 'suburbs thereof'; ESV: 'its pasturelands'; NASB: 'its pasture lands')"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "OBJ",
+        "source": "H853 (KJV: omitted; ESV: omitted; NASB: omitted)"
+      },
+      {
+        "position": 6,
+        "surface": "דְּבִ֖יר",
+        "phrase": "Debir",
+        "literal": "Debir",
+        "source": "H1688 (KJV: 'Debir'; ESV: 'Debir'; NASB: 'Debir')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and-[direct object marker]",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: 'and'; ESV: 'and'; NASB: 'and')"
+      },
+      {
+        "position": 8,
+        "surface": "מִגְרָשֶֽׁׁי/הָ",
+        "phrase": "its pasturelands",
+        "literal": "pasturelands-its",
+        "source": "H4054 (KJV: 'suburbs thereof'; ESV: 'its pasturelands'; NASB: 'its pasture lands')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֥וּ",
+        "phrase": "And they were",
+        "literal": "and-they-were",
+        "source": "H1961; KJV: 'And...', ESV: 'The sons...', NASB: 'The sons...' (waw-consecutive + verb often rendered as contextual narrative intro)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons' (standard construct form for genitive relation)"
+      },
+      {
+        "position": 3,
+        "surface": "אוֹנָ֖ם",
+        "phrase": "Onam",
+        "literal": "Onam",
+        "source": "H208; KJV/ESV/NASB: 'Onam' (proper name, unchanged)"
+      },
+      {
+        "position": 4,
+        "surface": "שַׁמַּ֣י",
+        "phrase": "Shammai",
+        "literal": "Shammai",
+        "source": "H8060; KJV/ESV/NASB: 'Shammai' (proper name, unchanged)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יָדָ֑ע",
+        "phrase": "and Jada",
+        "literal": "and-Jada",
+        "source": "H3047; KJV/ESV/NASB: 'Jada' (proper name from root 'know', waw + name)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בְנֵ֣י",
+        "phrase": "and sons of",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons'/'The sons' (waw + construct sons)"
+      },
+      {
+        "position": 7,
+        "surface": "שַׁמַּ֔י",
+        "phrase": "Shammai",
+        "literal": "Shammai",
+        "source": "H8060; KJV/ESV/NASB: 'Shammai' (proper name, repeated)"
+      },
+      {
+        "position": 8,
+        "surface": "נָדָ֖ב",
+        "phrase": "Nadab",
+        "literal": "Nadab",
+        "source": "H5070; KJV/ESV/NASB: 'Nadab' (proper name, unchanged)"
+      },
+      {
+        "position": 9,
+        "surface": "וַ/אֲבִישֽׁוּר",
+        "phrase": "and Abishur",
+        "literal": "and-Abishur",
+        "source": "H51; KJV/ESV/NASB: 'Abishur' (waw + proper name, 'father-of-wall')"
+      }
+    ]
+  }
+]

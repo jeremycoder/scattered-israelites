@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "יִצְהָ֖ר",
+        "phrase": "Izhar",
+        "literal": "Izhar",
+        "source": "H3324 (KJV: Izhar; ESV: Izhar; NASB: Izhar)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁלֹמִ֥ית",
+        "phrase": "Shelomith",
+        "literal": "Shelomith",
+        "source": "H8019 (KJV: Shelomith; ESV: Shelomith; NASB: Shelomith)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רֹֽאשׁ",
+        "phrase": "the chief",
+        "literal": "the-head",
+        "source": "H7218 (KJV: chief; ESV: first; NASB: chief)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 14,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֣עַשׂ",
+        "phrase": "And David did",
+        "literal": "and-he-did",
+        "source": "H6213 (KJV: did; ESV: did; NASB: did)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֔יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "כַּֽ/אֲשֶׁ֥ר",
+        "phrase": "as",
+        "literal": "as-which",
+        "source": "H834 (KJV: as; ESV: as; NASB: as)"
+      },
+      {
+        "position": 4,
+        "surface": "צִוָּ֖/הוּ",
+        "phrase": "commanded him",
+        "literal": "he-commanded-him",
+        "source": "H6680 (KJV: commanded; ESV: commanded; NASB: commanded)"
+      },
+      {
+        "position": 5,
+        "surface": "הָֽ/אֱלֹהִ֑ים",
+        "phrase": "God",
+        "literal": "the-God",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יַּכּוּ֙",
+        "phrase": "and they struck",
+        "literal": "and-they-struck",
+        "source": "H5221 (KJV: smote; ESV: struck; NASB: struck)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "מַחֲנֵ֣ה",
+        "phrase": "the army",
+        "literal": "camp",
+        "source": "H4264 (KJV: host; ESV: army; NASB: army)"
+      },
+      {
+        "position": 9,
+        "surface": "פְלִשְׁתִּ֔ים",
+        "phrase": "of the Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/גִּבְע֖וֹן",
+        "phrase": "from Gibeon",
+        "literal": "from-Gibeon",
+        "source": "H1391 (KJV: Gibeon; ESV: Gibeon; NASB: Gibeon)"
+      },
+      {
+        "position": 11,
+        "surface": "וְ/עַד",
+        "phrase": "to",
+        "literal": "and-to",
+        "source": "H5704 (KJV: even to; ESV: to; NASB: even as far as)"
+      },
+      {
+        "position": 12,
+        "surface": "גָּֽזְרָ/ה",
+        "phrase": "Gezer",
+        "literal": "Gezer",
+        "source": "H1507 (KJV: Gazer; ESV: Gezer; NASB: Gezer)"
+      }
+    ]
+  }
+]

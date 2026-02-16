@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (as in 'his son')"
+      },
+      {
+        "position": 2,
+        "surface": "חֲשַׁבְיָ֥ה",
+        "phrase": "Hashabiah",
+        "literal": "Hashabiah",
+        "source": "H2811; KJV/ESV/NASB: not in 6:30 (genealogy mismatch; cf. prior names in Levite line) but H2811 rendered 'Hashabiah' elsewhere"
+      },
+      {
+        "position": 3,
+        "surface": "בֶן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (as in 'his son')"
+      },
+      {
+        "position": 4,
+        "surface": "אֲמַצְיָ֖ה",
+        "phrase": "Amaziah",
+        "literal": "Amaziah",
+        "source": "H558; KJV/ESV/NASB: not in 6:30 but H558 rendered 'Amaziah' (cf. king in 2Ch 25) in Levite contexts"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (as in 'his son')"
+      },
+      {
+        "position": 6,
+        "surface": "חִלְקִיָּֽה",
+        "phrase": "Hilkiah",
+        "literal": "Hilkiah",
+        "source": "H2518; KJV/ESV/NASB: not in 6:30 but H2518 rendered 'Hilkiah' (high priest)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְֽ/גֵרְשׁ֑וֹם",
+        "phrase": "to Gershom",
+        "literal": "to-Gershom",
+        "source": "H1647; KJV/ESV/NASB: 'Gershom' (Gershom, son of Levi, genealogy head)[4][7]"
+      },
+      {
+        "position": 2,
+        "surface": "לִבְנִ֥י",
+        "phrase": "Libni",
+        "literal": "Libni",
+        "source": "H3845; KJV/ESV/NASB: 'Libni' (son of Gershom)[4][7]"
+      },
+      {
+        "position": 3,
+        "surface": "בְנ֛/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121; KJV/ESV/NASB: 'his son' (possessive for Libni)[4][7]"
+      },
+      {
+        "position": 4,
+        "surface": "יַ֥חַת",
+        "phrase": "Jahath",
+        "literal": "Jahath",
+        "source": "H3189; KJV/ESV/NASB: 'Jahath' (son of Libni)[4][7]"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנ֖/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121; KJV/ESV/NASB: 'his son' (possessive for Jahath)[4][7]"
+      },
+      {
+        "position": 6,
+        "surface": "זִמָּ֥ה",
+        "phrase": "Zimmah",
+        "literal": "Zimmah",
+        "source": "H2155; KJV/ESV/NASB: 'Zimmah' (son of Jahath)[4][7]"
+      },
+      {
+        "position": 7,
+        "surface": "בְנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121; KJV/ESV/NASB: 'his son' (possessive for Zimmah)[4][7]"
+      }
+    ]
+  }
+]

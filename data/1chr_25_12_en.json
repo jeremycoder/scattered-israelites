@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/חֲמִישִׁ֣י",
+        "phrase": "the fifth",
+        "literal": "the-fifth",
+        "source": "H2549 (KJV: 'the fifth'; ESV: 'the fifth'; NASB: 'the fifth')"
+      },
+      {
+        "position": 2,
+        "surface": "נְתַנְיָ֔הוּ",
+        "phrase": "Nethaniah",
+        "literal": "Nethaniah",
+        "source": "H5418 (KJV: 'Nethaniah'; ESV: 'Nethaniah'; NASB: 'Nethaniah')"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: 'his sons'; ESV: 'his sons'; NASB: 'his sons')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV: 'his brethren'; ESV: 'his brothers'; NASB: 'his brothers')"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV: 'twelve'; ESV: 'twelve'; NASB: 'twelve')"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV: 'twelve'; ESV: 'twelve'; NASB: 'twelve')"
+      }
+    ]
+  }
+]

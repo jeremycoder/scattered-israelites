@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 21,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֤עַל",
+        "phrase": "and David went up",
+        "literal": "and-he-went-up",
+        "source": "H5927 (KJV: went up; ESV: went up; NASB: went up)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִיד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/דְבַר",
+        "phrase": "at the word of",
+        "literal": "in-word-of",
+        "source": "H1697 (KJV: saying; ESV: word; NASB: word)"
+      },
+      {
+        "position": 4,
+        "surface": "גָּ֔ד",
+        "phrase": "Gad",
+        "literal": "Gad",
+        "source": "H1410 (KJV: Gad; ESV: Gad; NASB: Gad)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: which; NASB: which)"
+      },
+      {
+        "position": 6,
+        "surface": "דִּבֶּ֖ר",
+        "phrase": "he had spoken",
+        "literal": "he-spoke",
+        "source": "H1696 (KJV: spake; ESV: had spoken; NASB: had spoken)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/שֵׁ֥ם",
+        "phrase": "in the name of",
+        "literal": "in-name-of",
+        "source": "H8034 (KJV: in the name; ESV: in the name; NASB: in the name)"
+      },
+      {
+        "position": 8,
+        "surface": "יְהוָֽה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: the LORD; ESV: the LORD; NASB: the LORD)"
+      }
+    ]
+  }
+]

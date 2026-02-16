@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אִישַׁ֛י",
+        "phrase": "and Jesse",
+        "literal": "and-Jesse",
+        "source": "H3448; KJV/ESV/NASB: Jesse[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "fathered",
+        "literal": "begat/fathered",
+        "source": "H3205; KJV: begat, ESV/NASB: fathered[1][2]"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV/ESV/NASB: (implied)[1][3]"
+      },
+      {
+        "position": 4,
+        "surface": "בְּכֹר֖/וֹ",
+        "phrase": "his firstborn",
+        "literal": "firstborn-his",
+        "source": "H1060; KJV/ESV/NASB: his firstborn[1][2]"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853; KJV/ESV/NASB: (implied)[1][3]"
+      },
+      {
+        "position": 6,
+        "surface": "אֱלִיאָ֑ב",
+        "phrase": "Eliab",
+        "literal": "Eliab",
+        "source": "H446; KJV/ESV/NASB: Eliab[1][2]"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/אֲבִינָדָב֙",
+        "phrase": "and Abinadab",
+        "literal": "and-Abinadab",
+        "source": "H41; KJV: Abinadab, ESV/NASB: Abinadab[1][2]"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/שֵּׁנִ֔י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145; KJV/ESV/NASB: the second[1][2]"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/שִׁמְעָ֖א",
+        "phrase": "and Shimea",
+        "literal": "and-Shimea",
+        "source": "H8092; KJV: Shimma, ESV/NASB: Shimea[1][2]"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/שְּׁלִישִֽׁי",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992; KJV/ESV/NASB: the third[1][2]"
+      }
+    ]
+  }
+]

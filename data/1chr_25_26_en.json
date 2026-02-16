@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/תִשְׁעָ֤ה",
+        "phrase": "to the ninth",
+        "literal": "to-ninth",
+        "source": "H8672; KJV/ESV/NASB: 'the nineteenth' (with pos.2)"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂר֙",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'ten' (in 'nineteenth')"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מַלּ֔וֹתִי",
+        "phrase": "to Mallothi",
+        "literal": "to-Mallothi",
+        "source": "H4413; KJV: Mallothi, ESV: Mallothi, NASB: Mallothi"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV/ESV/NASB: 'his brethren/brothers'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: 'twelve' (with pos.7)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'twelve' (with pos.6)"
+      }
+    ]
+  }
+]

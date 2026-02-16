@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֱלִיאָ֥ב",
+        "phrase": "Eliab",
+        "literal": "Eliab",
+        "source": "H446; KJV/ESV/NASB: Eliab (though verse contextually precedes as father in genealogy)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנ֛/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121; KJV: 'his son', ESV: 'son of', NASB: 'son of'"
+      },
+      {
+        "position": 3,
+        "surface": "יְרֹחָ֥ם",
+        "phrase": "Jeroham",
+        "literal": "Jeroham",
+        "source": "H3395; KJV/ESV/NASB: Jeroham (in full verse: Jeroham the father of Elkanah)"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנ֖/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121; KJV: 'his son', ESV: 'son of', NASB: 'son of'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶלְקָנָ֥ה",
+        "phrase": "Elkanah",
+        "literal": "Elkanah",
+        "source": "H511; KJV/ESV/NASB: Elkanah"
+      },
+      {
+        "position": 6,
+        "surface": "בְנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121; KJV: 'his son', ESV: 'son of', NASB: 'son of'"
+      }
+    ]
+  }
+]

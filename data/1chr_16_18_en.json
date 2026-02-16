@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לֵ/אמֹ֗ר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: Saying; ESV: saying; NASB: Saying)"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/ךָ֙",
+        "phrase": "to you",
+        "literal": "to-you",
+        "source": " (KJV: Unto thee; ESV: To you; NASB: To you)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶתֵּ֣ן",
+        "phrase": "I will give",
+        "literal": "I-will-give",
+        "source": "H5414 (KJV: will I give; ESV: I will give; NASB: I will give)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶֽרֶץ",
+        "phrase": "land",
+        "literal": "land",
+        "source": "H776 (KJV: land; ESV: land; NASB: land)"
+      },
+      {
+        "position": 5,
+        "surface": "כְּנָ֔עַן",
+        "phrase": "of Canaan",
+        "literal": "Canaan",
+        "source": "H3667 (KJV: Canaan; ESV: Canaan; NASB: Canaan)"
+      },
+      {
+        "position": 6,
+        "surface": "חֶ֖בֶל",
+        "phrase": "the lot",
+        "literal": "cord/lot",
+        "source": "H2256 (KJV: lot; ESV: portion; NASB: portion)"
+      },
+      {
+        "position": 7,
+        "surface": "נַחֲלַתְ/כֶֽם",
+        "phrase": "of your inheritance",
+        "literal": "inheritance-your",
+        "source": "H5159 (KJV: inheritance; ESV: inheritance; NASB: inheritance)"
+      }
+    ]
+  }
+]

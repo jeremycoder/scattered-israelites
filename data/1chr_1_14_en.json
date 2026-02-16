@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/יְבוּסִי֙",
+        "phrase": "the Jebusite",
+        "literal": "the-Jebusite",
+        "source": "H2983 (KJV: Jebusite; ESV: Jebusites; NASB: Jebusites)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ֣/אֱמֹרִ֔י",
+        "phrase": "the Amorite",
+        "literal": "the-Amorite",
+        "source": "H567 (KJV: Amorite; ESV: Amorites; NASB: Amorites)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֵ֖ת",
+        "phrase": "and",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/גִּרְגָּשִֽׁי",
+        "phrase": "the Girgashite",
+        "literal": "the-Girgashite",
+        "source": "H1622 (KJV: Girgashite; ESV: Girgashites; NASB: Girgashites)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: And; ESV: and; NASB: and)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵיבָ֥ל",
+        "phrase": "Ebal",
+        "literal": "Ebal",
+        "source": "H5858 (KJV: Ebal; ESV: Obal; NASB: Ebal)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 4,
+        "surface": "אֲבִימָאֵ֖ל",
+        "phrase": "Abimael",
+        "literal": "father-of-El",
+        "source": "H39 (KJV: Abimael; ESV: Abimael; NASB: Abimael)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-OBJ",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁבָֽא",
+        "phrase": "Sheba",
+        "literal": "Sheba",
+        "source": "H7614 (KJV: Sheba; ESV: Sheba; NASB: Sheba)"
+      }
+    ]
+  }
+]

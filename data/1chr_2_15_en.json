@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֹ֚צֶם",
+        "phrase": "Ozem",
+        "literal": "Ozem",
+        "source": "H684 (KJV: Ozem; ESV: Ozem; NASB: Ozem)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שִּׁשִּׁ֔י",
+        "phrase": "the sixth",
+        "literal": "the-sixth",
+        "source": "H8345 (KJV: the sixth; ESV: the sixth; NASB: the sixth)"
+      },
+      {
+        "position": 3,
+        "surface": "דָּוִ֖יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁבִעִֽי",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637 (KJV: the seventh; ESV: the seventh; NASB: the seventh)"
+      }
+    ]
+  }
+]

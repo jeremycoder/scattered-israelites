@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֥י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'And the sons of'"
+      },
+      {
+        "position": 2,
+        "surface": "יָוָ֖ן",
+        "phrase": "Javan",
+        "literal": "Javan",
+        "source": "H3120; KJV/ESV/NASB: 'Javan'"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִישָׁ֣ה",
+        "phrase": "Elishah",
+        "literal": "Elishah",
+        "source": "H473; KJV/ESV/NASB: 'Elishah'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/תַרְשִׁ֑ישָׁ/ה",
+        "phrase": "and Tarshish",
+        "literal": "and-Tarshish",
+        "source": "H8659; KJV/ESV: 'Tarshish', NASB: 'Tarshish'"
+      },
+      {
+        "position": 5,
+        "surface": "כִּתִּ֖ים",
+        "phrase": "Kittim",
+        "literal": "Kittim",
+        "source": "H3794; KJV: 'Kittim', ESV/NASB: 'Kittim' or 'the Kittites'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/רוֹדָנִֽים",
+        "phrase": "and Rodanim",
+        "literal": "and-Rodanim",
+        "source": "H1721; KJV: 'Dodanim', ESV/NASB: 'Rodanim'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/שְּׁנֵ֤ים",
+        "phrase": "the twelfth",
+        "literal": "the-two",
+        "source": "H8147; KJV 'The twelfth', ESV 'the twelfth', NASB 'the twelfth'"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂר֙",
+        "phrase": "[and] ten",
+        "literal": "ten",
+        "source": "H6240; KJV (implied in 'twelfth'), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/חֲשַׁבְיָ֔ה",
+        "phrase": "to Hashabiah",
+        "literal": "to-Hashabiah",
+        "source": "H2811; KJV 'Hashabiah', ESV 'Hashabiah', NASB 'Hashabiah'"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV 'his sons', ESV 'his sons', NASB 'his sons'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV 'his brethren', ESV 'his brothers', NASB 'his relatives'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV (implied in 'twelve'), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV (implied in 'twelve'), ESV (implied), NASB (implied)"
+      }
+    ]
+  }
+]

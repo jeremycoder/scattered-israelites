@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 26,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עֵילָ֤ם",
+        "phrase": "Elam",
+        "literal": "Elam",
+        "source": "H5867; KJV/ESV/NASB: 'Elam'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חֲמִישִׁי֙",
+        "phrase": "the fifth",
+        "literal": "the-fifth",
+        "source": "H2549; KJV/ESV/NASB: 'the fifth'"
+      },
+      {
+        "position": 3,
+        "surface": "יְהוֹחָנָ֣ן",
+        "phrase": "Jehohanan",
+        "literal": "YHWH-is-gracious",
+        "source": "H3076; KJV: 'Jehohanan', ESV/NASB: 'Jehohanan'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שִּׁשִּׁ֔י",
+        "phrase": "the sixth",
+        "literal": "the-sixth",
+        "source": "H8345; KJV/ESV/NASB: 'the sixth'"
+      },
+      {
+        "position": 5,
+        "surface": "אֶלְיְהוֹעֵינַ֖י",
+        "phrase": "Eliehoenai",
+        "literal": "my-eyes-to-YHWH",
+        "source": "H454; KJV: 'Elioenai', ESV/NASB: 'Eliehoenai'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שְּׁבִיעִֽי",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637; KJV/ESV/NASB: 'the seventh'"
+      }
+    ]
+  }
+]

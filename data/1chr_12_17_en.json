@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּבֹ֗אוּ",
+        "phrase": "and they came",
+        "literal": "and-they-came",
+        "source": "H935 (KJV: went out; ESV: went out; NASB: went out)"
+      },
+      {
+        "position": 2,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: from; ESV: from; NASB: from)"
+      },
+      {
+        "position": 3,
+        "surface": "בְּנֵ֤י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: of the children; ESV: of the sons; NASB: of the sons)"
+      },
+      {
+        "position": 4,
+        "surface": "בִנְיָמִן֙",
+        "phrase": "Benjamin",
+        "literal": "Benjamin",
+        "source": "H1144 (KJV: Benjamin; ESV: Benjamin; NASB: Benjamin)"
+      },
+      {
+        "position": 5,
+        "surface": "וִֽ/יהוּדָ֔ה",
+        "phrase": "and Judah",
+        "literal": "and-Judah",
+        "source": "H3063 (KJV: and Judah; ESV: and Judah; NASB: and Judah)"
+      },
+      {
+        "position": 6,
+        "surface": "עַד",
+        "phrase": "as far as",
+        "literal": "until",
+        "source": "H5704 (KJV: to; ESV: to; NASB: to)"
+      },
+      {
+        "position": 7,
+        "surface": "לַ/מְצָ֖ד",
+        "phrase": "the stronghold",
+        "literal": "to-the-stronghold",
+        "source": "H4679 (KJV: the hold; ESV: the stronghold; NASB: the stronghold)"
+      },
+      {
+        "position": 8,
+        "surface": "לְ/דָוִֽיד",
+        "phrase": "to David",
+        "literal": "to-David",
+        "source": "H1732 (KJV: to David; ESV: to David; NASB: to David)"
+      }
+    ]
+  }
+]

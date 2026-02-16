@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נֹ֥חַ",
+        "phrase": "Noah",
+        "literal": "Noah",
+        "source": "H5146; KJV: Noah, ESV: Noah, NASB: Noah"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֖ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "H8035; KJV: Shem, ESV: Shem, NASB: Shem"
+      },
+      {
+        "position": 3,
+        "surface": "חָ֥ם",
+        "phrase": "Ham",
+        "literal": "Ham",
+        "source": "H2526; KJV: Ham, ESV: Ham, NASB: Ham"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/יָֽפֶת",
+        "phrase": "and Japheth",
+        "literal": "and-Japheth",
+        "source": "H3315; KJV: and Japheth, ESV: and Japheth, NASB: and Japheth"
+      }
+    ]
+  }
+]

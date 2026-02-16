@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַחְי֥וֹ",
+        "phrase": "and Ahio",
+        "literal": "and-Ahio",
+        "source": "H283 (KJV/ESV/NASB: Ahio)"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁשָׁ֖ק",
+        "phrase": "Shashak",
+        "literal": "Shashak",
+        "source": "H8349 (KJV/ESV/NASB: Shashak)"
+      },
+      {
+        "position": 3,
+        "surface": "וִ/ירֵמֽוֹת",
+        "phrase": "and Jeremoth",
+        "literal": "and-Jeremoth",
+        "source": "H3406 (KJV/ESV/NASB: Jeremoth)"
+      }
+    ]
+  }
+]

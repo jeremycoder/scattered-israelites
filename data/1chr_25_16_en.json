@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/תְּשִׁיעִ֣י",
+        "phrase": "the ninth",
+        "literal": "the-ninth",
+        "source": "H8671; KJV/ESV/NASB: 'the ninth'"
+      },
+      {
+        "position": 2,
+        "surface": "מַתַּנְיָ֔הוּ",
+        "phrase": "to Mattaniah",
+        "literal": "Mattaniah",
+        "source": "H4983; KJV/ESV/NASB: 'Mattaniah'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV/ESV/NASB: 'his brethren/ brothers'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: 'two'"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'and twenty/ twenty'"
+      }
+    ]
+  }
+]

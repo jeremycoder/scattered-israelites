@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֖י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "עֻזִּיאֵ֑ל",
+        "phrase": "Uzziel",
+        "literal": "Uzziel",
+        "source": "H5816 (KJV: Uzziel; ESV: Uzziel; NASB: Uzziel)"
+      },
+      {
+        "position": 3,
+        "surface": "מִיכָ֣ה",
+        "phrase": "Micah",
+        "literal": "Micah",
+        "source": "H4318 (KJV: Michah; ESV: Micah; NASB: Micah)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רֹ֔אשׁ",
+        "phrase": "the first",
+        "literal": "the-head",
+        "source": "H7218 (KJV: the first; ESV: the first; NASB: the chief)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/יִשִּׁיָּ֖ה",
+        "phrase": "and Isshiah",
+        "literal": "and-Isshiah",
+        "source": "H3449 (KJV: Jesiah; ESV: Isshiah; NASB: Isshiah)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שֵּׁנִֽי",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: the second; ESV: the second; NASB: the second)"
+      }
+    ]
+  }
+]

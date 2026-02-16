@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בִ/בְתוּאֵ֥ל",
+        "phrase": "and Bethuel",
+        "literal": "and-in-Bethuel",
+        "source": "H1328; KJV: Bethuel, ESV: Bethuel, NASB: Bethuel"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בְ/חָרְמָ֖ה",
+        "phrase": "and Hormah",
+        "literal": "and-in-Hormah",
+        "source": "H2767; KJV: Hormah, ESV: Hormah, NASB: Hormah"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בְ/צִֽיקְלָֽג",
+        "phrase": "and Ziklag",
+        "literal": "and-in-Ziklag",
+        "source": "H6860; KJV: Ziklag, ESV: Ziklag, NASB: Ziklag"
+      }
+    ]
+  }
+]

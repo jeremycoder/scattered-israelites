@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 33,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲחֵי/הֶ֖ם",
+        "phrase": "and their brothers",
+        "literal": "and-brothers-their",
+        "source": "H251 (KJV: with their brethren/children; ESV: together with their brothers/sons; NASB: together with their sons)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/לְוִיִּ֑ם",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: waited; ESV: served; NASB: served)"
+      },
+      {
+        "position": 3,
+        "surface": "נְתוּנִ֕ים",
+        "phrase": "appointed",
+        "literal": "given-ones",
+        "source": "H5414 (KJV: waited; ESV: served; NASB: served)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/כָ֨ל",
+        "phrase": "for all",
+        "literal": "to-all",
+        "source": "H3605 (implied in service contexts; KJV/ESV/NASB: for the service)"
+      },
+      {
+        "position": 5,
+        "surface": "עֲבוֹדַ֔ת",
+        "phrase": "service",
+        "literal": "service-of",
+        "source": "H5656 (KJV: waited; ESV: served; NASB: service)"
+      },
+      {
+        "position": 6,
+        "surface": "מִשְׁכַּ֖ן",
+        "phrase": "tabernacle",
+        "literal": "tabernacle-of",
+        "source": "H4908 (KJV/ESV/NASB: tabernacle/house)"
+      },
+      {
+        "position": 7,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house-of",
+        "source": "H1004 (KJV/ESV/NASB: house)"
+      },
+      {
+        "position": 8,
+        "surface": "הָ/אֱלֹהִֽים",
+        "phrase": "of God",
+        "literal": "the-God",
+        "source": "H430 (KJV/ESV/NASB: of God)"
+      }
+    ]
+  }
+]

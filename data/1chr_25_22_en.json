@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לַ/חֲמִשָּׁ֤ה",
+        "phrase": "to the fifteenth",
+        "literal": "to-fifth",
+        "source": "H2568; KJV/ESV/NASB: fifteenth"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂר֙",
+        "phrase": "tenth",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: fifteenth (with prior word)"
+      },
+      {
+        "position": 3,
+        "surface": "לִֽ/ירֵמ֔וֹת",
+        "phrase": "to Jeremoth",
+        "literal": "to-Jeremoth",
+        "source": "H3406; KJV: Jerimoth, ESV/NASB: Jeremoth"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV/ESV/NASB: his sons"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV: his brethren, ESV/NASB: his brothers"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: twelve (with following word)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: twelve (with prior word)"
+      }
+    ]
+  }
+]

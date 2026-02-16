@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/שִׁשָּׁ֤ה",
+        "phrase": "to-the-sixteenth",
+        "literal": "to-sixth",
+        "source": "H8337 (KJV/ESV/NASB: 'the sixteenth')"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂר֙",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV/ESV/NASB: 'sixteenth' combined with H8337)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/חֲנַנְיָ֔הוּ",
+        "phrase": "to-Hananiah",
+        "literal": "to-Hananiah",
+        "source": "H2608 (KJV: 'Hananiah'; ESV: 'Hananiah'; NASB: 'Hananiah')"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his-sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV/ESV/NASB: 'his sons')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and-his-brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV/ESV/NASB: 'his brethren/relatives/brothers')"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV/ESV/NASB: 'twelve' combined with H6240)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV/ESV/NASB: 'twelve' combined with H8147)"
+      }
+    ]
+  }
+]

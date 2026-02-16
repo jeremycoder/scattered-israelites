@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 22,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְצַ֤ו",
+        "phrase": "and commanded",
+        "literal": "and-he-commanded",
+        "source": "H6680 (KJV: commanded; ESV: ordered; NASB: commanded)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִיד֙",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/כָל",
+        "phrase": "to all",
+        "literal": "to-all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂרֵ֣י",
+        "phrase": "the leaders of",
+        "literal": "leaders-of",
+        "source": "H8269 (KJV: princes; ESV: leaders; NASB: leaders)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/עְזֹ֖ר",
+        "phrase": "to help",
+        "literal": "to-help",
+        "source": "H5826 (KJV: help; ESV: help; NASB: help)"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/שְׁלֹמֹ֥ה",
+        "phrase": "Solomon",
+        "literal": "to-Solomon",
+        "source": "H8010 (KJV: Solomon; ESV: Solomon; NASB: Solomon)"
+      },
+      {
+        "position": 8,
+        "surface": "בְנֽ/וֹ",
+        "phrase": "his son",
+        "literal": "son-his",
+        "source": "H1121 (KJV: his son; ESV: his son; NASB: his son)"
+      }
+    ]
+  }
+]

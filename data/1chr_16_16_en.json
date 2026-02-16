@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲשֶׁ֤ר",
+        "phrase": "which",
+        "literal": "which",
+        "source": "H834 (KJV: which; ESV: [the covenant] which; NASB: [the covenant] which)"
+      },
+      {
+        "position": 2,
+        "surface": "כָּרַת֙",
+        "phrase": "he made",
+        "literal": "he-cut",
+        "source": "H3772 (KJV: made; ESV: he made; NASB: He made)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "with",
+        "literal": "[direct-object-marker]",
+        "source": "H854 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85 (KJV: Abraham; ESV: Abraham; NASB: Abraham)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/שְׁבוּעָת֖/וֹ",
+        "phrase": "and his oath",
+        "literal": "and-oath-his",
+        "source": "H7621 (KJV: his oath; ESV: his sworn promise; NASB: His oath)"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/יִצְחָֽק",
+        "phrase": "to Isaac",
+        "literal": "to-Isaac",
+        "source": "H3327 (KJV: to Isaac; ESV: to Isaac; NASB: to Isaac)"
+      }
+    ]
+  }
+]

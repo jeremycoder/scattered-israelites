@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 17,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ה֥וּא",
+        "phrase": "He",
+        "literal": "he",
+        "source": "H1931; KJV: He, ESV: He, NASB: He"
+      },
+      {
+        "position": 2,
+        "surface": "יִבְנֶה",
+        "phrase": "shall build",
+        "literal": "he-will-build",
+        "source": "H1129; KJV: build, ESV: build, NASB: build"
+      },
+      {
+        "position": 3,
+        "surface": "לִּ֖/י",
+        "phrase": "for me",
+        "literal": "to-me",
+        "source": "; KJV: me, ESV: for Me, NASB: for Me"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ֑יִת",
+        "phrase": "a house",
+        "literal": "house",
+        "source": "H1004; KJV: an house, ESV: a house, NASB: a house"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/כֹנַנְתִּ֥י",
+        "phrase": "and I will establish",
+        "literal": "and-I-will-establish",
+        "source": "H3559; KJV: I will stablish, ESV: I will establish, NASB: I will establish"
+      },
+      {
+        "position": 6,
+        "surface": "אֶת",
+        "phrase": "",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "כִּסְא֖/וֹ",
+        "phrase": "his throne",
+        "literal": "throne-his",
+        "source": "H3678; KJV: his throne, ESV: his throne, NASB: his throne"
+      },
+      {
+        "position": 8,
+        "surface": "עַד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704; KJV: for, ESV: forever, NASB: forever"
+      },
+      {
+        "position": 9,
+        "surface": "עוֹלָֽם",
+        "phrase": "forever",
+        "literal": "eternity",
+        "source": "H5769; KJV: ever, ESV: forever, NASB: forever"
+      }
+    ]
+  }
+]

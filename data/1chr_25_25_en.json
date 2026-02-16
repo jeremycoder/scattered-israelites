@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/שְׁמוֹנָ֤ה",
+        "phrase": "to the eighth",
+        "literal": "to-eighth",
+        "source": "H8083; KJV/ESV/NASB: 'the eighteenth' (combined with next word)"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂר֙",
+        "phrase": "tenth",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'eighteenth' (with H8083)"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/חֲנָ֔נִי",
+        "phrase": "to Hanani",
+        "literal": "to-Hanani",
+        "source": "H2607; KJV/ESV/NASB: 'to Hanani'"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV/ESV/NASB: 'and his brethren/relatives/brothers'"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: 'twelve' (with H6240)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'twelve' (with H8147)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּֽתְהַלְּכוּ֙",
+        "phrase": "And they wandered",
+        "literal": "and-they-walked",
+        "source": "H1980; KJV: 'when they went', ESV: 'wandering', NASB: 'they wandered'"
+      },
+      {
+        "position": 2,
+        "surface": "מִ/גּ֣וֹי",
+        "phrase": "from nation",
+        "literal": "from-nation",
+        "source": "H1471; KJV: 'from nation', ESV: 'from nation', NASB: 'from nation'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: '(implied)', ESV: '(implied)', NASB: '(implied)'"
+      },
+      {
+        "position": 4,
+        "surface": "גּ֔וֹי",
+        "phrase": "nation",
+        "literal": "nation",
+        "source": "H1471; KJV: 'nation', ESV: 'nation', NASB: 'nation'"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מִ/מַּמְלָכָ֖ה",
+        "phrase": "and from kingdom",
+        "literal": "and-from-kingdom",
+        "source": "H4467; KJV: 'from one kingdom', ESV: 'from one kingdom', NASB: 'from kingdom'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413; KJV: '(implied)', ESV: '(implied)', NASB: '(implied)'"
+      },
+      {
+        "position": 7,
+        "surface": "עַ֥ם",
+        "phrase": "people",
+        "literal": "people",
+        "source": "H5971; KJV: 'people', ESV: 'people', NASB: 'people'"
+      },
+      {
+        "position": 8,
+        "surface": "אַחֵֽר",
+        "phrase": "another",
+        "literal": "other",
+        "source": "H312; KJV: 'another people', ESV: 'another people', NASB: 'another'"
+      }
+    ]
+  }
+]

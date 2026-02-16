@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "and the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "חֶלְאָ֑ה",
+        "phrase": "Helah",
+        "literal": "Helah",
+        "source": "H2458 (KJV: Helah; ESV: Helah; NASB: Helah)"
+      },
+      {
+        "position": 3,
+        "surface": "צֶ֥רֶת",
+        "phrase": "Zereth",
+        "literal": "Zereth",
+        "source": "H6889 (KJV: Zereth; ESV: Zereth; NASB: Zereth)"
+      },
+      {
+        "position": 4,
+        "surface": "יצחר",
+        "phrase": "Izhar",
+        "literal": "Izhar",
+        "source": "H3328 (KJV: Jezoar; ESV: Izhar; NASB: Izhar)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/צֹ֖חַר",
+        "phrase": "and Zohar",
+        "literal": "and-Zohar",
+        "source": "H6714 (KJV: Jezoar; ESV: Zohar; NASB: Zohar)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶתְנָֽן",
+        "phrase": "and Ethnan",
+        "literal": "and-Ethnan",
+        "source": "H869 (KJV: Ethnan; ESV: Ethnan; NASB: Ethnan)"
+      }
+    ]
+  }
+]

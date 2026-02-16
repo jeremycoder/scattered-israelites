@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שַׁמּוֹת֙",
+        "phrase": "Shammoth",
+        "literal": "Shammoth",
+        "source": "H8054; KJV/ESV/NASB: Shammoth (proper name of David's mighty man)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/הֲרוֹרִ֔י",
+        "phrase": "the Harorite",
+        "literal": "the-Harorite",
+        "source": "H2033; KJV/ESV/NASB: the Harorite (gentilic, from Haror; cf. 2Sam 23:25 Harodite)"
+      },
+      {
+        "position": 3,
+        "surface": "חֶ֖לֶץ",
+        "phrase": "Helez",
+        "literal": "Helez",
+        "source": "H2503; KJV/ESV/NASB: Helez (proper name of David's mighty man from Ephraim)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פְּלוֹנִֽי",
+        "phrase": "the Pelonite",
+        "literal": "the-Pelonite",
+        "source": "H6397; KJV/ESV/NASB: the Pelonite (gentilic; cf. 2Sam 23:26 Paltite)"
+      }
+    ]
+  }
+]

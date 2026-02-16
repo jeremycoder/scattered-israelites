@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/כְנַ֗עַן",
+        "phrase": "and Canaan",
+        "literal": "and-Canaan",
+        "source": "H3667; KJV: Canaan, ESV: Canaan, NASB: Canaan"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֛ד",
+        "phrase": "fathered",
+        "literal": "begat",
+        "source": "H3205; KJV: begat, ESV: fathered, NASB: became the father of"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative marker]",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "צִיד֥וֹן",
+        "phrase": "Sidon",
+        "literal": "Sidon",
+        "source": "H6721; KJV: Zidon, ESV: Sidon, NASB: Sidon"
+      },
+      {
+        "position": 5,
+        "surface": "בְּכֹר֖/וֹ",
+        "phrase": "his firstborn",
+        "literal": "firstborn-his",
+        "source": "H1060; KJV: his firstborn, ESV: his firstborn, NASB: his firstborn"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative marker]",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "חֵֽת",
+        "phrase": "Heth",
+        "literal": "Heth",
+        "source": "H2845; KJV: Heth, ESV: Heth, NASB: Heth"
+      }
+    ]
+  }
+]

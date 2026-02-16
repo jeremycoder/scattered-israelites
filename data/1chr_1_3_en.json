@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֲנ֥וֹךְ",
+        "phrase": "Enoch",
+        "literal": "Enoch",
+        "source": "H2585; KJV: Enoch, ESV: Enoch, NASB: Enoch[1][3]"
+      },
+      {
+        "position": 2,
+        "surface": "מְתוּשֶׁ֖לַח",
+        "phrase": "Methuselah",
+        "literal": "Methuselah",
+        "source": "H4968; KJV: Methuselah, ESV: Methuselah, NASB: Methuselah[1][3]"
+      },
+      {
+        "position": 3,
+        "surface": "לָֽמֶךְ",
+        "phrase": "Lamech",
+        "literal": "Lamech",
+        "source": "H3929; KJV: Lamech, ESV: Lamech, NASB: Lamech[1][3]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "and the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: 'children of'; ESV/NASB: 'sons of')"
+      },
+      {
+        "position": 2,
+        "surface": "קְהָ֑ת",
+        "phrase": "Kohath",
+        "literal": "Kohath",
+        "source": "H6955 (KJV/ESV/NASB: 'Kohath')"
+      },
+      {
+        "position": 3,
+        "surface": "עַמְרָ֣ם",
+        "phrase": "Amram",
+        "literal": "Amram",
+        "source": "H6019 (KJV/ESV/NASB: 'Amram')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יִצְהָ֔ר",
+        "phrase": "and Izhar",
+        "literal": "and-Izhar",
+        "source": "H3324 (KJV/ESV/NASB: 'Izhar')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/חֶבְר֖וֹן",
+        "phrase": "and Hebron",
+        "literal": "and-Hebron",
+        "source": "H2275 (KJV/ESV/NASB: 'Hebron')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/עֻזִּיאֵֽל",
+        "phrase": "and Uzziel",
+        "literal": "and-Uzziel",
+        "source": "H5816 (KJV/ESV/NASB: 'Uzziel')"
+      }
+    ]
+  }
+]

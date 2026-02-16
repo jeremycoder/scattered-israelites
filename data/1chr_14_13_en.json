@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 14,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֹּסִ֤יפוּ",
+        "phrase": "and they added",
+        "literal": "and-they-added",
+        "source": "H3254 (KJV: yet again; ESV: once again; NASB: once again)"
+      },
+      {
+        "position": 2,
+        "surface": "עוֹד֙",
+        "phrase": "again",
+        "literal": "still",
+        "source": "H5750 (KJV: yet; ESV: once more; NASB: once more)"
+      },
+      {
+        "position": 3,
+        "surface": "פְּלִשְׁתִּ֔ים",
+        "phrase": "the Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 4,
+        "surface": "וַֽ/יִּפְשְׁט֖וּ",
+        "phrase": "and they raided",
+        "literal": "and-they-made-a-raid",
+        "source": "H6584 (KJV: spread themselves; ESV: raided; NASB: raided)"
+      },
+      {
+        "position": 5,
+        "surface": "בָּ/עֵֽמֶק",
+        "phrase": "in the valley",
+        "literal": "in-the-valley",
+        "source": "H6010 (KJV: in the valley; ESV: in the valley; NASB: in the valley)"
+      }
+    ]
+  }
+]

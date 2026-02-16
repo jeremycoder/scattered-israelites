@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/אֶלְיָשִׁיב֙",
+        "phrase": "to Eliashib",
+        "literal": "to-Eliashib",
+        "source": "H475; KJV/ESV/NIV: Eliashib"
+      },
+      {
+        "position": 2,
+        "surface": "עַשְׁתֵּ֣י",
+        "phrase": "eleventh",
+        "literal": "two-ten",
+        "source": "H6249; KJV/ESV/NIV: eleventh"
+      },
+      {
+        "position": 3,
+        "surface": "עָשָׂ֔ר",
+        "phrase": "",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NIV: eleventh (with pos.2)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/יָקִ֖ים",
+        "phrase": "to Jakim",
+        "literal": "to-Jakim",
+        "source": "H3356; KJV/ESV/NIV: Jakim"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "twelfth",
+        "literal": "two-dual",
+        "source": "H8147; KJV/ESV/NIV: twelfth"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NIV: twelfth (with pos.5)"
+      }
+    ]
+  }
+]

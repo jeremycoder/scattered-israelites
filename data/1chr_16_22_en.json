@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַֽל",
+        "phrase": "Do not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: not (in prohibition 'Do not')"
+      },
+      {
+        "position": 2,
+        "surface": "תִּגְּעוּ֙",
+        "phrase": "touch",
+        "literal": "touch!-2mp",
+        "source": "H5060; KJV: Touch; ESV: Touch; NASB: touch"
+      },
+      {
+        "position": 3,
+        "surface": "בִּ/מְשִׁיחָ֔/י",
+        "phrase": "my anointed ones",
+        "literal": "in-anointed-my",
+        "source": "H4899; KJV: mine anointed; ESV: my anointed ones; NASB: My anointed ones"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/בִ/נְבִיאַ֖/י",
+        "phrase": "and my prophets",
+        "literal": "and-in-prophets-my",
+        "source": "H5030; KJV: my prophets; ESV: my prophets; NASB: My prophets"
+      },
+      {
+        "position": 5,
+        "surface": "אַל",
+        "phrase": "do not",
+        "literal": "not",
+        "source": "H408; KJV/ESV/NASB: not (in prohibition 'do ... no')"
+      },
+      {
+        "position": 6,
+        "surface": "תָּרֵֽעוּ",
+        "phrase": "harm",
+        "literal": "do-evil-2mp",
+        "source": "H7489; KJV: do ... harm; ESV: do ... harm; NASB: do ... harm"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (in 'his son')"
+      },
+      {
+        "position": 2,
+        "surface": "תַּ֨חַת֙",
+        "phrase": "under",
+        "literal": "under",
+        "source": "H8480; KJV/ESV/NASB: 'under' (contextual 'second' or generational marker, but rendered as part of lineage)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 4,
+        "surface": "אַסִּ֔יר",
+        "phrase": "Assir",
+        "literal": "Assir",
+        "source": "H617; KJV/ESV/NASB: 'Assir'"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 6,
+        "surface": "אֶבְיָסָ֖ף",
+        "phrase": "Ebiasaph",
+        "literal": "Ebiasaph",
+        "source": "H43; KJV: 'Abiasaph', ESV/NASB: 'Ebiasaph'"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son'"
+      },
+      {
+        "position": 8,
+        "surface": "קֹֽרַח",
+        "phrase": "Korah",
+        "literal": "Korah",
+        "source": "H7141; KJV/ESV/NASB: 'Korah'"
+      }
+    ]
+  }
+]

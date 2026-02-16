@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 13,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/נָסֵ֛בָּה",
+        "phrase": "and let us bring back",
+        "literal": "and-let-us-turn-around",
+        "source": "H5437 (KJV: bring again; ESV: bring back; NASB: bring back)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "the",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "אֲר֥וֹן",
+        "phrase": "ark",
+        "literal": "ark",
+        "source": "H727 (KJV: ark; ESV: ark; NASB: ark)"
+      },
+      {
+        "position": 4,
+        "surface": "אֱלֹהֵ֖י/נוּ",
+        "phrase": "of our God",
+        "literal": "gods-of-us",
+        "source": "H430 (KJV: of our God; ESV: of our God; NASB: of our God)"
+      },
+      {
+        "position": 5,
+        "surface": "אֵלֵ֑י/נוּ",
+        "phrase": "to us",
+        "literal": "to-us",
+        "source": "H413 (KJV: to us; ESV: to us; NASB: to us)"
+      },
+      {
+        "position": 6,
+        "surface": "כִּי",
+        "phrase": "for",
+        "literal": "that",
+        "source": "H3588 (KJV: for; ESV: for; NASB: for)"
+      },
+      {
+        "position": 7,
+        "surface": "לֹ֥א",
+        "phrase": "not",
+        "literal": "not",
+        "source": "H3808 (KJV: not; ESV: did not; NASB: did not)"
+      },
+      {
+        "position": 8,
+        "surface": "דְרַשְׁנֻ֖/הוּ",
+        "phrase": "did we seek it",
+        "literal": "we-sought-him",
+        "source": "H1875 (KJV: enquired not at it; ESV: inquire of him; NASB: inquire of Him)"
+      },
+      {
+        "position": 9,
+        "surface": "בִּ/ימֵ֥י",
+        "phrase": "in the days of",
+        "literal": "in-days-of",
+        "source": "H3117 (KJV: in the days of; ESV: in Saul’s days; NASB: in Saul’s days)"
+      },
+      {
+        "position": 10,
+        "surface": "שָׁאֽוּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586 (KJV: Saul; ESV: Saul; NASB: Saul)"
+      }
+    ]
+  }
+]

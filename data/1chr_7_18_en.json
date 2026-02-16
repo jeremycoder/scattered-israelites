@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 7,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲחֹת֖/וֹ",
+        "phrase": "and his sister",
+        "literal": "and-sister-his",
+        "source": "H269 (KJV: 'his sister'; ESV/NASB: 'his sister')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מֹּלֶ֑כֶת",
+        "phrase": "Hammoleketh",
+        "literal": "the-ruling-one",
+        "source": "H4447 (KJV: 'Hammoleketh'; ESV: 'Hammoleketh'; NASB: 'Hammoleketh')"
+      },
+      {
+        "position": 3,
+        "surface": "יָלְדָה֙",
+        "phrase": "gave birth to",
+        "literal": "she-bore",
+        "source": "H3205 (KJV/ESV/NASB: 'bare'/'gave birth to')"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: 'to' or omitted in translation)"
+      },
+      {
+        "position": 5,
+        "surface": "אִישְׁה֔וֹד",
+        "phrase": "Ishhod",
+        "literal": "man-of-glory",
+        "source": "H379 (KJV/ESV/NASB: 'Ishod'/'Ishhod')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV/ESV/NASB: 'and' or omitted)"
+      },
+      {
+        "position": 7,
+        "surface": "אֲבִיעֶ֖זֶר",
+        "phrase": "Abiezer",
+        "literal": "my-father-is-help",
+        "source": "H44 (KJV/ESV/NASB: 'Abiezer')"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV/ESV/NASB: 'and' or omitted)"
+      },
+      {
+        "position": 9,
+        "surface": "מַחְלָֽה",
+        "phrase": "Mahlah",
+        "literal": "sickness",
+        "source": "H4244 (KJV/ESV/NASB: 'Mahlah')"
+      }
+    ]
+  }
+]

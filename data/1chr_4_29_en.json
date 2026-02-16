@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְ/בִלְהָ֥ה",
+        "phrase": "and in Bilhah",
+        "literal": "and-in-Bilhah",
+        "source": "H1090; KJV/ESV/NASB: 'Bilhah' (proper name of a city)"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/בְ/עֶ֖צֶם",
+        "phrase": "and in Ezem",
+        "literal": "and-in-Ezem",
+        "source": "H6107; KJV/ESV/NASB: 'Ezem' (proper name of a city)"
+      },
+      {
+        "position": 3,
+        "surface": "וּ/בְ/תוֹלָֽד",
+        "phrase": "and in Tolad",
+        "literal": "and-in-Tolad",
+        "source": "H8434; KJV/ESV/NASB: 'Tolad' (proper name of a city)"
+      }
+    ]
+  }
+]

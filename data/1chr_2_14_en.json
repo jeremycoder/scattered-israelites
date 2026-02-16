@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נְתַנְאֵל֙",
+        "phrase": "Nethanel",
+        "literal": "Nethanel",
+        "source": "H5417 (KJV: Nethaneel; ESV: Nethanel; NASB: Nethanel)"
+      },
+      {
+        "position": 2,
+        "surface": "הָֽ/רְבִיעִ֔י",
+        "phrase": "the fourth",
+        "literal": "the-fourth",
+        "source": "H7243 (KJV: the fourth; ESV: the fourth; NASB: the fourth)"
+      },
+      {
+        "position": 3,
+        "surface": "רַדַּ֖י",
+        "phrase": "Raddai",
+        "literal": "Raddai",
+        "source": "H7288 (KJV: Raddai; ESV: Raddai; NASB: Raddai)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/חֲמִישִֽׁי",
+        "phrase": "the fifth",
+        "literal": "the-fifth",
+        "source": "H2549 (KJV: the fifth; ESV: the fifth; NASB: the fifth)"
+      }
+    ]
+  }
+]

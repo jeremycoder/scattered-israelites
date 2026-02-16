@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "עֵ֖זֶר",
+        "phrase": "Ezer",
+        "literal": "Ezer",
+        "source": "H5829; KJV/ESV/NASB: 'Ezer' (chief)"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רֹ֑אשׁ",
+        "phrase": "the chief",
+        "literal": "the-head",
+        "source": "H7218; KJV/ESV/NASB: 'the chief' / 'the first' / 'the head'"
+      },
+      {
+        "position": 3,
+        "surface": "עֹבַדְיָה֙",
+        "phrase": "Obadiah",
+        "literal": "Obadiah",
+        "source": "H5662; KJV/ESV/NASB: 'Obadiah'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שֵּׁנִ֔י",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145; KJV/ESV/NASB: 'the second'"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלִיאָ֖ב",
+        "phrase": "Eliab",
+        "literal": "Eliab",
+        "source": "H446; KJV/ESV/NASB: 'Eliab'"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שְּׁלִשִֽׁי",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992; KJV/ESV/NASB: 'the third'"
+      }
+    ]
+  }
+]

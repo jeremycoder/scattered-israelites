@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/חָרִם֙",
+        "phrase": "to Harim",
+        "literal": "to-Harim",
+        "source": "H2766 (KJV: Harim; ESV: Harim; NASB: Harim)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁלִישִׁ֔י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992 (KJV: third; ESV: third; NASB: third)"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/שְׂעֹרִ֖ים",
+        "phrase": "to Seorim",
+        "literal": "to-Seorim",
+        "source": "H8188 (KJV: Seorim; ESV: Seorim; NASB: Seorim)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רְבִעִֽי",
+        "phrase": "the fourth",
+        "literal": "the-fourth",
+        "source": "H7243 (KJV: fourth; ESV: fourth; NASB: fourth)"
+      }
+    ]
+  }
+]

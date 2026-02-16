@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּפִּ֜ילוּ",
+        "phrase": "And they cast",
+        "literal": "and-they-cast",
+        "source": "H5307 (KJV: cast lots; ESV: cast lots; NASB: cast lots)"
+      },
+      {
+        "position": 2,
+        "surface": "גּוֹרָל֣וֹת",
+        "phrase": "lots",
+        "literal": "lots",
+        "source": "H1486 (KJV: lots; ESV: lots; NASB: lots)"
+      },
+      {
+        "position": 3,
+        "surface": "מִשְׁמֶ֗רֶת",
+        "phrase": "for their duties",
+        "literal": "duty",
+        "source": "H4931 (KJV: ward; ESV: duties; NASB: duties)"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/עֻמַּת֙",
+        "phrase": "against",
+        "literal": "opposite-to",
+        "source": "H5980 (KJV: against; ESV: alike; NASB: alike)"
+      },
+      {
+        "position": 5,
+        "surface": "כַּ/קָּטֹ֣ן",
+        "phrase": "the small",
+        "literal": "like-the-small",
+        "source": "H6996 (KJV: small; ESV: small; NASB: small)"
+      },
+      {
+        "position": 6,
+        "surface": "כַּ/גָּד֔וֹל",
+        "phrase": "as the great",
+        "literal": "like-the-great",
+        "source": "H1419 (KJV: great; ESV: great; NASB: great)"
+      },
+      {
+        "position": 7,
+        "surface": "מֵבִ֖ין",
+        "phrase": "the teacher",
+        "literal": "discerning",
+        "source": "H995 (KJV: teacher; ESV: teacher; NASB: teacher)"
+      },
+      {
+        "position": 8,
+        "surface": "עִם",
+        "phrase": "as well as",
+        "literal": "with",
+        "source": "H5973 (KJV: as well ... as; ESV: as well as; NASB: as well as)"
+      },
+      {
+        "position": 9,
+        "surface": "תַּלְמִֽיד",
+        "phrase": "the pupil",
+        "literal": "disciple",
+        "source": "H8527 (KJV: scholar; ESV: pupil; NASB: pupil)"
+      }
+    ]
+  }
+]

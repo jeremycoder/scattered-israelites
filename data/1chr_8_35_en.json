@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "מִיכָ֑ה",
+        "phrase": "Micah",
+        "literal": "Micah",
+        "source": "H4318 (KJV: Micah; ESV: Micah; NASB: Micah)"
+      },
+      {
+        "position": 3,
+        "surface": "פִּית֥וֹן",
+        "phrase": "Pithon",
+        "literal": "Pithon",
+        "source": "H6377 (KJV: Pithon; ESV: Pithon; NASB: Pithon)"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/מֶ֖לֶךְ",
+        "phrase": "and Melech",
+        "literal": "and-Melech",
+        "source": "H4429 (KJV: Melech; ESV: Melech; NASB: Melech)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/תַאְרֵ֥עַ",
+        "phrase": "and Tarea",
+        "literal": "and-Tarea",
+        "source": "H8390 (KJV: Tarea; ESV: Tarea; NASB: Tahrea)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אָחָֽז",
+        "phrase": "and Ahaz",
+        "literal": "and-Ahaz",
+        "source": "H271 (KJV: Ahaz; ESV: Ahaz; NASB: Ahaz)"
+      }
+    ]
+  }
+]

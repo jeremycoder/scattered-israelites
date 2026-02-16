@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/שְּׁמִינִ֣י",
+        "phrase": "the eighth",
+        "literal": "the-eighth",
+        "source": "H8066; KJV/ESV/NASB: 'the eighth'"
+      },
+      {
+        "position": 2,
+        "surface": "יְשַֽׁעְיָ֔הוּ",
+        "phrase": "Jeshaiah",
+        "literal": "Yeshayah",
+        "source": "H3470; KJV/ESV/NASB: 'Jeshaiah'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "his-sons",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-his-brothers",
+        "source": "H251; KJV: 'he, his...and his brethren'; ESV/NASB: 'and his brothers/relatives'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: 'twelve' (with pos.6)"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'twelve' (with pos.5)"
+      }
+    ]
+  }
+]

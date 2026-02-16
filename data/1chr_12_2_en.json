@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "נֹ֣שְׁקֵי",
+        "phrase": "armed with",
+        "literal": "grasping",
+        "source": "H5401: KJV 'armed with bows'; ESV 'bowmen'; NASB 'equipped with bows'"
+      },
+      {
+        "position": 2,
+        "surface": "קֶ֗שֶׁת",
+        "phrase": "bows",
+        "literal": "bow",
+        "source": "H7198: KJV 'bows'; ESV 'bows'; NASB 'bows'"
+      },
+      {
+        "position": 3,
+        "surface": "מַיְמִינִ֤ים",
+        "phrase": "right-handed",
+        "literal": "with-right",
+        "source": "H3231: KJV 'right hand'; ESV 'right'; NASB 'right hand'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מַשְׂמִאלִים֙",
+        "phrase": "and left-handed",
+        "literal": "and-with-left",
+        "source": "H8041: KJV 'left'; ESV 'left'; NASB 'left'"
+      },
+      {
+        "position": 5,
+        "surface": "בָּֽ/אֲבָנִ֔ים",
+        "phrase": "with stones",
+        "literal": "in-stones",
+        "source": "H68: KJV 'stones'; ESV 'sling stones'; NASB 'sling stones'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/בַ/חִצִּ֖ים",
+        "phrase": "and with arrows",
+        "literal": "and-in-arrows",
+        "source": "H2671: KJV 'arrows'; ESV 'shoot arrows'; NASB 'shoot arrows'"
+      },
+      {
+        "position": 7,
+        "surface": "בַּ/קָּ֑שֶׁת",
+        "phrase": "with the bow",
+        "literal": "in-the-bow",
+        "source": "H7198: KJV 'bow'; ESV 'bow'; NASB 'bow'"
+      },
+      {
+        "position": 8,
+        "surface": "מֵ/אֲחֵ֥י",
+        "phrase": "of the brothers of",
+        "literal": "from-brothers-of",
+        "source": "H251: KJV 'Saul's brethren'; ESV 'Saul's kinsmen'; NASB 'Saul's kinsmen'"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁא֖וּל",
+        "phrase": "Saul",
+        "literal": "Saul",
+        "source": "H7586: KJV 'Saul'; ESV 'Saul'; NASB 'Saul'"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/בִּנְיָמִֽן",
+        "phrase": "from Benjamin",
+        "literal": "from-Benjamin",
+        "source": "H1144: KJV 'Benjamin'; ESV 'Benjamin'; NASB 'Benjamin'"
+      }
+    ]
+  }
+]

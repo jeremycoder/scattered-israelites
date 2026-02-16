@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אַבְרָ֖ם",
+        "phrase": "Abram",
+        "literal": "Abram",
+        "source": "H87; KJV: Abram, ESV: Abram, NASB: Abram"
+      },
+      {
+        "position": 2,
+        "surface": "ה֥וּא",
+        "phrase": "that is",
+        "literal": "he-is",
+        "source": "H1931; KJV: the same, ESV: that is, NASB: that is"
+      },
+      {
+        "position": 3,
+        "surface": "אַבְרָהָֽם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85; KJV: Abraham, ESV: Abraham, NASB: Abraham"
+      }
+    ]
+  }
+]

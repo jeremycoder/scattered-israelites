@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בֶן",
+        "phrase": "and son",
+        "literal": "and-son",
+        "source": "H1121; KJV 'the son', ESV 'The son', NASB 'The son of'"
+      },
+      {
+        "position": 2,
+        "surface": "שַׁמַּ֖י",
+        "phrase": "Shammai",
+        "literal": "Shammai",
+        "source": "H8060; KJV 'Shammai', ESV 'Shammai', NASB 'Shammai'"
+      },
+      {
+        "position": 3,
+        "surface": "מָע֑וֹן",
+        "phrase": "was Maon",
+        "literal": "Maon",
+        "source": "H4584; KJV 'was Maon', ESV 'was Maon', NASB 'was Maon'"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מָע֖וֹן",
+        "phrase": "and Maon",
+        "literal": "and-Maon",
+        "source": "H4584; KJV 'and Maon', ESV 'and Maon', NASB 'and Maon'"
+      },
+      {
+        "position": 5,
+        "surface": "אֲבִ֥י",
+        "phrase": "father of",
+        "literal": "father-of",
+        "source": "H1; KJV 'was the father', ESV 'fathered', NASB 'was the father'"
+      },
+      {
+        "position": 6,
+        "surface": "בֵֽית",
+        "phrase": "Beth",
+        "literal": "house-of",
+        "source": "H1049; KJV 'Bethzur', ESV 'Beth-zur', NASB 'Beth-zur'"
+      },
+      {
+        "position": 7,
+        "surface": "צֽוּר",
+        "phrase": "zur",
+        "literal": "rock",
+        "source": "H1049; KJV 'Bethzur', ESV 'Beth-zur', NASB 'Beth-zur'"
+      }
+    ]
+  }
+]

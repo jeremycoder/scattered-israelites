@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֗לֶּה",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "H428; KJV/ESV/NASB: 'these' (collectively referring to items or persons listed)"
+      },
+      {
+        "position": 2,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "whom",
+        "literal": "who/which/that",
+        "source": "H834; KJV/ESV/NASB: 'whom' (relative pronoun introducing clause)"
+      },
+      {
+        "position": 3,
+        "surface": "הֶעֱמִ֥יד",
+        "phrase": "stationed",
+        "literal": "he-caused-to-stand",
+        "source": "H5975; KJV: 'set'; ESV/NASB: 'appointed' or 'stationed' (hiphil perfect 3ms, causative of stand)"
+      },
+      {
+        "position": 4,
+        "surface": "דָּוִ֛יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732; KJV/ESV/NASB: 'David' (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "עַל",
+        "phrase": "over",
+        "literal": "upon/over",
+        "source": "H5921; KJV/ESV/NASB: 'over' (preposition of superiority or charge)"
+      },
+      {
+        "position": 6,
+        "surface": "יְדֵי",
+        "phrase": "hands",
+        "literal": "hands-of",
+        "source": "H3027; KJV/ESV/NASB: 'service' or 'hands' (dual construct, idiom for ministry/service)"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁ֖יר",
+        "phrase": "song",
+        "literal": "song-of",
+        "source": "H7892; KJV/ESV/NASB: 'service of song' or 'music' (noun, song/music)"
+      },
+      {
+        "position": 8,
+        "surface": "בֵּ֣ית",
+        "phrase": "house",
+        "literal": "house-of",
+        "source": "H1004; KJV/ESV/NASB: 'house' (temple)"
+      },
+      {
+        "position": 9,
+        "surface": "יְהוָ֑ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV: 'LORD'; ESV/NASB: 'LORD' (proper name of God)"
+      },
+      {
+        "position": 10,
+        "surface": "מִ/מְּנ֖וֹחַ",
+        "phrase": "from rest",
+        "literal": "from-rest-of",
+        "source": "H4494; KJV/ESV/NASB: 'rest' (preposition + noun, 'from the resting place')"
+      },
+      {
+        "position": 11,
+        "surface": "הָ/אָרֽוֹן",
+        "phrase": "the ark",
+        "literal": "the-ark",
+        "source": "H727; KJV/ESV/NASB: 'ark' (definite article + noun)"
+      }
+    ]
+  }
+]

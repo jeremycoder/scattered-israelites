@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/גֵרָ֥א",
+        "phrase": "and Gera",
+        "literal": "and-Gera",
+        "source": "H1617; KJV: Gera, ESV: Gera, NASB: Gera"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/שְׁפוּפָ֖ן",
+        "phrase": "and Shephuphan",
+        "literal": "and-Shephuphan",
+        "source": "H8197; KJV: Shephuphan, ESV: Shephuphan, NASB: Shephuphan"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/חוּרָֽם",
+        "phrase": "and Huram",
+        "literal": "and-Huram",
+        "source": "H2361; KJV: Huram, ESV: Huram, NASB: Huram"
+      }
+    ]
+  }
+]

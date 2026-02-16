@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 26,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/עֹבֵ֥ד",
+        "phrase": "to Obed",
+        "literal": "to-Obed",
+        "source": "H5654; KJV: To Obededom, ESV: Obed-edom's, NASB: For Obed-edom"
+      },
+      {
+        "position": 2,
+        "surface": "אֱדֹ֖ם",
+        "phrase": "-edom",
+        "literal": "Edom",
+        "source": "H5654; KJV: Obededom, ESV: Obed-edom's, NASB: Obed-edom"
+      },
+      {
+        "position": 3,
+        "surface": "נֶ֑גְבָּ/ה",
+        "phrase": "southward",
+        "literal": "southward",
+        "source": "H5045; KJV: southward, ESV: south, NASB: south"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/לְ/בָנָ֖י/ו",
+        "phrase": "and to his sons",
+        "literal": "and-to-sons-his",
+        "source": "H1121; KJV: to his sons, ESV: to his sons, NASB: to his sons"
+      },
+      {
+        "position": 5,
+        "surface": "בֵּ֥ית",
+        "phrase": "house",
+        "literal": "house",
+        "source": "H1004; KJV: house, ESV: gatehouse, NASB: storehouse"
+      },
+      {
+        "position": 6,
+        "surface": "הָ/אֲסֻפִּֽים",
+        "phrase": "of Asuppim",
+        "literal": "the-Asuppim",
+        "source": "H624; KJV: Asuppim, ESV: gatehouse, NASB: storehouse"
+      }
+    ]
+  }
+]

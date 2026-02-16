@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 1,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אָדָ֥ם",
+        "phrase": "Adam",
+        "literal": "Adam",
+        "source": "H121 (KJV: Adam; ESV: Adam; NASB: Adam)"
+      },
+      {
+        "position": 2,
+        "surface": "שֵׁ֖ת",
+        "phrase": "Seth",
+        "literal": "Seth",
+        "source": "H8352 (KJV: Sheth; ESV: Seth; NASB: Seth)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱנֽוֹשׁ",
+        "phrase": "Enosh",
+        "literal": "Enosh",
+        "source": "H583 (KJV: Enosh; ESV: Enosh; NASB: Enosh)"
+      }
+    ]
+  }
+]

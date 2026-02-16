@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/שְׁלֹשָׁ֤ה",
+        "phrase": "to-the-twenty-third",
+        "literal": "to-three",
+        "source": "H7969 (KJV: three; ESV: twenty-third; NASB: twenty-third)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/עֶשְׂרִים֙",
+        "phrase": "and-twenty",
+        "literal": "and-twenties",
+        "source": "H6242 (KJV: twentieth; ESV: twenty-third; NASB: twenty-third)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/מַ֣חֲזִיא֔וֹת",
+        "phrase": "to-Mahazioth",
+        "literal": "to-Mahazioth",
+        "source": "H4238 (KJV: Mahazioth; ESV: Mahazioth; NASB: Mahazioth)"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his-sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV: his sons; ESV: his sons; NASB: his sons)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and-his-brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV: his brethren; ESV: his brothers; NASB: his brothers)"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV: twelve; ESV: twelve; NASB: twelve)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV: twelve; ESV: twelve; NASB: twelve)"
+      }
+    ]
+  }
+]

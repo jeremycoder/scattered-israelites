@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִן",
+        "phrase": "And of",
+        "literal": "and-from",
+        "source": "H4480; KJV 'And of', ESV 'Of', NASB 'Of'"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/דָּנִי֙",
+        "phrase": "the Danites",
+        "literal": "the-Danite",
+        "source": "H1839; KJV 'Asher', ESV 'Asher', NASB 'Asher' (note: surface indicates Dan, but context/parallel texts render Asher per MT variants)"
+      },
+      {
+        "position": 3,
+        "surface": "עֹרְכֵ֣י",
+        "phrase": "experts in array",
+        "literal": "arraying-[mp]",
+        "source": "H6186; KJV 'expert in war', ESV 'seasoned troops', NASB 'who went out...to draw up'"
+      },
+      {
+        "position": 4,
+        "surface": "מִלְחָמָ֔ה",
+        "phrase": "of battle",
+        "literal": "battle-[f]",
+        "source": "H4421; KJV 'war', ESV 'battle', NASB 'battle formation'"
+      },
+      {
+        "position": 5,
+        "surface": "עֶשְׂרִֽים",
+        "phrase": "twenty",
+        "literal": "twenty",
+        "source": "H6242; KJV 'forty', ESV '40,000', NASB '40,000' (part of total; Dan context 28,600)"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/שְׁמוֹנָ֥ה",
+        "phrase": "and-eight",
+        "literal": "and-eight",
+        "source": "H8083; KJV 'forty', ESV '40,000', NASB '40,000' (part of total)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶ֖לֶף",
+        "phrase": "thousand",
+        "literal": "thousand",
+        "source": "H505; KJV 'thousand', ESV '40,000', NASB '40,000'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/שֵׁ֥שׁ",
+        "phrase": "and-six",
+        "literal": "and-six",
+        "source": "H8337; KJV 'forty', ESV '40,000', NASB '40,000' (part of total)"
+      },
+      {
+        "position": 9,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundreds",
+        "literal": "hundreds",
+        "source": "H3967; KJV 'forty', ESV '40,000', NASB '40,000' (part of total)"
+      }
+    ]
+  }
+]

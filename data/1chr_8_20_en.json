@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וֶ/אֱלִיעֵנַ֥י",
+        "phrase": "and Elienai",
+        "literal": "and-Elienai",
+        "source": "H462 (KJV: Elienai; ESV: Elienai; NASB: Elienai)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/צִלְּתַ֖י",
+        "phrase": "and Zillethai",
+        "literal": "and-Zillethai",
+        "source": "H6769 (KJV: Zilthai; ESV: Zillethai; NASB: Zillethai)"
+      },
+      {
+        "position": 3,
+        "surface": "וֶ/אֱלִיאֵֽל",
+        "phrase": "and Eliel",
+        "literal": "and-Eliel",
+        "source": "H447 (KJV: Eliel; ESV: Eliel; NASB: Eliel)"
+      }
+    ]
+  }
+]

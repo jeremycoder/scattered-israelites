@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/הַקּוֹץ֙",
+        "phrase": "to Hakkoz",
+        "literal": "to-the-thorn",
+        "source": "H6976; KJV: Hakkoz, ESV: Hakkoz, NASB: Hakkoz"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שְּׁבִעִ֔י",
+        "phrase": "the seventh",
+        "literal": "the-seventh",
+        "source": "H7637; KJV: the seventh, ESV: the seventh, NASB: the seventh"
+      },
+      {
+        "position": 3,
+        "surface": "לַ/אֲבִיָּ֖ה",
+        "phrase": "to Abijah",
+        "literal": "to-Abijah",
+        "source": "H29; KJV: Abijah, ESV: Abijah, NASB: Abijah"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שְּׁמִינִֽי",
+        "phrase": "the eighth",
+        "literal": "the-eighth",
+        "source": "H8066; KJV: the eighth, ESV: the eighth, NASB: the eighth"
+      }
+    ]
+  }
+]

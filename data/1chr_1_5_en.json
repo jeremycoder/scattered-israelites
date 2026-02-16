@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV/ESV/NASB: 'sons')"
+      },
+      {
+        "position": 2,
+        "surface": "יֶ֔פֶת",
+        "phrase": "Japheth",
+        "literal": "Japheth",
+        "source": "H3315 (KJV/ESV/NASB: 'Japheth')"
+      },
+      {
+        "position": 3,
+        "surface": "גֹּ֣מֶר",
+        "phrase": "Gomer",
+        "literal": "Gomer",
+        "source": "H1586 (KJV/ESV/NASB: 'Gomer')"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מָג֔וֹג",
+        "phrase": "and Magog",
+        "literal": "and-Magog",
+        "source": "H4031 (KJV/ESV/NASB: 'and Magog')"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מָדַ֖י",
+        "phrase": "and Madai",
+        "literal": "and-Madai",
+        "source": "H4074 (KJV/ESV/NASB: 'and Madai')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יָוָ֣ן",
+        "phrase": "and Javan",
+        "literal": "and-Javan",
+        "source": "H3120 (KJV/ESV/NASB: 'and Javan')"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/תֻבָ֑ל",
+        "phrase": "and Tubal",
+        "literal": "and-Tubal",
+        "source": "H8422 (KJV/ESV/NASB: 'and Tubal')"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מֶ֖שֶׁךְ",
+        "phrase": "and Meshech",
+        "literal": "and-Meshech",
+        "source": "H4902 (KJV/ESV/NASB: 'and Meshech')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/תִירָֽס",
+        "phrase": "and Tiras",
+        "literal": "and-Tiras",
+        "source": "H8494 (KJV/ESV/NASB: 'and Tiras')"
+      }
+    ]
+  }
+]

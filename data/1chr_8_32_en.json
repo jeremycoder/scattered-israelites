@@ -1,0 +1,95 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 32,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִקְל֖וֹת",
+        "phrase": "and Mikloth",
+        "literal": "and-Mikloth",
+        "source": "H4732 (KJV: Mikloth; ESV: Mikloth; NASB: Mikloth)"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "begat",
+        "literal": "caused-to-bear",
+        "source": "H3205 (KJV: begat; ESV: fathered; NASB: became the father of)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "שִׁמְאָ֑ה",
+        "phrase": "Shimeah",
+        "literal": "Shimeah",
+        "source": "H8039 (KJV: Shimeah; ESV: Shimeah; NASB: Shimeah)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אַף",
+        "phrase": "and also",
+        "literal": "and-also",
+        "source": "H637 (KJV: And these also; ESV: These; NASB: And they also)"
+      },
+      {
+        "position": 6,
+        "surface": "הֵ֗מָּה",
+        "phrase": "they",
+        "literal": "they",
+        "source": "H1992 (KJV: these; ESV: These; NASB: they)"
+      },
+      {
+        "position": 7,
+        "surface": "נֶ֧גֶד",
+        "phrase": "opposite",
+        "literal": "opposite",
+        "source": "H5048 (KJV: over against; ESV: opposite; NASB: opposite)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחֵי/הֶ֛ם",
+        "phrase": "their brothers",
+        "literal": "brothers-of-them",
+        "source": "H251 (KJV: their brethren; ESV: their kinsmen; NASB: their other relatives)"
+      },
+      {
+        "position": 9,
+        "surface": "יָשְׁב֥וּ",
+        "phrase": "dwelt",
+        "literal": "they-sat",
+        "source": "H3427 (KJV: dwelt; ESV: dwelt; NASB: lived)"
+      },
+      {
+        "position": 10,
+        "surface": "בִ/ירוּשָׁלִַ֖ם",
+        "phrase": "in Jerusalem",
+        "literal": "in-Jerusalem",
+        "source": "H3389 (KJV: in Jerusalem; ESV: in Jerusalem; NASB: in Jerusalem)"
+      },
+      {
+        "position": 11,
+        "surface": "עִם",
+        "phrase": "with",
+        "literal": "with",
+        "source": "H5973 (implied in KJV/ESV/NASB: with their brethren/kinsmen/relatives)"
+      },
+      {
+        "position": 12,
+        "surface": "אֲחֵי/הֶֽם",
+        "phrase": "their brothers",
+        "literal": "brothers-of-them",
+        "source": "H251 (KJV: their brethren; ESV: their kinsmen; NASB: their relatives)"
+      }
+    ]
+  }
+]

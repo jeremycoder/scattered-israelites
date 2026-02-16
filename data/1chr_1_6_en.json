@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 6,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "and the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV/NASB: 'sons')"
+      },
+      {
+        "position": 2,
+        "surface": "גֹּ֑מֶר",
+        "phrase": "Gomer",
+        "literal": "Gomer",
+        "source": "H1586 (KJV/ESV/NASB: 'Gomer')"
+      },
+      {
+        "position": 3,
+        "surface": "אַשְׁכֲּנַ֥ז",
+        "phrase": "Ashkenaz",
+        "literal": "Ashkenaz",
+        "source": "H813 (KJV/ESV/NASB: 'Ashkenaz')"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/דִיפַ֖ת",
+        "phrase": "and Diphath",
+        "literal": "and-Diphath",
+        "source": "H7384 (KJV: 'Diphath'; ESV/NASB: 'Riphath')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/תוֹגַרְמָֽה",
+        "phrase": "and Togarmah",
+        "literal": "and-Togarmah",
+        "source": "H8425 (KJV/ESV/NASB: 'Togarmah')"
+      }
+    ]
+  }
+]

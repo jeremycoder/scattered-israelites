@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "and the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV/NASB: 'sons of')"
+      },
+      {
+        "position": 2,
+        "surface": "מִיכָ֑ה",
+        "phrase": "Micah",
+        "literal": "Micah",
+        "source": "H4318 (KJV/ESV/NASB: 'Micah')"
+      },
+      {
+        "position": 3,
+        "surface": "פִּית֥וֹן",
+        "phrase": "Pithon",
+        "literal": "Pithon",
+        "source": "H6377 (KJV/ESV/NASB: 'Pithon')"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/מֶ֖לֶךְ",
+        "phrase": "and Melech",
+        "literal": "and-Melech",
+        "source": "H4429 (KJV/ESV/NASB: 'Melech')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/תַחְרֵֽעַ",
+        "phrase": "and Tahrea",
+        "literal": "and-Tahrea",
+        "source": "H8475 (KJV/ESV/NASB: 'Tahrea')"
+      }
+    ]
+  }
+]

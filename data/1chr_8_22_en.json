@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 22,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יִשְׁפָּ֥ן",
+        "phrase": "and Ishpan",
+        "literal": "and-Ishpan",
+        "source": "H3473 (KJV: Ishpan[1]; ESV: Ishpan[2]; NASB: Ishpan[2])"
+      },
+      {
+        "position": 2,
+        "surface": "וָ/עֵ֖בֶר",
+        "phrase": "and Eber",
+        "literal": "and-Eber",
+        "source": "H5677 (KJV: Heber[1]; ESV: Eber[2]; NASB: Eber[2])"
+      },
+      {
+        "position": 3,
+        "surface": "וֶ/אֱלִיאֵֽל",
+        "phrase": "and Eliel",
+        "literal": "and-Eliel",
+        "source": "H447 (KJV: Eliel[1]; ESV: Eliel[2]; NASB: Eliel[2])"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ/רְבִיעִי֙",
+        "phrase": "the fourth",
+        "literal": "the-fourth",
+        "source": "H7243; KJV/ESV/NASB: 'the fourth'"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/יִּצְרִ֔י",
+        "phrase": "to Izri",
+        "literal": "to-Izri",
+        "source": "H3339; KJV/ESV/NASB: 'to Izri' (variant of Zeri in 25:3)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "his-sons",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-his-brothers",
+        "source": "H251; KJV/ESV/NASB: 'and his brothers/brethren'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "twelve",
+        "literal": "two-ten",
+        "source": "H8147; KJV/ESV/NASB: 'twelve'"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'twelve'"
+      }
+    ]
+  }
+]

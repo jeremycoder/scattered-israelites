@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "verse": 36,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "חֵ֚פֶר",
+        "phrase": "Hepher",
+        "literal": "Hepher",
+        "source": "H2660; KJV/ESV/NASB: Hepher (name of warrior)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/מְּכֵ֣רָתִ֔י",
+        "phrase": "the Mecherathite",
+        "literal": "the-Mecherathite",
+        "source": "H4382; KJV/ESV/NASB: the Mecherathite (gentilic, from Mecherah)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחִיָּ֖ה",
+        "phrase": "Ahijah",
+        "literal": "Ahijah",
+        "source": "H281; KJV/ESV/NASB: Ahijah (name of warrior)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פְּלֹנִֽי",
+        "phrase": "the Pelonite",
+        "literal": "the-Pelonite",
+        "source": "H6397; KJV/ESV/NASB: the Pelonite (gentilic, from Pelon)"
+      }
+    ]
+  }
+]

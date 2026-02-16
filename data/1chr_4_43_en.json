@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 43,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּכּ֕וּ",
+        "phrase": "and they struck",
+        "literal": "and-they-struck",
+        "source": "H5221 (KJV: smote; ESV: defeated; NASB: destroyed)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁאֵרִ֥ית",
+        "phrase": "remnant",
+        "literal": "remainder",
+        "source": "H7611 (KJV: rest; ESV: remnant; NASB: remnant)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/פְּלֵטָ֖ה",
+        "phrase": "of the escaped",
+        "literal": "the-escapees",
+        "source": "H6413 (KJV: escaped; ESV: who had escaped; NASB: who escaped)"
+      },
+      {
+        "position": 5,
+        "surface": "לַ/עֲמָלֵ֑ק",
+        "phrase": "of Amalek",
+        "literal": "to-Amalek",
+        "source": "H6002 (KJV: Amalekites; ESV: Amalekites; NASB: Amalekites)"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/יֵּ֣שְׁבוּ",
+        "phrase": "and they lived",
+        "literal": "and-they-dwelt",
+        "source": "H3427 (KJV: dwelt; ESV: lived; NASB: have lived)"
+      },
+      {
+        "position": 7,
+        "surface": "שָׁ֔ם",
+        "phrase": "there",
+        "literal": "there",
+        "source": "H8033 (KJV: there; ESV: there; NASB: there)"
+      },
+      {
+        "position": 8,
+        "surface": "עַ֖ד",
+        "phrase": "until",
+        "literal": "until",
+        "source": "H5704 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/יּ֥וֹם",
+        "phrase": "the day",
+        "literal": "the-day",
+        "source": "H3117 (KJV: this day; ESV: this day; NASB: this day)"
+      },
+      {
+        "position": 10,
+        "surface": "הַ/זֶּֽה",
+        "phrase": "this",
+        "literal": "the-this",
+        "source": "H2088 (KJV: this; ESV: this; NASB: this)"
+      }
+    ]
+  }
+]

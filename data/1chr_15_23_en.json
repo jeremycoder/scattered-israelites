@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 15,
+    "verse": 23,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בֶֽרֶכְיָה֙",
+        "phrase": "and Berechiah",
+        "literal": "and-Berechiah",
+        "source": "H1296; KJV: Berechiah, ESV: Berechiah, NASB: Berechiah"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אֶלְקָנָ֔ה",
+        "phrase": "and Elkanah",
+        "literal": "and-Elkanah",
+        "source": "H511; KJV: Elkanah, ESV: Elkanah, NASB: Elkanah"
+      },
+      {
+        "position": 3,
+        "surface": "שֹׁעֲרִ֖ים",
+        "phrase": "gatekeepers",
+        "literal": "gatekeepers",
+        "source": "H7778; KJV: doorkeepers, ESV: gatekeepers, NASB: gatekeepers"
+      },
+      {
+        "position": 4,
+        "surface": "לָ/אָרֽוֹן",
+        "phrase": "for the ark",
+        "literal": "to/for-ark",
+        "source": "H727; KJV: for the ark, ESV: for the ark, NASB: for the ark"
+      }
+    ]
+  }
+]

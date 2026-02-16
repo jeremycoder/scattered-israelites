@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֥י",
+        "phrase": "and the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV: 'son'; NASB: 'sons')"
+      },
+      {
+        "position": 2,
+        "surface": "אֵיתָ֖ן",
+        "phrase": "Ethan",
+        "literal": "Ethan",
+        "source": "H387 (KJV: 'Ethan'; ESV: 'Ethan'; NASB: 'Ethan')"
+      },
+      {
+        "position": 3,
+        "surface": "עֲזַרְיָֽה",
+        "phrase": "Azariah",
+        "literal": "Azariah",
+        "source": "H5838 (KJV: 'Azariah'; ESV: 'Azariah'; NASB: 'Azariah')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֵ֛לֶּה",
+        "phrase": "and these",
+        "literal": "and-these",
+        "source": "H428 (KJV: 'these'; ESV: 'these'; NASB: 'these')"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמ֥וֹת",
+        "phrase": "names",
+        "literal": "names-of",
+        "source": "H8034 (KJV: 'names'; ESV: 'names'; NASB: 'names')"
+      },
+      {
+        "position": 3,
+        "surface": "בְּֽנֵי",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: 'sons'; ESV: 'sons'; NASB: 'sons')"
+      },
+      {
+        "position": 4,
+        "surface": "גֵרְשׁ֖וֹם",
+        "phrase": "Gershom",
+        "literal": "Gershom",
+        "source": "H1647 (KJV: 'Gershom'; ESV: 'Gershom'; NASB: 'Gershom')"
+      },
+      {
+        "position": 5,
+        "surface": "לִבְנִ֥י",
+        "phrase": "Libni",
+        "literal": "to-Libni",
+        "source": "H3845 (KJV: 'Libni'; ESV: 'Libni'; NASB: 'Libni')"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שִׁמְעִֽי",
+        "phrase": "and Shimei",
+        "literal": "and-Shimei",
+        "source": "H8096 (KJV: 'Shimei'; ESV: 'Shimei'; NASB: 'Shimei')"
+      }
+    ]
+  }
+]

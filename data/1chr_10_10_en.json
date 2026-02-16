@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּשִׂ֨ימוּ֙",
+        "phrase": "And they put",
+        "literal": "and-they-put",
+        "source": "H7760; KJV: put, ESV: put, NASB: put"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "his",
+        "literal": "ObjMarker",
+        "source": "H853; KJV: (implied), ESV: (implied), NASB: (implied)"
+      },
+      {
+        "position": 3,
+        "surface": "כֵּלָ֔י/ו",
+        "phrase": "armor",
+        "literal": "implements-his",
+        "source": "H3627; KJV: armour, ESV: armor, NASB: armor"
+      },
+      {
+        "position": 4,
+        "surface": "בֵּ֖ית",
+        "phrase": "in the house",
+        "literal": "in-house",
+        "source": "H1004; KJV: house, ESV: temple, NASB: house"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהֵי/הֶ֑ם",
+        "phrase": "of their gods",
+        "literal": "gods-their",
+        "source": "H430; KJV: gods, ESV: gods, NASB: gods"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-ObjMarker",
+        "source": "H853; KJV: and (implied), ESV: and (implied), NASB: and (implied)"
+      },
+      {
+        "position": 7,
+        "surface": "גֻּלְגָּלְתּ֥/וֹ",
+        "phrase": "his head",
+        "literal": "skull-his",
+        "source": "H1538; KJV: head, ESV: head, NASB: head"
+      },
+      {
+        "position": 8,
+        "surface": "תָקְע֖וּ",
+        "phrase": "they fastened",
+        "literal": "they-thrust",
+        "source": "H8628; KJV: fastened, ESV: fastened, NASB: fastened"
+      },
+      {
+        "position": 9,
+        "surface": "בֵּ֥ית",
+        "phrase": "in the house",
+        "literal": "in-house",
+        "source": "H1004; KJV: temple, ESV: temple, NASB: house"
+      },
+      {
+        "position": 10,
+        "surface": "דָּגֽוֹן",
+        "phrase": "of Dagon",
+        "literal": "Dagon",
+        "source": "H1712; KJV: Dagon, ESV: Dagon, NASB: Dagon"
+      }
+    ]
+  }
+]

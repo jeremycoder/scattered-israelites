@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/זְבַדְיָ֥ה",
+        "phrase": "and Zebadiah",
+        "literal": "and-Zebadiah",
+        "source": "H2069 (KJV: Zebadiah; ESV: Zebadiah; NASB: Zebadiah)"
+      },
+      {
+        "position": 2,
+        "surface": "וַ/עֲרָ֖ד",
+        "phrase": "and Arad",
+        "literal": "and-Arad",
+        "source": "H6166 (KJV: Arad; ESV: Arad; NASB: Arad)"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/עָֽדֶר",
+        "phrase": "and Eder",
+        "literal": "and-Eder",
+        "source": "H5738 (KJV: Ader; ESV: Eder; NASB: Eder)"
+      }
+    ]
+  }
+]

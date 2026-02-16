@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 15,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "מֹשֶׁ֔ה",
+        "phrase": "Moses",
+        "literal": "Moses",
+        "source": "H4872 (KJV: Moses; ESV: Moses; NASB: Moses)"
+      },
+      {
+        "position": 3,
+        "surface": "גֵּרְשֹׁ֖ם",
+        "phrase": "Gershom",
+        "literal": "Gershom",
+        "source": "H1647 (KJV: Gershom; ESV: Gershom; NASB: Gershom)"
+      },
+      {
+        "position": 4,
+        "surface": "וֶ/אֱלִיעֶֽזֶר",
+        "phrase": "and Eliezer",
+        "literal": "and-Eliezer",
+        "source": "H461 (KJV: and Eliezer; ESV: and Eliezer; NASB: and Eliezer)"
+      }
+    ]
+  }
+]

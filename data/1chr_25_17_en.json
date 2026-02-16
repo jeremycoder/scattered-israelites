@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הָ/עֲשִׂירִ֣י",
+        "phrase": "the tenth",
+        "literal": "the-tenth",
+        "source": "H6224; KJV/ESV/NASB: 'the tenth'"
+      },
+      {
+        "position": 2,
+        "surface": "שִׁמְעִ֔י",
+        "phrase": "Shimei",
+        "literal": "Shimei",
+        "source": "H8096; KJV/ESV/NASB: 'Shimei'"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV/ESV/NASB: 'and his brothers/brethren'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: 'twelve' (with next word)"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'twelve' (with prev word)"
+      }
+    ]
+  }
+]

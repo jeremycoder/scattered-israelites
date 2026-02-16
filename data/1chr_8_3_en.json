@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֥וּ",
+        "phrase": "And they were",
+        "literal": "and-they-were",
+        "source": "H1961; KJV: 'And the sons of Bela were', ESV: 'And Bela had sons', NASB: 'The sons of Bela were'"
+      },
+      {
+        "position": 2,
+        "surface": "בָנִ֖ים",
+        "phrase": "sons",
+        "literal": "sons",
+        "source": "H1121; KJV: 'sons', ESV: 'sons', NASB: 'sons'"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/בָ֑לַע",
+        "phrase": "to Bela",
+        "literal": "to-Bela",
+        "source": "H1106; KJV: 'Bela', ESV: 'Bela', NASB: 'Bela'"
+      },
+      {
+        "position": 4,
+        "surface": "אַדָּ֥ר",
+        "phrase": "Addar",
+        "literal": "Addar",
+        "source": "H146; KJV: 'Addar', ESV: 'Addar', NASB: 'Addar'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/גֵרָ֖א",
+        "phrase": "and Gera",
+        "literal": "and-Gera",
+        "source": "H1617; KJV: 'and Gera', ESV: 'Gera', NASB: 'and Gera'"
+      },
+      {
+        "position": 6,
+        "surface": "וַ/אֲבִיהֽוּד",
+        "phrase": "and Abihud",
+        "literal": "and-Abihud",
+        "source": "H31; KJV: 'and Abihud', ESV: 'Abihud', NASB: 'and Abihud'"
+      }
+    ]
+  }
+]

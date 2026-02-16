@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/שְׁלֹשָׁ֤ה",
+        "phrase": "to the thirteenth",
+        "literal": "to-three",
+        "source": "H7969 (KJV: 'the thirteenth'; ESV/NASB: 'the thirteenth')"
+      },
+      {
+        "position": 2,
+        "surface": "עָשָׂר֙",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV: 'ten'; ESV/NASB: 'ten')"
+      },
+      {
+        "position": 3,
+        "surface": "שֽׁוּבָאֵ֔ל",
+        "phrase": "Shubael",
+        "literal": "Shubael",
+        "source": "H7619 (KJV/ESV/NASB: 'Shubael')"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV/ESV/NASB: 'his sons')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV/ESV/NASB: 'his brethren')"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV/ESV/NASB: 'twelve' with next word)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV/ESV/NASB: 'twelve' with prior word)"
+      }
+    ]
+  }
+]

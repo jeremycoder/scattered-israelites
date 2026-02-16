@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֧י",
+        "phrase": "and the sons of",
+        "literal": "and/of-sons",
+        "source": "H1121; KJV: sons, ESV: sons, NASB: sons"
+      },
+      {
+        "position": 2,
+        "surface": "שְׁמוּאֵ֛ל",
+        "phrase": "Samuel",
+        "literal": "Samuel",
+        "source": "H8050; KJV: Samuel, ESV: Samuel, NASB: Samuel"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/בְּכֹ֥ר",
+        "phrase": "the firstborn",
+        "literal": "the-firstborn",
+        "source": "H1060; KJV: the firstborn, ESV: the firstborn, NASB: the firstborn"
+      },
+      {
+        "position": 4,
+        "surface": "וַשְׁנִ֖י",
+        "phrase": "and the second",
+        "literal": "and-second",
+        "source": "H2059; KJV: and the second, ESV: and the second, NASB: and the second"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲבִיָּֽה",
+        "phrase": "and Abijah",
+        "literal": "and-Abijah",
+        "source": "H29; KJV: Abiah, ESV: Abijah, NASB: Abijah"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/אֶחָ֤ד",
+        "phrase": "to-the-one",
+        "literal": "to-one",
+        "source": "H259 (KJV: 'the one'; ESV/NASB: 'the twenty-first' with next word)"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/עֶשְׂרִים֙",
+        "phrase": "and-twenty",
+        "literal": "and-twenties",
+        "source": "H6242 (KJV: 'and twentieth'; ESV/NASB: 'twenty-first' with prior word)"
+      },
+      {
+        "position": 3,
+        "surface": "לְ/הוֹתִ֔יר",
+        "phrase": "to-Hothir",
+        "literal": "to-Hothir",
+        "source": "H1956 (KJV/ESV/NASB: 'Hothir')"
+      },
+      {
+        "position": 4,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his-sons",
+        "literal": "sons-his",
+        "source": "H1121 (KJV/ESV/NASB: 'his sons')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and-his-brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV/ESV/NASB: 'his brethren/relatives')"
+      },
+      {
+        "position": 6,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147 (KJV/ESV/NASB: 'twelve' with next word)"
+      },
+      {
+        "position": 7,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240 (KJV/ESV/NASB: 'twelve' with prior word)"
+      }
+    ]
+  }
+]

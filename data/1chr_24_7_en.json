@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּצֵ֞א",
+        "phrase": "and came out",
+        "literal": "and-came.out",
+        "source": "H3318 (KJV: came forth; ESV: fell; NASB: came out)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/גּוֹרָ֤ל",
+        "phrase": "the lot",
+        "literal": "the-lot",
+        "source": "H1486 (KJV: lot; ESV: lot; NASB: lot)"
+      },
+      {
+        "position": 3,
+        "surface": "הָ/רִאשׁוֹן֙",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223 (KJV: first; ESV: first; NASB: first)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/יה֣וֹיָרִ֔יב",
+        "phrase": "to Jehoiarib",
+        "literal": "to-Jehoiarib",
+        "source": "H3080 (KJV: Jehoiarib; ESV: Jehoiarib; NASB: Jehoiarib)"
+      },
+      {
+        "position": 5,
+        "surface": "לִֽ/ידַעְיָ֖ה",
+        "phrase": "to Jedaiah",
+        "literal": "to-Jedaiah",
+        "source": "H3048 (KJV: Jedaiah; ESV: Jedaiah; NASB: Jedaiah)"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/שֵּׁנִֽי",
+        "phrase": "the second",
+        "literal": "the-second",
+        "source": "H8145 (KJV: second; ESV: second; NASB: second)"
+      }
+    ]
+  }
+]

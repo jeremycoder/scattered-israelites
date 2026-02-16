@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֵּֽשְׁב֛וּ",
+        "phrase": "And they lived",
+        "literal": "and-they-dwelt",
+        "source": "H3427 (KJV: dwelt; ESV: lived; NASB: lived)"
+      },
+      {
+        "position": 2,
+        "surface": "בִּ/בְאֵֽר",
+        "phrase": "in Beer",
+        "literal": "in-Beer",
+        "source": "H884 (KJV: at Beersheba; ESV: in Beersheba; NASB: at Beersheba)"
+      },
+      {
+        "position": 3,
+        "surface": "שֶׁ֥בַע",
+        "phrase": "sheba",
+        "literal": "seven",
+        "source": "H884 (KJV: Beersheba; ESV: Beersheba; NASB: Beersheba)"
+      },
+      {
+        "position": 4,
+        "surface": "וּ/מוֹלָדָ֖ה",
+        "phrase": "and Moladah",
+        "literal": "and-Moladah",
+        "source": "H4137 (KJV: Moladah; ESV: Moladah; NASB: Moladah)"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/חֲצַ֥ר",
+        "phrase": "and Hazar",
+        "literal": "and-enclosure",
+        "source": "H2705 (KJV: Hazarshual; ESV: Hazar-shual; NASB: Hazar-shual)"
+      },
+      {
+        "position": 6,
+        "surface": "שׁוּעָֽל",
+        "phrase": "shual",
+        "literal": "fox",
+        "source": "H2705 (KJV: Hazarshual; ESV: Hazar-shual; NASB: Hazar-shual)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִן",
+        "phrase": "And from",
+        "literal": "and-from",
+        "source": "H4480 (KJV: 'And of'; ESV/NASB: 'From')"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/שִּׁ֣ילוֹנִ֔י",
+        "phrase": "the Shilonites",
+        "literal": "the-Shilonite",
+        "source": "H7888 (KJV: 'Shilonites'; ESV: 'Shilonites'; NASB: 'Shilonites')"
+      },
+      {
+        "position": 3,
+        "surface": "עֲשָׂיָ֥ה",
+        "phrase": "Asaiah",
+        "literal": "Asaiah",
+        "source": "H6222 (KJV/ESV/NASB: 'Asaiah')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/בְּכ֖וֹר",
+        "phrase": "the firstborn",
+        "literal": "the-firstborn",
+        "source": "H1060 (KJV/ESV/NASB: 'firstborn')"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/בָנָֽי/ו",
+        "phrase": "and his sons",
+        "literal": "and-sons-his",
+        "source": "H1121 (KJV/ESV/NASB: 'sons')"
+      }
+    ]
+  }
+]

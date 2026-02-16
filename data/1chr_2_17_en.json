@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲבִיגַ֕יִל",
+        "phrase": "And Abigail",
+        "literal": "and-Abigail",
+        "source": "H26: KJV 'Abigail', ESV 'Abigail', NASB 'Abigail'"
+      },
+      {
+        "position": 2,
+        "surface": "יָלְדָ֖ה",
+        "phrase": "bore",
+        "literal": "she-bore",
+        "source": "H3205: KJV 'bare', ESV 'bore', NASB 'bore'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853: KJV (implied), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 4,
+        "surface": "עֲמָשָׂ֑א",
+        "phrase": "Amasa",
+        "literal": "Amasa",
+        "source": "H6021: KJV 'Amasa', ESV 'Amasa', NASB 'Amasa'"
+      },
+      {
+        "position": 5,
+        "surface": "וַ/אֲבִ֣י",
+        "phrase": "and father-of",
+        "literal": "and-father-of",
+        "source": "H1: KJV 'the father', ESV 'the father', NASB 'the father'"
+      },
+      {
+        "position": 6,
+        "surface": "עֲמָשָׂ֔א",
+        "phrase": "Amasa",
+        "literal": "Amasa",
+        "source": "H6021: KJV 'Amasa', ESV 'Amasa', NASB 'Amasa'"
+      },
+      {
+        "position": 7,
+        "surface": "יֶ֖תֶר",
+        "phrase": "Jether",
+        "literal": "Jether",
+        "source": "H3500: KJV 'Jether', ESV 'Jether', NASB 'Jether'"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/יִּשְׁמְעֵאלִֽי",
+        "phrase": "the Ishmaelite",
+        "literal": "the-Ishmaelite",
+        "source": "H3459: KJV 'Ishmeelite', ESV 'Ishmaelite', NASB 'Ishmaelite'"
+      }
+    ]
+  }
+]

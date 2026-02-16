@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: of; NASB: of) [3]"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵי֙",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: the Aaronites; ESV: of the house of Aaron; NASB: the house of Aaron) [2][3]"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/לֵּוִ֔י",
+        "phrase": "the Levites",
+        "literal": "the-Levi",
+        "source": "H3878 (KJV: the Aaronites; ESV: of the house of Aaron; NASB: the house of Aaron) [1][2][3]"
+      },
+      {
+        "position": 4,
+        "surface": "אַרְבַּ֥עַת",
+        "phrase": "four",
+        "literal": "four",
+        "source": "H702 (KJV: three; ESV: 3,700; NASB: 3,700) [2]"
+      },
+      {
+        "position": 5,
+        "surface": "אֲלָפִ֖ים",
+        "phrase": "thousands",
+        "literal": "thousands",
+        "source": "H505 (KJV: thousand; ESV: 3,700; NASB: 3,700) [2]"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/שֵׁ֥שׁ",
+        "phrase": "and-six",
+        "literal": "and-six",
+        "source": "H8337 (KJV: and seven; ESV: 3,700; NASB: 3,700) [2]"
+      },
+      {
+        "position": 7,
+        "surface": "מֵאֽוֹת",
+        "phrase": "hundreds",
+        "literal": "hundreds",
+        "source": "H3967 (KJV: hundred; ESV: 3,700; NASB: 3,700) [2]"
+      }
+    ]
+  }
+]

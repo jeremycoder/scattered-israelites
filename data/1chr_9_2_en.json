@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/הַ/יּוֹשְׁבִים֙",
+        "phrase": "and-the-(ones)-dwelling",
+        "literal": "and-the-dwelling-ones",
+        "source": "H3427 (KJV: 'that dwelt'; ESV: 'to dwell again'; NASB: 'to dwell again')"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/רִ֣אשֹׁנִ֔ים",
+        "phrase": "the-first-(ones)",
+        "literal": "the-first-ones",
+        "source": "H7223 (KJV: 'first inhabitants'; ESV: 'first'; NASB: 'first')"
+      },
+      {
+        "position": 3,
+        "surface": "אֲשֶׁ֥ר",
+        "phrase": "who",
+        "literal": "who",
+        "source": "H834 (KJV/ESV/NASB: 'that/who')"
+      },
+      {
+        "position": 4,
+        "surface": "בַּ/אֲחֻזָּתָ֖/ם",
+        "phrase": "in-their-possession",
+        "literal": "in-possession-their",
+        "source": "H272 (KJV: 'possessions'; ESV: 'possessions'; NASB: 'possessions')"
+      },
+      {
+        "position": 5,
+        "surface": "בְּ/עָרֵי/הֶ֑ם",
+        "phrase": "in-cities-their",
+        "literal": "in-cities-their",
+        "source": "H5892 (KJV/ESV/NASB: 'cities')"
+      },
+      {
+        "position": 6,
+        "surface": "יִשְׂרָאֵל֙",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV/ESV/NASB: 'Israel/Israelites')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/כֹּ֣הֲנִ֔ים",
+        "phrase": "the-priests",
+        "literal": "the-priests",
+        "source": "H3548 (KJV/ESV/NASB: 'priests')"
+      },
+      {
+        "position": 8,
+        "surface": "הַ/לְוִיִּ֖ם",
+        "phrase": "the-Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV/ESV/NASB: 'Levites')"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/הַ/נְּתִינִֽים",
+        "phrase": "and-the-temple-servants",
+        "literal": "and-the-Nethinim",
+        "source": "H5411 (KJV: 'Nethinims'; ESV/NASB: 'temple servants')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 21,
+    "verse": 9,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְדַבֵּ֤ר",
+        "phrase": "and spoke",
+        "literal": "and-he-spoke",
+        "source": "H1696 (KJV: spake; ESV: spoke; NASB: spoke)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: LORD; NASB: LORD)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶל",
+        "phrase": "to",
+        "literal": "to",
+        "source": "H413 (KJV: unto; ESV: to; NASB: to)"
+      },
+      {
+        "position": 4,
+        "surface": "גָּ֔ד",
+        "phrase": "Gad",
+        "literal": "Gad",
+        "source": "H1410 (KJV: Gad; ESV: Gad; NASB: Gad)"
+      },
+      {
+        "position": 5,
+        "surface": "חֹזֵ֥ה",
+        "phrase": "seer",
+        "literal": "seer",
+        "source": "H2374 (KJV: seer; ESV: seer; NASB: seer)"
+      },
+      {
+        "position": 6,
+        "surface": "דָוִ֖יד",
+        "phrase": "David's",
+        "literal": "David-of",
+        "source": "H1732 (KJV: David's; ESV: David's; NASB: David's)"
+      },
+      {
+        "position": 7,
+        "surface": "לֵ/אמֹֽר",
+        "phrase": "saying",
+        "literal": "to-say",
+        "source": "H559 (KJV: saying; ESV: saying; NASB: saying)"
+      }
+    ]
+  }
+]

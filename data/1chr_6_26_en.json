@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121: KJV/ESV/NASB 'his son' (genitive construct indicating filial relation)[1][2]"
+      },
+      {
+        "position": 2,
+        "surface": "אֶתְנִ֥י",
+        "phrase": "Ethni",
+        "literal": "Ethni",
+        "source": "H867: KJV 'Ethni', ESV 'Ethni', NASB 'Ethni' (proper name, son of Zerah)[1][4]"
+      },
+      {
+        "position": 3,
+        "surface": "בֶן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121: KJV/ESV/NASB 'his son' (repeated construct for genealogy)[1][2]"
+      },
+      {
+        "position": 4,
+        "surface": "זֶ֖רַח",
+        "phrase": "Zerah",
+        "literal": "Zerah",
+        "source": "H2226: KJV 'Zerah', ESV 'Zerah', NASB 'Zerah' (proper name, son of Adaiah)[1][4]"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121: KJV/ESV/NASB 'his son' (standard genealogical construct)[1][2]"
+      },
+      {
+        "position": 6,
+        "surface": "עֲדָיָֽה",
+        "phrase": "Adaiah",
+        "literal": "Adaiah",
+        "source": "H5718: KJV 'Adaiah', ESV 'Adaiah', NASB 'Adaiah' (proper name in Levitical genealogy)[1][4]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verse": 40,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בֶן",
+        "phrase": "and son",
+        "literal": "and-son",
+        "source": "H1121: KJV 'And the son', ESV 'The son', NASB 'The son'"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוֹנָתָ֖ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083: KJV 'of Jonathan', ESV 'of Jonathan', NASB 'of Jonathan'"
+      },
+      {
+        "position": 3,
+        "surface": "מְרִ֣יב",
+        "phrase": "Merib",
+        "literal": "Merib",
+        "source": "H4807: KJV 'Merib-baal', ESV 'Merib-baal', NASB 'Merib-baal' (part of compound name)"
+      },
+      {
+        "position": 4,
+        "surface": "בָּ֑עַל",
+        "phrase": "baal",
+        "literal": "baal",
+        "source": "H4807: KJV 'Merib-baal', ESV 'Merib-baal', NASB 'Merib-baal' (part of compound name)"
+      },
+      {
+        "position": 5,
+        "surface": "וּ/מְרִי",
+        "phrase": "and Meri",
+        "literal": "and-Meri",
+        "source": "H4810: KJV 'Merib-baal', ESV 'Merib-baal', NASB 'Merib-baal' (variant form, part of compound name)"
+      },
+      {
+        "position": 6,
+        "surface": "בַ֖עַל",
+        "phrase": "baal",
+        "literal": "baal",
+        "source": "H4810: KJV 'Merib-baal', ESV 'Merib-baal', NASB 'Merib-baal' (variant form, part of compound name)"
+      },
+      {
+        "position": 7,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "begat",
+        "literal": "caused-to-bear",
+        "source": "H3205: KJV 'begat', ESV 'became the father of', NASB 'became the father of'"
+      },
+      {
+        "position": 8,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853: KJV (implied in 'Micah'), ESV (implied), NASB (implied)"
+      },
+      {
+        "position": 9,
+        "surface": "מִיכָֽה",
+        "phrase": "Micah",
+        "literal": "Micah",
+        "source": "H4318: KJV 'Micah', ESV 'Micah', NASB 'Micah'"
+      }
+    ]
+  }
+]

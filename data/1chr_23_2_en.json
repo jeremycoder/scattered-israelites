@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֶּאֱסֹף֙",
+        "phrase": "And he gathered",
+        "literal": "and-he-gathered",
+        "source": "H622 (KJV: gathered together; ESV: assembled; NASB: gathered)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 4,
+        "surface": "שָׂרֵ֣י",
+        "phrase": "leaders of",
+        "literal": "princes-of",
+        "source": "H8269 (KJV: princes; ESV: leaders; NASB: leaders)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשְׂרָאֵ֔ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/הַ/כֹּהֲנִ֖ים",
+        "phrase": "and the priests",
+        "literal": "and-the-priests",
+        "source": "H3548 (KJV: priests; ESV: priests; NASB: priests)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/הַ/לְוִיִּֽם",
+        "phrase": "and the Levites",
+        "literal": "and-the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      }
+    ]
+  }
+]

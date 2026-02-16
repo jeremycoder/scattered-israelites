@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 5,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶחָי/ו֙",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251 (KJV: 'his brethren'; ESV: 'his brothers'; NASB: 'his kinsmen')"
+      },
+      {
+        "position": 2,
+        "surface": "לְ/מִשְׁפְּחֹתָ֔י/ו",
+        "phrase": "by their families",
+        "literal": "to-families-their-his",
+        "source": "H4940 (KJV: 'by their families'; ESV: 'by their clans'; NASB: 'by their families')"
+      },
+      {
+        "position": 3,
+        "surface": "בְּ/הִתְיַחֵ֖שׂ",
+        "phrase": "when genealogy was taken",
+        "literal": "in-being-genealogized",
+        "source": "H3187 (KJV: 'when the genealogy'; ESV: 'when the genealogy'; NASB: 'when genealogy was recorded')"
+      },
+      {
+        "position": 4,
+        "surface": "לְ/תֹלְדוֹתָ֑/ם",
+        "phrase": "of their generations",
+        "literal": "to-generations-their-their",
+        "source": "H8435 (KJV: 'of their generations'; ESV: 'of their generations'; NASB: 'according to their generations')"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/רֹ֥אשׁ",
+        "phrase": "the chief",
+        "literal": "the-head",
+        "source": "H7218 (KJV: 'the chief'; ESV: 'the chief'; NASB: 'the chief')"
+      },
+      {
+        "position": 6,
+        "surface": "יְעִיאֵ֖ל",
+        "phrase": "Jeiel",
+        "literal": "Jeiel",
+        "source": "H3273 (KJV: 'Jeiel'; ESV: 'Jeiel'; NASB: 'Jeiel')"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/זְכַרְיָֽהוּ",
+        "phrase": "and Zechariah",
+        "literal": "and-Zechariah",
+        "source": "H2148 (KJV: 'Zechariah'; ESV: 'Zechariah'; NASB: 'Zechariah')"
+      }
+    ]
+  }
+]

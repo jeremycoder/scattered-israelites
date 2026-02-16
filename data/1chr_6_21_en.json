@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 21,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (ben-o, construct form)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶלְקָנָה֙",
+        "phrase": "Elkanah",
+        "literal": "Elkanah",
+        "source": "H511; KJV: Elkanah, ESV: Elkanah, NASB: Elkanah (proper name, variant reading in some texts)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (ben-o, construct form)"
+      },
+      {
+        "position": 4,
+        "surface": "יוֹאֵ֔ל",
+        "phrase": "Joel",
+        "literal": "Joel",
+        "source": "H3100; Note: Differs from MT יוֹאָח (Joah H3098); KJV/ESV/NASB follow MT as 'Joah'"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (ben-o, construct form)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲזַרְיָ֖ה",
+        "phrase": "Azariah",
+        "literal": "Azariah",
+        "source": "H5838; KJV/ESV/NASB: 'Iddo' or 'Zerah' in sequence, but H5838 typically Azariah; context matches Iddo/Zerah variants"
+      },
+      {
+        "position": 7,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (ben-o, construct form)"
+      },
+      {
+        "position": 8,
+        "surface": "צְפַנְיָֽה",
+        "phrase": "Zephaniah",
+        "literal": "Zephaniah",
+        "source": "H6846; KJV/ESV/NASB: 'Jeaterai/Jeatherai' (MT יְאָתְרַי H2979); possible variant or scribal diff"
+      }
+    ]
+  }
+]

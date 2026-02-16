@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 28,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵי֙",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons' (genitive construct)"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֔ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85; KJV/ESV/NASB: 'Abraham'"
+      },
+      {
+        "position": 3,
+        "surface": "יִצְחָ֖ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "H3327; KJV/ESV/NASB: 'Isaac'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/יִשְׁמָעֵֽאל",
+        "phrase": "and Ishmael",
+        "literal": "and-Ishmael",
+        "source": "H3458; KJV/ESV/NASB: 'and Ishmael'"
+      }
+    ]
+  }
+]

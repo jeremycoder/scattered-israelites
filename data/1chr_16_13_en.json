@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 13,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "זֶ֚רַע",
+        "phrase": "seed",
+        "literal": "seed",
+        "source": "H2233; KJV: seed, ESV: offspring, NASB: descendants"
+      },
+      {
+        "position": 2,
+        "surface": "יִשְׂרָאֵ֣ל",
+        "phrase": "of Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV: Israel, ESV: Israel, NASB: Israel"
+      },
+      {
+        "position": 3,
+        "surface": "עַבְדּ֔/וֹ",
+        "phrase": "his servant",
+        "literal": "servant-his",
+        "source": "H5650; KJV: his servant, ESV: his servant, NASB: His servant"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֥י",
+        "phrase": "children",
+        "literal": "sons-of",
+        "source": "H1121; KJV: children/ye children, ESV: children, NASB: descendants"
+      },
+      {
+        "position": 5,
+        "surface": "יַעֲקֹ֖ב",
+        "phrase": "of Jacob",
+        "literal": "Jacob",
+        "source": "H3290; KJV: Jacob, ESV: Jacob, NASB: Jacob"
+      },
+      {
+        "position": 6,
+        "surface": "בְּחִירָֽי/ו",
+        "phrase": "his chosen ones",
+        "literal": "chosen-his",
+        "source": "H972; KJV: his chosen, ESV: his chosen ones, NASB: His chosen ones"
+      }
+    ]
+  }
+]

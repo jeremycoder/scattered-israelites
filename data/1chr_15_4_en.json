@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 15,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יֶּאֱסֹ֥ף",
+        "phrase": "and he gathered",
+        "literal": "and-he-gathered",
+        "source": "H622 (KJV: assembled; ESV: gathered; NASB: gathered)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֛יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children of; ESV: sons of; NASB: descendants of)"
+      },
+      {
+        "position": 5,
+        "surface": "אַֽהֲרֹ֖ן",
+        "phrase": "Aaron",
+        "literal": "Aaron",
+        "source": "H175 (KJV: Aaron; ESV: Aaron; NASB: Aaron)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/לְוִיִּֽם",
+        "phrase": "the Levites",
+        "literal": "the-Levites",
+        "source": "H3881 (KJV: the Levites; ESV: the Levites; NASB: the Levites)"
+      }
+    ]
+  }
+]

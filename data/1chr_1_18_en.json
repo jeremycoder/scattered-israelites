@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 18,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אַרְפַּכְשַׁ֖ד",
+        "phrase": "and Arpachshad",
+        "literal": "and-Arpachshad",
+        "source": "H775 (KJV: Arphaxad; ESV/NASB: Arpachshad)"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֣ד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "H3205 (KJV/ESV/NASB: begat/fathered)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "שָׁ֑לַח",
+        "phrase": "Shelah",
+        "literal": "Shelah",
+        "source": "H7974 (KJV: Shelah; ESV/NASB: Shelah)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/שֶׁ֖לַח",
+        "phrase": "and Shelah",
+        "literal": "and-Shelah",
+        "source": "H7974 (KJV: Shelah; ESV/NASB: Shelah)"
+      },
+      {
+        "position": 6,
+        "surface": "יָלַ֥ד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "H3205 (KJV/ESV/NASB: begat/fathered)"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV/ESV/NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "עֵֽבֶר",
+        "phrase": "Eber",
+        "literal": "Eber",
+        "source": "H5677 (KJV: Eber; ESV/NASB: Eber)"
+      }
+    ]
+  }
+]

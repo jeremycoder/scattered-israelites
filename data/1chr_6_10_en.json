@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵי֙",
+        "phrase": "and the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV: 'and Johanan begat', ESV: 'and Johanan fathered', NASB: 'Johanan became the father of'"
+      },
+      {
+        "position": 2,
+        "surface": "אֶלְקָנָ֔ה",
+        "phrase": "Elkanah",
+        "literal": "Elkanah",
+        "source": "H511; KJV: 'Elkanah', ESV: 'Elkanah', NASB: 'Elkanah'"
+      },
+      {
+        "position": 3,
+        "surface": "עֲמָשַׂ֖י",
+        "phrase": "Amashai",
+        "literal": "Amashai",
+        "source": "H6022; KJV: 'Amashai', ESV: 'Amashai', NASB: 'Amashai'"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/אֲחִימֽוֹת",
+        "phrase": "and Ahimoth",
+        "literal": "and-Ahimoth",
+        "source": "H287; KJV: 'Ahimoth', ESV: 'Ahimoth', NASB: 'Ahimoth'"
+      }
+    ]
+  }
+]

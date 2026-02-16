@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verse": 7,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יְחָרֵ֖ף",
+        "phrase": "and he taunted",
+        "literal": "and-he-defied",
+        "source": "H2778 (KJV: defied; ESV: taunted; NASB: defied)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יַּכֵּ֨/הוּ֙",
+        "phrase": "and struck him down",
+        "literal": "and-he-struck-him",
+        "source": "H5221 (KJV: slew; ESV: struck ... down; NASB: killed)"
+      },
+      {
+        "position": 5,
+        "surface": "יְה֣וֹנָתָ֔ן",
+        "phrase": "Jonathan",
+        "literal": "Jonathan",
+        "source": "H3083 (KJV: Jonathan; ESV: Jonathan; NASB: Jonathan)"
+      },
+      {
+        "position": 6,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121 (KJV: son; ESV: son; NASB: son)"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁמְעָ֖א",
+        "phrase": "Shimea",
+        "literal": "Shimea",
+        "source": "H8092 (KJV: Shimea; ESV: Shimea; NASB: Shimea)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחִ֥י",
+        "phrase": "brother of",
+        "literal": "brother-of",
+        "source": "H251 (KJV: brother; ESV: brother; NASB: brother)"
+      },
+      {
+        "position": 9,
+        "surface": "דָוִֽיד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      }
+    ]
+  }
+]

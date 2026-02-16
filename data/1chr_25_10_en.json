@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הַ/שְּׁלִשִׁ֣י",
+        "phrase": "the third",
+        "literal": "the-third",
+        "source": "H7992; KJV: the third, ESV: the third, NASB: the third"
+      },
+      {
+        "position": 2,
+        "surface": "זַכּ֔וּר",
+        "phrase": "Zaccur",
+        "literal": "Zaccur",
+        "source": "H2139; KJV: Zaccur, ESV: Zaccur, NASB: Zaccur"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV: his sons, ESV: his sons, NASB: his sons"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV: his brethren, ESV: his brothers, NASB: his brothers"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "two",
+        "literal": "two",
+        "source": "H8147; KJV: twelve (part), ESV: twelve (part), NASB: twelve (part)"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "ten",
+        "literal": "ten",
+        "source": "H6240; KJV: twelve (part), ESV: twelve (part), NASB: twelve (part)"
+      }
+    ]
+  }
+]

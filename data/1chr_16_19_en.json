@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בִּֽ/הְיֽוֹתְ/כֶם֙",
+        "phrase": "When you were",
+        "literal": "in-being-your",
+        "source": "H1961; KJV 'When ye were', ESV 'When you were', NASB 'When they were'"
+      },
+      {
+        "position": 2,
+        "surface": "מְתֵ֣י",
+        "phrase": "men of",
+        "literal": "men-of",
+        "source": "H4962; KJV 'few', ESV 'few in number', NASB 'few men'"
+      },
+      {
+        "position": 3,
+        "surface": "מִסְפָּ֔ר",
+        "phrase": "number",
+        "literal": "number",
+        "source": "H4557; KJV 'even a few', ESV 'in number', NASB 'in number'"
+      },
+      {
+        "position": 4,
+        "surface": "כִּ/מְעַ֖ט",
+        "phrase": "as little",
+        "literal": "like-little",
+        "source": "H4592; KJV 'but a few', ESV 'of little account', NASB 'very few'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/גָרִ֥ים",
+        "phrase": "and-sojourners",
+        "literal": "and-sojourning",
+        "source": "H1481; KJV 'strangers', ESV 'sojourners', NASB 'strangers'"
+      },
+      {
+        "position": 6,
+        "surface": "בָּֽ/הּ",
+        "phrase": "in it",
+        "literal": "in-it",
+        "source": "-; KJV 'in it', ESV 'in it', NASB 'in it"
+      }
+    ]
+  }
+]

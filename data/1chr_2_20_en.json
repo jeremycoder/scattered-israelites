@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/חוּר֙",
+        "phrase": "and Hur",
+        "literal": "and-Hur",
+        "source": "H2354; KJV: 'And Hur', ESV: 'Hur', NASB: 'Hur'"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֣יד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "H3205; KJV: 'begat', ESV: 'fathered', NASB: 'became the father of'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (untranslated sign of direct object)"
+      },
+      {
+        "position": 4,
+        "surface": "אוּרִ֔י",
+        "phrase": "Uri",
+        "literal": "Uri",
+        "source": "H221; KJV: 'Uri', ESV: 'Uri', NASB: 'Uri'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אוּרִ֖י",
+        "phrase": "and Uri",
+        "literal": "and-Uri",
+        "source": "H221; KJV: 'and Uri', ESV: 'and Uri', NASB: 'and Uri'"
+      },
+      {
+        "position": 6,
+        "surface": "הוֹלִ֥יד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "H3205; KJV: 'begat', ESV: 'fathered', NASB: 'became the father of'"
+      },
+      {
+        "position": 7,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: (untranslated sign of direct object)"
+      },
+      {
+        "position": 8,
+        "surface": "בְּצַלְאֵֽל",
+        "phrase": "Bezalel",
+        "literal": "Bezalel",
+        "source": "H1212; KJV: 'Bezaleel', ESV: 'Bezalel', NASB: 'Bezalel'"
+      }
+    ]
+  }
+]

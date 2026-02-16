@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/עֶשְׂרִים֙",
+        "phrase": "for the twentieth",
+        "literal": "to-twenty",
+        "source": "H6242; KJV/ESV/NASB: 'the twentieth' (as ordinal with preposition)"
+      },
+      {
+        "position": 2,
+        "surface": "לֶֽ/אֱלִיָּ֔תָה",
+        "phrase": "to Eliathah",
+        "literal": "to-Eliathah",
+        "source": "H448; KJV/ESV/NASB: 'Eliathah' (proper name)"
+      },
+      {
+        "position": 3,
+        "surface": "בָּנָ֥י/ו",
+        "phrase": "his sons",
+        "literal": "sons-his",
+        "source": "H1121; KJV/ESV/NASB: 'his sons'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251; KJV/ESV/NASB: 'his brethren'/'his brothers'"
+      },
+      {
+        "position": 5,
+        "surface": "שְׁנֵ֥ים",
+        "phrase": "twelve",
+        "literal": "two",
+        "source": "H8147; KJV/ESV/NASB: 'twelve' (with next word)"
+      },
+      {
+        "position": 6,
+        "surface": "עָשָֽׂר",
+        "phrase": "twelve",
+        "literal": "ten",
+        "source": "H6240; KJV/ESV/NASB: 'twelve' (with prior word)"
+      }
+    ]
+  }
+]

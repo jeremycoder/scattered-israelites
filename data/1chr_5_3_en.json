@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 5,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'sons'"
+      },
+      {
+        "position": 2,
+        "surface": "רְאוּבֵ֖ן",
+        "phrase": "Reuben",
+        "literal": "Reuben",
+        "source": "H7205; KJV/ESV/NASB: 'Reuben'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּכ֣וֹר",
+        "phrase": "firstborn",
+        "literal": "firstborn",
+        "source": "H1060; KJV/ESV/NASB: 'firstborn'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׂרָאֵ֑ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478; KJV/ESV/NASB: 'Israel'"
+      },
+      {
+        "position": 5,
+        "surface": "חֲנ֥וֹךְ",
+        "phrase": "Hanoch",
+        "literal": "Hanoch",
+        "source": "H2585; KJV: 'Hanoch', ESV/NASB: 'Hanoch'"
+      },
+      {
+        "position": 6,
+        "surface": "וּ/פַלּ֖וּא",
+        "phrase": "and Pallu",
+        "literal": "and-Pallu",
+        "source": "H6396; KJV: 'Pallu', ESV/NASB: 'Pallu'"
+      },
+      {
+        "position": 7,
+        "surface": "חֶצְר֥וֹן",
+        "phrase": "Hezron",
+        "literal": "Hezron",
+        "source": "H2696; KJV/ESV/NASB: 'Hezron'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/כַרְמִֽי",
+        "phrase": "and Carmi",
+        "literal": "and-Carmi",
+        "source": "H3756; KJV/ESV/NASB: 'Carmi'"
+      }
+    ]
+  }
+]

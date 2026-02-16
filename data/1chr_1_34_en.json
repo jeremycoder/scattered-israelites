@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יּ֥וֹלֶד",
+        "phrase": "and-fathered",
+        "literal": "and-he-gave-birth",
+        "source": "H3205 (KJV: begat; ESV: fathered; NASB: became the father of)"
+      },
+      {
+        "position": 2,
+        "surface": "אַבְרָהָ֖ם",
+        "phrase": "Abraham",
+        "literal": "Abraham",
+        "source": "H85 (KJV: Abraham; ESV: Abraham; NASB: Abraham)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[accusative-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "יִצְחָ֑ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "H3327 (KJV: Isaac; ESV: Isaac; NASB: Isaac)"
+      },
+      {
+        "position": 5,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons-of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: The sons; ESV: The sons; NASB: The sons)"
+      },
+      {
+        "position": 6,
+        "surface": "יִצְחָ֔ק",
+        "phrase": "Isaac",
+        "literal": "Isaac",
+        "source": "H3327 (KJV: of Isaac; ESV: of Isaac; NASB: of Isaac)"
+      },
+      {
+        "position": 7,
+        "surface": "עֵשָׂ֖ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "H6215 (KJV: Esau; ESV: Esau; NASB: Esau)"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/יִשְׂרָאֵֽל",
+        "phrase": "and-Israel",
+        "literal": "and-Israel",
+        "source": "H3478 (KJV: and Israel; ESV: and Israel; NASB: and Israel)"
+      }
+    ]
+  }
+]

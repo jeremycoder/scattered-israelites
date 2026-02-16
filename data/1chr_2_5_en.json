@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵי",
+        "phrase": "The sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'The sons'"
+      },
+      {
+        "position": 2,
+        "surface": "פֶ֖רֶץ",
+        "phrase": "Perez",
+        "literal": "Perez",
+        "source": "H6557; KJV/ESV/NASB: 'Perez'/'Pharez'"
+      },
+      {
+        "position": 3,
+        "surface": "חֶצְר֥וֹן",
+        "phrase": "Hezron",
+        "literal": "Hezron",
+        "source": "H2696; KJV/ESV/NASB: 'Hezron'"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/חָמֽוּל",
+        "phrase": "and Hamul",
+        "literal": "and-Hamul",
+        "source": "H2538; KJV/ESV/NASB: 'and Hamul'"
+      }
+    ]
+  }
+]

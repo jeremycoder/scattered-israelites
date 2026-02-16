@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 19,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּשְׁמַ֖ע",
+        "phrase": "and he heard",
+        "literal": "and-he-heard",
+        "source": "H8085 (KJV: heard; ESV: heard; NASB: heard)"
+      },
+      {
+        "position": 2,
+        "surface": "דָּוִ֑יד",
+        "phrase": "David",
+        "literal": "David",
+        "source": "H1732 (KJV: David; ESV: David; NASB: David)"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּשְׁלַח֙",
+        "phrase": "and he sent",
+        "literal": "and-he-sent",
+        "source": "H7971 (KJV: sent; ESV: sent; NASB: sent)"
+      },
+      {
+        "position": 4,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct object marker]",
+        "source": "H853 (KJV: -; ESV: -; NASB: -)"
+      },
+      {
+        "position": 5,
+        "surface": "יוֹאָ֔ב",
+        "phrase": "Joab",
+        "literal": "Joab",
+        "source": "H3097 (KJV: Joab; ESV: Joab; NASB: Joab)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֵ֥ת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[direct object marker]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 7,
+        "surface": "כָּל",
+        "phrase": "all",
+        "literal": "all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 8,
+        "surface": "צָבָ֖א",
+        "phrase": "army",
+        "literal": "host/army",
+        "source": "H6635 (KJV: host; ESV: army; NASB: army)"
+      },
+      {
+        "position": 9,
+        "surface": "הַ/גִּבּוֹרִֽים",
+        "phrase": "the mighty men",
+        "literal": "the-mighty-men",
+        "source": "H1368 (KJV: mighty men; ESV: mighty men; NASB: mighty men)"
+      }
+    ]
+  }
+]

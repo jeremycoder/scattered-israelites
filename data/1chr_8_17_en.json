@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 17,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/זְבַדְיָ֥ה",
+        "phrase": "and Zebadiah",
+        "literal": "and-Zebadiah",
+        "source": "H2069; KJV/ESV/NASB: Zebadiah"
+      },
+      {
+        "position": 2,
+        "surface": "וּ/מְשֻׁלָּ֖ם",
+        "phrase": "and Meshullam",
+        "literal": "and-Meshullam",
+        "source": "H4918; KJV/ESV/NASB: Meshullam"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/חִזְקִ֥י",
+        "phrase": "and Hizki",
+        "literal": "and-Hizki",
+        "source": "H2395; KJV: Hizki, ESV/NASB: Hizki (short for Hezeki)"
+      },
+      {
+        "position": 4,
+        "surface": "וָ/חָֽבֶר",
+        "phrase": "and Heber",
+        "literal": "and-Heber",
+        "source": "H2268; KJV/ESV/NASB: Heber"
+      }
+    ]
+  }
+]

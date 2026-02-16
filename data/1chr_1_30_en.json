@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִשְׁמָ֣ע",
+        "phrase": "Mishma",
+        "literal": "Mishma",
+        "source": "H4927; KJV/ESV/NASB: Mishma"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/דוּמָ֔ה",
+        "phrase": "and Dumah",
+        "literal": "and-Dumah",
+        "source": "H1746; KJV/ESV/NASB: Dumah"
+      },
+      {
+        "position": 3,
+        "surface": "מַשָּׂ֖א",
+        "phrase": "Massa",
+        "literal": "Massa",
+        "source": "H4854; KJV/ESV/NASB: Massa"
+      },
+      {
+        "position": 4,
+        "surface": "חֲדַ֥ד",
+        "phrase": "Hadad",
+        "literal": "Hadad",
+        "source": "H2301; KJV: Hadad, ESV/NASB: Hadad"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/תֵימָֽא",
+        "phrase": "and Tema",
+        "literal": "and-Tema",
+        "source": "H8485; KJV/ESV/NASB: Tema"
+      }
+    ]
+  }
+]

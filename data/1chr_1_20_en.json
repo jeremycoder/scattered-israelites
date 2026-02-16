@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יָקְטָ֣ן",
+        "phrase": "And Joktan",
+        "literal": "and-Joktan",
+        "source": "H3355; KJV/ESV/NASB: 'Joktan' (as subject of begetting)"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֔ד",
+        "phrase": "begat",
+        "literal": "begat",
+        "source": "H3205; KJV: 'begat', ESV/NASB: 'fathered'/'was the father of'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: not translated (direct object marker)"
+      },
+      {
+        "position": 4,
+        "surface": "אַלְמוֹדָ֖ד",
+        "phrase": "Almodad",
+        "literal": "Almodad",
+        "source": "H486; KJV/ESV/NASB: 'Almodad'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and-",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: 'and' (with object marker not translated)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׁ֑לֶף",
+        "phrase": "Sheleph",
+        "literal": "Sheleph",
+        "source": "H8026; KJV/ESV/NASB: 'Sheleph'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and-",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: 'and' (with object marker not translated)"
+      },
+      {
+        "position": 8,
+        "surface": "חֲצַרְמָ֖וֶת",
+        "phrase": "Hazarmaveth",
+        "literal": "Hazarmaveth",
+        "source": "H2700; KJV/ESV/NASB: 'Hazarmaveth'"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and-",
+        "literal": "and-[direct-object-marker]",
+        "source": "H853; KJV/ESV/NASB: 'and' (with object marker not translated)"
+      },
+      {
+        "position": 10,
+        "surface": "יָֽרַח",
+        "phrase": "Jerah",
+        "literal": "Jerah",
+        "source": "H3392; KJV/ESV/NASB: 'Jerah'"
+      }
+    ]
+  }
+]

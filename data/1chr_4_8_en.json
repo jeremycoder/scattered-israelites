@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verse": 8,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/ק֣וֹץ",
+        "phrase": "and Koz",
+        "literal": "and-Koz",
+        "source": "H6976 (KJV: Coz; ESV/NASB: Koz)"
+      },
+      {
+        "position": 2,
+        "surface": "הוֹלִ֔יד",
+        "phrase": "begat",
+        "literal": "caused-to-be-born",
+        "source": "H3205 (KJV: begat; ESV: was the father of; NASB: became the father of)"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[et]",
+        "source": "H853 (KJV/ESV/NASB: [implied in 'Anub'])"
+      },
+      {
+        "position": 4,
+        "surface": "עָנ֖וּב",
+        "phrase": "Anub",
+        "literal": "Anub",
+        "source": "H6036 (KJV/ESV/NASB: Anub)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and [direct object marker]",
+        "literal": "and-[et]",
+        "source": "H853 (KJV/ESV/NASB: and [implied in 'Zobebah'])"
+      },
+      {
+        "position": 6,
+        "surface": "הַ/צֹּבֵבָ֑ה",
+        "phrase": "Zobebah",
+        "literal": "the-Zobebah",
+        "source": "H6637 (KJV: Zobebah; ESV/NASB: Zobebah/Hazzobebah)"
+      },
+      {
+        "position": 7,
+        "surface": "וּ/מִשְׁפְּח֥וֹת",
+        "phrase": "and the families",
+        "literal": "and-families-of",
+        "source": "H4940 (KJV: the families; ESV/NASB: the families/clans)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲחַרְחֵ֖ל",
+        "phrase": "of Aharhel",
+        "literal": "Aharhel",
+        "source": "H316 (KJV/ESV/NASB: Aharhel)"
+      },
+      {
+        "position": 9,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son",
+        "source": "H1121 (KJV/ESV/NASB: son)"
+      },
+      {
+        "position": 10,
+        "surface": "הָרֽוּם",
+        "phrase": "of Harum",
+        "literal": "the-Harum",
+        "source": "H2037 (KJV/ESV/NASB: Harum)"
+      }
+    ]
+  }
+]

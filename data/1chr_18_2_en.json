@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 18,
+    "verse": 2,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יַּ֖ךְ",
+        "phrase": "and he struck",
+        "literal": "and-he-struck",
+        "source": "H5221 (KJV: smote; ESV: defeated; NASB: defeated)"
+      },
+      {
+        "position": 2,
+        "surface": "אֶת",
+        "phrase": "[direct object marker]",
+        "literal": "[direct-object-marker]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 3,
+        "surface": "מוֹאָ֑ב",
+        "phrase": "Moab",
+        "literal": "Moab",
+        "source": "H4124 (KJV: Moab; ESV: Moab; NASB: Moab)"
+      },
+      {
+        "position": 4,
+        "surface": "וַ/יִּהְי֤וּ",
+        "phrase": "and they became",
+        "literal": "and-they-became",
+        "source": "H1961 (KJV: became; ESV: became; NASB: became)"
+      },
+      {
+        "position": 5,
+        "surface": "מוֹאָב֙",
+        "phrase": "Moabites",
+        "literal": "Moab",
+        "source": "H4124 (KJV: Moabites; ESV: Moabites; NASB: Moabites)"
+      },
+      {
+        "position": 6,
+        "surface": "עֲבָדִ֣ים",
+        "phrase": "servants",
+        "literal": "servants",
+        "source": "H5650 (KJV: servants; ESV: servants; NASB: subjects)"
+      },
+      {
+        "position": 7,
+        "surface": "לְ/דָוִ֔יד",
+        "phrase": "to David",
+        "literal": "to-David",
+        "source": "H1732 (KJV: David's; ESV: David's; NASB: David's)"
+      },
+      {
+        "position": 8,
+        "surface": "נֹשְׂאֵ֖י",
+        "phrase": "bearing",
+        "literal": "bearers-of",
+        "source": "H5375 (KJV: brought; ESV: brought; NASB: brought)"
+      },
+      {
+        "position": 9,
+        "surface": "מִנְחָֽה",
+        "phrase": "tribute",
+        "literal": "tribute",
+        "source": "H4503 (KJV: gifts; ESV: tribute; NASB: tribute)"
+      }
+    ]
+  }
+]

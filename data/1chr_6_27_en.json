@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 27,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'his son' (possessive construct form)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵיתָ֥ן",
+        "phrase": "Ethan",
+        "literal": "Ethan",
+        "source": "H387; KJV/ESV/NASB: 'Eliab' (variant reading; MT has אֵיתָן 'Ethan', but English versions follow tradition as Eliab/Elihu)"
+      },
+      {
+        "position": 3,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'his son' (possessive construct form)"
+      },
+      {
+        "position": 4,
+        "surface": "זִמָּ֖ה",
+        "phrase": "Jeroham",
+        "literal": "Jeroham",
+        "source": "H2155; KJV/ESV/NASB: 'Jeroham' (proper name, 'may He be compassionate')"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'his son' (possessive construct form)"
+      },
+      {
+        "position": 6,
+        "surface": "שִׁמְעִֽי",
+        "phrase": "Shimei",
+        "literal": "Shimei",
+        "source": "H8096; KJV/ESV/NASB: 'Elkanah' (contextual; some texts link to Elkanah line, but MT שִׁמְעִי 'Shimei')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verse": 26,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "from",
+        "literal": "from",
+        "source": "H4480 (KJV: 'of'; ESV/NASB: 'from')"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV/ESV/NASB: 'children/sons of')"
+      },
+      {
+        "position": 3,
+        "surface": "שִׁמְע֗וֹן",
+        "phrase": "Simeon",
+        "literal": "Simeon",
+        "source": "H8095 (KJV/ESV/NASB: 'Simeon')"
+      },
+      {
+        "position": 4,
+        "surface": "גִּבּ֤וֹרֵי",
+        "phrase": "mighty men",
+        "literal": "mighty-men",
+        "source": "H1368 (KJV: 'mighty men'; ESV/NASB: 'mighty men/warriors')"
+      },
+      {
+        "position": 5,
+        "surface": "חַ֨יִל֙",
+        "phrase": "of valor",
+        "literal": "valour",
+        "source": "H2428 (KJV/ESV/NASB: 'men of valor/valor')"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/צָּבָ֔א",
+        "phrase": "for the army",
+        "literal": "to-the-army",
+        "source": "H6635 (KJV/ESV/NASB: 'army/host')"
+      },
+      {
+        "position": 7,
+        "surface": "שִׁבְעַ֥ת",
+        "phrase": "seven",
+        "literal": "seven",
+        "source": "H7651 (KJV/ESV/NASB: 'seven')"
+      },
+      {
+        "position": 8,
+        "surface": "אֲלָפִ֖ים",
+        "phrase": "thousand",
+        "literal": "thousands",
+        "source": "H505 (KJV/ESV/NASB: 'thousand[s]')"
+      },
+      {
+        "position": 9,
+        "surface": "וּ/מֵאָֽה",
+        "phrase": "and a hundred",
+        "literal": "and-hundred",
+        "source": "H3967 (KJV/ESV/NASB: 'and hundred')"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 10,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/כ֖וּשׁ",
+        "phrase": "And Cush",
+        "literal": "and-Cush",
+        "source": "H3568: KJV 'And Cush'; ESV 'Cush'; NASB 'Cush' (proper name, father of Nimrod)"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֣ד",
+        "phrase": "begat",
+        "literal": "he-begat",
+        "source": "H3205: KJV 'begat'; ESV 'fathered'; NASB 'became the father of'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "-",
+        "literal": "[direct-object-marker]",
+        "source": "H853: KJV (implied); ESV (implied); NASB (implied) (accusative marker)"
+      },
+      {
+        "position": 4,
+        "surface": "נִמְר֑וֹד",
+        "phrase": "Nimrod",
+        "literal": "Nimrod",
+        "source": "H5248: KJV 'Nimrod'; ESV 'Nimrod'; NASB 'Nimrod' (proper name)"
+      },
+      {
+        "position": 5,
+        "surface": "ה֣וּא",
+        "phrase": "he",
+        "literal": "he",
+        "source": "H1931: KJV 'he'; ESV 'He'; NASB 'He' (emphatic pronoun)"
+      },
+      {
+        "position": 6,
+        "surface": "הֵחֵ֔ל",
+        "phrase": "began",
+        "literal": "he-began",
+        "source": "H2490: KJV 'began'; ESV 'began'; NASB 'began'"
+      },
+      {
+        "position": 7,
+        "surface": "לִ/הְי֥וֹת",
+        "phrase": "to be",
+        "literal": "to/be",
+        "source": "H1961: KJV 'to be'; ESV 'to be'; NASB 'to be'"
+      },
+      {
+        "position": 8,
+        "surface": "גִּבּ֖וֹר",
+        "phrase": "a mighty one",
+        "literal": "mighty-man",
+        "source": "H1368: KJV 'mighty'; ESV 'mighty one'; NASB 'mighty one' (warrior, tyrant, or powerful figure)"
+      },
+      {
+        "position": 9,
+        "surface": "בָּ/אָֽרֶץ",
+        "phrase": "in the earth",
+        "literal": "in-the-earth",
+        "source": "H776: KJV 'upon the earth'; ESV 'in the earth'; NASB 'on the earth'"
+      }
+    ]
+  }
+]

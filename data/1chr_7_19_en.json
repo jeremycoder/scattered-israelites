@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 7,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּהְי֖וּ",
+        "phrase": "And they were",
+        "literal": "and-they-were",
+        "source": "H1961: KJV 'And', ESV 'The sons', NASB 'The sons' (waw-consecutive + verb 'to be'; translations vary on rendering as 'And the sons' or separate conjunction)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵ֣י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121: KJV 'sons', ESV 'sons', NASB 'sons' (consistent across versions as 'sons')"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁמִידָ֑ע",
+        "phrase": "Shemida",
+        "literal": "Shemida",
+        "source": "H8061: KJV 'Shemida', ESV 'Shemida', NASB 'Shemida' (proper name, identical rendering)"
+      },
+      {
+        "position": 4,
+        "surface": "אַחְיָ֣ן",
+        "phrase": "Ahian",
+        "literal": "Ahian",
+        "source": "H291: KJV 'Ahian', ESV 'Ahian', NASB 'Ahian' (proper name, identical rendering)"
+      },
+      {
+        "position": 5,
+        "surface": "וָ/שֶׁ֔כֶם",
+        "phrase": "and Shechem",
+        "literal": "and-Shechem",
+        "source": "H7928: KJV 'Shechem', ESV 'Shechem', NASB 'Shechem' (proper name; conjunction often integrated)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/לִקְחִ֖י",
+        "phrase": "and Likhi",
+        "literal": "and-Likhi",
+        "source": "H3949: KJV 'Likhi', ESV 'Likhi', NASB 'Likhi' (proper name, identical rendering)"
+      },
+      {
+        "position": 7,
+        "surface": "וַ/אֲנִיעָֽם",
+        "phrase": "and Aniam",
+        "literal": "and-Aniam",
+        "source": "H593: KJV 'Aniam', ESV 'Aniam', NASB 'Aniam' (proper name, identical rendering)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/יֵשׁ֨וּעַ֙",
+        "phrase": "to Jeshua",
+        "literal": "to-Jeshua",
+        "source": "H3442; KJV: Ieshua, ESV/NASB: Jeshua"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/תְּשִׁעִ֔י",
+        "phrase": "the ninth",
+        "literal": "the-ninth",
+        "source": "H8671; KJV/ESV/NASB: the ninth"
+      },
+      {
+        "position": 3,
+        "surface": "לִ/שְׁכַנְיָ֖הוּ",
+        "phrase": "to Shecaniah",
+        "literal": "to-Shecaniah",
+        "source": "H7935; KJV/ESV/NASB: Shecaniah"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/עֲשִׂרִֽי",
+        "phrase": "the tenth",
+        "literal": "the-tenth",
+        "source": "H6224; KJV/ESV/NASB: the tenth"
+      }
+    ]
+  }
+]

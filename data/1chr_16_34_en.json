@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "הוֹד֤וּ",
+        "phrase": "give thanks",
+        "literal": "give-thanks",
+        "source": "H3034 (KJV: 'O give thanks'; ESV: 'Oh give thanks'; NASB: 'O give thanks')"
+      },
+      {
+        "position": 2,
+        "surface": "לַ/יהוָה֙",
+        "phrase": "to YHWH",
+        "literal": "to-YHWH",
+        "source": "H3068 (KJV: 'unto the LORD'; ESV: 'to the Lord'; NASB: 'to the Lord')"
+      },
+      {
+        "position": 3,
+        "surface": "כִּ֣י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "H3588 (KJV: 'for'; ESV: 'for'; NASB: 'for')"
+      },
+      {
+        "position": 4,
+        "surface": "ט֔וֹב",
+        "phrase": "good",
+        "literal": "good",
+        "source": "H2896 (KJV: 'he is good'; ESV: 'he is good'; NASB: 'He is good')"
+      },
+      {
+        "position": 5,
+        "surface": "כִּ֥י",
+        "phrase": "for",
+        "literal": "that",
+        "source": "H3588 (KJV: 'for'; ESV: 'for'; NASB: 'For')"
+      },
+      {
+        "position": 6,
+        "surface": "לְ/עוֹלָ֖ם",
+        "phrase": "forever",
+        "literal": "to-everlasting",
+        "source": "H5769 (KJV: 'for ever'; ESV: 'forever'; NASB: 'is everlasting')"
+      },
+      {
+        "position": 7,
+        "surface": "חַסְדּֽ/וֹ",
+        "phrase": "his lovingkindness",
+        "literal": "lovingkindness-his",
+        "source": "H2617 (KJV: 'his mercy'; ESV: 'his steadfast love'; NASB: 'His lovingkindness')"
+      }
+    ]
+  }
+]

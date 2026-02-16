@@ -1,0 +1,46 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "verse": 41,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֽוּרִיָּה֙",
+        "phrase": "Uriah",
+        "literal": "Uriah",
+        "source": "H223; KJV/ESV/NASB: 'Uriah' (proper name, David's mighty man, Bathsheba's husband)"
+      },
+      {
+        "position": 2,
+        "surface": "הַ/חִתִּ֔י",
+        "phrase": "the Hittite",
+        "literal": "the-Hittite",
+        "source": "H2850; KJV/ESV/NASB: 'the Hittite' (ethnic designation)"
+      },
+      {
+        "position": 3,
+        "surface": "זָבָ֖ד",
+        "phrase": "Zabad",
+        "literal": "Zabad",
+        "source": "H2066; KJV/ESV/NASB: 'Zabad' (proper name)"
+      },
+      {
+        "position": 4,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: 'son' (in construct with following name)"
+      },
+      {
+        "position": 5,
+        "surface": "אַחְלָֽי",
+        "phrase": "Ahlai",
+        "literal": "Ahlai",
+        "source": "H304; KJV/ESV/NASB: 'Ahlai' (proper name, father of Zabad)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 6,
+    "verse": 49,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יִּתְּנ֥וּ",
+        "phrase": "and they gave",
+        "literal": "and-they-gave",
+        "source": "H5414 (KJV: gave; ESV: gave; NASB: gave)"
+      },
+      {
+        "position": 2,
+        "surface": "בְנֵי",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשְׂרָאֵ֖ל",
+        "phrase": "Israel",
+        "literal": "Israel",
+        "source": "H3478 (KJV: Israel; ESV: Israel; NASB: Israel)"
+      },
+      {
+        "position": 4,
+        "surface": "לַ/לְוִיִּ֑ם",
+        "phrase": "to the Levites",
+        "literal": "to-the-Levites",
+        "source": "H3881 (KJV: Levites; ESV: Levites; NASB: Levites)"
+      },
+      {
+        "position": 5,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "[direct-object]",
+        "source": "H853 (KJV: [implied]; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 6,
+        "surface": "הֶ/עָרִ֖ים",
+        "phrase": "the cities",
+        "literal": "the-cities",
+        "source": "H5892 (KJV: cities; ESV: cities; NASB: cities)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אֶת",
+        "phrase": "and",
+        "literal": "and-[direct-object]",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 8,
+        "surface": "מִגְרְשֵׁי/הֶֽם",
+        "phrase": "their pasturelands",
+        "literal": "pasturelands-of-them",
+        "source": "H4054 (KJV: suburbs; ESV: pasturelands; NASB: pasturelands)"
+      }
+    ]
+  }
+]

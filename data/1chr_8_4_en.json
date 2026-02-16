@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 4,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/אֲבִישׁ֥וּעַ",
+        "phrase": "and Abishua",
+        "literal": "and-Abishua",
+        "source": "H50; KJV: And Abishua, ESV: Abishua, NASB: Abishua"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/נַעֲמָ֖ן",
+        "phrase": "and Naaman",
+        "literal": "and-Naaman",
+        "source": "H5283; KJV: and Naaman, ESV: Naaman, NASB: Naaman"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/אֲחֽוֹחַ",
+        "phrase": "and Ahoah",
+        "literal": "and-Ahoah",
+        "source": "H265; KJV: and Ahoah, ESV: Ahoah, NASB: Ahoah"
+      }
+    ]
+  }
+]

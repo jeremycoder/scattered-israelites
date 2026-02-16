@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 7,
+    "verse": 34,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/בְנֵ֖י",
+        "phrase": "And the sons of",
+        "literal": "and-sons-of",
+        "source": "H1121; KJV/ESV/NASB: 'the sons of' or 'And the sons of'"
+      },
+      {
+        "position": 2,
+        "surface": "שָׁ֑מֶר",
+        "phrase": "Shemer",
+        "literal": "Shemer",
+        "source": "H8106; KJV/ESV: 'Shemer'; NASB: 'Shomer' (alt. form from v.32)"
+      },
+      {
+        "position": 3,
+        "surface": "אֲחִ֥י",
+        "phrase": "Ahi",
+        "literal": "Ahi",
+        "source": "H277; KJV/ESV/NASB: 'Ahi'"
+      },
+      {
+        "position": 4,
+        "surface": "ו/רוהגה",
+        "phrase": "Rohgah",
+        "literal": "and-Rohgah",
+        "source": "H7303; KJV/ESV/NASB: 'Rohgah' (variant form)"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/רָהְגָּ֖ה",
+        "phrase": "Rohgah",
+        "literal": "and-Rohgah",
+        "source": "H7303; KJV/ESV/NASB: 'Rohgah'"
+      },
+      {
+        "position": 6,
+        "surface": "יחבה",
+        "phrase": "Jehubbah",
+        "literal": "Jehubbah",
+        "source": "H3160; KJV: 'Jehubbah'; ESV/NASB: 'Hubbah'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/חֻבָּ֥ה",
+        "phrase": "Hubbah",
+        "literal": "and-Hubbah",
+        "source": "H3160; KJV: 'Jehubbah'; ESV/NASB: 'Hubbah'"
+      },
+      {
+        "position": 8,
+        "surface": "וַ/אֲרָֽם",
+        "phrase": "and Aram",
+        "literal": "and-Aram",
+        "source": "H758; KJV/ESV/NASB: 'and Aram'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 17,
+    "verse": 20,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יְהוָה֙",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068 (KJV: LORD; ESV: O LORD; NASB: O LORD)"
+      },
+      {
+        "position": 2,
+        "surface": "אֵ֣ין",
+        "phrase": "there is not",
+        "literal": "not-is",
+        "source": "H369 (KJV: none; ESV: none; NASB: no)"
+      },
+      {
+        "position": 3,
+        "surface": "כָּמ֔וֹ/ךָ",
+        "phrase": "like you",
+        "literal": "like-you",
+        "source": "H3644 (KJV: like thee; ESV: like you; NASB: like You)"
+      },
+      {
+        "position": 4,
+        "surface": "וְ/אֵ֥ין",
+        "phrase": "and there is not",
+        "literal": "and-not-is",
+        "source": "H369 (KJV: neither; ESV: nor; NASB: nor)"
+      },
+      {
+        "position": 5,
+        "surface": "אֱלֹהִ֖ים",
+        "phrase": "God",
+        "literal": "gods",
+        "source": "H430 (KJV: God; ESV: God; NASB: God)"
+      },
+      {
+        "position": 6,
+        "surface": "זוּלָתֶ֑/ךָ",
+        "phrase": "besides you",
+        "literal": "except-you",
+        "source": "H2108 (KJV: beside thee; ESV: besides you; NASB: besides You)"
+      },
+      {
+        "position": 7,
+        "surface": "בְּ/כֹ֥ל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "H3605 (KJV: according to all; ESV: according to all; NASB: in all)"
+      },
+      {
+        "position": 8,
+        "surface": "אֲשֶׁר",
+        "phrase": "that",
+        "literal": "which",
+        "source": "H834 (KJV: according to all that; ESV: according to all that; NASB: which)"
+      },
+      {
+        "position": 9,
+        "surface": "שָׁמַ֖עְנוּ",
+        "phrase": "we have heard",
+        "literal": "we-have-heard",
+        "source": "H8085 (KJV: we have heard; ESV: we have heard; NASB: we have heard)"
+      },
+      {
+        "position": 10,
+        "surface": "בְּ/אָזְנֵֽי/נוּ",
+        "phrase": "with our ears",
+        "literal": "in-ears-our",
+        "source": "H241 (KJV: with our ears; ESV: with our ears; NASB: with our ears)"
+      }
+    ]
+  }
+]

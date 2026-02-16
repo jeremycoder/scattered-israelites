@@ -1,0 +1,88 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 11,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִצְרַ֡יִם",
+        "phrase": "And Mizraim",
+        "literal": "and-Mizraim",
+        "source": "H4714; KJV/NASB/ESV: 'Mizraim' or 'Egypt'"
+      },
+      {
+        "position": 2,
+        "surface": "יָלַ֞ד",
+        "phrase": "begot",
+        "literal": "begot",
+        "source": "H3205; KJV/ESV/NASB: 'begat'/'fathered'/'was the father of'"
+      },
+      {
+        "position": 3,
+        "surface": "אֶת",
+        "phrase": "direct object marker",
+        "literal": "direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 4,
+        "surface": "לודיים",
+        "phrase": "the Ludites",
+        "literal": "Ludites",
+        "source": "H3866; KJV/ESV/NASB: 'Ludim'"
+      },
+      {
+        "position": 5,
+        "surface": "לוּדִ֧ים",
+        "phrase": "Ludites",
+        "literal": "Ludites",
+        "source": "H3866; KJV/ESV/NASB: 'Ludim'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/אֶת",
+        "phrase": "and direct object marker",
+        "literal": "and-direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 7,
+        "surface": "עֲנָמִ֛ים",
+        "phrase": "the Anamites",
+        "literal": "Anamites",
+        "source": "H6047; KJV/ESV/NASB: 'Anamim'"
+      },
+      {
+        "position": 8,
+        "surface": "וְ/אֶת",
+        "phrase": "and direct object marker",
+        "literal": "and-direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 9,
+        "surface": "לְהָבִ֖ים",
+        "phrase": "the Lehabites",
+        "literal": "Lehabites",
+        "source": "H3853; KJV/ESV/NASB: 'Lehabim'"
+      },
+      {
+        "position": 10,
+        "surface": "וְ/אֶת",
+        "phrase": "and direct object marker",
+        "literal": "and-direct-object-marker",
+        "source": "H853; KJV/ESV/NASB: (untranslated)"
+      },
+      {
+        "position": 11,
+        "surface": "נַפְתֻּחִֽים",
+        "phrase": "the Naphtuhites",
+        "literal": "Naphtuhites",
+        "source": "H5320; KJV/ESV/NASB: 'Naphtuhim'"
+      }
+    ]
+  }
+]

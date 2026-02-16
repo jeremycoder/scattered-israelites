@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 45,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וַ/יָּ֖מָת",
+        "phrase": "And died",
+        "literal": "and-he-died",
+        "source": "H4191 (KJV: 'when ... was dead'; ESV: 'died'; NASB: 'died')"
+      },
+      {
+        "position": 2,
+        "surface": "יוֹבָ֑ב",
+        "phrase": "Jobab",
+        "literal": "Jobab",
+        "source": "H3103 (KJV: 'Jobab'; ESV: 'Jobab'; NASB: 'Jobab')"
+      },
+      {
+        "position": 3,
+        "surface": "וַ/יִּמְלֹ֣ךְ",
+        "phrase": "and reigned",
+        "literal": "and-he-reigned",
+        "source": "H4427 (KJV: 'reigned'; ESV: 'reigned'; NASB: 'became king')"
+      },
+      {
+        "position": 4,
+        "surface": "תַּחְתָּ֔י/ו",
+        "phrase": "in his place",
+        "literal": "under-him",
+        "source": "H8478 (KJV: 'in his stead'; ESV: 'in his place'; NASB: 'in his place')"
+      },
+      {
+        "position": 5,
+        "surface": "חוּשָׁ֖ם",
+        "phrase": "Husham",
+        "literal": "Husham",
+        "source": "H2367 (KJV: 'Husham'; ESV: 'Husham'; NASB: 'Husham')"
+      },
+      {
+        "position": 6,
+        "surface": "מֵ/אֶ֥רֶץ",
+        "phrase": "from land",
+        "literal": "from-land",
+        "source": "H776 (KJV: 'of the land'; ESV: 'of the land'; NASB: 'of the land')"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/תֵּימָנִֽי",
+        "phrase": "the Temanite",
+        "literal": "the-Temanite",
+        "source": "H8489 (KJV: 'Temanites'; ESV: 'Temanites'; NASB: 'Temanites')"
+      }
+    ]
+  }
+]

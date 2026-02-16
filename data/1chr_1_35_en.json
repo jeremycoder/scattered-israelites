@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 35,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֖י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "עֵשָׂ֑ו",
+        "phrase": "Esau",
+        "literal": "Esau",
+        "source": "H6215 (KJV: Esau; ESV: Esau; NASB: Esau)"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלִיפַ֛ז",
+        "phrase": "Eliphaz",
+        "literal": "Eliphaz",
+        "source": "H464 (KJV: Eliphaz; ESV: Eliphaz; NASB: Eliphaz)"
+      },
+      {
+        "position": 4,
+        "surface": "רְעוּאֵ֥ל",
+        "phrase": "Reuel",
+        "literal": "Reuel",
+        "source": "H7467 (KJV: Reuel; ESV: Reuel; NASB: Reuel)"
+      },
+      {
+        "position": 5,
+        "surface": "וִ/יע֖וּשׁ",
+        "phrase": "and Jeush",
+        "literal": "and-Jeush",
+        "source": "H3266 (KJV: Jeush; ESV: Jeush; NASB: Jeush)"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/יַעְלָ֥ם",
+        "phrase": "and Jalam",
+        "literal": "and-Jalam",
+        "source": "H3281 (KJV: Jaalam; ESV: Jalam; NASB: Jalam)"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/קֹֽרַח",
+        "phrase": "and Korah",
+        "literal": "and-Korah",
+        "source": "H7141 (KJV: Korah; ESV: Korah; NASB: Korah)"
+      }
+    ]
+  }
+]

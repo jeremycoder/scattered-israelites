@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "שֵׁ֥ם",
+        "phrase": "Shem",
+        "literal": "Shem",
+        "source": "H8035; KJV: Shem, ESV: Shem, NASB: Shem"
+      },
+      {
+        "position": 2,
+        "surface": "אַרְפַּכְשַׁ֖ד",
+        "phrase": "Arphaxad",
+        "literal": "Arphaxad",
+        "source": "H775; KJV: Arphaxad, ESV: Arpachshad, NASB: Arpachshad"
+      },
+      {
+        "position": 3,
+        "surface": "שָֽׁלַח",
+        "phrase": "Shelah",
+        "literal": "Shelah",
+        "source": "H7974; KJV: Shelah, ESV: Shelah, NASB: Shelah"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verse": 30,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/מִן",
+        "phrase": "And some of",
+        "literal": "and-from",
+        "source": "H4480; KJV: 'And some of', ESV: 'And some of', NASB: 'Some of'"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵי֙",
+        "phrase": "the sons of",
+        "literal": "sons-of",
+        "source": "H1121; KJV: 'sons of', ESV: 'sons of', NASB: 'sons of'"
+      },
+      {
+        "position": 3,
+        "surface": "הַ/כֹּ֣הֲנִ֔ים",
+        "phrase": "the priests",
+        "literal": "the-priests",
+        "source": "H3548; KJV: 'the priests', ESV: 'the priests', NASB: 'the priests'"
+      },
+      {
+        "position": 4,
+        "surface": "רֹקְחֵ֥י",
+        "phrase": "mixers of",
+        "literal": "mixers-of",
+        "source": "H7543; KJV: 'made', ESV: 'prepared', NASB: 'mixed'"
+      },
+      {
+        "position": 5,
+        "surface": "הַ/מִּרְקַ֖חַת",
+        "phrase": "the ointment",
+        "literal": "the-mixture",
+        "source": "H4842; KJV: 'ointment', ESV: 'confection', NASB: 'mixture'"
+      },
+      {
+        "position": 6,
+        "surface": "לַ/בְּשָׂמִֽים",
+        "phrase": "for the spices",
+        "literal": "to-the-spices",
+        "source": "H1314; KJV: 'spices', ESV: 'spices', NASB: 'spices"
+      }
+    ]
+  }
+]

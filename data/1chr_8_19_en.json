@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 19,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/יָקִ֥ים",
+        "phrase": "and Jakim",
+        "literal": "and-Jakim",
+        "source": "H3356; KJV/ESV/NASB: 'Jakim' (proper name, 'He will raise up')"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/זִכְרִ֖י",
+        "phrase": "and Zichri",
+        "literal": "and-Zichri",
+        "source": "H2147; KJV/ESV/NASB: 'Zichri' (proper name, 'memorable')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/זַבְדִּֽי",
+        "phrase": "and Zabdi",
+        "literal": "and-Zabdi",
+        "source": "H2067; KJV/ESV/NASB: 'Zabdi' (proper name, 'gift')"
+      }
+    ]
+  }
+]

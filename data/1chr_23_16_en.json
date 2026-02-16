@@ -1,0 +1,39 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "בְּנֵ֥י",
+        "phrase": "sons of",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: sons; ESV: sons; NASB: sons)"
+      },
+      {
+        "position": 2,
+        "surface": "גֵרְשׁ֖וֹם",
+        "phrase": "Gershom",
+        "literal": "Gershom",
+        "source": "H1647 (KJV: Gershom; ESV: Gershom; NASB: Gershom)"
+      },
+      {
+        "position": 3,
+        "surface": "שְׁבוּאֵ֥ל",
+        "phrase": "Shebuel",
+        "literal": "Shebuel",
+        "source": "H7619 (KJV: Shebuel; ESV: Shebuel; NASB: Shebuel)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רֹֽאשׁ",
+        "phrase": "the chief",
+        "literal": "the-head",
+        "source": "H7218 (KJV: chief; ESV: chief; NASB: chief)"
+      }
+    ]
+  }
+]

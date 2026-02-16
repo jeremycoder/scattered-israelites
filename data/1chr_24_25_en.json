@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verse": 25,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֲחִ֤י",
+        "phrase": "brother",
+        "literal": "brother-of",
+        "source": "H251 (KJV: brother; ESV: brother; NASB: brother)"
+      },
+      {
+        "position": 2,
+        "surface": "מִיכָה֙",
+        "phrase": "Micah",
+        "literal": "Micah",
+        "source": "H4318 (KJV: Micah; ESV: Micah; NASB: Micah)"
+      },
+      {
+        "position": 3,
+        "surface": "יִשִּׁיָּ֔ה",
+        "phrase": "Isshiah",
+        "literal": "Isshiah",
+        "source": "H3449 (KJV: Isshiah; ESV: Isshiah; NASB: Isshiah)"
+      },
+      {
+        "position": 4,
+        "surface": "לִ/בְנֵ֥י",
+        "phrase": "of the sons of",
+        "literal": "to/of-sons-of",
+        "source": "H1121 (KJV: of the sons; ESV: of the sons; NASB: of the sons)"
+      },
+      {
+        "position": 5,
+        "surface": "יִשִּׁיָּ֖ה",
+        "phrase": "Isshiah",
+        "literal": "Isshiah",
+        "source": "H3449 (KJV: Isshiah; ESV: Isshiah; NASB: Isshiah)"
+      },
+      {
+        "position": 6,
+        "surface": "זְכַרְיָֽהוּ",
+        "phrase": "Zechariah",
+        "literal": "Zechariah",
+        "source": "H2148 (KJV: Zechariah; ESV: Zechariah; NASB: Zechariah)"
+      }
+    ]
+  }
+]

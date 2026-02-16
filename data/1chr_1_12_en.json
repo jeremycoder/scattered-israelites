@@ -1,0 +1,81 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 12,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְֽ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: And; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 2,
+        "surface": "פַּתְרֻסִ֞ים",
+        "phrase": "Pathrusites",
+        "literal": "Pathrusites",
+        "source": "H6625 (KJV: Pathrusim; ESV: Pathrusim; NASB: Pathrus)"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: [implied]; NASB: [implied])"
+      },
+      {
+        "position": 4,
+        "surface": "כַּסְלֻחִ֗ים",
+        "phrase": "Casluhites",
+        "literal": "Casluhites",
+        "source": "H3695 (KJV: Casluhim; ESV: Casluhim; NASB: Casluh)"
+      },
+      {
+        "position": 5,
+        "surface": "אֲשֶׁ֨ר",
+        "phrase": "from whom",
+        "literal": "which",
+        "source": "H834 (KJV: of whom; ESV: from whom; NASB: from which)"
+      },
+      {
+        "position": 6,
+        "surface": "יָצְא֥וּ",
+        "phrase": "came",
+        "literal": "went-out-they",
+        "source": "H3318 (KJV: came; ESV: came; NASB: came)"
+      },
+      {
+        "position": 7,
+        "surface": "מִ/שָּׁ֛ם",
+        "phrase": "from there",
+        "literal": "from-there",
+        "source": "H8033 (KJV: [implied]; ESV: from [it]; NASB: [implied])"
+      },
+      {
+        "position": 8,
+        "surface": "פְּלִשְׁתִּ֖ים",
+        "phrase": "Philistines",
+        "literal": "Philistines",
+        "source": "H6430 (KJV: Philistines; ESV: Philistines; NASB: Philistines)"
+      },
+      {
+        "position": 9,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: and; ESV: and; NASB: and)"
+      },
+      {
+        "position": 10,
+        "surface": "כַּפְתֹּרִֽים",
+        "phrase": "Caphtorites",
+        "literal": "Caphtorites",
+        "source": "H3732 (KJV: Caphthorim; ESV: Caphtorim; NASB: Caphtor)"
+      }
+    ]
+  }
+]

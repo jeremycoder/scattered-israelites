@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verse": 24,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לְ/אַרְבַּ֣ע",
+        "phrase": "to the four",
+        "literal": "to-four",
+        "source": "H702 (KJV: quarters; ESV: sides; NASB: sides)"
+      },
+      {
+        "position": 2,
+        "surface": "רוּח֔וֹת",
+        "phrase": "winds/directions",
+        "literal": "winds",
+        "source": "H7307 (KJV: quarters; ESV: sides; NASB: sides)"
+      },
+      {
+        "position": 3,
+        "surface": "יִהְי֖וּ",
+        "phrase": "were",
+        "literal": "they-were",
+        "source": "H1961 (KJV: were; ESV: were; NASB: were)"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שֹּׁעֲרִ֑ים",
+        "phrase": "the gatekeepers",
+        "literal": "the-gatekeepers",
+        "source": "H7778 (KJV: porters; ESV: gatekeepers; NASB: gatekeepers)"
+      },
+      {
+        "position": 5,
+        "surface": "מִזְרָ֥ח",
+        "phrase": "east",
+        "literal": "east",
+        "source": "H4217 (KJV: east; ESV: east; NASB: east)"
+      },
+      {
+        "position": 6,
+        "surface": "יָ֖מָּ/ה",
+        "phrase": "west",
+        "literal": "sea-ward",
+        "source": "H3220 (KJV: west; ESV: west; NASB: west)"
+      },
+      {
+        "position": 7,
+        "surface": "צָפ֥וֹנָ/ה",
+        "phrase": "north",
+        "literal": "north-ward",
+        "source": "H6828 (KJV: north; ESV: north; NASB: north)"
+      },
+      {
+        "position": 8,
+        "surface": "וָ/נֶֽגְבָּ/ה",
+        "phrase": "and south",
+        "literal": "and-south-ward",
+        "source": "H5045 (KJV: south; ESV: south; NASB: south)"
+      }
+    ]
+  }
+]

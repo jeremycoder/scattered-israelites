@@ -1,0 +1,67 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 29,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "אֵ֖לֶּה",
+        "phrase": "These",
+        "literal": "these",
+        "source": "H428; KJV/ESV/NASB: 'these'"
+      },
+      {
+        "position": 2,
+        "surface": "תֹּלְדוֹתָ֑/ם",
+        "phrase": "are the generations of them",
+        "literal": "generations-of-them",
+        "source": "H8435; KJV: 'generations of them'; ESV/NASB: 'sons of them'"
+      },
+      {
+        "position": 3,
+        "surface": "בְּכ֤וֹר",
+        "phrase": "firstborn",
+        "literal": "firstborn",
+        "source": "H1060; KJV/ESV/NASB: 'firstborn'"
+      },
+      {
+        "position": 4,
+        "surface": "יִשְׁמָעֵאל֙",
+        "phrase": "Ishmael",
+        "literal": "Ishmael",
+        "source": "H3458; KJV/ESV/NASB: 'Ishmael'"
+      },
+      {
+        "position": 5,
+        "surface": "נְבָי֔וֹת",
+        "phrase": "Nebaioth",
+        "literal": "Nebaioth",
+        "source": "H5032; KJV/ESV/NASB: 'Nebaioth'"
+      },
+      {
+        "position": 6,
+        "surface": "וְ/קֵדָ֥ר",
+        "phrase": "and Kedar",
+        "literal": "and-Kedar",
+        "source": "H6938; KJV/ESV/NASB: 'Kedar'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/אַדְבְּאֵ֖ל",
+        "phrase": "and Adbeel",
+        "literal": "and-Adbeel",
+        "source": "H110; KJV/ESV/NASB: 'Adbeel'"
+      },
+      {
+        "position": 8,
+        "surface": "וּ/מִבְשָֽׂם",
+        "phrase": "and Mibsam",
+        "literal": "and-Mibsam",
+        "source": "H4017; KJV/ESV/NASB: 'Mibsam'"
+      }
+    ]
+  }
+]

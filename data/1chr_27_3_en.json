@@ -1,0 +1,74 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 27,
+    "verse": 3,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "מִן",
+        "phrase": "of",
+        "literal": "from",
+        "source": "H4480 (KJV: of; ESV: descendant; NASB: from)"
+      },
+      {
+        "position": 2,
+        "surface": "בְּנֵי",
+        "phrase": "sons",
+        "literal": "sons-of",
+        "source": "H1121 (KJV: children; ESV: descendant; NASB: sons)"
+      },
+      {
+        "position": 3,
+        "surface": "פֶ֗רֶץ",
+        "phrase": "Perez",
+        "literal": "Perez",
+        "source": "H6557 (KJV: Perez; ESV: Perez; NASB: Perez)"
+      },
+      {
+        "position": 4,
+        "surface": "הָ/רֹ֛אשׁ",
+        "phrase": "the chief",
+        "literal": "the-head",
+        "source": "H7218 (KJV: chief; ESV: chief; NASB: chief)"
+      },
+      {
+        "position": 5,
+        "surface": "לְ/כָל",
+        "phrase": "of all",
+        "literal": "to/all",
+        "source": "H3605 (KJV: all; ESV: all; NASB: all)"
+      },
+      {
+        "position": 6,
+        "surface": "שָׂרֵ֥י",
+        "phrase": "commanders",
+        "literal": "commanders-of",
+        "source": "H8269 (KJV: captains; ESV: commanders; NASB: commanders)"
+      },
+      {
+        "position": 7,
+        "surface": "הַ/צְּבָא֖וֹת",
+        "phrase": "the armies",
+        "literal": "the-armies",
+        "source": "H6635 (KJV: host; ESV: commanders; NASB: army)"
+      },
+      {
+        "position": 8,
+        "surface": "לַ/חֹ֥דֶשׁ",
+        "phrase": "for the month",
+        "literal": "to/the-month",
+        "source": "H2320 (KJV: month; ESV: month; NASB: month)"
+      },
+      {
+        "position": 9,
+        "surface": "הָ/רִאשֽׁוֹן",
+        "phrase": "the first",
+        "literal": "the-first",
+        "source": "H7223 (KJV: first; ESV: first; NASB: first)"
+      }
+    ]
+  }
+]

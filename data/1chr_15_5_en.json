@@ -1,0 +1,60 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 15,
+    "verse": 5,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "לִ/בְנֵ֖י",
+        "phrase": "of the sons of",
+        "literal": "to-sons-of",
+        "source": "H1121: KJV 'of the sons', ESV 'of the sons', NASB 'of the sons'"
+      },
+      {
+        "position": 2,
+        "surface": "קְהָ֑ת",
+        "phrase": "Kohath",
+        "literal": "Kohath",
+        "source": "H6955: KJV 'Kohath', ESV 'Kohath', NASB 'Kohath'"
+      },
+      {
+        "position": 3,
+        "surface": "אוּרִיאֵ֣ל",
+        "phrase": "Uriel",
+        "literal": "Uriel",
+        "source": "H222: KJV 'Uriel', ESV 'Uriel', NASB 'Uriel'"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/שָּׂ֔ר",
+        "phrase": "the chief",
+        "literal": "the-prince",
+        "source": "H8269: KJV 'the chief', ESV 'the chief', NASB 'the leader'"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶחָ֖י/ו",
+        "phrase": "and his brothers",
+        "literal": "and-brothers-his",
+        "source": "H251: KJV 'his brethren', ESV 'his brothers', NASB 'his kinsmen'"
+      },
+      {
+        "position": 6,
+        "surface": "מֵאָ֥ה",
+        "phrase": "a hundred",
+        "literal": "a-hundred",
+        "source": "H3967: KJV 'an hundred', ESV '120', NASB '120'"
+      },
+      {
+        "position": 7,
+        "surface": "וְ/עֶשְׂרִֽים",
+        "phrase": "and twenty",
+        "literal": "and-twenty",
+        "source": "H6242: KJV 'and twenty', ESV 'twenty', NASB 'twenty"
+      }
+    ]
+  }
+]

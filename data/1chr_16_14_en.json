@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verse": 14,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "ה֚וּא",
+        "phrase": "He",
+        "literal": "he",
+        "source": "H1931; KJV/ESV/NASB: 'He' (pronoun subject)"
+      },
+      {
+        "position": 2,
+        "surface": "יְהוָ֣ה",
+        "phrase": "YHWH",
+        "literal": "YHWH",
+        "source": "H3068; KJV/ESV/NASB: 'the LORD'"
+      },
+      {
+        "position": 3,
+        "surface": "אֱלֹהֵ֔י/נוּ",
+        "phrase": "our God",
+        "literal": "God-our",
+        "source": "H430; KJV/ESV/NASB: 'our God'"
+      },
+      {
+        "position": 4,
+        "surface": "בְּ/כָל",
+        "phrase": "in all",
+        "literal": "in-all",
+        "source": "H3605; KJV/ESV/NASB: 'in all'/'throughout'"
+      },
+      {
+        "position": 5,
+        "surface": "הָ/אָ֖רֶץ",
+        "phrase": "the earth",
+        "literal": "the-earth",
+        "source": "H776; KJV/ESV/NASB: 'the earth'"
+      },
+      {
+        "position": 6,
+        "surface": "מִשְׁפָּטָֽי/ו",
+        "phrase": "his judgments",
+        "literal": "judgments-his",
+        "source": "H4941; KJV/ESV/NASB: 'his judgments'"
+      }
+    ]
+  }
+]

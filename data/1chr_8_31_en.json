@@ -1,0 +1,32 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verse": 31,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וּ/גְד֥וֹר",
+        "phrase": "and Gedor",
+        "literal": "and-Gedor",
+        "source": "H1446; KJV: Gedor, ESV: Gedor, NASB: Gedor"
+      },
+      {
+        "position": 2,
+        "surface": "וְ/אַחְי֖וֹ",
+        "phrase": "and Ahio",
+        "literal": "and-Ahio",
+        "source": "H283; KJV: Ahio, ESV: Ahio, NASB: Ahio"
+      },
+      {
+        "position": 3,
+        "surface": "וָ/זָֽכֶר",
+        "phrase": "and Zecher",
+        "literal": "and-Zecher",
+        "source": "H2144; KJV: Zacher, ESV: Zecher, NASB: Zecher"
+      }
+    ]
+  }
+]

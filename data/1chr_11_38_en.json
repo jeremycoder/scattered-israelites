@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "verse": 38,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "יוֹאֵל֙",
+        "phrase": "Joel",
+        "literal": "Joel",
+        "source": "H3100; KJV/ESV/NASB: Joel"
+      },
+      {
+        "position": 2,
+        "surface": "אֲחִ֣י",
+        "phrase": "the brother of",
+        "literal": "brother-of",
+        "source": "H251; KJV/ESV/NASB: the brother of"
+      },
+      {
+        "position": 3,
+        "surface": "נָתָ֔ן",
+        "phrase": "Nathan",
+        "literal": "Nathan",
+        "source": "H5416; KJV/ESV/NASB: Nathan"
+      },
+      {
+        "position": 4,
+        "surface": "מִבְחָ֖ר",
+        "phrase": "Mibhar",
+        "literal": "Mibhar",
+        "source": "H4006; KJV/ESV/NASB: Mibhar"
+      },
+      {
+        "position": 5,
+        "surface": "בֶּן",
+        "phrase": "son of",
+        "literal": "son-of",
+        "source": "H1121; KJV/ESV/NASB: the son of"
+      },
+      {
+        "position": 6,
+        "surface": "הַגְרִֽי",
+        "phrase": "Hagri",
+        "literal": "the-Hagri",
+        "source": "H1905; KJV: Haggeri, ESV/NASB: Hagri"
+      }
+    ]
+  }
+]

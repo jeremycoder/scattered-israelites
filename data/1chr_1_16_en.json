@@ -1,0 +1,53 @@
+[
+  {
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verse": 16,
+    "language_code": "en",
+    "language_name": "English",
+    "words": [
+      {
+        "position": 1,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'the'; NASB: 'the')"
+      },
+      {
+        "position": 2,
+        "surface": "הָ/אַרְוָדִ֥י",
+        "phrase": "Arvadite",
+        "literal": "the-Arvadite",
+        "source": "H721 (KJV: 'Arvadite'; ESV: 'Arvadites'; NASB: 'Arvadites')"
+      },
+      {
+        "position": 3,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'the'; NASB: 'the')"
+      },
+      {
+        "position": 4,
+        "surface": "הַ/צְּמָרִ֖י",
+        "phrase": "Zemarite",
+        "literal": "the-Zemarite",
+        "source": "H6786 (KJV: 'Zemarite'; ESV: 'Zemarites'; NASB: 'Zemarites')"
+      },
+      {
+        "position": 5,
+        "surface": "וְ/אֶת",
+        "phrase": "and the",
+        "literal": "and-obj",
+        "source": "H853 (KJV: 'and the'; ESV: 'the'; NASB: 'the')"
+      },
+      {
+        "position": 6,
+        "surface": "הַֽ/חֲמָתִֽי",
+        "phrase": "Hamathite",
+        "literal": "the-Hamathite",
+        "source": "H2577 (KJV: 'Hamathite'; ESV: 'Hamathites'; NASB: 'Hamathites')"
+      }
+    ]
+  }
+]
